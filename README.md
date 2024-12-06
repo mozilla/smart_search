@@ -1,2 +1,2 @@
 # smart_search
-improving search experience
+improving search
