@@ -35,12 +35,9 @@ db.enable_load_extension(True)
 sqlite_vec.load(db)
 db.enable_load_extension(False)
 
-
-
 def serialize_f32(vector: List[float]) -> bytes:
     """serializes a list of floats into a compact "raw bytes" format"""
     return struct.pack("%sf" % len(vector), *vector)
-
 
 embeddings_sizes = get_embeddings_size()
 embeddings_dict = get_embeddings_data()
@@ -52,7 +49,6 @@ items = []
 for idx, vec in enumerate(embeddings_dict[model_name]):
     items.append((idx, list(vec)))
 model_name_normalized = model_name.replace("/","_").replace("-","_").replace(".","_")
-
 
 db.execute(f"CREATE VIRTUAL TABLE vec_items_{model_name_normalized} USING vec0(embedding float[{EMBEDDING_SIZE}])")
 
@@ -86,5 +82,4 @@ distance = [score for row, score in rows]
 
 selected_rows = history.iloc[row_indices].copy()
 selected_rows["distance"] = distance
-
 st.write("Selected rows are", selected_rows)
