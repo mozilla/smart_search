@@ -68,10 +68,9 @@ rows = db.execute(
     f"""
       SELECT
         rowid,
-        distance
+        vec_distance_cosine(embedding, ?) AS cosine_distance
       FROM vec_items_{model_name_normalized}
-      WHERE embedding MATCH ?
-      ORDER BY distance
+      ORDER BY cosine_distance
       LIMIT {num_results}
     """,
     [serialize_f32(query_embedding)],
