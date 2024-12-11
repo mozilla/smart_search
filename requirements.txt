@@ -5,3 +5,8 @@ pandas==2.2.3
 sqlite-vec==0.1.6
 transformers==4.47.0
 streamlit==1.40.2
+matplotlib==3.9.3
+matplotlib-inline==0.1.7
+plotly==5.24.1
+scikit-learn==1.6.0
+seaborn==0.13.2
