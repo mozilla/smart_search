@@ -6,4 +6,5 @@ EMBEDDING_MODELS_DICT = {
     "Xenova/paraphrase-multilingual-MiniLM-L12-v2": "https://huggingface.co/Xenova/paraphrase-multilingual-MiniLM-L12-v2/resolve/main/onnx/model_quantized.onnx",
     "Xenova/paraphrase-multilingual-mpnet-base-v2": "https://huggingface.co/Xenova/paraphrase-multilingual-mpnet-base-v2/resolve/main/onnx/model_quantized.onnx",
     "nomic-ai/nomic-embed-text-v1.5": "https://huggingface.co/nomic-ai/nomic-embed-text-v1.5/resolve/main/onnx/model_quantized.onnx",
+    "Xenova/LaBSE": "https://huggingface.co/Xenova/LaBSE/resolve/main/onnx/model_quantized.onnx",
 }
