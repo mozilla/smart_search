@@ -12,9 +12,9 @@ brew install python3
 export LDFLAGS="-L/opt/homebrew/opt/sqlite/lib"
 export CPPFLAGS="-I/opt/homebrew/opt/sqlite/include"
 
-/opt/homebrew/bin/python3 -venv venv
+/opt/homebrew/bin/python3 -m venv venv
 source venv/bin/activate 
-python -m pip install -r requirements
+python -m pip install -r requirements.txt
 ```
 
 Step 2 - Create Embeddings for your search history
