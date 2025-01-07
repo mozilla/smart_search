@@ -19,6 +19,8 @@ This folder contains two scripts that can be used to run the evaluation pipeline
     - threshold: distance for threshold (default to 100)
     - golden_path: path to golden data set csv (query, url)
     -row_limit: for testing different variants of history size
+- Output:
+    - CSV file with {model_name}_results.csv
 
 ## Evaluation
 - cd to root directory
@@ -27,6 +29,9 @@ This folder contains two scripts that can be used to run the evaluation pipeline
 - Args:
  - -f path to results file csv
  - -llm whether or not to run LLM judge (recommended to run on GPU only)
+
+ - Output:
+    - CSV file with {model_name}_results.csv
 
 # Retrieval Data Input Structure Requirements
 - `history_file_path`: CSV file of browsing history exported from `moz_places`
