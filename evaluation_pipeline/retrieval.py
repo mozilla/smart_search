@@ -168,8 +168,9 @@ def query_and_result(query, db, model_name, threshold, k):
         distance = row[1]  # Get the cosine distance
 
         # Skip rows where distance > threshold
-        #if distance > threshold:
-        #    continue
+        if distance > threshold:
+            print("Distance threshold exceeded")
+            continue
 
         print("doing search now")
         # Step 2: Query additional details for the matching row from search_data
@@ -259,7 +260,6 @@ def create_ground_truth(history, query_ids):
 
 def load_ground_truth_from_golden(db, golden_df_file_path):
     golden_df = pd.read_csv(golden_df_file_path)
-    print(golden_df)
     query_ids = {query: str(hash(query)) for query in golden_df['search_query'].unique()}
     db.execute('''CREATE TABLE IF NOT EXISTS ground_truth (
         search_query TEXT,
@@ -281,8 +281,6 @@ def load_ground_truth_from_golden(db, golden_df_file_path):
         left join search_data b
         on a.url = b.url'''
     ).fetchall()
-
-    print(results)
 
     ground_truth = {}
     for query, url, id_ in results:
@@ -317,7 +315,7 @@ def run_history_in_vector_db(row_limit, history_file_path, golden_set_file_path)
     else:
         print("Getting doc ids for history")
         ground_truth, query_ids = load_ground_truth_from_golden(db, golden_df_file_path=golden_set_file_path)
-        print(ground_truth)
+
 
 
     # create embeddings for candidate models
@@ -356,14 +354,10 @@ def run_retrieval(query_ids, db, model_name, threshold, k):
 
 def convert_dict_to_df(retrieval_dict, query_lookup, ground_truth, model_name, k):
     rows = []
-    print(len(retrieval_dict.keys()))
-    print(ground_truth)
-    print(len(ground_truth.keys()))
     assert len(retrieval_dict.keys()) == len(ground_truth.keys())
     for query_id, retrievals in retrieval_dict.items():
         # Flatten each retrieval into a single row with column names based on retrieval index
         row = {'query_id': query_id}
-        print(query_id)
         retrieved_ids = []  # List to collect all retrieved IDs
         for i, retrieval in enumerate(retrievals, start=1):
             row[f'retrieval_{i}_id'] = retrieval.get('id')
@@ -387,7 +381,6 @@ def convert_dict_to_df(retrieval_dict, query_lookup, ground_truth, model_name, k
 def main(model_name, k, threshold, history_file_path, golden_path=None, row_limit=100):
     model_name_normalized = model_name.replace("/","_").replace("-","_").replace(".","_")
     query_ids, db, ground_truth = run_history_in_vector_db(row_limit, history_file_path=history_file_path, golden_set_file_path=golden_path)
-    print(ground_truth)
     retrieval_results, query_lookup = run_retrieval(query_ids, db, model_name, threshold, k)
     # reshape & save to df and csv
     df = convert_dict_to_df(retrieval_dict=retrieval_results, query_lookup=query_lookup, ground_truth=ground_truth, model_name=model_name, k=k)
@@ -400,10 +393,10 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Run the retrieval pipeline with specified parameters.")
 
      # Add arguments
-    parser.add_argument("model_name", type=str, help="Name of the model to use.")
-    parser.add_argument("k", type=int, help="Top-K results to retrieve.")
-    parser.add_argument("threshold", type=float, help="Threshold for retrieval.")
     parser.add_argument("history_file_path", type=str, help="Path to the browsing history file.")
+    parser.add_argument("--model_name", type=str,default='Xenova/all-MiniLM-L6-v2', help="Name of the model to use.")
+    parser.add_argument("--k", type=int, default=2, help="Top-K results to retrieve.")
+    parser.add_argument("--threshold", type=float, default=10.0, help="Threshold for retrieval.")
     parser.add_argument("--golden_path", type=str, default=None, help="Path to the golden query set file (optional).")
     parser.add_argument("--row_limit", type=int, default=100, help="Whether to limit rows from browsing history upon load")
     # Parse arguments
