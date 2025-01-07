@@ -14,6 +14,10 @@ import math
 import wandb
 import re
 import json
+from dotenv import load_dotenv
+
+
+
 
 # Add the parent directory of `evaluation_pipeline` to sys.path
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
@@ -199,8 +203,10 @@ def load_retrieved(file_path):
                 'combined_text': convert_to_list,
     })
     k = df['k'].max()
+    model_name = df['model_name'].unique()[0]
+    model_name_normalized = model_name.replace("/","_").replace("-","_").replace(".","_")
     df['combined_text'] = get_combined_texts_uniform_k(df, k)
-    return df, k
+    return df, k, model_name_normalized
 
 def vectorized_evaluation(row, k):
     return run_traditional_eval(
@@ -234,10 +240,30 @@ def run_vectorized_llm_eval(df, k, judge):
     # Return the evaluations as a DataFrame
     return pd.DataFrame(df['llm_evaluation'].tolist())
 
+def wandb_logging(df, k):
+    load_dotenv()
+    api_key = os.getenv("WANDB_API_KEY")
+    project = os.getenv("WANDB_PROJECT")
+    entity = os.getenv("WANDB_ENTITY")
+    wandb.login(key=api_key)  # Automatically uses the API key
+    wandb.init(
+    # set the wandb project where this run will be logged
+    project=project,
+
+    # track hyperparameters and run metadata
+    config={"model_name": df['model_name'].unique(),
+            "k": k,
+            "notes": ""
+    }
+)
 
 
-def eval_pipeline(run_llm_judge: bool, file_path):
-    retrieval_df, k = load_retrieved(file_path=file_path)
+
+
+def eval_pipeline(run_llm_judge: bool, file_path, log_to_wandb):
+    retrieval_df, k, model_name = load_retrieved(file_path=file_path)
+    if log_to_wandb:
+        wandb_logging(retrieval_df, k)
     results_df = run_vectorized_traditional_eval(retrieval_df, k)
     dfs_to_return = []
     dfs_to_return.append(results_df)
@@ -250,7 +276,16 @@ def eval_pipeline(run_llm_judge: bool, file_path):
         df_labels.append("llm_eval")
 
     for df, label in zip(dfs_to_return, df_labels):
-        df.to_csv(f"{label}.csv")
+        summary_df = df.describe().reset_index()
+        summary_df = summary_df.loc[:, summary_df.columns != 'query_id'] if 'query_id' in summary_df.columns else summary_df
+        summary_table = wandb.Table(dataframe=summary_df)
+        averages = summary_df[summary_df['index'] == 'mean']
+        if log_to_wandb:
+            wandb.log({label: summary_table})
+            wandb.log({"Averages": averages})
+            wandb.finish()
+        summary_df.to_csv(f"{model_name}_{label}_aggregate_metrics.csv")
+        df.to_csv(f"{model_name}_{label}_detailed_metrics.csv")
 
 
 
@@ -292,8 +327,8 @@ def visualize_embeddings(model_name, queries):
 
 
 
-def main(use_llm_judge, file_path):
-    eval_pipeline(run_llm_judge = use_llm_judge, file_path=file_path)
+def main(use_llm_judge, file_path, log_to_wandb):
+    eval_pipeline(run_llm_judge = use_llm_judge, file_path=file_path, log_to_wandb=log_to_wandb)
 
 
 if __name__ == "__main__":
@@ -301,6 +336,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Run the evaluation pipeline with specified parameters.")
 
     parser.add_argument("-f", type=str, help="Path to the file to be processed")
+    parser.add_argument("-log_to_wandb", type=str, default=False, help="Whether to log to Weights & Biases")
 
     parser.add_argument(
     "-llm",
@@ -311,7 +347,7 @@ if __name__ == "__main__":
 
     # Parse the command-line arguments
     args = parser.parse_args()
-    main(use_llm_judge=args.llm, file_path=args.f)
+    main(use_llm_judge=args.llm, file_path=args.f, log_to_wandb=args.log_to_wandb)
 
 
 
