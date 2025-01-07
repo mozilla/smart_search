@@ -357,7 +357,7 @@ def convert_dict_to_df(retrieval_dict, query_lookup, ground_truth, model_name, k
     assert len(retrieval_dict.keys()) == len(ground_truth.keys())
     for query_id, retrievals in retrieval_dict.items():
         # Flatten each retrieval into a single row with column names based on retrieval index
-        row = {'query_id': query_id}
+        row = {'query_id': str(query_id)}
         retrieved_ids = []  # List to collect all retrieved IDs
         for i, retrieval in enumerate(retrievals, start=1):
             row[f'retrieval_{i}_id'] = retrieval.get('id')
@@ -384,7 +384,7 @@ def main(model_name, k, threshold, history_file_path, golden_path=None, row_limi
     retrieval_results, query_lookup = run_retrieval(query_ids, db, model_name, threshold, k)
     # reshape & save to df and csv
     df = convert_dict_to_df(retrieval_dict=retrieval_results, query_lookup=query_lookup, ground_truth=ground_truth, model_name=model_name, k=k)
-    df.to_csv(f"results/{model_name_normalized}_results.csv")
+    df.to_csv(f"results/{model_name_normalized}_results.csv", index=False)
     return retrieval_results
 
 
