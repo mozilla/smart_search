@@ -19,23 +19,13 @@ import logging
 import os
 import sys
 import argparse
-
+import pickle
 
 # Add the parent directory of `evaluation_pipeline` to sys.path
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
 from src.constants import EMBEDDING_MODELS_DICT
 from src.feature_extractor import FeatureExtractor
-
-
-
-
-# Configure logging
-logging.basicConfig(
-    filename="performance.log", 
-    level=logging.INFO,
-    format="%(asctime)s - %(message)s"
-)
 
 
 def log_performance(func):
@@ -66,10 +56,9 @@ def format_size(size_in_bytes):
 
 
 def process_golden_queries(golden_query_file_path):
-    golden_df = pd.read_csv(golden_query_file_path=golden_query_file_path)
+    golden_df = pd.read_csv(golden_query_file_path)
     query_ids = {query: str(hash(query)) for query in golden_df['search_query'].unique()}
     return query_ids
-
 
 
 @log_performance
@@ -87,24 +76,32 @@ def process_history(row_limit, history_file_path):
     return browsing_history
 
 @log_performance
-def create_embeddings(history, embeddings_model_dict):
+def create_embeddings(row_limit, history, embeddings_model_dict):
     texts = history['combined_text'].values.tolist()
     embeddings_dict = {}
     embeddings_sizes = {}
 
     for model in embeddings_model_dict.keys():
-        if model == 'nomic-ai/nomic-embed-text-v1.5': 
+        if model == 'nomic-ai/nomic-embed-text-v1.5':
             prefix = 'search_document: '
             texts = [prefix + text for text in texts]
         fe = FeatureExtractor(embeddings_model_dict, model_name=model)
         embeddings_dict[model] = fe.get_embeddings(texts)
         print(model, embeddings_dict[model].shape)
         embeddings_sizes[model] = embeddings_dict[model].shape[1]
+
+    with open(f"../data/embeddings_dict_{row_limit}.pkl", "wb") as f:
+        pickle.dump(embeddings_dict, f)
+
+    with open(f"../data/embeddings_sizes_{row_limit}.pkl", "wb") as f:
+        pickle.dump(embeddings_sizes, f)
+
     return embeddings_dict, embeddings_sizes
 
 @log_performance
 def create_db():
     # vector database
+    #db = sqlite3.connect(":memory:")
     db = sqlite3.connect(":memory:")
     db.enable_load_extension(True)
     sqlite_vec.load(db)
@@ -122,6 +119,7 @@ def serialize_f32(vector: List[float]) -> bytes:
 
 @log_performance
 def create_embeddings_table_in_vector_db(db, model_name, embeddings_sizes, embeddings_dict):
+    print("creating table")
     EMBEDDING_SIZE = embeddings_sizes[model_name]
     items = []
     for idx, vec in enumerate(embeddings_dict[model_name]):
@@ -140,21 +138,23 @@ def create_embeddings_table_in_vector_db(db, model_name, embeddings_sizes, embed
 
 # retrieval
 @log_performance
-def query_and_result(query, db, model_name, threshold, k):
+def query_and_result(fe, query, db, model_name, threshold, k):
     model_name_normalized = model_name.replace("/","_").replace("-","_").replace(".","_") 
-    if model_name == 'nomic-ai/nomic-embed-text-v1.5': 
-        query = 'search_query: ' + query 
-
-    # create embedding from query
-    fe = FeatureExtractor(EMBEDDING_MODELS_DICT, model_name=model_name)
+    if model_name == 'nomic-ai/nomic-embed-text-v1.5':
+        query = 'search_query: ' + query
+   
     query_embedding = fe.get_embeddings([query])[0]
     # using cosine distance
     rows = db.execute(
     f"""
       SELECT
-        rowid,
+        a.rowid,
         vec_distance_cosine(embedding, ?) AS cosine_distance
-      FROM vec_items_{model_name_normalized}
+      FROM vec_items_{model_name_normalized} a
+      inner join search_data b
+      on a.rowid = b. rowid
+
+      where b.url not like '%google.com/search?%'
       ORDER BY cosine_distance
       LIMIT {k}
     """,
@@ -231,15 +231,17 @@ def load_history_in_db(db, browsing_history):
     db.execute('''CREATE TABLE IF NOT EXISTS search_data (
         url TEXT,
         title TEXT,
+        description TEXT,
         combined_text TEXT
         )
         ''')
-    for _, row in browsing_history.iterrows():
+    for idx, row in browsing_history.iterrows():
             db.execute("""
-                INSERT INTO search_data (url, title, combined_text)
-                VALUES (?, ?, ?)
-            """, ( row['url'], row['title'], row['combined_text'])
+                INSERT INTO search_data (rowid, url, title, description, combined_text)
+                VALUES (?, ?, ?, ?, ?)
+            """, (idx, row['url'], row['title'], row['description'],  row['combined_text'])
             )
+    browsing_history.to_sql("full_history", db, if_exists="replace", index=True)  # Creates the table automatically
 
 
 
@@ -283,15 +285,17 @@ def load_ground_truth_from_golden(db, golden_df_file_path):
     ).fetchall()
 
     ground_truth = {}
+    ground_truth_urls = {}
     for query, url, id_ in results:
         query_id = query_ids[query]
-        if query not in ground_truth:
+        if query_id not in ground_truth:
             ground_truth[query_id] = []
+            ground_truth_urls[query_id] = []
+            
         ground_truth[query_id].append(id_)
+        ground_truth_urls[query_id].append(url)
 
-    return ground_truth, query_ids
-
-
+    return ground_truth, query_ids, ground_truth_urls
 
 
 @log_performance
@@ -314,13 +318,24 @@ def run_history_in_vector_db(row_limit, history_file_path, golden_set_file_path)
         ground_truth = create_ground_truth(browsing_history, query_ids)
     else:
         print("Getting doc ids for history")
-        ground_truth, query_ids = load_ground_truth_from_golden(db, golden_df_file_path=golden_set_file_path)
+        ground_truth, query_ids, ground_truth_urls = load_ground_truth_from_golden(db, golden_df_file_path=golden_set_file_path)
 
 
 
     # create embeddings for candidate models
     print("Generating Embeddings")
-    embeddings_dict, embeddings_sizes = create_embeddings(browsing_history, embeddings_model_dict=EMBEDDING_MODELS_DICT)
+    try:
+        path = f"../data/embeddings_dict_{row_limit}.pkl"
+        # path = f"/Users/rebeccahadi/Documents/search-your-history-poc/data/embeddings_dict_{row_limit}.pkl"
+        with open(path, "rb") as f:
+            embeddings_dict = pickle.load(f)
+
+        sizes_path = f"../data/embeddings_sizes_{row_limit}.pkl"
+     #   sizes_path = f"/Users/rebeccahadi/Documents/search-your-history-poc/data/embeddings_sizes_{row_limit}.pkl"
+        with open(sizes_path, "rb") as f:
+            embeddings_sizes = pickle.load(f)
+    except:
+        embeddings_dict, embeddings_sizes = create_embeddings(row_limit, browsing_history, embeddings_model_dict=EMBEDDING_MODELS_DICT)
 
     # loop through each model/embedding type and store in db
     for model_name in embeddings_dict.keys():
@@ -334,10 +349,10 @@ def run_history_in_vector_db(row_limit, history_file_path, golden_set_file_path)
         total_db_size_human_readable = format_size(table_size)
         logging.info(f"Table size {model_name_normalized}: {total_db_size_human_readable}")
 
-    return query_ids, db, ground_truth
+    return query_ids, db, ground_truth, ground_truth_urls
 
 @log_performance
-def run_retrieval(query_ids, db, model_name, threshold, k):
+def run_retrieval(fe, query_ids, db, model_name, threshold, k):
     # loop through each query
     retreival_dict = {}
     query_lookup = {}
@@ -346,19 +361,19 @@ def run_retrieval(query_ids, db, model_name, threshold, k):
         query_id = query_ids[query]
         query_lookup[query_id] = query
         # perform retrieval
-        results = query_and_result(query, db=db,
+        results = query_and_result(fe, query, db=db,
         model_name=model_name, threshold=threshold, k=k)
         retreival_dict[query_id] = results
     return retreival_dict, query_lookup
 
 
-def convert_dict_to_df(retrieval_dict, query_lookup, ground_truth, model_name, k):
+def convert_dict_to_df(retrieval_dict, query_lookup, ground_truth, ground_truth_urls, model_name, k):
     rows = []
-    assert len(retrieval_dict.keys()) == len(ground_truth.keys())
     for query_id, retrievals in retrieval_dict.items():
         # Flatten each retrieval into a single row with column names based on retrieval index
         row = {'query_id': str(query_id)}
         retrieved_ids = []  # List to collect all retrieved IDs
+        retrieved_distances = [] # collect the distances
         for i, retrieval in enumerate(retrievals, start=1):
             row[f'retrieval_{i}_id'] = retrieval.get('id')
             row[f'retrieval_{i}_title'] = retrieval.get('title')
@@ -366,12 +381,15 @@ def convert_dict_to_df(retrieval_dict, query_lookup, ground_truth, model_name, k
             row[f'retrieval_{i}_combined_text'] = retrieval.get('combined_text')
             row[f'retrieval_{i}_distance'] = retrieval.get('distance')
             retrieved_ids.append(retrieval.get('id'))
+            retrieved_distances.append(retrieval.get('distance'))
             # Collect the ID for the list
 
         row['retrieved_ids'] = retrieved_ids
+        row['retrieved_distances'] = retrieved_distances
         row['model_name'] = model_name
         row['query'] = query_lookup[query_id]
         row['relevant_docs'] = ground_truth[query_id]
+        row['relevant_urls'] = ground_truth_urls[query_id]
         row['k'] = k
         rows.append(row)
     df = pd.DataFrame(rows)
@@ -380,36 +398,41 @@ def convert_dict_to_df(retrieval_dict, query_lookup, ground_truth, model_name, k
 
 def main(model_name, k, threshold, history_file_path, golden_path=None, row_limit=100):
     model_name_normalized = model_name.replace("/","_").replace("-","_").replace(".","_")
-    query_ids, db, ground_truth = run_history_in_vector_db(row_limit, history_file_path=history_file_path, golden_set_file_path=golden_path)
-    retrieval_results, query_lookup = run_retrieval(query_ids, db, model_name, threshold, k)
+    # Configure logging
+    logging.basicConfig(
+    filename=f"performance_{model_name_normalized}.log",
+    level=logging.INFO,
+    format="%(asctime)s - %(message)s"
+    )
+    query_ids, db, ground_truth, ground_truth_urls = run_history_in_vector_db(row_limit, history_file_path=history_file_path, golden_set_file_path=golden_path)
+    fe = FeatureExtractor(EMBEDDING_MODELS_DICT, model_name=model_name)
+    retrieval_results, query_lookup = run_retrieval(fe, query_ids, db, model_name, threshold, k)
     # reshape & save to df and csv
-    df = convert_dict_to_df(retrieval_dict=retrieval_results, query_lookup=query_lookup, ground_truth=ground_truth, model_name=model_name, k=k)
-    df.to_csv(f"results/{model_name_normalized}_results.csv", index=False)
-    return retrieval_results
+    df = convert_dict_to_df(retrieval_dict=retrieval_results, query_lookup=query_lookup, ground_truth=ground_truth, ground_truth_urls=ground_truth_urls, model_name=model_name, k=k)
+    time_stamp = int(time.time())
+    df.to_csv(f"results/{model_name_normalized}_results_{time_stamp}.csv", index=False)
+    return db, retrieval_results, df
 
 
 if __name__ == "__main__":
-    # Create the argument parser
-    parser = argparse.ArgumentParser(description="Run the retrieval pipeline with specified parameters.")
-
-     # Add arguments
-    parser.add_argument("history_file_path", type=str, help="Path to the browsing history file.")
-    parser.add_argument("--model_name", type=str,default='Xenova/all-MiniLM-L6-v2', help="Name of the model to use.")
-    parser.add_argument("--k", type=int, default=2, help="Top-K results to retrieve.")
-    parser.add_argument("--threshold", type=float, default=10.0, help="Threshold for retrieval.")
-    parser.add_argument("--golden_path", type=str, default=None, help="Path to the golden query set file (optional).")
-    parser.add_argument("--row_limit", type=int, default=100, help="Whether to limit rows from browsing history upon load")
-    # Parse arguments
-    args = parser.parse_args()
-    # Call the main function with parsed arguments
-    main(
-        model_name=args.model_name,
-        k=args.k,
-        threshold=args.threshold,
-        history_file_path=args.history_file_path,
-        golden_path=args.golden_path,
-        row_limit=args.row_limit
-    )
-
-
+     # Create the argument parser
+     parser = argparse.ArgumentParser(description="Run the retrieval pipeline with specified parameters.")
+      # Add arguments
+     parser.add_argument("history_file_path", type=str, help="Path to the browsing history file.")
+     parser.add_argument("--model_name", type=str,default='Xenova/all-MiniLM-L6-v2', help="Name of the model to use.")
+     parser.add_argument("--k", type=int, default=2, help="Top-K results to retrieve.")
+     parser.add_argument("--threshold", type=float, default=10.0, help="Threshold for retrieval.")
+     parser.add_argument("--golden_path", type=str, default=None, help="Path to the golden query set file (optional).")
+     parser.add_argument("--row_limit", type=int, default=100, help="Whether to limit rows from browsing history upon load")
+     # Parse arguments
+     args = parser.parse_args()
+     # Call the main function with parsed arguments
+     main(
+         model_name=args.model_name,
+         k=args.k,
+         threshold=args.threshold,
+         history_file_path=args.history_file_path,
+         golden_path=args.golden_path,
+         row_limit=args.row_limit
+     )
 

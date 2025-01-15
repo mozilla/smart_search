@@ -15,6 +15,7 @@ import wandb
 import re
 import json
 from dotenv import load_dotenv
+from sklearn.metrics import ndcg_score, average_precision_score
 
 
 
@@ -29,6 +30,8 @@ from src.llm_judge import llm_as_judge
 
 def convert_to_list(value):
     if isinstance(value, str):
+        value = value.replace('np.int64(', '').replace(')', '')
+        value = value.replace('np.float64(', '').replace(')', '')
         return ast.literal_eval(value)
     return value
 
@@ -63,35 +66,26 @@ def calc_recall_at_k(relevant_docs, retrieved_docs, k):
     return len(intersection) / len(relevant_docs)
 
 
-def calc_ndcg(relevant_docs, retrieved_docs, k=None):
-    """
-    Compute Normalized Discounted Cumulative Gain (NDCG).
-    Parameters:
-        relevant_docs (set): Set of relevant document IDs.
-        retrieved_docs (list): List of retrieved document IDs in ranked order.
-        k (int, optional): Number of top results to consider. If None, use all retrieved_docs.
-    Returns:
-        float: NDCG score.
-    """
-    def dcg(relevance_scores):
-        return sum(rel / math.log2(idx + 2) for idx, rel in enumerate(relevance_scores))
+def calc_ndcg(relevant_docs, retrieved_docs, k, score_type='rank',  retrieved_distances=None):
+    if len(retrieved_docs) <2:
+        return 0.00
+    y_true = np.array([[1 if doc in relevant_docs else 0 for doc in retrieved_docs]])
+    if score_type == 'rank':
+        y_scores = np.array([[1 / (rank + 1) for rank in range(len(retrieved_docs))]])
+    elif score_type == 'distance':
+        y_scores = np.array([[1 - dist for dist in retrieved_distances]])
+    ndcg = ndcg_score(y_true, y_scores, k=k)
+    return ndcg
 
-    retrieved_at_k = retrieved_docs[:k] if k else retrieved_docs
-    relevance_scores = [1 if doc in relevant_docs else 0 for doc in retrieved_at_k]
-    actual_dcg = dcg(relevance_scores)
-    ideal_relevance_scores = sorted(relevance_scores, reverse=True)
-    ideal_dcg = dcg(ideal_relevance_scores)
-    return actual_dcg / ideal_dcg if ideal_dcg > 0 else 0.0
-
-
-def calc_mean_reciprocal_rank(relevant_docs, retrieved_docs):
+def calc_reciprocal_rank(relevant_docs, retrieved_docs):
     """
-    Compute Mean Reciprocal Rank (MRR).
+    Compute Reciprocal Rank (RR).
     Parameters:
         relevant_docs (set): Set of relevant document IDs.
         retrieved_docs (list): List of retrieved document IDs in ranked order.
     Returns:
         float: MRR score.
+        Can be used to compute mean reciprocal rank for number of queries Q
     """
     for rank, doc in enumerate(retrieved_docs, start=1):
         if doc in relevant_docs:
@@ -99,24 +93,48 @@ def calc_mean_reciprocal_rank(relevant_docs, retrieved_docs):
     return 0.0
 
 
-def calc_mean_average_precision(relevant_docs, retrieved_docs):
+def calc_average_precision(relevant_docs, retrieved_docs, score_type='rank', retrieved_distances=None):
     """
-    Compute Mean Average Precision (MAP).
+    Compute Average Precision (AP).
     Parameters:
         relevant_docs (set): Set of relevant document IDs.
         retrieved_docs (list): List of retrieved document IDs in ranked order.
     Returns:
-        float: MAP score.
+        float: AP score.
+        Can be used to calculate mean average precision for number of queries Q
     """
-    relevant_retrieved = 0
-    precision_sum = 0.0
+    if len(retrieved_docs) < 2:
+        return 0.0
+    y_true = np.array([[1 if doc in relevant_docs else 0 for doc in retrieved_docs]])
+    if score_type == 'rank':
+        y_scores = np.array([[1 / (rank + 1) for rank in range(len(retrieved_docs))]])
+    elif score_type == 'distance':
+        # function expects higher to be better
+        y_scores = np.array([[1 - dist for dist in retrieved_distances]])
+    average_precision = average_precision_score(y_true, y_scores)
+    return average_precision
 
-    for k, doc in enumerate(retrieved_docs, start=1):
-        if doc in relevant_docs:
-            relevant_retrieved += 1
-            precision_sum += relevant_retrieved / k
 
-    return precision_sum / len(relevant_docs) if relevant_docs else 0.0
+def calc_average_precision_manual(relevant_docs, retrieved_docs, k):
+    if len(retrieved_docs) < 2: # need more than 1 to have meaningful rank
+        return 0.0
+    ap_num = 0.0
+    for x in range(k):
+        # calculate precision@k
+        act_set = set(relevant_docs)
+        pred_set = set(retrieved_docs[:x+1])
+        precision_at_k = len(act_set & pred_set) / (x+1)
+        # calculate rel_k values
+        if retrieved_docs[x] in relevant_docs:
+            rel_k = 1
+        else:
+            rel_k = 0
+        # calculate numerator value for ap
+        ap_num += precision_at_k * rel_k
+    # now we calculate the AP value as the average of AP
+    # numerator values
+    manual_average_precision = ap_num / len(relevant_docs)
+    return manual_average_precision
 
 def format_judge_response(answer):
     try:
@@ -154,23 +172,25 @@ def run_llm_judge(judge, query_id, query, retrieved_texts, k):
     return row
 
 
-def run_traditional_eval(query_id, query, relevant_docs, retrieved_docs, k):
+def run_traditional_eval(query_id, query, relevant_docs, retrieved_docs, retrieved_distances, k):
     row = {'query_id': query_id}
     row['query'] = query
     # calcuate traditional IR metrics
     precision = calc_precision_at_k(relevant_docs, retrieved_docs, k)
     recall = calc_recall_at_k(relevant_docs, retrieved_docs, k)
-    ndcg = calc_ndcg(relevant_docs, retrieved_docs, k=k)
-    mean_reciprocal_rank = calc_mean_reciprocal_rank(relevant_docs, retrieved_docs)
-    mean_average_precision = calc_mean_average_precision(relevant_docs, retrieved_docs)
+    ndcg = calc_ndcg(relevant_docs, retrieved_docs,score_type='rank',retrieved_distances=retrieved_distances, k=k)
+    reciprocal_rank = calc_reciprocal_rank(relevant_docs, retrieved_docs)
+    average_precision = calc_average_precision(relevant_docs, retrieved_docs, score_type='rank', retrieved_distances=retrieved_distances)
+    manual_average_precision = calc_average_precision_manual(relevant_docs, retrieved_docs, k=k)
     # store in row
     row['retrieved_ids'] = retrieved_docs
     row['relevant_docs'] = relevant_docs
     row[f'precision@{k}'] = precision
     row[f'recall@{k}'] = recall
     row[f'ndcg@{k}'] = ndcg
-    row['mean_reciprocal_rank'] = mean_reciprocal_rank
-    row['mean_average_precision'] = mean_average_precision
+    row['reciprocal_rank'] = reciprocal_rank
+    row['average_precision'] = average_precision
+    row['manual_average_precision'] = manual_average_precision
     return row
 
 
@@ -201,6 +221,7 @@ def load_retrieved(file_path):
                 'relevant_docs': convert_to_list,
                 'retrieved_ids': convert_to_list,
                 'combined_text': convert_to_list,
+                'retrieved_distances': convert_to_list,
     })
     k = df['k'].max()
     model_name = df['model_name'].unique()[0]
@@ -214,6 +235,7 @@ def vectorized_evaluation(row, k):
         query = row['query'],
         relevant_docs=row['relevant_docs'],
         retrieved_docs=row['retrieved_ids'],
+        retrieved_distances = row['retrieved_distances'],
         k=k
     )
 
@@ -260,8 +282,14 @@ def wandb_logging(df, k):
 
 
 
-def eval_pipeline(run_llm_judge: bool, file_path, log_to_wandb):
+def eval_pipeline(run_llm_judge: bool, file_path, log_to_wandb, specific_k=None):
     retrieval_df, k, model_name = load_retrieved(file_path=file_path)
+    # give option to override k
+    if specific_k is None:
+        pass
+    else:
+        k = specific_k
+
     if log_to_wandb:
         wandb_logging(retrieval_df, k)
     results_df = run_vectorized_traditional_eval(retrieval_df, k)
@@ -276,6 +304,7 @@ def eval_pipeline(run_llm_judge: bool, file_path, log_to_wandb):
         df_labels.append("llm_eval")
 
     for df, label in zip(dfs_to_return, df_labels):
+        df['model_name'] = model_name
         summary_df = df.describe().reset_index()
         summary_df = summary_df.loc[:, summary_df.columns != 'query_id'] if 'query_id' in summary_df.columns else summary_df
         summary_table = wandb.Table(dataframe=summary_df)
@@ -284,9 +313,8 @@ def eval_pipeline(run_llm_judge: bool, file_path, log_to_wandb):
             wandb.log({label: summary_table})
             wandb.log({"Averages": averages})
             wandb.finish()
-        summary_df.to_csv(f"{model_name}_{label}_aggregate_metrics.csv")
-        df.to_csv(f"{model_name}_{label}_detailed_metrics.csv")
-
+        summary_df.to_csv(f"evaluation_results/{model_name}_{label}_aggregate_metrics.csv")
+        df.to_csv(f"evaluation_results/{model_name}_{label}_detailed_metrics.csv")
 
 
 
@@ -320,7 +348,7 @@ def visualize_embeddings(model_name, queries):
     ax.set_title(f't-SNE Visualization of Embeddings for {model_name}')
     try: 
         wandb.log({"chart": wandb.Image(fig)})
-    except: 
+    except:
         pass 
     plt.savefig(f'figs/t_sne_embeddings_{model_name_normalized}.png', format='png', dpi=300, bbox_inches='tight')
     plt.close()
@@ -332,22 +360,22 @@ def main(use_llm_judge, file_path, log_to_wandb):
 
 
 if __name__ == "__main__":
-    # Create the argument parser
-    parser = argparse.ArgumentParser(description="Run the evaluation pipeline with specified parameters.")
+     # Create the argument parser
+     parser = argparse.ArgumentParser(description="Run the evaluation pipeline with specified parameters.")
 
-    parser.add_argument("-f", type=str, help="Path to the file to be processed")
-    parser.add_argument("-log_to_wandb", type=str, default=False, help="Whether to log to Weights & Biases")
+     parser.add_argument("-f", type=str, help="Path to the file to be processed")
+     parser.add_argument("-log_to_wandb", type=str, default=False, help="Whether to log to Weights & Biases")
 
-    parser.add_argument(
-    "-llm",
-    type=lambda x: str(x).lower() in ['true', '1', 'yes'],
-    default=False,
-    help="Whether or not to use LLM judge (default: False)"
-    )
+     parser.add_argument(
+     "-llm",
+     type=lambda x: str(x).lower() in ['true', '1', 'yes'],
+     default=False,
+     help="Whether or not to use LLM judge (default: False)"
+     )
 
-    # Parse the command-line arguments
-    args = parser.parse_args()
-    main(use_llm_judge=args.llm, file_path=args.f, log_to_wandb=args.log_to_wandb)
+     # Parse the command-line arguments
+     args = parser.parse_args()
+     main(use_llm_judge=args.llm, file_path=args.f, log_to_wandb=args.log_to_wandb)
 
 
 
