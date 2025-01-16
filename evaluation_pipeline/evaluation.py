@@ -22,6 +22,7 @@ from sklearn.metrics import ndcg_score, average_precision_score
 
 # Add the parent directory of `evaluation_pipeline` to sys.path
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+# sys.path.append(os.path.abspath(os.path.join(os.path.dirname('evaluation.py'), "..")))
 
 from src.constants import EMBEDDING_MODELS_DICT
 from src.feature_extractor import FeatureExtractor
@@ -93,48 +94,30 @@ def calc_reciprocal_rank(relevant_docs, retrieved_docs):
     return 0.0
 
 
-def calc_average_precision(relevant_docs, retrieved_docs, score_type='rank', retrieved_distances=None):
+def calc_average_precision(relevant_docs, retrieved_docs, k):
     """
     Compute Average Precision (AP).
     Parameters:
         relevant_docs (set): Set of relevant document IDs.
         retrieved_docs (list): List of retrieved document IDs in ranked order.
+        k: average precision from 1 to k 
     Returns:
         float: AP score.
         Can be used to calculate mean average precision for number of queries Q
     """
     if len(retrieved_docs) < 2:
         return 0.0
-    y_true = np.array([[1 if doc in relevant_docs else 0 for doc in retrieved_docs]])
-    if score_type == 'rank':
-        y_scores = np.array([[1 / (rank + 1) for rank in range(len(retrieved_docs))]])
-    elif score_type == 'distance':
-        # function expects higher to be better
-        y_scores = np.array([[1 - dist for dist in retrieved_distances]])
-    average_precision = average_precision_score(y_true, y_scores)
+    total_precision = 0.0 
+    for i in range(1, len(retrieved_docs)+1): 
+        precision = calc_precision_at_k(relevant_docs, retrieved_docs, k=i)
+        total_precision += precision 
+    if k > len(retrieved_docs): 
+        print(f"k is higher than retrieval {len(retrieved_docs)}")
+    elif k < len(retrieved_docs): 
+        print(f"k is lower than retrieval {len(retrieved_docs)}") 
+    average_precision = total_precision / k 
     return average_precision
 
-
-def calc_average_precision_manual(relevant_docs, retrieved_docs, k):
-    if len(retrieved_docs) < 2: # need more than 1 to have meaningful rank
-        return 0.0
-    ap_num = 0.0
-    for x in range(k):
-        # calculate precision@k
-        act_set = set(relevant_docs)
-        pred_set = set(retrieved_docs[:x+1])
-        precision_at_k = len(act_set & pred_set) / (x+1)
-        # calculate rel_k values
-        if retrieved_docs[x] in relevant_docs:
-            rel_k = 1
-        else:
-            rel_k = 0
-        # calculate numerator value for ap
-        ap_num += precision_at_k * rel_k
-    # now we calculate the AP value as the average of AP
-    # numerator values
-    manual_average_precision = ap_num / len(relevant_docs)
-    return manual_average_precision
 
 def format_judge_response(answer):
     try:
@@ -180,8 +163,8 @@ def run_traditional_eval(query_id, query, relevant_docs, retrieved_docs, retriev
     recall = calc_recall_at_k(relevant_docs, retrieved_docs, k)
     ndcg = calc_ndcg(relevant_docs, retrieved_docs,score_type='rank',retrieved_distances=retrieved_distances, k=k)
     reciprocal_rank = calc_reciprocal_rank(relevant_docs, retrieved_docs)
-    average_precision = calc_average_precision(relevant_docs, retrieved_docs, score_type='rank', retrieved_distances=retrieved_distances)
-    manual_average_precision = calc_average_precision_manual(relevant_docs, retrieved_docs, k=k)
+    average_precision = calc_average_precision(relevant_docs, retrieved_docs, k=k)
+
     # store in row
     row['retrieved_ids'] = retrieved_docs
     row['relevant_docs'] = relevant_docs
@@ -190,10 +173,7 @@ def run_traditional_eval(query_id, query, relevant_docs, retrieved_docs, retriev
     row[f'ndcg@{k}'] = ndcg
     row['reciprocal_rank'] = reciprocal_rank
     row['average_precision'] = average_precision
-    row['manual_average_precision'] = manual_average_precision
     return row
-
-
 
 
 def get_combined_texts_uniform_k(df, k):
@@ -212,7 +192,6 @@ def get_combined_texts_uniform_k(df, k):
     # Convert to a list of lists
     result = sliced_matrix.tolist()
     return result
-
 
 
 def load_retrieved(file_path):
@@ -317,9 +296,6 @@ def eval_pipeline(run_llm_judge: bool, file_path, log_to_wandb, specific_k=None)
         df.to_csv(f"evaluation_results/{model_name}_{label}_detailed_metrics.csv")
 
 
-
-
-
 def visualize_embeddings(model_name, queries):
     fe = FeatureExtractor(EMBEDDING_MODELS_DICT, model_name=model_name)
     model_name_normalized = model_name.replace("/","_").replace("-","_").replace(".","_")
@@ -336,7 +312,7 @@ def visualize_embeddings(model_name, queries):
 
 
     # Plot with wrapped labels
-    fig, ax = plt.subplots(figsize=(10, 7)) 
+    fig, ax = plt.subplots(figsize=(10, 7))
 
     plt.scatter([x[0] for x in reduced_embeddings], [x[1] for x in reduced_embeddings], c='orange', alpha=0.6)
 
