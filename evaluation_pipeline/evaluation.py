@@ -1,5 +1,4 @@
 import pandas as pd
-import onnxruntime as ort
 import numpy as np
 import os
 import sys
@@ -15,7 +14,7 @@ import wandb
 import re
 import json
 from dotenv import load_dotenv
-from sklearn.metrics import ndcg_score, average_precision_score
+from sklearn.metrics import ndcg_score
 
 
 
