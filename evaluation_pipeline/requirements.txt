@@ -1,0 +1,14 @@
+auto_mix_prep==0.2.0
+matplotlib==3.10.0
+numpy==2.2.1
+onnxruntime==1.20.1
+pandas==2.2.3
+python-dotenv==1.0.1
+scikit_learn==1.6.1
+seaborn==0.13.2
+sqlite_vec==0.1.6
+transformers==4.46.3
+wandb==0.19.3
+Requests==2.32.3
+torch==2.5.1
+transformers==4.46.3
