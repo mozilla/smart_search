@@ -98,7 +98,7 @@ def calc_average_precision(relevant_docs, retrieved_docs, k):
     """
     Compute Average Precision (AP).
     Parameters:
-        relevant_docs (set): Set of relevant document IDs.
+        relevant_docs (list): List of relevant document IDs.
         retrieved_docs (list): List of retrieved document IDs in ranked order.
         k: average precision from 1 to k 
     Returns:
@@ -115,7 +115,7 @@ def calc_average_precision(relevant_docs, retrieved_docs, k):
         print(f"k is higher than retrieval {len(retrieved_docs)}")
     elif k < len(retrieved_docs): 
         print(f"k is lower than retrieval {len(retrieved_docs)}") 
-    average_precision = total_precision / k 
+    average_precision = total_precision / k
     return average_precision
 
 

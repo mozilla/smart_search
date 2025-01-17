@@ -410,7 +410,7 @@ def main(model_name, k, threshold, history_file_path, golden_path=None, row_limi
     # reshape & save to df and csv
     df = convert_dict_to_df(retrieval_dict=retrieval_results, query_lookup=query_lookup, ground_truth=ground_truth, ground_truth_urls=ground_truth_urls, model_name=model_name, k=k)
     time_stamp = int(time.time())
-    df.to_csv(f"results/{model_name_normalized}_results_{time_stamp}.csv", index=False)
+    df.to_csv(f"results/{model_name_normalized}_results.csv", index=False)
     return db, retrieval_results, df
 
 
