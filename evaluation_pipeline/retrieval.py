@@ -90,10 +90,10 @@ def create_embeddings(row_limit, history, embeddings_model_dict):
         print(model, embeddings_dict[model].shape)
         embeddings_sizes[model] = embeddings_dict[model].shape[1]
 
-    with open(f"../data/embeddings_dict_{row_limit}.pkl", "wb") as f:
+    with open(f"data/embeddings_dict_{row_limit}.pkl", "wb") as f:
         pickle.dump(embeddings_dict, f)
 
-    with open(f"../data/embeddings_sizes_{row_limit}.pkl", "wb") as f:
+    with open(f"data/embeddings_sizes_{row_limit}.pkl", "wb") as f:
         pickle.dump(embeddings_sizes, f)
 
     return embeddings_dict, embeddings_sizes
@@ -325,12 +325,12 @@ def run_history_in_vector_db(row_limit, history_file_path, golden_set_file_path)
     # create embeddings for candidate models
     print("Generating Embeddings")
     try:
-        path = f"../data/embeddings_dict_{row_limit}.pkl"
+        path = f"data/embeddings_dict_{row_limit}.pkl"
         # path = f"/Users/rebeccahadi/Documents/search-your-history-poc/data/embeddings_dict_{row_limit}.pkl"
         with open(path, "rb") as f:
             embeddings_dict = pickle.load(f)
 
-        sizes_path = f"../data/embeddings_sizes_{row_limit}.pkl"
+        sizes_path = f"data/embeddings_sizes_{row_limit}.pkl"
      #   sizes_path = f"/Users/rebeccahadi/Documents/search-your-history-poc/data/embeddings_sizes_{row_limit}.pkl"
         with open(sizes_path, "rb") as f:
             embeddings_sizes = pickle.load(f)
