@@ -249,7 +249,7 @@ def main(k, history_file_path, query_file_path):
 
 if __name__ == "__main__":
      # Create the argument parser
-     parser = argparse.ArgumentParser(description="Compare model results")
+     parser = argparse.ArgumentParser(description="Non ML retrieval")
       # Add arguments
      parser.add_argument("--history_file_path", default="output.csv", type=str, help="File path for browsing history csv")
      parser.add_argument("--golden_path", default="golden_query_set.csv",type=str, help="Path for golden query set")
