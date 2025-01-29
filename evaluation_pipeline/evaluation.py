@@ -17,8 +17,6 @@ from dotenv import load_dotenv
 from sklearn.metrics import ndcg_score
 
 
-
-
 # Add the parent directory of `evaluation_pipeline` to sys.path
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 # sys.path.append(os.path.abspath(os.path.join(os.path.dirname('evaluation.py'), "..")))
@@ -113,7 +111,7 @@ def calc_average_precision(relevant_docs, retrieved_docs, k):
     if k > len(retrieved_docs): 
         print(f"k is higher than retrieval {len(retrieved_docs)}")
     elif k < len(retrieved_docs): 
-        print(f"k is lower than retrieval {len(retrieved_docs)}") 
+        print(f"k is lower than retrieval {len(retrieved_docs)}")
     average_precision = total_precision / k
     return average_precision
 
@@ -154,7 +152,7 @@ def run_llm_judge(judge, query_id, query, retrieved_texts, k):
     return row
 
 
-def run_traditional_eval(query_id, query, relevant_docs, retrieved_docs, retrieved_distances, k):
+def run_traditional_eval(query_id, query, relevant_docs, retrieved_docs, retrieved_distances, retrieved_texts, k):
     row = {'query_id': query_id}
     row['query'] = query
     # calcuate traditional IR metrics
@@ -163,6 +161,8 @@ def run_traditional_eval(query_id, query, relevant_docs, retrieved_docs, retriev
     ndcg = calc_ndcg(relevant_docs, retrieved_docs,score_type='rank',retrieved_distances=retrieved_distances, k=k)
     reciprocal_rank = calc_reciprocal_rank(relevant_docs, retrieved_docs)
     average_precision = calc_average_precision(relevant_docs, retrieved_docs, k=k)
+    jaccard_indices = [calc_jaccard_index(query, text) for text in retrieved_texts]
+    overlap_coefficients = [calc_overlap_coefficient(query, text) for text in retrieved_texts]
 
     # store in row
     row['retrieved_ids'] = retrieved_docs
@@ -172,7 +172,33 @@ def run_traditional_eval(query_id, query, relevant_docs, retrieved_docs, retriev
     row[f'ndcg@{k}'] = ndcg
     row['reciprocal_rank'] = reciprocal_rank
     row['average_precision'] = average_precision
+    row['jaccard_indices'] = jaccard_indices
+    row['overlap_coefficients'] = overlap_coefficients
     return row
+
+def calc_jaccard_index(text_a, text_b):
+    try:
+        text_a = text_a.lower()
+        text_b = text_b.lower()
+        # Tokenize into sets of words
+        set_a = set(text_a.split())
+        set_b = set(text_b.split())
+        intersection = len(set_a & set_b)
+        union = len(set_a | set_b)
+        return intersection / union
+    except:
+        return 0.00
+
+def calc_overlap_coefficient(text_a, text_b):
+    try:
+        text_a = text_a.lower()
+        text_b = text_b.lower()
+        set1, set2 = set(text_a.split()), set(text_b.split())
+        intersection = len(set1 & set2)
+        min_length = min(len(set1), len(set2))
+        return intersection / min_length
+    except:
+        return 0.00
 
 
 def get_combined_texts_uniform_k(df, k):
@@ -200,6 +226,7 @@ def load_retrieved(file_path):
                 'retrieved_ids': convert_to_list,
                 'combined_text': convert_to_list,
                 'retrieved_distances': convert_to_list,
+                'norm_relevant_docs': convert_to_list,
     })
     k = df['k'].max()
     model_name = df['model_name'].unique()[0]
@@ -214,6 +241,18 @@ def vectorized_evaluation(row, k):
         relevant_docs=row['relevant_docs'],
         retrieved_docs=row['retrieved_ids'],
         retrieved_distances = row['retrieved_distances'],
+        retrieved_texts = row['combined_text'],
+        k=k
+    )
+
+def vectorized_norm_evaluation(row, k):
+    return run_traditional_eval(
+        query_id=row['query_id'],
+        query = row['query'],
+        relevant_docs=row['norm_relevant_docs'],
+        retrieved_docs=row['retrieved_ids'],
+        retrieved_distances = row['retrieved_distances'],
+        retrieved_texts = row['combined_text'],
         k=k
     )
 
@@ -229,8 +268,9 @@ def vectorized_llm_evaluation(row, k, judge):
 def run_vectorized_traditional_eval(df, k):
     # Apply the function row-wise, passing k as a constant
     df['evaluation'] = df.apply(lambda row: vectorized_evaluation(row, k), axis=1)
+    df['norm_evaluation'] = df.apply(lambda row: vectorized_norm_evaluation(row, k), axis=1)
     # Return the evaluations as a DataFrame
-    return pd.DataFrame(df['evaluation'].tolist())
+    return pd.DataFrame(df['evaluation'].tolist()), pd.DataFrame(df['norm_evaluation'].tolist())
 
 
 
@@ -270,11 +310,22 @@ def eval_pipeline(run_llm_judge: bool, file_path, log_to_wandb, specific_k=None)
 
     if log_to_wandb:
         wandb_logging(retrieval_df, k)
-    results_df = run_vectorized_traditional_eval(retrieval_df, k)
+
+    # run eval
+    results_df, norm_results_df = run_vectorized_traditional_eval(retrieval_df, k)
+
+    # store results
     dfs_to_return = []
-    dfs_to_return.append(results_df)
     df_labels = []
+
+    # original urls
+    dfs_to_return.append(results_df)
     df_labels.append("traditional_eval")
+
+    #normalized urls
+    dfs_to_return.append(norm_results_df)
+    df_labels.append("norm_traditional_eval")
+
     if run_llm_judge:
         judge = llm_as_judge()
         llm_results_df = run_vectorized_llm_eval(retrieval_df, k, judge)
@@ -287,10 +338,18 @@ def eval_pipeline(run_llm_judge: bool, file_path, log_to_wandb, specific_k=None)
         summary_df = summary_df.loc[:, summary_df.columns != 'query_id'] if 'query_id' in summary_df.columns else summary_df
         summary_table = wandb.Table(dataframe=summary_df)
         averages = summary_df[summary_df['index'] == 'mean']
+
+        # Ensure the directory exits
+        directory = f"evaluation_results/{label}"
+        if not os.path.exists(directory):
+            os.makedirs(directory)
+            print(f"Directory created: {directory}")
+
         if log_to_wandb:
             wandb.log({label: summary_table})
             wandb.log({"Averages": averages})
             wandb.finish()
+        # write files
         summary_df.to_csv(f"evaluation_results/{model_name}_{label}_aggregate_metrics.csv")
         df.to_csv(f"evaluation_results/{model_name}_{label}_detailed_metrics.csv")
 
@@ -335,22 +394,22 @@ def main(use_llm_judge, file_path, log_to_wandb):
 
 
 if __name__ == "__main__":
-     # Create the argument parser
-     parser = argparse.ArgumentParser(description="Run the evaluation pipeline with specified parameters.")
+      # Create the argument parser
+      parser = argparse.ArgumentParser(description="Run the evaluation pipeline with specified parameters.")
 
-     parser.add_argument("-f", type=str, help="Path to the file to be processed")
-     parser.add_argument("-log_to_wandb", type=str, default=False, help="Whether to log to Weights & Biases")
+      parser.add_argument("-f", type=str, help="Path to the file to be processed")
+      parser.add_argument("-log_to_wandb", type=str, default=False, help="Whether to log to Weights & Biases")
 
-     parser.add_argument(
-     "-llm",
-     type=lambda x: str(x).lower() in ['true', '1', 'yes'],
-     default=False,
-     help="Whether or not to use LLM judge (default: False)"
-     )
-
-     # Parse the command-line arguments
-     args = parser.parse_args()
-     main(use_llm_judge=args.llm, file_path=args.f, log_to_wandb=args.log_to_wandb)
+      parser.add_argument(
+      "-llm",
+      type=lambda x: str(x).lower() in ['true', '1', 'yes'],
+      default=False,
+      help="Whether or not to use LLM judge (default: False)"
+      )
+ 
+      # Parse the command-line arguments
+      args = parser.parse_args()
+      main(use_llm_judge=args.llm, file_path=args.f, log_to_wandb=args.log_to_wandb)
 
 
 

@@ -20,6 +20,7 @@ import os
 import sys
 import argparse
 import pickle
+from urllib.parse import urlparse, urlunparse
 
 # Add the parent directory of `evaluation_pipeline` to sys.path
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
@@ -27,6 +28,11 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 from src.constants import EMBEDDING_MODELS_DICT
 from src.feature_extractor import FeatureExtractor
 
+
+def normalize_url(url):
+    parsed = urlparse(url)
+    # Remove fragments and queries, keep scheme + netloc + path
+    return urlunparse((parsed.scheme, parsed.netloc, parsed.path, '', '', ''))
 
 def log_performance(func):
     def wrapper(*args, **kwargs):
@@ -37,7 +43,7 @@ def log_performance(func):
         
         current, peak = tracemalloc.get_traced_memory()
         end_time = time.time()
-        
+
         logging.info(f"Function: {func.__name__}")
         logging.info(f"Execution Time: {end_time - start_time:.2f} seconds")
         logging.info(f"Current Memory Usage: {current / 10**6:.2f} MB")
@@ -64,6 +70,7 @@ def process_golden_queries(golden_query_file_path):
 @log_performance
 def process_history(row_limit, history_file_path):
     browsing_history = pd.read_csv(history_file_path).head(row_limit)
+    browsing_history['norm_url'] = browsing_history['url'].apply(normalize_url)
     browsing_history['last_visit_date'] = pd.to_datetime(browsing_history['last_visit_date'], unit='us')
     # fill empty last_visit_date with default value "1970-01-01"
     browsing_history['last_visit_date'] = browsing_history['last_visit_date'].fillna(pd.to_datetime("1970-01-01"))
@@ -152,7 +159,7 @@ def query_and_result(fe, query, db, model_name, threshold, k):
         vec_distance_cosine(embedding, ?) AS cosine_distance
       FROM vec_items_{model_name_normalized} a
       inner join search_data b
-      on a.rowid = b. rowid
+      on a.rowid = b.rowid
 
       where b.url not like '%google.com/search?%'
       ORDER BY cosine_distance
@@ -176,7 +183,7 @@ def query_and_result(fe, query, db, model_name, threshold, k):
         # Step 2: Query additional details for the matching row from search_data
         res = db.execute(
             """
-            SELECT rowid, title, url, combined_text
+            SELECT rowid, title, url, norm_url, combined_text
             FROM search_data
             WHERE rowid = ?
             """,
@@ -189,7 +196,8 @@ def query_and_result(fe, query, db, model_name, threshold, k):
                 "id": res[0],
                 "title": res[1],
                 "url": res[2],
-                "combined_text": res[3],
+                "norm_url": res[3],
+                "combined_text": res[4],
                 "distance": distance,
             })
 
@@ -232,14 +240,15 @@ def load_history_in_db(db, browsing_history):
         url TEXT,
         title TEXT,
         description TEXT,
-        combined_text TEXT
+        combined_text TEXT,
+        norm_url TEXT
         )
         ''')
     for idx, row in browsing_history.iterrows():
             db.execute("""
-                INSERT INTO search_data (rowid, url, title, description, combined_text)
-                VALUES (?, ?, ?, ?, ?)
-            """, (idx, row['url'], row['title'], row['description'],  row['combined_text'])
+                INSERT INTO search_data (rowid, url, title, description, combined_text, norm_url)
+                VALUES (?, ?, ?, ?, ?, ?)
+            """, (idx, row['url'], row['title'], row['description'],  row['combined_text'], row['norm_url'])
             )
     browsing_history.to_sql("full_history", db, if_exists="replace", index=True)  # Creates the table automatically
 
@@ -262,18 +271,20 @@ def create_ground_truth(history, query_ids):
 
 def load_ground_truth_from_golden(db, golden_df_file_path):
     golden_df = pd.read_csv(golden_df_file_path)
+    golden_df['norm_url'] = golden_df['url'].apply(normalize_url)
     query_ids = {query: str(hash(query)) for query in golden_df['search_query'].unique()}
     db.execute('''CREATE TABLE IF NOT EXISTS ground_truth (
         search_query TEXT,
-        url TEXT
+        url TEXT,
+        norm_url TEXT
         )
         ''')
     with db:
        for _, row in golden_df.iterrows():
             db.execute("""
-                INSERT INTO ground_truth (search_query, url)
-                VALUES (?, ?)
-            """, ( row['search_query'], row['url'])
+                INSERT INTO ground_truth (search_query, url, norm_url)
+                VALUES (?, ?, ?)
+            """, ( row['search_query'], row['url'], row['norm_url'])
             )
 
     # join to search query to get doc ID for ground truth URL
@@ -291,11 +302,30 @@ def load_ground_truth_from_golden(db, golden_df_file_path):
         if query_id not in ground_truth:
             ground_truth[query_id] = []
             ground_truth_urls[query_id] = []
-            
+
         ground_truth[query_id].append(id_)
         ground_truth_urls[query_id].append(url)
 
-    return ground_truth, query_ids, ground_truth_urls
+    # join to search query to get doc ID for ground truth URL
+    norm_results = db.execute(
+        '''SELECT a.search_query, a.url, b.rowid
+        FROM ground_truth a
+        left join search_data b
+        on a.norm_url = b.norm_url'''
+    ).fetchall()
+
+    norm_ground_truth = {}
+    norm_ground_truth_urls = {}
+    for query, url, id_ in norm_results:
+        query_id = query_ids[query]
+        if query_id not in norm_ground_truth:
+            norm_ground_truth[query_id] = []
+            norm_ground_truth_urls[query_id] = []
+
+        norm_ground_truth[query_id].append(id_)
+        norm_ground_truth_urls[query_id].append(url)
+
+    return ground_truth, query_ids, ground_truth_urls, norm_ground_truth, norm_ground_truth_urls
 
 
 @log_performance
@@ -318,7 +348,7 @@ def run_history_in_vector_db(row_limit, history_file_path, golden_set_file_path)
         ground_truth = create_ground_truth(browsing_history, query_ids)
     else:
         print("Getting doc ids for history")
-        ground_truth, query_ids, ground_truth_urls = load_ground_truth_from_golden(db, golden_df_file_path=golden_set_file_path)
+        ground_truth, query_ids, ground_truth_urls, norm_ground_truth, norm_ground_truth_urls = load_ground_truth_from_golden(db, golden_df_file_path=golden_set_file_path)
 
 
 
@@ -349,7 +379,7 @@ def run_history_in_vector_db(row_limit, history_file_path, golden_set_file_path)
         total_db_size_human_readable = format_size(table_size)
         logging.info(f"Table size {model_name_normalized}: {total_db_size_human_readable}")
 
-    return query_ids, db, ground_truth, ground_truth_urls
+    return query_ids, db, ground_truth, ground_truth_urls, norm_ground_truth, norm_ground_truth_urls
 
 @log_performance
 def run_retrieval(fe, query_ids, db, model_name, threshold, k):
@@ -367,7 +397,7 @@ def run_retrieval(fe, query_ids, db, model_name, threshold, k):
     return retreival_dict, query_lookup
 
 
-def convert_dict_to_df(retrieval_dict, query_lookup, ground_truth, ground_truth_urls, model_name, k):
+def convert_dict_to_df(retrieval_dict, query_lookup, ground_truth, ground_truth_urls, norm_ground_truth, norm_ground_truth_urls, model_name, k):
     rows = []
     for query_id, retrievals in retrieval_dict.items():
         # Flatten each retrieval into a single row with column names based on retrieval index
@@ -390,6 +420,8 @@ def convert_dict_to_df(retrieval_dict, query_lookup, ground_truth, ground_truth_
         row['query'] = query_lookup[query_id]
         row['relevant_docs'] = ground_truth[query_id]
         row['relevant_urls'] = ground_truth_urls[query_id]
+        row['norm_relevant_docs'] = norm_ground_truth[query_id]
+        row['norm_relevant_urls'] = norm_ground_truth_urls[query_id]
         row['k'] = k
         rows.append(row)
     df = pd.DataFrame(rows)
@@ -404,14 +436,14 @@ def main(model_name, k, threshold, history_file_path, golden_path=None, row_limi
     level=logging.INFO,
     format="%(asctime)s - %(message)s"
     )
-    query_ids, db, ground_truth, ground_truth_urls = run_history_in_vector_db(row_limit, history_file_path=history_file_path, golden_set_file_path=golden_path)
+    query_ids, db, ground_truth, ground_truth_urls, norm_ground_truth, norm_ground_truth_urls = run_history_in_vector_db(row_limit, history_file_path=history_file_path, golden_set_file_path=golden_path)
     fe = FeatureExtractor(EMBEDDING_MODELS_DICT, model_name=model_name)
     retrieval_results, query_lookup = run_retrieval(fe, query_ids, db, model_name, threshold, k)
     # reshape & save to df and csv
-    df = convert_dict_to_df(retrieval_dict=retrieval_results, query_lookup=query_lookup, ground_truth=ground_truth, ground_truth_urls=ground_truth_urls, model_name=model_name, k=k)
+    df = convert_dict_to_df(retrieval_dict=retrieval_results, query_lookup=query_lookup, ground_truth=ground_truth, ground_truth_urls=ground_truth_urls, norm_ground_truth=norm_ground_truth, norm_ground_truth_urls=norm_ground_truth_urls, model_name=model_name, k=k)
     time_stamp = int(time.time())
     df.to_csv(f"results/{model_name_normalized}_results.csv", index=False)
-    return db, retrieval_results, df
+    return retrieval_results
 
 
 if __name__ == "__main__":
