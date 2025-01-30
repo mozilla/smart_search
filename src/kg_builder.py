@@ -1,16 +1,16 @@
 import sqlite3
+import argparse
+import logging
 import pandas as pd
 import spacy
 from gliner import GLiNER
 from tqdm import tqdm
 from constants import TOPIC_LABELS
 from entity_relation_scorer import get_ers_data
-import logging
+
 
 nlp = spacy.load("en_core_web_sm")
-# set GENERATE_TOPIC True for the first run and then reset to False to get speedup
-GENERATE_TOPIC = False
-DATA_PATH = "data/"
+DATA_PATH = "data"
 KG_DB_PATH = f"{DATA_PATH}/ml_kg.db"
 gliner_model = GLiNER.from_pretrained("urchade/gliner_largev2")
 logging.basicConfig(level=logging.INFO, format='%(message)s')
@@ -51,15 +51,15 @@ def extract_tags_batch(df):
         tags_list.append(list(tags))
     return tags_list
 
-def generate_topics(df):
+def generate_topics(df, generate_topic):
     """
     Generates topics for each entry from title + description.
     Uses gliner zsl with TOPIC_LABELS
-    - usage: for the first time set the GENERATE_TOPIC as True to generate.
-             for subsequent runs set the GENERATE_TOPIC as False to get speedup
+    - usage: for the first time set the generate_topic as True to generate.
+             for subsequent runs set the generate_topic as False to get speedup
     """
     texts = (df['title'].fillna('') + " " + df['description'].fillna('')).str.strip().values.tolist()
-    if GENERATE_TOPIC:
+    if generate_topic:
         topics = []
         for text in tqdm(texts):
             entities = gliner_model.predict_entities(text, TOPIC_LABELS, threshold=0.3)
@@ -73,7 +73,7 @@ def generate_topics(df):
         df['topics'] = df['url_hash'].map(topics_lkp)
     return df
 
-def get_kg_input_data(firefox_conn, row_limit):
+def get_kg_input_data(firefox_conn, row_limit, generate_topic):
     """
     Get KG input data
     expects the places.sqlite copy in the DATA_PATH
@@ -144,7 +144,7 @@ def get_kg_input_data(firefox_conn, row_limit):
     # enrich with path_info and tags
     input_data_df['path_info'] = input_data_df.apply(extract_additional_path_info, axis=1)
     input_data_df['tags'] = extract_tags_batch(input_data_df)
-    input_data_df = generate_topics(input_data_df)
+    input_data_df = generate_topics(input_data_df, generate_topic)
     logger.info(input_data_df.head().T)
     ers_df = get_ers_data(input_data_df)
     logger.info(f"\n Number of entity-relations in KG = {len(ers_df)}")
@@ -166,10 +166,13 @@ def load_kg_db(kg_conn, ers_df):
     kg_conn.close()
 
 
-def main():
-    row_limit = 10000
-    ers_df = get_kg_input_data(get_connection_to_places(), row_limit)
+def main(row_limit, generate_topic):
+    ers_df = get_kg_input_data(get_connection_to_places(), row_limit, generate_topic)
     load_kg_db(get_connection_to_kg(), ers_df)
 
 if __name__ == '__main__':
-    main()
+    parser = argparse.ArgumentParser(description="Run KG builder")
+    parser.add_argument("--row_limit", type=int, default=10000, help="row_limit for history selection")
+    parser.add_argument("--generate_topic", action="store_true", help="Enable topic generation (default:False)")
+    args = parser.parse_args()
+    main(row_limit=args.row_limit, generate_topic=args.generate_topic)

@@ -41,15 +41,16 @@ copy places.sqlite to data/places.sqlite
 
 Step 1) To Build KG database
 ```
-Note: For the first time edit GENERATE_TOPIC = True and next time onwards flip to False
-python src/kg_builder.py
+Note: For the first time edit generate_topic = True and next time onwards flip to False
+## skip --generate_topic for default False
+## you could also change the row_limit = 10000 (default) to smaller number 
+python src/kg_builder.py --row_limit 10000 --generate_topic True
 ```
 
 Step 2) To validate KG approach
 ```
 ## Override with your golden queries (if does not exist, then uses moz_inputhistory table)
-GOLDEN_QUERIES_FILE = f"{DATA_PATH}/chidam_golden_query.csv"
+golden_queries_file = f"{DATA_PATH}/chidam_golden_query.csv"
 
-## you could also change the row_limit = 10000 to smaller number 
-python src/kg_validator.py
+python src/kg_validator.py --golden_queries_file="data/chidam_golden_query.csv"
 ```

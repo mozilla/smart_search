@@ -1,20 +1,20 @@
 import sqlite3
-import pandas as pd
+import argparse
+import os
 import logging
+import pandas as pd
 from kg import (
     extract_tags_for_queries,
     infer_topics,
     fetch_entity_relations_with_keywords
 )
 from metrics import run_traditional_eval
-import os
+
 
 logging.basicConfig(level=logging.INFO, format='%(message)s')
 logger = logging.getLogger(__name__)
 DATA_PATH = "data/"
 KG_DB_PATH = f"{DATA_PATH}/ml_kg.db"
-## Override with your golden queries
-GOLDEN_QUERIES_FILE = f"{DATA_PATH}/chidam_golden_query.csv"
 
 def get_sql_connection_for_validation():
     """
@@ -82,14 +82,14 @@ def get_url_hash_batch(golden_queries, conn):
     results = cursor.execute(query, urls).fetchall()
     return pd.DataFrame(results, columns=["url", "url_hash"])
 
-def main():
+def main(golden_queries_file):
     conn = get_sql_connection_for_validation()
     # queries_with_ground_truth = fetch_ground_truths(conn)
     
     
 
-    if os.path.exists(GOLDEN_QUERIES_FILE):
-        golden_queries = pd.read_csv(GOLDEN_QUERIES_FILE, usecols=['search_query', 'url'])
+    if os.path.exists(golden_queries_file):
+        golden_queries = pd.read_csv(golden_queries_file, usecols=['search_query', 'url'])
         logger.info(f"Number of golden queries = {len(golden_queries)}")
         logger.info(golden_queries.head().T)
 
@@ -99,6 +99,7 @@ def main():
                                                .rename(columns={'search_query': 'keyword'})
     
     else:
+        logger.warn(f"{golden_queries_file} does not exist and hence using the places DB")
         queries_with_ground_truth = fetch_ground_truths(conn)
         
     logger.info("\n Use keywords + topics + tags")
@@ -128,4 +129,11 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    parser = argparse.ArgumentParser(description="Run KG Validator")
+    parser.add_argument("--golden_queries_file",
+                        type=str,
+                        default=f"{DATA_PATH}/chidam_golden_query.csv",
+                        help="Relative path to the golden queries CSV file"
+                        )
+    args = parser.parse_args()
+    main(golden_queries_file=args.golden_queries_file)
