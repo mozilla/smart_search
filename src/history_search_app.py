@@ -105,8 +105,8 @@ with col1:
 with col2:
     search_tags = extract_tags_for_queries([query])[0]
     search_topics = infer_topics([query], pbar=False)[0]
-    # print(f"search_tags = {search_tags}")
-    # print(f"search_topics = {search_topics}")
+    st.write(f"search_tags = {search_tags}")
+    st.write(f"search_topics = {search_topics}")
     results = fetch_entity_relations_with_keywords(conn, query, search_tags, search_topics).head(num_results)
     st.markdown("**:violet[KG approach]**")
     st.write("Selected rows are", results)    
