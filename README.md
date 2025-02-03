@@ -46,6 +46,8 @@ Note: For the first time edit generate_topic = True and next time onwards flip t
 ## skip --generate_topic for default False
 ## you could also change the row_limit = 10000 (default) to smaller number 
 python src/kg_builder.py --row_limit 10000 --generate_topic
+or (second run onwards, skip generate_topic)
+python src/kg_builder.py --row_limit 10000 
 ```
 
 Step 2) To validate KG approach

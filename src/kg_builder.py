@@ -167,6 +167,8 @@ def load_kg_db(kg_conn, ers_df):
 
 
 def main(row_limit, generate_topic):
+    logger.info(f"row_limit = {row_limit}")
+    logger.info(f"generate_topic = {generate_topic}")
     ers_df = get_kg_input_data(get_connection_to_places(), row_limit, generate_topic)
     load_kg_db(get_connection_to_kg(), ers_df)
 
