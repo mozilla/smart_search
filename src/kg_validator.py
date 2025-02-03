@@ -48,24 +48,23 @@ def fetch_ground_truths(conn):
     actuals_df = pd.DataFrame(val_data, columns=val_columns)
     return actuals_df.groupby('keyword')['url_hash'].agg(list).reset_index()
 
-def perform_traditional_evals(conn, to_be_predicted_queries, use_tags=True, use_topics=True):
+def perform_traditional_evals(conn, to_be_predicted_queries, k, use_tags=True, use_topics=True):
     eval_rows = []
     for idx, row in to_be_predicted_queries.iterrows():
         if (idx+1) % 50 == 0:
             print(f" {idx+1} queries evaluated")
-        search_query = search_keyword = row['keyword']
-        # print(f"search_keyword = {search_keyword}")
+        search_query = row['keyword']
         relevant_docs = row['url_hash']
         
         search_tags = extract_tags_for_queries([search_query])[0] if use_tags else []
         search_topics = infer_topics([search_query], pbar=False)[0] if use_topics else []
         # print(f"search_tags = {search_tags}")
         # print(f"search_topics = {search_topics}")
-        results = fetch_entity_relations_with_keywords(conn, search_keyword, search_tags, search_topics).head(2)
+        results = fetch_entity_relations_with_keywords(conn, search_query, search_tags, search_topics).head(k)
         retrieved_docs = []
         if len(results) > 0:
             retrieved_docs = results['url_hash'].values.tolist()
-            eval_row = run_traditional_eval(idx, search_keyword, relevant_docs, retrieved_docs, retrieved_distances=None, k=2)
+            eval_row = run_traditional_eval(idx, search_query, relevant_docs, retrieved_docs, retrieved_distances=None, k=k)
             eval_rows.append(eval_row)
     return pd.DataFrame(eval_rows)
 
@@ -82,14 +81,11 @@ def get_url_hash_batch(golden_queries, conn):
     results = cursor.execute(query, urls).fetchall()
     return pd.DataFrame(results, columns=["url", "url_hash"])
 
-def main(golden_queries_file):
+def main(golden_queries_file, k=2):
     conn = get_sql_connection_for_validation()
-    # queries_with_ground_truth = fetch_ground_truths(conn)
-    
-    
-
     if os.path.exists(golden_queries_file):
         golden_queries = pd.read_csv(golden_queries_file, usecols=['search_query', 'url'])
+        golden_queries['search_query'] = golden_queries['search_query'].str.lower()
         logger.info(f"Number of golden queries = {len(golden_queries)}")
         logger.info(golden_queries.head().T)
 
@@ -97,35 +93,49 @@ def main(golden_queries_file):
         queries_with_ground_truth = golden_queries.merge(url_hashes, on='url', how='inner')
         queries_with_ground_truth = queries_with_ground_truth.groupby('search_query')['url_hash'].agg(list).reset_index()\
                                                .rename(columns={'search_query': 'keyword'})
-    
     else:
         logger.warn(f"{golden_queries_file} does not exist and hence using the places DB")
         queries_with_ground_truth = fetch_ground_truths(conn)
         
-    logger.info("\n Use keywords + topics + tags")
-    golden_eval_df = perform_traditional_evals(conn, queries_with_ground_truth)
-    logger.info(golden_eval_df[['precision@2','recall@2','ndcg@2','reciprocal_rank','average_precision']].mean())
-    logger.info(len(golden_eval_df))
     os.makedirs(f"{DATA_PATH}/kg_results", exist_ok=True)
-    golden_eval_df.to_csv(f"{DATA_PATH}/kg_results/golden_eval_df_keywords_topics_tags.csv", index=False)
+    metric_cols = [f'precision@{k}',f'recall@{k}',f'ndcg@{k}','reciprocal_rank','average_precision']
+
+    logger.info("\n Use keywords + topics + tags")
+    golden_eval_df = perform_traditional_evals(conn, queries_with_ground_truth, k=k)
+    if golden_eval_df is None or golden_eval_df.empty:
+        logger.warning("No matches using keywords + topics + tag. Please check.")
+    else:
+        logger.info(golden_eval_df[metric_cols].mean())
+        logger.info(len(golden_eval_df))
+        golden_eval_df.to_csv(f"{DATA_PATH}/kg_results/golden_eval_df_keywords_topics_tags.csv", index=False)
 
     logger.info("\n Use keywords + tags and no topics")
-    golden_eval_df = perform_traditional_evals(conn, queries_with_ground_truth, use_topics=False)
-    logger.info(golden_eval_df[['precision@2','recall@2','ndcg@2','reciprocal_rank','average_precision']].mean())
-    logger.info(len(golden_eval_df))
-    golden_eval_df.to_csv(f"{DATA_PATH}/kg_results/golden_eval_df_keywords_tags.csv", index=False)
+    golden_eval_df = perform_traditional_evals(conn, queries_with_ground_truth, k=k, use_topics=False)
+    if golden_eval_df is None or golden_eval_df.empty:
+        logger.warning("No matches using keywords + tags and no topics. Please check.")
+    else:
+        logger.info(golden_eval_df[metric_cols].mean())
+        logger.info(len(golden_eval_df))
+        golden_eval_df.to_csv(f"{DATA_PATH}/kg_results/golden_eval_df_keywords_tags.csv", index=False)
 
     logger.info("\n Use keywords + topics and no tags")
-    golden_eval_df = perform_traditional_evals(conn, queries_with_ground_truth, use_tags=False)
-    logger.info(golden_eval_df[['precision@2','recall@2','ndcg@2','reciprocal_rank','average_precision']].mean())
-    logger.info(len(golden_eval_df))
-    golden_eval_df.to_csv(f"{DATA_PATH}/kg_results/golden_eval_df_keywords_topics.csv", index=False)
+    golden_eval_df = perform_traditional_evals(conn, queries_with_ground_truth, k=k, use_tags=False)
+    if golden_eval_df is None or golden_eval_df.empty:
+        logger.warning("No matches using keywords + topics and no tags. Please check.")
+    else:
+        logger.info(golden_eval_df[metric_cols].mean())
+        logger.info(len(golden_eval_df))
+        golden_eval_df.to_csv(f"{DATA_PATH}/kg_results/golden_eval_df_keywords_topics.csv", index=False)
 
     logger.info("\n Use keywords only")
-    golden_eval_df = perform_traditional_evals(conn, queries_with_ground_truth, use_tags=False, use_topics=False)
-    logger.info(golden_eval_df[['precision@2','recall@2','ndcg@2','reciprocal_rank','average_precision']].mean())
-    logger.info(len(golden_eval_df))
-    golden_eval_df.to_csv(f"{DATA_PATH}/kg_results/golden_eval_df_keywords.csv", index=False)
+    golden_eval_df = perform_traditional_evals(conn, queries_with_ground_truth,
+                                               k=k, use_tags=False, use_topics=False)
+    if golden_eval_df is None or golden_eval_df.empty:
+        logger.warning("No matches using  keywords only. Please check.")
+    else:
+        logger.info(golden_eval_df[metric_cols].mean())
+        logger.info(len(golden_eval_df))
+        golden_eval_df.to_csv(f"{DATA_PATH}/kg_results/golden_eval_df_keywords.csv", index=False)
 
 
 if __name__ == '__main__':

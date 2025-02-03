@@ -58,7 +58,7 @@ def generate_topics(df, generate_topic):
     - usage: for the first time set the generate_topic as True to generate.
              for subsequent runs set the generate_topic as False to get speedup
     """
-    texts = (df['title'].fillna('') + " " + df['description'].fillna('')).str.strip().values.tolist()
+    texts = (df['title'].fillna('').str.lower() + " " + df['description'].fillna('').str.lower()).str.strip().values.tolist()
     if generate_topic:
         topics = []
         for text in tqdm(texts):
