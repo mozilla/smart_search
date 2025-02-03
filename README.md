@@ -36,6 +36,7 @@ Pre-req:
 ```
 source venv/bin/activate
 python -m pip install -r requirements.txt
+python -m spacy download en_core_web_sm
 copy places.sqlite to data/places.sqlite
 ```
 
@@ -44,7 +45,7 @@ Step 1) To Build KG database
 Note: For the first time edit generate_topic = True and next time onwards flip to False
 ## skip --generate_topic for default False
 ## you could also change the row_limit = 10000 (default) to smaller number 
-python src/kg_builder.py --row_limit 10000 --generate_topic True
+python src/kg_builder.py --row_limit 10000 --generate_topic
 ```
 
 Step 2) To validate KG approach
