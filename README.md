@@ -28,3 +28,32 @@ Step 3 - if you want to run demo app (depends on step 2)
 streamlit run src/history_search_app.py
 open http://localhost:8501/
 ```
+
+#####################################################################
+Instructions on the KG 
+
+Pre-req:
+```
+source venv/bin/activate
+python -m pip install -r requirements.txt
+python -m spacy download en_core_web_sm
+copy places.sqlite to data/places.sqlite
+```
+
+Step 1) To Build KG database
+```
+Note: For the first time edit generate_topic = True and next time onwards flip to False
+## skip --generate_topic for default False
+## you could also change the row_limit = 10000 (default) to smaller number 
+python src/kg_builder.py --row_limit 10000 --generate_topic
+or (second run onwards, skip generate_topic)
+python src/kg_builder.py --row_limit 10000 
+```
+
+Step 2) To validate KG approach
+```
+## Override with your golden queries (if does not exist, then uses moz_inputhistory table)
+golden_queries_file = f"{DATA_PATH}/chidam_golden_query.csv"
+
+python src/kg_validator.py --golden_queries_file="data/chidam_golden_query.csv"
+```
