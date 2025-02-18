@@ -1,0 +1,45 @@
+# Input Data Paths
+input:
+  input_dir:  "/Users/rebeccahadi/Documents/search-your-history-poc/smart_search/"
+  history_file_path: "/Users/rebeccahadi/Documents/search-your-history-poc/smart_search/output.csv"
+  golden_df_file_path: "/Users/rebeccahadi/Documents/search-your-history-poc/smart_search/golden_query_set.csv"
+  history_row_limit: 10008
+
+# Output Directories
+output:
+  save_result_dir: "validation_sets/rebecca/results/"
+  save_eval_dir: "evaluation_results/"
+
+# Run Parameters
+model:
+  quantized_model: True
+  pooling: "mean"
+  preprocess_input: False
+  embeddings_already_exist: False
+
+
+model_names:
+  - "Xenova/all-MiniLM-L6-v2"
+  - "Xenova/all-MiniLM-L12-v2"
+  - "Xenova/multi-qa-MiniLM-L6-cos-v1"
+  - "Xenova/multi-qa-distilbert-cos-v1"
+  - "nomic-ai/nomic-embed-text-v1.5"
+  - "Xenova/all-mpnet-base-v2"
+  - "Xenova/paraphrase-mpnet-base-v2"
+  - "Xenova/paraphrase-multilingual-MiniLM-L12-v2"
+
+retrieval:
+  distance_measure: "cosine"
+  k: 3
+  features:
+    - "title"
+    - "description"
+  include_non_ml_baseline: True
+  binary_quantization: False  # True is not yet working
+
+
+evaluation:
+    llm_judge: False
+    log_to_wandb: False
+
+
