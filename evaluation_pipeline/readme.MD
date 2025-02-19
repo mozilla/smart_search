@@ -1,37 +1,38 @@
 # Evaluation Pipeline Overview
-This folder contains two scripts that can be used to run the evaluation pipeline for the Semantic Search Your History Level 1 POC.
+This folder contains scripts needed to run the evaluation pipeline for browsing history. The helper scripts are located under:
+- `pipeline_utils`  
+    - `features.py`
+    - `vector_db.py`
+    - `retrieval.py`
+    - `evaluation.py`
+    # Helpers
+    - `utils.py`
+    - `feature_extractor_optimized.py`
+    - `metrics.py`
 
 
-## Contents
-- `retrieval.py`: Performs the retrieval aspect of the pipeline. Need to provide a csv file with browsing history, as well as a set of reference queries and URLs ('golden set')
-- `evaluation.py`: Given a results file that contains the query, retrieved docs, relevant docs, calculates traditional information retrieval metrics, as well an option to run an LLM judge (recommended to run on GPU).
 
-# How to run
-- In your virtualenv, install requirements from requirements.txt in this subdirectory
 
-## Retrieval
-- cd to the root directory
-- `python evaluation_pipeline/retrieval.py "output.csv" --golden_path "golden_query_set.csv"`
-- Args:
-    - history_file_path: Path to csv of browsing history
-    - model_name: model to use for retrieval (must be in EMBEDDING_MODELS_DICT under src)
-    - k: number of results per retrieval
-    - threshold: distance for threshold (default to 100)
-    - golden_path: path to golden data set csv (query, url)
-    -row_limit: for testing different variants of history size
-- Output:
-    - CSV file with {model_name}_results.csv
+## To run the pipline
+0.  Create virtual env + install `pip install -r requirements.txt` from the evaluation_pipeline directory
 
-## Evaluation
-- cd to root directory
-- Must have formatted retrieval results in results/ directory (can be from retrieval script, or manually curated from Firefox logs).
-- `python evaluation_pipeline/evaluation.py -f "results/Xenova_all_MiniLM_L6_v2_results.csv"`
-- Args:
- - -f path to results file csv
- - -llm whether or not to run LLM judge (recommended to run on GPU only)
+1. Update file paths in  `run_config.yml`: Specify the run options in the `run config.yml`.  
+- History (used for retrieval)
+- Golden Path (queries + URLs for ground truth)
 
- - Output:
-    - CSV file with {model_name}_results.csv
+# Optional Settings:
+- You can configure the run options, such as models to run, whether or not to re-generate embeddings (or to use ones that are existing)
+- Whether or not to run LLM judge (not recommneded unless on GPU)
+
+2.  `python evaluation_pipeline/run_full_pipeline.py`  
+
+# Compare Results Across Models
+`python run_model_comparison.py --eval_results_dir <eval_results_dir>`
+- eval_results_dir:  Where the retrieval results are stored
+- k: value of k used for retrieval
+- llm: whether or not LLM judge results are included
+
+
 
 # Retrieval Data Input Structure Requirements
 - `history_file_path`: CSV file of browsing history exported from `moz_places`
