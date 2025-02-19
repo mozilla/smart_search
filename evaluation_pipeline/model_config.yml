@@ -7,22 +7,22 @@ models:
   "Xenova/all-MiniLM-L12-v2":
     prefix_query: ""
     prefix_document: ""
-    dimension: 348
+    dimension: 384
 
   "Xenova/all-MiniLM-L6-v2":
     prefix_query: ""
     prefix_document: ""
-    dimension: 348
+    dimension: 384
 
   "Xenova/multi-qa-MiniLM-L6-cos-v1":
     prefix_query: ""
     prefix_document: ""
-    dimension: 348
+    dimension: 384
 
   "Xenova/multi-qa-distilbert-cos-v1":
     prefix_query: ""
     prefix_document: ""
-    dimension: 348
+    dimension: 384
 
 
   "Xenova/all-mpnet-base-v2":
