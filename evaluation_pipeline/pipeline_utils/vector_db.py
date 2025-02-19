@@ -69,16 +69,14 @@ def read_and_insert_embeddings_into_db(db, model_run_details):
             serialized_vec = serialize_f32(list(vec))
             items.append((idx, serialized_vec, serialized_vec))
 
-        print(len(items))
-        print(len(items[0]))
-        print(type(items))
+        
         db.execute(f'''CREATE VIRTUAL TABLE vec_items_{model_run_details['model_name_normalized']} USING vec0(
                    embedding float[{EMBEDDING_SIZE}],
                    embedding_coarse bit[{EMBEDDING_SIZE}]
                    )
             '''
         )
-        print("got here2")
+
 
         db.executemany(f'''INSERT INTO vec_items_{model_run_details['model_name_normalized']}
                     (rowid, embedding, embedding_coarse)
