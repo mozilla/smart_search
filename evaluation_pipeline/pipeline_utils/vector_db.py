@@ -99,7 +99,6 @@ def read_and_insert_embeddings_into_db(db, model_run_details):
             serialized_vec = serialize_f32(list(vec))
             items.append((idx, serialized_vec))
 
-
         # Perform batch insertion into the vec0 table
         db.executemany(f'''INSERT INTO vec_items_{model_run_details['model_name_normalized']}
                     (rowid, embedding)
