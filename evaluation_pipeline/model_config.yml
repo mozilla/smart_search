@@ -22,7 +22,7 @@ models:
   "Xenova/multi-qa-distilbert-cos-v1":
     prefix_query: ""
     prefix_document: ""
-    dimension: 384
+    dimension: 768
 
 
   "Xenova/all-mpnet-base-v2":
@@ -39,7 +39,7 @@ models:
   "Xenova/paraphrase-multilingual-MiniLM-L12-v2":
     prefix_query: ""
     prefix_document: ""
-    dimension: 768
+    dimension: 384
 
 
 
