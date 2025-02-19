@@ -29,7 +29,7 @@ def extract_variants(row):
          'feature_string': model_runs.get('feature_string', None),
          'preprocess': model_runs.get('preprocess', None),
          'k': model_runs.get('k', None),
-         'binary_quanitzation': model_runs.get('binary_quantization',None),
+         'binary_quantization': model_runs.get('binary_quantization',None),
          'binary_quantization_coarse_filter': model_runs.get('binary_quantization_coarse_filter',None)
      })
 
