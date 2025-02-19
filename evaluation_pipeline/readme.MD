@@ -24,7 +24,7 @@ This folder contains scripts needed to run the evaluation pipeline for browsing 
 - You can configure the run options, such as models to run, whether or not to re-generate embeddings (or to use ones that are existing)
 - Whether or not to run LLM judge (not recommneded unless on GPU)
 
-2.  `python evaluation_pipeline/run_full_pipeline.py`  
+2.  `python evaluation_pipeline/run_evaluation_pipeline.py`  
 
 # Compare Results Across Models
 `python run_model_comparison.py --eval_results_dir <eval_results_dir>`
