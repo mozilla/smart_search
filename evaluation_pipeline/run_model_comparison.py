@@ -292,7 +292,6 @@ def plot_bar(label, metric, k, agg_metrics, eval_results_dir):
     fig.write_html(f"{eval_results_dir}/figs/{label}_{metric}_interactive_bar.html")
 
 def plot_interactive_metrics(label, metric, k, agg_metrics, eval_results_dir):
-    print(agg_metrics.columns)
     """ Generates an interactive scatter plot with hover details """
 
      # Ensure the model_name is treated as a categorical variable and preserve order
