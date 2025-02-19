@@ -35,7 +35,8 @@ retrieval:
     - "title"
     - "description"
   include_non_ml_baseline: True
-  binary_quantization: False  # True is not yet working
+  binary_quantization: False
+  coarse_filter: 0
 
 
 evaluation:

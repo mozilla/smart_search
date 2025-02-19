@@ -59,39 +59,34 @@ def read_and_insert_embeddings_into_db(db, model_run_details):
 
     print("creating table")
 
-    items = []
-    for idx, vec in enumerate(embeddings_dict[model_run_details['model_name']]):
-        items.append((idx, serialize_f32(list(vec))))
+
 
     if binary_quantization:
 
-        db.execute(f'''CREATE VIRTUAL TABLE all_vec_items_{model_run_details['model_name_normalized']} USING vec0(
-                   embedding float[{EMBEDDING_SIZE}]
-                   )
-            '''
-        )
+        items = []
 
-        db.executemany(f'''INSERT INTO all_vec_items_{model_run_details['model_name_normalized']}
-                    (rowid, embedding)
-                    VALUES (?, ?)
-                    ''',
-                    items
-        )
+        for idx, vec in enumerate(embeddings_dict[model_run_details['model_name']]):
+            serialized_vec = serialize_f32(list(vec))
+            items.append((idx, serialized_vec, serialized_vec))
 
+        print(len(items))
+        print(len(items[0]))
+        print(type(items))
         db.execute(f'''CREATE VIRTUAL TABLE vec_items_{model_run_details['model_name_normalized']} USING vec0(
                    embedding float[{EMBEDDING_SIZE}],
                    embedding_coarse bit[{EMBEDDING_SIZE}]
                    )
             '''
         )
+        print("got here2")
 
-        db.execute(f''' INSERT INTO vec_items_{model_run_details['model_name_normalized']}
-        SELECT rowid,
-                embedding,
-                vec_quantize_binary(embedding)
-        FROM all_vec_items_{model_run_details['model_name_normalized']}
-        '''
+        db.executemany(f'''INSERT INTO vec_items_{model_run_details['model_name_normalized']}
+                    (rowid, embedding, embedding_coarse)
+                    VALUES (?, ?, vec_quantize_binary(?))
+                    ''',
+                    items
         )
+
 
     else:
         db.execute(f'''CREATE VIRTUAL TABLE vec_items_{model_run_details['model_name_normalized']} USING vec0(
@@ -99,6 +94,15 @@ def read_and_insert_embeddings_into_db(db, model_run_details):
                    )
             '''
         )
+
+        items = []
+
+        for idx, vec in enumerate(embeddings_dict[model_run_details['model_name']]):
+            serialized_vec = serialize_f32(list(vec))
+            items.append((idx, serialized_vec))
+
+        print(len(items))
+        print(len(items[0]))
 
         # Perform batch insertion into the vec0 table
         db.executemany(f'''INSERT INTO vec_items_{model_run_details['model_name_normalized']}

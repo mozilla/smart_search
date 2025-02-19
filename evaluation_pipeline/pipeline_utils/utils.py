@@ -181,7 +181,7 @@ def convert_dict_to_df(retrieval_dict, ground_truth, norm_ground_truth, model_ru
     return df
 
 
-def build_model_run_details_dict(history_file_path, model_name, features, quantized_model, distance_measure, pooling, preprocess, row_limit, k, binary_quantization=False, binary_quantization_coarse_filter=100):
+def build_model_run_details_dict(history_file_path, model_name, features, quantized_model, distance_measure, pooling, preprocess, row_limit, k, binary_quantization=False, binary_quantization_coarse_filter=0):
 
     dataset = history_file_path.split('/')[-1].replace('.csv','')
 
@@ -190,7 +190,7 @@ def build_model_run_details_dict(history_file_path, model_name, features, quanti
     feature_string = "_".join(features)
 
     suffix = '_quantized' * quantized_model
-    binary_quantization_suffix = '_binary_quantized' * binary_quantization
+    binary_quantization_suffix = f'_binary_quantized_{binary_quantization_coarse_filter}' * binary_quantization
     model_run_details  = {'model_name': model_name,
                           'model_name_normalized': model_name_normalized,
                           'quantized': quantized_model,

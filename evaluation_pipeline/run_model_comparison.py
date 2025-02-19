@@ -29,6 +29,8 @@ def extract_variants(row):
          'feature_string': model_runs.get('feature_string', None),
          'preprocess': model_runs.get('preprocess', None),
          'k': model_runs.get('k', None),
+         'binary_quanitzation': model_runs.get('binary_quantization',None),
+         'binary_quantization_coarse_filter': model_runs.get('binary_quantization_coarse_filter',None)
      })
 
 def load_results(label, eval_results_dir, metrics, k):
@@ -152,6 +154,8 @@ def precision_recall_tradeoff(label,k, agg_metrics, eval_results_dir):
             f"precision@{k}_jitter": False,
             f"recall@{k}_jitter": False,
             "embedding_size": True,
+            "binary_quantization": True,
+            "binary_quantization_coarse_filter":True
 
 
             },  # Tooltip details
@@ -288,6 +292,7 @@ def plot_bar(label, metric, k, agg_metrics, eval_results_dir):
     fig.write_html(f"{eval_results_dir}/figs/{label}_{metric}_interactive_bar.html")
 
 def plot_interactive_metrics(label, metric, k, agg_metrics, eval_results_dir):
+    print(agg_metrics.columns)
     """ Generates an interactive scatter plot with hover details """
 
      # Ensure the model_name is treated as a categorical variable and preserve order
@@ -316,6 +321,8 @@ def plot_interactive_metrics(label, metric, k, agg_metrics, eval_results_dir):
             "quantized":True,
             "x_jittered":False,
             "embedding_size": True,
+            "binary_quantization": True,
+            "binary_quantization_coarse_filter":True
         },
 
         title=f"Model Variants Performance at {k} - {metric} - {label}"
@@ -434,11 +441,13 @@ def main(llm, k,  eval_results_dir):
              agg_metrics, all_data =  load_results(label,  eval_results_dir=eval_results_dir, metrics=llm_metrics, k=k)
              for metric in llm_metrics:
                 plot_bar(label, metric, k, agg_metrics, eval_results_dir)
+                plot_interactive_metrics(label, metric, k, agg_metrics, eval_results_dir)
         else:
              # traditional metrics
              agg_metrics, all_data =  load_results(label, eval_results_dir=eval_results_dir, metrics=traditional_metrics, k=k)
              for metric in traditional_metrics:
                  plot_bar(label, metric, k, agg_metrics, eval_results_dir)
+                 plot_interactive_metrics(label, metric, k, agg_metrics, eval_results_dir)
 
 
 

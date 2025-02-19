@@ -8,7 +8,6 @@ from urllib.parse import urlparse, urlunparse
 import nltk
 from pipeline_utils.features import process_history
 from rank_bm25 import BM25Okapi
-import argparse
 import pandas as pd
 import re
 from urllib.parse import unquote

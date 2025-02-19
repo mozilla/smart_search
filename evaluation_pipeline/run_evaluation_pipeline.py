@@ -42,6 +42,8 @@ def full_pipeline(config_path, model_name):
     features = config["retrieval"]["features"]
     include_non_ml_baseline = config['retrieval']['include_non_ml_baseline']
     binary_quantization = config['retrieval']['binary_quantization']
+    coarse_filter = config['retrieval']['coarse_filter']
+
 
     # build run metadata in dict format
     model_run_details = build_model_run_details_dict(
@@ -54,7 +56,8 @@ def full_pipeline(config_path, model_name):
          preprocess,
          row_limit,
          k,
-         binary_quantization)
+         binary_quantization,
+         coarse_filter)
 
     # features
     print("features")

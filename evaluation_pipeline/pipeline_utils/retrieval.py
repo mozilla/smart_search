@@ -28,56 +28,91 @@ def query_and_result(fe, prefix, query, db, model_run_details):
     embedding_dim = len(query_embedding)
 
     binary_quantization = model_run_details['binary_quantization']
+
     if binary_quantization:
+
         coarse_filter = model_run_details['binary_quantization_coarse_filter']
-        print(coarse_filter)
 
-        # this is not working yet 
-        rows = db.execute(
-            f'''
-            with coarse_matches as (
-            SELECT a.rowid,
-            a.embedding,
-            b.title,
-            b.description,
-            b.url,
-            b.norm_url,
-            b.combined_text
+        query_serialized_vec = serialize_f32(query_embedding)
 
-            FROM vec_items_{model_run_details['model_name_normalized']} a
-    
-            inner join search_data b
-            on a.rowid = b.rowid
-    
-            WHERE
-            embedding_coarse match vec_quantize_binary(?)
-            and b.url not like '%google.com/search?%'
-    
-            ORDER BY DISTANCE
-            LIMIT {coarse_filter}
-        ) coarse_matches
-    
-        SELECT rowid,
-            title,
-            description,
-            url,
-            norm_url,
-            combined_text,
-            vec_distance_{distance_measure}(embedding, ?) AS {distance_measure}_distance
-    
-        FROM coarse_matches
-    
-        ORDER BY {distance_measure}_distance
+        if coarse_filter > 0:
 
-        LIMIT {model_run_details['k']}
+            # pre-filter using coarse match, then refine using detailed embedding
+            rows = db.execute(
+                f'''
+                with coarse_matches as (
+                SELECT a.rowid,
+                a.embedding,
+                b.title,
+                b.description,
+                b.url,
+                b.norm_url,
+                b.combined_text
 
-            ''',
-         [serialize_f32(query_embedding), serialize_f32(query_embedding)],
-         ).fetchall()
+                FROM vec_items_{model_run_details['model_name_normalized']} a
+
+                inner join search_data b
+                on a.rowid = b.rowid
+
+                WHERE
+                embedding_coarse match vec_quantize_binary(:query_serialized_vec)
+                and b.url not like '%google.com/search?%'
+                and k = {coarse_filter}
+
+                ORDER BY DISTANCE
+
+            )
+    
+            SELECT rowid,
+                title,
+                description,
+                url,
+                norm_url,
+                combined_text,
+                vec_distance_{distance_measure}(embedding, :query_serialized_vec) AS {distance_measure}_distance
+
+            FROM coarse_matches
+        
+            ORDER BY {distance_measure}_distance
+
+            LIMIT :k
+
+                ''',
+             {"query_serialized_vec": query_serialized_vec, "k": model_run_details['k']},
+             ).fetchall()
+
+        else:
+
+            # binary quanitzation directly, no course match (uses hamming distance for bit vectors)
+            rows = db.execute(
+                f'''
+                SELECT a.rowid,
+                b.title,
+                b.description,
+                b.url,
+                b.norm_url,
+                b.combined_text,
+                vec_distance_hamming(embedding_coarse, vec_quantize_binary(:query_serialized_vec)) as distance
+
+                FROM vec_items_{model_run_details['model_name_normalized']} a
+
+
+                inner join search_data b
+                on a.rowid = b.rowid
+
+                WHERE
+                b.url not like '%google.com/search?%'
+
+                ORDER BY distance
+
+                LIMIT :k
+
+                ''',
+              {"query_serialized_vec": query_serialized_vec, "k": model_run_details['k']},
+             ).fetchall()
 
     else:
 
-         # NO BINARY QUANTIZATIOn
          rows = db.execute(
          f"""
           SELECT
