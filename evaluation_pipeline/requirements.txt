@@ -20,3 +20,4 @@ rank-bm25==0.2.2
 nltk==3.9.1
 python-dotenv==1.0.1
 wandb==0.19.6
+plotly==5.24.1
