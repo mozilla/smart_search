@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "What is a CDHP? What is a CDHP? CDHP stands for consumer-directed health plan. There are several different types of CDHPs \u2014 some that can be paired with an individual plan and some that must be paired with a group plan though an employer. What all CDHPs have in common, though, is a personal healthcare account used",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses consumer-directed health plans (CDHP) and personal healthcare accounts, unrelated to software development IDEs. Therefore not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "What is a CDHP? What is a CDHP? CDHP stands for consumer-directed health plan. There are several different types of CDHPs \u2014 some that can be paired with an individual plan and some that must be paired with a group plan though an employer. What all CDHPs have in common, though, is a personal healthcare account used",
+  "history": {
+    "url": "https://www.pacificsource.com/consumer-directed-health-plans-101/page-1.aspx",
+    "title": "What is a CDHP?",
+    "description": "What is a CDHP? CDHP stands for consumer-directed health plan. There are several different types of CDHPs \u2014 some that can be paired with an individual plan and some that must be paired with a group plan though an employer. What all CDHPs have in common, though, is a personal healthcare account used ",
+    "frecency": 2548,
+    "url_hash": 60436162099374,
+    "last_visit_date": 1758203929406111
+  }
+}

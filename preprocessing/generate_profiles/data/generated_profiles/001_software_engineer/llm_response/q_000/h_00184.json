@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "TechCenter OS and Applications - Wiki Subscribe Article History Secure Boot overview OS and Applications - Wiki You may be hearing a lot of clamor about secure boot these days in Linux and Windows operating systems. This set of blogs will explain about secure boot and how it is extended to Linux; specifically",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Secure Boot and OS/Linux topics, not API integration debugging.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "TechCenter OS and Applications - Wiki Subscribe Article History Secure Boot overview OS and Applications - Wiki You may be hearing a lot of clamor about secure boot these days in Linux and Windows operating systems. This set of blogs will explain about secure boot and how it is extended to Linux; specifically",
+  "history": {
+    "url": "http://en.community.dell.com/techcenter/os-applications/w/wiki/7568.secure-boot-overview",
+    "title": "TechCenter",
+    "description": "OS and Applications - Wiki Subscribe Article History Secure Boot overview OS and Applications - Wiki You may be hearing a lot of clamor about secure boot these days in Linux and Windows operating systems. This set of blogs will explain about secure boot and how it is extended to Linux; specifically ",
+    "frecency": 4370,
+    "url_hash": 70921235911669,
+    "last_visit_date": 1758203929302200
+  }
+}

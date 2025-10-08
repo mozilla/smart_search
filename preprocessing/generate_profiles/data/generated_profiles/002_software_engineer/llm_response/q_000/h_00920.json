@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Respite Care for Resource Families Home Topics Preventing Child Abuse & Neglect Prevention Programs Respite Care Programs Respite Care for Resource Families Respite Care for Resource Families Respite care can be a good option when parents need a break from the daily stresses of parenting or have obligations that may prevent them from",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses respite care for resource families and child abuse prevention, not API integration or debugging. No content related to debugging APIs.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Respite Care for Resource Families Home Topics Preventing Child Abuse & Neglect Prevention Programs Respite Care Programs Respite Care for Resource Families Respite Care for Resource Families Respite care can be a good option when parents need a break from the daily stresses of parenting or have obligations that may prevent them from",
+  "history": {
+    "url": "https://www.childwelfare.gov/topics/preventing/prevention-programs/respite/respite-care-for-resource-families/",
+    "title": "Respite Care for Resource Families",
+    "description": "Home Topics Preventing Child Abuse & Neglect Prevention Programs Respite Care Programs Respite Care for Resource Families Respite Care for Resource Families Respite care can be a good option when parents need a break from the daily stresses of parenting or have obligations that may prevent them from",
+    "frecency": 3349,
+    "url_hash": 7121854140399,
+    "last_visit_date": 1758203927266111
+  }
+}

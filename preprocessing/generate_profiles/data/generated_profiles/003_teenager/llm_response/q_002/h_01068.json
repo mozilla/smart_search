@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "How do people define beauty? \"Byron Katie, American Speaker, Author & Instructor of \\\"The Work of Byron Katie\\\"Answered Sep 3, 2015If you think that only Mozart is beautiful, there's no room in your world for rap. You're entitled to your opinion, of course, but other people think that rap is where it's at. How do you react when",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses defining beauty and Byron Katie, not related to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "How do people define beauty? \"Byron Katie, American Speaker, Author & Instructor of \"\"The Work of Byron Katie\"\"Answered Sep 3, 2015If you think that only Mozart is beautiful, there's no room in your world for rap. You're entitled to your opinion, of course, but other people think that rap is where it's at. How do you react when",
+  "history": {
+    "url": "https://www.quora.com/How-do-people-define-beauty",
+    "title": "How do people define beauty?",
+    "description": "\"Byron Katie, American Speaker, Author & Instructor of \"\"The Work of Byron Katie\"\"Answered Sep 3, 2015If you think that only Mozart is beautiful, there's no room in your world for rap. You're entitled to your opinion, of course, but other people think that rap is where it's at. How do you react when",
+    "frecency": 3896,
+    "url_hash": 31241179731330,
+    "last_visit_date": 1758203932899228
+  }
+}

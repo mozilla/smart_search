@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Indiana Small Business Insurance \"Indiana Small Business Insurance We provide Indiana business insurance to professional services companies. Hiscox small business insurance coverage includes professional liability insurance and general liability insurance. Hiscox small business insurance products include: General Liability Insuranc",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns Indiana small business insurance, not Docker setup for beginners; it does not pertain to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Indiana Small Business Insurance \"Indiana Small Business Insurance We provide Indiana business insurance to professional services companies. Hiscox small business insurance coverage includes professional liability insurance and general liability insurance. Hiscox small business insurance products include: General Liability Insuranc",
+  "history": {
+    "url": "http://www.hiscox.com/small-business-insurance/indiana-business-insurance/",
+    "title": "Indiana Small Business Insurance",
+    "description": "\"Indiana Small Business Insurance We provide Indiana business insurance to professional services companies. Hiscox small business insurance coverage includes professional liability insurance and general liability insurance. Hiscox small business insurance products include: General Liability Insuranc",
+    "frecency": 722,
+    "url_hash": 94339671466988,
+    "last_visit_date": 1758203927260111
+  }
+}

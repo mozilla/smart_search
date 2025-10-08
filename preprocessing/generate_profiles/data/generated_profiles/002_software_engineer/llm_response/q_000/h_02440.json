@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Federal holidays in the United States - From Wikipedia, the free encyclopedia. This article is about government employee holidays. For other uses, see Federal holidays in the United States (disambiguation). This article needs additional citations for verification. Please help improve this article by adding citations to re",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is unrelated to debugging APIs or API integration; it discusses federal holidays in the United States.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Federal holidays in the United States \"From Wikipedia, the free encyclopedianavigation search This article is about government employee holidays. For other uses, see Federal holidays in the United States (disambiguation). This article needs additional citations for verification. Please help improve this article by adding citations to re",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Federal_holidays_in_the_United_States",
+    "title": "Federal holidays in the United States",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search This article is about government employee holidays. For other uses, see Federal holidays in the United States (disambiguation). This article needs additional citations for verification. Please help improve this article by adding citations to re",
+    "frecency": 595,
+    "url_hash": 61526725344292,
+    "last_visit_date": 1758203927076111
+  }
+}

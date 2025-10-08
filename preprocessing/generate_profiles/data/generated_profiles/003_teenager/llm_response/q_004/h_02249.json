@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Fitness Appointments at Mayo Clinic Mayo Clinic offers appointments in Arizona, Florida and Minnesota and at Mayo Clinic Health System locations. Request Appointment Healthy Lifestyle Fitness Basics In-Depth Expert Answers Multimedia Resources News From Mayo Clinic What's New Products and services Free E-ne",
+  "relevance_score": 0.4,
+  "binary_decision": 1,
+  "Decision_Reason": "The page covers fitness basics and healthy lifestyle topics, which are related to improving physical performance, but it is not specifically focused on strategies or training for getting better at sports. It's moderately relevant rather than strongly linked to sports-specific improvement.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Fitness Appointments at Mayo Clinic Mayo Clinic offers appointments in Arizona, Florida and Minnesota and at Mayo Clinic Health System locations. Request Appointment Healthy Lifestyle Fitness Basics In-Depth Expert Answers Multimedia Resources News From Mayo Clinic What's New Products and services Free E-ne",
+  "history": {
+    "url": "http://www.mayoclinic.org/healthy-lifestyle/fitness/expert-answers/weight-training/faq-20058479",
+    "title": "Fitness",
+    "description": "Appointments at Mayo Clinic Mayo Clinic offers appointments in Arizona, Florida and Minnesota and at Mayo Clinic Health System locations. Request Appointment Healthy Lifestyle Fitness Basics In-Depth Expert Answers Multimedia Resources News From Mayo Clinic What's New Products and services Free E-ne",
+    "frecency": 2681,
+    "url_hash": 83433445938222,
+    "last_visit_date": 1758203927660735
+  }
+}

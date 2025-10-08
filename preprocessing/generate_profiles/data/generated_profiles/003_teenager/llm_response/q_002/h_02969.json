@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Therapists in Champlin, MN \"Soul Work Counseling Marriage & Family Therapist Intern, MA, LAMFTVerified by Psychology Today\"\"Are you lacking courage in tackling the day to day tasks of life? Are you finding it difficult to manage stress? Are life issues taking you away from finding joy in your journey? I specialize in managing",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about therapists and counseling, not about easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Therapists in Champlin, MN \"Soul Work Counseling Marriage & Family Therapist Intern, MA, LAMFTVerified by Psychology Today\"\"Are you lacking courage in tackling the day to day tasks of life? Are you finding it difficult to manage stress? Are life issues taking you away from finding joy in your journey? I specialize in managing",
+  "history": {
+    "url": "https://therapists.psychologytoday.com/rms/state/MN/Champlin.html",
+    "title": "Therapists in Champlin, MN",
+    "description": "\"Soul Work Counseling Marriage & Family Therapist Intern, MA, LAMFTVerified by Psychology Today\"\"Are you lacking courage in tackling the day to day tasks of life? Are you finding it difficult to manage stress? Are life issues taking you away from finding joy in your journey? I specialize in managing",
+    "frecency": 1877,
+    "url_hash": 44006005345857,
+    "last_visit_date": 1758203931313228
+  }
+}

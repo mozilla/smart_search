@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "How to Make a Decoction Edit Article How to Make a Decoction Herbal teas can be very pleasurable to drink, but can also, with regular use, tone, soothe, and balance the body. Use the decoction method of brewing tea when working with hard, woody substances (such as roots, bark, and stems) that have constituents that are wat",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses making decoctions and herbal teas, not DIY room decoration ideas. It has no relevance to the query about easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "How to Make a Decoction Edit Article How to Make a Decoction Herbal teas can be very pleasurable to drink, but can also, with regular use, tone, soothe, and balance the body. Use the decoction method of brewing tea when working with hard, woody substances (such as roots, bark, and stems) that have constituents that are wat",
+  "history": {
+    "url": "http://www.wikihow.com/Make-a-Decoction",
+    "title": "How to Make a Decoction",
+    "description": "Edit Article How to Make a Decoction Herbal teas can be very pleasurable to drink, but can also, with regular use, tone, soothe, and balance the body. Use the decoction method of brewing tea when working with hard, woody substances (such as roots, bark, and stems) that have constituents that are wat",
+    "frecency": 4215,
+    "url_hash": 25514260462415,
+    "last_visit_date": 1758203927836735
+  }
+}

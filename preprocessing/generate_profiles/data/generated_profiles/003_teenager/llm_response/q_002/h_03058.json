@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Identifying Bad Capacitors \\\"Electrolytic capacitors are one of the few components used in game consoles & home computers that slowly change over time. This is considered normal, and depending on usage, quality of original parts, etc., replacement will probably be necessary at some point. Certain hardware is prone to having ou",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses identifying bad capacitors in electronics hardware, which is unrelated to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Identifying Bad Capacitors \"Electrolytic capacitors are one of the few components used in game consoles & home computers that slowly change over time. This is considered normal, and depending on usage, quality of original parts, etc., replacement will probably be necessary at some point. Certain hardware is prone to having ou",
+  "history": {
+    "url": "https://console5.com/wiki/Identifying_Bad_Capacitors",
+    "title": "Identifying Bad Capacitors",
+    "description": "\"Electrolytic capacitors are one of the few components used in game consoles & home computers that slowly change over time. This is considered normal, and depending on usage, quality of original parts, etc., replacement will probably be necessary at some point. Certain hardware is prone to having ou",
+    "frecency": 1782,
+    "url_hash": 84682710977491,
+    "last_visit_date": 1758203933157228
+  }
+}

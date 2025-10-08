@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "LaVan Davis \"La Van Davis Born September 21, 1966 (age 51)Atlanta, Georgia Nationality American Occupation Actor, comedian, singer Years active 2003\u2013present La Van Davis (born September 21, 1966) is an American singer, comedian, and actor best known for his starring role as Curtis Payne on the TBS comedy-drama",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about an actor and contains nothing related to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "LaVan Davis \"La Van Davis Born September 21, 1966 (age 51)Atlanta, Georgia Nationality American Occupation Actor, comedian, singer Years active 2003\u2013present La Van Davis (born September 21, 1966) is an American singer, comedian, and actor best known for his starring role as Curtis Payne on the TBS comedy-drama",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/LaVan_Davis",
+    "title": "LaVan Davis",
+    "description": "\"La Van Davis Born September 21, 1966 (age 51)Atlanta, Georgia Nationality American Occupation Actor, comedian, singer Years active 2003\u2013present La Van Davis (born September 21, 1966) is an American singer, comedian, and actor best known for his starring role as Curtis Payne on the TBS comedy-drama ",
+    "frecency": 463,
+    "url_hash": 80837657615512,
+    "last_visit_date": 1758203927405139
+  }
+}

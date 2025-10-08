@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Wireless SCADA Wireless SCADAFor an introduction to SCADA, please refer to Technote: Introduction to SCADA. Wireless SCADA is required in those applications when wireline communications to the remote site is prohibitively expensive or it is too time-consuming to construct. In particular types of industry such as O",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Wireless SCADA (industrial control systems) and is not about IDEs or software development environments.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Wireless SCADA Wireless SCADAFor an introduction to SCADA, please refer to Technote: Introduction to SCADA. Wireless SCADA is required in those applications when wireline communications to the remote site is prohibitively expensive or it is too time-consuming to construct. In particular types of industry such as O",
+  "history": {
+    "url": "https://www.scadalink.com/support/knowledge-base/wireless-scada/",
+    "title": "Wireless SCADA",
+    "description": "Wireless SCADAFor an introduction to SCADA, please refer to Technote: Introduction to SCADA. Wireless SCADA is required in those applications when wireline communications to the remote site is prohibitively expensive or it is too time-consuming to construct. In particular types of industry such as O",
+    "frecency": 4139,
+    "url_hash": 10541325702527,
+    "last_visit_date": 1758203927404111
+  }
+}

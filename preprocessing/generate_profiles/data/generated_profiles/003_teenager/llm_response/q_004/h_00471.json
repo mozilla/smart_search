@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "'Watts' the mystery? The energy units that power our lives \\\"0Energy is a complex subject, loaded with many specialized terms and a confusing array of units and inconsistent abbreviations. For example, natural gas reserves and production are usually measured in cubic feet, but natural gas is usually traded in terms of British thermal units, and it shows up o",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses energy units and energy measurement, not sports performance or improvement.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "'Watts' the mystery? The energy units that power our lives \"0Energy is a complex subject, loaded with many specialized terms and a confusing array of units and inconsistent abbreviations. For example, natural gas reserves and production are usually measured in cubic feet, but natural gas is usually traded in terms of British thermal units, and it shows up o",
+  "history": {
+    "url": "http://www.zdnet.com/article/watts-the-mystery-the-energy-units-that-power-our-lives/",
+    "title": "'Watts' the mystery? The energy units that power our lives",
+    "description": "\"0Energy is a complex subject, loaded with many specialized terms and a confusing array of units and inconsistent abbreviations. For example, natural gas reserves and production are usually measured in cubic feet, but natural gas is usually traded in terms of British thermal units, and it shows up o",
+    "frecency": 4500,
+    "url_hash": 60925214431886,
+    "last_visit_date": 1758203935625228
+  }
+}

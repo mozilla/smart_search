@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Other Key Nutrients in Bone Health \"The health and strength of our bones rely on a balanced diet and a steady stream of nutrients, most importantly, calcium and Vitamin D. Calcium is a mineral that people need to build and maintain strong bones and teeth. It is also very important for other physical functions, such as muscle control\"",
+  "relevance_score": 0.2,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses bone health nutrients (calcium and Vitamin D) and their role in bone strength, not strategies or information on improving athletic performance. Limited relevance to the query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Other Key Nutrients in Bone Health \"The health and strength of our bones rely on a balanced diet and a steady stream of nutrients, most importantly, calcium and Vitamin D. Calcium is a mineral that people need to build and maintain strong bones and teeth. It is also very important for other physical functions, such as muscle control",
+  "history": {
+    "url": "http://orthoinfo.aaos.org/topic.cfm?topic=A00317",
+    "title": "Other Key Nutrients in Bone Health",
+    "description": "\"The health and strength of our bones rely on a balanced diet and a steady stream of nutrients, most importantly, calcium and Vitamin D. Calcium is a mineral that people need to build and maintain strong bones and teeth. It is also very important for other physical functions, such as muscle control ",
+    "frecency": 4662,
+    "url_hash": 18188123262477,
+    "last_visit_date": 1758203926673139
+  }
+}

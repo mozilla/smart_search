@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "How to Soothe a Sunburn With Vinegar How to Soothe a Sunburn With Vinegarby JONAE FREDERICKS Oct. 03, 2017Vinegar has antiseptic properties that can kill germs and relieve pain, according to Bonnie K. Mc Millen, R. N., B. S. N., college health nurse at the University of Pittsburgh at Bradford. If you are experiencing pain from the sunbur",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about sunburn treatment with vinegar, unrelated to Docker or container setup; thus not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "How to Soothe a Sunburn With Vinegar How to Soothe a Sunburn With Vinegarby JONAE FREDERICKS Oct. 03, 2017Vinegar has antiseptic properties that can kill germs and relieve pain, according to Bonnie K. Mc Millen, R. N., B. S. N., college health nurse at the University of Pittsburgh at Bradford. If you are experiencing pain from a sunbur",
+  "history": {
+    "url": "http://www.livestrong.com/article/94502-soothe-sunburn-vinegar/",
+    "title": "How to Soothe a Sunburn With Vinegar",
+    "description": "How to Soothe a Sunburn With Vinegarby JONAE FREDERICKS Oct. 03, 2017Vinegar has antiseptic properties that can kill germs and relieve pain, according to Bonnie K. Mc Millen, R. N., B. S. N., college health nurse at the University of Pittsburgh at Bradford. If you are experiencing pain from a sunbur",
+    "frecency": 3733,
+    "url_hash": 66343878771979,
+    "last_visit_date": 1758203927038200
+  }
+}

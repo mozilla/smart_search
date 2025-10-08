@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Exclusive Deals. Vacation Experts. Personalized Service. Exclusive Deals. Vacation Experts. Personalized Service. Follow Us To A Better Vacation \u2122Search Cruises Search Tours Caribbean Cruises from $369 Europe Cruises from $609 Alaska Cruises from $609Last Minute Cruises",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page content is about vacations and cruises, not about Docker or setting up Docker for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Exclusive Deals. Vacation Experts. Personalized Service. Exclusive Deals. Vacation Experts. Personalized Service. Follow Us To A Better Vacation \u2122Search Cruises Search Tours Caribbean Cruises from $369 Europe Cruises from $609 Alaska Cruises from $609Last Minute Cruises",
+  "history": {
+    "url": "http://www.avoyatravel.com/",
+    "title": "Exclusive Deals. Vacation Experts. Personalized Service.",
+    "description": "Exclusive Deals. Vacation Experts. Personalized Service. Follow Us To A Better Vacation \u2122Search Cruises Search Tours Caribbean Cruises from $369 Europe Cruises from $609 Alaska Cruises from $609Last Minute Cruises ",
+    "frecency": 2736,
+    "url_hash": 49652765614523,
+    "last_visit_date": 1758203930564111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Shopping in St.Petersburg \"Shopping in St. Petersburg It is impossible to get to know the real Russia without getting acquainted with its traditions, folklore, customs, beliefs, and, of course, applied art. Applied arts of Russia accumulate all the abovementioned for the hand-made works produced by traditional masters, such",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about shopping in St. Petersburg and Russian traditional arts, not about improving performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Shopping in St.Petersburg \"Shopping in St. Petersburg It is impossible to get to know the real Russia without getting acquainted with its traditions, folklore, customs, beliefs, and, of course, applied art. Applied arts of Russia accumulate all the abovementioned for the hand-made works produced by traditional masters, such",
+  "history": {
+    "url": "http://stpetersburg-guide.com/shop/",
+    "title": "Shopping in St.Petersburg",
+    "description": "\"Shopping in St. Petersburg It is impossible to get to know the real Russia without getting acquainted with its traditions, folklore, customs, beliefs, and, of course, applied art. Applied arts of Russia accumulate all the abovementioned for the hand-made works produced by traditional masters, such ",
+    "frecency": 615,
+    "url_hash": 99972187789003,
+    "last_visit_date": 1758203930653228
+  }
+}

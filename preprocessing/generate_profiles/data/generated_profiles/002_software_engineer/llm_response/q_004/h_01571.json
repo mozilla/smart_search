@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "The Question You're Not Asking: Should You Go To College? \"5 More Dumb Questions With Surprisingly Interesting Answers6 Underreported Reasons Why The NRA Is Just The Worst What If Your Job Paid You To Do Absolutely Nothing? Make Sure Your Private Data Stays That Way With A VPNFoldable Phones, Smart Porn, And Other Breaking Tech News Blog History The Questi\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses college questions and general tech news, not Docker setup or beginner-oriented Docker tutorials; topic mismatch indicates low relevance.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "The Question You're Not Asking: Should You Go To College? \"5 More Dumb Questions With Surprisingly Interesting Answers6 Underreported Reasons Why The NRA Is Just The Worst What If Your Job Paid You To Do Absolutely Nothing? Make Sure Your Private Data Stays That Way With A VPNFoldable Phones, Smart Porn, And Other Breaking Tech News Blog History The Questi",
+  "history": {
+    "url": "http://www.cracked.com/blog/the-question-youre-not-asking-should-you-go-to-college/",
+    "title": "The Question You're Not Asking: Should You Go To College?",
+    "description": "\"5 More Dumb Questions With Surprisingly Interesting Answers6 Underreported Reasons Why The NRA Is Just The Worst What If Your Job Paid You To Do Absolutely Nothing? Make Sure Your Private Data Stays That Way With A VPNFoldable Phones, Smart Porn, And Other Breaking Tech News Blog History The Questi",
+    "frecency": 2160,
+    "url_hash": 31630588447617,
+    "last_visit_date": 1758203931352111
+  }
+}

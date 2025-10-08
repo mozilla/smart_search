@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Taxi Service Taxi Airport Shuttle Airport Transportation In our many years in the transportation business, we have come to realize that no two rides are ever alike. We have provided taxi rides for all kinds of...read more Getting to the airport doesn\u2019t have to be the ordeal that everyone has come to dread. With",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about taxi services and airport transportation, not about Python libraries or machine learning; it is unrelated to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Taxi Service Taxi Airport Shuttle Airport Transportation In our many years in the transportation business, we have come to realize that no two rides are ever alike. We have provided taxi rides for all kinds of...read more Getting to the airport doesn\u2019t have to be the ordeal that everyone has come to dread. With",
+  "history": {
+    "url": "http://www.taxifayetteville.com/",
+    "title": "Taxi Service",
+    "description": "Taxi Airport Shuttle Airport Transportation In our many years in the transportation business, we have come to realize that no two rides are ever alike. We have provided taxi rides for all kinds of...read more Getting to the airport doesn\u2019t have to be the ordeal that everyone has come to dread. With ",
+    "frecency": 1794,
+    "url_hash": 34167880953132,
+    "last_visit_date": 1758203927652111
+  }
+}

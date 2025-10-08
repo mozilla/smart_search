@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Google Play Movies & TV app Google Play Movies & TV app Chromecast requires Google Play Movies & TV app version 2.6.9 or higher on Android and version 1.0.1 on i OS. To update to the latest version, please visit Google Play or the Apple App Store. Using Chromecast, you can cast movies & TV shows from the Google Play Movies & T",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns a media app (Google Play Movies & TV) and Chromecast, not Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Google Play Movies & TV app Google Play Movies & TV app Chromecast requires Google Play Movies & TV app version 2.6.9 or higher on Android and version 1.0.1 on i OS. To update to the latest version, please visit Google Play or the Apple App Store. Using Chromecast, you can cast movies & TV shows from the Google Play Movies & T",
+  "history": {
+    "url": "https://support.google.com/chromecast/answer/2998481?hl=en",
+    "title": "Google Play Movies & TV app",
+    "description": "Google Play Movies & TV app Chromecast requires Google Play Movies & TV app version 2.6.9 or higher on Android and version 1.0.1 on i OS. To update to the latest version, please visit Google Play or the Apple App Store. Using Chromecast, you can cast movies & TV shows from the Google Play Movies & T",
+    "frecency": 2907,
+    "url_hash": 80407591546718,
+    "last_visit_date": 1758203930250111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Who makes the Genesis? (car)? \\\"Cars & Transportation Car Makes Other - Car Makes Who makes the Genesis? (car)? Okay so I was driving downtown Friday and anyways I saw a black car and it looked very luxurious it had no brand names (that I could decipher while driving) I was looking for it on the internet and all I found was the h",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses car makes and Genesis cars, not content related to starting a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Who makes the Genesis? (car)? \"Cars & Transportation Car Makes Other - Car Makes Who makes the Genesis? (car)? Okay so I was driving downtown Friday and anyways I saw a black car and it looked very luxurious it had no brand names (that I could decipher while driving) I was looking for it on the internet and all I found was the h",
+  "history": {
+    "url": "https://answers.yahoo.com/question/index?qid=20090301200616AAzeLFi",
+    "title": "Who makes the Genesis? (car)?",
+    "description": "\"Cars & Transportation Car Makes Other - Car Makes Who makes the Genesis? (car)? Okay so I was driving downtown Friday and anyways I saw a black car and it looked very luxurious it had no brand names (that I could decipher while driving) I was looking for it on the internet and all I found was the h",
+    "frecency": 944,
+    "url_hash": 30355793639508,
+    "last_visit_date": 1758203928926735
+  }
+}

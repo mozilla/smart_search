@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Not Authorized Forgot your password? Contact your administrator. Login using an existing account Username Password Domain Retain login for future Note: You must login to add content or see restricted content.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a login/authorization page with no information about debugging API integration; thus it is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Not Authorized Forgot your password? Contact your administrator. Login using an existing account Username Password Domain Retain login for future Note: You must login to add content or see restricted content.",
+  "history": {
+    "url": "http://pods.dasnr.okstate.edu/docushare/dsweb/Get/Document-1025/HLA-6248web.pdf",
+    "title": "Not Authorized",
+    "description": "Forgot your password? Contact your administrator. Login using an existing account Username Password Domain Retain login for future Note: You must login to add content or see restricted content. ",
+    "frecency": 3610,
+    "url_hash": 57705358108555,
+    "last_visit_date": 1758203930752111
+  }
+}

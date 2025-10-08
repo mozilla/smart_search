@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Turtle Diary \"Turtle Diary From Wikipedia, the free encyclopedianavigation search Turtle Diary Theatrical release poster Directed by John Irvin Produced by Richard Johnson Bernard Sofronski (Executive Producer)Written by Russell Hoban (novel) Harold Pinter (screenplay)Starring Glenda Jackson Ben Kingsley Music b",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a film (Turtle Diary) and not about starting a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Turtle Diary \"Turtle Diary From Wikipedia, the free encyclopedianavigation search Turtle Diary Theatrical release poster Directed by John Irvin Produced by Richard Johnson Bernard Sofronski (Executive Producer)Written by Russell Hoban (novel) Harold Pinter (screenplay)Starring Glenda Jackson Ben Kingsley Music b",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Turtle_Diary",
+    "title": "Turtle Diary",
+    "description": "\"Turtle Diary From Wikipedia, the free encyclopedianavigation search Turtle Diary Theatrical release poster Directed by John Irvin Produced by Richard Johnson Bernard Sofronski (Executive Producer)Written by Russell Hoban (novel) Harold Pinter (screenplay)Starring Glenda Jackson Ben Kingsley Music b",
+    "frecency": 1144,
+    "url_hash": 86782325078876,
+    "last_visit_date": 1758203929272735
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Topgolf \"Topgolf From Wikipedia, the free encyclopedianavigation search Topgolf Formerly called Golf Entertainment International (now called Top Golf)Type Private Industry Sports Entertainment Founded 2000 in Watford, United Kingdom Founder Technology was developed by Steve & Dave Jolliffe of World Golf Sys",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns Topgolf, a sports entertainment company, and is not about studying apps or study habits; it is not relevant to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Topgolf \"Topgolf From Wikipedia, the free encyclopedianavigation search Topgolf Formerly called Golf Entertainment International (now called Top Golf)Type Private Industry Sports Entertainment Founded 2000 in Watford, United Kingdom Founder Technology was developed by Steve & Dave Jolliffe of World Golf Sys",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Topgolf",
+    "title": "Topgolf",
+    "description": "\"Topgolf From Wikipedia, the free encyclopedianavigation search Topgolf Formerly called Golf Entertainment International (now called Top Golf)Type Private Industry Sports Entertainment Founded 2000 in Watford, United Kingdom Founder Technology was developed by Steve & Dave Jolliffe of World Golf Sys",
+    "frecency": 2623,
+    "url_hash": 23644991602483,
+    "last_visit_date": 1758203928486735
+  }
+}

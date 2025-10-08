@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "how to assign value of 1 array to another array \\\"how to assign value of 1 array to another array\\\" Archived Forums V > Visual C# Language Question0Sign in to vote I have 1 array type string :string [] array2=new string [5]; And I call procedure name Get Array (), its return 1 array type string with 3 values : { 001,002,003} Now I want to transmit a",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses C# arrays and Visual C# forums, not Python libraries or machine learning topics.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "how to assign value of 1 array to another array \"how to assign value of 1 array to another array Archived Forums V > Visual C# Language Question0Sign in to vote I have 1 array type string :string [] array2=new string [5]; And I call procedure name Get Array (), its return 1 array type string with 3 values : { 001,002,003} Now I want to transmit a",
+  "history": {
+    "url": "https://social.msdn.microsoft.com/Forums/en-US/6422a773-85e3-4d05-b463-2093da2bc919/how-to-assign-value-of-1-array-to-another-array?forum=csharplanguage",
+    "title": "how to assign value of 1 array to another array",
+    "description": "\"how to assign value of 1 array to another array Archived Forums V > Visual C# Language Question0Sign in to vote I have 1 array type string :string [] array2=new string [5]; And I call procedure name Get Array (), its return 1 array type string with 3 values : { 001,002,003} Now I want to transmit a",
+    "frecency": 2212,
+    "url_hash": 80468220462585,
+    "last_visit_date": 1758203929452111
+  }
+}

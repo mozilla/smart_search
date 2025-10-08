@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Why elephants are NOT afraid of mice (but are terrified by ants) - Mail Online article about elephants",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses elephants and mice, not about starting a YouTube channel; content is unrelated to the query.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Why elephants are NOT afraid of mice (but are terrified by ants) \"Why elephants are NOT afraid of mice (but are terrified by ants)By David Derbyshire for Mail Online Updated: 20:56 EDT, 2 September 201013View comments Mice are supposed to strike terror into the hearts of elephants - at least if Disney cartoons are to be believed. But Dumbo's tormentors are actual",
+  "history": {
+    "url": "http://www.dailymail.co.uk/sciencetech/article-1308415/Elephants-NOT-afraid-mice-terrified-ants.html",
+    "title": "Why elephants are NOT afraid of mice (but are terrified by ants)",
+    "description": "\"Why elephants are NOT afraid of mice (but are terrified by ants)By David Derbyshire for Mail Online Updated: 20:56 EDT, 2 September 201013View comments Mice are supposed to strike terror into the hearts of elephants - at least if Disney cartoons are to be believed. But Dumbo's tormentors are actual",
+    "frecency": 113,
+    "url_hash": 4389063655510,
+    "last_visit_date": 1758203936157228
+  }
+}

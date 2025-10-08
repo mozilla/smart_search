@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "James Cagney Artist Biography by All Musicb. James Francis Cagney, 17 July 1899, New York City, New York, USA, d. 30 March 1986, Stanfordville, New York, USA. One of Hollywood\u2019s all-time great stars, Cagney was a versatile actor with a tough-guy image - he was particularly renowned for his gangster movies - who",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a biography of actor James Cagney, not related to Docker setup for beginners; it is not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "James Cagney Artist Biography by All Musicb. James Francis Cagney, 17 July 1899, New York City, New York, USA, d. 30 March 1986, Stanfordville, New York, USA. One of Hollywood\u2019s all-time great stars, Cagney was a versatile actor with a tough-guy image - he was particularly renowned for his gangster movies - who",
+  "history": {
+    "url": "http://www.allmusic.com/artist/james-cagney-mn0000781832/biography",
+    "title": "James Cagney",
+    "description": "Artist Biography by All Musicb. James Francis Cagney, 17 July 1899, New York City, New York, USA, d. 30 March 1986, Stanfordville, New York, USA. One of Hollywood\u2019s all-time great stars, Cagney was a versatile actor with a tough-guy image - he was particularly renowned for his gangster movies - who ",
+    "frecency": 138,
+    "url_hash": 23232448767368,
+    "last_visit_date": 1758203929974111
+  }
+}

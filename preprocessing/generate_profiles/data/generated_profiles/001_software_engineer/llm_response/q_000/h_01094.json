@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Avulsion fracture: How is it treated? Appointments at Mayo Clinic Mayo Clinic offers appointments in Arizona, Florida and Minnesota and at Mayo Clinic Health System locations. Request Appointment Avulsion fracture: How is it treated? Products and services Free E-newsletter Subscribe to Housecall Our general interest e-newsletter keeps y",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns avulsion fracture treatment and Mayo Clinic appointment information, unrelated to debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Avulsion fracture: How is it treated? Appointments at Mayo Clinic Mayo Clinic offers appointments in Arizona, Florida and Minnesota and at Mayo Clinic Health System locations. Request Appointment Avulsion fracture: How is it treated? Products and services Free E-newsletter Subscribe to Housecall Our general interest e-newsletter keeps y",
+  "history": {
+    "url": "http://www.mayoclinic.org/avulsion-fracture/expert-answers/FAQ-20058520",
+    "title": "Avulsion fracture: How is it treated?",
+    "description": "Appointments at Mayo Clinic Mayo Clinic offers appointments in Arizona, Florida and Minnesota and at Mayo Clinic Health System locations. Request Appointment Avulsion fracture: How is it treated? Products and services Free E-newsletter Subscribe to Housecall Our general interest e-newsletter keeps y",
+    "frecency": 1143,
+    "url_hash": 93856769652637,
+    "last_visit_date": 1758203929202200
+  }
+}

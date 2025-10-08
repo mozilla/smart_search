@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "rsyslog \"rsyslognavigation search Related articlessyslog-ng This article or section needs language, wiki syntax or style improvements. Reason: citing a 6 year old document. \"\"It was unmaintained for several years and contained false information\"\". Also numerous Help: Style issues. (Discuss in Talk: Rsyslog#",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses rsyslog and wiki discussion topics, not Docker or Docker setup. It is not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "rsyslog \"rsyslognavigation search Related articlessyslog-ng This article or section needs language, wiki syntax or style improvements. Reason: citing a 6 year old document. \"\"It was unmaintained for several years and contained false information\"\". Also numerous Help: Style issues. (Discuss in Talk: Rsyslog#",
+  "history": {
+    "url": "https://wiki.archlinux.org/index.php/Rsyslog",
+    "title": "rsyslog",
+    "description": "\"rsyslognavigation search Related articlessyslog-ng This article or section needs language, wiki syntax or style improvements. Reason: citing a 6 year old document. \"\"It was unmaintained for several years and contained false information\"\". Also numerous Help: Style issues. (Discuss in Talk: Rsyslog#",
+    "frecency": 1246,
+    "url_hash": 28174530622287,
+    "last_visit_date": 1758203931194111
+  }
+}

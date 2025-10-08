@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Roberts Blossom dies at 87; character played neighbor in 'Home Alone' \"Roberts Blossom dies at 87; character played neighbor in 'Home Alone'Roberts Blossom also won three Obie Awards for his off-Broadway work and performed on Broadway and TV and in many other films. He was a poet whose works were published in several books. July 14, 2011 | Dennis Mc Lellan, Los Angele",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is an obituary about actor Roberts Blossom and does not relate to improving sports performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Roberts Blossom dies at 87; character played neighbor in 'Home Alone' \"Roberts Blossom dies at 87; character played neighbor in 'Home Alone'Roberts Blossom also won three Obie Awards for his off-Broadway work and performed on Broadway and TV and in many other films. He was a poet whose works were published in several books. July 14, 2011 | Dennis Mc Lellan, Los Angele",
+  "history": {
+    "url": "http://articles.latimes.com/2011/jul/14/local/la-me-roberts-blossom-20110714",
+    "title": "Roberts Blossom dies at 87; character played neighbor in 'Home Alone'",
+    "description": "\"Roberts Blossom dies at 87; character played neighbor in 'Home Alone'Roberts Blossom also won three Obie Awards for his off-Broadway work and performed on Broadway and TV and in many other films. He was a poet whose works were published in several books. July 14, 2011 | Dennis Mc Lellan, Los Angele",
+    "frecency": 1723,
+    "url_hash": 127619709906,
+    "last_visit_date": 1758203929044735
+  }
+}

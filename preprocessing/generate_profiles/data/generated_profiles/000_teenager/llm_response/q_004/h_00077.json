@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "\"The King's Speech\" wins top Oscars ... (article about a film award, not related to sports improvement).",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns a film award, not content about improving performance in sports; not relevant to the query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "'The King's Speech' wins top Oscars \"Susan King and Rene Lynch Los Angeles Times Staff Writers\"\"The King's Speech\"\" was crowned best film at the 83rd Academy Awards on Sunday night. Nominated for 12 Oscars -- the most of any film -- it won four statuettes, including for Colin Firth for lead actor, Tom Hooper for director, and David Se",
+  "history": {
+    "url": "http://www.latimes.com/env-academy-awards-022711-story-story.html",
+    "title": "'The King's Speech' wins top Oscars",
+    "description": "\"Susan King and Rene Lynch Los Angeles Times Staff Writers\"\"The King's Speech\"\" was crowned best film at the 83rd Academy Awards on Sunday night. Nominated for 12 Oscars -- the most of any film -- it won four statuettes, including for Colin Firth for lead actor, Tom Hooper for director, and David Se",
+    "frecency": 4666,
+    "url_hash": 89728497029057,
+    "last_visit_date": 1758203927555139
+  }
+}

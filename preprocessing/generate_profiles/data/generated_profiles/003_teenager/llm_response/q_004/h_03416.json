@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Cyndi Lauper \"SEE RANKCyndi Lauper Soundtrack | Actress | Miscellaneous Crew Cyndi Lauper was born at Boulevard Hospital, in Astoria, Queens. She spent her first four years in the Williamsburg section of Brooklyn. Her family then moved to Ozone Park, Queens. See full bio \u00bbBorn: June 22, 1953 in Ozone Park, Queens. See full bio",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a biography about Cyndi Lauper, not related to improving at sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Cyndi Lauper \"SEE RANKCyndi Lauper Soundtrack | Actress | Miscellaneous Crew Cyndi was born at Boulevard Hospital, in Astoria, Queens. She spent her first four years in the Williamsburg section of Brooklyn. Her family then moved to Ozone Park, Queens. See full bio \u00bbBorn: June 22, 1953 in Ozone Park, Queens, New",
+  "history": {
+    "url": "http://www.imdb.com/name/nm0490980/",
+    "title": "Cyndi Lauper",
+    "description": "\"SEE RANKCyndi Lauper Soundtrack | Actress | Miscellaneous Crew Cyndi was born at Boulevard Hospital, in Astoria, Queens. She spent her first four years in the Williamsburg section of Brooklyn. Her family then moved to Ozone Park, Queens. See full bio \u00bbBorn: June 22, 1953 in Ozone Park, Queens, New ",
+    "frecency": 1431,
+    "url_hash": 78645918380475,
+    "last_visit_date": 1758203930767228
+  }
+}

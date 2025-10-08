@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "boat brands & manufacturers boat brands & manufacturers All-Purpose Fishing Boats Aluminum Fishing Boats Bass Boats Bay or Flats Boats Bowriders Cabin Cruisers Centre Consoles Cuddy Cabins Deck Boats Dinghies Fish & Ski High Performance Boats Inflatables Jet Boats Motor Yacht/Cruisers Multi-Hull Power Boats Personal Watercraft",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about boats and boat brands, not apps or study habits; it is not relevant to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "boat brands & manufacturers boat brands & manufacturers All-Purpose Fishing Boats Aluminum Fishing Boats Bass Boats Bay or Flats Boats Bowriders Cabin Cruisers Centre Consoles Cuddy Cabins Deck Boats Dinghies Fish & Ski High Performance Boats Inflatables Jet Boats Motor Yacht/Cruisers Multi-Hull Power Boats Personal Watercraft",
+  "history": {
+    "url": "http://www.discoverboating.ca/buying/boattypes.aspx",
+    "title": "boat brands & manufacturers",
+    "description": "boat brands & manufacturers All-Purpose Fishing Boats Aluminum Fishing Boats Bass Boats Bay or Flats Boats Bowriders Cabin Cruisers Centre Consoles Cuddy Cabins Deck Boats Dinghies Fish & Ski High Performance Boats Inflatables Jet Boats Motor Yacht/Cruisers Multi-Hull Power Boats Personal Watercraft",
+    "frecency": 3755,
+    "url_hash": 10879085126941,
+    "last_visit_date": 1758203933299228
+  }
+}

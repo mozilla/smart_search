@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "How To Create an RFC \\\"How To Create an RFCNewcomers to PHP core development should read The Mysterious PHP RFC Process and How You Can Change the Web before starting the RFC process. If you don't have the skills to fully implement your RFC and no-one volunteers to code it, there is little chance your RFC will be success",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses creating RFCs for PHP core development, not Docker setup or beginner Docker usage; no content relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "How To Create an RFC \"How To Create an RFCNewcomers to PHP core development should read The Mysterious PHP RFC Process and How You Can Change the Web before starting the RFC process. If you don't have the skills to fully implement your RFC and no-one volunteers to code it, there is little chance your RFC will be success",
+  "history": {
+    "url": "https://wiki.php.net/rfc/howto",
+    "title": "How To Create an RFC",
+    "description": "\"How To Create an RFCNewcomers to PHP core development should read The Mysterious PHP RFC Process and How You Can Change the Web before starting the RFC process. If you don't have the skills to fully implement your RFC and no-one volunteers to code it, there is little chance your RFC will be success",
+    "frecency": 4415,
+    "url_hash": 43696526984286,
+    "last_visit_date": 1758203932326111
+  }
+}

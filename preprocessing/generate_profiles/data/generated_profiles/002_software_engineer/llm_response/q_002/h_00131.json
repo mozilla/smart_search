@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Using the Microsoft Web Platform Installer \"Docs IIS Install Using the Microsoft Web Platform Installer March 18, 2009 11 minutes to read Contributors In this article Introduction Web PI for Hosters Web PI for Web Hosting Customers Install the Web Platform Install Applications from the Microsoft Web Application Gallery Best Practices for Usi",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Microsoft Web Platform Installer and IIS, not IDEs or software development environments, so it is not relevant to the query about top IDEs.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Using the Microsoft Web Platform Installer \"Docs IIS Install Using the Microsoft Web Platform Installer March 18, 2009 11 minutes to read Contributors In this article Introduction Web PI for Hosters Web PI for Web Hosting Customers Install the Web Platform Install Applications from the Microsoft Web Application Gallery Best Practices for Usi",
+  "history": {
+    "url": "http://www.iis.net/learn/install/web-platform-installer/using-the-microsoft-web-platform-installer",
+    "title": "Using the Microsoft Web Platform Installer",
+    "description": "\"Docs IIS Install Using the Microsoft Web Platform Installer March 18, 2009 11 minutes to read Contributors In this article Introduction Web PI for Hosters Web PI for Web Hosting Customers Install the Web Platform Install Applications from the Microsoft Web Application Gallery Best Practices for Usi",
+    "frecency": 4785,
+    "url_hash": 15228489963754,
+    "last_visit_date": 1758203927386111
+  }
+}

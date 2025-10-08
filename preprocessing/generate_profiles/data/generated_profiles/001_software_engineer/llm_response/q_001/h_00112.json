@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "What are Baby Back Ribs? Baby back ribs are a popular offering in many restaurants that are considered fun to eat. Often served with a healthy helping of barbecue sauce, they are eaten with the fingers rather than with any utensils. Sometimes referred to as Canadian back ribs or pork loin back ribs, this dish has become a s",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about food (baby back ribs) and has no relevance to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "What are Baby Back Ribs? Baby back ribs are a popular offering in many restaurants that are considered fun to eat. Often served with a healthy helping of barbecue sauce, they are eaten with the fingers rather than with any utensils. Sometimes referred to as Canadian back ribs or pork loin back ribs, this dish has become a s",
+  "history": {
+    "url": "http://www.wisegeek.org/what-are-baby-back-ribs.htm",
+    "title": "What are Baby Back Ribs?",
+    "description": "Baby back ribs are a popular offering in many restaurants that are considered fun to eat. Often served with a healthy helping of barbecue sauce, they are eaten with the fingers rather than with any utensils. Sometimes referred to as Canadian back ribs or pork loin back ribs, this dish has become a s",
+    "frecency": 4616,
+    "url_hash": 25281687339456,
+    "last_visit_date": 1758203928284200
+  }
+}

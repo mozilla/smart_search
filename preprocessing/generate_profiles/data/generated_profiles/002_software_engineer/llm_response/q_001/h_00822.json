@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "My PCI Device Is Showing Up as a PCI Simple Communications Controller My PCI Device Is Showing Up as a PCI Simple Communications Controller Updated Mar 6, 2018Reported In Driver NI-DAQmx NI-488.2Issue Details The Found New Hardware Wizard cannot find the driver for the PCI Simple Communications Controller. What is the PCI Simple Communications Controller and where is",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses PCI hardware/driver issues, not Python libraries or machine learning topics.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "My PCI Device Is Showing Up as a PCI Simple Communications Controller My PCI Device Is Showing Up as a PCI Simple Communications Controller Updated Mar 6, 2018Reported In Driver NI-DAQmx NI-488.2Issue Details The Found New Hardware Wizard cannot find the driver for the PCI Simple Communications Controller. What is the PCI Simple Communications Controller and where is",
+  "history": {
+    "url": "http://digital.ni.com/public.nsf/allkb/77E06491A6EF696E8625726000070545",
+    "title": "My PCI Device Is Showing Up as a PCI Simple Communications Controller",
+    "description": "My PCI Device Is Showing Up as a PCI Simple Communications Controller Updated Mar 6, 2018Reported In Driver NI-DAQmx NI-488.2Issue Details The Found New Hardware Wizard cannot find the driver for the PCI Simple Communications Controller. What is the PCI Simple Communications Controller and where is ",
+    "frecency": 3512,
+    "url_hash": 22123309507953,
+    "last_visit_date": 1758203930704111
+  }
+}

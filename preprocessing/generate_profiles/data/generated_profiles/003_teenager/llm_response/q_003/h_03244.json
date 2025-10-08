@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "U.S. Open 2016 TV schedule: Coverage of Saturday at Oakmont Michael Madrid-USA TODAY Sports The 2016 U. S. Open heads to the weekend, but it isn't moving day just yet. Thanks to a derailed first round on Thursday due to the weather, the field is still playing catch up. The players made up a lot of ground on Friday with a long day of golf, but it will be anot",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about golf coverage, not study habits apps; it has no relevance to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "U.S. Open 2016 TV schedule: Coverage of Saturday at Oakmont Michael Madrid-USA TODAY Sports The 2016 U. S. Open heads to the weekend, but it isn't moving day just yet. Thanks to a derailed first round on Thursday due to the weather, the field is still playing catch up. The players made up a lot of ground on Friday with a long day of golf, but it will be anot",
+  "history": {
+    "url": "http://www.sbnation.com/golf/2016/6/18/11967866/2016-us-open-tv-coverage-saturday-round-3",
+    "title": "U.S. Open 2016 TV schedule: Coverage of Saturday at Oakmont",
+    "description": "Michael Madrid-USA TODAY Sports The 2016 U. S. Open heads to the weekend, but it isn't moving day just yet. Thanks to a derailed first round on Thursday due to the weather, the field is still playing catch up. The players made up a lot of ground on Friday with a long day of golf, but it will be anot",
+    "frecency": 1602,
+    "url_hash": 40435851160307,
+    "last_visit_date": 1758203929082735
+  }
+}

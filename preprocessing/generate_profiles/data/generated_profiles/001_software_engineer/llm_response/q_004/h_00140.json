@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Scrap Metal Prices Montana Here you can find the current scrap metal prices being paid by scrap yards in Montana USA. In general, scrap metal prices differ based on material and your location. We provide a range of different scrap yards for all of your different types of scrap metal across Montana. We have the current scrap m",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses scrap metal prices in Montana and is unrelated to Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Scrap Metal Prices Montana Here you can find the current scrap metal prices being paid by scrap yards in Montana USA. In general, scrap metal prices differ based on material and your location. We provide a range of different scrap yards for all of your different types of scrap metal across Montana. We have the current scrap m",
+  "history": {
+    "url": "http://www.currentscrapmetalpricesperpound.com/scrap-metal-prices-montana.php",
+    "title": "Scrap Metal Prices Montana",
+    "description": "Here you can find the current scrap metal prices being paid by scrap yards in Montana USA. In general, scrap metal prices differ based on material and your location. We provide a range of different scrap yards for all of your different types of scrap metal across Montana. We have the current scrap m",
+    "frecency": 4506,
+    "url_hash": 76381791049518,
+    "last_visit_date": 1758203929348200
+  }
+}

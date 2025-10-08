@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "The Four Things People Can Still Do Better Than Computers Humans are good at some things. Computers are good at other things.advertisement As Google CEO Eric Schmidt has put it, the key for humans who want to succeed in the future will be observing this \u201cseparation of powers\u201d and collaborating with computers while specializing in what we do best. But what",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses humans versus computers and collaboration, not database query optimization or related topics; therefore it is not relevant to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "The Four Things People Can Still Do Better Than Computers Humans are good at some things. Computers are good at other things.advertisement As Google CEO Eric Schmidt has put it, the key for humans who want to succeed in the future will be observing this \u201cseparation of powers\u201d and collaborating with computers while specializing in what we do best. But what",
+  "history": {
+    "url": "https://www.fastcompany.com/3014448/the-four-things-people-can-still-do-better-than-computers",
+    "title": "The Four Things People Can Still Do Better Than Computers",
+    "description": "Humans are good at some things. Computers are good at other things.advertisement As Google CEO Eric Schmidt has put it, the key for humans who want to succeed in the future will be observing this \u201cseparation of powers\u201d and collaborating with computers while specializing in what we do best. But what ",
+    "frecency": 2254,
+    "url_hash": 48176546870002,
+    "last_visit_date": 1758203930148111
+  }
+}

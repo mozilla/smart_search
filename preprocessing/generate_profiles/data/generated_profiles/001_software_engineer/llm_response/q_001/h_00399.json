@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "The Presidents of the USA \"8 Martin van Buren R R R R R\u25c4 fast facts1837-1841< >He was the first national politician. He developed the ideas that led to the two-party system in the United States. His Presidency was a failure. It was largely characterized by the economic hardship of his time, the Panic of 1837. Born: Dec. 5, 1",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses US Presidents, not Python libraries or machine learning; it is not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "The Presidents of the USA \"8 Martin van Buren R R R R R\u25c4 fast facts1837-1841< >He was the first national politician. He developed the ideas that led to the two-party system in the United States. His Presidency was a failure. It was largely characterized by the economic hardship of his time, the Panic of 1837. Born: Dec. 5, 1",
+  "history": {
+    "url": "http://www.presidenstory.com/bios.php?pres=8",
+    "title": "The Presidents of the USA",
+    "description": "\"8 Martin van Buren R R R R R\u25c4 fast facts1837-1841< >He was the first national politician. He developed the ideas that led to the two-party system in the United States. His Presidency was a failure. It was largely characterized by the economic hardship of his time, the Panic of 1837. Born: Dec. 5, 1",
+    "frecency": 3627,
+    "url_hash": 5181018630453,
+    "last_visit_date": 1758203927330200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Amlodipine Amlodipinepronounced as (am loe' di peen)Why is this medication prescribed? How should this medicine be used? Other uses for this medicine What special precautions should I follow? What special dietary instructions should I follow? What should I do if I forget a dose? What side effects can this medi",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses a medication (Amlodipine) and is unrelated to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Amlodipine Amlodipinepronounced as (am loe' di peen)Why is this medication prescribed? How should this medicine be used? Other uses for this medicine What special precautions should I follow? What special dietary instructions should I follow? What should I do if I forget a dose? What side effects can this medi",
+  "history": {
+    "url": "https://www.nlm.nih.gov/medlineplus/druginfo/meds/a692044.html",
+    "title": "Amlodipine",
+    "description": "Amlodipinepronounced as (am loe' di peen)Why is this medication prescribed? How should this medicine be used? Other uses for this medicine What special precautions should I follow? What special dietary instructions should I follow? What should I do if I forget a dose? What side effects can this medi",
+    "frecency": 1981,
+    "url_hash": 57904940824084,
+    "last_visit_date": 1758203930351228
+  }
+}

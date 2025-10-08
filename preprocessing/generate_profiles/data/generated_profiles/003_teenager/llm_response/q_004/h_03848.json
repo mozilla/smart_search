@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Welcome to Electronic Integration Welcome to Electronic Integration Electronic Integration is a Denver, Colorado firm specializing in the creation of custom engineered Home Theater systems and Whole House Entertainment. Find Out More1 2 3Welcome to Electronic Integration Electronic Integration is a Denver, Colorado firm specializing",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes an electronics/home theater company and has no content about improving sports skills; not relevant to the query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Welcome to Electronic Integration Welcome to Electronic Integration Electronic Integration is a Denver, Colorado firm specializing in the creation of custom engineered Home Theater systems and Whole House Entertainment. Find Out More1 2 3Welcome to Electronic Integration Electronic Integration is a Denver, Colorado firm specializing",
+  "history": {
+    "url": "http://eiexperts.com/",
+    "title": "Welcome to Electronic Integration",
+    "description": "Welcome to Electronic Integration Electronic Integration is a Denver, Colorado firm specializing in the creation of custom engineered Home Theater systems and Whole House Entertainment. Find Out More1 2 3Welcome to Electronic Integration Electronic Integration is a Denver, Colorado firm specializing",
+    "frecency": 1012,
+    "url_hash": 31091086153364,
+    "last_visit_date": 1758203936133228
+  }
+}

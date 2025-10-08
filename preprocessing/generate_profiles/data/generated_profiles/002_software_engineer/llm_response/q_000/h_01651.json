@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "An error has occurred on the page you were visiting. We apologize for the inconvenience. Please go back to the previous page or use the links below. An error has occurred on the page you were visiting. We apologize for the inconvenience. Please go back to the previous page or use the links below. Products Collapse Applications Expand Design Support Expand PIC \u00ae Microcontrollers8-bit Microcontrollers16-bit Microcontrollers32-bit Microcontrollers",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is an error page unrelated to API integration debugging; it contains content about microcontrollers and site navigation rather than the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "An error has occurred on the page you were visiting. We apologize for the inconvenience. Please go back to the previous page or use the links below. An error has occurred on the page you were visiting. We apologize for the inconvenience. Please go back to the previous page or use the links below. Products Collapse Applications Expand Design Support Expand PIC \u00ae Microcontrollers8-bit Microcontrollers16-bit Microcontrollers32-bit Microcontrollers",
+  "history": {
+    "url": "http://www.atmel.com/Images/MCU_vs_MPU_Article.pdf",
+    "title": "An error has occurred on the page you were visiting. We apologize for the inconvenience. Please go back to the previous page or use the links below.",
+    "description": "An error has occurred on the page you were visiting. We apologize for the inconvenience. Please go back to the previous page or use the links below. Products Collapse Applications Expand Design Support Expand PIC \u00ae Microcontrollers8-bit Microcontrollers16-bit Microcontrollers32-bit Microcontrollers ",
+    "frecency": 2001,
+    "url_hash": 89713179710965,
+    "last_visit_date": 1758203927258111
+  }
+}

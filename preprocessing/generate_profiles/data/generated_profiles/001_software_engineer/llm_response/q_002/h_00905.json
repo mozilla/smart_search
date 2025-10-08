@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "dta Utility \"dta Utility January 9, 2017 15 minutes to read Contributors In this article Syntax Arguments Remarks Examples See Also THIS TOPIC APPLIES TO: SQL Server Azure SQL Database Azure SQL Data Warehouse Parallel Data Warehouse The dta utility is the command prompt version of Database Engine Tuning Adviso",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses the dta Utility (Database Engine Tuning Advisor) for SQL Server, not integrated development environments or tools relevant to software development IDEs.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "dta Utility \"dta Utility January 9, 2017 15 minutes to read Contributors In this article Syntax Arguments Remarks Examples See Also THIS TOPIC APPLIES TO: SQL Server Azure SQL Database Azure SQL Data Warehouse Parallel Data Warehouse The dta utility is the command prompt version of Database Engine Tuning Adviso",
+  "history": {
+    "url": "https://docs.microsoft.com/en-us/sql/tools/dta/dta-utility",
+    "title": "dta Utility",
+    "description": "\"dta Utility January 9, 2017 15 minutes to read Contributors In this article Syntax Arguments Remarks Examples See Also THIS TOPIC APPLIES TO: SQL Server Azure SQL Database Azure SQL Data Warehouse Parallel Data Warehouse The dta utility is the command prompt version of Database Engine Tuning Adviso",
+    "frecency": 1865,
+    "url_hash": 65146895470441,
+    "last_visit_date": 1758203927278200
+  }
+}

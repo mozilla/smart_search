@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "The 100 Filming Locations Zoom to: Britannia Beach, Squamish, Vancouver",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns filming locations, not content about improving athletic performance or sports skills.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "The 100 Filming Locations Zoom to: Britannia Beach, Squamish, Vancouver",
+  "history": {
+    "url": "https://moviemaps.org/movies/sz",
+    "title": "The 100 Filming Locations",
+    "description": "Zoom to: Britannia Beach, Squamish, Vancouver ",
+    "frecency": 905,
+    "url_hash": 52198061054694,
+    "last_visit_date": 1758203929659228
+  }
+}

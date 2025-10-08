@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Titanic: The final messages from a stricken ship by Sean Coughlan, BBC News, 10 April 2012. The article discusses wireless operators on ships and land stations receiving Titanic's calls for help.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Titanic wireless communications, not about debugging or integrating APIs.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Titanic: The final messages from a stricken ship \"Titanic: The final messages from a stricken ship By Sean Coughlan BBC News10 April 2012Share The Carpathia was one of the ships that received the Titanic's calls for help On the night the Titanic struck an iceberg, a network of wireless operators on ships and land stations frantically communicated",
+  "history": {
+    "url": "http://www.bbc.co.uk/news/magazine-17631595",
+    "title": "Titanic: The final messages from a stricken ship",
+    "description": "\"Titanic: The final messages from a stricken ship By Sean Coughlan BBC News10 April 2012Share The Carpathia was one of the ships that received the Titanic's calls for help On the night the Titanic struck an iceberg, a network of wireless operators on ships and land stations frantically communicated ",
+    "frecency": 1475,
+    "url_hash": 3463950377331,
+    "last_visit_date": 1758203929148111
+  }
+}

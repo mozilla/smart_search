@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "10,000 Hours of Practice 10,000 Hours of Practice In the book Outliers, author Malcolm Gladwell says that it takes roughly ten thousand hours of practice to achieve mastery in a field. How does Gladwell arrive at this conclusion? And, if the conclusion is true, how can we leverage this idea to achieve greatness in our profe",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses practice hours and mastery, not about debugging APIs or API integration; it is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "10,000 Hours of Practice 10,000 Hours of Practice In the book Outliers, author Malcolm Gladwell says that it takes roughly ten thousand hours of practice to achieve mastery in a field. How does Gladwell arrive at this conclusion? And, if the conclusion is true, how can we leverage this idea to achieve greatness in our profe",
+  "history": {
+    "url": "http://www.wisdomgroup.com/blog/10000-hours-of-practice/",
+    "title": "10,000 Hours of Practice",
+    "description": "10,000 Hours of Practice In the book Outliers, author Malcolm Gladwell says that it takes roughly ten thousand hours of practice to achieve mastery in a field. How does Gladwell arrive at this conclusion? And, if the conclusion is true, how can we leverage this idea to achieve greatness in our profe",
+    "frecency": 3421,
+    "url_hash": 44107311761821,
+    "last_visit_date": 1758203929018200
+  }
+}

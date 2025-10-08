@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "How to Rip Music from a CD to a Computer 1 Insert the CD into the CD-ROM drive of your computer.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about ripping music from a CD and has no relevance to optimizing database queries.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "How to Rip Music from a CD to a Computer 1 Insert the CD into the CD-ROM drive of your computer.",
+  "history": {
+    "url": "http://www.wikihow.com/Rip-Music-from-a-CD-to-a-Computer",
+    "title": "How to Rip Music from a CD to a Computer",
+    "description": "1 Insert the CD into the CD-ROM drive of your computer. ",
+    "frecency": 2362,
+    "url_hash": 23097504922232,
+    "last_visit_date": 1758203929470111
+  }
+}

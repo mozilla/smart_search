@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Marius Petipa \"Marius Petipaborn: 1818 died: 1910The son of Jean Petipa, an excellent ballet dancer and teacher himself, Marius Petipa was the second of the two boys that made up this dancing family. Petipa's older brother by three years, Lucien, ended up as a dancer and ballet master at the Paris Opera. Marius P",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Marius Petipa, a ballet dancer, not about sports or improving athletic performance; unrelated to the query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Marius Petipa \"Marius Petipaborn: 1818 died: 1910The son of Jean Petipa, an excellent ballet dancer and teacher himself, Marius Petipa was the second of the two boys that made up this dancing family. Petipa's older brother by three years, Lucien, ended up as a dancer and ballet master at the Paris Opera. Marius P",
+  "history": {
+    "url": "http://www.the-ballet.com/petipa.php",
+    "title": "Marius Petipa",
+    "description": "\"Marius Petipaborn: 1818 died: 1910The son of Jean Petipa, an excellent ballet dancer and teacher himself, Marius Petipa was the second of the two boys that made up this dancing family. Petipa's older brother by three years, Lucien, ended up as a dancer and ballet master at the Paris Opera. Marius P",
+    "frecency": 3821,
+    "url_hash": 84235977057235,
+    "last_visit_date": 1758203933437228
+  }
+}

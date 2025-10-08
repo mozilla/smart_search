@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Who wrote the song Blue Eyes Crying in The Rain? \\\"Entertainment & Music Music Country Who wrote the song Blue Eyes Crying in The Rain? I know Willie Nelson sang it but who WROTE it? Is it possible that it was written by Hank Williams Sr.? I heard a rare recording of this song which claimed to be sung by Hank Williams Sr. Can anyone confirm this fo",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a music/song authorship question, not related to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Who wrote the song Blue Eyes Crying in The Rain? \"Entertainment & Music Music Country Who wrote the song Blue Eyes Crying in The Rain? I know Willie Nelson sang it but who WROTE it? Is it possible that it was written by Hank Williams Sr.? I heard a rare recording of this song which claimed to be sung by Hank Williams Sr. Can anyone confirm this fo",
+  "history": {
+    "url": "https://answers.yahoo.com/question/index?qid=20071205175642AArhqjQ",
+    "title": "Who wrote the song Blue Eyes Crying in The Rain?",
+    "description": "\"Entertainment & Music Music Country Who wrote the song Blue Eyes Crying in The Rain? I know Willie Nelson sang it but who WROTE it? Is it possible that it was written by Hank Williams Sr.? I heard a rare recording of this song which claimed to be sung by Hank Williams Sr. Can anyone confirm this fo",
+    "frecency": 4851,
+    "url_hash": 55236572458049,
+    "last_visit_date": 1758203931123228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "i5 6600k Temperature \\\"Closedi5 6600k Temperature Gallarian Sep 3, 2015, 5:22 AMHey guys, Got my new Skylake system up and running, and to cool my i5-6600k @4.5ghz, I've installed a Corsair H100i with 2x Corsair SP120 Quiet fans. My case doesnt have enough room to mount the radiator fans inside, so they're currently pull",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses CPU temperatures and cooling hardware, not database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "i5 6600k Temperature \"Closedi5 6600k Temperature Gallarian Sep 3, 2015, 5:22 AMHey guys, Got my new Skylake system up and running, and to cool my i5-6600k @4.5ghz, I've installed a Corsair H100i with 2x Corsair SP120 Quiet fans. My case doesnt have enough room to mount the radiator fans inside, so they're currently pull",
+  "history": {
+    "url": "http://www.tomshardware.com/answers/id-2786996/6600k-temperature.html",
+    "title": "i5 6600k Temperature",
+    "description": "\"Closedi5 6600k Temperature Gallarian Sep 3, 2015, 5:22 AMHey guys, Got my new Skylake system up and running, and to cool my i5-6600k @4.5ghz, I've installed a Corsair H100i with 2x Corsair SP120 Quiet fans. My case doesnt have enough room to mount the radiator fans inside, so they're currently pull",
+    "frecency": 1564,
+    "url_hash": 92643100990406,
+    "last_visit_date": 1758203931656111
+  }
+}

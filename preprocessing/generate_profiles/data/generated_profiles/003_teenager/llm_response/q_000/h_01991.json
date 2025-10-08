@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "They Told me I was Pregnant, But it was Ovarian Cancer \\\"By Meryl Davids Landau Jun 10, 2007 56NYRVAH, 34, art-gallery owner I've always been into eating right and exercising, so I was surprised when I developed a little potbelly. I also started getting the urge to urinate so often that I began to feel that if I was going to drink something, I'd be smart",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses pregnancy and ovarian cancer, with no relevance to starting or creating a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "They Told me I was Pregnant, But it was Ovarian Cancer \"By Meryl Davids Landau Jun 10, 2007 56NYRVAH, 34, art-gallery owner I've always been into eating right and exercising, so I was surprised when I developed a little potbelly. I also started getting the urge to urinate so often that I began to feel that if I was going to drink something, I'd be smart",
+  "history": {
+    "url": "http://www.marieclaire.com/health-fitness/news/a535/ovarian-cancer/",
+    "title": "They Told me I was Pregnant, But it was Ovarian Cancer",
+    "description": "\"By Meryl Davids Landau Jun 10, 2007 56NYRVAH, 34, art-gallery owner I've always been into eating right and exercising, so I was surprised when I developed a little potbelly. I also started getting the urge to urinate so often that I began to feel that if I was going to drink something, I'd be smart",
+    "frecency": 2945,
+    "url_hash": 5619341027985,
+    "last_visit_date": 1758203931817228
+  }
+}

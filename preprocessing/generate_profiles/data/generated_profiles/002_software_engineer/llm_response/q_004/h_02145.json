@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "ABOUT UCPath Center As an employee of the University of California, you are part of one of the most preeminent institutions of higher education in the world. Our students, faculty, staff and alumni exchange ideas, engage with their local governments, serve California schools, protect the environment and push the bounda",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes the UCPath Center/University of California and is unrelated to Docker setup for beginners; no relevant content.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "ABOUT UCPath Center As an employee of the University of California, you are part of one of the most preeminent institutions of higher education in the world. Our students, faculty, staff and alumni exchange ideas, engage with their local governments, serve California schools, protect the environment and push the bounda",
+  "history": {
+    "url": "http://ucpathjobs.org/ucpath-center/",
+    "title": "ABOUT UCPath Center",
+    "description": "As an employee of the University of California, you are part of one of the most preeminent institutions of higher education in the world. Our students, faculty, staff and alumni exchange ideas, engage with their local governments, serve California schools, protect the environment and push the bounda",
+    "frecency": 1108,
+    "url_hash": 36423595726060,
+    "last_visit_date": 1758203930070111
+  }
+}

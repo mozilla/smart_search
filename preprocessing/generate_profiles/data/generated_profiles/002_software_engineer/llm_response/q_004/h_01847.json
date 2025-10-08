@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Crab Salad \"Home Recipes Salad Seafood Salad Crab Salad Crab Salad187 made it | 109 reviews Recipe by: Christine\"\"Serve this crab and celery salad on crackers, lettuce or stuff it in puff pastry shells. \"\"Save I Made It Print Pin Share Ingredients15 m 4 500On Sale What's on sale near you. We're showing stores",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a crab salad recipe and not about Docker or container setup; it is not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Crab Salad \"Home Recipes Salad Seafood Salad Crab Salad Crab Salad187 made it | 109 reviews Recipe by: Christine\"\"Serve this crab and celery salad on crackers, lettuce or stuff it in puff pastry shells. \"\"Save I Made It Print Pin Share Ingredients15 m 4 500On Sale What's on sale near you. We're showing stores",
+  "history": {
+    "url": "http://allrecipes.com/recipe/16424/crab-salad/",
+    "title": "Crab Salad",
+    "description": "\"Home Recipes Salad Seafood Salad Crab Salad Crab Salad187 made it | 109 reviews Recipe by: Christine\"\"Serve this crab and celery salad on crackers, lettuce or stuff it in puff pastry shells. \"\"Save I Made It Print Pin Share Ingredients15 m 4 500On Sale What's on sale near you. We're showing stores ",
+    "frecency": 1631,
+    "url_hash": 69780188694705,
+    "last_visit_date": 1758203930740111
+  }
+}

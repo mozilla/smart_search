@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Immigration Officer \"Immigration Officer\u0100piha Whakahaere Manene This job is sometimes referred to by alternative titles Immigration officers control the entry of people from other countries into New Zealand, assessing visa applications from people who wish to visit, study, work or reside in NZ. Pay Immigration officers",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses immigration officer roles and visa processing in New Zealand, not database query optimization; it is not relevant to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Immigration Officer \"Immigration Officer\u0100piha Whakahaere Manene This job is sometimes referred to by alternative titles Immigration officers control the entry of people from other countries into New Zealand, assessing visa applications from people who wish to visit, study, work or reside in NZ. Pay Immigration officers",
+  "history": {
+    "url": "https://www.careers.govt.nz/jobs-database/government-law-and-safety/public-order-safety/immigration-officer/",
+    "title": "Immigration Officer",
+    "description": "\"Immigration Officer\u0100piha Whakahaere Manene This job is sometimes referred to by alternative titles Immigration officers control the entry of people from other countries into New Zealand, assessing visa applications from people who wish to visit, study, work or reside in NZ. Pay Immigration officers",
+    "frecency": 1783,
+    "url_hash": 43165561301210,
+    "last_visit_date": 1758203928276111
+  }
+}

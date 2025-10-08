@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Lutefisk To Sausage: Stocking Up On Holiday Meats MINNEAPOLIS (WCCO) \u2014 Any true Minnesotan with an ounce of Viking blood knows that 16th and Lake Street in Minneapolis is their final stop before the Christmas feast. For the past 90 years, the south Minneapolis street corner has been anchored by Ingebretsen\u2019s meat market and gift shop.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses holiday meats and a local market, not API integration debugging.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Lutefisk To Sausage: Stocking Up On Holiday Meats MINNEAPOLIS (WCCO) \u2014 Any true Minnesotan with an ounce of Viking blood knows that 16th and Lake Street in Minneapolis is their final stop before the Christmas feast. For the past 90 years, the south Minneapolis street corner has been anchored by Ingebretsen\u2019s meat market and gift shop.\u201cChristmas ite",
+  "history": {
+    "url": "http://minnesota.cbslocal.com/2011/12/23/lutefisk-to-blood-sausage-mn-stocks-up-on-holiday-treats/",
+    "title": "Lutefisk To Sausage: Stocking Up On Holiday Meats",
+    "description": "MINNEAPOLIS (WCCO) \u2014 Any true Minnesotan with an ounce of Viking blood knows that 16th and Lake Street in Minneapolis is their final stop before the Christmas feast. For the past 90 years, the south Minneapolis street corner has been anchored by Ingebretsen\u2019s meat market and gift shop.\u201cChristmas ite",
+    "frecency": 4657,
+    "url_hash": 37594668724524,
+    "last_visit_date": 1758203929462111
+  }
+}

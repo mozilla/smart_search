@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Q: Why does my computer make so much noise when it is running? ML mlcm asked on January 30, 2012Q: Why does my computer make so much noise when it is running? Original Title: too noisywhy does my computer make so much noise when it is running? It sounds like a fan running at high speed. I have been told it is because my warranty on some of the software is finis",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses computer noise/fan issues, not API integration debugging; it is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Q: Why does my computer make so much noise when it is running? ML mlcm asked on January 30, 2012Q: Why does my computer make so much noise when it is running? Original Title: too noisywhy does my computer make so much noise when it is running? It sounds like a fan running at high speed. I have been told it is because my warranty on some of the software is finis",
+  "history": {
+    "url": "http://answers.microsoft.com/en-us/windows/forum/windows_7-performance/why-does-my-computer-make-so-much-noise-when-it-is/9c5a5822-209c-44ad-96d4-9d37602afd33",
+    "title": "Q: Why does my computer make so much noise when it is running?",
+    "description": "ML mlcm asked on January 30, 2012Q: Why does my computer make so much noise when it is running? Original Title: too noisywhy does my computer make so much noise when it is running? It sounds like a fan running at high speed. I have been told it is because my warranty on some of the software is finis",
+    "frecency": 2953,
+    "url_hash": 3172858180607,
+    "last_visit_date": 1758203927658111
+  }
+}

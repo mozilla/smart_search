@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "OpenGL Driver Support Home Game Works Open GL Driver Support Open GL Driver Support Windows driver version 382.96 and Linux drivers version 381.26.13 provide beta support for Open GL 4.6 and GLSL 4.60 on capable hardware. Please note these drivers are for developers who want to experiment with \u201cOpen GL 4.6\u201d. Other develo",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses OpenGL driver support, not integrated development environments or software development IDEs; thus not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "OpenGL Driver Support Home Game Works Open GL Driver Support Open GL Driver Support Windows driver version 382.96 and Linux drivers version 381.26.13 provide beta support for Open GL 4.6 and GLSL 4.60 on capable hardware. Please note these drivers are for developers who want to experiment with \u201cOpen GL 4.6\u201d. Other develo",
+  "history": {
+    "url": "https://developer.nvidia.com/opengl-driver",
+    "title": "OpenGL Driver Support",
+    "description": "Home Game Works Open GL Driver Support Open GL Driver Support Windows driver version 382.96 and Linux drivers version 381.26.13 provide beta support for Open GL 4.6 and GLSL 4.60 on capable hardware. Please note these drivers are for developers who want to experiment with \u201cOpen GL 4.6\u201d. Other develo",
+    "frecency": 1801,
+    "url_hash": 14463974165601,
+    "last_visit_date": 1758203930168111
+  }
+}

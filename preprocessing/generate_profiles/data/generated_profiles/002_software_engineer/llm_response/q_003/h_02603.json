@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Occupational Safety and Health View HP2020 Data for: Occupational Safety and Health Midcourse Review Data Are In!Check out our interactive infographic to see progress toward the Occupational Safety and Health objectives and other Healthy People topic areas. Goal Promote the health and safety of people at work through prevention a",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses occupational safety and health objectives, not database query optimization; it does not relate to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Occupational Safety and Health View HP2020 Data for: Occupational Safety and Health Midcourse Review Data Are In!Check out our interactive infographic to see progress toward the Occupational Safety and Health objectives and other Healthy People topic areas. Goal Promote the health and safety of people at work through prevention a",
+  "history": {
+    "url": "https://www.healthypeople.gov/2020/topics-objectives/topic/occupational-safety-and-health",
+    "title": "Occupational Safety and Health",
+    "description": "View HP2020 Data for: Occupational Safety and Health Midcourse Review Data Are In!Check out our interactive infographic to see progress toward the Occupational Safety and Health objectives and other Healthy People topic areas. Goal Promote the health and safety of people at work through prevention a",
+    "frecency": 262,
+    "url_hash": 91006406319308,
+    "last_visit_date": 1758203932178111
+  }
+}

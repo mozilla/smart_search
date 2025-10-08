@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Trained To Kill: The Policing Tactics The Public Isn\u00e2t Supposed To Know About June 02nd, 2014By Katie Rucke @katierucke53 Comments Minneapolis police investigate a shooting at a business in the Bryn Mawr neighborhood of Minneapolis, 2012. (AP/Craig Lassig)MINNEAPOLIS \u2014 On May 28, 126 police officers in Seattle filed a lawsuit in federal court, arguing that restrictions placed",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about policing, not Docker; it has no relevance to 'Docker setup for beginners'.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Trained To Kill: The Policing Tactics The Public Isn\u00e2t Supposed To Know About June 02nd, 2014By Katie Rucke @katierucke53 Comments Minneapolis police investigate a shooting at a business in the Bryn Mawr neighborhood of Minneapolis, 2012. (AP/Craig Lassig)MINNEAPOLIS \u2014 On May 28, 126 police officers in Seattle filed a lawsuit in federal court, arguing that restrictions placed",
+  "history": {
+    "url": "http://www.mintpressnews.com/trained-to-kill-the-policing-tactics-the-public-isnt-supposed-to-know-about/191639/",
+    "title": "Trained To Kill: The Policing Tactics The Public Isn\u00e2t Supposed To Know About",
+    "description": "June 02nd, 2014By Katie Rucke @katierucke53 Comments Minneapolis police investigate a shooting at a business in the Bryn Mawr neighborhood of Minneapolis, 2012. (AP/Craig Lassig)MINNEAPOLIS \u2014 On May 28, 126 police officers in Seattle filed a lawsuit in federal court, arguing that restrictions placed",
+    "frecency": 3339,
+    "url_hash": 89363825156294,
+    "last_visit_date": 1758203932246111
+  }
+}

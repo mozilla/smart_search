@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Welcome to the Borough of Chambersburg! Welcome to the Borough of Chambersburg!As a full service municipality, Chambersburg supplies a wide variety of services to its citizens and businesses; more services than any other municipality in the Commonwealth of Pennsylvania. Typical town functions include: A highway department (over 58 miles o",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page describes municipal services for Chambersburg and does not contain content related to debugging APIs or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Welcome to the Borough of Chambersburg! Welcome to the Borough of Chambersburg!As a full service municipality, Chambersburg supplies a wide variety of services to its citizens and businesses; more services than any other municipality in the Commonwealth of Pennsylvania. Typical town functions include: A highway department (over 58 miles o",
+  "history": {
+    "url": "http://www.borough.chambersburg.pa.us/",
+    "title": "Welcome to the Borough of Chambersburg!",
+    "description": "Welcome to the Borough of Chambersburg!As a full service municipality, Chambersburg supplies a wide variety of services to its citizens and businesses; more services than any other municipality in the Commonwealth of Pennsylvania. Typical town functions include: A highway department (over 58 miles o",
+    "frecency": 460,
+    "url_hash": 56744909436847,
+    "last_visit_date": 1758203928500111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Sales (accounting) In bookkeeping, accounting, and finance, Net sales are operating revenues earned by a company for selling its products or rendering its services. Also referred to as revenue, they are reported directly on the income statement as Sales or Net sales. In financial ratios that use income statement sale",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses accounting and net sales, not IDEs or software development topics.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Sales (accounting) \"In bookkeeping, accounting, and finance, Net sales are operating revenues earned by a company for selling its products or rendering its services. Also referred to as revenue, they are reported directly on the income statement as Sales or Net sales. In financial ratios that use income statement sale",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Sales_(accounting)",
+    "title": "Sales (accounting)",
+    "description": "\"In bookkeeping, accounting, and finance, Net sales are operating revenues earned by a company for selling its products or rendering its services. Also referred to as revenue, they are reported directly on the income statement as Sales or Net sales. In financial ratios that use income statement sale",
+    "frecency": 1438,
+    "url_hash": 42349161361883,
+    "last_visit_date": 1758203932148111
+  }
+}

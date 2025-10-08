@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "South Sudan civilians are trapped in conflict over oil Every few moments, Nyameat Nyak glances nervously at the sky. It\u2019s been two weeks since Sudanese warplanes bombed her tea shop as she was serving five traders, pregnant with her sixth child. Shrapnel sliced through the walls, covering her in flesh and blood. The men died. Her baby lived. Since the a",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is unrelated to API debugging; it is a news story about conflict in South Sudan and oil, not about debugging or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "South Sudan civilians are trapped in conflict over oil Every few moments, Nyameat Nyak glances nervously at the sky. It\u2019s been two weeks since Sudanese warplanes bombed her tea shop as she was serving five traders, pregnant with her sixth child. Shrapnel sliced through the walls, covering her in flesh and blood. The men died. Her baby lived. Since the a",
+  "history": {
+    "url": "https://www.washingtonpost.com/world/south-sudan-civilians-are-trapped-in-conflict-over-oil/2012/05/01/gIQAUX6buT_story.html",
+    "title": "South Sudan civilians are trapped in conflict over oil",
+    "description": "Every few moments, Nyameat Nyak glances nervously at the sky. It\u2019s been two weeks since Sudanese warplanes bombed her tea shop as she was serving five traders, pregnant with her sixth child. Shrapnel sliced through the walls, covering her in flesh and blood. The men died. Her baby lived. Since the a",
+    "frecency": 904,
+    "url_hash": 83024396943038,
+    "last_visit_date": 1758203931104111
+  }
+}

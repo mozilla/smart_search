@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Minimum Wage/Overtime FAQ \"What is minimum wage in Illinois? Minimum wage in Illinois is $8.25 per hour for those individuals who are 18 years and older. Employees who do NOT receive tips may be paid $7.75 for the first 90 days with employer. Those under 18 years of age may be paid at the rate of $7.75 per hour. For more inf",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Illinois minimum wage and overtime, not Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Minimum Wage/Overtime FAQ \"What is minimum wage in Illinois? Minimum wage in Illinois is $8.25 per hour for those individuals who are 18 years and older. Employees who do NOT receive tips may be paid $7.75 for the first 90 days with employer. Those under 18 years of age may be paid at the rate of $7.75 per hour. For more inf",
+  "history": {
+    "url": "http://www.illinois.gov/idol/FAQs/Pages/minimum-wage-overtime-faq.aspx",
+    "title": "Minimum Wage/Overtime FAQ",
+    "description": "\"What is minimum wage in Illinois? Minimum wage in Illinois is $8.25 per hour for those individuals who are 18 years and older. Employees who do NOT receive tips may be paid $7.75 for the first 90 days with employer. Those under 18 years of age may be paid at the rate of $7.75 per hour. For more inf",
+    "frecency": 714,
+    "url_hash": 5984010923529,
+    "last_visit_date": 1758203930194111
+  }
+}

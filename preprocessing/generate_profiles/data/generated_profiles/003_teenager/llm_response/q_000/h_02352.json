@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "The Brady Bunch \\\"The Brady Bunch' Brady Bunch title screen feat. cast from the final season Producer/Creator Sherwood Schwartz Company Redwood Productions Paramount Television Distributor CBS Television Distribution Starring Robert Reed Florence Henderson Ann B. Davis Barry Williams Maureen Mc Cormick Christopher K",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a TV show cast and title screen (The Brady Bunch), not about starting a YouTube channel. It contains no instructional or relevant information about creating, launching, or managing a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "The Brady Bunch \"The Brady Bunch' Brady Bunch title screen feat. cast from the final season Producer/Creator Sherwood Schwartz Company Redwood Productions Paramount Television Distributor CBS Television Distribution Starring Robert Reed Florence Henderson Ann B. Davis Barry Williams Maureen Mc Cormick Christopher K",
+  "history": {
+    "url": "http://bradybunch.wikia.com/wiki/The_Brady_Bunch",
+    "title": "The Brady Bunch",
+    "description": "\"The Brady Bunch' Brady Bunch title screen feat. cast from the final season Producer/Creator Sherwood Schwartz Company Redwood Productions Paramount Television Distributor CBS Television Distribution Starring Robert Reed Florence Henderson Ann B. Davis Barry Williams Maureen Mc Cormick Christopher K",
+    "frecency": 2580,
+    "url_hash": 89613376520301,
+    "last_visit_date": 1758203932855228
+  }
+}

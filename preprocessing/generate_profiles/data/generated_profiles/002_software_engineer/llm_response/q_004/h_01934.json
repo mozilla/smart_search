@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "About Location Services in OS X and Safari \"About Location Services in OS X and Safari Location Services allows applications and websites to gather and use information based on the current location of your computer. You have to give your permission before an app or website can use your location data. Your approximate location is determined u",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses OS X/Safari location services, not Docker or beginner Docker setup topics; unrelated to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "About Location Services in OS X and Safari \"About Location Services in OS X and Safari Location Services allows applications and websites to gather and use information based on the current location of your computer. You have to give your permission before an app or website can use your location data. Your approximate location is determined u",
+  "history": {
+    "url": "https://support.apple.com/en-us/HT204690",
+    "title": "About Location Services in OS X and Safari",
+    "description": "\"About Location Services in OS X and Safari Location Services allows applications and websites to gather and use information based on the current location of your computer. You have to give your permission before an app or website can use your location data. Your approximate location is determined u",
+    "frecency": 1478,
+    "url_hash": 54035677068564,
+    "last_visit_date": 1758203927028111
+  }
+}

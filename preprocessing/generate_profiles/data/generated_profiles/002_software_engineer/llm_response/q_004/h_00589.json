@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "S corporation vs. C corporation \"S corporation vs. C corporation By Peter Jason Riley Often one of the first critical issues that individuals face when they incorporate their business is whether to be taxed as a \\\"C\\\" or \\\"S\\\" type corporation for federal income tax purposes. Keep in mind that when you initially incorporate your b",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses S vs C corporations, not Docker setup or related beginner Docker topics; thus not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "S corporation vs. C corporation \"S corporation vs. C corporation By Peter Jason Riley Often one of the first critical issues that individuals face when they incorporate their business is whether to be taxed as a \"\"C\"\" or \"\"S\"\" type corporation for federal income tax purposes. Keep in mind that when you initially incorporate your b",
+  "history": {
+    "url": "http://cpa-services.com/special_sco.shtml",
+    "title": "S corporation vs. C corporation",
+    "description": "\"S corporation vs. C corporation By Peter Jason Riley Often one of the first critical issues that individuals face when they incorporate their business is whether to be taxed as a \"\"C\"\" or \"\"S\"\" type corporation for federal income tax purposes. Keep in mind that when you initially incorporate your b",
+    "frecency": 3992,
+    "url_hash": 67578889604993,
+    "last_visit_date": 1758203929546111
+  }
+}

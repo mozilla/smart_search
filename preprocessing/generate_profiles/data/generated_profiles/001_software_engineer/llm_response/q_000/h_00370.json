@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "How many border patrol agents secure the U.S.-Mexico border? Politics & Government Immigration How many border patrol agents secure the U. S.-Mexico border? Include a credible source or I will not even consider your answer for best answer. Follow 6 answers Answers Relevance Rating Newest Oldest Best Answer: 17,015 along the Mexican border,at present. Source (",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns border patrol agent counts and immigration policy rather than debugging API integration; content is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "How many border patrol agents secure the U.S.-Mexico border? Politics & Government Immigration How many border patrol agents secure the U. S.-Mexico border? Include a credible source or I will not even consider your answer for best answer. Follow 6 answers Answers Relevance Rating Newest Oldest Best Answer: 17,015 along the Mexican border,at present. Source (",
+  "history": {
+    "url": "https://answers.yahoo.com/question/index?qid=20100606133341AAF1htw",
+    "title": "How many border patrol agents secure the U.S.-Mexico border?",
+    "description": "Politics & Government Immigration How many border patrol agents secure the U. S.-Mexico border? Include a credible source or I will not even consider your answer for best answer. Follow 6 answers Answers Relevance Rating Newest Oldest Best Answer: 17,015 along the Mexican border,at present. Source (",
+    "frecency": 3738,
+    "url_hash": 92541974459440,
+    "last_visit_date": 1758203927706200
+  }
+}

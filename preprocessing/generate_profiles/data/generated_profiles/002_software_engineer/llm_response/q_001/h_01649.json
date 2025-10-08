@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Obama Drafts Order on Paid Sick Leave for Federal Contractors President Obama at a meeting in the Oval Office on Tuesday. The administration has drafted an executive order addressing paid sick leave for companies that contract with the federal government. Zach Gibson/The New York Times WASHINGTON \u2014 Stymied by Republicans in Congress, President Obama has drafte",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Obama administration policy on paid sick leave, not Python libraries or machine learning; topic mismatch indicates irrelevance.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Obama Drafts Order on Paid Sick Leave for Federal Contractors President Obama at a meeting in the Oval Office on Tuesday. The administration has drafted an executive order addressing paid sick leave for companies that contract with the federal government. Zach Gibson/The New York Times WASHINGTON \u2014 Stymied by Republicans in Congress, President Obama has drafte",
+  "history": {
+    "url": "http://www.nytimes.com/2015/08/06/us/white-house-drafts-executive-order-on-paid-sick-leave-for-federal-contractors.html",
+    "title": "Obama Drafts Order on Paid Sick Leave for Federal Contractors",
+    "description": "President Obama at a meeting in the Oval Office on Tuesday. The administration has drafted an executive order addressing paid sick leave for companies that contract with the federal government. Zach Gibson/The New York Times WASHINGTON \u2014 Stymied by Republicans in Congress, President Obama has drafte",
+    "frecency": 2005,
+    "url_hash": 78919330816105,
+    "last_visit_date": 1758203929026111
+  }
+}

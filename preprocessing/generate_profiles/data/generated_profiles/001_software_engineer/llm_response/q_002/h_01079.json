@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Boys & Girls Club of Yankton Boys & Girls Club of Yankton Mission statement - To enable all young people, especially those who need us most, to reach their full potential as productive, caring, responsible citizens. Our services - A safe, positive place for children grade 5 \u2013 12 to participate in after school programs in our Fi",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a Boys & Girls Club organization's mission and services, not content related to IDEs or software development; it is not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Boys & Girls Club of Yankton Boys & Girls Club of Yankton Mission statement - To enable all young people, especially those who need us most, to reach their full potential as productive, caring, responsible citizens. Our services - A safe, positive place for children grade 5 \u2013 12 to participate in after school programs in our Fi",
+  "history": {
+    "url": "http://www.yanktonunitedway.org/Community-Impact/Partners-Initiatives-/Boys-Girls-Club-of-Yankton",
+    "title": "Boys & Girls Club of Yankton",
+    "description": "Boys & Girls Club of Yankton Mission statement - To enable all young people, especially those who need us most, to reach their full potential as productive, caring, responsible citizens. Our services - A safe, positive place for children grade 5 \u2013 12 to participate in after school programs in our Fi",
+    "frecency": 1189,
+    "url_hash": 86025277033162,
+    "last_visit_date": 1758203929188200
+  }
+}

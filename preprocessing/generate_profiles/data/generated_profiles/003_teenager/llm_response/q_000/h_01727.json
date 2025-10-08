@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Actress Wendy Richard dies at 65 \"BBC News Updated every minute of every day One-Minute World News News Front Page Africa Americas Asia-Pacific Europe Middle East South Asia UKBusiness Health Science & Environment Technology Entertainment Arts & Culture Also in the news-----------------Video and Audio-----------------Programmes Hav",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a news article about the death of actress Wendy Richard and contains no information related to starting a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Actress Wendy Richard dies at 65 \"BBC News Updated every minute of every day One-Minute World News News Front Page Africa Americas Asia-Pacific Europe Middle East South Asia UKBusiness Health Science & Environment Technology Entertainment Arts & Culture Also in the news-----------------Video and Audio-----------------Programmes Hav",
+  "history": {
+    "url": "http://news.bbc.co.uk/2/hi/entertainment/7912668.stm",
+    "title": "Actress Wendy Richard dies at 65",
+    "description": "\"BBC News Updated every minute of every day One-Minute World News News Front Page Africa Americas Asia-Pacific Europe Middle East South Asia UKBusiness Health Science & Environment Technology Entertainment Arts & Culture Also in the news-----------------Video and Audio-----------------Programmes Hav",
+    "frecency": 3233,
+    "url_hash": 12738542255626,
+    "last_visit_date": 1758203927816735
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Volunteer with AHS Volunteer with AHSFrom in-shelter support to at-home foster care, volunteers support every facet of our work. Together, we're creating a more humane world for animals. Explore opportunities and apply Review our Volunteering FAQVolunteer requirements Volunteers must be at least 16 years of age. If yo",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page describes volunteering for an animal welfare organization, not information about debugging or API integration. Relevance to the query is minimal.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Volunteer with AHS Volunteer with AHSFrom in-shelter support to at-home foster care, volunteers support every facet of our work. Together, we're creating a more humane world for animals. Explore opportunities and apply Review our Volunteering FAQVolunteer requirements Volunteers must be at least 16 years of age. If yo",
+  "history": {
+    "url": "https://www.animalhumanesociety.org/volunteer",
+    "title": "Volunteer with AHS",
+    "description": "Volunteer with AHSFrom in-shelter support to at-home foster care, volunteers support every facet of our work. Together, we're creating a more humane world for animals. Explore opportunities and apply Review our Volunteering FAQVolunteer requirements Volunteers must be at least 16 years of age. If yo",
+    "frecency": 4513,
+    "url_hash": 92068640995799,
+    "last_visit_date": 1758203927984111
+  }
+}

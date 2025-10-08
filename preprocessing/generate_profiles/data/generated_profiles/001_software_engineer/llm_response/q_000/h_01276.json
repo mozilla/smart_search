@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "It isn\u00e2\u20ac\u02dct rocket science. It isn\u00e2\u20ac\u02dct rocket science. (But it\u00e2\u20ac\u2122s pretty close). Artists/Models FAQ Learn how the Models.com database works, how to get a database page, how to upload work and more. Aspiring Model FAQ Answers your questions about becoming a model, using our portfolio section, avoiding scammers and more. Agency FAQ",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses models, FAQs, and artist/model information, not API integration debugging.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "It isn\u00e2t rocket science. It isn\u2019t rocket science. (But it\u2019s pretty close). Artists/Models FAQ Learn how the Models.com database works, how to get a database page, how to upload work and more. Aspiring Model FAQ Answers your questions about becoming a model, using our portfolio section, avoiding scammers and more. Agency FAQ",
+  "history": {
+    "url": "http://models.com/help/005-what_are_requirements.html",
+    "title": "It isn\u00e2t rocket science.",
+    "description": "It isn\u2019t rocket science. (But it\u2019s pretty close). Artists/Models FAQ Learn how the Models.com database works, how to get a database page, how to upload work and more. Aspiring Model FAQ Answers your questions about becoming a model, using our portfolio section, avoiding scammers and more. Agency FAQ",
+    "frecency": 514,
+    "url_hash": 25830123263877,
+    "last_visit_date": 1758203926920200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Enlarged thyroid Enlarged thyroid Development of a goitre An enlarged thyroid gland is known as a goitre. There are many causes, including a shortage of iodine in the diet which occurs in remote mountainous parts of the world, drugs such as lithium carbonate (Priadel) used to treat patients with bipolar disorder, an",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about thyroid enlargement/goitre and iodine deficiency, unrelated to improving performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Enlarged thyroid Enlarged thyroid Development of a goitre An enlarged thyroid gland is known as a goitre. There are many causes, including a shortage of iodine in the diet which occurs in remote mountainous parts of the world, drugs such as lithium carbonate (Priadel) used to treat patients with bipolar disorder, an",
+  "history": {
+    "url": "http://www.familydoctor.co.uk/unassigned-articles/enlarged-thyroid/",
+    "title": "Enlarged thyroid",
+    "description": "Enlarged thyroid Development of a goitre An enlarged thyroid gland is known as a goitre. There are many causes, including a shortage of iodine in the diet which occurs in remote mountainous parts of the world, drugs such as lithium carbonate (Priadel) used to treat patients with bipolar disorder, an",
+    "frecency": 3802,
+    "url_hash": 48313197090439,
+    "last_visit_date": 1758203935985228
+  }
+}

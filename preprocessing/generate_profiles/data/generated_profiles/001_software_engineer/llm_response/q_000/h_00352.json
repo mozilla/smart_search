@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Mehmet Oz \"Mehmet Oz Oz at the World Economic Forum Annual Meeting in 2012Born Mehmet Cengiz \u00d6z June 11, 1960 (age 57)Cleveland, Ohio, United States Residence Cliffside Park, New Jersey, U. S. Education Harvard University ( A. B. )University of Pennsylvania ( M. D., M. B. A. )Occupation Surgeon, talk show hos",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a biography of Mehmet Oz and is not related to debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Mehmet Oz \"Mehmet Oz Oz at the World Economic Forum Annual Meeting in 2012Born Mehmet Cengiz \u00d6z June 11, 1960 (age 57)Cleveland, Ohio, United States Residence Cliffside Park, New Jersey, U. S. Education Harvard University ( A. B. )University of Pennsylvania ( M. D., M. B. A. )Occupation Surgeon, talk show hos",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Mehmet_Oz",
+    "title": "Mehmet Oz",
+    "description": "\"Mehmet Oz Oz at the World Economic Forum Annual Meeting in 2012Born Mehmet Cengiz \u00d6z June 11, 1960 (age 57)Cleveland, Ohio, United States Residence Cliffside Park, New Jersey, U. S. Education Harvard University ( A. B. )University of Pennsylvania ( M. D., M. B. A. )Occupation Surgeon, talk show hos",
+    "frecency": 3784,
+    "url_hash": 27904668927145,
+    "last_visit_date": 1758203927528200
+  }
+}

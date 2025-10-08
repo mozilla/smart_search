@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "What is Taxable? Retail sales of tangible items in California are generally subject to sales tax. Examples include furniture, giftware, toys, antiques and clothing. Some labor service and associated costs are subject to sales tax if they are involved in the creation or manufacturing of new personal property. Some it",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The content discusses sales tax in California, which is unrelated to strategies or guidance for improving sports performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "What is Taxable? Retail sales of tangible items in California are generally subject to sales tax. Examples include furniture, giftware, toys, antiques and clothing. Some labor service and associated costs are subject to sales tax if they are involved in the creation or manufacturing of new personal property. Some it",
+  "history": {
+    "url": "http://www.taxes.ca.gov/Sales_and_Use_Tax/WhatsTaxable.shtml",
+    "title": "What is Taxable?",
+    "description": "Retail sales of tangible items in California are generally subject to sales tax. Examples include furniture, giftware, toys, antiques and clothing. Some labor service and associated costs are subject to sales tax if they are involved in the creation or manufacturing of new personal property. Some it",
+    "frecency": 409,
+    "url_hash": 33366962917143,
+    "last_visit_date": 1758203929835228
+  }
+}

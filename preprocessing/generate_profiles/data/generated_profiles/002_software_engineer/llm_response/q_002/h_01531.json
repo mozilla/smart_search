@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Secondary Memory \"Secondary memory refers to storage devices, such as hard drives and solid state drives. It may also refer to removable storage media, such as USB flash drives, CDs, and DVDs. Unlike primary memory, secondary memory is not accessed directly by the CPU. Instead, data accessed from se\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The content describes secondary memory hardware, not IDEs or software development topics; thus not relevant to the query about top IDEs.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Secondary Memory \"Secondary Memory Secondary memory refers to storage devices, such as hard drives and solid state drives. It may also refer to removable storage media, such as USB flash drives, CDs, and DVDs. Unlike primary memory, secondary memory is not accessed directly by the CPU. Instead, data accessed from se",
+  "history": {
+    "url": "https://techterms.com/definition/secondary_memory",
+    "title": "Secondary Memory",
+    "description": "\"Secondary Memory Secondary memory refers to storage devices, such as hard drives and solid state drives. It may also refer to removable storage media, such as USB flash drives, CDs, and DVDs. Unlike primary memory, secondary memory is not accessed directly by the CPU. Instead, data accessed from se",
+    "frecency": 2236,
+    "url_hash": 46064860359205,
+    "last_visit_date": 1758203926988111
+  }
+}

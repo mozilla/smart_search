@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Tommy Hilfiger \"From Wikipedia, the free encyclopediannavigation search This article is about the person. For the company, see Tommy Hilfiger (company). Tommy Hilfiger Hilfiger in 2009Born Thomas Jacob Hilfiger March 24, 1951 (age 67)Elmira, New York, U. S. Nationality United States Occupation Fashion designer Labe",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns Tommy Hilfiger, a fashion designer, and has no relation to debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Tommy Hilfiger \"From Wikipedia, the free encyclopedianavigation search This article is about the person. For the company, see Tommy Hilfiger (company). Tommy Hilfiger Hilfiger in 2009Born Thomas Jacob Hilfiger March 24, 1951 (age 67)Elmira, New York, U. S. Nationality United States Occupation Fashion designer Labe",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Tommy_Hilfiger",
+    "title": "Tommy Hilfiger",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search This article is about the person. For the company, see Tommy Hilfiger (company). Tommy Hilfiger Hilfiger in 2009Born Thomas Jacob Hilfiger March 24, 1951 (age 67)Elmira, New York, U. S. Nationality United States Occupation Fashion designer Labe",
+    "frecency": 3237,
+    "url_hash": 5385729382273,
+    "last_visit_date": 1758203929516111
+  }
+}

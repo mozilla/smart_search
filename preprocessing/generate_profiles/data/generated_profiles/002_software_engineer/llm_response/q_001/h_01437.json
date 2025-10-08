@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Experimenter bias \"Assessment | Biopsychology | Comparative | Cognitive | Developmental | Language | Individual differences | Personality | Philosophy | Social | Methods | Statistics | Clinical | Educational | Industrial | Professional items | World psychology |Cognitive Psychology: Attention \u00b7 Decision making \u00b7 Lear",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about psychology topics (Experimenter bias and cognitive psychology) and contains no reference to Python, libraries, or machine learning; thus it is not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Experimenter bias \"Assessment | Biopsychology | Comparative | Cognitive | Developmental | Language | Individual differences | Personality | Philosophy | Social | Methods | Statistics | Clinical | Educational | Industrial | Professional items | World psychology |Cognitive Psychology: Attention \u00b7 Decision making \u00b7 Lear",
+  "history": {
+    "url": "http://psychology.wikia.com/wiki/Experimenter_bias",
+    "title": "Experimenter bias",
+    "description": "\"Assessment | Biopsychology | Comparative | Cognitive | Developmental | Language | Individual differences | Personality | Philosophy | Social | Methods | Statistics | Clinical | Educational | Industrial | Professional items | World psychology |Cognitive Psychology: Attention \u00b7 Decision making \u00b7 Lear",
+    "frecency": 2396,
+    "url_hash": 60459400336065,
+    "last_visit_date": 1758203927202111
+  }
+}

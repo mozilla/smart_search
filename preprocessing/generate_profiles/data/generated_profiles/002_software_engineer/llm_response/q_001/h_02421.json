@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Canada Revisited Canada Revisited In my last blog, I promised to talk about the UTC Canada meeting held in Regina, Saskatchewan, in late September. The event itself featured a compelling program with, for the first time, a panel of other critical industry representatives from trade associations in Canada. Given thei",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses a Canada meeting and trade associations, not Python libraries or machine learning. It is not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Canada Revisited Canada Revisited In my last blog, I promised to talk about the UTC Canada meeting held in Regina, Saskatchewan, in late September. The event itself featured a compelling program with, for the first time, a panel of other critical industry representatives from trade associations in Canada. Given thei",
+  "history": {
+    "url": "http://utc.org/canada/",
+    "title": "Canada Revisited",
+    "description": "Canada Revisited In my last blog, I promised to talk about the UTC Canada meeting held in Regina, Saskatchewan, in late September. The event itself featured a compelling program with, for the first time, a panel of other critical industry representatives from trade associations in Canada. Given thei",
+    "frecency": 636,
+    "url_hash": 12181689781700,
+    "last_visit_date": 1758203930910111
+  }
+}

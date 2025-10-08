@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Why book a Painting Party? Why book a Painting Party? Party Info Looks like Art... Feels like Fun!We offer private parties for any occasion!Birthdays Office parties Girls Night Out!Wedding showers Baby Showers Bachelor/ette parties Graduation Parties Church groups Field Trips Scout Activities Sports Team Parties Team Building",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result promotes private painting party services and events, not content about easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Why book a Painting Party? Why book a Painting Party? Party Info Looks like Art... Feels like Fun!We offer private parties for any occasion!Birthdays Office parties Girls Night Out!Wedding showers Baby Showers Bachelor/ette parties Graduation Parties Church groups Field Trips Scout Activities Sports Team Parties Team Building",
+  "history": {
+    "url": "https://paintingwithatwist.com/chattanooga/partyinfo/",
+    "title": "Why book a Painting Party?",
+    "description": "Why book a Painting Party? Party Info Looks like Art... Feels like Fun!We offer private parties for any occasion!Birthdays Office parties Girls Night Out!Wedding showers Baby Showers Bachelor/ette parties Graduation Parties Church groups Field Trips Scout Activities Sports Team Parties Team Building",
+    "frecency": 4652,
+    "url_hash": 21649503221064,
+    "last_visit_date": 1758203932467228
+  }
+}

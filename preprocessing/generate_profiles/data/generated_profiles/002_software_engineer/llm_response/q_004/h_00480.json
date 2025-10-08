@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "PrintFile \"Overview Print File is a freeware MS Windows utility program that will enable you to print files fast and easily. The program recognizes plain text, Post Script, Encapsulated Post Script (EPS) and binary formats. Using this program can save you a lot of paper and thereby also saving valuable natura",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a Windows printing utility (PrintFile) and is unrelated to Docker, Docker setup, or beginner Docker guidance.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "PrintFile \"Overview Print File is a freeware MS Windows utility program that will enable you to print files fast and easily. The program recognizes plain text, Post Script, Encapsulated Post Script (EPS) and binary formats. Using this program can save you a lot of paper and thereby also saving valuable natura",
+  "history": {
+    "url": "http://www.lerup.com/printfile/",
+    "title": "PrintFile",
+    "description": "\"Overview Print File is a freeware MS Windows utility program that will enable you to print files fast and easily. The program recognizes plain text, Post Script, Encapsulated Post Script (EPS) and binary formats. Using this program can save you a lot of paper and thereby also saving valuable natura",
+    "frecency": 4174,
+    "url_hash": 93331078294256,
+    "last_visit_date": 1758203930412111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Paper Sculpture Instructions - Hobbies: Paper Sculpture Instructions by Racheal Ambrose; Updated September 15, 2017; Things Needed: balloons, newspapers, masking tape, bowl with lid, flour, measuring cup, spoon, paints, paintbrushes; mentions paper mache.",
+  "relevance_score": 0.4,
+  "binary_decision": 1,
+  "Decision_Reason": "The page provides DIY paper sculpture instructions, which are craft-oriented and could contribute to room decor; however, it is not specifically about easy room decoration ideas, so relevance is moderate rather than strongly targeted.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Paper Sculpture Instructions \"Home \u00bbHobbies Paper Sculpture Instructions By Racheal Ambrose; Updated September 15, 2017Things Needed Balloon Newspapers Masking tape Bowl with lid Flour Measuring cup Spoon Paint Paintbrushes Translated from \"\"chewed paper\"\" in French, paper mache is used create paintable sculptures such as pi\u00f1at",
+  "history": {
+    "url": "http://www.ehow.com/how_7784784_make-paper-mache-unicorn.html",
+    "title": "Paper Sculpture Instructions",
+    "description": "\"Home \u00bbHobbies Paper Sculpture Instructions By Racheal Ambrose; Updated September 15, 2017Things Needed Balloon Newspapers Masking tape Bowl with lid Flour Measuring cup Spoon Paint Paintbrushes Translated from \"\"chewed paper\"\" in French, paper mache is used create paintable sculptures such as pi\u00f1at",
+    "frecency": 2124,
+    "url_hash": 28200652163561,
+    "last_visit_date": 1758203934607228
+  }
+}

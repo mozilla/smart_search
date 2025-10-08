@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Page Not Found About Advocate About Advocate Newsroom Giving Research at Advocate For Vendors CHNA Reports Sustainability and Wellness Volunteer Opportunities Quick Links Find a Doctor Find a Job Maps & Directions Register for a class Pay My Bill My Advocate Send Flowers Advocate Children's Hospital Professionals",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result appears to be a hospital/Advocate site navigation page with no content related to API integration, debugging, or API concepts; thus it is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Page Not Found About Advocate About Advocate Newsroom Giving Research at Advocate For Vendors CHNA Reports Sustainability and Wellness Volunteer Opportunities Quick Links Find a Doctor Find a Job Maps & Directions Register for a class Pay My Bill My Advocate Send Flowers Advocate Children's Hospital Professionals",
+  "history": {
+    "url": "http://www.advocatehealth.com/documents/residents/immc/RN%20Residency%20Application%20Frequently%20Asked%20Questions.pdf",
+    "title": "Page Not Found",
+    "description": "About Advocate About Advocate Newsroom Giving Research at Advocate For Vendors CHNA Reports Sustainability and Wellness Volunteer Opportunities Quick Links Find a Doctor Find a Job Maps & Directions Register for a class Pay My Bill My Advocate Send Flowers Advocate Children's Hospital Professionals ",
+    "frecency": 497,
+    "url_hash": 23145673930501,
+    "last_visit_date": 1758203930540111
+  }
+}

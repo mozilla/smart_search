@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Can circuit breakers become weak? Home & Garden Maintenance & Repairs Can circuit breakers become weak? Neighbor told me his breaker for air/heat will sometimes shut off, air always works and heat always works but every so often the breaker shuts off. I told him that breakers could in fact become weak, the more the swtich is used th",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses circuit breakers in a Home & Garden context, unrelated to Python, machine learning, or programming libraries; thus it is not relevant to the query about latest Python libraries for machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Can circuit breakers become weak? Home & Garden Maintenance & Repairs Can circuit breakers become weak? Neighbor told me his breaker for air/heat will sometimes shut off, air always works and heat always works but every so often the breaker shuts off. I told him that breakers could in fact become weak, the more the swtich is used th",
+  "history": {
+    "url": "https://answers.yahoo.com/question/index?qid=20090210114824AAdcDub",
+    "title": "Can circuit breakers become weak?",
+    "description": "Home & Garden Maintenance & Repairs Can circuit breakers become weak? Neighbor told me his breaker for air/heat will sometimes shut off, air always works and heat always works but every so often the breaker shuts off. I told him that breakers could in fact become weak, the more the swtich is used th",
+    "frecency": 4699,
+    "url_hash": 29290806724011,
+    "last_visit_date": 1758203929756111
+  }
+}

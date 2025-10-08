@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Welcome to Civils Welcome to Civils Established in 1997 Civils is a highly successful and accomplished British construction company. Civils have gained considerable experience providing construction services across a wide variety of sectors. We are proud of our reputation for non-confrontational contracting, an appro",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page describes a construction company and has no relation to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Welcome to Civils Welcome to Civils Established in 1997 Civils is a highly successful and accomplished British construction company. Civils have gained considerable experience providing construction services across a wide variety of sectors. We are proud of our reputation for non-confrontational contracting, an appro",
+  "history": {
+    "url": "http://www.civilsltd.com/",
+    "title": "Welcome to Civils",
+    "description": "Welcome to Civils Established in 1997 Civils is a highly successful and accomplished British construction company. Civils have gained considerable experience providing construction services across a wide variety of sectors. We are proud of our reputation for non-confrontational contracting, an appro",
+    "frecency": 969,
+    "url_hash": 17583947030813,
+    "last_visit_date": 1758203928428200
+  }
+}

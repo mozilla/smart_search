@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "The Impossible Decision Graduate students are always thinking about the pleasures and travails of grad school, and springtime is a period of especially intense reflection. It\u2019s in the spring, often in March and April, that undergraduates receive their acceptance letters. When that happens, they turn to their teachers, many",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "Retrieved result discusses graduate school experiences and springtime, not related to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "The Impossible Decision Graduate students are always thinking about the pleasures and travails of grad school, and springtime is a period of especially intense reflection. It\u2019s in the spring, often in March and April, that undergraduates receive their acceptance letters. When that happens, they turn to their teachers, many",
+  "history": {
+    "url": "http://www.newyorker.com/books/page-turner/the-impossible-decision",
+    "title": "The Impossible Decision",
+    "description": "Graduate students are always thinking about the pleasures and travails of grad school, and springtime is a period of especially intense reflection. It\u2019s in the spring, often in March and April, that undergraduates receive their acceptance letters. When that happens, they turn to their teachers, many",
+    "frecency": 3346,
+    "url_hash": 34176964388941,
+    "last_visit_date": 1758203928764111
+  }
+}

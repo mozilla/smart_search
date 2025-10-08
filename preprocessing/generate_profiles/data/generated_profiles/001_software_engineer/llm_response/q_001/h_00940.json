@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Frequently Asked Questions \\\"Home | History | Current Law | Board Members Frequently Asked Questions Questions About Mental Illness Can people get over mental illness without medication? Health care professionals have differing opinions on the effectiveness of medication to treat mental illness. There are treatment facilities",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about mental illness FAQs and does not pertain to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Frequently Asked Questions \"Home | History | Current Law | Board Members Frequently Asked Questions Questions About Mental Illness Can people get over mental illness without medication? Health care professionals have differing opinions on the effectiveness of medication to treat mental illness. There are treatment facilities",
+  "history": {
+    "url": "http://mhbsf.org/faq/",
+    "title": "Frequently Asked Questions",
+    "description": "\"Home | History | Current Law | Board Members Frequently Asked Questions Questions About Mental Illness Can people get over mental illness without medication? Health care professionals have differing opinions on the effectiveness of medication to treat mental illness. There are treatment facilities ",
+    "frecency": 1716,
+    "url_hash": 38280292375329,
+    "last_visit_date": 1758203927446200
+  }
+}

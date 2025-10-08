@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "The Last Airbender 2010 \"The Last Airbender 2010All Critics | Top Critics TOMATOMETER6 %Average Rating: 2.8/10Reviews Counted: 186Fresh: 11Rotten: 175Critics Consensus: The Last Airbender squanders its popular source material with incomprehensible plotting, horrible acting, and detached joyless direction. AUDIENCE SCORE30%",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a Rotten Tomatoes movie review page for The Last Airbender, which is unrelated to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "The Last Airbender 2010 \"The Last Airbender 2010All Critics | Top Critics TOMATOMETER6 %Average Rating: 2.8/10Reviews Counted: 186Fresh: 11Rotten: 175Critics Consensus: The Last Airbender squanders its popular source material with incomprehensible plotting, horrible acting, and detached joyless direction. AUDIENCE SCORE30%",
+  "history": {
+    "url": "https://www.rottentomatoes.com/m/last_airbender/",
+    "title": "The Last Airbender 2010",
+    "description": "\"The Last Airbender 2010All Critics | Top Critics TOMATOMETER6 %Average Rating: 2.8/10Reviews Counted: 186Fresh: 11Rotten: 175Critics Consensus: The Last Airbender squanders its popular source material with incomprehensible plotting, horrible acting, and detached joyless direction. AUDIENCE SCORE30%",
+    "frecency": 448,
+    "url_hash": 30902727634875,
+    "last_visit_date": 1758203931237228
+  }
+}

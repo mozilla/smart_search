@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Graphics Class \\\"Graphics Class. NET Framework (current version) Other Versions Note The . NET API Reference documentation has a new home. Visit the . NET API Browser on docs.microsoft.com to see the new experience. Encapsulates a GDI+ drawing surface. This class cannot be inherited. Namespace: System. Drawing Asse",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a .NET Graphics Class API reference, not related to Python libraries or machine learning libraries. It does not discuss Python or ML libraries.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Graphics Class \"Graphics Class. NET Framework (current version) Other Versions Note The . NET API Reference documentation has a new home. Visit the . NET API Browser on docs.microsoft.com to see the new experience. Encapsulates a GDI+ drawing surface. This class cannot be inherited. Namespace: System. Drawing Asse",
+  "history": {
+    "url": "https://msdn.microsoft.com/en-us/library/system.drawing.graphics(v=vs.110).aspx",
+    "title": "Graphics Class",
+    "description": "\"Graphics Class. NET Framework (current version) Other Versions Note The . NET API Reference documentation has a new home. Visit the . NET API Browser on docs.microsoft.com to see the new experience. Encapsulates a GDI+ drawing surface. This class cannot be inherited. Namespace: System. Drawing Asse",
+    "frecency": 526,
+    "url_hash": 38822190560036,
+    "last_visit_date": 1758203931698111
+  }
+}

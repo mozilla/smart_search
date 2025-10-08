@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Microsoft tightens Windows 10's Secure Boot screws: Where does that leave Linux? Home Security World Beyond Windows By Chris Hoffman , PCWorld |Mar 25, 2015 8:27 AM PTNews Analysis Microsoft tightens Windows 10's Secure Boot screws: Where does that leave Linux? I'm not a robotre CAPTCHAPrivacy - Terms Sunny Ripert (CC BY-SA 2.0)More like this How Intel and PC makers prevent you",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Windows Secure Boot and Linux compatibility, not Python libraries or machine learning; it is not relevant to the query about latest Python libraries for ML.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Microsoft tightens Windows 10's Secure Boot screws: Where does that leave Linux? Home Security World Beyond Windows By Chris Hoffman , PCWorld |Mar 25, 2015 8:27 AM PTNews Analysis Microsoft tightens Windows 10's Secure Boot screws: Where does that leave Linux? I'm not a robotre CAPTCHAPrivacy - Terms Sunny Ripert (CC BY-SA 2.0)More like this How Intel and PC makers prevent you",
+  "history": {
+    "url": "http://www.pcworld.com/article/2901262/microsoft-tightens-windows-10s-secure-boot-screws-where-does-that-leave-linux.html",
+    "title": "Microsoft tightens Windows 10's Secure Boot screws: Where does that leave Linux?",
+    "description": "Home Security World Beyond Windows By Chris Hoffman , PCWorld |Mar 25, 2015 8:27 AM PTNews Analysis Microsoft tightens Windows 10's Secure Boot screws: Where does that leave Linux? I'm not a robotre CAPTCHAPrivacy - Terms Sunny Ripert (CC BY-SA 2.0)More like this How Intel and PC makers prevent you ",
+    "frecency": 4706,
+    "url_hash": 68111158093939,
+    "last_visit_date": 1758203930436111
+  }
+}

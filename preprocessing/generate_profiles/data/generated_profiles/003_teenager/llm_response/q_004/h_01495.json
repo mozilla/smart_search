@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Free Sheet Music For The Traditional Patriotic American Song, \"\"America The Beautiful\"\" \"America The Beautiful- Free Sheet Music Written by Chad Criswell Set to a poem written by American scholar Katharine Lee Bates in 1893, America The Beautiful has a profound history. Joined together with the Francis Ward hymn tune, Materna, America The Beautiful began a long rise in public opinion,",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns free sheet music for a patriotic song, which is unrelated to improving sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "\"Free Sheet Music For The Traditional Patriotic American Song, \"\"America The Beautiful\"\"\" \"America The Beautiful- Free Sheet Music Written by Chad Criswell Set to a poem written by American scholar Katharine Lee Bates in 1893, America The Beautiful has a profound history. Joined together with the Francis Ward hymn tune, Materna, America The Beautiful began a long rise in public opinion,",
+  "history": {
+    "url": "https://www.musicedmagic.com/music/america-the-beautiful--free-sheet-music.html",
+    "title": "\"Free Sheet Music For The Traditional Patriotic American Song, \"\"America The Beautiful\"\"\"",
+    "description": "\"America The Beautiful- Free Sheet Music Written by Chad Criswell Set to a poem written by American scholar Katharine Lee Bates in 1893, America The Beautiful has a profound history. Joined together with the Francis Ward hymn tune, Materna, America The Beautiful began a long rise in public opinion, ",
+    "frecency": 3481,
+    "url_hash": 26795481813635,
+    "last_visit_date": 1758203933787228
+  }
+}

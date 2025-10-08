@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "WC: Cincinnati WC: Cincinnati Wilmington College Cincinnati helps you finish your degree faster through the highest level of personal attention in a welcoming, professional environment. Our contemporary courses meet the challenging demands of today\u2019s business environment with the integrity of a college that has be",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a college program in Cincinnati, not information about IDEs or software development tools.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "WC: Cincinnati WC: Cincinnati Wilmington College Cincinnati helps you finish your degree faster through the highest level of personal attention in a welcoming, professional environment. Our contemporary courses meet the challenging demands of today\u2019s business environment with the integrity of a college that has be",
+  "history": {
+    "url": "https://www.wilmington.edu/cincinnati/",
+    "title": "WC: Cincinnati",
+    "description": "WC: Cincinnati Wilmington College Cincinnati helps you finish your degree faster through the highest level of personal attention in a welcoming, professional environment. Our contemporary courses meet the challenging demands of today\u2019s business environment with the integrity of a college that has be",
+    "frecency": 1174,
+    "url_hash": 84979245818772,
+    "last_visit_date": 1758203932090111
+  }
+}

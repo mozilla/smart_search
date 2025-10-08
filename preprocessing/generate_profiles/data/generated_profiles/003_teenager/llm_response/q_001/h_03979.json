@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "Bad Rabbits \\\"From Wikipedia, the free encyclopedianavigation search This article is about the band. For ransomware, see Bad Rabbit. This article relies too much on references to primary sources. Please improve this by adding secondary or tertiary sources. (November 2011) ( Learn how and when to remove this temp",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns the band Bad Rabbits and Wikipedia boilerplate, not TikTok trends; it does not pertain to the query.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "Bad Rabbits \"From Wikipedia, the free encyclopedianavigation search This article is about the band. For ransomware, see Bad Rabbit. This article relies too much on references to primary sources. Please improve this by adding secondary or tertiary sources. (November 2011) ( Learn how and when to remove this temp",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Bad_Rabbits",
+    "title": "Bad Rabbits",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search This article is about the band. For ransomware, see Bad Rabbit. This article relies too much on references to primary sources. Please improve this by adding secondary or tertiary sources. (November 2011) ( Learn how and when to remove this temp",
+    "frecency": 874,
+    "url_hash": 87928804968312,
+    "last_visit_date": 1758203931103228
+  }
+}

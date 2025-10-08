@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Women's health guide \\\"Select An Article Why am I always so tired? Top 15 causes of fatigue Getting plenty of sleep but still exhausted? Before you blame your busy lifestyle, learn more about what might be at the root of your unexplained fatigue. By Siobhan Harris Web MD Feature Medically Reviewed by Dr Rob Hicks Do you\\\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses fatigue and sleep, not apps or strategies to improve study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Women's health guide \"Select An Article Why am I always so tired? Top 15 causes of fatigue Getting plenty of sleep but still exhausted? Before you blame your busy lifestyle, learn more about what might be at the root of your unexplained fatigue. By Siobhan Harris Web MD Feature Medically Reviewed by Dr Rob Hicks Do you",
+  "history": {
+    "url": "http://www.webmd.boots.com/women/guide/why-so-tired-top-12-causes-fatigue",
+    "title": "Women's health guide",
+    "description": "\"Select An Article Why am I always so tired? Top 15 causes of fatigue Getting plenty of sleep but still exhausted? Before you blame your busy lifestyle, learn more about what might be at the root of your unexplained fatigue. By Siobhan Harris Web MD Feature Medically Reviewed by Dr Rob Hicks Do you ",
+    "frecency": 4635,
+    "url_hash": 72042217600276,
+    "last_visit_date": 1758203927726735
+  }
+}

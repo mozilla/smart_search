@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "dta Utility \\\"dta Utility January 9, 2017 15 minutes to read Contributors In this article Syntax Arguments Remarks Examples See Also THIS TOPIC APPLIES TO: SQL Server Azure SQL Database Azure SQL Data Warehouse Parallel Data Warehouse The dta utility is the command prompt version of Database Engine Tuning Adviso",
+  "relevance_score": 0.8,
+  "binary_decision": 1,
+  "Decision_Reason": "The retrieved result discusses the DTA utility (Database Engine Tuning Advisor) used to analyze and optimize database queries on SQL Server environments, which aligns with the query intent of how to optimize database queries.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "dta Utility \"dta Utility January 9, 2017 15 minutes to read Contributors In this article Syntax Arguments Remarks Examples See Also THIS TOPIC APPLIES TO: SQL Server Azure SQL Database Azure SQL Data Warehouse Parallel Data Warehouse The dta utility is the command prompt version of Database Engine Tuning Adviso",
+  "history": {
+    "url": "https://docs.microsoft.com/en-us/sql/tools/dta/dta-utility",
+    "title": "dta Utility",
+    "description": "\"dta Utility January 9, 2017 15 minutes to read Contributors In this article Syntax Arguments Remarks Examples See Also THIS TOPIC APPLIES TO: SQL Server Azure SQL Database Azure SQL Data Warehouse Parallel Data Warehouse The dta utility is the command prompt version of Database Engine Tuning Adviso",
+    "frecency": 1865,
+    "url_hash": 65146895470441,
+    "last_visit_date": 1758203927278200
+  }
+}

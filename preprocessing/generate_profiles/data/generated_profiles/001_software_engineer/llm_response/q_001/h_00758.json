@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "hot plug Hot plug is the addition of a component to a running computer system without significant interruption to the operation of the system. Hot plugging a device does not require a restart of the system. Download this free guide PDF: Simplifying NAS Virtualization This complete guide untangles the pros an",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses hardware topics (hot plug, NAS virtualization) and a guide unrelated to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "hot plug Hot plug is the addition of a component to a running computer system without significant interruption to the operation of the system. Hot plugging a device does not require a restart of the system. Download this free guide PDF: Simplifying NAS Virtualization This complete guide untangles the pros an",
+  "history": {
+    "url": "http://searchstorage.techtarget.com/definition/hot-plug",
+    "title": "hot plug",
+    "description": "Hot plug is the addition of a component to a running computer system without significant interruption to the operation of the system. Hot plugging a device does not require a restart of the system. Download this free guide PDF: Simplifying NAS Virtualization This complete guide untangles the pros an",
+    "frecency": 2451,
+    "url_hash": 84792541337710,
+    "last_visit_date": 1758203929164200
+  }
+}

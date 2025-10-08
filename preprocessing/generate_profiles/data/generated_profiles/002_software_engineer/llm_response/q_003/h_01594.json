@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "What are Payroll Costs? Payroll costs are expenses that are associated with the preparation and distribution of a payroll as part of the compensation to employees for their services. There are several key elements that are classified as costs of payroll in addition to the actual amount of net pay that is forwarded to the e",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses payroll costs, unrelated to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "What are Payroll Costs? Payroll costs are expenses that are associated with the preparation and distribution of a payroll as part of the compensation to employees for their services. There are several key elements that are classified as costs of payroll in addition to the actual amount of net pay that is forwarded to the e",
+  "history": {
+    "url": "http://www.wisegeek.com/what-are-payroll-costs.htm",
+    "title": "What are Payroll Costs?",
+    "description": "Payroll costs are expenses that are associated with the preparation and distribution of a payroll as part of the compensation to employees for their services. There are several key elements that are classified as costs of payroll in addition to the actual amount of net pay that is forwarded to the e",
+    "frecency": 2127,
+    "url_hash": 55709147081241,
+    "last_visit_date": 1758203928020111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Carl House Skip to Search Form Skip to Navigation Skip to Page Content Yelp Find Near Cancel Search Sign Up Log In Login Sign Up About Me Talk Oops, we can't find your location First, try refreshing the page and clicking Current Location again. Make sure you click Allow or Grant Permissions if your browser ask",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "Retrieved result appears to be a Yelp page UI snippet and is unrelated to Docker setup; it does not address the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Carl House Skip to Search Form Skip to Navigation Skip to Page Content Yelp Find Near Cancel Search Sign Up Log In Login Sign Up About Me Talk Oops, we can't find your location First, try refreshing the page and clicking Current Location again. Make sure you click Allow or Grant Permissions if your browser ask",
+  "history": {
+    "url": "https://www.yelp.com/biz/carl-house-auburn",
+    "title": "Carl House",
+    "description": "Skip to Search Form Skip to Navigation Skip to Page Content Yelp Find Near Cancel Search Sign Up Log In Login Sign Up About Me Talk Oops, we can't find your location First, try refreshing the page and clicking Current Location again. Make sure you click Allow or Grant Permissions if your browser ask",
+    "frecency": 2913,
+    "url_hash": 35231189970475,
+    "last_visit_date": 1758203927548200
+  }
+}

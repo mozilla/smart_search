@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "306 Unum Insurance Company Consumer Reviews and Complaints \\\"Last updated: March 28, 2018\\\"306 Unum Insurance Company Consumer Reviews and Complaints Sort: Recent Filter by: Any Jason of Lacombe, LA Verified Reviewer Original review: March 28, 2018I\u2019ve never taken off from work under FMLA until my mother was placed into hospice care after fighting Stage IV met",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Unum Insurance consumer reviews, not about Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "306 Unum Insurance Company Consumer Reviews and Complaints \"Last updated: March 28, 2018306 Unum Insurance Company Consumer Reviews and Complaints Sort: Recent Filter by: Any Jason of Lacombe, LA Verified Reviewer Original review: March 28, 2018I\u2019ve never taken off from work under FMLA until my mother was placed into hospice care after fighting Stage IV met",
+  "history": {
+    "url": "https://www.consumeraffairs.com/insurance/unum.html",
+    "title": "306 Unum Insurance Company Consumer Reviews and Complaints",
+    "description": "\"Last updated: March 28, 2018306 Unum Insurance Company Consumer Reviews and Complaints Sort: Recent Filter by: Any Jason of Lacombe, LA Verified Reviewer Original review: March 28, 2018I\u2019ve never taken off from work under FMLA until my mother was placed into hospice care after fighting Stage IV met",
+    "frecency": 3715,
+    "url_hash": 24628016809924,
+    "last_visit_date": 1758203927926111
+  }
+}

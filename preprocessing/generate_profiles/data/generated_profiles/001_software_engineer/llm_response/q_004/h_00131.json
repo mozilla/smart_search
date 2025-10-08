@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "On average... How many steps does a person take per day? Health Diet & Fitness On average... How many steps does a person take per day? Okay... I know that you SHOULD take 10,000 steps per day. But what is a realistic average of how many steps a person takes per day? Or about how many steps does a female, working, college student take per day? (Its for a",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses daily steps and health metrics, not Docker or container setup; it is unrelated to the query 'Docker setup for beginners'.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "On average... How many steps does a person take per day? Health Diet & Fitness On average... How many steps does a person take per day? Okay... I know that you SHOULD take 10,000 steps per day. But what is a realistic average of how many steps a person takes per day? Or about how many steps does a female, working, college student take per day? (Its for a",
+  "history": {
+    "url": "https://answers.yahoo.com/question/index?qid=20081111210828AA0EhL3",
+    "title": "On average... How many steps does a person take per day?",
+    "description": "Health Diet & Fitness On average... How many steps does a person take per day? Okay... I know that you SHOULD take 10,000 steps per day. But what is a realistic average of how many steps a person takes per day? Or about how many steps does a female, working, college student take per day? (Its for a ",
+    "frecency": 4541,
+    "url_hash": 98574864059414,
+    "last_visit_date": 1758203928206200
+  }
+}

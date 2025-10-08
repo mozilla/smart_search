@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "How to Start a Business: Opening a Clothing Company by Stephanie Morrow College Professor How often do you answer the \\\"wow, where did you get that\\\" question? When you see yet another celebrity launching a new clothing line, do you think \\\"that should be me?\\\" And just how many times have you watc",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses starting a clothing business, not easy DIY room decoration ideas; it is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "How to Start a Business: Opening a Clothing Company \"How to Start a Business: Opening a Clothing Companyby Stephanie Morrow College Professor How often do you answer the \"\"wow, where did you get that \"\" question? When you see yet another celebrity launching a new clothing line, do you think \"\"that should be me?\"\" And just how many times have you watc",
+  "history": {
+    "url": "https://www.legalzoom.com/articles/how-to-start-a-business-opening-a-clothing-company",
+    "title": "How to Start a Business: Opening a Clothing Company",
+    "description": "\"How to Start a Business: Opening a Clothing Companyby Stephanie Morrow College Professor How often do you answer the \"\"wow, where did you get that \"\" question? When you see yet another celebrity launching a new clothing line, do you think \"\"that should be me?\"\" And just how many times have you watc",
+    "frecency": 4492,
+    "url_hash": 52890783725547,
+    "last_visit_date": 1758203935389228
+  }
+}

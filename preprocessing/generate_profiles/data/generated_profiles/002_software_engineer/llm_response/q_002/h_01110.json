@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "What is the average net salary per year for a 30 year old medical doctor? What is the average net salary per year for a 30 year old medical doctor? Assuming you mean an internal medicine or family practice physician, a couple years out of residency. Probably about $120,000 to $140,000 a year as a group-practice employed p \u2026What is the average salary of a graduate student",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses salaries for doctors and graduate students, not IDEs or software development; it is not relevant to the query about top IDEs.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "What is the average net salary per year for a 30 year old medical doctor? What is the average net salary per year for a 30 year old medical doctor? Assuming you mean an internal medicine or family practice physician, a couple years out of residency. Probably about $120,000 to $140,000 a year as a group-practice employed p \u2026What is the average salary of a graduate student",
+  "history": {
+    "url": "http://www.answers.com/Q/What_is_the_Average_salary_of_of_30_year_old_MBA_graduate",
+    "title": "What is the average net salary per year for a 30 year old medical doctor?",
+    "description": "What is the average net salary per year for a 30 year old medical doctor? Assuming you mean an internal medicine or family practice physician, a couple years out of residency. Probably about $120,000 to $140,000 a year as a group-practice employed p \u2026What is the average salary of a graduate student ",
+    "frecency": 3035,
+    "url_hash": 90406240351986,
+    "last_visit_date": 1758203928730111
+  }
+}

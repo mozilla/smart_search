@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Configure Commonly Used IP ACLs \\\"Contents Introduction Prerequisites Requirements Components Used Configure Allow a Select Host to Access the Network Deny a Select Host to Access the Network Allow Access to a Range of Contiguous IP Addresses Deny Telnet Traffic (TCP, Port 23)Allow Only Internal Networks to Initiate a TCP Session D",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes network device configuration (IP ACLs) and does not relate to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Configure Commonly Used IP ACLs \"Contents Introduction Prerequisites Requirements Components Used Configure Allow a Select Host to Access the Network Deny a Select Host to Access the Network Allow Access to a Range of Contiguous IP Addresses Deny Telnet Traffic (TCP, Port 23)Allow Only Internal Networks to Initiate a TCP Session D",
+  "history": {
+    "url": "http://www.cisco.com/c/en/us/support/docs/ip/access-lists/26448-ACLsamples.html",
+    "title": "Configure Commonly Used IP ACLs",
+    "description": "\"Contents Introduction Prerequisites Requirements Components Used Configure Allow a Select Host to Access the Network Deny a Select Host to Access the Network Allow Access to a Range of Contiguous IP Addresses Deny Telnet Traffic (TCP, Port 23)Allow Only Internal Networks to Initiate a TCP Session D",
+    "frecency": 2487,
+    "url_hash": 68919020287571,
+    "last_visit_date": 1758203927480111
+  }
+}

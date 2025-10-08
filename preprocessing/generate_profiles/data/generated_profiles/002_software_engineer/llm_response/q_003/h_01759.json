@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "How do you change the default media player for Mac OS X? \\\"George Fekete, CTO @Primal Skill.com Answered Nov 23, 2010 \u00b7 Author has 94 answers and 107.7k answer views Just install another one like VLC or MPlayer and use that. If you want another media player to load the media file that you selected in Finder then right click (or ctrl+click) on the media fil",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns changing the default media player on macOS, which has no relation to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "How do you change the default media player for Mac OS X? \"George Fekete, CTO @Primal Skill.com Answered Nov 23, 2010 \u00b7 Author has 94 answers and 107.7k answer views Just install another one like VLC or MPlayer and use that. If you want another media player to load the media file that you selected in Finder then right click (or ctrl+click) on the media fil",
+  "history": {
+    "url": "https://www.quora.com/How-do-you-change-the-default-media-player-for-Mac-OS-X",
+    "title": "How do you change the default media player for Mac OS X?",
+    "description": "\"George Fekete, CTO @Primal Skill.com Answered Nov 23, 2010 \u00b7 Author has 94 answers and 107.7k answer views Just install another one like VLC or MPlayer and use that. If you want another media player to load the media file that you selected in Finder then right click (or ctrl+click) on the media fil",
+    "frecency": 1817,
+    "url_hash": 34971294529416,
+    "last_visit_date": 1758203930604111
+  }
+}

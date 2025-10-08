@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "George Mason University Total Grad Surveys 34Females 16Males 18Avg years at University 2.6Research Quality C+ (5.4)Research Availability C (4.7)Research Funding C- (4.2)Graduate Politics C (4.3",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns graduate surveys and university metrics, not Docker or beginner Docker setup guidance.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "George Mason University \"Total Grad Surveys 34Females 16Males 18Avg years at University 2.6Research Quality C+ (5.4)Research Availability C (4.7)Research Funding C- (4.2)Graduate Politics C (4.3)Not Errand Runners C (4.7)Degree Completion C+ (5.4)Alternative pay [ta/gsi] C (4.2)Sufficient Pay C- (4.1)Competitiveness C (4.3",
+  "history": {
+    "url": "http://www.studentsreview.com/VA/GMU_g.html",
+    "title": "George Mason University",
+    "description": "\"Total Grad Surveys 34Females 16Males 18Avg years at University 2.6Research Quality C+ (5.4)Research Availability C (4.7)Research Funding C- (4.2)Graduate Politics C (4.3)Not Errand Runners C (4.7)Degree Completion C+ (5.4)Alternative pay [ta/gsi] C (4.2)Sufficient Pay C- (4.1)Competitiveness C (4.3",
+    "frecency": 918,
+    "url_hash": 91393381942677,
+    "last_visit_date": 1758203932096111
+  }
+}

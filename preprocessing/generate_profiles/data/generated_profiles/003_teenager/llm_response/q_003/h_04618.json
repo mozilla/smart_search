@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Operating Calendar Operating Calendar Looking for the best place for fun family activities in Riverside? You have come to the right place! Castle Park is where you will find family-friendly activities, rides, miniature golf, and even a water play area! Plan your next group event or bring the family for a day of fun. T",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes Riverside family activities and Castle Park, not apps or methods for improving study habits; thus it is not relevant to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Operating Calendar Operating Calendar Looking for the best place for fun family activities in Riverside? You have come to the right place! Castle Park is where you will find family-friendly activities, rides, miniature golf, and even a water play area! Plan your next group event or bring the family for a day of fun. T",
+  "history": {
+    "url": "https://www.castlepark.com/hours-and-directions/operating-hours",
+    "title": "Operating Calendar",
+    "description": "Operating Calendar Looking for the best place for fun family activities in Riverside? You have come to the right place! Castle Park is where you will find family-friendly activities, rides, miniature golf, and even a water play area! Plan your next group event or bring the family for a day of fun. T",
+    "frecency": 208,
+    "url_hash": 36046796088764,
+    "last_visit_date": 1758203932843228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Movie Review: \u00e2Hidden Figures\u00e2: NASA\u00e2s First Black Female Math Wizards Movie Review: \u2018Hidden Figures\u2019: NASA\u2019s First Black Female Math Wizards By Mark Jackson, Epoch Times December 11, 2016 6:52 pm Last Updated: December 15, 2016 4:18 pm (L\u2013R) Mary Jackson (Janelle Monae, left), Katherine Johnson (Taraji P. Henson) and Dorothy Vaughan (Octavia Spencer) celebrate their s",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a movie review about Hidden Figures, not about improving sports performance; thus it is not relevant to the query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Movie Review: \u00e2Hidden Figures\u00e2: NASA\u00e2s First Black Female Math Wizards Movie Review: \u2018Hidden Figures\u2019: NASA\u2019s First Black Female Math Wizards By Mark Jackson, Epoch Times December 11, 2016 6:52 pm Last Updated: December 15, 2016 4:18 pm (L\u2013R) Mary Jackson (Janelle Monae, left), Katherine Johnson (Taraji P. Henson) and Dorothy Vaughan (Octavia Spencer) celebrate their s",
+  "history": {
+    "url": "http://www.theepochtimes.com/n3/2195337-movie-review-hidden-figures-nasas-first-black-female-math-wizards/",
+    "title": "Movie Review: \u00e2Hidden Figures\u00e2: NASA\u00e2s First Black Female Math Wizards",
+    "description": "Movie Review: \u2018Hidden Figures\u2019: NASA\u2019s First Black Female Math Wizards By Mark Jackson, Epoch Times December 11, 2016 6:52 pm Last Updated: December 15, 2016 4:18 pm (L\u2013R) Mary Jackson (Janelle Monae, left), Katherine Johnson (Taraji P. Henson) and Dorothy Vaughan (Octavia Spencer) celebrate their s",
+    "frecency": 746,
+    "url_hash": 96729189182461,
+    "last_visit_date": 1758203928617139
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "When is the Best Time to Buy a New Car? When is the Best Time to Buy a New Car? By Christian Wardlaw, August 10, 2012At some point, the cost of maintaining your old car, in terms of money, time and missed work, makes buying a new car an attractive proposition, even though keeping your old car is almost always the less expensive option. If",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about buying a car, not about database query optimization; topic mismatch indicates irrelevance.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "When is the Best Time to Buy a New Car? When is the Best Time to Buy a New Car? By Christian Wardlaw, August 10, 2012At some point, the cost of maintaining your old car, in terms of money, time and missed work, makes buying a new car an attractive proposition, even though keeping your old car is almost always the less expensive option. If",
+  "history": {
+    "url": "http://www.jdpower.com/cars/articles/tips-advice/when-best-time-buy-new-car",
+    "title": "When is the Best Time to Buy a New Car?",
+    "description": "When is the Best Time to Buy a New Car? By Christian Wardlaw, August 10, 2012At some point, the cost of maintaining your old car, in terms of money, time and missed work, makes buying a new car an attractive proposition, even though keeping your old car is almost always the less expensive option. If",
+    "frecency": 1222,
+    "url_hash": 31036875364100,
+    "last_visit_date": 1758203928594200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "How are synchros used in error detection? How are synchros used in error detection? Control systems are synchros which are used in error detection. They provide a voltage to be converted to torque through anamplifying method. A technician has been asked to install memory that detects multiple bit errors and corrects single bit errors in mem",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses synchros, error detection in control systems, and memory errors, with no relation to debugging APIs or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "How are synchros used in error detection? How are synchros used in error detection? Control systems are synchros which are used in error detection. They provide a voltage to be converted to torque through anamplifying method. A technician has been asked to install memory that detects multiple bit errors and corrects single bit errors in mem",
+  "history": {
+    "url": "http://www.answers.com/Q/What_is_the_error_detection_technique_that_can_detect_errors_with_only_one_bit",
+    "title": "How are synchros used in error detection?",
+    "description": "How are synchros used in error detection? Control systems are synchros which are used in error detection. They provide a voltage to be converted to torque through anamplifying method. A technician has been asked to install memory that detects multiple bit errors and corrects single bit errors in mem",
+    "frecency": 204,
+    "url_hash": 77950596143713,
+    "last_visit_date": 1758203930178111
+  }
+}

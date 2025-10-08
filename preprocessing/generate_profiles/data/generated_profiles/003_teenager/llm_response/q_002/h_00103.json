@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "American Gods \\\"American Gods From Wikipedia, the free encyclopedianavigation search This article is about the novel written by Neil Gaiman. For the television adaptation of the novel, see American Gods (TV series). American Gods Cover of first edition (hardcover)Author Neil Gaiman Country United Kingdom Language\\\"",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns the novel American Gods, not DIY or room decoration ideas; it is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "American Gods \"American Gods From Wikipedia, the free encyclopedianavigation search This article is about the novel written by Neil Gaiman. For the television adaptation of the novel, see American Gods (TV series). American Gods Cover of first edition (hardcover)Author Neil Gaiman Country United Kingdom Language",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/American_Gods",
+    "title": "American Gods",
+    "description": "\"American Gods From Wikipedia, the free encyclopedianavigation search This article is about the novel written by Neil Gaiman. For the television adaptation of the novel, see American Gods (TV series). American Gods Cover of first edition (hardcover)Author Neil Gaiman Country United Kingdom Language ",
+    "frecency": 4895,
+    "url_hash": 64168799884016,
+    "last_visit_date": 1758203928406735
+  }
+}

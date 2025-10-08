@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "How long will I have to go to school for a criminal justice degree? Degree Finder For Criminal Justice123Search Colleges Sponsored Schools How long will I have to go to school for a criminal justice degree? You may have been dreaming about a career in criminal justice, but how long will it take you to get there? Depending on what type of education you want \u2013 whether",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns education duration for a criminal justice degree, not related to debugging or integrating APIs.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "How long will I have to go to school for a criminal justice degree? Degree Finder For Criminal Justice123Search Colleges Sponsored Schools How long will I have to go to school for a criminal justice degree? You may have been dreaming about a career in criminal justice, but how long will it take you to get there? Depending on what type of education you want \u2013 whether",
+  "history": {
+    "url": "http://www.criminaljusticedegreehub.com/how-long-will-i-have-to-go-to-school-for-a-criminal-justice-degree/",
+    "title": "How long will I have to go to school for a criminal justice degree?",
+    "description": "Degree Finder For Criminal Justice123Search Colleges Sponsored Schools How long will I have to go to school for a criminal justice degree? You may have been dreaming about a career in criminal justice, but how long will it take you to get there? Depending on what type of education you want \u2013 whether",
+    "frecency": 940,
+    "url_hash": 59721690031173,
+    "last_visit_date": 1758203928060200
+  }
+}

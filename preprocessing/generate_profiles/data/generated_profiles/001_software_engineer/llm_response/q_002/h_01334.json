@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "When Do I Start My Income Tax Year? When Do I Start My Income Tax Year? Every business is required to file and pay taxes in accordance to an annual accounting period called a tax year. Whether it's calendar year or fiscal year, the business must be consistent once it chooses a method. Tax years are typically 12 consecutive months; but",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses income tax years, not IDEs or software development tools; no relevance to the query about top IDEs.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "When Do I Start My Income Tax Year? When Do I Start My Income Tax Year? Every business is required to file and pay taxes in accordance to an annual accounting period called a tax year. Whether it's calendar year or fiscal year, the business must be consistent once it chooses a method. Tax years are typically 12 consecutive months; but",
+  "history": {
+    "url": "http://smallbusiness.findlaw.com/business-taxes/when-do-i-start-my-income-tax-year.html",
+    "title": "When Do I Start My Income Tax Year?",
+    "description": "When Do I Start My Income Tax Year? Every business is required to file and pay taxes in accordance to an annual accounting period called a tax year. Whether it's calendar year or fiscal year, the business must be consistent once it chooses a method. Tax years are typically 12 consecutive months; but",
+    "frecency": 312,
+    "url_hash": 75925939264172,
+    "last_visit_date": 1758203928156200
+  }
+}

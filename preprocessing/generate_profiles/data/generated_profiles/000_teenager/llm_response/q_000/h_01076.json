@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "5 Great Beginner Fender Electric Guitars Fender Play SPECIAL OFFER: SAVE 50%. Learn guitar for only $9.99/month. START FOR FREE.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The result is about Fender guitars and guitar lessons, not about starting or running a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "5 Great Beginner Fender Electric Guitars Fender Play SPECIAL OFFER: SAVE 50%. Learn guitar for only $9.99/month. START FOR FREE.",
+  "history": {
+    "url": "http://www2.fender.com/experience/fender-tone/5-great-beginner-fender-electric-guitars/",
+    "title": "5 Great Beginner Fender Electric Guitars",
+    "description": "Fender Play SPECIAL OFFER: SAVE 50%. Learn guitar for only $9.99/month. START FOR FREE. ",
+    "frecency": 225,
+    "url_hash": 42504257827082,
+    "last_visit_date": 1758203928529139
+  }
+}

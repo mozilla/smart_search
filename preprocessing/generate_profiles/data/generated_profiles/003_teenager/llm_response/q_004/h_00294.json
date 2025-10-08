@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Those Were The Days Lyrics \"Tweet Mary Hopkin \u2013 Those Were The Days Lyrics Once upon a time there was a tavern Where we used to raise a glass or two Remember how we laughed away the hours And dreamed of all the great things we would do Those were the days my friend We thought they'd never end We'd sing and dance forever and a",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is song lyrics unrelated to getting better at sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Those Were The Days Lyrics \"Tweet Mary Hopkin \u2013 Those Were The Days Lyrics Once upon a time there was a tavern Where we used to raise a glass or two Remember how we laughed away the hours And dreamed of all the great things we would do Those were the days my friend We thought they'd never end We'd sing and dance forever and a",
+  "history": {
+    "url": "http://www.lyricsfreak.com/m/mary+hopkin/those+were+the+days_20317307.html",
+    "title": "Those Were The Days Lyrics",
+    "description": "\"Tweet Mary Hopkin \u2013 Those Were The Days Lyrics Once upon a time there was a tavern Where we used to raise a glass or two Remember how we laughed away the hours And dreamed of all the great things we would do Those were the days my friend We thought they'd never end We'd sing and dance forever and a",
+    "frecency": 4705,
+    "url_hash": 41701820477957,
+    "last_visit_date": 1758203935647228
+  }
+}

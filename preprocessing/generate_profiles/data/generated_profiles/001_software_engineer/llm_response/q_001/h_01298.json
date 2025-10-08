@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Stay connected even when the power is out Stay connected even when the power is out Your Phone Modem (\u201cmodem\u201d) must be plugged into an electrical wall outlet to operate. In the event of a power outage, your Phone service (including your access to 911 and any medical and security monitoring services that depend on it) will be unavailable if",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses power outages and phone modems, not Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Stay connected even when the power is out Stay connected even when the power is out Your Phone Modem (\u201cmodem\u201d) must be plugged into an electrical wall outlet to operate. In the event of a power outage, your Phone service (including your access to 911 and any medical and security monitoring services that depend on it) will be unavailable if",
+  "history": {
+    "url": "https://www.timewarnercable.com/en/support/phone/topics/phone-power-backup.html",
+    "title": "Stay connected even when the power is out",
+    "description": "Stay connected even when the power is out Your Phone Modem (\u201cmodem\u201d) must be plugged into an electrical wall outlet to operate. In the event of a power outage, your Phone service (including your access to 911 and any medical and security monitoring services that depend on it) will be unavailable if ",
+    "frecency": 446,
+    "url_hash": 70850228487846,
+    "last_visit_date": 1758203927352200
+  }
+}

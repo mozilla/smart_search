@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Medical Assistant Salaries Medical Assistant Salaries About This Data8,069 Salaries Updated Apr 10, 2018All Industries Accounting & Legal Aerospace & Defense Architecture & Civil Engineering Arts & Entertainment Automotive Banking & Financial Services Beauty & Fitness Biotech & Pharmaceuticals Business Services Computer Softw",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns medical assistant salaries and salary data, not a page about apps for improving study habits; no relevance to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Medical Assistant Salaries Medical Assistant Salaries About This Data8,069 Salaries Updated Apr 10, 2018All Industries Accounting & Legal Aerospace & Defense Architecture & Civil Engineering Arts & Entertainment Automotive Banking & Financial Services Beauty & Fitness Biotech & Pharmaceuticals Business Services Computer Softw",
+  "history": {
+    "url": "https://www.glassdoor.com/Salaries/medical-assistant-salary-SRCH_KO0,17.htm",
+    "title": "Medical Assistant Salaries",
+    "description": "Medical Assistant Salaries About This Data8,069 Salaries Updated Apr 10, 2018All Industries Accounting & Legal Aerospace & Defense Architecture & Civil Engineering Arts & Entertainment Automotive Banking & Financial Services Beauty & Fitness Biotech & Pharmaceuticals Business Services Computer Softw",
+    "frecency": 2606,
+    "url_hash": 16346119134782,
+    "last_visit_date": 1758203934683228
+  }
+}

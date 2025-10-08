@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Eunice High School CBSSPORTS.COM247SPORTSMAXPREPSSPORTSLINEFOLLOW MAXPREPSFootball Baseball Basketball G. Basketball... Apps SIGN IN",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result appears to be a sports-related site (CBSSPORTS.COM / MAXPREPS) and not about DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Eunice High School CBSSPORTS. COM247SPORTSMAXPREPSSPORTSLINEFOLLOW MAXPREPSFootball Baseball Basketball G. Basketball... Apps SIGN IN",
+  "history": {
+    "url": "http://www.maxpreps.com/high-schools/eunice-cardinals-(eunice,nm)/home.htm",
+    "title": "Eunice High School",
+    "description": "CBSSPORTS. COM247SPORTSMAXPREPSSPORTSLINEFOLLOW MAXPREPSFootball Baseball Basketball G. Basketball... Apps SIGN IN ",
+    "frecency": 4169,
+    "url_hash": 46790223448968,
+    "last_visit_date": 1758203931755228
+  }
+}

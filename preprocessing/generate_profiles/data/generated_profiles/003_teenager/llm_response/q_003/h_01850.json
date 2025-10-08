@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "The Trigger Effect \"From Wikipedia, the free encyclopedianavigation search The Trigger Effect Theatrical release poster Directed by David Koepp Produced by Michael Grillo Written by David Koepp Starring Kyle Mac Lachlan Elisabeth Shue Dermot Mulroney Music by James Newton Howard Cinematography Newton Thomas Sigel Edit",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a film page (The Trigger Effect) and has no relation to study habits or apps; it is not relevant to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "The Trigger Effect \"From Wikipedia, the free encyclopedianavigation search The Trigger Effect Theatrical release poster Directed by David Koepp Produced by Michael Grillo Written by David Koepp Starring Kyle Mac Lachlan Elisabeth Shue Dermot Mulroney Music by James Newton Howard Cinematography Newton Thomas Sigel Edit",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/The_Trigger_Effect",
+    "title": "The Trigger Effect",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search The Trigger Effect Theatrical release poster Directed by David Koepp Produced by Michael Grillo Written by David Koepp Starring Kyle Mac Lachlan Elisabeth Shue Dermot Mulroney Music by James Newton Howard Cinematography Newton Thomas Sigel Edit",
+    "frecency": 3115,
+    "url_hash": 85534714513916,
+    "last_visit_date": 1758203930591228
+  }
+}

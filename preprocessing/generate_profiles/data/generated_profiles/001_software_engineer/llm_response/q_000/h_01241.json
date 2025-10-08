@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "administrative decision definition, administrative decision meaning | English dictionary administrationn1 management of the affairs of an organization, such as a business or institution2 the duties of an administrator3 the body of people who administer an organization4 the conduct of the affairs of government5 term of office: often used of presidents, governments, etc.6 the executive br",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a dictionary entry about administrative decisions, not related to debugging APIs or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "administrative decision definition, administrative decision meaning | English dictionary administrationn1 management of the affairs of an organization, such as a business or institution2 the duties of an administrator3 the body of people who administer an organization4 the conduct of the affairs of government5 term of office: often used of presidents, governments, etc.6 the executive br",
+  "history": {
+    "url": "http://dictionary.reverso.net/english-definition/administrative%20decision",
+    "title": "administrative decision definition, administrative decision meaning | English dictionary",
+    "description": "administrationn1 management of the affairs of an organization, such as a business or institution2 the duties of an administrator3 the body of people who administer an organization4 the conduct of the affairs of government5 term of office: often used of presidents, governments, etc.6 the executive br",
+    "frecency": 620,
+    "url_hash": 26591485249150,
+    "last_visit_date": 1758203926996200
+  }
+}

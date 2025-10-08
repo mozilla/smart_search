@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Volunteering Volunteering is a great way to: Contribute to your community Learn new skills Build up your work experience Make new friends Have fun The rewards you get for putting something back into your community are limitless. In this section: How to find volunteer work Finding a volunteer position is not diff",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about volunteering, not about database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Volunteering Volunteering is a great way to: Contribute to your community Learn new skills Build up your work experience Make new friends Have fun The rewards you get for putting something back into your community are limitless. In this section: How to find volunteer work Finding a volunteer position is not diff",
+  "history": {
+    "url": "http://www.youthcentral.vic.gov.au/jobs-careers/volunteering-work-experience/volunteering",
+    "title": "Volunteering",
+    "description": "Volunteering is a great way to: Contribute to your community Learn new skills Build up your work experience Make new friends Have fun The rewards you get for putting something back into your community are limitless. In this section: How to find volunteer work Finding a volunteer position is not diff",
+    "frecency": 4341,
+    "url_hash": 84878843589998,
+    "last_visit_date": 1758203931792111
+  }
+}

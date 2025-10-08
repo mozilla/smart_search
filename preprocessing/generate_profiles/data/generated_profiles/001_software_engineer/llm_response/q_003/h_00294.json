@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "PS-Personnel Specialist \\\"Rating Description Personnel Specialists (PS) maintain financial and service records of military personnel; provide customer service to active and reserve members, retirees and dependents; prepare military personnel and pay transaction documents utilizing current Automatic Data Processing (ADP) sys",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses military personnel management and ADP systems, not database query optimization; it is not relevant to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "PS-Personnel Specialist \"Rating Description Personnel Specialists (PS) maintain financial and service records of military personnel; provide customer service to active and reserve members, retirees and dependents; prepare military personnel and pay transaction documents utilizing current Automatic Data Processing (ADP) sys",
+  "history": {
+    "url": "https://www.cool.navy.mil/usn/enlisted/ps.htm",
+    "title": "PS-Personnel Specialist",
+    "description": "\"Rating Description Personnel Specialists (PS) maintain financial and service records of military personnel; provide customer service to active and reserve members, retirees and dependents; prepare military personnel and pay transaction documents utilizing current Automatic Data Processing (ADP) sys",
+    "frecency": 3963,
+    "url_hash": 38743996891159,
+    "last_visit_date": 1758203928708200
+  }
+}

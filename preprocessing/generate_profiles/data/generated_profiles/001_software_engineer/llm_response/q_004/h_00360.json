@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Upgrade in Progress Upgrade in Progress In order to improve the resilience, security and performance of our systems, we are carrying out important, major upgrades on Saturday the 25 th and Sunday 26 th of November. There will be site outages during this time. We apologise for the inconvenience.",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The result discusses system upgrades/outages and contains no Docker content or beginner setup guidance.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Upgrade in Progress Upgrade in Progress In order to improve the resilience, security and performance of our systems, we are carrying out important, major upgrades on Saturday the 25 th and Sunday 26 th of November. There will be site outages during this time. We apologise for the inconvenience.",
+  "history": {
+    "url": "http://www.sqa.org.uk/files_ccc/Appendix%209%20-%20NOS_learn_and_dev.pdf",
+    "title": "Upgrade in Progress",
+    "description": "Upgrade in Progress In order to improve the resilience, security and performance of our systems, we are carrying out important, major upgrades on Saturday the 25 th and Sunday 26 th of November. There will be site outages during this time. We apologise for the inconvenience. ",
+    "frecency": 3772,
+    "url_hash": 53247007622530,
+    "last_visit_date": 1758203927000200
+  }
+}

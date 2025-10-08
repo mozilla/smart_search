@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Things To Do Things To Do Take a vacation you won't need photos to remember Whether you\u2019re planning a day trip, weekend getaway or weeklong vacation, there\u2019s no shortage of things to do in North Carolina. There\u2019s a depth and a richness \u2013 new attractions to explore, familiar activities to experience in fresh ways",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses vacations and activities in North Carolina, not content related to improving sports performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Things To Do Things To Do Take a vacation you won't need photos to remember Whether you\u2019re planning a day trip, weekend getaway or weeklong vacation, there\u2019s no shortage of things to do in North Carolina. There\u2019s a depth and a richness \u2013 new attractions to explore, familiar activities to experience in fresh ways",
+  "history": {
+    "url": "https://www.visitnc.com/things-to-do",
+    "title": "Things To Do",
+    "description": "Things To Do Take a vacation you won't need photos to remember Whether you\u2019re planning a day trip, weekend getaway or weeklong vacation, there\u2019s no shortage of things to do in North Carolina. There\u2019s a depth and a richness \u2013 new attractions to explore, familiar activities to experience in fresh ways",
+    "frecency": 3155,
+    "url_hash": 8205095427012,
+    "last_visit_date": 1758203931137228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Kurt Hugo Schneider \"Kurt Hugo Schneider From Wikipedia, the free encyclopedianavigation search Not to be confused with Kurt Schneider. Kurt Hugo Schneider Born September 7, 1988 (age 29)Baltimore, Maryland, U. S. Origin Blue Bell, Pennsylvania, U. S. Genres Pop, acoustic, synthpop Occupation (s) Film director, produce",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a musician/filmmaker, not about improving sports performance or related content.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Kurt Hugo Schneider \"Kurt Hugo Schneider From Wikipedia, the free encyclopedianavigation search Not to be confused with Kurt Schneider. Kurt Hugo Schneider Born September 7, 1988 (age 29)Baltimore, Maryland, U. S. Origin Blue Bell, Pennsylvania, U. S. Genres Pop, acoustic, synthpop Occupation (s) Film director, produce",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Kurt_Hugo_Schneider",
+    "title": "Kurt Hugo Schneider",
+    "description": "\"Kurt Hugo Schneider From Wikipedia, the free encyclopedianavigation search Not to be confused with Kurt Schneider. Kurt Hugo Schneider Born September 7, 1988 (age 29)Baltimore, Maryland, U. S. Origin Blue Bell, Pennsylvania, U. S. Genres Pop, acoustic, synthpop Occupation (s) Film director, produce",
+    "frecency": 3718,
+    "url_hash": 63130984863928,
+    "last_visit_date": 1758203934749228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "Hotel Breakfasts Hotel Breakfasts Does your hotel reservation include breakfast? When booking a reservation for a hotel room, perhaps breakfast is the furthest thing from your mind. If it is, then the next morning you may wake up ready to start your day with a nice breakfast only to find out that the hotel does not",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses hotel breakfasts and is unrelated to TikTok trends for 2024.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "Hotel Breakfasts Hotel Breakfasts Does your hotel reservation include breakfast? When booking a reservation for a hotel room, perhaps breakfast is the furthest thing from your mind. If it is, then the next morning you may wake up ready to start your day with a nice breakfast only to find out that the hotel does not",
+  "history": {
+    "url": "http://morrishousehotel.com/hotel-breakfasts/",
+    "title": "Hotel Breakfasts",
+    "description": "Hotel Breakfasts Does your hotel reservation include breakfast? When booking a reservation for a hotel room, perhaps breakfast is the furthest thing from your mind. If it is, then the next morning you may wake up ready to start your day with a nice breakfast only to find out that the hotel does not ",
+    "frecency": 549,
+    "url_hash": 93870614139805,
+    "last_visit_date": 1758203930501228
+  }
+}

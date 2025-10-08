@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "OS X: Manually migrating data from another Mac. OS X: Manually migrating data from another Mac. If your computer is too old to work with Migration Assistant, you can manually copy your data from one computer to another using these steps. Migration Assistant is the easiest way to move users, documents, computer settings and other items from an old",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses OS X data migration, not IDEs or software development, so it is not relevant to the query about top IDEs.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "OS X: Manually migrating data from another Mac \"OS X: Manually migrating data from another Mac If your computer is too old to work with Migration Assistant, you can manually copy your data from one computer to another using these steps. Migration Assistant is the easiest way to move users, documents, computer settings and other items from an old",
+  "history": {
+    "url": "https://support.apple.com/en-us/HT202910",
+    "title": "OS X: Manually migrating data from another Mac",
+    "description": "\"OS X: Manually migrating data from another Mac If your computer is too old to work with Migration Assistant, you can manually copy your data from one computer to another using these steps. Migration Assistant is the easiest way to move users, documents, computer settings and other items from an old",
+    "frecency": 4154,
+    "url_hash": 77792309497367,
+    "last_visit_date": 1758203927864111
+  }
+}

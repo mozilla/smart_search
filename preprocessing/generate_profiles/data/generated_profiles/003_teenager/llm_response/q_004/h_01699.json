@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "The Luck of Roaring Camp \u2013 metadata indicating a Bret Harte Western fiction short story published in Overland Monthly.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a Western fiction short story and its publication metadata, not about improving athletic performance or sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "The Luck of Roaring Camp \"From Wikipedia, the free encyclopedianavigation search\"\"The Luck of Roaring Camp\"\"\"\"The Luck of Roaring Camp\"\" as it appeared in the Overland Monthly Author Bret Harte Country United States Language English Genre (s) Western fiction Published in Overland Monthly Publication type Magazine Publisher",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/The_Luck_of_Roaring_Camp",
+    "title": "The Luck of Roaring Camp",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search\"\"The Luck of Roaring Camp\"\"\"\"The Luck of Roaring Camp\"\" as it appeared in the Overland Monthly Author Bret Harte Country United States Language English Genre (s) Western fiction Published in Overland Monthly Publication type Magazine Publisher ",
+    "frecency": 3254,
+    "url_hash": 88474019442253,
+    "last_visit_date": 1758203933815228
+  }
+}

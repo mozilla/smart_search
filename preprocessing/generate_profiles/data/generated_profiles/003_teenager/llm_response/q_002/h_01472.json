@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Self-directedness \"From Wikipedia, the free encyclopedia (Redirected from Self-Directedness)navigation search Self-directedness is a personality trait of self-determination, that is, the ability to regulate and adapt behavior to the demands of a situation in order to achieve personally chosen goals and values. [1]",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The result describes a personality trait (Self-directedness) and has no relation to DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Self-directedness \"From Wikipedia, the free encyclopedia (Redirected from Self-Directedness)navigation search Self-directedness is a personality trait of self-determination, that is, the ability to regulate and adapt behavior to the demands of a situation in order to achieve personally chosen goals and values. [1] It",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Self-Directedness",
+    "title": "Self-directedness",
+    "description": "\"From Wikipedia, the free encyclopedia (Redirected from Self-Directedness)navigation search Self-directedness is a personality trait of self-determination, that is, the ability to regulate and adapt behavior to the demands of a situation in order to achieve personally chosen goals and values. [1] It",
+    "frecency": 3499,
+    "url_hash": 53706169172036,
+    "last_visit_date": 1758203933209228
+  }
+}

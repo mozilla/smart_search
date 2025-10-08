@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Official World Golf Ranking From Wikipedia, the free encyclopedia navigation search The Official World Golf Ranking is a system for rating the performance level of male professional golfers (although there is no rule prohibiting women from being ranked). It was introduced in 1986 and is endorsed by the four major championships",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about golf rankings, not integrated development environments or software development; it is not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Official World Golf Ranking \"From Wikipedia, the free encyclopedianavigation search The Official World Golf Ranking is a system for rating the performance level of male professional golfers (although there is no rule prohibiting women from being ranked). It was introduced in 1986 and is endorsed by the four major championships",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Official_World_Golf_Ranking",
+    "title": "Official World Golf Ranking",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search The Official World Golf Ranking is a system for rating the performance level of male professional golfers (although there is no rule prohibiting women from being ranked). It was introduced in 1986 and is endorsed by the four major championships",
+    "frecency": 1630,
+    "url_hash": 2051512754971,
+    "last_visit_date": 1758203928032200
+  }
+}

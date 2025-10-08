@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "The Publication Question \\\"The Posthumous Discovery of Dickinson's Poems W hen Emily Dickinson died in 1886, she was unknown as a poet outside of a small circle of family and friends. Dickinson\u2019s poetic legacy consisted of almost 1800 poems, and no instructions about what to do with them. \\\"The Single Hound, Poems of a Lifet",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Emily Dickinson's poems and publication history, not DIY room decoration ideas; it is unrelated to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "The Publication Question \"The Posthumous Discovery of Dickinson's Poems W hen Emily Dickinson died in 1886, she was unknown as a poet outside of a small circle of family and friends. Dickinson\u2019s poetic legacy consisted of almost 1800 poems, and no instructions about what to do with them. \"\"The Single Hound, Poems of a Lifet",
+  "history": {
+    "url": "https://www.emilydickinsonmuseum.org/book/export/html/108",
+    "title": "The Publication Question",
+    "description": "\"The Posthumous Discovery of Dickinson's Poems W hen Emily Dickinson died in 1886, she was unknown as a poet outside of a small circle of family and friends. Dickinson\u2019s poetic legacy consisted of almost 1800 poems, and no instructions about what to do with them. \"\"The Single Hound, Poems of a Lifet",
+    "frecency": 4078,
+    "url_hash": 92651500370606,
+    "last_visit_date": 1758203927691139
+  }
+}

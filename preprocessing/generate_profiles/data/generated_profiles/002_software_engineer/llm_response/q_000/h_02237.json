@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Directions to ASTC Pax River and Lodging Directions to ASTC Pax River and Lodging Driving Directions ASTC Patuxent River is a department of the Navy Medicine Operational Training Center, NAS Pensacola FL serving as the Training Agent for Aviation Survival Training and the subject matter experts on all military operational medicine. ASTC Pa",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes directions/information about ASTC Pax River, which is unrelated to debugging or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Directions to ASTC Pax River and Lodging Directions to ASTC Pax River and Lodging Driving Directions ASTC Patuxent River is a department of the Navy Medicine Operational Training Center, NAS Pensacola FL serving as the Training Agent for Aviation Survival Training and the subject matter experts on all military operational medicine. ASTC Pa",
+  "history": {
+    "url": "http://www.med.navy.mil/sites/nmotc/nsti/Pages/ASTCPatuxentRiverDirections.aspx",
+    "title": "Directions to ASTC Pax River and Lodging",
+    "description": "Directions to ASTC Pax River and Lodging Driving Directions ASTC Patuxent River is a department of the Navy Medicine Operational Training Center, NAS Pensacola FL serving as the Training Agent for Aviation Survival Training and the subject matter experts on all military operational medicine. ASTC Pa",
+    "frecency": 942,
+    "url_hash": 54436460916762,
+    "last_visit_date": 1758203928488111
+  }
+}

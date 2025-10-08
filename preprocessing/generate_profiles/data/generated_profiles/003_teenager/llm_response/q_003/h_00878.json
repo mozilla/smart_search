@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Exercise: 7 benefits of regular physical activity \"Exercise: 7 benefits of regular physical activity You know exercise is good for you, but do you know how good? From boosting your mood to improving your sex life, find out how exercise can improve your life. By Mayo Clinic Staff Want to feel better, have more energy and even add years to your life?\"",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The page discusses physical exercise benefits, not apps or study-habit improvement; content is not relevant to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Exercise: 7 benefits of regular physical activity \"Exercise: 7 benefits of regular physical activity You know exercise is good for you, but do you know how good? From boosting your mood to improving your sex life, find out how exercise can improve your life. By Mayo Clinic Staff Want to feel better, have more energy and even add years to your life?",
+  "history": {
+    "url": "http://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/exercise/art-20048389?pg=2",
+    "title": "Exercise: 7 benefits of regular physical activity",
+    "description": "\"Exercise: 7 benefits of regular physical activity You know exercise is good for you, but do you know how good? From boosting your mood to improving your sex life, find out how exercise can improve your life. By Mayo Clinic Staff Want to feel better, have more energy and even add years to your life?",
+    "frecency": 4080,
+    "url_hash": 90517207406154,
+    "last_visit_date": 1758203931959228
+  }
+}

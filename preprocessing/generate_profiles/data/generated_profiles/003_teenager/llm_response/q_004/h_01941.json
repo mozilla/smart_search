@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Horseshoe Crab \\\"Animals >>Horseshoe Crab Add to Phobia Filter Print Horseshoe Crab Facts Kingdom: Animalia Phylum: Arthropoda Class: Merostomata Order: Xiphosurida Family: Limulidae Common Name: Horseshoe Crab Scientific Name: Limulidae Found: Worldwide Diet: Omnivore Size (L): 20cm - 60cm (8in - 24in)Weight: 1kg",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about horseshoe crabs, an animal, not about improving sports performance or related training; thus not relevant to the query about getting better at sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Horseshoe Crab \"Animals >>Horseshoe Crab Add to Phobia Filter Print Horseshoe Crab Facts Kingdom: Animalia Phylum: Arthropoda Class: Merostomata Order: Xiphosurida Family: Limulidae Common Name: Horseshoe Crab Scientific Name: Limulidae Found: Worldwide Diet: Omnivore Size (L): 20cm - 60cm (8in - 24in)Weight: 1kg",
+  "history": {
+    "url": "http://a-z-animals.com/animals/horseshoe-crab/",
+    "title": "Horseshoe Crab",
+    "description": "\"Animals >>Horseshoe Crab Add to Phobia Filter Print Horseshoe Crab Facts Kingdom: Animalia Phylum: Arthropoda Class: Merostomata Order: Xiphosurida Family: Limulidae Common Name: Horseshoe Crab Scientific Name: Limulidae Found: Worldwide Diet: Omnivore Size (L): 20cm - 60cm (8in - 24in)Weight: 1kg ",
+    "frecency": 3012,
+    "url_hash": 88622452887363,
+    "last_visit_date": 1758203927388735
+  }
+}

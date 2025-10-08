@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "The Color Purple SynopsisFavorite Theater Button \\\"The Color Purple Synopsis Favorite Theater Button Overview Movie Times + Tickets Synopsis Movie Reviews More Released August 1, 1986PG-13, 2 hr 32 min Drama122 Fan Ratings85%Rotten Tomatoes\u2122Tell us where you are Looking for movie tickets? Enter your location to see which movie theaters are playing",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a movie page, not about apps or study habit improvement.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "The Color Purple SynopsisFavorite Theater Button \"The Color Purple Synopsis Favorite Theater Button Overview Movie Times + Tickets Synopsis Movie Reviews More Released August 1, 1986PG-13, 2 hr 32 min Drama122 Fan Ratings85%Rotten Tomatoes\u2122Tell us where you are Looking for movie tickets? Enter your location to see which movie theaters are playing",
+  "history": {
+    "url": "http://www.fandango.com/thecolorpurple_84143/plotsummary",
+    "title": "The Color Purple SynopsisFavorite Theater Button",
+    "description": "\"The Color Purple Synopsis Favorite Theater Button Overview Movie Times + Tickets Synopsis Movie Reviews More Released August 1, 1986PG-13, 2 hr 32 min Drama122 Fan Ratings85%Rotten Tomatoes\u2122Tell us where you are Looking for movie tickets? Enter your location to see which movie theaters are playing ",
+    "frecency": 3515,
+    "url_hash": 35841715294152,
+    "last_visit_date": 1758203933491228
+  }
+}

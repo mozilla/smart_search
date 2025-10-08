@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "FSA Eligible Products & Services Home / FSA Eligible Products & Services FSA Eligible Products & Services Select one of the following categories below to browse or search FSA eligible products, services, and expenses. Eligible OTC Expenses Thousands of over-the-counter (OTC) products are FSA eligible and can be purchased using your",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page pertains to FSA eligible products and services, not database query optimization; it does not address the user's query intent.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "FSA Eligible Products & Services Home / FSA Eligible Products & Services FSA Eligible Products & Services Select one of the following categories below to browse or search FSA eligible products, services, and expenses. Eligible OTC Expenses Thousands of over-the-counter (OTC) products are FSA eligible and can be purchased using your",
+  "history": {
+    "url": "https://fsastore.com/FSA-Eligibility-List.aspx",
+    "title": "FSA Eligible Products & Services",
+    "description": "Home / FSA Eligible Products & Services FSA Eligible Products & Services Select one of the following categories below to browse or search FSA eligible products, services, and expenses. Eligible OTC Expenses Thousands of over-the-counter (OTC) products are FSA eligible and can be purchased using your",
+    "frecency": 4517,
+    "url_hash": 88965918316141,
+    "last_visit_date": 1758203932352111
+  }
+}

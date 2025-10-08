@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Top Gear  (U.S. TV series) \"This article is about the TV series that aired from 2010 to 2016. For the 2017 TV series, see Top Gear America. Top Gear Top Gear title card from season 2Genre Motoring Created by BBC Worldwide Directed by Ben Silverman Vage Dickinson Presented by Adam Ferrara Tanner Foust Rutledge Wood The Stig Co",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page is about a television show (Top Gear) and has no relation to strategies, guidance, or information on improving performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Top Gear  (U.S. TV series) \"This article is about the TV series that aired from 2010 to 2016. For the 2017 TV series, see Top Gear America. Top Gear Top Gear title card from season 2Genre Motoring Created by BBC Worldwide Directed by Ben Silverman Vage Dickinson Presented by Adam Ferrara Tanner Foust Rutledge Wood The Stig Co",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Top_Gear_(U.S._TV_series)",
+    "title": "Top Gear  (U.S. TV series)",
+    "description": "\"This article is about the TV series that aired from 2010 to 2016. For the 2017 TV series, see Top Gear America. Top Gear Top Gear title card from season 2Genre Motoring Created by BBC Worldwide Directed by Ben Silverman Vage Dickinson Presented by Adam Ferrara Tanner Foust Rutledge Wood The Stig Co",
+    "frecency": 3495,
+    "url_hash": 70139935992078,
+    "last_visit_date": 1758203930959228
+  }
+}

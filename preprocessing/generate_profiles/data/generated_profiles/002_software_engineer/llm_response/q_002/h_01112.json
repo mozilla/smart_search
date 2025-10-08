@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "The limits of unlimited OneDrive storage 31One Drive capacity has grown by leaps and bounds this year. Microsoft increased capacity 40-fold earlier this year when it bumped the humble 25 GB of storage for One Drive for Business accounts up to 1 TB, then a mere four months later it increased it again \u2014 this time infinitely to unlimited stor",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses OneDrive storage limits, unrelated to top IDEs or software development, so not relevant.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "The limits of unlimited OneDrive storage 31One Drive capacity has grown by leaps and bounds this year. Microsoft increased capacity 40-fold earlier this year when it bumped the humble 25 GB of storage for One Drive for Business accounts up to 1 TB, then a mere four months later it increased it again \u2014 this time infinitely to unlimited stor",
+  "history": {
+    "url": "http://www.techrepublic.com/article/the-limits-of-unlimited-onedrive-storage/",
+    "title": "The limits of unlimited OneDrive storage",
+    "description": "31One Drive capacity has grown by leaps and bounds this year. Microsoft increased capacity 40-fold earlier this year when it bumped the humble 25 GB of storage for One Drive for Business accounts up to 1 TB, then a mere four months later it increased it again \u2014 this time infinitely to unlimited stor",
+    "frecency": 3033,
+    "url_hash": 223694134035,
+    "last_visit_date": 1758203930794111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Emerest Health of Connecticut ABOUT THE BUSINESSEmerest Health of Connecticut is a homemaker, companion, and PCA agency. Emerest Health of Connecticut cares for employees as we care for our patients. We go the extra step when it comes to hiring our caregivers. We do monthly background checks and drug testing. We are the only PCA",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result pertains to a home health care agency, not to debugging or API integration. No relevant content.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Emerest Health of Connecticut ABOUT THE BUSINESSEmerest Health of Connecticut is a homemaker, companion, and PCA agency. Emerest Health of Connecticut cares for employees as we care for our patients. We go the extra step when it comes to hiring our caregivers. We do monthly background checks and drug testing. We are the only PCA",
+  "history": {
+    "url": "https://www.care.com/b/l/emerest-health-of-connecticut/waterbury-ct",
+    "title": "Emerest Health of Connecticut",
+    "description": "ABOUT THE BUSINESSEmerest Health of Connecticut is a homemaker, companion, and PCA agency. Emerest Health of Connecticut cares for employees as we care for our patients. We go the extra step when it comes to hiring our caregivers. We do monthly background checks and drug testing. We are the only PCA",
+    "frecency": 4112,
+    "url_hash": 38636647512357,
+    "last_visit_date": 1758203928630200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "North Brunswick MORE LANES THAN THE PARKWAYWelcome to Bowlero\u2014the area\u2019s coolest place to bowl, dine, party, and play! Hit the lanes and let the good times roll in a setting that\u2019s perfect for date night, family night, birthday parties, and corporate events that rock the cubicle. Conveniently located right off of R",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a bowling alley (Bowlero) and not related to debugging or API integration; no content about APIs or debugging.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "North Brunswick MORE LANES THAN THE PARKWAYWelcome to Bowlero\u2014the area\u2019s coolest place to bowl, dine, party, and play! Hit the lanes and let the good times roll in a setting that\u2019s perfect for date night, family night, birthday parties, and corporate events that rock the cubicle. Conveniently located right off of R",
+  "history": {
+    "url": "https://www.bowlero.com/location/bowlero-north-brunswick",
+    "title": "North Brunswick",
+    "description": "MORE LANES THAN THE PARKWAYWelcome to Bowlero\u2014the area\u2019s coolest place to bowl, dine, party, and play! Hit the lanes and let the good times roll in a setting that\u2019s perfect for date night, family night, birthday parties, and corporate events that rock the cubicle. Conveniently located right off of R",
+    "frecency": 1411,
+    "url_hash": 39719497752115,
+    "last_visit_date": 1758203927694111
+  }
+}

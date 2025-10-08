@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "The system is unavailable The system is unavailable Sorry, Foodily is busy in the kitchen, but we\u2019ll be back in a flash!",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result shows an unavailable system message with no content related to Docker or beginner setup; it is not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "The system is unavailable The system is unavailable Sorry, Foodily is busy in the kitchen, but we\u2019ll be back in a flash!",
+  "history": {
+    "url": "http://www.foodily.com/s/soupy-sausage",
+    "title": "The system is unavailable",
+    "description": "The system is unavailable Sorry, Foodily is busy in the kitchen, but we\u2019ll be back in a flash! ",
+    "frecency": 1635,
+    "url_hash": 2822200581723,
+    "last_visit_date": 1758203927338111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "East Central University \"From Wikipedia, the free encyclopedianavigation search East Central University Type Public Established 1909Affiliation Regional University System of Oklahoma Endowment $27,079,804 [1]President Katricia G. Pierson Provost Adrianna Lancaster Administrative staff 663 [2]Students 4,447 (2015) [3]Addres",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about East Central University and contains information unrelated to debugging API integration; it is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "East Central University \"From Wikipedia, the free encyclopedianavigation search East Central University Type Public Established 1909Affiliation Regional University System of Oklahoma Endowment $27,079,804 [1]President Katricia G. Pierson Provost Adrianna Lancaster Administrative staff 663 [2]Students 4,447 (2015) [3]Addres",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/East_Central_University",
+    "title": "East Central University",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search East Central University Type Public Established 1909Affiliation Regional University System of Oklahoma Endowment $27,079,804 [1]President Katricia G. Pierson Provost Adrianna Lancaster Administrative staff 663 [2]Students 4,447 (2015) [3]Addres",
+    "frecency": 1247,
+    "url_hash": 3608516907559,
+    "last_visit_date": 1758203929278200
+  }
+}

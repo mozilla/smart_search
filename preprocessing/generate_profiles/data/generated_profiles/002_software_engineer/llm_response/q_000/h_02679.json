@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Understanding Breakthrough Pain and Flares Understanding Breakthrough Pain and Flares By Jim Brown From the Web MD Archives Breakthrough pain (BTP) is a fact of life for many cancer patients. But pain experts are now finding that these sudden, temporary flares of severe pain can affect people with noncancerous conditions as well.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses breakthrough pain in medical contexts, not related to debugging API integrations.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Understanding Breakthrough Pain and Flares Understanding Breakthrough Pain and Flares By Jim Brown From the Web MD Archives Breakthrough pain (BTP) is a fact of life for many cancer patients. But pain experts are now finding that these sudden, temporary flares of severe pain can affect people with noncancerous conditions as well.\u201cWe are much",
+  "history": {
+    "url": "http://www.webmd.com/pain-management/features/flares",
+    "title": "Understanding Breakthrough Pain and Flares",
+    "description": "Understanding Breakthrough Pain and Flares By Jim Brown From the Web MD Archives Breakthrough pain (BTP) is a fact of life for many cancer patients. But pain experts are now finding that these sudden, temporary flares of severe pain can affect people with noncancerous conditions as well.\u201cWe are much",
+    "frecency": 135,
+    "url_hash": 54219649279549,
+    "last_visit_date": 1758203930536111
+  }
+}

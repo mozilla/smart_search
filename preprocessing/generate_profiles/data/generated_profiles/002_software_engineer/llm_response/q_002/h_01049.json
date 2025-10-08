@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Don't Skip Medicare Coverage For Doctor Visits, Even If You Have Other Insurance \"Your Health Don't Skip Medicare Coverage For Doctor Visits, Even If You Have Other Insurance December 10, 2016 6:00 AM ETSusan Jaffe From When Cindy Hunter received her Medicare card in the mail last spring, she said she \\\"\\\"didn't know a lot about Medicare.\\\"\\\" She and her husband, retired teachers wh",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Medicare/health insurance instead of software development IDEs; topic mismatch, no relevance.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Don't Skip Medicare Coverage For Doctor Visits, Even If You Have Other Insurance \"Your Health Don't Skip Medicare Coverage For Doctor Visits, Even If You Have Other Insurance December 10, 2016 6:00 AM ETSusan Jaffe From When Cindy Hunter received her Medicare card in the mail last spring, she said she \"\"didn't know a lot about Medicare.\"\" She and her husband, retired teachers wh",
+  "history": {
+    "url": "https://www.npr.org/sections/health-shots/2016/12/10/504953764/dont-skip-medicare-coverage-for-doctor-visits-even-if-you-have-other-insurance",
+    "title": "Don't Skip Medicare Coverage For Doctor Visits, Even If You Have Other Insurance",
+    "description": "\"Your Health Don't Skip Medicare Coverage For Doctor Visits, Even If You Have Other Insurance December 10, 2016 6:00 AM ETSusan Jaffe From When Cindy Hunter received her Medicare card in the mail last spring, she said she \"\"didn't know a lot about Medicare.\"\" She and her husband, retired teachers wh",
+    "frecency": 3146,
+    "url_hash": 36430344057387,
+    "last_visit_date": 1758203928440111
+  }
+}

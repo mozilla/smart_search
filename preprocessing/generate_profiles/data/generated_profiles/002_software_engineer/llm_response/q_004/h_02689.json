@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "OpenEdge Error \\\"\\\"Java was started by returned exit code=1\\\"\\\" is returned and Progress Developer Studio crashes using Mylyn Task Editor\\\" \\\"Open Edge Error \\\"\\\"Java was started by returned exit code=1\\\"\\\" is returned and Progress Developer Studio crashes using Mylyn Task Editor Printable View Information Environment Product: Open Edge Version: 11.x OS: Windows Other: Progress Developer Studio for Open Edge (PDSOE)Question/Problem Descripti",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses OpenEdge/Progress Developer Studio errors and Java exit codes, not Docker or beginner Docker setup; it is unrelated to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "\"OpenEdge Error \"\"Java was started by returned exit code=1\"\" is returned and Progress Developer Studio crashes using Mylyn Task Editor\" \"Open Edge Error \"\"Java was started by returned exit code=1\"\" is returned and Progress Developer Studio crashes using Mylyn Task Editor Printable View Information Environment Product: Open Edge Version: 11.x OS: Windows Other: Progress Developer Studio for Open Edge (PDSOE)Question/Problem Descripti",
+  "history": {
+    "url": "http://knowledgebase.progress.com/articles/Article/000030722",
+    "title": "\"OpenEdge Error \"\"Java was started by returned exit code=1\"\" is returned and Progress Developer Studio crashes using Mylyn Task Editor\"",
+    "description": "\"Open Edge Error \"\"Java was started by returned exit code=1\"\" is returned and Progress Developer Studio crashes using Mylyn Task Editor Printable View Information Environment Product: Open Edge Version: 11.x OS: Windows Other: Progress Developer Studio for Open Edge (PDSOE)Question/Problem Descripti",
+    "frecency": 109,
+    "url_hash": 39983684293843,
+    "last_visit_date": 1758203931546111
+  }
+}

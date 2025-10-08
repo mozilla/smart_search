@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Administrative Jobs in Denver, Colorado Administrative Jobs in Denver, Colorado1000+ Denver, CO Administrative jobs found on Monster. Administrative Jobs in Denver, CO Overview If you're planning on moving to Denver or the surrounding area, you're most likely to find work in the city, in nearby Broomfield, or in Boulder, a 40-minute drive",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes administrative job listings in Denver, not Python libraries or machine learning; it clearly does not satisfy the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Administrative Jobs in Denver, Colorado Administrative Jobs in Denver, Colorado1000+ Denver, CO Administrative jobs found on Monster. Administrative Jobs in Denver, CO Overview If you're planning on moving to Denver or the surrounding area, you're most likely to find work in the city, in nearby Broomfield, or in Boulder, a 40-minute drive",
+  "history": {
+    "url": "https://www.monster.com/jobs/q-administrative-jobs-l-denver,-co.aspx",
+    "title": "Administrative Jobs in Denver, Colorado",
+    "description": "Administrative Jobs in Denver, Colorado1000+ Denver, CO Administrative jobs found on Monster. Administrative Jobs in Denver, CO Overview If you're planning on moving to Denver or the surrounding area, you're most likely to find work in the city, in nearby Broomfield, or in Boulder, a 40-minute drive",
+    "frecency": 4132,
+    "url_hash": 2885553215223,
+    "last_visit_date": 1758203929010111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "Ron Howard Biography Quick Facts Name Ron Howard Occupation Film Actor, Television Personality, Television Actor, Director, Producer Birth Date March 1, 1954 (age 64)Education University of Southern California, John Burroughs High School Place of Birth Duncan, Oklahoma Full Name Ronald William Howard Zodiac Sign Pisces",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes Ron Howard's biography, not related to TikTok trends; therefore not relevant to the query.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "Ron Howard Biography Quick Facts Name Ron Howard Occupation Film Actor, Television Personality, Television Actor, Director, Producer Birth Date March 1, 1954 (age 64)Education University of Southern California, John Burroughs High School Place of Birth Duncan, Oklahoma Full Name Ronald William Howard Zodiac Sign Pisces",
+  "history": {
+    "url": "https://www.biography.com/people/ron-howard-9542185",
+    "title": "Ron Howard Biography",
+    "description": "Quick Facts Name Ron Howard Occupation Film Actor, Television Personality, Television Actor, Director, Producer Birth Date March 1, 1954 (age 64)Education University of Southern California, John Burroughs High School Place of Birth Duncan, Oklahoma Full Name Ronald William Howard Zodiac Sign Pisces ",
+    "frecency": 953,
+    "url_hash": 57402902812487,
+    "last_visit_date": 1758203933131228
+  }
+}

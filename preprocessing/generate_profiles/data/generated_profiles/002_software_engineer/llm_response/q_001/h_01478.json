@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Dr. Alan Smiy, MD Search Search Search Near Search Find a doctor Find Doctors by Specialty Family Medicine Internal Medicine Obstetrics & Gynecology Dentistry Orthopedic Surgery See All Specialties Find Doctors by Condition Fibromyalgia Anxiety ADHDSleep Apnea Migraine Find Doctors by Procedure Pain Management Orthop",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about medical doctors and specialties, not about Python libraries or machine learning. It does not address the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Dr. Alan Smiy, MD Search Search Search Near Search Find a doctor Find Doctors by Specialty Family Medicine Internal Medicine Obstetrics & Gynecology Dentistry Orthopedic Surgery See All Specialties Find Doctors by Condition Fibromyalgia Anxiety ADHDSleep Apnea Migraine Find Doctors by Procedure Pain Management Orthop",
+  "history": {
+    "url": "https://www.healthgrades.com/physician/dr-alan-smiy-xgt7w",
+    "title": "Dr. Alan Smiy, MD",
+    "description": "Search Search Search Near Search Find a doctor Find Doctors by Specialty Family Medicine Internal Medicine Obstetrics & Gynecology Dentistry Orthopedic Surgery See All Specialties Find Doctors by Condition Fibromyalgia Anxiety ADHDSleep Apnea Migraine Find Doctors by Procedure Pain Management Orthop",
+    "frecency": 2320,
+    "url_hash": 51855764698860,
+    "last_visit_date": 1758203927196111
+  }
+}

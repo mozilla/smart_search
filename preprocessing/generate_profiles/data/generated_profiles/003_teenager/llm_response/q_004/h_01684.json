@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Grand Canyon National Park Plan Your Trip Hotels & Lodging Activity Guides Camping Hiking Trails Hours & Fees Recommendations Kanab Havasu Falls Sample Itinerary Grand Canyon National Park The red-embedded stepchild Utah loves like one of its own. Sure it\u2019s technically in Arizona, but we claim Grand Canyon as a kindred spirit",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns Grand Canyon National Park travel planning and related activities, with no content about improving sports performance or sports-related guidance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Grand Canyon National Park Plan Your Trip Hotels & Lodging Activity Guides Camping Hiking Trails Hours & Fees Recommendations Kanab Havasu Falls Sample Itinerary Grand Canyon National Park The red-embedded stepchild Utah loves like one of its own. Sure it\u2019s technically in Arizona, but we claim Grand Canyon as a kindred spirit",
+  "history": {
+    "url": "https://utah.com/grand-canyon-national-park",
+    "title": "Grand Canyon National Park",
+    "description": "Plan Your Trip Hotels & Lodging Activity Guides Camping Hiking Trails Hours & Fees Recommendations Kanab Havasu Falls Sample Itinerary Grand Canyon National Park The red-embedded stepchild Utah loves like one of its own. Sure it\u2019s technically in Arizona, but we claim Grand Canyon as a kindred spirit",
+    "frecency": 3279,
+    "url_hash": 48171877729772,
+    "last_visit_date": 1758203936169228
+  }
+}

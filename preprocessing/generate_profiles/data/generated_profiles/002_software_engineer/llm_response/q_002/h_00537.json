@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "What is GCC? \\\"What is GCC? May 12, 2011 , cherran , Leave a comment What is GCC? GCC stands for the GNU Compiler Collection and as the name suggests, it is a computer compiling system developed by the GNU project. This compiler system is produced to support a wide variety of programming applications and language",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses GCC (GNU Compiler Collection), a compiler, not an integrated development environment (IDE) or a list of top IDEs; therefore it is not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "What is GCC? \"What is GCC? May 12, 2011 , cherran , Leave a comment What is GCC? GCC stands for the GNU Compiler Collection and as the name suggests, it is a computer compiling system developed by the GNU project. This compiler system is produced to support a wide variety of programming applications and language",
+  "history": {
+    "url": "http://infomory.com/what-is/what-is-gcc/",
+    "title": "What is GCC?",
+    "description": "\"What is GCC? May 12, 2011 , cherran , Leave a comment What is GCC? GCC stands for the GNU Compiler Collection and as the name suggests, it is a computer compiling system developed by the GNU project. This compiler system is produced to support a wide variety of programming applications and language",
+    "frecency": 4075,
+    "url_hash": 81557505255132,
+    "last_visit_date": 1758203928096111
+  }
+}

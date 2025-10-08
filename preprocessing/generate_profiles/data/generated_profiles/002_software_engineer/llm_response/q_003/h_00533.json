@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Forward Declarations \\\"Forward Declarations Contents [ hide ]Overview Forward Declarations To The Rescue!Your Controller.h Compile Error if Used in .h You can #include anything in .cpp files Shorthand Forward Declaration FORCEINLINE Usage Summary Overview Author: Rama ( talk )Dear Community,In UE4 C++ you will often find",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses C++ forward declarations in Unreal Engine 4, not database query optimization; therefore not relevant to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Forward Declarations \"Forward Declarations Contents [ hide ]Overview Forward Declarations To The Rescue!Your Controller.h Compile Error if Used in .h You can #include anything in .cpp files Shorthand Forward Declaration FORCEINLINE Usage Summary Overview Author: Rama ( talk )Dear Community,In UE4 C++ you will often find",
+  "history": {
+    "url": "https://wiki.unrealengine.com/Forward_Declarations",
+    "title": "Forward Declarations",
+    "description": "\"Forward Declarations Contents [ hide ]Overview Forward Declarations To The Rescue!Your Controller.h Compile Error if Used in .h You can #include anything in .cpp files Shorthand Forward Declaration FORCEINLINE Usage Summary Overview Author: Rama ( talk )Dear Community,In UE4 C++ you will often find",
+    "frecency": 4086,
+    "url_hash": 93453206366663,
+    "last_visit_date": 1758203927824111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Exterior Foundation Insulation \\\"Exterior Foundation Insulation If you are excavating to waterproof your foundation, it's also a good time to consider adding some insulation to your foundation. Even if you don't have a finished basement that you and your family use as living space, an uninsulated foundation can account for as much.\\\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses exterior foundation insulation and waterproofing, which is unrelated to easy DIY room decoration ideas. Topic mismatch indicates low relevance.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Exterior Foundation Insulation \"Exterior Foundation Insulation If you are excavating to waterproof your foundation, it's also a good time to consider adding some insulation to your foundation. Even if you don't have a finished basement that you and your family use as living space, an uninsulated foundation can account for as much",
+  "history": {
+    "url": "http://foundationwaterproofing.org/exterior-foundation-insulation.html",
+    "title": "Exterior Foundation Insulation",
+    "description": "\"Exterior Foundation Insulation If you are excavating to waterproof your foundation, it's also a good time to consider adding some insulation to your foundation. Even if you don't have a finished basement that you and your family use as living space, an uninsulated foundation can account for as much",
+    "frecency": 1029,
+    "url_hash": 90221957624567,
+    "last_visit_date": 1758203928399139
+  }
+}

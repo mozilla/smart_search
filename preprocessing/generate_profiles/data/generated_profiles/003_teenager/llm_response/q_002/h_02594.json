@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "White Lie \\\"White Lie Lyrics [Verse 1] As a kid, my hands were red When you asked me I denied it I've told lies that never came true I have stolen and so have you [Verse 2] If we can make it through another day With you believing in my innocence And we can make it through another year Cause we both need it to",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a song lyrics page about 'White Lie' and has no relevance to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "White Lie \"White Lie Lyrics [Verse 1] As a kid, my hands were red When you asked me I denied it I've told lies that never came true I have stolen and so have you [Verse 2] If we can make it through another day With you believing in my innocence And we can make it through another year Cause we both need it to",
+  "history": {
+    "url": "https://genius.com/The-lumineers-white-lie-lyrics",
+    "title": "White Lie",
+    "description": "\"White Lie Lyrics [Verse 1] As a kid, my hands were red When you asked me I denied it I've told lies that never came true I have stolen and so have you [Verse 2] If we can make it through another day With you believing in my innocence And we can make it through another year Cause we both need it to ",
+    "frecency": 2336,
+    "url_hash": 47391140203806,
+    "last_visit_date": 1758203931477228
+  }
+}

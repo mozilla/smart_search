@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Understanding SQL Server inserted and deleted tables for DML triggers By: K. Brian Kelley | Read Comments (5) | Related Tips: More > Triggers FREE Webcast > 5 Easy SQL Server Query Performance Boosters Problem I'm trying to put triggers on an existing database, but I am having a hard time understanding how to use the inserted and deleted tables. They make sense when I",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses SQL Server triggers, not Docker setup. The content is unrelated to the query topic.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Understanding SQL Server inserted and deleted tables for DML triggers By: K. Brian Kelley | Read Comments (5) | Related Tips: More > Triggers FREE Webcast > 5 Easy SQL Server Query Performance Boosters Problem I'm trying to put triggers on an existing database, but I am having a hard time understanding how to use the inserted and deleted tables. They make sense when I",
+  "history": {
+    "url": "https://www.mssqltips.com/sqlservertip/2342/understanding-sql-server-inserted-and-deleted-tables-for-dml-triggers/",
+    "title": "Understanding SQL Server inserted and deleted tables for DML triggers",
+    "description": "By: K. Brian Kelley | Read Comments (5) | Related Tips: More > Triggers FREE Webcast > 5 Easy SQL Server Query Performance Boosters Problem I'm trying to put triggers on an existing database, but I am having a hard time understanding how to use the inserted and deleted tables. They make sense when I",
+    "frecency": 2456,
+    "url_hash": 33957495481488,
+    "last_visit_date": 1758203928796200
+  }
+}

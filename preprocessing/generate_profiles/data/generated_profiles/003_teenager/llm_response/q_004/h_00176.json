@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "How can I stay motivated to keep losing weight? Up Next Even when you accept that you need to lose weight to become or stay healthy, it can be hard to maintain your motivation over time. It's common to start on a new diet with a burst of energy, then to lose your motivation to continue. Staying motivated can be especially hard when you hit a plat",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about motivation to lose weight/dieting, not about improving sports performance or getting better at sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "How can I stay motivated to keep losing weight? Up Next Even when you accept that you need to lose weight to become or stay healthy, it can be hard to maintain your motivation over time. It's common to start on a new diet with a burst of energy, then to lose your motivation to continue. Staying motivated can be especially hard when you hit a plat",
+  "history": {
+    "url": "http://health.howstuffworks.com/wellness/diet-fitness/weight-loss/staying-motivated-to-keep-losing-weight.htm",
+    "title": "How can I stay motivated to keep losing weight?",
+    "description": "Up Next Even when you accept that you need to lose weight to become or stay healthy, it can be hard to maintain your motivation over time. It's common to start on a new diet with a burst of energy, then to lose your motivation to continue. Staying motivated can be especially hard when you hit a plat",
+    "frecency": 4820,
+    "url_hash": 53467255224848,
+    "last_visit_date": 1758203927794735
+  }
+}

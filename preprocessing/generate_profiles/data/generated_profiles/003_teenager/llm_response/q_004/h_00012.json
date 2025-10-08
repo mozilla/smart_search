@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "The Greatest Showman (2017) Release Date The Greatest Showman (2017) Release Date The Greatest Showman on Earth is expected to become a musical biography following the life of American showman named P. T. Barnum. Bill Condon and Jenny Bicks have written the script which Michael Gracey is bringing to life as a director hired in summer 2011.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a movie (The Greatest Showman) and its release, not about improving performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "The Greatest Showman (2017) Release Date The Greatest Showman (2017) Release Date The Greatest Showman on Earth is expected to become a musical biography following the life of American showman named P. T. Barnum. Bill Condon and Jenny Bicks have written the script which Michael Gracey is bringing to life as a director hired in summer 2011.",
+  "history": {
+    "url": "http://datesrelease.com/when-release-films/the-greatest-showman-2017-release-date.html",
+    "title": "The Greatest Showman (2017) Release Date",
+    "description": "The Greatest Showman (2017) Release Date The Greatest Showman on Earth is expected to become a musical biography following the life of American showman named P. T. Barnum. Bill Condon and Jenny Bicks have written the script which Michael Gracey is bringing to life as a director hired in summer 2011.",
+    "frecency": 4985,
+    "url_hash": 43852841411288,
+    "last_visit_date": 1758203929210735
+  }
+}

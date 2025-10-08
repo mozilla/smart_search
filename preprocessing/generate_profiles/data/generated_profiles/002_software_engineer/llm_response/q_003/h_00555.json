@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Karen's Story Karen Willis Holmes is a renowned Australian designer, widely acclaimed in today's fashion marketplace for offering trend conscious women their perfect wedding gown. The KAREN WILLIS HOLMES brand has established a reputation for constantly exceeding customers' expectations both with the product and",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a fashion designer's wedding gowns and does not relate to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Karen's Story Karen Willis Holmes is a renowned Australian designer, widely acclaimed in today's fashion marketplace for offering trend conscious women their perfect wedding gown. The KAREN WILLIS HOLMES brand has established a reputation for constantly exceeding customers' expectations both with the product and",
+  "history": {
+    "url": "https://www.karenwillisholmes.com/wedding-dress-designer",
+    "title": "Karen's Story",
+    "description": "Karen Willis Holmes is a renowned Australian designer, widely acclaimed in today's fashion marketplace for offering trend conscious women their perfect wedding gown. The KAREN WILLIS HOLMES brand has established a reputation for constantly exceeding customers' expectations both with the product and ",
+    "frecency": 4049,
+    "url_hash": 80381061690675,
+    "last_visit_date": 1758203931368111
+  }
+}

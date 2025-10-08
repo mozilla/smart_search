@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Celine Dion Tickets No events found near Boydton, VAMay 22Tue 7:30 pm Celine Dion Caesars Palace Hotel and Casino \u2013 Las Vegas, NVFrom $145May 23Wed 7:30 pm Celine Dion Caesars Palace Hotel and Casino \u2013 Las Vegas, NVFrom $114May 25Fri 7:30 pm Celine Dion Caesars Palace Hotel and Casino \u2013 Las Vegas, NVFrom $114May 26Sat",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Celine Dion concert tickets and is unrelated to apps for improving study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Celine Dion Tickets No events found near Boydton, VAMay 22Tue 7:30 pm Celine Dion Caesars Palace Hotel and Casino \u2013 Las Vegas, NVFrom $145May 23Wed 7:30 pm Celine Dion Caesars Palace Hotel and Casino \u2013 Las Vegas, NVFrom $114May 25Fri 7:30 pm Celine Dion Caesars Palace Hotel and Casino \u2013 Las Vegas, NVFrom $114May 26Sat",
+  "history": {
+    "url": "https://seatgeek.com/celine-dion-tickets",
+    "title": "Celine Dion Tickets",
+    "description": "No events found near Boydton, VAMay 22Tue 7:30 pm Celine Dion Caesars Palace Hotel and Casino \u2013 Las Vegas, NVFrom $145May 23Wed 7:30 pm Celine Dion Caesars Palace Hotel and Casino \u2013 Las Vegas, NVFrom $114May 25Fri 7:30 pm Celine Dion Caesars Palace Hotel and Casino \u2013 Las Vegas, NVFrom $114May 26Sat ",
+    "frecency": 3393,
+    "url_hash": 91131463036011,
+    "last_visit_date": 1758203930043228
+  }
+}

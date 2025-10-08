@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "RVBA Naming Conventions \"Version 6.04Copyright \u00a9 1992-2005 by Gregory Reddick Index: Introduction Changes to the Conventions An Introduction to Hungarian Tags Variable tags Constructing Properties Names Collection Tags Constants Menu Items Creating Data Types Enumerated types Tags for classes and user-defined types Polymor",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses naming conventions and Hungarian notation, not Docker setup or beginner Docker guidance.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "RVBA Naming Conventions \"Version 6.04Copyright \u00a9 1992-2005 by Gregory Reddick Index: Introduction Changes to the Conventions An Introduction to Hungarian Tags Variable tags Constructing Properties Names Collection Tags Constants Menu Items Creating Data Types Enumerated types Tags for classes and user-defined types Polymor",
+  "history": {
+    "url": "http://www.xoc.net/standards/rvbanc.asp",
+    "title": "RVBA Naming Conventions",
+    "description": "\"Version 6.04Copyright \u00a9 1992-2005 by Gregory Reddick Index: Introduction Changes to the Conventions An Introduction to Hungarian Tags Variable tags Constructing Properties Names Collection Tags Constants Menu Items Creating Data Types Enumerated types Tags for classes and user-defined types Polymor",
+    "frecency": 1206,
+    "url_hash": 46187466589315,
+    "last_visit_date": 1758203932350111
+  }
+}

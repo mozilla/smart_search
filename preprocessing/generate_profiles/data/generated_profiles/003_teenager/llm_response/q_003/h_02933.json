@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "American Horror Story: Asylum American Horror Story: Asylum FX Networks",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is unrelated to study apps or study habit improvement; it appears to be a TV show page, not a relevant source for the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "American Horror Story: Asylum American Horror Story: Asylum FX Networks",
+  "history": {
+    "url": "http://www.emmys.com/shows/american-horror-story-asylum",
+    "title": "American Horror Story: Asylum",
+    "description": "American Horror Story: Asylum FX Networks ",
+    "frecency": 1919,
+    "url_hash": 12302661092315,
+    "last_visit_date": 1758203927856735
+  }
+}

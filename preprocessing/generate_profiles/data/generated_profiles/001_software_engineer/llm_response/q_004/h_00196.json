@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Daniel J.H. Greenwood \"Understanding Respondeat Superior I. The rule. Respondeat superior is the doctrine that states that an employer is responsible for an employee. More precisely, it states that a master is liable for torts of its servants committed in the course of their service. Respondeat superior is NOT exculpator",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about respondeat superior tort law, not Docker or beginner-friendly Docker setup information.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Daniel J.H. Greenwood \"Understanding Respondeat Superior I. The rule. Respondeat superior is the doctrine that states that an employer is responsible for an employee. More precisely, it states that a master is liable for torts of its servants committed in the course of their service. Respondeat superior is NOT exculpator",
+  "history": {
+    "url": "https://people.hofstra.edu/Daniel_J_Greenwood/Courses/Torts/RespondeatSuperior.htm",
+    "title": "Daniel J.H. Greenwood",
+    "description": "\"Understanding Respondeat Superior I. The rule. Respondeat superior is the doctrine that states that an employer is responsible for an employee. More precisely, it states that a master is liable for torts of its servants committed in the course of their service. Respondeat superior is NOT exculpator",
+    "frecency": 4321,
+    "url_hash": 91191082057495,
+    "last_visit_date": 1758203927882200
+  }
+}

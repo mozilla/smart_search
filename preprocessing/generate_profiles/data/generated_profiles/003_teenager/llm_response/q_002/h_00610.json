@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Welcome BOOK NOWArriving Apr10Departing Apr11FIESTA RANCHOFIND A ROOMNot Sure Where to Stay?my Boarding Pass \u2122Create a new online account or sign in. CREATE ACCOUNT LOGINWelcome Affordable Mexican Party-Themed Rooms, Dining, Gaming, & Entertainment In North Las Vegas MORE INFO",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a hotel/booking page with room offerings, not related to DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Welcome BOOK NOWArriving Apr10Departing Apr11FIESTA RANCHOFIND A ROOMNot Sure Where to Stay?my Boarding Pass \u2122Create a new online account or sign in. CREATE ACCOUNT LOGINWelcome Affordable Mexican Party-Themed Rooms, Dining, Gaming, & Entertainment In North Las Vegas MORE INFO",
+  "history": {
+    "url": "https://fiestarancho.sclv.com/",
+    "title": "Welcome",
+    "description": "BOOK NOWArriving Apr10Departing Apr11FIESTA RANCHOFIND A ROOMNot Sure Where to Stay?my Boarding Pass \u2122Create a new online account or sign in. CREATE ACCOUNT LOGINWelcome Affordable Mexican Party-Themed Rooms, Dining, Gaming, & Entertainment In North Las Vegas MORE INFO ",
+    "frecency": 4358,
+    "url_hash": 93582995651474,
+    "last_visit_date": 1758203933273228
+  }
+}

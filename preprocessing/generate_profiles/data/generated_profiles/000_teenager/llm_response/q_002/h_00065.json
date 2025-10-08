@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Nebraska State Parks Nebraska State Parks Reconnect with nature and enjoy swimming, cabins, hiking, fishing and more at Nebraska\u2019s eight beautiful state parks: Chadron State Park Nebraska\u2019s first state park, Chadron State Park was founded in 1921 and is nestled among the distinctive buttes and canyons of Nebraska\u2019s Pine",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Nebraska state parks and outdoor activities, not about easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Nebraska State Parks Nebraska State Parks Reconnect with nature and enjoy swimming, cabins, hiking, fishing and more at Nebraska\u2019s eight beautiful state parks: Chadron State Park Nebraska\u2019s first state park, Chadron State Park was founded in 1921 and is nestled among the distinctive buttes and canyons of Nebraska\u2019s Pine",
+  "history": {
+    "url": "http://outdoornebraska.gov/stateparks/",
+    "title": "Nebraska State Parks",
+    "description": "Nebraska State Parks Reconnect with nature and enjoy swimming, cabins, hiking, fishing and more at Nebraska\u2019s eight beautiful state parks: Chadron State Park Nebraska\u2019s first state park, Chadron State Park was founded in 1921 and is nestled among the distinctive buttes and canyons of Nebraska\u2019s Pine",
+    "frecency": 4736,
+    "url_hash": 66571763291047,
+    "last_visit_date": 1758203928697139
+  }
+}

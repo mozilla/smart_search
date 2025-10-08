@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Annual Resale Certificate for Sales Tax Annual Resale Certificate for Sales Tax Businesses that register with the Florida Department of Revenue to collect sales tax are issued a Florida Annual Resale Certificate for Sales Tax (Annual Resale Certificate). The certificate allows business owners, or their representatives, to buy or rent prop",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Florida tax certificates, not Python libraries or machine learning; content is unrelated to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Annual Resale Certificate for Sales Tax Annual Resale Certificate for Sales Tax Businesses that register with the Florida Department of Revenue to collect sales tax are issued a Florida Annual Resale Certificate for Sales Tax (Annual Resale Certificate). The certificate allows business owners, or their representatives, to buy or rent prop",
+  "history": {
+    "url": "http://dor.myflorida.com/dor/taxes/annual_resale_certificate_sut.html",
+    "title": "Annual Resale Certificate for Sales Tax",
+    "description": "Annual Resale Certificate for Sales Tax Businesses that register with the Florida Department of Revenue to collect sales tax are issued a Florida Annual Resale Certificate for Sales Tax (Annual Resale Certificate). The certificate allows business owners, or their representatives, to buy or rent prop",
+    "frecency": 4823,
+    "url_hash": 17159918536954,
+    "last_visit_date": 1758203930324111
+  }
+}

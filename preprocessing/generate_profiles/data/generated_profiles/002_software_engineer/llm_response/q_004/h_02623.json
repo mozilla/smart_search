@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Birth Place Matching \"\"Bristol, England, UK\"\"  (Sorted by Popularity Ascending) \"Birth Place Matching \"\"Bristol, England, UK\"\" (Sorted by Popularity Ascending)1-50 of 431 names. | Next \u00bbSort by: STARmeter \u25b2 | A-Z | Birth Date | Death Date1. Maisie Williams Actress | Game of Thrones Margaret Constance \"\"Maisie\"\" Williams (born 15 April 1997) is an English actress. She made her p",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about birthplaces and an actress, not about Docker setup for beginners; it does not address the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "\"Birth Place Matching \"\"Bristol, England, UK\"\"  (Sorted by Popularity Ascending)\" \"Birth Place Matching \"\"Bristol, England, UK\"\" (Sorted by Popularity Ascending)1-50 of 431 names. | Next \u00bbSort by: STARmeter \u25b2 | A-Z | Birth Date | Death Date1. Maisie Williams Actress | Game of Thrones Margaret Constance \"\"Maisie\"\" Williams (born 15 April 1997) is an English actress. She made her p",
+  "history": {
+    "url": "http://www.imdb.com/search/name?birth_place=Bristol,%20England,%20UK",
+    "title": "\"Birth Place Matching \"\"Bristol, England, UK\"\"  (Sorted by Popularity Ascending)\"",
+    "description": "\"Birth Place Matching \"\"Bristol, England, UK\"\" (Sorted by Popularity Ascending)1-50 of 431 names. | Next \u00bbSort by: STARmeter \u25b2 | A-Z | Birth Date | Death Date1. Maisie Williams Actress | Game of Thrones Margaret Constance \"\"Maisie\"\" Williams (born 15 April 1997) is an English actress. She made her p",
+    "frecency": 206,
+    "url_hash": 95815669287565,
+    "last_visit_date": 1758203930712111
+  }
+}

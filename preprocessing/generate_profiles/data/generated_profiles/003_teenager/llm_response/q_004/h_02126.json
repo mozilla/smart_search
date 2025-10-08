@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Outlander \\\"Outlander42 Episode (s) 2014 - 2017Season 3 of \\\"Outlander\\\" picks up with Jamie and Claire, separated by continents and centuries, as they attempt life apart, each haunted by their lost love. Can they... MORE INFOWatch Free for 7 Days ",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about the TV show Outlander, not about improving sports performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Outlander \"Outlander42 Episode (s) 2014 - 2017Season 3 of \"\"Outlander\"\" picks up with Jamie and Claire, separated by continents and centuries, as they attempt life apart, each haunted by their lost love. Can they... MORE INFOWatch Free for 7 Days \"",
+  "history": {
+    "url": "https://www.starz.com/series/outlander/featured",
+    "title": "Outlander",
+    "description": "\"Outlander42 Episode (s) 2014 - 2017Season 3 of \"\"Outlander\"\" picks up with Jamie and Claire, separated by continents and centuries, as they attempt life apart, each haunted by their lost love. Can they... MORE INFOWatch Free for 7 Days \"",
+    "frecency": 2798,
+    "url_hash": 68555978963016,
+    "last_visit_date": 1758203932597228
+  }
+}

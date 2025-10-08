@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Code snippet and explanation about Java's public static void main method; not related to debugging API integrations.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The result is about a Java main method and general programming concepts, not about debugging API integrations.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "public static void main (string args []) Explanation \"public static void main (string args []) Explanation<code class= \"\"language-css\"\" >class JBT {public static void main ( String args []) {System.out. println ( \"\"Hello JBT\"\");}} </code>In the above application example we are using public static void main. Each word has a different meaning and purpos",
+  "history": {
+    "url": "http://javabeginnerstutorial.com/core-java-tutorial/public-static-void-mainstring-args-explanation/",
+    "title": "public static void main (string args []) Explanation",
+    "description": "\"public static void main (string args []) Explanation<code class= \"\"language-css\"\" >class JBT {public static void main ( String args []) {System.out. println ( \"\"Hello JBT\"\");}} </code>In the above application example we are using public static void main. Each word has a different meaning and purpos",
+    "frecency": 911,
+    "url_hash": 45185206931616,
+    "last_visit_date": 1758203927814200
+  }
+}

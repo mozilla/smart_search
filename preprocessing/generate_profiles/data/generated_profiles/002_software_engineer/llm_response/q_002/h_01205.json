@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "How many bits are in a byte? Flag How many bits are in a byte? Answer by Alex146 Confidence votes 45.0KIn the most common definition, there are 8 bits in one byte. One bit is either a flow of electricity or no electricity. This written as 0 or 1. There are four bits in a nibble and two nibbles in a byte. 8 bits = 1 byte. 1024 b",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses bits in a byte, which is unrelated to IDEs or software development environments. Therefore it is not relevant to the query about top IDEs.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "How many bits are in a byte? Flag How many bits are in a byte? Answer by Alex146 Confidence votes 45.0KIn the most common definition, there are 8 bits in one byte. One bit is either a flow of electricity or no electricity. This written as 0 or 1. There are four bits in a nibble and two nibbles in a byte. 8 bits = 1 byte. 1024 b",
+  "history": {
+    "url": "http://www.answers.com/Q/How_many_bits_are_in_a_byte",
+    "title": "How many bits are in a byte?",
+    "description": "Flag How many bits are in a byte? Answer by Alex146 Confidence votes 45.0KIn the most common definition, there are 8 bits in one byte. One bit is either a flow of electricity or no electricity. This written as 0 or 1. There are four bits in a nibble and two nibbles in a byte. 8 bits = 1 byte. 1024 b",
+    "frecency": 2850,
+    "url_hash": 44952747191334,
+    "last_visit_date": 1758203929152111
+  }
+}

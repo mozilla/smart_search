@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "A Guide To Quality Adjusted Life Years What is this factsheet about? This factsheet explains how the Scottish Medicines Consortium (SMC) uses a tool called the Quality Adjusted Life Year (QALY) to decide whether or not a medicine is value for money for the NHS in Scotland. Medicines can prolong life, improve the quality of life, or both.",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The page discusses Quality Adjusted Life Years (QALYs) and NHS medicine valuation, not strategies or information on improving athletic performance or sports skills.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "A Guide To Quality Adjusted Life Years What is this factsheet about? This factsheet explains how the Scottish Medicines Consortium (SMC) uses a tool called the Quality Adjusted Life Year (QALY) to decide whether or not a medicine is value for money for the NHS in Scotland. Medicines can prolong life, improve the quality of life, or both.",
+  "history": {
+    "url": "http://www.scottishmedicines.org.uk/About_SMC/Policy_statements/A_Guide_to_Quality_Adjusted_Life_Years",
+    "title": "A Guide To Quality Adjusted Life Years",
+    "description": "What is this factsheet about? This factsheet explains how the Scottish Medicines Consortium (SMC) uses a tool called the Quality Adjusted Life Year (QALY) to decide whether or not a medicine is value for money for the NHS in Scotland. Medicines can prolong life, improve the quality of life, or both.",
+    "frecency": 776,
+    "url_hash": 35935526381310,
+    "last_visit_date": 1758203927870735
+  }
+}

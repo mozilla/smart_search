@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Haute couture \"From Wikipedia, the free encyclopedianavigation search\"\"Couturier\"\" redirects here. For other uses, see Couturier (disambiguation). Pierre Balmain adjusting a dress on model Ruth Ford in 1947 (photographed by Carl Van Vechten)A model wearing an haute couture gown by Georges Chakra in 2010Haute cout",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses haute couture and fashion, not database queries; it is not relevant to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Haute couture \"From Wikipedia, the free encyclopedianavigation search\"\"Couturier\"\" redirects here. For other uses, see Couturier (disambiguation). Pierre Balmain adjusting a dress on model Ruth Ford in 1947 (photographed by Carl Van Vechten)A model wearing an haute couture gown by Georges Chakra in 2010Haute cout",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Haute_couture",
+    "title": "Haute couture",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search\"\"Couturier\"\" redirects here. For other uses, see Couturier (disambiguation). Pierre Balmain adjusting a dress on model Ruth Ford in 1947 (photographed by Carl Van Vechten)A model wearing an haute couture gown by Georges Chakra in 2010Haute cout",
+    "frecency": 4395,
+    "url_hash": 4468756442364,
+    "last_visit_date": 1758203927116111
+  }
+}

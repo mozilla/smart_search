@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Contracts Contracts Overview On March 30, 2012, SAG-AFTRA was formed, merging Screen Actors Guild and the American Federation of Television and Radio Artists. Contracts negotiated by both unions remain in force under SAG-AFTRA. If you are a producer, please visit the Production Center for contract information",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The page discusses SAG-AFTRA contracts, not debugging or API integration; no relevance to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Contracts Contracts Overview On March 30, 2012, SAG-AFTRA was formed, merging Screen Actors Guild and the American Federation of Television and Radio Artists. Contracts negotiated by both unions remain in force under SAG-AFTRA. If you are a producer, please visit the Production Center for contract information",
+  "history": {
+    "url": "http://www.sagaftra.org/contracts",
+    "title": "Contracts",
+    "description": "Contracts Overview On March 30, 2012, SAG-AFTRA was formed, merging Screen Actors Guild and the American Federation of Television and Radio Artists. Contracts negotiated by both unions remain in force under SAG-AFTRA. If you are a producer, please visit the Production Center for contract information",
+    "frecency": 1944,
+    "url_hash": 72132806172083,
+    "last_visit_date": 1758203929696111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Doctors slash patients' lab-test costs \"Dr. Doug Lefton of Fairlawn, Ohio, developed a way to lower patients' cost for lab tests. STORY HIGHLIGHTSPhysician works with medical society, marketer to cut costs by as much as 90 percent Patients order tests through society's website, take orders to Lab Corp sites Service is available to patien",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses reducing lab-test costs in healthcare, not database query optimization; no topical relevance.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Doctors slash patients' lab-test costs \"Dr. Doug Lefton of Fairlawn, Ohio, developed a way to lower patients' cost for lab tests. STORY HIGHLIGHTSPhysician works with medical society, marketer to cut costs by as much as 90 percent Patients order tests through society's website, take orders to Lab Corp sites Service is available to patien",
+  "history": {
+    "url": "http://www.cnn.com/2010/HEALTH/12/08/low.cost.lab.tests/index.html",
+    "title": "Doctors slash patients' lab-test costs",
+    "description": "\"Dr. Doug Lefton of Fairlawn, Ohio, developed a way to lower patients' cost for lab tests. STORY HIGHLIGHTSPhysician works with medical society, marketer to cut costs by as much as 90 percent Patients order tests through society's website, take orders to Lab Corp sites Service is available to patien",
+    "frecency": 951,
+    "url_hash": 91593656636563,
+    "last_visit_date": 1758203930918111
+  }
+}

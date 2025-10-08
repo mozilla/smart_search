@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Patrick Morrisey Attorney General > Consumer Protection > Price Gouging Laws Price Gouging Laws The Law Price gouging laws go into effect in two situations: 1) a state of emergency is declared or 2) a state of preparedness is declared. The state of emergency or preparedness will last for 30 days unless the Governor",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses price gouging laws, not API integration or debugging; therefore not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Patrick Morrisey Attorney General > Consumer Protection > Price Gouging Laws Price Gouging Laws The Law Price gouging laws go into effect in two situations: 1) a state of emergency is declared or 2) a state of preparedness is declared. The state of emergency or preparedness will last for 30 days unless the Governor",
+  "history": {
+    "url": "http://www.ago.wv.gov/consumerprotection/Pages/Price-Gouging-Laws.aspx",
+    "title": "Patrick Morrisey",
+    "description": "Attorney General > Consumer Protection > Price Gouging Laws Price Gouging Laws The Law Price gouging laws go into effect in two situations: 1) a state of emergency is declared or 2) a state of preparedness is declared. The state of emergency or preparedness will last for 30 days unless the Governor ",
+    "frecency": 4003,
+    "url_hash": 66367270232347,
+    "last_visit_date": 1758203932156111
+  }
+}

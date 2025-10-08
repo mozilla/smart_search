@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "What is Openstack? A Quick OpenStack Tutorial July 10, 2014 Posted by: Sharone Zitzman Category: Open Stack No Comments In this blog we often discuss Open Stack, and the different components, and have an Open Stack tutorial or guide at your disposal for many topics \u2013 from Open Stack Neutron and networking in general, through NFV, Open Stack orc",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses OpenStack basics and tutorials, not debugging APIs or API integration topics.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "What is Openstack? A Quick OpenStack Tutorial July 10, 2014 Posted by: Sharone Zitzman Category: Open Stack No Comments In this blog we often discuss Open Stack, and the different components, and have an Open Stack tutorial or guide at your disposal for many topics \u2013 from Open Stack Neutron and networking in general, through NFV, Open Stack orc",
+  "history": {
+    "url": "http://getcloudify.org/2014/07/10/what-is-openstack-tutorial.html",
+    "title": "What is Openstack? A Quick OpenStack Tutorial",
+    "description": "July 10, 2014 Posted by: Sharone Zitzman Category: Open Stack No Comments In this blog we often discuss Open Stack, and the different components, and have an Open Stack tutorial or guide at your disposal for many topics \u2013 from Open Stack Neutron and networking in general, through NFV, Open Stack orc",
+    "frecency": 3188,
+    "url_hash": 44607714610469,
+    "last_visit_date": 1758203927540111
+  }
+}

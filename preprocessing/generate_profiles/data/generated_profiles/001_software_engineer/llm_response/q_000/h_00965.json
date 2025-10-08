@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Restaurant.com Restaurant.com The nation's largest dining deals site with thousands of restaurants, merchants and online providers nationwide",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a dining deals site and has no relevance to debugging APIs or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Restaurant.com Restaurant.com The nation's largest dining deals site with thousands of restaurants, merchants and online providers nationwide",
+  "history": {
+    "url": "http://incentives.restaurant.com/how-it-works",
+    "title": "Restaurant.com",
+    "description": "Restaurant.com The nation's largest dining deals site with thousands of restaurants, merchants and online providers nationwide ",
+    "frecency": 1593,
+    "url_hash": 10601804183919,
+    "last_visit_date": 1758203927970200
+  }
+}

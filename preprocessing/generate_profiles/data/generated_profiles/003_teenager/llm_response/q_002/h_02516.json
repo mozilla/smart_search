@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Sanctified (song) 'From Wikipedia, the free encyclopedianavigation search This article is about the Rick Ross song. For other songs with the same title, see Sanctified. ''Sanctified''Song by Rick Ross featuring Kanye West and Big Seanfrom the album Mastermind Recorded 2014Genre Hip hop Length 4: 49Label Maybach Music",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a page about a song, not about easy DIY room decoration ideas; it does not address the user's query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Sanctified (song) \"From Wikipedia, the free encyclopedianavigation search This article is about the Rick Ross song. For other songs with the same title, see Sanctified. \"\"Sanctified\"\"Song by Rick Ross featuring Kanye West and Big Seanfrom the album Mastermind Recorded 2014Genre Hip hop Length 4: 49Label Maybach Music",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Sanctified_(song)",
+    "title": "Sanctified (song)",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search This article is about the Rick Ross song. For other songs with the same title, see Sanctified. \"\"Sanctified\"\"Song by Rick Ross featuring Kanye West and Big Seanfrom the album Mastermind Recorded 2014Genre Hip hop Length 4: 49Label Maybach Music",
+    "frecency": 2418,
+    "url_hash": 3737821471211,
+    "last_visit_date": 1758203932307228
+  }
+}

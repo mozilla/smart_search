@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Morgan Earp \"Morgan Seth Earp Morgan Earp, about 1881, in Tombstone Born April 24, 1851 Pella, Iowa Died March 18, 1882 (aged 30) Tombstone, Arizona Occupation Lawman Known for Gunfight at the O. K. Corral Opponent (s) William Brocius, Frank Mc Laury, Frank Stillwell Spouse (s) Louisa A. Houston Parent (s) Nich",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns Morgan Earp, a historical figure, and has no relation to Docker or beginner setup; it is not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Morgan Earp \"Morgan Seth Earp Morgan Earp, about 1881, in Tombstone Born April 24, 1851 Pella, Iowa Died March 18, 1882 (aged 30) Tombstone, Arizona Occupation Lawman Known for Gunfight at the O. K. Corral Opponent (s) William Brocius, Frank Mc Laury, Frank Stillwell Spouse (s) Louisa A. Houston Parent (s) Nich",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Morgan_Earp",
+    "title": "Morgan Earp",
+    "description": "\"Morgan Seth Earp Morgan Earp, about 1881, in Tombstone Born April 24, 1851 Pella, Iowa Died March 18, 1882 (aged 30) Tombstone, Arizona Occupation Lawman Known for Gunfight at the O. K. Corral Opponent (s) William Brocius, Frank Mc Laury, Frank Stillwell Spouse (s) Louisa A. Houston Parent (s) Nich",
+    "frecency": 4916,
+    "url_hash": 12208897565102,
+    "last_visit_date": 1758203927958111
+  }
+}

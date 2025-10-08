@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "About R9 About R9Posted on By revolution9band See More... Media Posted on By revolution9band See More... Shows Posted on By revolution9band See More...",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result appears to be a page about the band revolution9band (R9) with media and shows, not about DIY room decoration ideas. No relevant content detected.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "About R9 About R9Posted on By revolution9band See More... Media Posted on By revolution9band See More... Shows Posted on By revolution9band See More...",
+  "history": {
+    "url": "http://www.revolution9band.com/",
+    "title": "About R9",
+    "description": "About R9Posted on By revolution9band See More... Media Posted on By revolution9band See More... Shows Posted on By revolution9band See More... ",
+    "frecency": 2552,
+    "url_hash": 80403460278580,
+    "last_visit_date": 1758203928780735
+  }
+}

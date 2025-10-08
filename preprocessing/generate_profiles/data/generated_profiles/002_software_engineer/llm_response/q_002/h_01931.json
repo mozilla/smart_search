@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Bob Hope (I)  (1903\u00e22003) \"SEE RANKBob Hope (I) (1903\u20132003)Actor | Soundtrack | Producer Comedian Bob Hope was born Leslie Townes Hope in Eltham, London, England, the fifth of seven sons of Avis (Townes), light opera singer, and William Henry Hope, a stonemason from Weston-super-Mare, Somerset. His maternal grandmother was W",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Bob Hope, a historical actor/comedic figure, and is not relevant to top IDEs for software development.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Bob Hope (I)  (1903\u00e22003) \"SEE RANKBob Hope (I) (1903\u20132003)Actor | Soundtrack | Producer Comedian Bob Hope was born Leslie Townes Hope in Eltham, London, England, the fifth of seven sons of Avis (Townes), light opera singer, and William Henry Hope, a stonemason from Weston-super-Mare, Somerset. His maternal grandmother was W",
+  "history": {
+    "url": "http://www.imdb.com/name/nm0001362/",
+    "title": "Bob Hope (I)  (1903\u00e22003)",
+    "description": "\"SEE RANKBob Hope (I) (1903\u20132003)Actor | Soundtrack | Producer Comedian Bob Hope was born Leslie Townes Hope in Eltham, London, England, the fifth of seven sons of Avis (Townes), light opera singer, and William Henry Hope, a stonemason from Weston-super-Mare, Somerset. His maternal grandmother was W",
+    "frecency": 1481,
+    "url_hash": 47261911601442,
+    "last_visit_date": 1758203929950111
+  }
+}

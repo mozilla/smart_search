@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Patient Information Patient Information Home \u00bb Outreach \u00bb Patient Information Howdy \u00b7 Directory \u00b7 Maps \u00b7 Jobs \u00b7 Email \u00b7 ITOutreach Press and Media Bridge to Dentistry (Summer Programs)Community Services Monitoring Services Patient Information Support Groups Oral Lichen Planus Support Sealant Initiatives Sealant Day Sea",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a patient information/dentistry site with no content related to debugging API integrations; the domain/content is unrelated to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Patient Information Patient Information Home \u00bb Outreach \u00bb Patient Information Howdy \u00b7 Directory \u00b7 Maps \u00b7 Jobs \u00b7 Email \u00b7 ITOutreach Press and Media Bridge to Dentistry (Summer Programs)Community Services Monitoring Services Patient Information Support Groups Oral Lichen Planus Support Sealant Initiatives Sealant Day Sea",
+  "history": {
+    "url": "https://dentistry.tamhsc.edu/outreach/patientinfo.html",
+    "title": "Patient Information",
+    "description": "Patient Information Home \u00bb Outreach \u00bb Patient Information Howdy \u00b7 Directory \u00b7 Maps \u00b7 Jobs \u00b7 Email \u00b7 ITOutreach Press and Media Bridge to Dentistry (Summer Programs)Community Services Monitoring Services Patient Information Support Groups Oral Lichen Planus Support Sealant Initiatives Sealant Day Sea",
+    "frecency": 2306,
+    "url_hash": 84482811903450,
+    "last_visit_date": 1758203932058111
+  }
+}

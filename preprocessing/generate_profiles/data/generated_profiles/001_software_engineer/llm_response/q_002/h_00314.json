@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Frequently Asked Questions Frequently Asked Questions What's an IP PIN? Who\u2019s eligible for an IRS IP PIN? What happens if I have an IP PIN and fail to use it correctly on my return? I lost my IP PIN or I didn\u2019t receive a new one in the mail. How do I get another one? I\u2019m a victim of identity theft. Can I get an IP PIN? We\u2019re",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses IRS IP PINs and identity theft, which has no relation to top IDEs for software development.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Frequently Asked Questions Frequently Asked Questions What's an IP PIN? Who\u2019s eligible for an IRS IP PIN? What happens if I have an IP PIN and fail to use it correctly on my return? I lost my IP PIN or I didn\u2019t receive a new one in the mail. How do I get another one? I\u2019m a victim of identity theft. Can I get an IP PIN? We\u2019re",
+  "history": {
+    "url": "https://www.irs.gov/individuals/frequently-asked-questions-about-the-identity-protection-personal-identification-number-ip-pin",
+    "title": "Frequently Asked Questions",
+    "description": "Frequently Asked Questions What's an IP PIN? Who\u2019s eligible for an IRS IP PIN? What happens if I have an IP PIN and fail to use it correctly on my return? I lost my IP PIN or I didn\u2019t receive a new one in the mail. How do I get another one? I\u2019m a victim of identity theft. Can I get an IP PIN? We\u2019re ",
+    "frecency": 3903,
+    "url_hash": 53545653534399,
+    "last_visit_date": 1758203926826200
+  }
+}

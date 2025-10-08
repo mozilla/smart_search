@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Select your province Fran\u00e7ais Select your province Find information and services near you. Select province/territory The Canadian Cancer Society is a national, community-based organization of volunteers whose mission is the eradication of cancer and the enhancement of the quality of life of people living with cancer.\u00a9 2",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about locating services and information related to the Canadian Cancer Society, not about sports improvement or athletic performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Select your province Fran\u00e7ais Select your province Find information and services near you. Select province/territory The Canadian Cancer Society is a national, community-based organization of volunteers whose mission is the eradication of cancer and the enhancement of the quality of life of people living with cancer.\u00a9 2",
+  "history": {
+    "url": "http://www.cancer.ca/en/prevention-and-screening/live-well/smoking-and-tobacco/what-is-in-cigarette-smoke/?region=on",
+    "title": "Select your province",
+    "description": "Fran\u00e7ais Select your province Find information and services near you. Select province/territory The Canadian Cancer Society is a national, community-based organization of volunteers whose mission is the eradication of cancer and the enhancement of the quality of life of people living with cancer.\u00a9 2",
+    "frecency": 1504,
+    "url_hash": 45170569797740,
+    "last_visit_date": 1758203934955228
+  }
+}

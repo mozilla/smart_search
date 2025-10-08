@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "We Are Independent Health Insurance Specialists We Are Independent Health Insurance Specialists We specialise in providing health insurance to individuals, couples, families and business of all sizes Get a Quote",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes independent health insurance services, with no content about sports improvement or athletic performance, therefore not relevant to the query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "We Are Independent Health Insurance Specialists We Are Independent Health Insurance Specialists We specialise in providing health insurance to individuals, couples, families and business of all sizes Get a Quote",
+  "history": {
+    "url": "http://www.lifepointhealthcare.co.uk/",
+    "title": "We Are Independent Health Insurance Specialists",
+    "description": "We Are Independent Health Insurance Specialists We specialise in providing health insurance to individuals, couples, families and business of all sizes Get a Quote ",
+    "frecency": 4908,
+    "url_hash": 58976812205990,
+    "last_visit_date": 1758203928455139
+  }
+}

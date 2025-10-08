@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Dicyclomine Dicyclominepronounced as (dye sye' kloe meen)Why is this medication prescribed? How should this medicine be used? Other uses for this medicine What special precautions should I follow? What special dietary instructions should I follow? What should I do if I forget a dose? What side effects can this",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses a medication (Dicyclomine) and does not address starting a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Dicyclomine Dicyclominepronounced as (dye sye' kloe meen)Why is this medication prescribed? How should this medicine be used? Other uses for this medicine What special precautions should I follow? What special dietary instructions should I follow? What should I do if I forget a dose? What side effects can this",
+  "history": {
+    "url": "https://www.nlm.nih.gov/medlineplus/druginfo/meds/a684007.html",
+    "title": "Dicyclomine",
+    "description": "Dicyclominepronounced as (dye sye' kloe meen)Why is this medication prescribed? How should this medicine be used? Other uses for this medicine What special precautions should I follow? What special dietary instructions should I follow? What should I do if I forget a dose? What side effects can this ",
+    "frecency": 218,
+    "url_hash": 23413900087447,
+    "last_visit_date": 1758203930371228
+  }
+}

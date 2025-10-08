@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Prison Is 'Living Hell' for Pedophiles \\\"Prison Is 'Living Hell' for Pedophiles\\\" By MICHAEL S. JAMES Aug. 26, 2003 Email In prison, fellow inmates derisively call pedophiles \\\"chesters,\\\" \\\"tree jumpers\\\" and \\\"short eyes.\\\" \\\"Prison can be a menacing place for child molesters like the former Roman Catholic priest John Geoghan, who was killed\\\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses prison conditions for pedophiles, which is unrelated to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Prison Is 'Living Hell' for Pedophiles \"Prison Is 'Living Hell' for Pedophiles By MICHAEL S. JAMESAug. 26, 2003Email In prison, fellow inmates derisively call pedophiles \"\"chesters,\"\" \"\"tree jumpers\"\" and \"\"short eyes. \"\"Prison can be a menacing place for child molesters like the former Roman Catholic priest John Geoghan, who was killed",
+  "history": {
+    "url": "http://abcnews.go.com/US/prison-living-hell-pedophiles/story?id=90004",
+    "title": "Prison Is 'Living Hell' for Pedophiles",
+    "description": "\"Prison Is 'Living Hell' for Pedophiles By MICHAEL S. JAMESAug. 26, 2003Email In prison, fellow inmates derisively call pedophiles \"\"chesters,\"\" \"\"tree jumpers\"\" and \"\"short eyes. \"\"Prison can be a menacing place for child molesters like the former Roman Catholic priest John Geoghan, who was killed ",
+    "frecency": 2151,
+    "url_hash": 77689232933090,
+    "last_visit_date": 1758203934213228
+  }
+}

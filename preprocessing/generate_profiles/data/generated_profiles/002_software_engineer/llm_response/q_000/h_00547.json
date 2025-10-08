@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Enterprise Customer Service \"Reviews For Enterprise Customer Service (14)Hidden chargesdespite having a pre paid voucher, for all local taxes and charges, we were charged 75 euro for returning a car on Sunday (same applies to Saturday), ay Cluj Airport Romania. There is nothing in the contract for this and voucher was ignored\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a car rental customer service review, unrelated to debugging or API integration topics.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Enterprise Customer Service \"Reviews For Enterprise Customer Service (14)Hidden chargesdespite having a pre paid voucher, for all local taxes and charges, we were charged 75 euro for returning a car on Sunday (same applies to Saturday), ay Cluj Airport Romania. There is nothing in the contract for this and voucher was ignored",
+  "history": {
+    "url": "http://www.forlocations.com/982/enterprise-customer-service",
+    "title": "Enterprise Customer Service",
+    "description": "\"Reviews For Enterprise Customer Service (14)Hidden chargesdespite having a pre paid voucher, for all local taxes and charges, we were charged 75 euro for returning a car on Sunday (same applies to Saturday), ay Cluj Airport Romania. There is nothing in the contract for this and voucher was ignored ",
+    "frecency": 4056,
+    "url_hash": 19451123799332,
+    "last_visit_date": 1758203930548111
+  }
+}

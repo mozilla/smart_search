@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "How to compute digits of pi ? \\\"Next: Euler's formula: e^ (i pi) Up: Special Numbers and Functions Previous: Special Numbers and Functions How to compute digits of pi ? Symbolic Computation software such as Maple or Mathematica can compute 10,000 digits of pi in a blink, and another 20,000-1,000,000 digits overnight (range depend",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses digits of pi and symbolic computation, not Python libraries for machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "How to compute digits of pi ? \"Next: Euler's formula: e^ (i pi) Up: Special Numbers and Functions Previous: Special Numbers and Functions How to compute digits of pi ? Symbolic Computation software such as Maple or Mathematica can compute 10,000 digits of pi in a blink, and another 20,000-1,000,000 digits overnight (range depend",
+  "history": {
+    "url": "https://cs.uwaterloo.ca/~alopez-o/math-faq/mathtext/node12.html",
+    "title": "How to compute digits of pi ?",
+    "description": "\"Next: Euler's formula: e^ (i pi) Up: Special Numbers and Functions Previous: Special Numbers and Functions How to compute digits of pi ? Symbolic Computation software such as Maple or Mathematica can compute 10,000 digits of pi in a blink, and another 20,000-1,000,000 digits overnight (range depend",
+    "frecency": 3465,
+    "url_hash": 2205518548461,
+    "last_visit_date": 1758203927144200
+  }
+}

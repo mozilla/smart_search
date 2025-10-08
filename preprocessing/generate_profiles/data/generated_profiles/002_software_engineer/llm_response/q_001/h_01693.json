@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Diarrhea in Adults Diarrhea in Adults By Norton J. Greenberger, MD, Clinical Professor of Medicine, Harvard Medical School; Senior Physician, Brigham and Women's Hospital NOTE: This is the Consumer Version. DOCTORS: Click here for the Professional Version (See also Overview of Digestive Symptoms and Diarrhea in Childr",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page is a medical article about diarrhea, not related to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Diarrhea in Adults Diarrhea in Adults By Norton J. Greenberger, MD, Clinical Professor of Medicine, Harvard Medical School; Senior Physician, Brigham and Women's Hospital NOTE: This is the Consumer Version. DOCTORS: Click here for the Professional Version (See also Overview of Digestive Symptoms and Diarrhea in Childr",
+  "history": {
+    "url": "http://www.merckmanuals.com/home/digestive-disorders/symptoms-of-digestive-disorders/diarrhea-in-adults",
+    "title": "Diarrhea in Adults",
+    "description": "Diarrhea in Adults By Norton J. Greenberger, MD, Clinical Professor of Medicine, Harvard Medical School; Senior Physician, Brigham and Women's Hospital NOTE: This is the Consumer Version. DOCTORS: Click here for the Professional Version (See also Overview of Digestive Symptoms and Diarrhea in Childr",
+    "frecency": 1928,
+    "url_hash": 4101960029806,
+    "last_visit_date": 1758203928550111
+  }
+}

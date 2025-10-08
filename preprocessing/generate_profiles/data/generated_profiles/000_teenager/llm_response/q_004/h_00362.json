@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "'House Of Cards' Is Built To Last (NPR embedded audio player)",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "Result discusses a TV show and an NPR audio embed, with no content related to improving sports or sports skills.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "'House Of Cards' Is Built To Last \"Television'House Of Cards' Is Built To Last Listen \u00b7 8:348:34Queue Download Embed Embed< iframe src=\"\"https://www.npr.org/player/embed/170584534/170648779\"\" width=\"\"100%\"\" height=\"\"290\"\" frameborder=\"\"0\"\" scrolling=\"\"no\"\" title=\"\"NPR embedded audio player\"\">Transcript January 30, 2013 12:38 PM ETHe",
+  "history": {
+    "url": "http://www.npr.org/2013/01/30/170584534/house-of-cards-is-built-to-last",
+    "title": "'House Of Cards' Is Built To Last",
+    "description": "\"Television'House Of Cards' Is Built To Last Listen \u00b7 8:348:34Queue Download Embed Embed< iframe src=\"\"https://www.npr.org/player/embed/170584534/170648779\"\" width=\"\"100%\"\" height=\"\"290\"\" frameborder=\"\"0\"\" scrolling=\"\"no\"\" title=\"\"NPR embedded audio player\"\">Transcript January 30, 2013 12:38 PM ETHe",
+    "frecency": 3458,
+    "url_hash": 48125044196042,
+    "last_visit_date": 1758203928533139
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Exchange Management Shell - What does this mean? \\\"Exchange Management Shell - What does this mean? Previous Versions of Exchange > Exchange 2003 and Exchange 2007 - General Discussion Question0Sign in to vote Hi,I'm trying to export a user's mailbox using the following command Export Mailbox -Identity firstname.lastname -Start Date \\\"\\\"1/1/2001\\\"\\\" -E",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Exchange Management Shell and exporting mailboxes, which is unrelated to Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Exchange Management Shell - What does this mean? \"Exchange Management Shell - What does this mean? Previous Versions of Exchange > Exchange 2003 and Exchange 2007 - General Discussion Question0Sign in to vote Hi,I'm trying to export a user's mailbox using the following command Export Mailbox -Identity firstname.lastname -Start Date \"\"1/1/2001\"\" -E",
+  "history": {
+    "url": "https://social.technet.microsoft.com/Forums/exchange/en-US/9e81438b-46f2-42a8-a00e-8b451ceebdf1/exchange-management-shell-what-does-this-mean?forum=exchangesvrgenerallegacy",
+    "title": "Exchange Management Shell - What does this mean?",
+    "description": "\"Exchange Management Shell - What does this mean? Previous Versions of Exchange > Exchange 2003 and Exchange 2007 - General Discussion Question0Sign in to vote Hi,I'm trying to export a user's mailbox using the following command Export Mailbox -Identity firstname.lastname -Start Date \"\"1/1/2001\"\" -E",
+    "frecency": 2013,
+    "url_hash": 98267489508223,
+    "last_visit_date": 1758203928700111
+  }
+}

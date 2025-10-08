@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Charles Barkley (I) \\\"SEE RANKCharles Barkley (I)Actor Charles Barkley was born on February 20, 1963 in Leeds, Alabama, USA as Charles Wade Barkley. He is an actor, known for He Got Game (1998), Space Jam (1996) and Forget Paris (1995). He has been married to Maureen Blumhardt since February 9, 1989. They have one child",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Charles Barkley, an actor, and is not related to starting a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Charles Barkley (I) \"SEE RANKCharles Barkley (I)Actor Charles Barkley was born on February 20, 1963 in Leeds, Alabama, USA as Charles Wade Barkley. He is an actor, known for He Got Game (1998), Space Jam (1996) and Forget Paris (1995). He has been married to Maureen Blumhardt since February 9, 1989. They have one child",
+  "history": {
+    "url": "http://www.imdb.com/name/nm0004725/",
+    "title": "Charles Barkley (I)",
+    "description": "\"SEE RANKCharles Barkley (I)Actor Charles Barkley was born on February 20, 1963 in Leeds, Alabama, USA as Charles Wade Barkley. He is an actor, known for He Got Game (1998), Space Jam (1996) and Forget Paris (1995). He has been married to Maureen Blumhardt since February 9, 1989. They have one child",
+    "frecency": 2980,
+    "url_hash": 15925063908033,
+    "last_visit_date": 1758203934711228
+  }
+}

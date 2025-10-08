@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Billiard Supplies, Pool Cues, Pool Tables & More \\\"shop ozoneclearance Save onover 1,000 discounted items todayshop now Pool Cues Shop Now Pool Tables Shop Now Pool Cue Accessories Shop Now Pool Cue Cases Shop Now Pool Table Accessories Shop Now Pool Balls Shop Now Pool Table Covers Shop Now Pool Table Felt Shop Now Pool Table Lights Shop Now Video",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a billiards equipment store page and contains no content related to starting or creating a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Billiard Supplies, Pool Cues, Pool Tables & More \"shop ozoneclearance Save onover 1,000 discounted items todayshop now Pool Cues Shop Now Pool Tables Shop Now Pool Cue Accessories Shop Now Pool Cue Cases Shop Now Pool Table Accessories Shop Now Pool Balls Shop Now Pool Table Covers Shop Now Pool Table Felt Shop Now Pool Table Lights Shop Now Video",
+  "history": {
+    "url": "http://www.ozonebilliards.com/",
+    "title": "Billiard Supplies, Pool Cues, Pool Tables & More",
+    "description": "\"shop ozoneclearance Save onover 1,000 discounted items todayshop now Pool Cues Shop Now Pool Tables Shop Now Pool Cue Accessories Shop Now Pool Cue Cases Shop Now Pool Table Accessories Shop Now Pool Balls Shop Now Pool Table Covers Shop Now Pool Table Felt Shop Now Pool Table Lights Shop Now Video",
+    "frecency": 1550,
+    "url_hash": 5276262793022,
+    "last_visit_date": 1758203928306735
+  }
+}

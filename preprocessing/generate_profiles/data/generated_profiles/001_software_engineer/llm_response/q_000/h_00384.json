@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "What If I Don\u00e2t Pass The CDL Test On The First Try? One of the biggest questions incoming students have about CDL training is, \u201cWhat happens if I don\u2019t pass the CDL test on the first try?\u201dThe funny thing about that? Most students do pass the exam their first time out. So, even though it\u2019s one of",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses CDL training and passing the CDL test, not about debugging API integration; therefore it is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "What If I Don\u00e2t Pass The CDL Test On The First Try? One of the biggest questions incoming students have about CDL training is, \u201cWhat happens if I don\u2019t pass the CDL test on the first try?\u201dThe funny thing about that? Most students do pass the exam their first time out. So, even though it\u2019s one of the biggest concerns of many students, it\u2019s also one of",
+  "history": {
+    "url": "https://www.roadmaster.com/blog/what-if-i-dont-pass-the-cdl-test-on-the-first-try/",
+    "title": "What If I Don\u00e2t Pass The CDL Test On The First Try?",
+    "description": "One of the biggest questions incoming students have about CDL training is, \u201cWhat happens if I don\u2019t pass the CDL test on the first try?\u201dThe funny thing about that? Most students do pass the exam their first time out. So, even though it\u2019s one of the biggest concerns of many students, it\u2019s also one of",
+    "frecency": 3701,
+    "url_hash": 17061835012623,
+    "last_visit_date": 1758203928398200
+  }
+}

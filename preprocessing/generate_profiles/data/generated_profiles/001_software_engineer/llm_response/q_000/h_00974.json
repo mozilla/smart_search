@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "MedImpact Reviews \"Med Impact Reviews Updated March 23, 2018132 reviews Filter Full-time Part-time2.8Rating Trends Rating Trends Recommend to a friend Approve of CEO Frederick Howe72 Ratings Close Your trust is our top concern, so companies can't alter or remove reviews.132 Employee Reviews Sort: Popular Rating Date",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about employee reviews on a company (MedImpact), not about debugging or API integration. It lacks relevance to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "MedImpact Reviews \"Med Impact Reviews Updated March 23, 2018132 reviews Filter Full-time Part-time2.8Rating Trends Rating Trends Recommend to a friend Approve of CEO Frederick Howe72 Ratings Close Your trust is our top concern, so companies can't alter or remove reviews.132 Employee Reviews Sort: Popular Rating Date",
+  "history": {
+    "url": "https://www.glassdoor.com/Reviews/MedImpact-Reviews-E40035.htm",
+    "title": "MedImpact Reviews",
+    "description": "\"Med Impact Reviews Updated March 23, 2018132 reviews Filter Full-time Part-time2.8Rating Trends Rating Trends Recommend to a friend Approve of CEO Frederick Howe72 Ratings Close Your trust is our top concern, so companies can't alter or remove reviews.132 Employee Reviews Sort: Popular Rating Date ",
+    "frecency": 1551,
+    "url_hash": 27438402949829,
+    "last_visit_date": 1758203927454200
+  }
+}

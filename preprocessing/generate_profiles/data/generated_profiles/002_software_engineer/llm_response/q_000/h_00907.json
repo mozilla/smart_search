@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "How do scientists classify an air mass? Answers.com \u00ae Wiki Answers \u00ae Categories Science Earth Sciences Atmospheric Sciences How do scientists classify an air mass? Flag How do scientists classify an air mass? Answered by The Wiki Answers \u00aeCommunity Answers.com \u00ae is making the world better one answer at a time. Atmospheric scientists have",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses atmospheric science (air mass classification) and is unrelated to debugging or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "How do scientists classify an air mass? Answers.com \u00ae Wiki Answers \u00ae Categories Science Earth Sciences Atmospheric Sciences How do scientists classify an air mass? Flag How do scientists classify an air mass? Answered by The Wiki Answers \u00aeCommunity Answers.com \u00ae is making the world better one answer at a time. Atmospheric scientists have",
+  "history": {
+    "url": "http://www.answers.com/Q/How_do_scientists_classify_an_air_mass",
+    "title": "How do scientists classify an air mass?",
+    "description": "Answers.com \u00ae Wiki Answers \u00ae Categories Science Earth Sciences Atmospheric Sciences How do scientists classify an air mass? Flag How do scientists classify an air mass? Answered by The Wiki Answers \u00aeCommunity Answers.com \u00ae is making the world better one answer at a time. Atmospheric scientists have ",
+    "frecency": 3360,
+    "url_hash": 20458362951281,
+    "last_visit_date": 1758203928348111
+  }
+}

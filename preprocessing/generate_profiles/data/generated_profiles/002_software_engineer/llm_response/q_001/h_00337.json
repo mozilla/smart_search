@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Find a school near you! Home \u203a Fashion Degrees \u203a Fashion Forecaster - Fashion Career Profile Find a school near you!Fashion Forecaster - Fashion Career Profile Written by FS Staff November 9, 2011What do Fashion Forecasters do? Where do Fashion Forecasters work? FS takes a look: About Fashion Forecasters Fashion forecaster",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about fashion forecasting and education, not about Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Find a school near you! Home \u203a Fashion Degrees \u203a Fashion Forecaster - Fashion Career Profile Find a school near you!Fashion Forecaster - Fashion Career Profile Written by FS Staff November 9, 2011What do Fashion Forecasters do? Where do Fashion Forecasters work? FS takes a look: About Fashion Forecasters Fashion forecaster",
+  "history": {
+    "url": "http://www.fashion-schools.org/articles/fashion-forecaster-fashion-career-profile",
+    "title": "Find a school near you!",
+    "description": "Home \u203a Fashion Degrees \u203a Fashion Forecaster - Fashion Career Profile Find a school near you!Fashion Forecaster - Fashion Career Profile Written by FS Staff November 9, 2011What do Fashion Forecasters do? Where do Fashion Forecasters work? FS takes a look: About Fashion Forecasters Fashion forecaster",
+    "frecency": 4427,
+    "url_hash": 80489625888522,
+    "last_visit_date": 1758203928306111
+  }
+}

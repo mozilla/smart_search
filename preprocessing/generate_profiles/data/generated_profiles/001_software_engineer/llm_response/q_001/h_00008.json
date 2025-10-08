@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "What\u00e2s going on in Annapolis this week Used with permission But first let\u2019s go ahead and support the Chesapeake Bay. It\u2019s worth it. From Oct. 2-9 restaurants from Philadelphia to Northern Virginia will be featuring Maryland seafood caught locally for their patrons. For each of these seafood dishes sold, a buck will go to the Oyster Recov",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses local Annapolis seafood events and oyster recovery; it has no content related to Python, libraries, or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "What\u00e2s going on in Annapolis this week Used with permission But first let\u2019s go ahead and support the Chesapeake Bay. It\u2019s worth it. From Oct. 2-9 restaurants from Philadelphia to Northern Virginia will be featuring Maryland seafood caught locally for their patrons. For each of these seafood dishes sold, a buck will go to the Oyster Recov",
+  "history": {
+    "url": "https://www.annapolis.com/annapolis-week/",
+    "title": "What\u00e2s going on in Annapolis this week",
+    "description": "Used with permission But first let\u2019s go ahead and support the Chesapeake Bay. It\u2019s worth it. From Oct. 2-9 restaurants from Philadelphia to Northern Virginia will be featuring Maryland seafood caught locally for their patrons. For each of these seafood dishes sold, a buck will go to the Oyster Recov",
+    "frecency": 4988,
+    "url_hash": 69436725070820,
+    "last_visit_date": 1758203927876200
+  }
+}

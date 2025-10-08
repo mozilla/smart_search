@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Is Your Grocery Store ... Eat Healthy. Be Healthy. Is Your Grocery Store ... Stocked with 1000s of Organic & Fair-Trade Goods \u2022 Loaded with Local Lines \u2022 Special Diet Friendly \u2022 Packed with 100% Organic Produce \u2022 Carrying Superior Supplements & Personal Care \u2022 Full of Eco-Friendly Products \u2022 100% Powered by Renewable Energy",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The result describes grocery store products and healthy living, not strategies or content about improving athletic performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Is Your Grocery Store ... Eat Healthy. Be Healthy. Is Your Grocery Store ... Stocked with 1000s of Organic & Fair-Trade Goods \u2022 Loaded with Local Lines \u2022 Special Diet Friendly \u2022 Packed with 100% Organic Produce \u2022 Carrying Superior Supplements & Personal Care \u2022 Full of Eco-Friendly Products \u2022 100% Powered by Renewable Energy",
+  "history": {
+    "url": "https://www.alamedanaturalgrocery.com/",
+    "title": "Is Your Grocery Store ...",
+    "description": "Eat Healthy. Be Healthy. Is Your Grocery Store ... Stocked with 1000s of Organic & Fair-Trade Goods \u2022 Loaded with Local Lines \u2022 Special Diet Friendly \u2022 Packed with 100% Organic Produce \u2022 Carrying Superior Supplements & Personal Care \u2022 Full of Eco-Friendly Products \u2022 100% Powered by Renewable Energy ",
+    "frecency": 4504,
+    "url_hash": 41052377928851,
+    "last_visit_date": 1758203927155139
+  }
+}

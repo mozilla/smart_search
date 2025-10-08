@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "How Can I Protect My Children from the Sun? Just a few serious sunburns can increase your child\u2019s risk of skin cancer later in life. Kids don\u2019t have to be at the pool, beach, or on vacation to get too much sun. Their skin needs protection from the sun\u2019s harmful ultraviolet (UV) rays whenever they\u2019re outdoors. Seek shade. UV rays are strongest",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses sun protection for children and is not related to apps or study habit improvement.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "How Can I Protect My Children from the Sun? Just a few serious sunburns can increase your child\u2019s risk of skin cancer later in life. Kids don\u2019t have to be at the pool, beach, or on vacation to get too much sun. Their skin needs protection from the sun\u2019s harmful ultraviolet (UV) rays whenever they\u2019re outdoors. Seek shade. UV rays are strongest",
+  "history": {
+    "url": "https://www.cdc.gov/cancer/skin/basic_info/children.htm",
+    "title": "How Can I Protect My Children from the Sun?",
+    "description": "Just a few serious sunburns can increase your child\u2019s risk of skin cancer later in life. Kids don\u2019t have to be at the pool, beach, or on vacation to get too much sun. Their skin needs protection from the sun\u2019s harmful ultraviolet (UV) rays whenever they\u2019re outdoors. Seek shade. UV rays are strongest",
+    "frecency": 3999,
+    "url_hash": 60738021669551,
+    "last_visit_date": 1758203930121228
+  }
+}

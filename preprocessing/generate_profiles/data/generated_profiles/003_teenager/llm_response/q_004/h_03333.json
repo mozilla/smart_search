@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Corgi Toys \\\"From Wikipedia, the free encyclopedianavigation search This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (January 2018) ( Learn how and when to remove this template me",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Corgi Toys and Wikipedia maintenance, not about improving at sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Corgi Toys \"From Wikipedia, the free encyclopedianavigation search This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (January 2018) ( Learn how and when to remove this template me",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Corgi_Toys",
+    "title": "Corgi Toys",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (January 2018) ( Learn how and when to remove this template me",
+    "frecency": 1521,
+    "url_hash": 51245828998663,
+    "last_visit_date": 1758203933987228
+  }
+}

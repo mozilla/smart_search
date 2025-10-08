@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Contact Us Contact Us If you would like to order checks, inquire on your order status or chat with a customer service representative visit www.ordermychecks.com . For all other inquires please select a link below that best describes who you are and complete the form provided. We will be in contact with you sho",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved_result is about contacting customer service and ordering checks; it has no content about debugging API integration, API calls, or technical debugging guidance, thus not relevant.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Contact Us Contact Us If you would like to order checks, inquire on your order status or chat with a customer service representative visit www.ordermychecks.com . For all other inquires please select a link below that best describes who you are and complete the form provided. We will be in contact with you sho",
+  "history": {
+    "url": "https://www.harlandclarke.com/main/contact",
+    "title": "Contact Us",
+    "description": "Contact Us If you would like to order checks, inquire on your order status or chat with a customer service representative visit www.ordermychecks.com . For all other inquires please select a link below that best describes who you are and complete the form provided. We will be in contact with you sho",
+    "frecency": 168,
+    "url_hash": 23920853849491,
+    "last_visit_date": 1758203932032111
+  }
+}

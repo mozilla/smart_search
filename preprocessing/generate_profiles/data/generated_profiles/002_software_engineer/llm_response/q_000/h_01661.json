@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Biography Edit La Van Davis Biography Showing all 3 items Jump to: Overview (1) | Mini Bio (1) | Trivia (1)Overview (1)Born September 21, 1966 in Atlanta, Georgia, USA Mini Bio (1) La Van Davis was born on September 21, 1966 in Atlanta, Georgia, USA. He is an actor, known for House of Payne (2006), Black Dynami",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a biography of La Van Davis and is unrelated to debugging APIs or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Biography Edit La Van Davis Biography Showing all 3 items Jump to: Overview (1) | Mini Bio (1) | Trivia (1)Overview (1)Born September 21, 1966 in Atlanta, Georgia, USAMini Bio (1)La Van Davis was born on September 21, 1966 in Atlanta, Georgia, USA. He is an actor, known for House of Payne (2006), Black Dynami",
+  "history": {
+    "url": "http://www.imdb.com/name/nm1741905/bio",
+    "title": "Biography",
+    "description": "Edit La Van Davis Biography Showing all 3 items Jump to: Overview (1) | Mini Bio (1) | Trivia (1)Overview (1)Born September 21, 1966 in Atlanta, Georgia, USAMini Bio (1)La Van Davis was born on September 21, 1966 in Atlanta, Georgia, USA. He is an actor, known for House of Payne (2006), Black Dynami",
+    "frecency": 1983,
+    "url_hash": 36972890437571,
+    "last_visit_date": 1758203931890111
+  }
+}

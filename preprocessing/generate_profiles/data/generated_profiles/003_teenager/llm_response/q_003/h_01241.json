@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Background Background Hormonal factors, pain syndromes, and psychological issues, most particularly depression, are common concerns when addressing sleep dysfunction in women. Poor sleep quality and inadequate sleep affect many of the measures of quality of life. Women are twice as likely as men to have diffic",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses sleep dysfunction in women and related factors, not about study habits or apps; topic is not relevant to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Background Background Hormonal factors, pain syndromes, and psychological issues, most particularly depression, are common concerns when addressing sleep dysfunction in women. Poor sleep quality and inadequate sleep affect many of the measures of quality of life. Women are twice as likely as men to have diffic",
+  "history": {
+    "url": "https://emedicine.medscape.com/article/1189087-overview",
+    "title": "Background",
+    "description": "Background Hormonal factors, pain syndromes, and psychological issues, most particularly depression, are common concerns when addressing sleep dysfunction in women. Poor sleep quality and inadequate sleep affect many of the measures of quality of life. Women are twice as likely as men to have diffic",
+    "frecency": 3729,
+    "url_hash": 9250359944752,
+    "last_visit_date": 1758203933645228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "CORBA (Common Object Request Broker Architecture) Common Object Request Broker Architecture (CORBA) is an architecture and specification for creating, distributing, and managing distributed program objects in a network. It allows programs at different locations and developed by different vendors to communicate in a network through an interface",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The result discusses CORBA, not Docker or beginner setup; not relevant.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "CORBA (Common Object Request Broker Architecture) \"Common Object Request Broker Architecture (CORBA) is an architecture and specification for creating, distributing, and managing distributed program object s in a network. It allows programs at different locations and developed by different vendors to communicate in a network through an \"\"interface",
+  "history": {
+    "url": "http://searchsqlserver.techtarget.com/definition/CORBA",
+    "title": "CORBA (Common Object Request Broker Architecture)",
+    "description": "\"Common Object Request Broker Architecture (CORBA) is an architecture and specification for creating, distributing, and managing distributed program object s in a network. It allows programs at different locations and developed by different vendors to communicate in a network through an \"\"interface ",
+    "frecency": 917,
+    "url_hash": 40964454239218,
+    "last_visit_date": 1758203930212111
+  }
+}

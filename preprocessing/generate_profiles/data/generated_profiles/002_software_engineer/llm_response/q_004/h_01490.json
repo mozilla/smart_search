@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Will my NETGEAR router work with Verizon FiOS? Your NETGEAR router will not replace your existing Fi OS router/gateway device. However, it will be able to work in conjunction with the Fi OS device in one of two ways. Option 1: The Fi OS device can provide router functions while the NETGEAR router works as AP mode only to provide wireless access",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses router configuration and networking with FiOS, not Docker setup for beginners; it is not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Will my NETGEAR router work with Verizon FiOS? \"Your NETGEAR router will not replace your existing Fi OS router/gateway device. However, it will be able to work in conjunction with the Fi OS device in one of two ways. Option 1: The Fi OS device can provide router functions while the NETGEAR router works as AP mode only to provide wireless access",
+  "history": {
+    "url": "https://kb.netgear.com/23977/Will-my-NETGEAR-router-work-with-Verizon-FiOS",
+    "title": "Will my NETGEAR router work with Verizon FiOS?",
+    "description": "\"Your NETGEAR router will not replace your existing Fi OS router/gateway device. However, it will be able to work in conjunction with the Fi OS device in one of two ways. Option 1: The Fi OS device can provide router functions while the NETGEAR router works as AP mode only to provide wireless access",
+    "frecency": 2300,
+    "url_hash": 73619433840890,
+    "last_visit_date": 1758203929548111
+  }
+}

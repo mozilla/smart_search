@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "How to Do String Art In a Hurry? In a Hurry? Watch this video To do string art on canvas or wood, cut out a design from a piece of paper and attach it to your surface. You can also use a pre-made stencil. Hammer pins or nails into your surface along the edge of your design. Remove your paper or stencil once you have all",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes string art crafting, which is unrelated to improving performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "How to Do String Art In a Hurry? In a Hurry? Watch this video To do string art on canvas or wood, cut out a design from a piece of paper and attach it to your surface. You can also use a pre-made stencil. Hammer pins or nails into your surface along the edge of your design. Remove your paper or stencil once you have all",
+  "history": {
+    "url": "http://www.wikihow.com/Do-String-Art",
+    "title": "How to Do String Art",
+    "description": "In a Hurry? In a Hurry? Watch this video To do string art on canvas or wood, cut out a design from a piece of paper and attach it to your surface. You can also use a pre-made stencil. Hammer pins or nails into your surface along the edge of your design. Remove your paper or stencil once you have all",
+    "frecency": 3952,
+    "url_hash": 77266552154595,
+    "last_visit_date": 1758203932485228
+  }
+}

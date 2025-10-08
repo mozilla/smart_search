@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Norway Norway Tall tales are made in Norway, where nature takes on epic proportions. Mountains of dizzying heights, fjords where Vikings once roamed and awe-inspiring northern lights are the perfect setting for making travel legends of your own. Search Tours View best sellers",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is travel/tourism content about Norway and has no content related to improving sports performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Norway Norway Tall tales are made in Norway, where nature takes on epic proportions. Mountains of dizzying heights, fjords where Vikings once roamed and awe-inspiring northern lights are the perfect setting for making travel legends of your own. Search Tours View best sellers",
+  "history": {
+    "url": "http://norway.nordicvisitor.com/?rf=m21-31",
+    "title": "Norway",
+    "description": "Norway Tall tales are made in Norway, where nature takes on epic proportions. Mountains of dizzying heights, fjords where Vikings once roamed and awe-inspiring northern lights are the perfect setting for making travel legends of your own. Search Tours View best sellers ",
+    "frecency": 4794,
+    "url_hash": 57240279115967,
+    "last_visit_date": 1758203933599228
+  }
+}

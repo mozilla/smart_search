@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "What Is a Ficelle? A ficelle is a type of French bread that is long and thin, like a thick bread stick, but still moist and spongy inside the crust. This type of bread loaf is about half the size of the typical French baguettes sold at grocery store bakeries. Ficelles can be as long as a standard baguette, but thinner",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "Retrieved result discusses ficelle (bread) and has no relation to debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "What Is a Ficelle? A ficelle is a type of French bread that is long and thin, like a thick bread stick, but still moist and spongy inside the crust. This type of bread loaf is about half the size of the typical French baguettes sold at grocery store bakeries. Ficelles can be as long as a standard baguette, but thinner",
+  "history": {
+    "url": "http://www.wisegeek.com/what-is-a-ficelle.htm",
+    "title": "What Is a Ficelle?",
+    "description": "A ficelle is a type of French bread that is long and thin, like a thick bread stick, but still moist and spongy inside the crust. This type of bread loaf is about half the size of the typical French baguettes sold at grocery store bakeries. Ficelles can be as long as a standard baguette, but thinner",
+    "frecency": 3126,
+    "url_hash": 99771044433826,
+    "last_visit_date": 1758203931300111
+  }
+}

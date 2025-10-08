@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "lean manufacturing \\\"lean manufacturing Definition Popular Terms Doing more with less by employing 'lean thinking.' Lean manufacturing involves never ending efforts to eliminate or reduce 'muda' (Japanese for waste or any activity that consumes resources without adding value) in design, manufacturing, distribution, and",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses lean manufacturing, not database query optimization, so it is not relevant to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "lean manufacturing \"lean manufacturing Definition Popular Terms Doing more with less by employing 'lean thinking.' Lean manufacturing involves never ending efforts to eliminate or reduce 'muda' (Japanese for waste or any activity that consumes resources without adding value) in design, manufacturing, distribution, and",
+  "history": {
+    "url": "http://www.businessdictionary.com/definition/lean-manufacturing.html",
+    "title": "lean manufacturing",
+    "description": "\"lean manufacturing Definition Popular Terms Doing more with less by employing 'lean thinking.' Lean manufacturing involves never ending efforts to eliminate or reduce 'muda' (Japanese for waste or any activity that consumes resources without adding value) in design, manufacturing, distribution, and",
+    "frecency": 3342,
+    "url_hash": 6522456001355,
+    "last_visit_date": 1758203929538111
+  }
+}

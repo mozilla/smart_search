@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Tutu (clothing) \"For other uses, see Tutu (disambiguation). Alexandra Ansanelli wearing a pancake tutu The modern tutu is a dress worn as a costume in a ballet performance, often with attached bodice. [1] It may be made of tarlatan, muslin, silk, tulle, gauze, or nylon. Modern tutus have two basic types: the Romant",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The result discusses ballet tutus, not guidance on improving sports performance or related topics.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Tutu (clothing) \"For other uses, see Tutu (disambiguation). Alexandra Ansanelli wearing a pancake tutu The modern tutu is a dress worn as a costume in a ballet performance, often with attached bodice. [1] It may be made of tarlatan, muslin, silk, tulle, gauze, or nylon. Modern tutus have two basic types: the Romant",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Ballet_tutu",
+    "title": "Tutu (clothing)",
+    "description": "\"For other uses, see Tutu (disambiguation). Alexandra Ansanelli wearing a pancake tutu The modern tutu is a dress worn as a costume in a ballet performance, often with attached bodice. [1] It may be made of tarlatan, muslin, silk, tulle, gauze, or nylon. Modern tutus have two basic types: the Romant",
+    "frecency": 3781,
+    "url_hash": 46563471769329,
+    "last_visit_date": 1758203927462735
+  }
+}

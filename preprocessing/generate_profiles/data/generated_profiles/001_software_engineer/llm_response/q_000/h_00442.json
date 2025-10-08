@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Inside Transformers \\\"Inside Transformers How a transformer works, and how to design them. Dissection of a transformer. Ideal Transformer A transformer is a device in which two circuits are coupled by a magnetic field that is linked to both. There is no conductive connection between the circuits, which may be at arbitra",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The result discusses electrical transformers and hardware engineering; it does not relate to debugging APIs, API integration, or software debugging.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Inside Transformers \"Inside Transformers How a transformer works, and how to design them. Dissection of a transformer. Ideal Transformer A transformer is a device in which two circuits are coupled by a magnetic field that is linked to both. There is no conductive connection between the circuits, which may be at arbitra",
+  "history": {
+    "url": "http://mysite.du.edu/~jcalvert/tech/transfor.htm",
+    "title": "Inside Transformers",
+    "description": "\"Inside Transformers How a transformer works, and how to design them. Dissection of a transformer. Ideal Transformer A transformer is a device in which two circuits are coupled by a magnetic field that is linked to both. There is no conductive connection between the circuits, which may be at arbitra",
+    "frecency": 3492,
+    "url_hash": 34575510451056,
+    "last_visit_date": 1758203927274200
+  }
+}

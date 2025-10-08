@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Marvel vs. Capcom \"From Wikipedia, the free encyclopedia (Redirected from Marvel vs. Capcom (series))navigation search This article is about the series. For the video game, see Marvel vs. Capcom: Clash of Super Heroes. Marvel vs. Capcom Marvel vs. Capcom logo used since 2011Genres Fighting Developer (s) Capcom Backbo",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a video game series and is unrelated to improving performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Marvel vs. Capcom \"From Wikipedia, the free encyclopedia (Redirected from Marvel vs. Capcom (series))navigation search This article is about the series. For the video game, see Marvel vs. Capcom: Clash of Super Heroes. Marvel vs. Capcom Marvel vs. Capcom logo used since 2011Genres Fighting Developer (s) Capcom Backbo",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Marvel_vs._Capcom_(series)",
+    "title": "Marvel vs. Capcom",
+    "description": "\"From Wikipedia, the free encyclopedia (Redirected from Marvel vs. Capcom (series))navigation search This article is about the series. For the video game, see Marvel vs. Capcom: Clash of Super Heroes. Marvel vs. Capcom Marvel vs. Capcom logo used since 2011Genres Fighting Developer (s) Capcom Backbo",
+    "frecency": 159,
+    "url_hash": 82695452861142,
+    "last_visit_date": 1758203935913228
+  }
+}

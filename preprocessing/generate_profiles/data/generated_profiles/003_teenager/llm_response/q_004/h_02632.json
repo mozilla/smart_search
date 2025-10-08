@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "You Asked: Should I Eat Before or After a Workout? Illustration by Peter Oumanski for TIMEBy Markham Heid September 17, 2014TIME Health For more, visit TIME Health. Short answer: Both. Long answer: How and when to fuel your body is the same for all exercisers to some extent, but your routine may warrant a few nutritional tweaks, says Dr. Nancy Cohen",
+  "relevance_score": 0.2,
+  "binary_decision": 0,
+  "Decision_Reason": "The page discusses nutrition timing related to workouts, which is tangential to the broader query about strategies to get better at sports; it is not primarily about improving sports performance or training methods.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "You Asked: Should I Eat Before or After a Workout? Illustration by Peter Oumanski for TIMEBy Markham Heid September 17, 2014TIME Health For more, visit TIME Health. Short answer: Both. Long answer: How and when to fuel your body is the same for all exercisers to some extent, but your routine may warrant a few nutritional tweaks, says Dr. Nancy Cohen",
+  "history": {
+    "url": "http://time.com/3387314/eat-before-or-after-workout/",
+    "title": "You Asked: Should I Eat Before or After a Workout?",
+    "description": "Illustration by Peter Oumanski for TIMEBy Markham Heid September 17, 2014TIME Health For more, visit TIME Health. Short answer: Both. Long answer: How and when to fuel your body is the same for all exercisers to some extent, but your routine may warrant a few nutritional tweaks, says Dr. Nancy Cohen",
+    "frecency": 2281,
+    "url_hash": 22486770600409,
+    "last_visit_date": 1758203927920735
+  }
+}

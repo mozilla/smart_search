@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "How do I get digital satellite? How do I get digital satellite? Share Facebook Twitter In order to watch digital satellite TV, you\u2019ll need a dish to receive digital signals, a set-top box that can tune in and decode the signal, and a TV that can receive and display the signals from the box. You will also need to pay a subscription",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses digital satellite setup and subscription, not API integration or debugging APIs, so it is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "How do I get digital satellite? How do I get digital satellite? Share Facebook Twitter In order to watch digital satellite TV, you\u2019ll need a dish to receive digital signals, a set-top box that can tune in and decode the signal, and a TV that can receive and display the signals from the box. You will also need to pay a subscription",
+  "history": {
+    "url": "http://www.bbc.co.uk/webwise/guides/getting-satellite-tv",
+    "title": "How do I get digital satellite?",
+    "description": "How do I get digital satellite? Share Facebook Twitter In order to watch digital satellite TV, you\u2019ll need a dish to receive digital signals, a set-top box that can tune in and decode the signal, and a TV that can receive and display the signals from the box. You will also need to pay a subscription",
+    "frecency": 1830,
+    "url_hash": 31958107909917,
+    "last_visit_date": 1758203930060111
+  }
+}

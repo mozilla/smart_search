@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Purdy, MO USA.com / Missouri / Barry County / Purdy, MOPurdy, MOBasic Info Population/Races Income/Careers Housing Education Crime/Crime Rate Others Purdy is located in southwest Missouri. Purdy is part of Barry County. Purdy has 0.65 square miles of land area and has no water area. As of 2010-2014, the total",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes Purdy, Missouri demographics and geography, not anything related to debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Purdy, MO USA.com / Missouri / Barry County / Purdy, MOPurdy, MOBasic Info Population/Races Income/Careers Housing Education Crime/Crime Rate Others Purdy is located in southwest Missouri. Purdy is part of Barry County. Purdy has 0.65 square miles of land area and has no water area. As of 2010-2014, the total",
+  "history": {
+    "url": "http://www.usa.com/purdy-mo.htm",
+    "title": "Purdy, MO",
+    "description": "USA.com / Missouri / Barry County / Purdy, MOPurdy, MOBasic Info Population/Races Income/Careers Housing Education Crime/Crime Rate Others Purdy is located in southwest Missouri. Purdy is part of Barry County. Purdy has 0.65 square miles of land area and has no water area. As of 2010-2014, the total",
+    "frecency": 2051,
+    "url_hash": 98430956884569,
+    "last_visit_date": 1758203928632111
+  }
+}

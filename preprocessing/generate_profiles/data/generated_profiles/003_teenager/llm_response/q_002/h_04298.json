@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Gluten-Free Pasta with Homemade Tomato Sauce Gluten-Free Pasta with Homemade Tomato Sauce There are few things I love more than a heaping bowl of pasta swimming in a homemade tomato sauce. Couple that with a crusty loaf of bread doused in olive oil, fresh garlic and Parmesan, and I was once in heaven. Since my husband and I have become vegan,",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes gluten-free pasta recipes, not DIY room decoration ideas; it is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Gluten-Free Pasta with Homemade Tomato Sauce Gluten-Free Pasta with Homemade Tomato Sauce There are few things I love more than a heaping bowl of pasta swimming in a homemade tomato sauce. Couple that with a crusty loaf of bread doused in olive oil, fresh garlic and Parmesan, and I was once in heaven. Since my husband and I have become vegan,",
+  "history": {
+    "url": "http://yumuniverse.com/gluten-free-pasta-with-homemade-tomato-sauce/",
+    "title": "Gluten-Free Pasta with Homemade Tomato Sauce",
+    "description": "Gluten-Free Pasta with Homemade Tomato Sauce There are few things I love more than a heaping bowl of pasta swimming in a homemade tomato sauce. Couple that with a crusty loaf of bread doused in olive oil, fresh garlic and Parmesan, and I was once in heaven. Since my husband and I have become vegan, ",
+    "frecency": 546,
+    "url_hash": 5973823982219,
+    "last_visit_date": 1758203928388735
+  }
+}

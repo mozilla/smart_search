@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "HBO may price online-only subscription service at $15 a month \"HBO programming like \"\"Game of Thrones\"\" will soon be available without a cable package. But for how much is the question. HBOHBO's foray into the online-only television market may come with a heftier price tag than offerings from streaming competitors like Netflix. Following up on CEO and Chairman",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about HBO pricing and streaming service, not DIY room decoration ideas; not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "HBO may price online-only subscription service at $15 a month \"HBO programming like \"\"Game of Thrones\"\" will soon be available without a cable package. But for how much is the question. HBOHBO's foray into the online-only television market may come with a heftier price tag than offerings from streaming competitors like Netflix. Following up on CEO and Chairman",
+  "history": {
+    "url": "https://www.cnet.com/news/hbo-may-price-online-only-subscription-service-at-15-a-month/",
+    "title": "HBO may price online-only subscription service at $15 a month",
+    "description": "\"HBO programming like \"\"Game of Thrones\"\" will soon be available without a cable package. But for how much is the question. HBOHBO's foray into the online-only television market may come with a heftier price tag than offerings from streaming competitors like Netflix. Following up on CEO and Chairman",
+    "frecency": 3218,
+    "url_hash": 34879072740183,
+    "last_visit_date": 1758203928066735
+  }
+}

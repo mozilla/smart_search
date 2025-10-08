@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Freddie Highmore article about the actor Freddie Highmore, including birthplace and birthdate; not related to DIY room decoration ideas.",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page is about actor Freddie Highmore and does not relate to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Freddie Highmore \"Freddie Highmore Name Alfred Thomas Highmore Birthplace Camden, London, England, UKBirthdate February 14, 1992Character Norman Bates IMDB profile Freddie Highmore is an English actor who portrayed Norman Bates in Bates Motel . Contents [ show]Biography Early Life Highmore was born on February 14, 1",
+  "history": {
+    "url": "http://batesmotel.wikia.com/wiki/Freddie_Highmore",
+    "title": "Freddie Highmore",
+    "description": "\"Freddie Highmore Name Alfred Thomas Highmore Birthplace Camden, London, England, UKBirthdate February 14, 1992Character Norman Bates IMDB profile Freddie Highmore is an English actor who portrayed Norman Bates in Bates Motel . Contents [ show]Biography Early Life Highmore was born on February 14, 1",
+    "frecency": 2940,
+    "url_hash": 27834409136458,
+    "last_visit_date": 1758203935087228
+  }
+}

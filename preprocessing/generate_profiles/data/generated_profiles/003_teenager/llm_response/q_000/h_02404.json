@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "TV Shows TV Shows A-Z Full Episodes",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result appears to be about TV shows, with no evident connection to starting or managing a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "TV Shows TV Shows A-Z Full Episodes",
+  "history": {
+    "url": "https://www.discovery.com/tv-shows/",
+    "title": "TV Shows",
+    "description": "TV Shows A-Z Full Episodes ",
+    "frecency": 2541,
+    "url_hash": 42563520644591,
+    "last_visit_date": 1758203933777228
+  }
+}

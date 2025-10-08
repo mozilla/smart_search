@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "The world\u00e2s most advanced manufacturing \"The world\u2019s most advanced manufacturing Today silicon chips are everywhere. Intel creates industry-leading and world-first silicon products. These Intel\u00ae chips are some of the most complex devices ever manufactured, requiring advanced manufacturing technology. Step into a modern \"fab\" where Intel",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses semiconductor manufacturing and Intel chips, not Docker, containers, or software setup.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "The world\u00e2s most advanced manufacturing \"The world\u2019s most advanced manufacturing Today silicon chips are everywhere. Intel creates industry-leading and world-first silicon products. These Intel\u00ae chips are some of the most complex devices ever manufactured, requiring advanced manufacturing technology. Step into a modern \"\"fab\"\" where Intel",
+  "history": {
+    "url": "http://www.intel.com/content/www/us/en/history/museum-making-silicon.html",
+    "title": "The world\u00e2s most advanced manufacturing",
+    "description": "\"The world\u2019s most advanced manufacturing Today silicon chips are everywhere. Intel creates industry-leading and world-first silicon products. These Intel\u00ae chips are some of the most complex devices ever manufactured, requiring advanced manufacturing technology. Step into a modern \"\"fab\"\" where Intel",
+    "frecency": 3152,
+    "url_hash": 29455661719791,
+    "last_visit_date": 1758203930248111
+  }
+}

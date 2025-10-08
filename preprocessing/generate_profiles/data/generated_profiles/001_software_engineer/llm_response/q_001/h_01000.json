@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Career Education School Locations About Career Education Investor Relations Jobs at Career Education Corporate Contact American Inter Continental University Colorado Technical University",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result appears to be a general career education site with pages for institutions and corporate information; it does not relate to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Career Education School Locations About Career Education Investor Relations Jobs at Career Education Corporate Contact American Inter Continental University Colorado Technical University",
+  "history": {
+    "url": "http://www.careered.com/",
+    "title": "Career Education School Locations",
+    "description": "About Career Education Investor Relations Jobs at Career Education Corporate Contact American Inter Continental University Colorado Technical University ",
+    "frecency": 1431,
+    "url_hash": 12985829026285,
+    "last_visit_date": 1758203928614200
+  }
+}

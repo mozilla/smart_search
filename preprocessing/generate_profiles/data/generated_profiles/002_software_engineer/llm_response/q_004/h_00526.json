@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "[Tutorial] The OpenOffice User Profile \\\" [Tutorial] The Open Office User Profileby Hagar Delest \u00bb Sun Nov 23, 2008 1:06 am Most of the information below also applies to Libre Office and all the Open Office.org derivatives, you may have to adapt slightly the paths of this tutorial to the Libre/Neo/.../Office profile structure. All the dat",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses OpenOffice/OpenOffice.org User Profiles and LibreOffice, not Docker; therefore it is not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "[Tutorial] The OpenOffice User Profile \" [Tutorial] The Open Office User Profileby Hagar Delest \u00bb Sun Nov 23, 2008 1:06 am Most of the information below also applies to Libre Office and all the Open Office.org derivatives, you may have to adapt slightly the paths of this tutorial to the Libre/Neo/.../Office profile structure. All the dat",
+  "history": {
+    "url": "https://forum.openoffice.org/en/forum/viewtopic.php?f=74&t=12426",
+    "title": " [Tutorial] The OpenOffice User Profile",
+    "description": "\" [Tutorial] The Open Office User Profileby Hagar Delest \u00bb Sun Nov 23, 2008 1:06 am Most of the information below also applies to Libre Office and all the Open Office.org derivatives, you may have to adapt slightly the paths of this tutorial to the Libre/Neo/.../Office profile structure. All the dat",
+    "frecency": 4094,
+    "url_hash": 23023127287753,
+    "last_visit_date": 1758203929932111
+  }
+}

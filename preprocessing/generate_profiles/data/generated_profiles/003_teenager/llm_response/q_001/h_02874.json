@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "Incidents at Herschend parks \"This is a summary of notable incidents that have taken place at amusement parks, water parks or other attractions owned and/or operated by Herschend Family Entertainment Corporation. This list is not intended to be a comprehensive list of every such event, but only those that have a significant imp\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page discusses incidents at amusement parks, not TikTok trends; content is largely unrelated to the query.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "Incidents at Herschend parks \"This is a summary of notable incidents that have taken place at amusement parks, water parks or other attractions owned and/or operated by Herschend Family Entertainment Corporation. This list is not intended to be a comprehensive list of every such event, but only those that have a significant imp",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Incidents_at_Herschend_parks",
+    "title": "Incidents at Herschend parks",
+    "description": "\"This is a summary of notable incidents that have taken place at amusement parks, water parks or other attractions owned and/or operated by Herschend Family Entertainment Corporation. This list is not intended to be a comprehensive list of every such event, but only those that have a significant imp",
+    "frecency": 2005,
+    "url_hash": 81165735824177,
+    "last_visit_date": 1758203935435228
+  }
+}

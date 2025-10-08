@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "The Plan Collection introduces 3D printing of house plans \"The Plan Collection introduces 3D printing of house plans Mar.6, 2014From now on, home builders can use 3D printing to print out a 3D house plan. The Plan Collection, an online house plan provider, announces its new 3D printing of house plans enabling customers to print out a physical 3D house plan",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "Content unrelated to Docker; it's about 3D printing house plans.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "The Plan Collection introduces 3D printing of house plans \"The Plan Collection introduces 3D printing of house plans Mar.6, 2014From now on, home builders can use 3D printing to print out a 3D house plan. The Plan Collection, an online house plan provider, announces its new 3D printing of house plans enabling customers to print out a physical 3D house plan",
+  "history": {
+    "url": "http://www.3ders.org/articles/20140306-the-plan-collection-introduces-3d-printing-of-house-plans.html",
+    "title": "The Plan Collection introduces 3D printing of house plans",
+    "description": "\"The Plan Collection introduces 3D printing of house plans Mar.6, 2014From now on, home builders can use 3D printing to print out a 3D house plan. The Plan Collection, an online house plan provider, announces its new 3D printing of house plans enabling customers to print out a physical 3D house plan",
+    "frecency": 831,
+    "url_hash": 35080102045865,
+    "last_visit_date": 1758203928196111
+  }
+}

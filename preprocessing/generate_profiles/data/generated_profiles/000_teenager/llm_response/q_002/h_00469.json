@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Video: Weekend Warning \u00e2 featuring the Easter Chicken? Video: Weekend Warning \u2013 featuring the Easter Chicken? It\u2019s Easter Weekend in Chicago. And, on top of that, the Loyola Ramblers will be playing in the Final Four. Whether your plans involve family gatherings, getting together with friends to watch basketball, or any of various other activities, Viol",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Easter weekend events and basketball in Chicago, not DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Video: Weekend Warning \u00e2 featuring the Easter Chicken? Video: Weekend Warning \u2013 featuring the Easter Chicken? It\u2019s Easter Weekend in Chicago. And, on top of that, the Loyola Ramblers will be playing in the Final Four. Whether your plans involve family gatherings, getting together with friends to watch basketball, or any of various other activities, Viol",
+  "history": {
+    "url": "http://wgnradio.com/category/roe-conn/",
+    "title": "Video: Weekend Warning \u00e2 featuring the Easter Chicken?",
+    "description": "Video: Weekend Warning \u2013 featuring the Easter Chicken? It\u2019s Easter Weekend in Chicago. And, on top of that, the Loyola Ramblers will be playing in the Final Four. Whether your plans involve family gatherings, getting together with friends to watch basketball, or any of various other activities, Viol",
+    "frecency": 2888,
+    "url_hash": 39551058555184,
+    "last_visit_date": 1758203927925139
+  }
+}

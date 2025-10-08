@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Sunny Poipu, the Premiere Place for Shopping and Eating on Kauai Sunny Poipu, the Premiere Place for Shopping and Eating on Kauai By Coco Zickos | Favorite This Malie Organics boutique in The Shops at Kukuiula at Poipu. Photo courtesy of Malie Organics. Kaua\u2018i is known for its astounding natural beauty, but did you know the Garden Isle also has exceptional shoppi",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns shopping and travel in Kauai, not database query optimization; it is not relevant to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Sunny Poipu, the Premiere Place for Shopping and Eating on Kauai Sunny Poipu, the Premiere Place for Shopping and Eating on Kauai By Coco Zickos | Favorite This Malie Organics boutique in The Shops at Kukuiula at Poipu. Photo courtesy of Malie Organics. Kaua\u2018i is known for its astounding natural beauty, but did you know the Garden Isle also has exceptional shoppi",
+  "history": {
+    "url": "https://www.hawaii.com/kauai/places/poipu/",
+    "title": "Sunny Poipu, the Premiere Place for Shopping and Eating on Kauai",
+    "description": "Sunny Poipu, the Premiere Place for Shopping and Eating on Kauai By Coco Zickos | Favorite This Malie Organics boutique in The Shops at Kukuiula at Poipu. Photo courtesy of Malie Organics. Kaua\u2018i is known for its astounding natural beauty, but did you know the Garden Isle also has exceptional shoppi",
+    "frecency": 1150,
+    "url_hash": 28036260239049,
+    "last_visit_date": 1758203932000111
+  }
+}

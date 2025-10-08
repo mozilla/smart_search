@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "Police Academy  (film) \"Police Academy (film)From Wikipedia, the free encyclopedia navigation search Police Academy Theatrical release poster by Drew Struzan Directed by Hugh Wilson Produced by Paul Maslansky Screenplay by Neal Israel Pat Proft Hugh Wilson Story by Neal Israel Pat Proft Starring Steve Guttenberg Kim Cattra",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes the Police Academy film, not TikTok trends; it is not relevant to the query.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "Police Academy  (film) \"Police Academy (film)From Wikipedia, the free encyclopedianavigation search Police Academy Theatrical release poster by Drew Struzan Directed by Hugh Wilson Produced by Paul Maslansky Screenplay by Neal Israel Pat Proft Hugh Wilson Story by Neal Israel Pat Proft Starring Steve Guttenberg Kim Cattra",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Police_Academy_(film)",
+    "title": "Police Academy  (film)",
+    "description": "\"Police Academy (film)From Wikipedia, the free encyclopedianavigation search Police Academy Theatrical release poster by Drew Struzan Directed by Hugh Wilson Produced by Paul Maslansky Screenplay by Neal Israel Pat Proft Hugh Wilson Story by Neal Israel Pat Proft Starring Steve Guttenberg Kim Cattra",
+    "frecency": 3323,
+    "url_hash": 44137313419753,
+    "last_visit_date": 1758203932227228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Audit Policy \\\"Docs Previous Versions Windows Windows Vista Windows Vista Technical Library Roadmap Security and Protection Threats and Vulnerabilities Mitigation Threats and Countermeasures Guide: Security Settings in Windows Server 2003 and Windows Vista Audit Policy Audit Policy August 5, 2008 28 minutes to re",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Windows audit policy and security settings, not IDEs or software development environments.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Audit Policy \"Docs Previous Versions Windows Windows Vista Windows Vista Technical Library Roadmap Security and Protection Threats and Vulnerabilities Mitigation Threats and Countermeasures Guide: Security Settings in Windows Server 2003 and Windows Vista Audit Policy Audit Policy August 5, 2008 28 minutes to re",
+  "history": {
+    "url": "https://technet.microsoft.com/en-us/library/cc766468(v=ws.10).aspx",
+    "title": "Audit Policy",
+    "description": "\"Docs Previous Versions Windows Windows Vista Windows Vista Technical Library Roadmap Security and Protection Threats and Vulnerabilities Mitigation Threats and Countermeasures Guide: Security Settings in Windows Server 2003 and Windows Vista Audit Policy Audit Policy August 5, 2008 28 minutes to re",
+    "frecency": 324,
+    "url_hash": 71372854278419,
+    "last_visit_date": 1758203931876111
+  }
+}

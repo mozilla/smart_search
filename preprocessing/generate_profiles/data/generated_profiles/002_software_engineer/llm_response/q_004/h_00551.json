@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "LOOP Statements \"LOOP Statements A LOOP statement executes a sequence of statements multiple times. PL/SQL provides these loop statements: Basic loop WHILE loop FOR loop Cursor FOR loop Syntaxbasic_loop_statement ::=Description of the illustration basic_loop_statement.gifwhile_loop_statement ::=Description of the i",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "Retrieved result discusses LOOP statements in PL/SQL, not Docker or container setup.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "LOOP Statements \"LOOP Statements A LOOP statement executes a sequence of statements multiple times. PL/SQL provides these loop statements: Basic loop WHILE loop FOR loop Cursor FOR loop Syntaxbasic_loop_statement ::=Description of the illustration basic_loop_statement.gifwhile_loop_statement ::=Description of the i",
+  "history": {
+    "url": "https://docs.oracle.com/cd/B28359_01/appdev.111/b28370/loop_statement.htm",
+    "title": "LOOP Statements",
+    "description": "\"LOOP Statements A LOOP statement executes a sequence of statements multiple times. PL/SQL provides these loop statements: Basic loop WHILE loop FOR loop Cursor FOR loop Syntaxbasic_loop_statement ::=Description of the illustration basic_loop_statement.gifwhile_loop_statement ::=Description of the i",
+    "frecency": 4054,
+    "url_hash": 55240292469065,
+    "last_visit_date": 1758203930286111
+  }
+}

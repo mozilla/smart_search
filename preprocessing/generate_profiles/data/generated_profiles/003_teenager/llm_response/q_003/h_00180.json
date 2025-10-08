@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Movie times + Ticketsnear martinez, ca Movie times + Ticketsnear martinez, ca All theaters Fandango Ticketing Theaters My theaters ENTER CITY, STATE OR ZIP CODEGOToday Apr11Thur Apr12Fri Apr13Sat Apr14Sun Apr15Mon Apr16Tues Apr17Wed Apr18Thur Apr19Fri Apr20Sat Apr21Sun Apr22Mon Apr23Tues Apr24Wed Apr25Thur Apr26Fri Apr27Sat Apr28Sun Apr2",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about movie showtimes and tickets, not about apps for improving study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Movie times + Ticketsnear martinez, ca Movie times + Ticketsnear martinez, ca All theaters Fandango Ticketing Theaters My theaters ENTER CITY, STATE OR ZIP CODEGOToday Apr11Thur Apr12Fri Apr13Sat Apr14Sun Apr15Mon Apr16Tues Apr17Wed Apr18Thur Apr19Fri Apr20Sat Apr21Sun Apr22Mon Apr23Tues Apr24Wed Apr25Thur Apr26Fri Apr27Sat Apr28Sun Apr2",
+  "history": {
+    "url": "http://www.fandango.com/martinez_+ca_movietimes",
+    "title": "Movie times + Ticketsnear martinez, ca",
+    "description": "Movie times + Ticketsnear martinez, ca All theaters Fandango Ticketing Theaters My theaters ENTER CITY, STATE OR ZIP CODEGOToday Apr11Thur Apr12Fri Apr13Sat Apr14Sun Apr15Mon Apr16Tues Apr17Wed Apr18Thur Apr19Fri Apr20Sat Apr21Sun Apr22Mon Apr23Tues Apr24Wed Apr25Thur Apr26Fri Apr27Sat Apr28Sun Apr2",
+    "frecency": 4818,
+    "url_hash": 66707795465451,
+    "last_visit_date": 1758203927926735
+  }
+}

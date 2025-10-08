@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Miami Beach Hotels Miami Beach Hotels Soak up the sizzling sun at the beach, or live the high-life on Ocean Drive just minutes from our very best Miami Beach hotels. Highlighted Hotels Courtyard Miami Beach South Beach3.9 447 Reviews View Rates View Rates AC Hotel Miami Beach4 265 Reviews View Rates Discover more hote",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes hotels in Miami Beach, not DIY room decoration ideas; content is unrelated to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Miami Beach Hotels Miami Beach Hotels Soak up the sizzling sun at the beach, or live the high-life on Ocean Drive just minutes from our very best Miami Beach hotels. Highlighted Hotels Courtyard Miami Beach South Beach3.9 447 Reviews View Rates View Rates AC Hotel Miami Beach4 265 Reviews View Rates Discover more hote",
+  "history": {
+    "url": "http://www.marriott.com/hotel-search/miami-beach.hotels.florida.united-states.travel/",
+    "title": "Miami Beach Hotels",
+    "description": "Miami Beach Hotels Soak up the sizzling sun at the beach, or live the high-life on Ocean Drive just minutes from our very best Miami Beach hotels. Highlighted Hotels Courtyard Miami Beach South Beach3.9 447 Reviews View Rates View Rates AC Hotel Miami Beach4 265 Reviews View Rates Discover more hote",
+    "frecency": 2900,
+    "url_hash": 59684410062680,
+    "last_visit_date": 1758203927240735
+  }
+}

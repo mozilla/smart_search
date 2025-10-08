@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "ExpenseNet\u00c2\u00ae Services More than just software. No add-on modules to pay for or learn how to use. We all know the real costs involved in business expense management occur behind the scenes. Only Expense Net offers an entire suite of expense management services, in addition to our automated expense management and reporting",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns expense management services, not database query optimization, so it is not relevant to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "ExpenseNet\u00c2\u00ae Services More than just software. No add-on modules to pay for or learn how to use. We all know the real costs involved in business expense management occur behind the scenes. Only Expense Net offers an entire suite of expense management services, in addition to our automated expense management and reporting",
+  "history": {
+    "url": "http://www.interplx.com/p-card/",
+    "title": "ExpenseNet\u00c2\u00ae Services",
+    "description": "More than just software. No add-on modules to pay for or learn how to use. We all know the real costs involved in business expense management occur behind the scenes. Only Expense Net offers an entire suite of expense management services, in addition to our automated expense management and reporting",
+    "frecency": 1068,
+    "url_hash": 2646571558930,
+    "last_visit_date": 1758203929010200
+  }
+}

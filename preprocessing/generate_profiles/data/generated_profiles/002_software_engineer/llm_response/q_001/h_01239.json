@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Qualifying Epson Products EPEAT \u00aeRegistered Products EPEAT is a comprehensive environmental rating and global registry that helps identify greener electronic equipment. It's an easy-to-use resource for purchasers, manufacturers, resellers and others wanting to find and promote environmentally preferable products.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses environmental ratings for Epson products (EPEAT) and not Python libraries or machine learning, so it is not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Qualifying Epson Products EPEAT \u00aeRegistered Products EPEAT is a comprehensive environmental rating and global registry that helps identify greener electronic equipment. It's an easy-to-use resource for purchasers, manufacturers, resellers and others wanting to find and promote environmentally preferable products.",
+  "history": {
+    "url": "http://www.epson.com/epeat",
+    "title": "Qualifying Epson Products",
+    "description": "EPEAT \u00aeRegistered Products EPEAT is a comprehensive environmental rating and global registry that helps identify greener electronic equipment. It's an easy-to-use resource for purchasers, manufacturers, resellers and others wanting to find and promote environmentally preferable products. ",
+    "frecency": 2781,
+    "url_hash": 93068395470105,
+    "last_visit_date": 1758203928566111
+  }
+}

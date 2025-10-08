@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "\"\"\"Dream Boogie\"\"\" \"\"\"Dream Boogie\"\"\"This poem is about a boy who asks whether you have heard the boogie-woogie rumble of a dream deferred. It asks the reader to listen closely to the beating out of a beat which the \"\"you\"\" of the poem has assumed is a happy beat. Hughes uses the framework of bebop jazz by using quick",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a poem analysis, not about sports or improving athletic performance; therefore not relevant to the query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "\"\"\"Dream Boogie\"\"\" \"\"\"Dream Boogie\"\"This poem is about a boy who asks whether you have heard the boogie-woogie rumble of a dream deferred. It asks the reader to listen closely to the beating out of a beat which the \"\"you\"\" of the poem has assumed is a happy beat. Hughes uses the framework of bebop jazz by using quick",
+  "history": {
+    "url": "http://honorslitfinal.weebly.com/dream-boogie.html",
+    "title": "\"\"\"Dream Boogie\"\"\"",
+    "description": "\"\"\"Dream Boogie\"\"This poem is about a boy who asks whether you have heard the boogie-woogie rumble of a dream deferred. It asks the reader to listen closely to the beating out of a beat which the \"\"you\"\" of the poem has assumed is a happy beat. Hughes uses the framework of bebop jazz by using quick ",
+    "frecency": 3652,
+    "url_hash": 36799021537159,
+    "last_visit_date": 1758203936437727
+  }
+}

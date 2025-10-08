@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Go to Johanson Dielectrics website \\\"Advanced Monolythic Ceramics, Inc. was a leading supplier of ceramic planar array and discoidal capacitor EMI filters. We have served the Aerospace, Biomedical, Military, Satellite, Industrial and Communication electronics industries since 1994. In 2002, AMC was acquired by Johanson Dielectrics, In",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses ceramic dielectrics and EMI filters, not database query optimization, indicating irrelevance to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Go to Johanson Dielectrics website \"Advanced Monolythic Ceramics, Inc. was a leading supplier of ceramic planar array and discoidal capacitor EMI filters. We have served the Aerospace, Biomedical, Military, Satellite, Industrial and Communication electronics industries since 1994. In 2002, AMC was acquired by Johanson Dielectrics, In",
+  "history": {
+    "url": "http://www.amccaps.com/",
+    "title": "Go to Johanson Dielectrics website",
+    "description": "\"Advanced Monolythic Ceramics, Inc. was a leading supplier of ceramic planar array and discoidal capacitor EMI filters. We have served the Aerospace, Biomedical, Military, Satellite, Industrial and Communication electronics industries since 1994. In 2002, AMC was acquired by Johanson Dielectrics, In",
+    "frecency": 3626,
+    "url_hash": 58548176518216,
+    "last_visit_date": 1758203927588111
+  }
+}

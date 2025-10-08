@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "California Theft/Shoplifting Laws California Theft/Shoplifting Laws Theft and shoplifting are the most commonly prosecuted property crimes in California. Whether you left a store and forgot to pay for something or even if a lapse in judgment found you with stolen property, we can help. Sometimes in life we do things we later regret.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses California theft and shoplifting laws, not Docker setup for beginners, indicating no relevance to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "California Theft/Shoplifting Laws California Theft/Shoplifting Laws Theft and shoplifting are the most commonly prosecuted property crimes in California. Whether you left a store and forgot to pay for something or even if a lapse in judgment found you with stolen property, we can help. Sometimes in life we do things we later regret.",
+  "history": {
+    "url": "http://www.mycaliforniadefenselawyer.com/criminal-charges/theft-shoplifting/",
+    "title": "California Theft/Shoplifting Laws",
+    "description": "California Theft/Shoplifting Laws Theft and shoplifting are the most commonly prosecuted property crimes in California. Whether you left a store and forgot to pay for something or even if a lapse in judgment found you with stolen property, we can help. Sometimes in life we do things we later regret.",
+    "frecency": 3224,
+    "url_hash": 68681697584131,
+    "last_visit_date": 1758203931004111
+  }
+}

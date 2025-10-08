@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Manufacturing Safety Meetings You and your workers need to conduct manufacturing safety meetings if you want to avoid lawsuits and establish a safe working environment. These manufacturing safety meetings are important since they impart to your workers all the necessary information about safety in the manufacturing industry. You",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses manufacturing safety meetings and safety in manufacturing, not Docker, containers, or setup guidance for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Manufacturing Safety Meetings You and your workers need to conduct manufacturing safety meetings if you want to avoid lawsuits and establish a safe working environment. These manufacturing safety meetings are important since they impart to your workers all the necessary information about safety in the manufacturing industry. You",
+  "history": {
+    "url": "https://www.safetyservicescompany.com/topic/training/manufacturing-safety-meetings/",
+    "title": "Manufacturing Safety Meetings",
+    "description": "You and your workers need to conduct manufacturing safety meetings if you want to avoid lawsuits and establish a safe working environment. These manufacturing safety meetings are important since they impart to your workers all the necessary information about safety in the manufacturing industry. You",
+    "frecency": 1418,
+    "url_hash": 80670831501261,
+    "last_visit_date": 1758203930762111
+  }
+}

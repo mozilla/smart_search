@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Why do people want to live in Iceland? \"James Hollomon, Web Developer, Yahoo! Store Developer, Science maven. Updated Feb 11, 2015 \u00b7 Author has 3.1k answers and 4.1m answer views I'm not Icelandic, but I've been to Reykjavik. Yes, it sits atop a hot-spot that could wipe the entire landmass off the face of the map. But then the Yellowston",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Iceland, not top IDEs or software development. It is not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Why do people want to live in Iceland? \"James Hollomon, Web Developer, Yahoo! Store Developer, Science maven. Updated Feb 11, 2015 \u00b7 Author has 3.1k answers and 4.1m answer views I'm not Icelandic, but I've been to Reykjavik. Yes, it sits atop a hot-spot that could wipe the entire landmass off the face of the map. But then the Yellowston",
+  "history": {
+    "url": "https://www.quora.com/Why-do-people-want-to-live-in-Iceland",
+    "title": "Why do people want to live in Iceland?",
+    "description": "\"James Hollomon, Web Developer, Yahoo! Store Developer, Science maven. Updated Feb 11, 2015 \u00b7 Author has 3.1k answers and 4.1m answer views I'm not Icelandic, but I've been to Reykjavik. Yes, it sits atop a hot-spot that could wipe the entire landmass off the face of the map. But then the Yellowston",
+    "frecency": 2935,
+    "url_hash": 76308545644052,
+    "last_visit_date": 1758203929228200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Using ROBOCOPY to MOVE data around, not copy it \\\"_Server Fault is a question and answer site for system and network administrators. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Using ROBOCOPY to MOVE data around, not copy itup vote4d",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses ROBOCOPY and Server Fault, which are unrelated to Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Using ROBOCOPY to MOVE data around, not copy it \"_Server Fault is a question and answer site for system and network administrators. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Using ROBOCOPY to MOVE data around, not copy itup vote4d",
+  "history": {
+    "url": "https://serverfault.com/questions/233612/using-robocopy-to-move-data-around-not-copy-it",
+    "title": "Using ROBOCOPY to MOVE data around, not copy it",
+    "description": "\"_Server Fault is a question and answer site for system and network administrators. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Using ROBOCOPY to MOVE data around, not copy itup vote4d",
+    "frecency": 3041,
+    "url_hash": 62532534354166,
+    "last_visit_date": 1758203927848111
+  }
+}

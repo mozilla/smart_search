@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Inside the Billion-Dollar Battle for Puerto Rico\u00e2s Future \"The exclusive Condado neighborhood of San Juan in Puerto Rico, seen from the Caribe Hilton. Tax breaks have drawn an influx of wealthy financial professionals to the area. Christopher Gregory for The New York Times Inside the Billion-Dollar Battle for Puerto Rico\u2019s Future By JONATHAN MAHLER and NIC",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved article is about Puerto Rico's politics/economy and real estate development, not about database queries or database optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Inside the Billion-Dollar Battle for Puerto Rico\u00e2s Future \"The exclusive Condado neighborhood of San Juan in Puerto Rico, seen from the Caribe Hilton. Tax breaks have drawn an influx of wealthy financial professionals to the area. Christopher Gregory for The New York Times Inside the Billion-Dollar Battle for Puerto Rico\u2019s Future By JONATHAN MAHLER and NIC",
+  "history": {
+    "url": "https://www.nytimes.com/2015/12/20/us/politics/puerto-rico-money-debt.html",
+    "title": "Inside the Billion-Dollar Battle for Puerto Rico\u00e2s Future",
+    "description": "\"The exclusive Condado neighborhood of San Juan in Puerto Rico, seen from the Caribe Hilton. Tax breaks have drawn an influx of wealthy financial professionals to the area. Christopher Gregory for The New York Times Inside the Billion-Dollar Battle for Puerto Rico\u2019s Future By JONATHAN MAHLER and NIC",
+    "frecency": 4644,
+    "url_hash": 12683225115111,
+    "last_visit_date": 1758203927346111
+  }
+}

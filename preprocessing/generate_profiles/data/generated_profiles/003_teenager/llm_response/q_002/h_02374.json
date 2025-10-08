@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Highest Paid DJs The Highest Paid DJs have in the last year significantly increased their incomes in Vegas. As the popularity of electronic dance music has grown so has the salaries of the top tier DJ/producers. Only a couple of years ago the only place that you could see this many world famous DJ/producers was Ibiz",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses DJs' salaries and EDM, not DIY room decoration ideas; it is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Highest Paid DJs The Highest Paid DJs have in the last year significantly increased their incomes in Vegas. As the popularity of electronic dance music has grown so has the salaries of the top tier DJ/producers. Only a couple of years ago the only place that you could see this many world famous DJ/producers was Ibiz",
+  "history": {
+    "url": "https://vegaspoolseason.com/highest-paid-djs.html",
+    "title": "Highest Paid DJs",
+    "description": "The Highest Paid DJs have in the last year significantly increased their incomes in Vegas. As the popularity of electronic dance music has grown so has the salaries of the top tier DJ/producers. Only a couple of years ago the only place that you could see this many world famous DJ/producers was Ibiz",
+    "frecency": 2567,
+    "url_hash": 37981018858914,
+    "last_visit_date": 1758203930151228
+  }
+}

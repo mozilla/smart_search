@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Who is Christopher Steele, former MI-6 spy who wrote explosive Trump-Russia dossier? Who is Christopher Steele, former MI-6 spy who wrote explosive Trump-Russia dossier? PUBLISHED : Thursday, 12 January, 2017, 3:03pm UPDATED : Thursday, 12 January, 2017, 10:16pm Comment: 1The headquarters of Britain's Secret Intelligence Service, MI-6, on the bank of the Thames in central London. Co",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is unrelated to Docker setup or beginner-level instructions; it discusses Christopher Steele and MI-6.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Who is Christopher Steele, former MI-6 spy who wrote explosive Trump-Russia dossier? Who is Christopher Steele, former MI-6 spy who wrote explosive Trump-Russia dossier? PUBLISHED : Thursday, 12 January, 2017, 3:03pm UPDATED : Thursday, 12 January, 2017, 10:16pm Comment: 1The headquarters of Britain's Secret Intelligence Service, MI-6, on the bank of the Thames in central London. Co",
+  "history": {
+    "url": "http://www.scmp.com/news/world/united-states-canada/article/2061564/who-christopher-steele-former-mi-6-spy-who-wrote",
+    "title": "Who is Christopher Steele, former MI-6 spy who wrote explosive Trump-Russia dossier?",
+    "description": "Who is Christopher Steele, former MI-6 spy who wrote explosive Trump-Russia dossier? PUBLISHED : Thursday, 12 January, 2017, 3:03pm UPDATED : Thursday, 12 January, 2017, 10:16pm Comment: 1The headquarters of Britain's Secret Intelligence Service, MI-6, on the bank of the Thames in central London. Co",
+    "frecency": 4570,
+    "url_hash": 26845170066154,
+    "last_visit_date": 1758203931022111
+  }
+}

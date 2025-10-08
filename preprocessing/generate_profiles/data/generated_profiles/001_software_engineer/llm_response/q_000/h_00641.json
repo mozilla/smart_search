@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Fall City, WA Weather USA.com / Washington / King County / Fall City, WA / Weather Fall City, WA Weather Basic Info Population/Races Income/Careers Housing Education Others Weather | Natural Extremes | Air Quality | Environmental Watch Hot Rankings Fastest / Slowest Growing Cities Nearby Best / Worst Cities by Crime Rate",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page is about weather and city information, not about debugging or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Fall City, WA Weather USA.com / Washington / King County / Fall City, WA / Weather Fall City, WA Weather Basic Info Population/Races Income/Careers Housing Education Others Weather | Natural Extremes | Air Quality | Environmental Watch Hot Rankings Fastest / Slowest Growing Cities Nearby Best / Worst Cities by Crime Rate",
+  "history": {
+    "url": "http://www.usa.com/fall-city-wa-weather.htm",
+    "title": "Fall City, WA Weather",
+    "description": "USA.com / Washington / King County / Fall City, WA / Weather Fall City, WA Weather Basic Info Population/Races Income/Careers Housing Education Others Weather | Natural Extremes | Air Quality | Environmental Watch Hot Rankings Fastest / Slowest Growing Cities Nearby Best / Worst Cities by Crime Rate",
+    "frecency": 2805,
+    "url_hash": 58544537720121,
+    "last_visit_date": 1758203929384200
+  }
+}

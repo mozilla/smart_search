@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Permission Issues Opening/Editing Office Web Apps Documents SharePoint 2013 \"Permission Issues Opening/Editing Office Web Apps Documents Share Point 2013Symptoms: Users provided access to Share Point through Active Directory (AD) Security Groups may not be able to edit documents via the browser using Office Web Apps (OWA) without error. In this scenario, the error from the",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses SharePoint permissions and Office Web Apps, not Python libraries or machine learning; therefore it is not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Permission Issues Opening/Editing Office Web Apps Documents SharePoint 2013 \"Permission Issues Opening/Editing Office Web Apps Documents Share Point 2013Symptoms: Users provided access to Share Point through Active Directory (AD) Security Groups may not be able to edit documents via the browser using Office Web Apps (OWA) without error. In this scenario, the error from the",
+  "history": {
+    "url": "http://chiqnlips.blogspot.com/2015/03/permission-issues-openingediting-office.html",
+    "title": "Permission Issues Opening/Editing Office Web Apps Documents SharePoint 2013",
+    "description": "\"Permission Issues Opening/Editing Office Web Apps Documents Share Point 2013Symptoms: Users provided access to Share Point through Active Directory (AD) Security Groups may not be able to edit documents via the browser using Office Web Apps (OWA) without error. In this scenario, the error from the ",
+    "frecency": 893,
+    "url_hash": 43962705871960,
+    "last_visit_date": 1758203928446200
+  }
+}

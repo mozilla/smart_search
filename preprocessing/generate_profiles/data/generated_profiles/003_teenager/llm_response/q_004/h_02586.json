@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Type 2 Diabetics Still Face Elevated Death Risk \u2014 article about health risks for diabetics; not about improving athletic performance.",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The result discusses diabetes health risks and general lifestyle advice, not sports performance improvement.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Type 2 Diabetics Still Face Elevated Death Risk \"Type 2 Diabetics Still Face Elevated Death Risk That's why it's imperative to eat right, control blood pressure and cholesterol, quit smoking, doctors say From the Web MD Archives By Dennis Thompson Health Day Reporter WEDNESDAY, Oct. 28, 2015 (Health Day News) -- Medical science has made tremendou",
+  "history": {
+    "url": "http://www.webmd.com/diabetes/news/20151028/despite-advances-type-2-diabetics-still-face-elevated-death-risk-study",
+    "title": "Type 2 Diabetics Still Face Elevated Death Risk",
+    "description": "\"Type 2 Diabetics Still Face Elevated Death Risk That's why it's imperative to eat right, control blood pressure and cholesterol, quit smoking, doctors say From the Web MD Archives By Dennis Thompson Health Day Reporter WEDNESDAY, Oct. 28, 2015 (Health Day News) -- Medical science has made tremendou",
+    "frecency": 2341,
+    "url_hash": 63642031072890,
+    "last_visit_date": 1758203928964735
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Metro Detroit filmmaker turns her camera on bullies (Photo: handout) CONNECT TWEET LINKEDIN COMMENT EMAIL MORE A camera scans an empty high school hall and a row of desks as taunts can be heard in voice-over. Seriously, Jessica, an unseen girl says, if you disappeared, the world would be a better place. Just go end yourself. The trailer for",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns a film about bullying and does not relate to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Metro Detroit filmmaker turns her camera on bullies \" (Photo: handout)CONNECT TWEET LINKEDIN COMMENT EMAIL MOREA camera scans an empty high school hall and a row of desks as taunts can be heard in voice-over. \"\"Seriously, Jessica,\"\" an unseen girl says, \"\"if you disappeared, the world would be a better place. Just go end yourself. \"\"The trailer for \"",
+  "history": {
+    "url": "http://www.freep.com/story/entertainment/movies/2015/03/25/movie-metro-detroit-bullying-girl-like-amy-weber/70389800/",
+    "title": "Metro Detroit filmmaker turns her camera on bullies",
+    "description": "\" (Photo: handout)CONNECT TWEET LINKEDIN COMMENT EMAIL MOREA camera scans an empty high school hall and a row of desks as taunts can be heard in voice-over. \"\"Seriously, Jessica,\"\" an unseen girl says, \"\"if you disappeared, the world would be a better place. Just go end yourself. \"\"The trailer for \"",
+    "frecency": 4609,
+    "url_hash": 45054705960867,
+    "last_visit_date": 1758203930384111
+  }
+}

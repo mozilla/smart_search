@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Phenylketonuria Description Phenylketonuria (commonly known as PKU) is an inherited disorder that increases the levels of a substance called phenylalanine in the blood. Phenylalanine is a building block of proteins ( an amino acid) that is obtained through the diet. It is found in all proteins and in some artificia",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes Phenylketonuria (PKU), a medical condition, and has no content related to easy DIY room decoration ideas. It is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Phenylketonuria Description Phenylketonuria (commonly known as PKU) is an inherited disorder that increases the levels of a substance called phenylalanine in the blood. Phenylalanine is a building block of proteins ( an amino acid) that is obtained through the diet. It is found in all proteins and in some artificia",
+  "history": {
+    "url": "http://ghr.nlm.nih.gov/condition/phenylketonuria",
+    "title": "Phenylketonuria",
+    "description": "Description Phenylketonuria (commonly known as PKU) is an inherited disorder that increases the levels of a substance called phenylalanine in the blood. Phenylalanine is a building block of proteins ( an amino acid) that is obtained through the diet. It is found in all proteins and in some artificia",
+    "frecency": 3729,
+    "url_hash": 51047235751836,
+    "last_visit_date": 1758203927656735
+  }
+}

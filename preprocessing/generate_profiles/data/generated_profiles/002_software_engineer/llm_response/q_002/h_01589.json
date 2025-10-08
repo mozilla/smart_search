@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "What type of rock is the Earth's crust made of? Paul Jones Owner of Jones Mineral Cabinet, Geology and Paleontology Supervisor, interested in Earth and Planetary sciences What type of rock is the Earth's crust made of? The Earth's crust is composed of all three rock types; igneous, metamorphic, and sedimentary. The bulk of it is igneous. Paul Jo",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses geology and rocks, not IDEs or software development; it is unrelated to the query about top IDEs.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "What type of rock is the Earth's crust made of? \"Paul Jones Owner of Jones Mineral Cabinet, Geology and Paleontology Supervisor, interested in Earth and Planetary sciences What type of rock is the Earth's crust made of? The Earth's crust is composed of all three rock types; igneous, metamorphic, and sedimentary. The bulk of it is igneous. Paul Jo",
+  "history": {
+    "url": "http://www.answers.com/Q/What_is_the_most_common_type_of_rock_in_the_earth's_crust",
+    "title": "What type of rock is the Earth's crust made of?",
+    "description": "\"Paul Jones Owner of Jones Mineral Cabinet, Geology and Paleontology Supervisor, interested in Earth and Planetary sciences What type of rock is the Earth's crust made of? The Earth's crust is composed of all three rock types; igneous, metamorphic, and sedimentary. The bulk of it is igneous. Paul Jo",
+    "frecency": 2133,
+    "url_hash": 13556413547085,
+    "last_visit_date": 1758203927574111
+  }
+}

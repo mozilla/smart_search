@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "The Complex Case of the RMS Lusitania \"The Complex Case of the RMS Lusitania\"\"The Germans have been trying to spoil our trade for some time, but never until today have they manifested such an actively friendly desire to put us out of business. I anticipate that from this time on every German method that can be devised will be used to ke",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about the RMS Lusitania and not about Docker, so it is not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "The Complex Case of the RMS Lusitania \"The Complex Case of the RMS Lusitania\"\"The Germans have been trying to spoil our trade for some time, but never until today have they manifested such an actively friendly desire to put us out of business. I anticipate that from this time on every German method that can be devised will be used to ke",
+  "history": {
+    "url": "https://wwionline.org/articles/complex-case-rms-lusitania/",
+    "title": "The Complex Case of the RMS Lusitania",
+    "description": "\"The Complex Case of the RMS Lusitania\"\"The Germans have been trying to spoil our trade for some time, but never until today have they manifested such an actively friendly desire to put us out of business. I anticipate that from this time on every German method that can be devised will be used to ke",
+    "frecency": 1625,
+    "url_hash": 88289631857763,
+    "last_visit_date": 1758203928942200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Alexander Graham Bell Family Papers at the Library of Congress, 1862-1939 History \"Print Subscribe Share/Save Give Feedback Alexander Graham Bell Family Papers at the Library of Congress, 1862-1939 History [Detail] Alexander Graham Bell's design sketch of the telephone Overview | History | Critical Thinking | Arts & Humanities Bell: A Man of Broad Knowledge | Assisting the Deaf:",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns Alexander Graham Bell and historical archive material, not sports or how to improve athletic performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Alexander Graham Bell Family Papers at the Library of Congress, 1862-1939 History \"Print Subscribe Share/Save Give Feedback Alexander Graham Bell Family Papers at the Library of Congress, 1862-1939 History [Detail] Alexander Graham Bell's design sketch of the telephone Overview | History | Critical Thinking | Arts & Humanities Bell: A Man of Broad Knowledge | Assisting the Deaf:",
+  "history": {
+    "url": "http://loc.gov/teachers/classroommaterials/connections/alexander-graham-bell/history3.html",
+    "title": "Alexander Graham Bell Family Papers at the Library of Congress, 1862-1939 History",
+    "description": "\"Print Subscribe Share/Save Give Feedback Alexander Graham Bell Family Papers at the Library of Congress, 1862-1939 History [Detail] Alexander Graham Bell's design sketch of the telephone Overview | History | Critical Thinking | Arts & Humanities Bell: A Man of Broad Knowledge | Assisting the Deaf: ",
+    "frecency": 1738,
+    "url_hash": 30624190639902,
+    "last_visit_date": 1758203931273228
+  }
+}

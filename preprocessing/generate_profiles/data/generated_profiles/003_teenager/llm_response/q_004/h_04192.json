@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Sfumato Sfumato, (from Italian sfumare, \u201cto tone down\u201d or \u201cto evaporate like smoke\u201d), in painting or drawing, the fine shading that produces soft, imperceptible transitions between colours and tones. It is used most often in connection with the work of Leonardo da Vinci and his followers, who made subtle gr",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses sfumato in art, not improving sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Sfumato Sfumato, (from Italian sfumare, \u201cto tone down\u201d or \u201cto evaporate like smoke\u201d), in painting or drawing, the fine shading that produces soft, imperceptible transitions between colours and tones. It is used most often in connection with the work of Leonardo da Vinci and his followers, who made subtle gr",
+  "history": {
+    "url": "https://www.britannica.com/art/sfumato",
+    "title": "Sfumato",
+    "description": "Sfumato, (from Italian sfumare, \u201cto tone down\u201d or \u201cto evaporate like smoke\u201d), in painting or drawing, the fine shading that produces soft, imperceptible transitions between colours and tones. It is used most often in connection with the work of Leonardo da Vinci and his followers, who made subtle gr",
+    "frecency": 648,
+    "url_hash": 69019559001413,
+    "last_visit_date": 1758203930527228
+  }
+}

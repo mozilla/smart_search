@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Connect to Central Connect to Central Building strong connections that last a lifetime. News View All Events Outdoor Recreation Center The time is right for an outdoor adventure. See what the Outdoor Recreation Center has to offer. Enroll Now Snag the classes you need while getting the schedule you want. Enroll now. T",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about an outdoor recreation center and does not discuss databases or query optimization; it is not relevant to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Connect to Central Connect to Central Building strong connections that last a lifetime. News View All Events Outdoor Recreation Center The time is right for an outdoor adventure. See what the Outdoor Recreation Center has to offer. Enroll Now Snag the classes you need while getting the schedule you want. Enroll now. T",
+  "history": {
+    "url": "https://www.uco.edu/",
+    "title": "Connect to Central",
+    "description": "Connect to Central Building strong connections that last a lifetime. News View All Events Outdoor Recreation Center The time is right for an outdoor adventure. See what the Outdoor Recreation Center has to offer. Enroll Now Snag the classes you need while getting the schedule you want. Enroll now. T",
+    "frecency": 4533,
+    "url_hash": 4186572105217,
+    "last_visit_date": 1758203930674111
+  }
+}

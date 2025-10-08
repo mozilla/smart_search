@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Annie  (musical) \\\"From Wikipedia, the free encyclopedianavigation search For other uses, see Annie. Annie Original Broadway Windowcard Music Charles Strouse Lyrics Martin Charnin Book Thomas Meehan Basis Harold Gray comic strip Little Orphan Annie Productions 1976 Goodspeed Opera House 1977 Broadway 1978 West End 19",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The page is about the musical Annie, not about easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Annie  (musical) \"From Wikipedia, the free encyclopedianavigation search For other uses, see Annie. Annie Original Broadway Windowcard Music Charles Strouse Lyrics Martin Charnin Book Thomas Meehan Basis Harold Gray comic strip Little Orphan Annie Productions 1976 Goodspeed Opera House 1977 Broadway 1978 West End 19",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Annie_(musical)",
+    "title": "Annie  (musical)",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search For other uses, see Annie. Annie Original Broadway Windowcard Music Charles Strouse Lyrics Martin Charnin Book Thomas Meehan Basis Harold Gray comic strip Little Orphan Annie Productions 1976 Goodspeed Opera House 1977 Broadway 1978 West End 19",
+    "frecency": 3959,
+    "url_hash": 41967170003778,
+    "last_visit_date": 1758203927994735
+  }
+}

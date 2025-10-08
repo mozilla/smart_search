@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "What is the 'Agency Problem' Error loading player: Flash plugin failed to load What is the 'Agency Problem'The agency problem is a conflict of interest inherent in any relationship where one party is expected to act in another's best interests. In corporate finance, the agency problem usually refers to a conflict of interest be",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses the agency problem in corporate finance, not Python libraries or machine learning topics.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "What is the 'Agency Problem' Error loading player: Flash plugin failed to load What is the 'Agency Problem'The agency problem is a conflict of interest inherent in any relationship where one party is expected to act in another's best interests. In corporate finance, the agency problem usually refers to a conflict of interest be",
+  "history": {
+    "url": "http://www.investopedia.com/terms/a/agencyproblem.asp",
+    "title": "What is the 'Agency Problem'",
+    "description": "Error loading player: Flash plugin failed to load What is the 'Agency Problem'The agency problem is a conflict of interest inherent in any relationship where one party is expected to act in another's best interests. In corporate finance, the agency problem usually refers to a conflict of interest be",
+    "frecency": 4119,
+    "url_hash": 36467942805391,
+    "last_visit_date": 1758203927276111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "AUSTIN WEATHER AUSTIN WEATHERWith more than 300 sunny days each year, Austin locals and visitors alike spend plenty of time outdoors. And it's no wonder. The winters are temperate. The summers are, well, a little toasty. And the spring and fall offer up the perfect balance of bright blue sky and mild temperatures.",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses weather in Austin, not DIY room decoration ideas; not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "AUSTIN WEATHER AUSTIN WEATHERWith more than 300 sunny days each year, Austin locals and visitors alike spend plenty of time outdoors. And it's no wonder. The winters are temperate. The summers are, well, a little toasty. And the spring and fall offer up the perfect balance of bright blue sky and mild temperatures.",
+  "history": {
+    "url": "https://www.austintexas.org/plan-a-trip/weather/",
+    "title": "AUSTIN WEATHER",
+    "description": "AUSTIN WEATHERWith more than 300 sunny days each year, Austin locals and visitors alike spend plenty of time outdoors. And it's no wonder. The winters are temperate. The summers are, well, a little toasty. And the spring and fall offer up the perfect balance of bright blue sky and mild temperatures.",
+    "frecency": 4235,
+    "url_hash": 19693002530876,
+    "last_visit_date": 1758203933951228
+  }
+}

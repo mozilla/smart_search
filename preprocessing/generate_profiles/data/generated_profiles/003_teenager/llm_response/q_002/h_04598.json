@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "How did the advances made during the Industrial Revolution help to change transportation, etc, etc? Arts & Humanities History How did the advances made during the Industrial Revolution help to change transportation, etc? How did the advances made during the Industrial Revolution help to change and facilitate transportation, communication, and education? I'd really appreciate it if someone cou",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Industrial Revolution history and transportation, not DIY room decoration ideas; it is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "How did the advances made during the Industrial Revolution help to change transportation, etc, etc? Arts & Humanities History How did the advances made during the Industrial Revolution help to change transportation, etc, etc? How did the advances made during the Industrial Revolution help to change and facilitate transportation, communication, and education? I'd really appreciate it if someone cou",
+  "history": {
+    "url": "https://answers.yahoo.com/question/index?qid=20100520191623AAPzb0f",
+    "title": "How did the advances made during the Industrial Revolution help to change transportation, etc, etc?",
+    "description": "Arts & Humanities History How did the advances made during the Industrial Revolution help to change transportation, etc, etc? How did the advances made during the Industrial Revolution help to change and facilitate transportation, communication, and education? I'd really appreciate it if someone cou",
+    "frecency": 231,
+    "url_hash": 82988518686897,
+    "last_visit_date": 1758203935293228
+  }
+}

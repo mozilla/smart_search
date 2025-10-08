@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "10 Status Code Definitions \"part of Hypertext Transfer Protocol -- HTTP/1.1 RFC 2616 Fielding, et al.10 Status Code Definitions Each Status-Code is described below, including a description of which method (s) it can follow and any metainformation required in the response.10.1 Informational 1xx This class of status code indica",
+  "relevance_score": 0.2,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses HTTP status code definitions rather than practical guidance for debugging API integrations. It lacks actionable debugging tips, error handling patterns, or integration-specific techniques.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "10 Status Code Definitions \"part of Hypertext Transfer Protocol -- HTTP/1.1 RFC 2616 Fielding, et al.10 Status Code Definitions Each Status-Code is described below, including a description of which method (s) it can follow and any metainformation required in the response.10.1 Informational 1xx This class of status code indica",
+  "history": {
+    "url": "http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html",
+    "title": "10 Status Code Definitions",
+    "description": "\"part of Hypertext Transfer Protocol -- HTTP/1.1 RFC 2616 Fielding, et al.10 Status Code Definitions Each Status-Code is described below, including a description of which method (s) it can follow and any metainformation required in the response.10.1 Informational 1xx This class of status code indica",
+    "frecency": 1476,
+    "url_hash": 83290308398604,
+    "last_visit_date": 1758203928844111
+  }
+}

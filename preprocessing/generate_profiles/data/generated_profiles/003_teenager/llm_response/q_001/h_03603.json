@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "The First Video Game? 'The First Video Game? Before Pong, There Was Tennis for Two' Before the era of electronic ping pong, hungry yellow dots, plumbers, mushrooms, and fire-flowers, people waited in line to play video games at roller-skating rinks, arcades, and other hangouts. More than fifty years ago, before either",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns the history of early video games, not TikTok trends for 2024; it is not relevant to the query.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "The First Video Game? \"The First Video Game? Before 'Pong,' There Was 'Tennis for Two'Before the era of electronic ping pong, hungry yellow dots, plumbers, mushrooms, and fire-flowers, people waited in line to play video games at roller-skating rinks, arcades, and other hangouts. More than fifty years ago, before either",
+  "history": {
+    "url": "http://www.bnl.gov/about/history/firstvideo.php",
+    "title": "The First Video Game?",
+    "description": "\"The First Video Game? Before 'Pong,' There Was 'Tennis for Two'Before the era of electronic ping pong, hungry yellow dots, plumbers, mushrooms, and fire-flowers, people waited in line to play video games at roller-skating rinks, arcades, and other hangouts. More than fifty years ago, before either ",
+    "frecency": 1238,
+    "url_hash": 60710356438302,
+    "last_visit_date": 1758203929224735
+  }
+}

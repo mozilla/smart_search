@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "McDonald's\u00c2\u00ae Fries \"Home Recipes Side Dish Potatoes Mc Donald's\u00ae Fries20 made it | 5 reviews3Recipe by: Kenneth Smith\"\"Mc Donald's fries are the best. Just how you love them. \"\"Save I Made It Print Pin Share Ingredients1 h 15 m 4 600On Sale What's on sale near you. We're showing stores near Seattle Update Location (us)",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a McDonald's fries recipe page, unrelated to API integration debugging.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "McDonald's\u00c2\u00ae Fries \"Home Recipes Side Dish Potatoes Mc Donald's\u00ae Fries20 made it | 5 reviews3Recipe by: Kenneth Smith\"\"Mc Donald's fries are the best. Just how you love them. \"\"Save I Made It Print Pin Share Ingredients1 h 15 m 4 600On Sale What's on sale near you. We're showing stores near Seattle Update Location (us",
+  "history": {
+    "url": "http://allrecipes.com/recipe/241869/mcdonalds-fries/",
+    "title": "McDonald's\u00c2\u00ae Fries",
+    "description": "\"Home Recipes Side Dish Potatoes Mc Donald's\u00ae Fries20 made it | 5 reviews3Recipe by: Kenneth Smith\"\"Mc Donald's fries are the best. Just how you love them. \"\"Save I Made It Print Pin Share Ingredients1 h 15 m 4 600On Sale What's on sale near you. We're showing stores near Seattle Update Location (us",
+    "frecency": 3132,
+    "url_hash": 43883022180583,
+    "last_visit_date": 1758203931658111
+  }
+}

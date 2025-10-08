@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Pensacola JazzFest Featured Pensacola Jazz Fest Each April, music lovers flock to Pensacola to listen to jazz music in the historic Seville Square. Musicians, whether they are local or international, flock to this free festival to display their talents. It typically lasts two days. April 7-8, 2018PENSACOLA, FLfaceboo",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about the Pensacola Jazz Festival, not about easy DIY room decoration ideas; no topical relevance.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Pensacola JazzFest \"Featured Pensacola Jazz Fest Each April, music lovers flock to Pensacola to listen to jazz music in the historic Seville Square. Musicians, whether they are local or international, flock to this free festival to display their talents. It typically lasts two days. April 7-8, 2018PENSACOLA, FLfaceboo",
+  "history": {
+    "url": "https://www.wikido.com/us/fl/pensacola",
+    "title": "Pensacola JazzFest",
+    "description": "\"Featured Pensacola Jazz Fest Each April, music lovers flock to Pensacola to listen to jazz music in the historic Seville Square. Musicians, whether they are local or international, flock to this free festival to display their talents. It typically lasts two days. April 7-8, 2018PENSACOLA, FLfaceboo",
+    "frecency": 4836,
+    "url_hash": 1871639254469,
+    "last_visit_date": 1758203929498735
+  }
+}

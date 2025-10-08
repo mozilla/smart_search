@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "How many people are there in a football team? Sports Football (Soccer) Other - Soccer How many people are there in a football team? I need to know as I am the manager of a football team. Follow 5 answers Answers Relevance Rating Newest Oldest Best Answer: 11. 1 goalie, 4 fullbacks, 3 midfielders, 3 forwards. although the setup can be switched a",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about football team composition and not related to Docker setup or beginner-specific information.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "How many people are there in a football team? Sports Football (Soccer) Other - Soccer How many people are there in a football team? I need to know as I am the manager of a football team. Follow 5 answers Answers Relevance Rating Newest Oldest Best Answer: 11. 1 goalie, 4 fullbacks, 3 midfielders, 3 forwards. although the setup can be switched a",
+  "history": {
+    "url": "https://answers.yahoo.com/question/index?qid=20100310115049AA9fVLM",
+    "title": "How many people are there in a football team?",
+    "description": "Sports Football (Soccer) Other - Soccer How many people are there in a football team? I need to know as I am the manager of a football team. Follow 5 answers Answers Relevance Rating Newest Oldest Best Answer: 11. 1 goalie, 4 fullbacks, 3 midfielders, 3 forwards. although the setup can be switched a",
+    "frecency": 3903,
+    "url_hash": 81661389066152,
+    "last_visit_date": 1758203930208111
+  }
+}

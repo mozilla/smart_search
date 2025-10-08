@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Westmed Medical Group \"Westmed Medical Group Overview Website www.westmedgroup.com Headquarters Purchase, NY Size 1001 to 5000 employees Founded 1996 Type Company - Private Industry Health Care Services & Hospitals Revenue Unknown / Non-Applicable Competitors Unknown Westmed Medical Group is a large, award-winning multi-",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a medical group and not about debugging or API integration; it does not address the user query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Westmed Medical Group \"Westmed Medical Group Overview Website www.westmedgroup.com Headquarters Purchase, NY Size 1001 to 5000 employees Founded 1996 Type Company - Private Industry Health Care Services & Hospitals Revenue Unknown / Non-Applicable Competitors Unknown Westmed Medical Group is a large, award-winning multi-",
+  "history": {
+    "url": "https://www.glassdoor.com/Overview/Working-at-Westmed-Medical-Group-EI_IE381593.11,32.htm",
+    "title": "Westmed Medical Group",
+    "description": "\"Westmed Medical Group Overview Website www.westmedgroup.com Headquarters Purchase, NY Size 1001 to 5000 employees Founded 1996 Type Company - Private Industry Health Care Services & Hospitals Revenue Unknown / Non-Applicable Competitors Unknown Westmed Medical Group is a large, award-winning multi-",
+    "frecency": 4025,
+    "url_hash": 16489507778796,
+    "last_visit_date": 1758203927548111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "DIY Ultrasonic record cleaner DIY Ultrasonic record cleaner In Search of Musical Ecstasy! [Italian version]",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a DIY ultrasonic record cleaner and unrelated content; it does not pertain to sports or improving athletic performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "DIY Ultrasonic record cleaner DIY Ultrasonic record cleaner In Search of Musical Ecstasy! [Italian version]",
+  "history": {
+    "url": "http://www.tnt-audio.com/clinica/diy_ultrasonic_cleaner_e.html",
+    "title": "DIY Ultrasonic record cleaner",
+    "description": "DIY Ultrasonic record cleaner In Search of Musical Ecstasy! [Italian version] ",
+    "frecency": 371,
+    "url_hash": 3066539949997,
+    "last_visit_date": 1758203929561228
+  }
+}

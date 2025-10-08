@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Miles Davis, Trumpeter, Dies; Jazz Genius, 65, Defined Cool \"September 29, 1991OBITUARYMiles Davis, the trumpeter and composer whose haunting tone and ever-changing style made him an elusive touchstone of jazz for four decades, died yesterday at St. John's Hospital and Health Center in",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is an obituary about Miles Davis, unrelated to study apps or study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Miles Davis, Trumpeter, Dies; Jazz Genius, 65, Defined Cool \"September 29, 1991OBITUARYMiles Davis, Trumpeter, Dies; Jazz Genius, 65, Defined Cool By JON PARELESMiles Davis, the trumpeter and composer whose haunting tone and ever-changing style made him an elusive touchstone of jazz for four decades, died yesterday at St. John's Hospital and Health Center in",
+  "history": {
+    "url": "http://www.nytimes.com/learning/general/onthisday/bday/0525.html",
+    "title": "Miles Davis, Trumpeter, Dies; Jazz Genius, 65, Defined Cool",
+    "description": "\"September 29, 1991OBITUARYMiles Davis, Trumpeter, Dies; Jazz Genius, 65, Defined Cool By JON PARELESMiles Davis, the trumpeter and composer whose haunting tone and ever-changing style made him an elusive touchstone of jazz for four decades, died yesterday at St. John's Hospital and Health Center in",
+    "frecency": 4060,
+    "url_hash": 23108096344198,
+    "last_visit_date": 1758203928882735
+  }
+}

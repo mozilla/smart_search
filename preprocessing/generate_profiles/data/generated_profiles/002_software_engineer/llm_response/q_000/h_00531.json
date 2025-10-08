@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "The History of Occupational Therapy... Where Did We Come From?... How Did We Get Here? \\\"The History of Occupational Therapy... Where Did We Come From?... How Did We Get Here? The history of Occupational Therapy is an interesting \\\"\\\"story\\\"\\\". Many people believe that Occupational Therapy is a new profession. As you will see, this is not so. It's development is woven into the fabric of hu",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses the history of occupational therapy, not API debugging or API integration; therefore it is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "The History of Occupational Therapy... Where Did We Come From?... How Did We Get Here? \"The History of Occupational Therapy... Where Did We Come From?... How Did We Get Here? The history of Occupational Therapy is an interesting \"\"story\"\". Many people believe that Occupational Therapy is a new profession. As you will see, this is not so. It's development is woven into the fabric of hu",
+  "history": {
+    "url": "http://www.sensory-processing-disorder.com/history-of-occupational-therapy.html",
+    "title": "The History of Occupational Therapy... Where Did We Come From?... How Did We Get Here?",
+    "description": "\"The History of Occupational Therapy... Where Did We Come From?... How Did We Get Here? The history of Occupational Therapy is an interesting \"\"story\"\". Many people believe that Occupational Therapy is a new profession. As you will see, this is not so. It's development is woven into the fabric of hu",
+    "frecency": 4088,
+    "url_hash": 92110985217560,
+    "last_visit_date": 1758203931366111
+  }
+}

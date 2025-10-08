@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Stranded by the Blizzard? How to Rebook Your Flight Online Stranded by the Blizzard? How to Rebook Your Flight Online Share Share What's This? By Chelsea Stark Jan 03, 2014As a winter storm battered the East Coast Thursday night into Friday morning, thousands of travelers were left stranded as flights were canceled. While customer service representatives in",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about flight rebooking during a blizzard and has no relation to Docker or setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Stranded by the Blizzard? How to Rebook Your Flight Online Stranded by the Blizzard? How to Rebook Your Flight Online Share Share What's This? By Chelsea Stark Jan 03, 2014As a winter storm battered the East Coast Thursday night into Friday morning, thousands of travelers were left stranded as flights were canceled. While customer service representatives in",
+  "history": {
+    "url": "http://mashable.com/2014/01/03/blizzard-reschedule-flights/",
+    "title": "Stranded by the Blizzard? How to Rebook Your Flight Online",
+    "description": "Stranded by the Blizzard? How to Rebook Your Flight Online Share Share What's This? By Chelsea Stark Jan 03, 2014As a winter storm battered the East Coast Thursday night into Friday morning, thousands of travelers were left stranded as flights were canceled. While customer service representatives in",
+    "frecency": 1754,
+    "url_hash": 14377864693358,
+    "last_visit_date": 1758203929446111
+  }
+}

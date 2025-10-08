@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Dongle Emulator Dongle Emulator Dongle emulator is a software product for Aladdin HASP, Safe-Net HASP dongle backup and virtualization that allows your software running just like original hardware key is connected to computer. Dongle emulator works with HASP USB dongles or parallel HASP hardware keys.",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about dongle emulation hardware/software, not about Docker or container setup.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Dongle Emulator Dongle Emulator Dongle emulator is a software product for Aladdin HASP, Safe-Net HASP dongle backup and virtualization that allows your software running just like original hardware key is connected to computer. Dongle emulator works with HASP USB dongles or parallel HASP hardware keys.",
+  "history": {
+    "url": "http://dongle-emulator.com/hasp",
+    "title": "Dongle Emulator",
+    "description": "Dongle Emulator Dongle emulator is a software product for Aladdin HASP, Safe-Net HASP dongle backup and virtualization that allows your software running just like original hardware key is connected to computer. Dongle emulator works with HASP USB dongles or parallel HASP hardware keys. ",
+    "frecency": 472,
+    "url_hash": 22840746068326,
+    "last_visit_date": 1758203927300200
+  }
+}

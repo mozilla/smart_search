@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Watch a Bugatti Veyron W16 engine get built by hand \"By Bob Sorokanich Mar 13, 2015 45.5k Bugatti Hard to believe, I know, but the Bugatti Veyron is history. The 450th example of the world's fastest production car was recently sold to a collector in the Middle East, closing the book on the outrageous, no-holds-barred engineering \"what if\" project t",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The page discusses a Bugatti Veyron car, not easy DIY room decoration ideas; thus not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Watch a Bugatti Veyron W16 engine get built by hand \"By Bob Sorokanich Mar 13, 2015 45.5k Bugatti Hard to believe, I know, but the Bugatti Veyron is history. The 450th example of the world's fastest production car was recently sold to a collector in the Middle East, closing the book on the outrageous, no-holds-barred engineering \"\"what if\"\" project t",
+  "history": {
+    "url": "http://www.roadandtrack.com/car-culture/entertainment/videos/a25274/watch-a-bugatti-veyron-w-16-engine-being-hand-built/",
+    "title": "Watch a Bugatti Veyron W16 engine get built by hand",
+    "description": "\"By Bob Sorokanich Mar 13, 2015 45.5k Bugatti Hard to believe, I know, but the Bugatti Veyron is history. The 450th example of the world's fastest production car was recently sold to a collector in the Middle East, closing the book on the outrageous, no-holds-barred engineering \"\"what if\"\" project t",
+    "frecency": 4736,
+    "url_hash": 83534864746086,
+    "last_visit_date": 1758203928609139
+  }
+}

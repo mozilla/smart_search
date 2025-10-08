@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Combat boot \\\"From Wikipedia, the free encyclopedia (Redirected from Army boots)navigation search Standard combat boots of Bundeswehr Standard combat boots of Bundeswehr Sole of BW combat boots Combat boots are military boots designed to be worn by soldiers during combat or combat training, as opposed to during",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about combat boots, not about debugging or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Combat boot \"From Wikipedia, the free encyclopedia (Redirected from Army boots)navigation search Standard combat boots of Bundeswehr Standard combat boots of Bundeswehr Sole of BW combat boots Combat boots are military boots designed to be worn by soldiers during combat or combat training, as opposed to during",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Army_boots",
+    "title": "Combat boot",
+    "description": "\"From Wikipedia, the free encyclopedia (Redirected from Army boots)navigation search Standard combat boots of Bundeswehr Standard combat boots of Bundeswehr Sole of BW combat boots Combat boots are military boots designed to be worn by soldiers during combat or combat training, as opposed to during ",
+    "frecency": 3449,
+    "url_hash": 47803880906051,
+    "last_visit_date": 1758203931618111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Does eating gluten cause eczema? Breads and cereals are very essential elements of our meals. As we all know we have these regularly and doctors also suggest these in a regular healthy diet. People who cannot take meat, milk and fruits adequately in their meals mainly depends on breads and cereals. However, some of these contain gl",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The page discusses gluten and eczema and diet, not guidance or information about improving athletic performance or sports skills.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Does eating gluten cause eczema? Breads and cereals are very essential elements of our meals. As we all know we have these regularly and doctors also suggest these in a regular healthy diet. People who cannot take meat, milk and fruits adequately in their meals mainly depends on breads and cereals. However, some of these contain gl",
+  "history": {
+    "url": "http://www.eczemapictures.org/eat-gluten-eczema-cause_21.html",
+    "title": "Does eating gluten cause eczema?",
+    "description": "Breads and cereals are very essential elements of our meals. As we all know we have these regularly and doctors also suggest these in a regular healthy diet. People who cannot take meat, milk and fruits adequately in their meals mainly depends on breads and cereals. However, some of these contain gl",
+    "frecency": 550,
+    "url_hash": 58208857118684,
+    "last_visit_date": 1758203930841228
+  }
+}

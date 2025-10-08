@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Tea and coffee as a dieretic? Health Diet & Fitness Tea and coffee as a dieretic? I know that caffiene is a dieretic, where it causes you to lose water. Now does that mean if I have tea and coffee everyday, that will help prevent me from retaining water. I know guys don't have to worry as much about retaining water as much as wo",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page discusses diuretics and health topics related to tea/coffee, not easy DIY room decoration ideas; it is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Tea and coffee as a dieretic? Health Diet & Fitness Tea and coffee as a dieretic? I know that caffiene is a dieretic, where it causes you to lose water. Now does that mean if I have tea and coffee everyday, that will help prevent me from retaining water. I know guys don't have to worry as much about retaining water as much as wo",
+  "history": {
+    "url": "https://answers.yahoo.com/question/index?qid=20090124071136AADsdoG",
+    "title": "Tea and coffee as a dieretic?",
+    "description": "Health Diet & Fitness Tea and coffee as a dieretic? I know that caffiene is a dieretic, where it causes you to lose water. Now does that mean if I have tea and coffee everyday, that will help prevent me from retaining water. I know guys don't have to worry as much about retaining water as much as wo",
+    "frecency": 4990,
+    "url_hash": 21311426458194,
+    "last_visit_date": 1758203933803228
+  }
+}

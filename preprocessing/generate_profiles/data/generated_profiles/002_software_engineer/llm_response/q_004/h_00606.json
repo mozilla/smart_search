@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Log In Log In Your username or email: Your password: Hide password Keep me logged in I am not on a public computer Log In I forgot my password Not a member yet? If you're not a member yet, you can apply for membership today. Or register for a free guest membership to access limited portions of NACHI. ORG.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a login page from NACHI.org and has no content related to Docker or beginner setup.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Log In Log In Your username or email: Your password: Hide password Keep me logged in I am not on a public computer Log In I forgot my password Not a member yet? If you're not a member yet, you can apply for membership today. Or register for a free guest membership to access limited portions of NACHI. ORG.",
+  "history": {
+    "url": "http://www.nachi.org/fee-calculator.htm",
+    "title": "Log In",
+    "description": "Log In Your username or email: Your password: Hide password Keep me logged in I am not on a public computer Log In I forgot my password Not a member yet? If you're not a member yet, you can apply for membership today. Or register for a free guest membership to access limited portions of NACHI. ORG. ",
+    "frecency": 3961,
+    "url_hash": 98527561812024,
+    "last_visit_date": 1758203932060111
+  }
+}

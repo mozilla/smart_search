@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Westown Theater Viewing: Photo | Street View The Westown Theater opened November 25, 1936, designed in a French-Moderne hybrid by Detroit-based Charles N. Agree, and featured an unusually extravagant marquee for a neighborhood house. The theater could seat over 2,000, and was part of the Wisper-Wetsman Theaters cha",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a historic theater and its architecture, not DIY room decoration ideas; content mismatch.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Westown Theater Viewing: Photo | Street View The Westown Theater opened November 25, 1936, designed in a French-Moderne hybrid by Detroit-based Charles N. Agree, and featured an unusually extravagant marquee for a neighborhood house. The theater could seat over 2,000, and was part of the Wisper-Wetsman Theaters cha",
+  "history": {
+    "url": "http://cinematreasures.org/theaters/3933",
+    "title": "Westown Theater",
+    "description": "Viewing: Photo | Street View The Westown Theater opened November 25, 1936, designed in a French-Moderne hybrid by Detroit-based Charles N. Agree, and featured an unusually extravagant marquee for a neighborhood house. The theater could seat over 2,000, and was part of the Wisper-Wetsman Theaters cha",
+    "frecency": 1311,
+    "url_hash": 3982624376122,
+    "last_visit_date": 1758203930759228
+  }
+}

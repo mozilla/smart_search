@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Find your way to the heart of the city Find your way to the heart of the city Shangri-La hotel, Nanchang, is perfectly located for business and leisure travellers in the heart of the city\u2019s new central business district, Honggutan. The hotel is within walking distance of city government offices and the MTR station with connections to Lin",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a hotel in Nanchang and contains no Docker or technical content, so it is not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Find your way to the heart of the city Find your way to the heart of the city Shangri-La hotel, Nanchang, is perfectly located for business and leisure travellers in the heart of the city\u2019s new central business district, Honggutan. The hotel is within walking distance of city government offices and the MTR station with connections to Lin",
+  "history": {
+    "url": "http://www.shangri-la.com/nanchang/shangrila/about/map-directions/",
+    "title": "Find your way to the heart of the city",
+    "description": "Find your way to the heart of the city Shangri-La hotel, Nanchang, is perfectly located for business and leisure travellers in the heart of the city\u2019s new central business district, Honggutan. The hotel is within walking distance of city government offices and the MTR station with connections to Lin",
+    "frecency": 2865,
+    "url_hash": 29039326634910,
+    "last_visit_date": 1758203928350200
+  }
+}

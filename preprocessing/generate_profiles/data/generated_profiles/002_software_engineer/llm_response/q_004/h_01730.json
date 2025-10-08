@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Information on Printers from Ricoh \"What's new? IBM Support Information on Printers from Ricoh Technote (troubleshooting)Problem (Abstract)This document contains information on the capabilities that are supported on printer hardware from Ricoh and Ricoh Printing Systems America. It also indicates whether each printer model is likely",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Ricoh printers and related troubleshooting information, with no content related to Docker or container setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Information on Printers from Ricoh \"What's new? IBM Support Information on Printers from Ricoh Technote (troubleshooting)Problem (Abstract)This document contains information on the capabilities that are supported on printer hardware from Ricoh and Ricoh Printing Systems America. It also indicates whether each printer model is likely",
+  "history": {
+    "url": "http://www.ibm.com/support/docview.wss?uid=nas8N1019512",
+    "title": "Information on Printers from Ricoh",
+    "description": "\"What's new? IBM Support Information on Printers from Ricoh Technote (troubleshooting)Problem (Abstract)This document contains information on the capabilities that are supported on printer hardware from Ricoh and Ricoh Printing Systems America. It also indicates whether each printer model is likely ",
+    "frecency": 1867,
+    "url_hash": 13875503181887,
+    "last_visit_date": 1758203928342111
+  }
+}

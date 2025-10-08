@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "What does a Telecommunications Director do? A telecommunications director generally is responsible for the planning and design of an organization\u2019s telecommunication system which is comprised of voice services, data networks, and communication systems. The director usually takes into account present, as well as projected, volume of an organiz",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses telecommunications director responsibilities, unrelated to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "What does a Telecommunications Director do? A telecommunications director generally is responsible for the planning and design of an organization\u2019s telecommunication system which is comprised of voice services, data networks, and communication systems. The director usually takes into account present, as well as projected, volume of an organiz",
+  "history": {
+    "url": "http://www.wisegeek.com/what-does-a-telecommunications-director-do.htm",
+    "title": "What does a Telecommunications Director do?",
+    "description": "A telecommunications director generally is responsible for the planning and design of an organization\u2019s telecommunication system which is comprised of voice services, data networks, and communication systems. The director usually takes into account present, as well as projected, volume of an organiz",
+    "frecency": 616,
+    "url_hash": 33696208336493,
+    "last_visit_date": 1758203927974200
+  }
+}

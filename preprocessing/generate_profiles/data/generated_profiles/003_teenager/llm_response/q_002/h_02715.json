@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "John Locke Biography \"Famous People \u00bb Intellectuals & Academics John Locke Biography John Locke was a 17th century English philosopher and physician known as the \"Father of Classical Liberalism\". This biography of John Locke provides detailed information about his childhood, life, achievements, works & timeline. SHARE",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a biography of John Locke and has no relation to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "John Locke Biography \"Famous People \u00bb Intellectuals & Academics John Locke Biography John Locke was a 17th century English philosopher and physician known as the \"\"Father of Classical Liberalism\"\". This biography of John Locke provides detailed information about his childhood, life, achievements, works & timeline. SHARE",
+  "history": {
+    "url": "http://www.thefamouspeople.com/profiles/john-locke-134.php",
+    "title": "John Locke Biography",
+    "description": "\"Famous People \u00bb Intellectuals & Academics John Locke Biography John Locke was a 17th century English philosopher and physician known as the \"\"Father of Classical Liberalism\"\". This biography of John Locke provides detailed information about his childhood, life, achievements, works & timeline. SHARE",
+    "frecency": 2175,
+    "url_hash": 9207010945997,
+    "last_visit_date": 1758203927322735
+  }
+}

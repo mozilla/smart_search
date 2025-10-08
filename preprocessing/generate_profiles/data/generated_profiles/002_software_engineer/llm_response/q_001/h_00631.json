@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "WIC information for providers More about: Women, Infants, & Children (WIC) Nutrition Program WIC information for providers Healthcare providers are influential in helping their patients make decisions about their health. A WIC referral from you carries a lot of weight. Guidance for providers on WIC Medical Referral Forms, blood",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns WIC nutrition program information and providers, not Python or machine learning libraries.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "WIC information for providers More about: Women, Infants, & Children (WIC) Nutrition Program WIC information for providers Healthcare providers are influential in helping their patients make decisions about their health. A WIC referral from you carries a lot of weight. Guidance for providers on WIC Medical Referral Forms, blood",
+  "history": {
+    "url": "http://www.mass.gov/eohhs/consumer/basic-needs/food/wic/participants/wic-formula-list.html",
+    "title": "WIC information for providers",
+    "description": "More about: Women, Infants, & Children (WIC) Nutrition Program WIC information for providers Healthcare providers are influential in helping their patients make decisions about their health. A WIC referral from you carries a lot of weight. Guidance for providers on WIC Medical Referral Forms, blood ",
+    "frecency": 3881,
+    "url_hash": 51901019034211,
+    "last_visit_date": 1758203927514111
+  }
+}

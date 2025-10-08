@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Angelina Jolie's name change snub to father Angelina Jolie's name change snub to fatherby TONY BONNICI, Daily Mail Angelina Jolie is to change her name because she is so embarrassed by the behaviour of her father, actor Jon Voight. The Tomb Raider star, born Angelina Jolie Voight, is said to have begun court action in Los Angeles. She wants t",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns a celebrity's name change and does not address improving at sports or sports-related topics.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Angelina Jolie's name change snub to father Angelina Jolie's name change snub to fatherby TONY BONNICI, Daily Mail Angelina Jolie is to change her name because she is so embarrassed by the behaviour of her father, actor Jon Voight. The Tomb Raider star, born Angelina Jolie Voight, is said to have begun court action in Los Angeles. She wants t",
+  "history": {
+    "url": "http://www.dailymail.co.uk/tvshowbiz/article-138629/Angelina-Jolies-change-snub-father.html",
+    "title": "Angelina Jolie's name change snub to father",
+    "description": "Angelina Jolie's name change snub to fatherby TONY BONNICI, Daily Mail Angelina Jolie is to change her name because she is so embarrassed by the behaviour of her father, actor Jon Voight. The Tomb Raider star, born Angelina Jolie Voight, is said to have begun court action in Los Angeles. She wants t",
+    "frecency": 426,
+    "url_hash": 54361444127883,
+    "last_visit_date": 1758203927281139
+  }
+}

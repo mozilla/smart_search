@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "The Luck of Roaring Camp \"From Wikipedia, the free encyclopedianavigation search\"\"The Luck of Roaring Camp\"\"\"The Luck of Roaring Camp\" as it appeared in the Overland Monthly Author Bret Harte Country United States Language English Genre (s) Western fiction Published in Overland Monthly Publication type Magazine Publisher",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns a literary work (The Luck of Roaring Camp) and author Bret Harte, not DIY room decoration ideas; therefore it is not relevant.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "The Luck of Roaring Camp \"From Wikipedia, the free encyclopedianavigation search\"\"The Luck of Roaring Camp\"\"\"\"The Luck of Roaring Camp\"\" as it appeared in the Overland Monthly Author Bret Harte Country United States Language English Genre (s) Western fiction Published in Overland Monthly Publication type Magazine Publisher",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/The_Luck_of_Roaring_Camp",
+    "title": "The Luck of Roaring Camp",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search\"\"The Luck of Roaring Camp\"\"\"\"The Luck of Roaring Camp\"\" as it appeared in the Overland Monthly Author Bret Harte Country United States Language English Genre (s) Western fiction Published in Overland Monthly Publication type Magazine Publisher ",
+    "frecency": 3254,
+    "url_hash": 88474019442253,
+    "last_visit_date": 1758203933815228
+  }
+}

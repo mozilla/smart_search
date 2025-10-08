@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Agenesis of the Corpus Callosum This article is for Medical Professionals In this article Epidemiology Pathogenesis Presentation Aicardi's syndrome Investigations Management Prognosis Agenesis of the corpus callosum (ACC) is complete or partial absence of the structure that connects the two hemispheres of the brain - the corpus ca",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Agenesis of the Corpus Callosum, a medical topic, and is unrelated to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Agenesis of the Corpus Callosum This article is for Medical Professionals In this article Epidemiology Pathogenesis Presentation Aicardi's syndrome Investigations Management Prognosis Agenesis of the corpus callosum (ACC) is complete or partial absence of the structure that connects the two hemispheres of the brain - the corpus ca",
+  "history": {
+    "url": "https://patient.info/doctor/agenesis-of-the-corpus-callosum",
+    "title": "Agenesis of the Corpus Callosum",
+    "description": "This article is for Medical Professionals In this article Epidemiology Pathogenesis Presentation Aicardi's syndrome Investigations Management Prognosis Agenesis of the corpus callosum (ACC) is complete or partial absence of the structure that connects the two hemispheres of the brain - the corpus ca",
+    "frecency": 4559,
+    "url_hash": 41378623122485,
+    "last_visit_date": 1758203931334111
+  }
+}

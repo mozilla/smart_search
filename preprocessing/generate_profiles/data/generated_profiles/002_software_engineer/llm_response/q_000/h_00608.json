@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Which tools should not be operated while wearing gloves? _Home Improvement Stack Exchange is a question and answer site for contractors and serious DIYers. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Which tools should not be operated while",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses safety and tool use in home improvement, not API debugging or API integration; it is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Which tools should not be operated while wearing gloves? \"_Home Improvement Stack Exchange is a question and answer site for contractors and serious DIYers. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Which tools should not be operated while",
+  "history": {
+    "url": "http://diy.stackexchange.com/questions/11880/which-tools-should-not-be-operated-while-wearing-gloves",
+    "title": "Which tools should not be operated while wearing gloves?",
+    "description": "\"_Home Improvement Stack Exchange is a question and answer site for contractors and serious DIYers. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Which tools should not be operated while",
+    "frecency": 3958,
+    "url_hash": 19036887261184,
+    "last_visit_date": 1758203928328111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Silver Spring, Maryland \"Silver Spring, Maryland From Wikipedia, the free encyclopedianavigation search Silver Spring, Maryland Census-designated place Clockwise from top: AFI Silver, Veteran's Plaza and the civic building, Downtown Silver Spring from the Metro station, Acorn Park, Baltimore and Ohio Railroad Station Locat",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes Silver Spring, Maryland (a location) and is not about improving sports skills or strategies.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Silver Spring, Maryland \"Silver Spring, Maryland From Wikipedia, the free encyclopedianavigation search Silver Spring, Maryland Census-designated place Clockwise from top: AFI Silver, Veteran's Plaza and the civic building, Downtown Silver Spring from the Metro station, Acorn Park, Baltimore and Ohio Railroad Station Locat",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Silver_Spring,_Maryland",
+    "title": "Silver Spring, Maryland",
+    "description": "\"Silver Spring, Maryland From Wikipedia, the free encyclopedianavigation search Silver Spring, Maryland Census-designated place Clockwise from top: AFI Silver, Veteran's Plaza and the civic building, Downtown Silver Spring from the Metro station, Acorn Park, Baltimore and Ohio Railroad Station Locat",
+    "frecency": 2845,
+    "url_hash": 29342311000787,
+    "last_visit_date": 1758203928770735
+  }
+}

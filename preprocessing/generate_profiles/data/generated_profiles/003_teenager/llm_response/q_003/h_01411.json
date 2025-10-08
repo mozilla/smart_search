@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Saturday Night Live debuts Hollywood1975Saturday Night Live debuts Share this:facebook twitter google+Print Cite On this day in 1975, Saturday Night Live ( SNL), a topical comedy sketch show featuring Chevy Chase, John Belushi, Dan Aykroyd, Gilda Radner, Garrett Morris, Jane Curtin and Laraine Newman, makes its debut on NBC;",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns the 1975 debut of Saturday Night Live, with no connection to apps for improving study habits; thus not relevant to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Saturday Night Live debuts Hollywood1975Saturday Night Live debuts Share this:facebook twitter google+Print Cite On this day in 1975, Saturday Night Live ( SNL), a topical comedy sketch show featuring Chevy Chase, John Belushi, Dan Aykroyd, Gilda Radner, Garrett Morris, Jane Curtin and Laraine Newman, makes its debut on NBC;",
+  "history": {
+    "url": "http://www.history.com/this-day-in-history/saturday-night-live-debuts",
+    "title": "Saturday Night Live debuts",
+    "description": "Hollywood1975Saturday Night Live debuts Share this:facebook twitter google+Print Cite On this day in 1975, Saturday Night Live ( SNL), a topical comedy sketch show featuring Chevy Chase, John Belushi, Dan Aykroyd, Gilda Radner, Garrett Morris, Jane Curtin and Laraine Newman, makes its debut on NBC; ",
+    "frecency": 3562,
+    "url_hash": 76548628124602,
+    "last_visit_date": 1758203935603228
+  }
+}

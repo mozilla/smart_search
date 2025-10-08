@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Things to Do in Chicago View Map Types of Things to Do Top Attractions Shop Tours & Tickets Types of Attractions Sights & Landmarks (242)Museums (118)Tours (193)Nature & Parks (73)Outdoor Activities (104)Concerts & Shows (183)Boat Tours & Water Sports (54)More Neighborhoods Downtown / The Loop (244)Near North Side (128)Lin",
+  "relevance_score": 0.15,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page is a general tourism listing (Things to Do in Chicago) and does not focus on improving sports performance, training, or sports-related skills; only marginally related at best via 'Outdoor Activities'.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Things to Do in Chicago View Map Types of Things to Do Top Attractions Shop Tours & Tickets Types of Attractions Sights & Landmarks (242)Museums (118)Tours (193)Nature & Parks (73)Outdoor Activities (104)Concerts & Shows (183)Boat Tours & Water Sports (54)More Neighborhoods Downtown / The Loop (244)Near North Side (128)Lin",
+  "history": {
+    "url": "https://www.tripadvisor.com/Attractions-g35805-Activities-Chicago_Illinois.html",
+    "title": "Things to Do in Chicago",
+    "description": "View Map Types of Things to Do Top Attractions Shop Tours & Tickets Types of Attractions Sights & Landmarks (242)Museums (118)Tours (193)Nature & Parks (73)Outdoor Activities (104)Concerts & Shows (183)Boat Tours & Water Sports (54)More Neighborhoods Downtown / The Loop (244)Near North Side (128)Lin",
+    "frecency": 2236,
+    "url_hash": 1479351328576,
+    "last_visit_date": 1758203933085228
+  }
+}

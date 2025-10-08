@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Brad's TechTips - Windows Brad's Tech Tips - Windows [ << Full list of Windows tips.] Windows: Copy a Local Profile to a Domain Profile in Windows 7 In Windows XP it was fairly easy to copy one profile to another. Not so for Windows 7. Use the following procedure to copy a Windows 7 local user profile to a domain user profil",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Windows user profiles and local/domain profile copying, not about Python libraries or machine learning; it is not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Brad's TechTips - Windows Brad's Tech Tips - Windows [ << Full list of Windows tips.] Windows: Copy a Local Profile to a Domain Profile in Windows 7 In Windows XP it was fairly easy to copy one profile to another. Not so for Windows 7. Use the following procedure to copy a Windows 7 local user profile to a domain user profil",
+  "history": {
+    "url": "http://www.fieldbrook.net/TechTips/Windows/CopyLocalProfileToDomainProfile.asp",
+    "title": "Brad's TechTips - Windows",
+    "description": "Brad's Tech Tips - Windows [ << Full list of Windows tips.] Windows: Copy a Local Profile to a Domain Profile in Windows 7 In Windows XP it was fairly easy to copy one profile to another. Not so for Windows 7. Use the following procedure to copy a Windows 7 local user profile to a domain user profil",
+    "frecency": 1835,
+    "url_hash": 52147879985079,
+    "last_visit_date": 1758203929426200
+  }
+}

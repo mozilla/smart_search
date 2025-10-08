@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Contact Us Contact Us Call us If you would like to discuss a new policy for your pet, our sales lines are open: Monday to Friday: 9am - 8pm Saturdays: 9am - 5pm Call us on 03330 30 50 30Our service teams are open: Monday to Friday: 9am - 6pm Saturdays: 9am - 1pm. To discuss a new policy for your pet 03330 30 5",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a pet policy contact page with phone numbers and no content related to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Contact Us Contact Us Call us If you would like to discuss a new policy for your pet, our sales lines are open: Monday to Friday: 9am - 8pm Saturdays: 9am - 5pm Call us on 03330 30 50 30Our service teams are open: Monday to Friday: 9am - 6pm Saturdays: 9am - 1pm. To discuss a new policy for your pet 03330 30 5",
+  "history": {
+    "url": "https://www.kcinsurance.co.uk/pages/contactus.aspx",
+    "title": "Contact Us",
+    "description": "Contact Us Call us If you would like to discuss a new policy for your pet, our sales lines are open: Monday to Friday: 9am - 8pm Saturdays: 9am - 5pm Call us on 03330 30 50 30Our service teams are open: Monday to Friday: 9am - 6pm Saturdays: 9am - 1pm. To discuss a new policy for your pet 03330 30 5",
+    "frecency": 4488,
+    "url_hash": 72220232300346,
+    "last_visit_date": 1758203931900111
+  }
+}

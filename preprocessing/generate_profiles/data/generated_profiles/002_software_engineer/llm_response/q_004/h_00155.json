@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Who was the redhead in the DirecTV commercial? \\\"Answers.com \u00ae Wiki Answers \u00ae Categories Technology Electronics Consumer Electronics Television and Video Satellite Television Direc TV Who was the redhead in the Direc TV commercial? Flag Who was the redhead in the Direc TV commercial? Answer by Bigmac965 Confidence votes 26Margaret Easley Margaret",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a DirecTV commercial, not about Docker setup; thus not relevant.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Who was the redhead in the DirecTV commercial? \"Answers.com \u00ae Wiki Answers \u00ae Categories Technology Electronics Consumer Electronics Television and Video Satellite Television Direc TV Who was the redhead in the Direc TV commercial? Flag Who was the redhead in the Direc TV commercial? Answer by Bigmac965 Confidence votes 26Margaret Easley Margaret",
+  "history": {
+    "url": "http://www.answers.com/Q/Who_was_the_redhead_in_the_DirecTV_commercial",
+    "title": "Who was the redhead in the DirecTV commercial?",
+    "description": "\"Answers.com \u00ae Wiki Answers \u00ae Categories Technology Electronics Consumer Electronics Television and Video Satellite Television Direc TV Who was the redhead in the Direc TV commercial? Flag Who was the redhead in the Direc TV commercial? Answer by Bigmac965 Confidence votes 26Margaret Easley Margaret",
+    "frecency": 4741,
+    "url_hash": 25708762172198,
+    "last_visit_date": 1758203929492111
+  }
+}

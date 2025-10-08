@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Oak Island \"Oak Island A Beach Vacation With an Air of Nostalgia When you envision a classic family beach vacation, you're most likely picturing Oak Island, whether you know it yet or not. That nostalgic feeling you get when you think of a family outing on bicycles complete with bells and baskets, an ice cream",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes Oak Island beach vacation and nostalgia, not DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Oak Island \"Oak Island A Beach Vacation With an Air of Nostalgia When you envision a classic family beach vacation, you're most likely picturing Oak Island, whether you know it yet or not. That nostalgic feeling you get when you think of a family outing on bicycles complete with bells and baskets, an ice cream",
+  "history": {
+    "url": "http://www.ncbrunswick.com/islands/Oak_Island",
+    "title": "Oak Island",
+    "description": "\"Oak Island A Beach Vacation With an Air of Nostalgia When you envision a classic family beach vacation, you're most likely picturing Oak Island, whether you know it yet or not. That nostalgic feeling you get when you think of a family outing on bicycles complete with bells and baskets, an ice cream",
+    "frecency": 3903,
+    "url_hash": 78800603522276,
+    "last_visit_date": 1758203930471228
+  }
+}

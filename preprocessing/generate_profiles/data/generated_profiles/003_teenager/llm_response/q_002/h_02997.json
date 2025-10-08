@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Welcome to the Winter Park Chamber of Commerce Visitor's Guide Navigate your way through all that Winter Park has to offer, from world-class museums to upscale boutiques and shopping. Read More Membership Benefits Discover the advantages of your Chamber membership. Activate your network. Connect to Resources to grow your business. Read More Dire",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about the Winter Park Chamber of Commerce and local resources, not about DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Welcome to the Winter Park Chamber of Commerce Visitor's Guide Navigate your way through all that Winter Park has to offer, from world-class museums to upscale boutiques and shopping. Read More Membership Benefits Discover the advantages of your Chamber membership. Activate your network. Connect to Resources to grow your business. Read More Dire",
+  "history": {
+    "url": "https://winterpark.org/",
+    "title": "Welcome to the Winter Park Chamber of Commerce",
+    "description": "Visitor's Guide Navigate your way through all that Winter Park has to offer, from world-class museums to upscale boutiques and shopping. Read More Membership Benefits Discover the advantages of your Chamber membership. Activate your network. Connect to Resources to grow your business. Read More Dire",
+    "frecency": 1841,
+    "url_hash": 93804851808678,
+    "last_visit_date": 1758203935857228
+  }
+}

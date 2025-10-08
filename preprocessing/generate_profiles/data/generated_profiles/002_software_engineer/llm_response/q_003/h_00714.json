@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "About Moen Wynford Oil Rubbed Bronze Two-Handle High Arc Bathroom Faucet About Moen Moen is dedicated to designing and delivering beautiful products that last a lifetime \u2013 all over the world. Learn about our Moen philosophy, people who work at Moen, and even learn how you can join the team. Al Moen and the Moe",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a product page for Moen faucets and not related to database query optimization; it does not address how to optimize database queries.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "About Moen Wynford Oil Rubbed Bronze Two-Handle High Arc Bathroom Faucet About Moen Moen is dedicated to designing and delivering beautiful products that last a lifetime \u2013 all over the world. Learn about our Moen philosophy, people who work at Moen, and even learn how you can join the team. Al Moen and the Moe",
+  "history": {
+    "url": "https://www.moen.com/about-moen",
+    "title": "About Moen",
+    "description": "Wynford Oil Rubbed Bronze Two-Handle High Arc Bathroom Faucet About Moen Moen is dedicated to designing and delivering beautiful products that last a lifetime \u2013 all over the world. Learn about our Moen philosophy, people who work at Moen, and even learn how you can join the team. Al Moen and the Moe",
+    "frecency": 3739,
+    "url_hash": 93436859028273,
+    "last_visit_date": 1758203930098111
+  }
+}

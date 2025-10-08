@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Water suppliers Water suppliers are the companies that provide water only and water and sewerage for general domestic use to the UK\u2019s homes. Suppliers are responsible for all customers in an agreed geographical region and customers are currently unable to switch from one water supplier to another. There are current",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result content discusses water suppliers in the UK and is unrelated to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Water suppliers Water suppliers are the companies that provide water only and water and sewerage for general domestic use to the UK\u2019s homes. Suppliers are responsible for all customers in an agreed geographical region and customers are currently unable to switch from one water supplier to another. There are current",
+  "history": {
+    "url": "https://www.uswitch.com/water/water-suppliers/",
+    "title": "Water suppliers",
+    "description": "Water suppliers are the companies that provide water only and water and sewerage for general domestic use to the UK\u2019s homes. Suppliers are responsible for all customers in an agreed geographical region and customers are currently unable to switch from one water supplier to another. There are current",
+    "frecency": 1258,
+    "url_hash": 75001916197275,
+    "last_visit_date": 1758203931038111
+  }
+}

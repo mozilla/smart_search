@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Antique \\\"From Wikipedia, the free encyclopedianavigation search For other uses, see Antique (disambiguation). This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (September 2007)\\\"",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about antiques on Wikipedia, not about DIY room decoration ideas; it is not relevant.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Antique \"From Wikipedia, the free encyclopedianavigation search For other uses, see Antique (disambiguation). This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (September 2007)",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Antique",
+    "title": "Antique",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search For other uses, see Antique (disambiguation). This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (September 2007)",
+    "frecency": 2354,
+    "url_hash": 32296918397643,
+    "last_visit_date": 1758203936393727
+  }
+}

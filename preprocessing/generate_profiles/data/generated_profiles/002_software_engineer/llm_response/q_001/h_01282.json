@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Muscle of the Human Bodyby Patrick Austin \"Muscle of the Human Bodyby Patrick Austin Mr. Austin is a freelance writer who covers entertainment and sports for Vainquer magazine, and a multitude of life topics on Pulse Med.org The Heart: The Most Important Muscle of the Human Body Those obsessed with muscles tend to direct their attention tow\"",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses human anatomy and muscles, with no relation to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Muscle of the Human Bodyby Patrick Austin \"Muscle of the Human Bodyby Patrick Austin Mr. Austin is a freelance writer who covers entertainment and sports for Vainquer magazine, and a multitude of life topics on Pulse Med.org The Heart: The Most Important Muscle of the Human Body Those obsessed with muscles tend to direct their attention tow",
+  "history": {
+    "url": "http://www.pulsemed.org/muscle-of-the-human-body.htm",
+    "title": "Muscle of the Human Bodyby Patrick Austin",
+    "description": "\"Muscle of the Human Bodyby Patrick Austin Mr. Austin is a freelance writer who covers entertainment and sports for Vainquer magazine, and a multitude of life topics on Pulse Med.org The Heart: The Most Important Muscle of the Human Body Those obsessed with muscles tend to direct their attention tow",
+    "frecency": 2695,
+    "url_hash": 12443328276899,
+    "last_visit_date": 1758203932240111
+  }
+}

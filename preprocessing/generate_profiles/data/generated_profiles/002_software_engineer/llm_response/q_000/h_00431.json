@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "$61kAvg. Salary Salary Hourly Rate Reviews Benefits More Quicken Loans Median Salary by Job Check salary info for your own job \u00bbJob Average Min Max Mortgage Banker25 profiles$27,994$20K $148KSoftware Engineer24 profiles$73,169$55K $90KBusiness Analyst, IT14 profiles$63,082$52K $74KGet a personalized salary report!L",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a salary benchmarking page for various jobs at Quicken Loans and contains no information related to debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "$61kAvg. Salary Salary Hourly Rate Reviews Benefits More Quicken Loans Median Salary by Job Check salary info for your own job \u00bbJob Average Min Max Mortgage Banker25 profiles$27,994$20K $148KSoftware Engineer24 profiles$73,169$55K $90KBusiness Analyst, IT14 profiles$63,082$52K $74KGet a personalized salary report!L",
+  "history": {
+    "url": "https://www.payscale.com/research/US/Employer=Quicken_Loans/Salary",
+    "title": "$61kAvg. Salary",
+    "description": "Salary Hourly Rate Reviews Benefits More Quicken Loans Median Salary by Job Check salary info for your own job \u00bbJob Average Min Max Mortgage Banker25 profiles$27,994$20K $148KSoftware Engineer24 profiles$73,169$55K $90KBusiness Analyst, IT14 profiles$63,082$52K $74KGet a personalized salary report!L",
+    "frecency": 4264,
+    "url_hash": 88441146679872,
+    "last_visit_date": 1758203931690111
+  }
+}

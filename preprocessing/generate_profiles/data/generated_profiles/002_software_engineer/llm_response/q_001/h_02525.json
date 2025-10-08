@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "What Is the Salary Range for a Certified Mechanic? \\\"Related Articles1How Much Money Does a Master Technician Get Paid?2Diesel Truck Mechanic Certification3Facts on the Types of Mechanics4How to Get ASE Certified to Work on Cars The term \\\"mechanic\\\" can apply to people who work on many different kinds of machines, but it is usually used to describe",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses salaries and certification for mechanics, not Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "What Is the Salary Range for a Certified Mechanic? \"Related Articles1How Much Money Does a Master Technician Get Paid?2Diesel Truck Mechanic Certification3Facts on the Types of Mechanics4How to Get ASE Certified to Work on Cars The term \"\"mechanic\"\" can apply to people who work on many different kinds of machines, but it is usually used to describe",
+  "history": {
+    "url": "http://work.chron.com/salary-range-certified-mechanic-21217.html",
+    "title": "What Is the Salary Range for a Certified Mechanic?",
+    "description": "\"Related Articles1How Much Money Does a Master Technician Get Paid?2Diesel Truck Mechanic Certification3Facts on the Types of Mechanics4How to Get ASE Certified to Work on Cars The term \"\"mechanic\"\" can apply to people who work on many different kinds of machines, but it is usually used to describe ",
+    "frecency": 440,
+    "url_hash": 86050559559747,
+    "last_visit_date": 1758203927924111
+  }
+}

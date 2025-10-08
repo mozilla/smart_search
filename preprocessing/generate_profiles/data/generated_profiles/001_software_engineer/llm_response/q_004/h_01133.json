@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "How much money does a decently successful male model make? Ford Models (modeling agency) Male Models Ashton Kutcher (actor, investor)Fashion Models How much money does a decently successful male model make?2 Answers Aimad Massar, Model Answered Dec 5, 2017Male models earn different amounts depending on what country they are in, and the type of work they do.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses earnings of male models, not Docker setup or anything related to Docker for beginners; it is not relevant.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "How much money does a decently successful male model make? Ford Models (modeling agency) Male Models Ashton Kutcher (actor, investor)Fashion Models How much money does a decently successful male model make?2 Answers Aimad Massar, Model Answered Dec 5, 2017Male models earn different amounts depending on what country they are in, and the type of work they do.",
+  "history": {
+    "url": "https://www.quora.com/How-much-money-does-a-decently-successful-male-model-make",
+    "title": "How much money does a decently successful male model make?",
+    "description": "Ford Models (modeling agency) Male Models Ashton Kutcher (actor, investor)Fashion Models How much money does a decently successful male model make?2 Answers Aimad Massar, Model Answered Dec 5, 2017Male models earn different amounts depending on what country they are in, and the type of work they do.",
+    "frecency": 1010,
+    "url_hash": 93605793889020,
+    "last_visit_date": 1758203927852200
+  }
+}

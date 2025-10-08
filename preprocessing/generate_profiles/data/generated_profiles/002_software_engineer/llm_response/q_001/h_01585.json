@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Frequently Asked Questions \\\"Top Questions Featured Questions NOTE: Last Program Year for the Physician Quality Reporting System (PQRS)2016 was the last program year for the Physician Quality Reporting System (PQRS). PQRS was r... (more)How do I, as a provider, get my payments via Electronic Funds Transfer (EFT)? Health plans",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns physician quality reporting and EFT payments, not Python libraries or machine learning; thus it is unrelated to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Frequently Asked Questions \"Top Questions Featured Questions NOTE: Last Program Year for the Physician Quality Reporting System (PQRS)2016 was the last program year for the Physician Quality Reporting System (PQRS). PQRS was r... (more)How do I, as a provider, get my payments via Electronic Funds Transfer (EFT)? Health plans",
+  "history": {
+    "url": "https://questions.cms.gov/faq.php?id=5005&faqId=3131",
+    "title": "Frequently Asked Questions",
+    "description": "\"Top Questions Featured Questions NOTE: Last Program Year for the Physician Quality Reporting System (PQRS)2016 was the last program year for the Physician Quality Reporting System (PQRS). PQRS was r... (more)How do I, as a provider, get my payments via Electronic Funds Transfer (EFT)? Health plans ",
+    "frecency": 2136,
+    "url_hash": 19420852259703,
+    "last_visit_date": 1758203930340111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Quests Quests [This is information from the old Alicia server.] Quests weren't added into the new server yet. This page's information isn't complete. There are a few starting quests missing, if anyone knows them please contact us and send some screenshots to add here, for the best interest of everyone. New",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes game quests and server information, not database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Quests Quests [This is information from the old Alicia server.] Quests weren't added into the new server yet. This page's information isn't complete. There are a few starting quests missing, if anyone knows them please contact us and send some screenshots to add here, for the best interest of everyone. New",
+  "history": {
+    "url": "http://aliciaonheart.weebly.com/quests.html",
+    "title": "Quests",
+    "description": "Quests [This is information from the old Alicia server.] Quests weren't added into the new server yet. This page's information isn't complete. There are a few starting quests missing, if anyone knows them please contact us and send some screenshots to add here, for the best interest of everyone. New",
+    "frecency": 3899,
+    "url_hash": 6091504426732,
+    "last_visit_date": 1758203929878111
+  }
+}

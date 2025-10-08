@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Problem Gambling Institute of Ontario Problem Gambling Institute of Ontario Where helping professionals connect and learn about clinical best practices for problem gambling & technology use",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses problem gambling and clinical best practices, not Python libraries or machine learning topics.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Problem Gambling Institute of Ontario Problem Gambling Institute of Ontario Where helping professionals connect and learn about clinical best practices for problem gambling & technology use",
+  "history": {
+    "url": "http://www.problemgambling.ca/EN/GettingHelp/Pages/SelfHelpWorkbook.aspx",
+    "title": "Problem Gambling Institute of Ontario",
+    "description": "Problem Gambling Institute of Ontario Where helping professionals connect and learn about clinical best practices for problem gambling & technology use ",
+    "frecency": 3362,
+    "url_hash": 32296298267596,
+    "last_visit_date": 1758203927222111
+  }
+}

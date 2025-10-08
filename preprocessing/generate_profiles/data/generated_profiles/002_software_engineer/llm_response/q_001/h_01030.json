@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "We are Movement Strategy a social-led creative agency. We are Movement Strategy a social-led creative agency.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page describes a social-led creative agency and has no relevance to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "We are Movement Strategy a social-led creative agency. We are Movement Strategy a social-led creative agency.",
+  "history": {
+    "url": "http://movementstrategy.com/",
+    "title": "We are Movement Strategy a social-led creative agency.",
+    "description": "We are Movement Strategy a social-led creative agency. ",
+    "frecency": 3171,
+    "url_hash": 58100658260704,
+    "last_visit_date": 1758203930878111
+  }
+}

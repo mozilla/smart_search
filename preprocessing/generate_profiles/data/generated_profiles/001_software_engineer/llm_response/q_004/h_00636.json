@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Wi-Fi base stations: Extending the range of your wireless network by adding additional Wi-Fi base stations Wi-Fi base stations: Extending the range of your wireless network by adding additional Wi-Fi base stations You can extend the range of your Wi-Fi network by using Air Port Utility to set up wireless connections among several Wi-Fi base stations, or to connect them using Ethernet to create a roaming",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about extending Wi-Fi networks using base stations (AirPort Utility) and has no relevance to Docker setup or containerization for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Wi-Fi base stations: Extending the range of your wireless network by adding additional Wi-Fi base stations Wi-Fi base stations: Extending the range of your wireless network by adding additional Wi-Fi base stations You can extend the range of your Wi-Fi network by using Air Port Utility to set up wireless connections among several Wi-Fi base stations, or to connect them using Ethernet to create a roaming",
+  "history": {
+    "url": "https://support.apple.com/en-us/HT202056",
+    "title": "Wi-Fi base stations: Extending the range of your wireless network by adding additional Wi-Fi base stations",
+    "description": "Wi-Fi base stations: Extending the range of your wireless network by adding additional Wi-Fi base stations You can extend the range of your Wi-Fi network by using Air Port Utility to set up wireless connections among several Wi-Fi base stations, or to connect them using Ethernet to create a roaming ",
+    "frecency": 2827,
+    "url_hash": 10706381506569,
+    "last_visit_date": 1758203929420200
+  }
+}

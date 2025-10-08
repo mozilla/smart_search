@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "How IIS processes ASP.NET request? How IIS processes ASP. NET request? Before understanding the full flow, we have to go through following concepts: IIS: IIS (Internet Information Server) is one of the most powerful web servers from Microsoft that is used to host your ASP. NET Web application. IIS has it\u2019s own ASP. NET Process Engine",
+  "relevance_score": 0.2,
+  "binary_decision": 0,
+  "Decision_Reason": "The result discusses IIS and ASP.NET request processing rather than providing guidance on debugging API integrations; it is only tangentially related at best.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "How IIS processes ASP.NET request? How IIS processes ASP. NET request? Before understanding the full flow, we have to go through following concepts: IIS: IIS (Internet Information Server) is one of the most powerful web servers from Microsoft that is used to host your ASP. NET Web application. IIS has it\u2019s own ASP. NET Process Engine",
+  "history": {
+    "url": "http://theprofessionalspoint.blogspot.com/2012/04/how-iis-processes-aspnet-request.html",
+    "title": "How IIS processes ASP.NET request?",
+    "description": "How IIS processes ASP. NET request? Before understanding the full flow, we have to go through following concepts: IIS: IIS (Internet Information Server) is one of the most powerful web servers from Microsoft that is used to host your ASP. NET Web application. IIS has it\u2019s own ASP. NET Process Engine",
+    "frecency": 4284,
+    "url_hash": 14842090188224,
+    "last_visit_date": 1758203927908111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "New York City Department of Health and Mental Hygiene Websitehttp://www.nychealthcareers.com Address42-09 28th Street Long Island City NY 11101 United States About Us With an annual budget of $1.6 billion and more than 6,000 employees throughout the five boroughs, we're one of the largest public health agencies in the world, serving 8 million New Yorke",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a public health department and is unrelated to IDEs or software development.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "New York City Department of Health and Mental Hygiene Websitehttp://www.nychealthcareers.com Address42-09 28th Street Long Island City NY 11101 United States About Us With an annual budget of $1.6 billion and more than 6,000 employees throughout the five boroughs, we're one of the largest public health agencies in the world, serving 8 million New Yorke",
+  "history": {
+    "url": "https://www.idealist.org/en/government/2e25d956d67c40a484f413bffb7df564-new-york-city-department-of-health-and-mental-hygiene-long-island-city",
+    "title": "New York City Department of Health and Mental Hygiene",
+    "description": "Websitehttp://www.nychealthcareers.com Address42-09 28th Street Long Island City NY 11101 United States About Us With an annual budget of $1.6 billion and more than 6,000 employees throughout the five boroughs, we're one of the largest public health agencies in the world, serving 8 million New Yorke",
+    "frecency": 4135,
+    "url_hash": 7900200124904,
+    "last_visit_date": 1758203931966111
+  }
+}

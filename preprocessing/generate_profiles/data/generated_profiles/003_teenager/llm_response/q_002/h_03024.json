@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Are Melissa Gilbert and Elizabeth Gilbert related? \\\"Gd Here 41,285 Contributions Are Melissa Gilbert and Elizabeth Gilbert related? They are not related. Where did Melissa Gilbert go to school? Actress Melissa Gilbert attended The Buckley School in Sherman Oaks, California for her high school years. She is best known forher role as Laura Ingalls on",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses whether Melissa Gilbert and Elizabeth Gilbert are related, along with schooling details, which is unrelated to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Are Melissa Gilbert and Elizabeth Gilbert related? \"Gd Here 41,285 Contributions Are Melissa Gilbert and Elizabeth Gilbert related? They are not related. Where did Melissa Gilbert go to school? Actress Melissa Gilbert attended The Buckley School in Sherman Oaks, California for her high school years. She is best known forher role as Laura Ingalls on",
+  "history": {
+    "url": "http://www.answers.com/Q/How_old_is_Melissa_Gilbert",
+    "title": "Are Melissa Gilbert and Elizabeth Gilbert related?",
+    "description": "\"Gd Here 41,285 Contributions Are Melissa Gilbert and Elizabeth Gilbert related? They are not related. Where did Melissa Gilbert go to school? Actress Melissa Gilbert attended The Buckley School in Sherman Oaks, California for her high school years. She is best known forher role as Laura Ingalls on ",
+    "frecency": 1815,
+    "url_hash": 31680022685963,
+    "last_visit_date": 1758203933075228
+  }
+}

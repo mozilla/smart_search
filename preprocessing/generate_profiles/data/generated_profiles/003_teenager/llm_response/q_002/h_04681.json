@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "What are the Longest Running Broadway Shows? What are the Longest Running Broadway Shows? Broadway lovers worldwide often wonder what are the longest running shows. With such a rich and storied history, Broadway stages have showcased many long-running shows over the years. Several of the longest running shows are still playing today.",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Broadway shows, not DIY room decoration ideas; therefore it is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "What are the Longest Running Broadway Shows? What are the Longest Running Broadway Shows? Broadway lovers worldwide often wonder what are the longest running Broadway shows. With such a rich and storied history, Broadway stages have showcased many long-running shows over the years. Several of the longest running shows are still playing today.",
+  "history": {
+    "url": "https://www.broadway.org/info/what-are-the-longest-running-broadway-shows/",
+    "title": "What are the Longest Running Broadway Shows?",
+    "description": "What are the Longest Running Broadway Shows? Broadway lovers worldwide often wonder what are the longest running Broadway shows. With such a rich and storied history, Broadway stages have showcased many long-running shows over the years. Several of the longest running shows are still playing today. ",
+    "frecency": 150,
+    "url_hash": 9706348421052,
+    "last_visit_date": 1758203928732735
+  }
+}

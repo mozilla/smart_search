@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Key code \\\"This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (August 2012) ( Learn how and when to remove this template message)A key code is a series of alphanumeric characters\\\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses key codes and article citation templates, not API debugging.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Key code \"This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (August 2012) ( Learn how and when to remove this template message)A key code is a series of alphanumeric characters",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Key_code",
+    "title": "Key code",
+    "description": "\"This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (August 2012) ( Learn how and when to remove this template message)A key code is a series of alphanumeric characters ",
+    "frecency": 1049,
+    "url_hash": 6425729250424,
+    "last_visit_date": 1758203930226111
+  }
+}

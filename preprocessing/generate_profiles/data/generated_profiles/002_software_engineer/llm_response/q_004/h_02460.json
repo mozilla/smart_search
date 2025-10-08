@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "How to Define and Use A Java Array Custom Search How to Define and Use A Java Arrayby Nancy Sewell Beginner Java: Simple array Java Arrays are data structures containing objects of the same type. A String array can only contain Strings and a Car array can only contain car objects. Arrays are used to store objects that you want to use",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Java arrays and is not related to Docker setup or beginner Docker guidance.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "How to Define and Use A Java Array Custom Search How to Define and Use A Java Arrayby Nancy Sewell Beginner Java: Simple array Java Arrays are data structures containing objects of the same type. A String array can only contain Strings and a Car array can only contain car objects. Arrays are used to store objects that you want to use",
+  "history": {
+    "url": "http://www.horsesnw.com/articles/JavaArray.htm",
+    "title": "How to Define and Use A Java Array",
+    "description": "Custom Search How to Define and Use A Java Arrayby Nancy Sewell Beginner Java: Simple array Java Arrays are data structures containing objects of the same type. A String array can only contain Strings and a Car array can only contain car objects. Arrays are used to store objects that you want to use",
+    "frecency": 558,
+    "url_hash": 29926402608563,
+    "last_visit_date": 1758203928972111
+  }
+}

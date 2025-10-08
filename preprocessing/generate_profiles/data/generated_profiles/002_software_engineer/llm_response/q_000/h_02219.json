@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Holly Bobo Murder Suspect Indicted Zachary Adams has been indicted for the 2011 murder of Holly Bobo, a nursing student from Tennessee. He was indicted on Wednesday for the especially aggravated kidnapping of Holly Bobo and first degree murder charges. According to sources closest to Adams, and a bad record to match, Adams was consid",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a criminal case unrelated to API debugging, so it is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Holly Bobo Murder Suspect Indicted Zachary Adams has been indicted for the 2011 murder of Holly Bobo, a nursing student from Tennessee. He was indicted on Wednesday for the especially aggravated kidnapping of Holly Bobo and first degree murder charges. According to sources closest to Adams, and a bad record to match, Adams was consid",
+  "history": {
+    "url": "http://guardianlv.com/2014/03/holly-bobo-murder-suspect-indicted/",
+    "title": "Holly Bobo Murder Suspect Indicted",
+    "description": "Zachary Adams has been indicted for the 2011 murder of Holly Bobo, a nursing student from Tennessee. He was indicted on Wednesday for the especially aggravated kidnapping of Holly Bobo and first degree murder charges. According to sources closest to Adams, and a bad record to match, Adams was consid",
+    "frecency": 970,
+    "url_hash": 51680366840394,
+    "last_visit_date": 1758203930482111
+  }
+}

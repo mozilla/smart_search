@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Staffing the Executive Office: Presidential Appointees & the Appointing Process Instructor: Ashley Dugger Ashley is an attorney. She has taught and written various introductory law courses. The United States president appoints, or selects, people to serve in many different positions in the federal government. This lesson identifies the various positions appointed by the preside",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses presidential appointments and government positions, not API integration or debugging APIs; it is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Staffing the Executive Office: Presidential Appointees & the Appointing Process Instructor: Ashley Dugger Ashley is an attorney. She has taught and written various introductory law courses. The United States president appoints, or selects, people to serve in many different positions in the federal government. This lesson identifies the various positions appointed by the preside",
+  "history": {
+    "url": "http://study.com/academy/lesson/staffing-the-executive-office-presidential-appointees-the-appointing-process.html",
+    "title": "Staffing the Executive Office: Presidential Appointees & the Appointing Process",
+    "description": "Instructor: Ashley Dugger Ashley is an attorney. She has taught and written various introductory law courses. The United States president appoints, or selects, people to serve in many different positions in the federal government. This lesson identifies the various positions appointed by the preside",
+    "frecency": 359,
+    "url_hash": 92800637723741,
+    "last_visit_date": 1758203927152111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "David and Valerie Robinson's Donation Totals $9 Million David and Valerie Robinson's Donation Totals $9 Million Posted: May 24, 2002NBA center David Robinson made public on Friday his plans to retire after the San Antonio Spurs\u2019 2002-2003 basketball season. Following this disclosure, David and Valerie Robinson announced the decision to pledge additional",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about donations and retirement of NBA player David Robinson, not related to Docker or beginner setup.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "David and Valerie Robinson's Donation Totals $9 Million David and Valerie Robinson's Donation Totals $9 Million Posted: May 24, 2002NBA center David Robinson made public on Friday his plans to retire after the San Antonio Spurs\u2019 2002-2003 basketball season. Following this disclosure, David and Valerie Robinson announced the decision to pledge additional",
+  "history": {
+    "url": "http://www.nba.com/spurs/news/robinson_donation_020524.html",
+    "title": "David and Valerie Robinson's Donation Totals $9 Million",
+    "description": "David and Valerie Robinson's Donation Totals $9 Million Posted: May 24, 2002NBA center David Robinson made public on Friday his plans to retire after the San Antonio Spurs\u2019 2002-2003 basketball season. Following this disclosure, David and Valerie Robinson announced the decision to pledge additional ",
+    "frecency": 265,
+    "url_hash": 30719644660400,
+    "last_visit_date": 1758203929552111
+  }
+}

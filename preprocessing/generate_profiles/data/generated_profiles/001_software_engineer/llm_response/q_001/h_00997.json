@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Deployments Home Resources Deployments Deployments If you are married to a Marine, more than likely your Marine will be deploying overseas several times. It can be a tough decision whether or not you want to stay at the military base you\u2019re stationed at or move back home to be with family and friends. I\u2019ve done",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses military deployments and personal relationships, with no mention of Python, libraries, or machine learning; thus it is not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Deployments Home Resources Deployments Deployments If you are married to a Marine, more than likely your Marine will be deploying overseas several times. It can be a tough decision whether or not you want to stay at the military base you\u2019re stationed at or move back home to be with family and friends. I\u2019ve done",
+  "history": {
+    "url": "http://usmclife.com/info/deployments/",
+    "title": "Deployments",
+    "description": "Home Resources Deployments Deployments If you are married to a Marine, more than likely your Marine will be deploying overseas several times. It can be a tough decision whether or not you want to stay at the military base you\u2019re stationed at or move back home to be with family and friends. I\u2019ve done",
+    "frecency": 1447,
+    "url_hash": 73573563716950,
+    "last_visit_date": 1758203929088200
+  }
+}

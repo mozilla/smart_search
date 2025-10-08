@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Overview Overview The CCENT certification validates the skills required for entry-level network support positions, the starting point for many successful careers in networking. CCENT certified professionals have the knowledge and skill to install, operate, and troubleshoot a small enterprise branch network,",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses CCENT certification and general networking, not Docker or beginner Docker setup.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Overview Overview The CCENT certification validates the skills required for entry-level network support positions, the starting point for many successful careers in networking. CCENT certified professionals have the knowledge and skill to install, operate, and troubleshoot a small enterprise branch network,",
+  "history": {
+    "url": "http://www.cisco.com/c/en/us/training-events/training-certifications/certifications/entry/ccent.html",
+    "title": "Overview",
+    "description": "Overview The CCENT certification validates the skills required for entry-level network support positions, the starting point for many successful careers in networking. CCENT certified professionals have the knowledge and skill to install, operate, and troubleshoot a small enterprise branch network, ",
+    "frecency": 2638,
+    "url_hash": 94569823191017,
+    "last_visit_date": 1758203928374111
+  }
+}

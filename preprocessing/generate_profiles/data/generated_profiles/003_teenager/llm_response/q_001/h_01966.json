@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "John O'SullivanObituary Condolences \"John O'Sullivan Obituary Condolences John Vincent O'Sullivan, 54, Passed away suddenly while traveling over the Thanksgiving holidays. Born January 16, 1957 in Houston, Texas, John loved Being Out Doors enjoying many activities, Member of St Marys Catholic Church in La Porte, and had practiced law\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is an obituary and not related to TikTok trends.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "John O'SullivanObituary Condolences \"John O'Sullivan Obituary Condolences John Vincent O'Sullivan, 54, Passed away suddenly while traveling over the Thanksgiving holidays. Born January 16, 1957 in Houston, Texas, John loved Being Out Doors enjoying many activities, Member of St Marys Catholic Church in La Porte, and had practiced law",
+  "history": {
+    "url": "http://www.legacy.com/obituaries/houstonchronicle/obituary.aspx?pid=154861658",
+    "title": "John O'SullivanObituary Condolences",
+    "description": "\"John O'Sullivan Obituary Condolences John Vincent O'Sullivan, 54, Passed away suddenly while traveling over the Thanksgiving holidays. Born January 16, 1957 in Houston, Texas, John loved Being Out Doors enjoying many activities, Member of St Marys Catholic Church in La Porte, and had practiced law ",
+    "frecency": 2979,
+    "url_hash": 73763856913438,
+    "last_visit_date": 1758203929100735
+  }
+}

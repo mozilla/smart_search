@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "WIRELESS ROUTERS WIRELESS ROUTERSEnabling a powerful Wi-Fi network for all your online activities. LEARN MORE",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses wireless routers, not DIY room decoration ideas; there is no alignment with the user's query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "WIRELESS ROUTERS WIRELESS ROUTERSEnabling a powerful Wi-Fi network for all your online activities. LEARN MORE",
+  "history": {
+    "url": "http://www.linksys.com/us/c/wireless-routers/",
+    "title": "WIRELESS ROUTERS",
+    "description": "WIRELESS ROUTERSEnabling a powerful Wi-Fi network for all your online activities. LEARN MORE ",
+    "frecency": 4755,
+    "url_hash": 82765709154892,
+    "last_visit_date": 1758203933859228
+  }
+}

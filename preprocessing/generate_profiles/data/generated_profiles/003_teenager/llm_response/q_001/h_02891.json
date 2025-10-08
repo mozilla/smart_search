@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "Landfills in the United States \"From Wikipedia, the free encyclopedianavigation search Former city landfill in New Jersey, now golf course Municipal solid waste (MSW) \u2013 more commonly known as trash or garbage \u2013 consists of everyday items people use and then throw away, such as product packaging, grass clippings, furniture, clothi\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about landfills and waste management, unrelated to TikTok trends for 2024.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "Landfills in the United States \"From Wikipedia, the free encyclopedianavigation search Former city landfill in New Jersey, now golf course Municipal solid waste (MSW) \u2013 more commonly known as trash or garbage \u2013 consists of everyday items people use and then throw away, such as product packaging, grass clippings, furniture, clothi",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Landfills_in_the_United_States",
+    "title": "Landfills in the United States",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search Former city landfill in New Jersey, now golf course Municipal solid waste (MSW) \u2013 more commonly known as trash or garbage \u2013 consists of everyday items people use and then throw away, such as product packaging, grass clippings, furniture, clothi",
+    "frecency": 1983,
+    "url_hash": 13757331706783,
+    "last_visit_date": 1758203932479228
+  }
+}

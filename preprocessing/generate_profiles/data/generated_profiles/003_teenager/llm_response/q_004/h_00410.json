@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Show Synopsis \\\"Show Synopsis From screenwriter/playwright Aaron Sorkin, who brought us The West Wing and The Social Network, comes a whirlwind history of the controversial invention of the television. Philo Farnsworth, a child prodigy raised on a farm in rural Idaho, has overcome adversity to create a groundbreak\\\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses the invention of television and a biography, not sports or athletic performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Show Synopsis \"Show Synopsis From screenwriter/playwright Aaron Sorkin, who brought us The West Wing and The Social Network, comes a whirlwind history of the controversial invention of the television. Philo Farnsworth, a child prodigy raised on a farm in rural Idaho, has overcome adversity to create a groundbreak",
+  "history": {
+    "url": "https://www.flatearththeatre.com/shows/2015/farnsworth/",
+    "title": "Show Synopsis",
+    "description": "\"Show Synopsis From screenwriter/playwright Aaron Sorkin, who brought us The West Wing and The Social Network, comes a whirlwind history of the controversial invention of the television. Philo Farnsworth, a child prodigy raised on a farm in rural Idaho, has overcome adversity to create a groundbreak",
+    "frecency": 4574,
+    "url_hash": 85940426894870,
+    "last_visit_date": 1758203929402735
+  }
+}

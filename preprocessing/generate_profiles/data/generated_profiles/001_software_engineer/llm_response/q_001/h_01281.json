@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Microsoft Project: Plan Better with Microsoft Project Microsoft Project: Plan Better with Microsoft Project When planning and executing IT project plans, defaulting to using Excel could impede your progress. It could be worth learning Microsoft Project. Eric Uyttewaal IT projects come at you fast and furious. You might be expected to create schedules i",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns Microsoft Project/IT project planning, not Python libraries or machine learning, so it is not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Microsoft Project: Plan Better with Microsoft Project Microsoft Project: Plan Better with Microsoft Project When planning and executing IT project plans, defaulting to using Excel could impede your progress. It could be worth learning Microsoft Project. Eric Uyttewaal IT projects come at you fast and furious. You might be expected to create schedules i",
+  "history": {
+    "url": "https://technet.microsoft.com/en-us/library/hh825674.aspx",
+    "title": "Microsoft Project: Plan Better with Microsoft Project",
+    "description": "Microsoft Project: Plan Better with Microsoft Project When planning and executing IT project plans, defaulting to using Excel could impede your progress. It could be worth learning Microsoft Project. Eric Uyttewaal IT projects come at you fast and furious. You might be expected to create schedules i",
+    "frecency": 498,
+    "url_hash": 39600561566116,
+    "last_visit_date": 1758203928500200
+  }
+}

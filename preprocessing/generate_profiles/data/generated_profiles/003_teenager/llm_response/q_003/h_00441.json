@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Midlife \\\"Midlife Midlife can be a stressful time, and many people feel discontented and restless as they struggle with aging, their mortality, and their sense of purpose in life. Definition Midlife is the central period of a person's life, spanning from approximately age 40 to age 65. During this period, ad",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses 'midlife' and aging, not apps or study habits; it is not relevant to the query about best apps for improving study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Midlife \"Midlife Midlife can be a stressful time, and many people feel discontented and restless as they struggle with aging, their mortality, and their sense of purpose in life. Definition Midlife is the central period of a person's life, spanning from approximately age 40 to age 65. During this period, ad",
+  "history": {
+    "url": "https://www.psychologytoday.com/conditions/midlife",
+    "title": "Midlife",
+    "description": "\"Midlife Midlife can be a stressful time, and many people feel discontented and restless as they struggle with aging, their mortality, and their sense of purpose in life. Definition Midlife is the central period of a person's life, spanning from approximately age 40 to age 65. During this period, ad",
+    "frecency": 4528,
+    "url_hash": 67015423036786,
+    "last_visit_date": 1758203929949228
+  }
+}

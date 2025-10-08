@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Anna Julia Cooper \\\"Women's Intellectual Contributions to the Study of Mind and Society Students, as part of an advanced seminar, examined and wrote about the lives of these women, their intellectual contributions, and the unique impact and special problems that being female had on their careers. For information about\\\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Anna Julia Cooper and women's intellectual contributions, unrelated to Python libraries or machine learning. Therefore not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Anna Julia Cooper \"Women's Intellectual Contributions to the Study of Mind and Society Students, as part of an advanced seminar, examined and wrote about the lives of these women, their intellectual contributions, and the unique impact and special problems that being female had on their careers. For information about",
+  "history": {
+    "url": "http://faculty.webster.edu/woolflm/cooper.html",
+    "title": "Anna Julia Cooper",
+    "description": "\"Women's Intellectual Contributions to the Study of Mind and Society Students, as part of an advanced seminar, examined and wrote about the lives of these women, their intellectual contributions, and the unique impact and special problems that being female had on their careers. For information about",
+    "frecency": 2671,
+    "url_hash": 22949365555988,
+    "last_visit_date": 1758203931924111
+  }
+}

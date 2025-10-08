@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Safety committees Safety committees Health and safety committees allow businesses (and other PCBUs) to work together with workers on health and safety matters. A health and safety committee can be a good option if you have a significant number of workers who may be reluctant to take on the role of a health and safety",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses safety committees, with no reference to Python, machine learning, or related topics.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Safety committees Safety committees Health and safety committees allow businesses (and other PCBUs) to work together with workers on health and safety matters. A health and safety committee can be a good option if you have a significant number of workers who may be reluctant to take on the role of a health and safety",
+  "history": {
+    "url": "http://www.safework.nsw.gov.au/health-and-safety/safety-representation/safety-committees",
+    "title": "Safety committees",
+    "description": "Safety committees Health and safety committees allow businesses (and other PCBUs) to work together with workers on health and safety matters. A health and safety committee can be a good option if you have a significant number of workers who may be reluctant to take on the role of a health and safety",
+    "frecency": 4603,
+    "url_hash": 43306254296503,
+    "last_visit_date": 1758203927906111
+  }
+}

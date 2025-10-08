@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Elvis  (miniseries) \"From Wikipedia, the free encyclopedia (Redirected from Elvis (TV miniseries))navigation search This article does not cite any sources. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (September 2017) ( Learn how and when to",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Elvis (miniseries) and unrelated to improving sports performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Elvis  (miniseries) \"From Wikipedia, the free encyclopedia (Redirected from Elvis (TV miniseries))navigation search This article does not cite any sources. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (September 2017) ( Learn how and when to",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Elvis_(TV_miniseries)",
+    "title": "Elvis  (miniseries)",
+    "description": "\"From Wikipedia, the free encyclopedia (Redirected from Elvis (TV miniseries))navigation search This article does not cite any sources. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (September 2017) ( Learn how and when to",
+    "frecency": 410,
+    "url_hash": 74837553528431,
+    "last_visit_date": 1758203935469228
+  }
+}

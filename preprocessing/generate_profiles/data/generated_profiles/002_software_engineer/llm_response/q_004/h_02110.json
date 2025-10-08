@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Program Executive Office for Enterprise Information Systems (PEO EIS) INDUSTRY ENGAGEMENTFind information on the Innovation Cell and other ways to do business with PEO EIS Learn More SMALL BUSINESS CENTERLearn more about Small Business opportunities and ways to engage as a Small Business. Learn More SAILOR MOBILE APP DEVELOPMENTAccess our Navy mobile applications made",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses government programs and business engagement (PEO EIS, small business, Navy apps) and does not mention Docker, containers, or setup guidance.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Program Executive Office for Enterprise Information Systems (PEO EIS) INDUSTRY ENGAGEMENTFind information on the Innovation Cell and other ways to do business with PEO EIS Learn More SMALL BUSINESS CENTERLearn more about Small Business opportunities and ways to engage as a Small Business. Learn More SAILOR MOBILE APP DEVELOPMENTAccess our Navy mobile applications made",
+  "history": {
+    "url": "http://www.public.navy.mil/spawar/PEOEIS/",
+    "title": "Program Executive Office for Enterprise Information Systems (PEO EIS)",
+    "description": "INDUSTRY ENGAGEMENTFind information on the Innovation Cell and other ways to do business with PEO EIS Learn More SMALL BUSINESS CENTERLearn more about Small Business opportunities and ways to engage as a Small Business. Learn More SAILOR MOBILE APP DEVELOPMENTAccess our Navy mobile applications made",
+    "frecency": 1185,
+    "url_hash": 73007624954440,
+    "last_visit_date": 1758203927334111
+  }
+}

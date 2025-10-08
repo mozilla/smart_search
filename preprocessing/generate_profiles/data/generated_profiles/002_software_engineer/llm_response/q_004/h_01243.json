@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Creating Clickable DIVs \\\"Creating Clickable DIVs By Chris Coyier On July 16, 2007j Query DIV's are a must in all CSS-based web design. They give you all kinds of fantastic positioning ability and give structure to your HTML. You can put links inside of a DIV, of course, but sometimes you just want the whole DIV to be click",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about clickable DIVs in CSS/HTML, not about Docker setup. It does not address Docker or beginner-focused Docker setup topics.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Creating Clickable DIVs \"Creating Clickable DIVs By Chris Coyier On July 16, 2007j Query DIV's are a must in all CSS-based web design. They give you all kinds of fantastic positioning ability and give structure to your HTML. You can put links inside of a DIV, of course, but sometimes you just want the whole DIV to be click",
+  "history": {
+    "url": "https://css-tricks.com/creating-clickable-divs/",
+    "title": "Creating Clickable DIVs",
+    "description": "\"Creating Clickable DIVs By Chris Coyier On July 16, 2007j Query DIV's are a must in all CSS-based web design. They give you all kinds of fantastic positioning ability and give structure to your HTML. You can put links inside of a DIV, of course, but sometimes you just want the whole DIV to be click",
+    "frecency": 2771,
+    "url_hash": 90449090374146,
+    "last_visit_date": 1758203929468111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Hogwarts houses: Hufflepuff Hogwarts houses: Hufflepuff Hufflepuffs value hard work, patience, loyalty, and fair play. The house has produced its share of great wizards \u2013 not least Newt Scamander, author of Fantastic Beasts and Where to Find Them Helga Hufflepuff Character profile I\u2019ll teach the lot, and treat them just sa",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Hogwarts houses, not sports improvement, thus not relevant to the query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Hogwarts houses: Hufflepuff Hogwarts houses: Hufflepuff Hufflepuffs value hard work, patience, loyalty, and fair play. The house has produced its share of great wizards \u2013 not least Newt Scamander, author of Fantastic Beasts and Where to Find Them Helga Hufflepuff Character profile I\u2019ll teach the lot, and treat them just the sa",
+  "history": {
+    "url": "https://www.pottermore.com/collection/all-about-hufflepuff",
+    "title": "Hogwarts houses: Hufflepuff",
+    "description": "Hogwarts houses: Hufflepuff Hufflepuffs value hard work, patience, loyalty, and fair play. The house has produced its share of great wizards \u2013 not least Newt Scamander, author of Fantastic Beasts and Where to Find Them Helga Hufflepuff Character profile I\u2019ll teach the lot, and treat them just the sa",
+    "frecency": 250,
+    "url_hash": 86743453362638,
+    "last_visit_date": 1758203928020735
+  }
+}

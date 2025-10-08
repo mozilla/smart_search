@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Extraordinary Young Talent News Channel 9's Carrie Lazarus profiles the extraordinary people and places that make Central New York a unique and diverse place. Load More Extraordinary Young Talent Local News Extraordinary: Syracuse Ballet's 'Aladdin'27 days ago The beloved tale of 'Aladdin' will soon be performed by the Syracu",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses local talent/news (Syracuse ballet, Aladdin) and does not relate to apps for improving study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Extraordinary Young Talent News Channel 9's Carrie Lazarus profiles the extraordinary people and places that make Central New York a unique and diverse place. Load More Extraordinary Young Talent Local News Extraordinary: Syracuse Ballet's 'Aladdin'27 days ago The beloved tale of 'Aladdin' will soon be performed by the Syracu",
+  "history": {
+    "url": "http://www.localsyr.com/extraordinary",
+    "title": "Extraordinary Young Talent",
+    "description": "News Channel 9's Carrie Lazarus profiles the extraordinary people and places that make Central New York a unique and diverse place. Load More Extraordinary Young Talent Local News Extraordinary: Syracuse Ballet's 'Aladdin'27 days ago The beloved tale of 'Aladdin' will soon be performed by the Syracu",
+    "frecency": 1077,
+    "url_hash": 51982579277314,
+    "last_visit_date": 1758203931025228
+  }
+}

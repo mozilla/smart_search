@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Sacramento Legal Secretaries Association Sacramento Legal Secretaries Association Welcome to the website for the Sacramento Legal Secretaries Association (SLSA). Founded in 1940, our nonprofit, educational association was organized for the main purpose of educating and training legal professionals. To that end, SLSA holds quality education",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a legal association and education for legal professionals, not related to debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Sacramento Legal Secretaries Association Sacramento Legal Secretaries Association Welcome to the website for the Sacramento Legal Secretaries Association (SLSA). Founded in 1940, our nonprofit, educational association was organized for the main purpose of educating and training legal professionals. To that end, SLSA holds quality education",
+  "history": {
+    "url": "http://www.slsa.org/",
+    "title": "Sacramento Legal Secretaries Association",
+    "description": "Sacramento Legal Secretaries Association Welcome to the website for the Sacramento Legal Secretaries Association (SLSA). Founded in 1940, our nonprofit, educational association was organized for the main purpose of educating and training legal professionals. To that end, SLSA holds quality education",
+    "frecency": 2170,
+    "url_hash": 12573698975276,
+    "last_visit_date": 1758203930106111
+  }
+}

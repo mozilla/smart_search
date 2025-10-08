@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Where can I get hold of free pallets? Where can I get hold of free pallets? Someone asked us if and where they could get some free pallets. They were looking for wooden pallets to build a cheap play house for their kids on their garden. It is generally quite hard to get hold of free pallets as they could be sold to companies that repair",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses obtaining free pallets for a playhouse, not room decoration ideas; it has little to no relevance to 'easy DIY room decoration ideas'.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Where can I get hold of free pallets? Where can I get hold of free pallets? Someone asked us if and where they could get some free pallets. They were looking for wooden pallets to build a cheap play house for their kids on their garden. It is generally quite hard to get hold of free pallets as they could be sold to companies that repair",
+  "history": {
+    "url": "http://pallets.indinf.com/free-pallets.html",
+    "title": "Where can I get hold of free pallets?",
+    "description": "Where can I get hold of free pallets? Someone asked us if and where they could get some free pallets. They were looking for wooden pallets to build a cheap play house for their kids on their garden. It is generally quite hard to get hold of free pallets as they could be sold to companies that repair",
+    "frecency": 4569,
+    "url_hash": 66472636366872,
+    "last_visit_date": 1758203927678735
+  }
+}

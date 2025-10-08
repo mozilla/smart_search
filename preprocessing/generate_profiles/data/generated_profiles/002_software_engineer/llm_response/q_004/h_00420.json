@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "cultural competency \"cultural competency Definition Popular Terms A set of behaviors, policies, and attitudes which form a system or agency which allows cross-cultural groups to effectively work professionally in situations. This includes human behaviors, languages, communications, actions, values, religious beliefs, s",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses cultural competency, not Docker or setup; not relevant to 'Docker setup for beginners'.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "cultural competency \"cultural competency Definition Popular Terms A set of behaviors, policies, and attitudes which form a system or agency which allows cross-cultural groups to effectively work professionally in situations. This includes human behaviors, languages, communications, actions, values, religious beliefs, s",
+  "history": {
+    "url": "http://www.businessdictionary.com/definition/cultural-competency.html",
+    "title": "cultural competency",
+    "description": "\"cultural competency Definition Popular Terms A set of behaviors, policies, and attitudes which form a system or agency which allows cross-cultural groups to effectively work professionally in situations. This includes human behaviors, languages, communications, actions, values, religious beliefs, s",
+    "frecency": 4284,
+    "url_hash": 70110985135554,
+    "last_visit_date": 1758203931486111
+  }
+}

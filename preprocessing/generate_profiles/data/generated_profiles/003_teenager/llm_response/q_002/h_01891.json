@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Are you an aquaholic? Doctors are always advising us to drink more water but in fact drinking too much can be even worse... \\\"Are you an aquaholic? Doctors are always advising us to drink more water but in fact drinking too much can be even worse... We've been told it can boost concentration and keep headaches at bay But, experts are now questioning the health benefits of drinking water It's suggested that the recommended",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses drinking water and health benefits, not DIY room decoration ideas; unrelated to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Are you an aquaholic? Doctors are always advising us to drink more water but in fact drinking too much can be even worse... \"Are you an aquaholic? Doctors are always advising us to drink more water but in fact drinking too much can be even worse... We've been told it can boost concentration and keep headaches at bay But, experts are now questioning the health benefits of drinking water It's suggested that the recommended",
+  "history": {
+    "url": "http://www.dailymail.co.uk/femail/article-2954820/Are-aquaholic-Doctors-advising-drink-water-fact-drinking-worse.html",
+    "title": "Are you an aquaholic? Doctors are always advising us to drink more water but in fact drinking too much can be even worse...",
+    "description": "\"Are you an aquaholic? Doctors are always advising us to drink more water but in fact drinking too much can be even worse... We've been told it can boost concentration and keep headaches at bay But, experts are now questioning the health benefits of drinking water It's suggested that the recommended",
+    "frecency": 3063,
+    "url_hash": 19372134345874,
+    "last_visit_date": 1758203933235228
+  }
+}

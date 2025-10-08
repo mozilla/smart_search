@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "History History History Town of Walton Before the settlers of the late 1700\u2019s came to the Walton area, Indian tribes of the Delaware or Lenape Nation used these lands for hunting grounds. In the early 1700\u2019s surveyors appeared to survey the Hardenburg Patent. A stipulation of this granted patent from the En",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a historical page about the Town of Walton and early settlers; it has no content about improving sports skills or athletic performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "History History History Town of Walton Before the settlers of the late 1700\u2019s came to the Walton area, Indian tribes of the Delaware or Lenape Nation used these lands for hunting grounds. In the early 1700\u2019s surveyors appeared to survey the Hardenburg Patent. A stipulation of this granted patent from the En",
+  "history": {
+    "url": "http://townofwalton.org/about/history/",
+    "title": "History",
+    "description": "History History Town of Walton Before the settlers of the late 1700\u2019s came to the Walton area, Indian tribes of the Delaware or Lenape Nation used these lands for hunting grounds. In the early 1700\u2019s surveyors appeared to survey the Hardenburg Patent. A stipulation of this granted patent from the En",
+    "frecency": 3851,
+    "url_hash": 84558339204283,
+    "last_visit_date": 1758203928088735
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Onboarding Studies by SHRM have proven the value of implementing a strong onboarding program within an organization to improve employee engagement and retention. Automation allows organizations of all sizes to affordably capitalize on the benefits of a formal onboarding program. The key question becomes, 'what",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses onboarding and employee engagement, not database query optimization; it is not relevant to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Onboarding Studies by SHRM have proven the value of implementing a strong onboarding program within an organization to improve employee engagement and retention. Automation allows organizations of all sizes to affordably capitalize on the benefits of a formal onboarding program. The key question becomes, 'what",
+  "history": {
+    "url": "https://www.icims.com/resources/white-paper/onboarding",
+    "title": "Onboarding",
+    "description": "Studies by SHRM have proven the value of implementing a strong onboarding program within an organization to improve employee engagement and retention. Automation allows organizations of all sizes to affordably capitalize on the benefits of a formal onboarding program. The key question becomes, 'what",
+    "frecency": 4066,
+    "url_hash": 21414264844738,
+    "last_visit_date": 1758203928402200
+  }
+}

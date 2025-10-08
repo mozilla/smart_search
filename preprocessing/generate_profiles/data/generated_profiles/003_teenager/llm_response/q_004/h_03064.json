@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Returning to Work After Cancer August 11, 2016 \u00b7 Nicole Van Hoey, Pharm DWhen cancer treatments end, you may look forward to returning to familiar routines, including work. The workplace can offer a renewed source of focus and purpose beyond cancer. But, starting work again takes some extra planning to make sure that you are read",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page discusses returning to work after cancer, not strategies for getting better at sports; there is a topic mismatch.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Returning to Work After Cancer August 11, 2016 \u00b7 Nicole Van Hoey, Pharm DWhen cancer treatments end, you may look forward to returning to familiar routines, including work. The workplace can offer a renewed source of focus and purpose beyond cancer. But, starting work again takes some extra planning to make sure that you are read",
+  "history": {
+    "url": "http://www.cancer.net/blog/2016-08/returning-work-after-cancer",
+    "title": "Returning to Work After Cancer",
+    "description": "August 11, 2016 \u00b7 Nicole Van Hoey, Pharm DWhen cancer treatments end, you may look forward to returning to familiar routines, including work. The workplace can offer a renewed source of focus and purpose beyond cancer. But, starting work again takes some extra planning to make sure that you are read",
+    "frecency": 1775,
+    "url_hash": 89906793564325,
+    "last_visit_date": 1758203928302735
+  }
+}

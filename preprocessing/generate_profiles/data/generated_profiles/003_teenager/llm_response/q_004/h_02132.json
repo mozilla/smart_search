@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Little Mexico in Woodburn \"City: Woodburn Region: Greater Portland Tags: Shopping, Sightseeing Mexican flavor, north of the border By Vicente Guzman-Orozco For Oregon.com Sometimes you just feel like leaving behind the drudgery of work, closing those books and fleeing the office for ma\u00f1ana-land, eating some ceviche and washi",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns Mexican food and tourism in Woodburn, not content related to improving sports performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Little Mexico in Woodburn \"City: Woodburn Region: Greater Portland Tags: Shopping, Sightseeing Mexican flavor, north of the border By Vicente Guzman-Orozco For Oregon.com Sometimes you just feel like leaving behind the drudgery of work, closing those books and fleeing the office for ma\u00f1ana-land, eating some ceviche and washi",
+  "history": {
+    "url": "http://www.oregon.com/attractions/little-mexico-woodburn",
+    "title": "Little Mexico in Woodburn",
+    "description": "\"City: Woodburn Region: Greater Portland Tags: Shopping, Sightseeing Mexican flavor, north of the border By Vicente Guzman-Orozco For Oregon.com Sometimes you just feel like leaving behind the drudgery of work, closing those books and fleeing the office for ma\u00f1ana-land, eating some ceviche and washi",
+    "frecency": 2794,
+    "url_hash": 55548646724040,
+    "last_visit_date": 1758203935067228
+  }
+}

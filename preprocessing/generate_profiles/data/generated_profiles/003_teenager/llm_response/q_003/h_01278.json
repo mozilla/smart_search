@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Adobe Connect Support Adobe is changing the world through digital experiences. Our creative, marketing and document solutions empower everyone \u2014 from emerging artists to global brands \u2014 to bring digital creations to life and deliver them to the right person at the right moment for the best results. About Us Newsroom Care",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is an Adobe corporate site/support page and does not mention or pertain to apps for improving study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Adobe Connect Support Adobe is changing the world through digital experiences. Our creative, marketing and document solutions empower everyone \u2014 from emerging artists to global brands \u2014 to bring digital creations to life and deliver them to the right person at the right moment for the best results. About Us Newsroom Care",
+  "history": {
+    "url": "https://helpx.adobe.com/adobe-connect/connect-support.html",
+    "title": "Adobe Connect Support",
+    "description": "Adobe is changing the world through digital experiences. Our creative, marketing and document solutions empower everyone \u2014 from emerging artists to global brands \u2014 to bring digital creations to life and deliver them to the right person at the right moment for the best results. About Us Newsroom Care",
+    "frecency": 3695,
+    "url_hash": 49986859501376,
+    "last_visit_date": 1758203932119228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Largest police force in the world? Wiki Answers page about police forces; unrelated to database queries.",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns police forces, not database query optimization, so it is not relevant.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Largest police force in the world? \"Answers.com \u00ae Wiki Answers \u00ae Categories Jobs & Education Jobs Largest police force in the world? Flag Largest police force in the world? Answered by The Wiki Answers \u00aeCommunity Answers.com \u00ae is making the world better one answer at a time. The Police in Uttra Pradesh state of India Claim on their w",
+  "history": {
+    "url": "http://www.answers.com/Q/Largest_police_force_in_the_world",
+    "title": "Largest police force in the world?",
+    "description": "\"Answers.com \u00ae Wiki Answers \u00ae Categories Jobs & Education Jobs Largest police force in the world? Flag Largest police force in the world? Answered by The Wiki Answers \u00aeCommunity Answers.com \u00ae is making the world better one answer at a time. The Police in Uttra Pradesh state of India Claim on their w",
+    "frecency": 1377,
+    "url_hash": 51553234996292,
+    "last_visit_date": 1758203931958111
+  }
+}

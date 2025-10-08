@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Amazon lets Prime users add Showtime, Starz, and more to their subscription Your browser does not currently recognize any of the video formats available. Click here to visit our frequently asked questions about HTML5 video.0:00 / 0:00Amazon just announced the Streaming Partners Program, a subscription program that lets Prime users add distinct video services to their existi",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Amazon Prime Video streaming services (Showtime/Starz), not about IDEs or software development tools.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Amazon lets Prime users add Showtime, Starz, and more to their subscription Your browser does not currently recognize any of the video formats available. Click here to visit our frequently asked questions about HTML5 video.0:00 / 0:00Amazon just announced the Streaming Partners Program, a subscription program that lets Prime users add distinct video services to their existi",
+  "history": {
+    "url": "http://www.theverge.com/2015/12/8/9870836/amazon-prime-showtime-stars-extra-video-services",
+    "title": "Amazon lets Prime users add Showtime, Starz, and more to their subscription",
+    "description": "Your browser does not currently recognize any of the video formats available. Click here to visit our frequently asked questions about HTML5 video.0:00 / 0:00Amazon just announced the Streaming Partners Program, a subscription program that lets Prime users add distinct video services to their existi",
+    "frecency": 3336,
+    "url_hash": 99829184155985,
+    "last_visit_date": 1758203931006111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "BASIC Commands \"Home >BASIC Commands This document is reproduced courtesy of Thomas Kurtz The Original-Original Version Dartmouth BASIC revolutionized computer programming for the non-experts, who greatly outnumber the experts! It was a simple language, used English words, and gave almost instantaneous response in",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about BASIC programming language and BASIC commands, not about IDEs or software development environments.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "BASIC Commands \"Home >BASIC Commands This document is reproduced courtesy of Thomas Kurtz The Original-Original Version Dartmouth BASIC revolutionized computer programming for the non-experts, who greatly outnumber the experts! It was a simple language, used English words, and gave almost instantaneous response in",
+  "history": {
+    "url": "http://www.dartmouth.edu/basicfifty/commands.html",
+    "title": "BASIC Commands",
+    "description": "\"Home >BASIC Commands This document is reproduced courtesy of Thomas Kurtz The Original-Original Version Dartmouth BASIC revolutionized computer programming for the non-experts, who greatly outnumber the experts! It was a simple language, used English words, and gave almost instantaneous response in",
+    "frecency": 1982,
+    "url_hash": 97402950842838,
+    "last_visit_date": 1758203931680111
+  }
+}

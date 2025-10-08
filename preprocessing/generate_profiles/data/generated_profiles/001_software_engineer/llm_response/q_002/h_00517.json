@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Disability Discrimination Act (DDA) & web accessibility There seems to be widespread speculation about the legislation introduced under the Disability Discrimination Act (DDA), which ensures that websites are accessible to blind and disabled users. Try to find specific information about what the law requires you to do and chances are you'll come up empty",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page discusses disability discrimination act and web accessibility, not IDEs or software development tools. It is not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Disability Discrimination Act (DDA) & web accessibility There seems to be widespread speculation about the legislation introduced under the Disability Discrimination Act (DDA), which ensures that websites are accessible to blind and disabled users. Try to find specific information about what the law requires you to do and chances are you'll come up empty",
+  "history": {
+    "url": "http://www.webcredible.com/blog/disability-discrimination-act-dda-web-accessibility/",
+    "title": "Disability Discrimination Act (DDA) & web accessibility",
+    "description": "There seems to be widespread speculation about the legislation introduced under the Disability Discrimination Act (DDA), which ensures that websites are accessible to blind and disabled users. Try to find specific information about what the law requires you to do and chances are you'll come up empty",
+    "frecency": 3210,
+    "url_hash": 63702767340892,
+    "last_visit_date": 1758203928784200
+  }
+}

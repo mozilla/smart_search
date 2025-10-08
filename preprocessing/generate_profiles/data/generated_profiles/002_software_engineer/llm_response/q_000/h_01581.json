@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Thread: How to remove Admin if admin ID is forgotten and not able to connect with software? Please find attach file with this and read document and then follow procedure. press the Menu key, then it will ask the admin affirm, input 8888,press ok key,then the device ask to input the pass word. Please check",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses admin access recovery and device authentication rather than debugging or API integration; no connection to API debugging.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Thread: How to remove Admin if admin ID is forgotten and not able to connect with software? \"How to remove Admin if admin ID is forgotten and not able to connect with software? Please find attach file with this and read document and then follow procedure. press the Menu key, then it will ask the admin affirm, input 8888,press ok key,then the device ask to input the pass word. Please check",
+  "history": {
+    "url": "http://help.bioenabletech.com/showthread.php/645-How-to-remove-Admin-if-admin-ID-is-forgotten-and-not-able-to-connect-with-software",
+    "title": "Thread: How to remove Admin if admin ID is forgotten and not able to connect with software?",
+    "description": "\"How to remove Admin if admin ID is forgotten and not able to connect with software? Please find attach file with this and read document and then follow procedure. press the Menu key, then it will ask the admin affirm, input 8888,press ok key,then the device ask to input the pass word. Please check ",
+    "frecency": 2144,
+    "url_hash": 49243945850005,
+    "last_visit_date": 1758203929162111
+  }
+}

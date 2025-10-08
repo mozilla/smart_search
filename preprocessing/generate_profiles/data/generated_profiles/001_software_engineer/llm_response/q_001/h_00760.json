@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "What is Finish Carpentry? Finish carpentry refers to the final touches that make a house a home. Finish carpenters work on homes after the structure is fully built, insulated, wired, and plumbed. For this reason, finish carpenters can perform most of their work before or after the homeowner moves into a home. Many homeowners",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses finish carpentry, not Python libraries or machine learning; it is unrelated to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "What is Finish Carpentry? Finish carpentry refers to the final touches that make a house a home. Finish carpenters work on homes after the structure is fully built, insulated, wired, and plumbed. For this reason, finish carpenters can perform most of their work before or after the homeowner moves into a home. Many homeowners",
+  "history": {
+    "url": "http://www.networx.com/article/finish-carpentry",
+    "title": "What is Finish Carpentry?",
+    "description": "Finish carpentry refers to the final touches that make a house a home. Finish carpenters work on homes after the structure is fully built, insulated, wired, and plumbed. For this reason, finish carpenters can perform most of their work before or after the homeowner moves into a home. Many homeowners",
+    "frecency": 2443,
+    "url_hash": 52306903600011,
+    "last_visit_date": 1758203928008200
+  }
+}

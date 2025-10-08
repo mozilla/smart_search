@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "How does soaking liver in milk work? \\\"_Seasoned Advice is a question and answer site for professional and amateur chefs. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top How does soaking liver in milk work?up vote20down votefa",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses cooking topics (soaking liver in milk) from Seasoned Advice, which is unrelated to debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "How does soaking liver in milk work? \"_Seasoned Advice is a question and answer site for professional and amateur chefs. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top How does soaking liver in milk work?up vote20down votefa",
+  "history": {
+    "url": "https://cooking.stackexchange.com/questions/41436/how-does-soaking-liver-in-milk-work",
+    "title": "How does soaking liver in milk work?",
+    "description": "\"_Seasoned Advice is a question and answer site for professional and amateur chefs. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top How does soaking liver in milk work?up vote20down votefa",
+    "frecency": 1061,
+    "url_hash": 18896574793598,
+    "last_visit_date": 1758203929430200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "What is Smart Growth? What is Smart Growth? March 16, 2015 MDP Smart Growth Manager Smart growth is development that supports economic growth, strong communities and environmental health.\u201cSmart growth\u201d covers a range of development and conservation strategies that help protect our health and natural environment and make",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Smart Growth and urban development, not API integration debugging; it is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "What is Smart Growth? What is Smart Growth? March 16, 2015 MDP Smart Growth Manager Smart growth is development that supports economic growth, strong communities and environmental health.\u201cSmart growth\u201d covers a range of development and conservation strategies that help protect our health and natural environment and make",
+  "history": {
+    "url": "http://smartgrowth.org/what-is-smart-growth/",
+    "title": "What is Smart Growth?",
+    "description": "What is Smart Growth? March 16, 2015 MDP Smart Growth Manager Smart growth is development that supports economic growth, strong communities and environmental health.\u201cSmart growth\u201d covers a range of development and conservation strategies that help protect our health and natural environment and make ",
+    "frecency": 3890,
+    "url_hash": 37205909190493,
+    "last_visit_date": 1758203927520200
+  }
+}

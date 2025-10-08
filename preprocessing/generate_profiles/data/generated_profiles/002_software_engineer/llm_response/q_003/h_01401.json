@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "How many pints in a standard 1 gallon? Charlie N. 122,923 Contributions I have spent many years renovating buildings and leading a commercial handyman crew. Answered In Cooking Measurements How many pints in a standard 1 gallon? That is 8 pints Graham Howarth 106,484 Contributions Masters degree with Distinction from Imperial College Lon",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about cooking measurements (pints in a gallon) and does not relate to database queries optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "How many pints in a standard 1 gallon? Charlie N. 122,923 Contributions I have spent many years renovating buildings and leading a commercial handyman crew. Answered In Cooking Measurements How many pints in a standard 1 gallon? That is 8 pints Graham Howarth 106,484 Contributions Masters degree with Distinction from Imperial College Lon",
+  "history": {
+    "url": "http://www.answers.com/Q/How_many_gallons_in_a_standard_bathtub",
+    "title": "How many pints in a standard 1 gallon?",
+    "description": "Charlie N. 122,923 Contributions I have spent many years renovating buildings and leading a commercial handyman crew. Answered In Cooking Measurements How many pints in a standard 1 gallon? That is 8 pints Graham Howarth 106,484 Contributions Masters degree with Distinction from Imperial College Lon",
+    "frecency": 2481,
+    "url_hash": 486826071517,
+    "last_visit_date": 1758203931098111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "$53,300: The Average Starting Salary for New Accounting Grads (note: unrelated to API debugging)",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses accounting salaries, not API debugging or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "$53,300: The Average Starting Salary for New Accounting Grads \"$53,300: The Average Starting Salary for New Accounting Gradsi Stock_baona_throwcaps May 1st 2013 44Accounting students who will graduate in 2013 will be the beneficiaries of an average starting salary that has increased by 7 percent over last year, according to the National Association of Colleges",
+  "history": {
+    "url": "http://www.accountingweb.com/aa/auditing/53300-the-average-starting-salary-for-new-accounting-grads",
+    "title": "$53,300: The Average Starting Salary for New Accounting Grads",
+    "description": "\"$53,300: The Average Starting Salary for New Accounting Gradsi Stock_baona_throwcaps May 1st 2013 44Accounting students who will graduate in 2013 will be the beneficiaries of an average starting salary that has increased by 7 percent over last year, according to the National Association of Colleges",
+    "frecency": 3615,
+    "url_hash": 70241965580391,
+    "last_visit_date": 1758203927188200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "What Does a Clinical Lab Technician Do? What Does a Clinical Lab Technician Do? A clinical lab technician performs simple laboratory tests and procedures under the supervision of a clinical lab technologist. Here, you'll find more information on the career duties of a clinical lab technician, work environment, and educational requirements",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about clinical lab technicians and does not relate to IDEs or software development.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "What Does a Clinical Lab Technician Do? What Does a Clinical Lab Technician Do? A clinical lab technician performs simple laboratory tests and procedures under the supervision of a clinical lab technologist. Here, you'll find more information on the career duties of a clinical lab technician, work environment, and educational requirements",
+  "history": {
+    "url": "http://learn.org/articles/What_Does_a_Clinical_Lab_Technician_Do.html",
+    "title": "What Does a Clinical Lab Technician Do?",
+    "description": "What Does a Clinical Lab Technician Do? A clinical lab technician performs simple laboratory tests and procedures under the supervision of a clinical lab technologist. Here, you'll find more information on the career duties of a clinical lab technician, work environment, and educational requirements",
+    "frecency": 1325,
+    "url_hash": 91434207840114,
+    "last_visit_date": 1758203932112111
+  }
+}

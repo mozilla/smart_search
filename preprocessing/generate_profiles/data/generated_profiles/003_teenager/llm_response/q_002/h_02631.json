@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "June 19-21 Who We Are A three-day festival in Edmonds celebrating the arts where attendees can view and purchase original art, enjoy free entertainment, celebrate our talented youth, and sample great food. What We Do Our all-volunteer association of dedicated people work together throughout the year to produce",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a local arts festival, not DIY room decoration ideas; content is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "June 19-21 Who We Are A three-day festival in Edmonds celebrating the arts where attendees can view and purchase original art, enjoy free entertainment, celebrate our talented youth, and sample great food. What We Do Our all-volunteer association of dedicated people work together throughout the year to produce",
+  "history": {
+    "url": "http://sandbox.edmondsartsfestival.com/",
+    "title": "June 19-21",
+    "description": "Who We Are A three-day festival in Edmonds celebrating the arts where attendees can view and purchase original art, enjoy free entertainment, celebrate our talented youth, and sample great food. What We Do Our all-volunteer association of dedicated people work together throughout the year to produce",
+    "frecency": 2282,
+    "url_hash": 24699920344366,
+    "last_visit_date": 1758203929839228
+  }
+}

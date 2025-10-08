@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Search results \\\"Chinet Classic White, Round Appetizer and Dessert Plates, 6.75 Inches, 70 Countby Chinet$5.99$ 5 99 ($0.09/Count)Exclusively for Prime Members4.5 out of 5 stars 41Save 10%with coupon Product Features Durable, disposable plates for all parties, picnics and other occasions. Shop by Category Paper & P",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a product listing for disposable plates, which is unrelated to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Search results \"Chinet Classic White, Round Appetizer and Dessert Plates, 6.75 Inches, 70 Countby Chinet$5.99$ 5 99 ($0.09/Count)Exclusively for Prime Members4.5 out of 5 stars 41Save 10%with coupon Product Features Durable, disposable plates for all parties, picnics and other occasions. Shop by Category Paper & P",
+  "history": {
+    "url": "https://www.amazon.com/dessert-paper-plates/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Adessert%20paper%20plates",
+    "title": "Search results",
+    "description": "\"Chinet Classic White, Round Appetizer and Dessert Plates, 6.75 Inches, 70 Countby Chinet$5.99$ 5 99 ($0.09/Count)Exclusively for Prime Members4.5 out of 5 stars 41Save 10%with coupon Product Features Durable, disposable plates for all parties, picnics and other occasions. Shop by Category Paper & P",
+    "frecency": 3127,
+    "url_hash": 7129515663000,
+    "last_visit_date": 1758203927171139
+  }
+}

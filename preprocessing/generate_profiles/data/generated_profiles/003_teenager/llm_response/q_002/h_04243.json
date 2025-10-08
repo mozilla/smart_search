@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Coloration dictionary entry about coloration and color usage (not a DIY room decoration resource).",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a dictionary entry about coloration, not about easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "COLORATION \"Audio English.org \u00bb Dictionary \u00bb C \u00bb Color Wash ... Colourlessness COLORATIONPronunciation (US): Dictionary entry overview: What does coloration mean?\u2022 COLORATION (noun) The noun COLORATION has 3 senses:1. the timbre of a musical sound 2. appearance with regard to color 3. choice and use of colors",
+  "history": {
+    "url": "http://www.audioenglish.org/dictionary/coloration.htm",
+    "title": "COLORATION",
+    "description": "\"Audio English.org \u00bb Dictionary \u00bb C \u00bb Color Wash ... Colourlessness COLORATIONPronunciation (US): Dictionary entry overview: What does coloration mean?\u2022 COLORATION (noun) The noun COLORATION has 3 senses:1. the timbre of a musical sound 2. appearance with regard to color 3. choice and use of colors ",
+    "frecency": 603,
+    "url_hash": 49125404041676,
+    "last_visit_date": 1758203929218735
+  }
+}

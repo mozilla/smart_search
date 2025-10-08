@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Special Education Teacher Salary in Oregon Special Education Teacher Salary in Oregon80% Match? Would you make a good Special Education Teacher? Take our career test to find out how you match with this and over 800 other careers. Take Free Career Test",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Special Education careers and salary, not Docker setup for beginners; therefore not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Special Education Teacher Salary in Oregon Special Education Teacher Salary in Oregon80% Match? Would you make a good Special Education Teacher? Take our career test to find out how you match with this and over 800 other careers. Take Free Career Test",
+  "history": {
+    "url": "https://www.sokanu.com/careers/special-education-teacher/salary/Oregon/",
+    "title": "Special Education Teacher Salary in Oregon",
+    "description": "Special Education Teacher Salary in Oregon80% Match? Would you make a good Special Education Teacher? Take our career test to find out how you match with this and over 800 other careers. Take Free Career Test ",
+    "frecency": 331,
+    "url_hash": 54761842053104,
+    "last_visit_date": 1758203928996111
+  }
+}

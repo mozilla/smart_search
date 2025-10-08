@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Dr. Megha Shah, MD Search Search Search Near Search Find a doctor Find Doctors by Specialty Family Medicine Internal Medicine Obstetrics & Gynecology Dentistry Orthopedic Surgery See All Specialties Find Doctors by Condition Fibromyalgia Anxiety ADHDSleep Apnea Migraine Find Doctors by Procedure Pain Management Orthop",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a doctor directory snippet unrelated to Python libraries or machine learning; it does not address the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Dr. Megha Shah, MD Search Search Search Near Search Find a doctor Find Doctors by Specialty Family Medicine Internal Medicine Obstetrics & Gynecology Dentistry Orthopedic Surgery See All Specialties Find Doctors by Condition Fibromyalgia Anxiety ADHDSleep Apnea Migraine Find Doctors by Procedure Pain Management Orthop",
+  "history": {
+    "url": "https://www.healthgrades.com/physician/dr-megha-shah-gg592",
+    "title": "Dr. Megha Shah, MD",
+    "description": "Search Search Search Near Search Find a doctor Find Doctors by Specialty Family Medicine Internal Medicine Obstetrics & Gynecology Dentistry Orthopedic Surgery See All Specialties Find Doctors by Condition Fibromyalgia Anxiety ADHDSleep Apnea Migraine Find Doctors by Procedure Pain Management Orthop",
+    "frecency": 2423,
+    "url_hash": 52281761659099,
+    "last_visit_date": 1758203928084111
+  }
+}

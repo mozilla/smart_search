@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Patient Advocate Jobs Patient Advocate Jobs1000+ Patient Advocate jobs found on Monster. Patient Advocate Employment Information Patient Advocate Job Overview A patient advocate is a compassionate health care worker who strives to support a patient and promote that patient's rights and best interests as they pursue healt",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes patient advocate jobs and is unrelated to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Patient Advocate Jobs Patient Advocate Jobs1000+ Patient Advocate jobs found on Monster. Patient Advocate Employment Information Patient Advocate Job Overview A patient advocate is a compassionate health care worker who strives to support a patient and promote that patient's rights and best interests as they pursue healt",
+  "history": {
+    "url": "https://www.monster.com/jobs/q-patient-advocate-jobs.aspx",
+    "title": "Patient Advocate Jobs",
+    "description": "Patient Advocate Jobs1000+ Patient Advocate jobs found on Monster. Patient Advocate Employment Information Patient Advocate Job Overview A patient advocate is a compassionate health care worker who strives to support a patient and promote that patient's rights and best interests as they pursue healt",
+    "frecency": 865,
+    "url_hash": 66348817030096,
+    "last_visit_date": 1758203927636200
+  }
+}

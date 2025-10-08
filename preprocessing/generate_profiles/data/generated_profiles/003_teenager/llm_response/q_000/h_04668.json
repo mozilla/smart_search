@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Flashback \\\"From Wikipedia, the free encyclopedianavigation search Look up Flashback, flashback, or flashbacks in Wiktionary, the free dictionary. Flashback or flashbacks may refer to: Flashback (narrative), in literature and dramatic media, an interjected scene or point that takes the narrative back in time f\\\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Flashback in literature and disambiguation, not related to starting a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Flashback \"From Wikipedia, the free encyclopedianavigation search Look up Flashback, flashback, or flashbacks in Wiktionary, the free dictionary. Flashback or flashbacks may refer to: Flashback (narrative), in literature and dramatic media, an interjected scene or point that takes the narrative back in time f",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Flashback",
+    "title": "Flashback",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search Look up Flashback, flashback, or flashbacks in Wiktionary, the free dictionary. Flashback or flashbacks may refer to: Flashback (narrative), in literature and dramatic media, an interjected scene or point that takes the narrative back in time f",
+    "frecency": 160,
+    "url_hash": 99782739266747,
+    "last_visit_date": 1758203935053228
+  }
+}

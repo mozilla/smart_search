@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "The Help (2011) IMDb page with cast/crew, trivia, reviews, trailer; unrelated to study apps",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a film page (The Help) and not about apps or study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "The Help  ( 2011) \"FULL CAST AND CREW | TRIVIA | USER REVIEWS | IMDb Pro | MORESHARE8.1/ 10367,168Rate This The Help ( 2011)PG-13 | 2h 26min | Drama | 10 August 2011 (USA)2:30 | Trailer17 VIDEOS| 85 IMAGESWatch Now From $2.99 (SD) on Prime Video ON DISCAn aspiring author during the civil rights movement of the 1960s",
+  "history": {
+    "url": "http://www.imdb.com/title/tt1454029/",
+    "title": "The Help  ( 2011)",
+    "description": "\"FULL CAST AND CREW | TRIVIA | USER REVIEWS | IMDb Pro | MORESHARE8.1/ 10367,168Rate This The Help ( 2011)PG-13 | 2h 26min | Drama | 10 August 2011 (USA)2:30 | Trailer17 VIDEOS| 85 IMAGESWatch Now From $2.99 (SD) on Prime Video ON DISCAn aspiring author during the civil rights movement of the 1960s ",
+    "frecency": 2039,
+    "url_hash": 53177281179554,
+    "last_visit_date": 1758203929394735
+  }
+}

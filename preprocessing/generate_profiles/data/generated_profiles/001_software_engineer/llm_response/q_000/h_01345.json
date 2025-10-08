@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "What is the average annual salary for a paramedic? Jackdyson 43 Contributions What is the average annual salary for a paramedic? The salary for a paramedic varies by where you work. Say for instance you work for a private service (i.e. AMR, Rural Metro) your likely to have fairly decent pay around $15-1 \u2026Goodwinalfred 3 Contributions Average salary",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses paramedic salaries and is unrelated to debugging API integrations.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "What is the average annual salary for a paramedic? Jackdyson 43 Contributions What is the average annual salary for a paramedic? The salary for a paramedic varies by where you work. Say for instance you work for a private service (i.e. AMR, Rural Metro) your likely to have fairly decent pay around $15-1 \u2026Goodwinalfred 3 Contributions Average salary",
+  "history": {
+    "url": "http://www.answers.com/Q/What_is_the_average_career_span_of_a_paramedic",
+    "title": "What is the average annual salary for a paramedic?",
+    "description": "Jackdyson 43 Contributions What is the average annual salary for a paramedic? The salary for a paramedic varies by where you work. Say for instance you work for a private service (i.e. AMR, Rural Metro) your likely to have fairly decent pay around $15-1 \u2026Goodwinalfred 3 Contributions Average salary ",
+    "frecency": 253,
+    "url_hash": 7794559843805,
+    "last_visit_date": 1758203927356200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Punta Gorda, FL Weather USA.com / Florida / Punta Gorda, FL / Weather Punta Gorda, FL Weather Basic Info Population/Races Income/Careers Housing Education Crime/Crime Rate Others Weather | Natural Extremes | Air Quality | Environmental Watch | Zip Codes | Government Hot Rankings Fastest / Slowest Growing Cities Nearby Best",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a weather/location page and not related to debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Punta Gorda, FL Weather USA.com / Florida / Punta Gorda, FL / Weather Punta Gorda, FL Weather Basic Info Population/Races Income/Careers Housing Education Crime/Crime Rate Others Weather | Natural Extremes | Air Quality | Environmental Watch | Zip Codes | Government Hot Rankings Fastest / Slowest Growing Cities Nearby Best",
+  "history": {
+    "url": "http://www.usa.com/punta-gorda-fl-weather.htm",
+    "title": "Punta Gorda, FL Weather",
+    "description": "USA.com / Florida / Punta Gorda, FL / Weather Punta Gorda, FL Weather Basic Info Population/Races Income/Careers Housing Education Crime/Crime Rate Others Weather | Natural Extremes | Air Quality | Environmental Watch | Zip Codes | Government Hot Rankings Fastest / Slowest Growing Cities Nearby Best",
+    "frecency": 2508,
+    "url_hash": 56364589885358,
+    "last_visit_date": 1758203929876111
+  }
+}

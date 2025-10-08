@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Elle Macpherson Crew Elle Macpherson Gender Female Date of birth March 29, 1964Elle Macpherson (born as Eleanor Nancy Gow on March 29, 1964) is an Australian businesswoman, television host, model, and actress. She guest-starred as Janine Lecroix, Joey's roommate in Season 6. Acting Career Macpherson made her movie",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns a person (Elle Macpherson) and does not address how to improve performance in sports; not relevant to the query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Elle Macpherson Crew Elle Macpherson Gender Female Date of birth March 29, 1964Elle Macpherson (born as Eleanor Nancy Gow on March 29, 1964) is an Australian businesswoman, television host, model, and actress. She guest-starred as Janine Lecroix, Joey's roommate in Season 6. Acting Career Macpherson made her movie",
+  "history": {
+    "url": "http://friends.wikia.com/wiki/Elle_Macpherson",
+    "title": "Elle Macpherson",
+    "description": "Crew Elle Macpherson Gender Female Date of birth March 29, 1964Elle Macpherson (born as Eleanor Nancy Gow on March 29, 1964) is an Australian businesswoman, television host, model, and actress. She guest-starred as Janine Lecroix, Joey's roommate in Season 6. Acting Career Macpherson made her movie ",
+    "frecency": 363,
+    "url_hash": 10315302516915,
+    "last_visit_date": 1758203934913228
+  }
+}

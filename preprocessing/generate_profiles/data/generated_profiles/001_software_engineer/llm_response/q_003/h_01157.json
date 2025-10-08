@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "1st District Home > district > 1st District Share1st District Counties, Cities, Villages and Towns Census Information Chambers of Commerce and Economic Development Organizations Institutions of Higher Learning Schools Travel Wisconsin Southern Wisconsin is a great place to live, work, and raise our families.",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page appears to be a regional information site (district/travel) and does not discuss database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "1st District Home > district > 1st District Share1st District Counties, Cities, Villages and Towns Census Information Chambers of Commerce and Economic Development Organizations Institutions of Higher Learning Schools Travel Wisconsin Southern Wisconsin is a great place to live, work, and raise our families. The",
+  "history": {
+    "url": "https://paulryan.house.gov/district/",
+    "title": "1st District",
+    "description": "Home > district > 1st District Share1st District Counties, Cities, Villages and Towns Census Information Chambers of Commerce and Economic Development Organizations Institutions of Higher Learning Schools Travel Wisconsin Southern Wisconsin is a great place to live, work, and raise our families. The",
+    "frecency": 920,
+    "url_hash": 96525809599155,
+    "last_visit_date": 1758203928840200
+  }
+}

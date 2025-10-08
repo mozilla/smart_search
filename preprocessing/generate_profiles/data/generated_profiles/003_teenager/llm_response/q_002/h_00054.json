@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Carrie Fisher \"in: Real-world articles, Deceased actors, LEGO Star Wars: The Force Awakens voice actors, and 7 more Carrie Fisher Edit Share Carrie Fisher Biographical information Born October 21, 1956Died December 27, 2016Nationality American Career Occupation Actress Star Wars work Episode IVHoliday Special Epi",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes Carrie Fisher's biography and works, not easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Carrie Fisher \"in: Real-world articles, Deceased actors, LEGO Star Wars: The Force Awakens voice actors, and 7 more Carrie Fisher Edit Share Carrie Fisher Biographical information Born October 21, 1956Died December 27, 2016Nationality American Career Occupation Actress Star Wars work Episode IVHoliday Special Epi",
+  "history": {
+    "url": "http://starwars.wikia.com/wiki/Carrie_Fisher",
+    "title": "Carrie Fisher",
+    "description": "\"in: Real-world articles, Deceased actors, LEGO Star Wars: The Force Awakens voice actors, and 7 more Carrie Fisher Edit Share Carrie Fisher Biographical information Born October 21, 1956Died December 27, 2016Nationality American Career Occupation Actress Star Wars work Episode IVHoliday Special Epi",
+    "frecency": 4951,
+    "url_hash": 74483843913656,
+    "last_visit_date": 1758203929184735
+  }
+}

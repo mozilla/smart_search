@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Search \"Search Quick Search Terms: Quick Start How-To Actor Component Blueprint Materials Lighting Camera HUD Slate C++ i OS Android Getting Started!When opening UE4 for the first time, a common question is \\\"Where do I even get started with making a game?\\\" It's a lot to learn and it can be intimidating,",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Unreal Engine 4 development, not about easy DIY room decoration ideas. Topic mismatch; not relevant.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Search \"Search Quick Search Terms: Quick Start How-To Actor Component Blueprint Materials Lighting Camera HUD Slate C++ i OS Android Getting Started!When opening UE4 for the first time, a common question is \"\"Where do I even get started with making a game?\"\" It's a lot to learn and it can be intimidating,",
+  "history": {
+    "url": "https://wiki.unrealengine.com/Main_Page",
+    "title": "Search",
+    "description": "\"Search Quick Search Terms: Quick Start How-To Actor Component Blueprint Materials Lighting Camera HUD Slate C++ i OS Android Getting Started!When opening UE4 for the first time, a common question is \"\"Where do I even get started with making a game?\"\" It's a lot to learn and it can be intimidating, ",
+    "frecency": 3598,
+    "url_hash": 90627349660128,
+    "last_visit_date": 1758203934127228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "ASSISTED LIVING Home > Medical Terms for Billing and Coding > ASSISTED LIVINGResources Overview Hot Topics News/Articles Events AAPC Publications Coding Help Coding Forums What is Medical Coding? What is Medical Reimbursement? What is Medical Billing? What is Medical Auditing? Code Sets Medical Terminology Glossar",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page is unrelated to DIY room decoration ideas; it discusses medical coding, billing, and assisted living rather than decorating ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "ASSISTED LIVING \"Home > Medical Terms for Billing and Coding > ASSISTED LIVINGResources Overview Hot Topics News/Articles Events AAPC Publications Coding Help Coding Forums What is Medical Coding? What is Medical Reimbursement? What is Medical Billing? What is Medical Auditing? Code Sets Medical Terminology Glossar",
+  "history": {
+    "url": "https://www.aapc.com/medicalcodingglossary/assisted_living.aspx",
+    "title": "ASSISTED LIVING",
+    "description": "\"Home > Medical Terms for Billing and Coding > ASSISTED LIVINGResources Overview Hot Topics News/Articles Events AAPC Publications Coding Help Coding Forums What is Medical Coding? What is Medical Reimbursement? What is Medical Billing? What is Medical Auditing? Code Sets Medical Terminology Glossar",
+    "frecency": 275,
+    "url_hash": 95525521572939,
+    "last_visit_date": 1758203930647228
+  }
+}

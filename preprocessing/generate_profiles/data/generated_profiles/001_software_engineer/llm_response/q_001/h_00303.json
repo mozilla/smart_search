@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Crossgates Mall no longer sells Gift Cards 110 Grill Restaurant Opening this Summer ZARA NOW OPENLEARN MORETrampoline Park GET AIR Coming Soon!Crossgates Mall no longer sells Gift Cards Click here to check your balance EAT Shop Play Eat. Shop. Play. at Crossgates Mall, the Capital Region's premier destination. With more than 180 retail shops",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a mall/retail complex, unrelated to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Crossgates Mall no longer sells Gift Cards 110 Grill Restaurant Opening this Summer ZARA NOW OPENLEARN MORETrampoline Park GET AIR Coming Soon!Crossgates Mall no longer sells Gift Cards Click here to check your balance EAT Shop Play Eat. Shop. Play. at Crossgates Mall, the Capital Region\u2019s premier destination. With more than 180 retail shops",
+  "history": {
+    "url": "https://www.shopcrossgates.com/",
+    "title": "Crossgates Mall no longer sells Gift Cards",
+    "description": "110 Grill Restaurant Opening this Summer ZARA NOW OPENLEARN MORETrampoline Park GET AIR Coming Soon!Crossgates Mall no longer sells Gift Cards Click here to check your balance EAT Shop Play Eat. Shop. Play. at Crossgates Mall, the Capital Region\u2019s premier destination. With more than 180 retail shops",
+    "frecency": 3936,
+    "url_hash": 97115974627674,
+    "last_visit_date": 1758203926772200
+  }
+}

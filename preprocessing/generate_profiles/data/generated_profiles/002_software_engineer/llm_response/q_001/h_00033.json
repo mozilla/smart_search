@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Organizational patterns \"From Wikipedia, the free encyclopedianavigation search Business administration Management of a business Accounting [show]Business entities [show]Corporate governance [show]Corporate law [show]Economics [show]Finance [show]Marketing [show]Types of management [show]Organization [show]Trade [show]Busi\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses organizational patterns and business topics, not Python libraries or machine learning; not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Organizational patterns \"From Wikipedia, the free encyclopedianavigation search Business administration Management of a business Accounting [show]Business entities [show]Corporate governance [show]Corporate law [show]Economics [show]Finance [show]Marketing [show]Types of management [show]Organization [show]Trade [show]Busi",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Organizational_patterns",
+    "title": "Organizational patterns",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search Business administration Management of a business Accounting [show]Business entities [show]Corporate governance [show]Corporate law [show]Economics [show]Finance [show]Marketing [show]Types of management [show]Organization [show]Trade [show]Busi",
+    "frecency": 4939,
+    "url_hash": 75042727514124,
+    "last_visit_date": 1758203931416111
+  }
+}

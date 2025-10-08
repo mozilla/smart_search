@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Henry Clay Frick \"Henry Clay Frick Henry Clay Frick was born, from relatively modest Mennonite stock, on December 19, 1849, in West Overton, a rural community in southwestern Pennsylvania. The second child of an immigrant farmer who married the daughter of a flour merchant and whisky distiller, Frick worked as a sal",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result pertains to Henry Clay Frick, a historical figure, and contains no information about API integration debugging. Therefore it is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Henry Clay Frick \"Henry Clay Frick Henry Clay Frick was born, from relatively modest Mennonite stock, on December 19, 1849, in West Overton, a rural community in southwestern Pennsylvania. The second child of an immigrant farmer who married the daughter of a flour merchant and whisky distiller, Frick worked as a sal",
+  "history": {
+    "url": "http://www.frick.org/collection/history/henry_clay_frick",
+    "title": "Henry Clay Frick",
+    "description": "\"Henry Clay Frick Henry Clay Frick was born, from relatively modest Mennonite stock, on December 19, 1849, in West Overton, a rural community in southwestern Pennsylvania. The second child of an immigrant farmer who married the daughter of a flour merchant and whisky distiller, Frick worked as a sal",
+    "frecency": 923,
+    "url_hash": 88454458161355,
+    "last_visit_date": 1758203928242111
+  }
+}

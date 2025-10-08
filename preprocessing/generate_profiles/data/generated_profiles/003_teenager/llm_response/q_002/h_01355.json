@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "What is the longest running TV commercial? \\\"Kyle D 62,559 Contributions What is the longest running TVcommercial is the Discount Tire Company's \\\"\\\" Thank You\\\"\\\" commercial, produced by Swartwout Productions (Arizona,USA) \u2026Kyle D 62,559 Contributions What is the longest r",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns the longest running TV commercial, which is unrelated to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "What is the longest running TV commercial? \"Kyle D 62,559 Contributions What is the longest running TV commercial? According to Guinness Records, the world's longest running TVcommercial is the Discount Tire Company's \"\" Thank You\"\" commercial, produced by Swartwout Productions (Arizona,USA) \u2026Kyle D 62,559 Contributions What is the longest r",
+  "history": {
+    "url": "http://www.answers.com/Q/What_is_the_longest_running_TV_western",
+    "title": "What is the longest running TV commercial?",
+    "description": "\"Kyle D 62,559 Contributions What is the longest running TV commercial? According to Guinness Records, the world's longest running TVcommercial is the Discount Tire Company's \"\" Thank You\"\" commercial, produced by Swartwout Productions (Arizona,USA) \u2026Kyle D 62,559 Contributions What is the longest r",
+    "frecency": 3613,
+    "url_hash": 9177455734240,
+    "last_visit_date": 1758203932257228
+  }
+}

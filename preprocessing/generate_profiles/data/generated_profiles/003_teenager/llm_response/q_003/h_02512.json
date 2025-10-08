@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "About Jane About Jane Born in London, Jane studied art and design at Middlesex University. Her main study was ceramics and she didn't start to illustrate until she left college. Her first published work was a series of greetings cards for Roger la Borde, followed by some book jackets, and eventually black and",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes an artist named Jane and does not relate to apps or tools for improving study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "About Jane About Jane Born in London, Jane studied art and design at Middlesex University. Her main study was ceramics and she didn't start to illustrate until she left college. Her first published work was a series of greetings cards for Roger la Borde, followed by some book jackets, and eventually black and",
+  "history": {
+    "url": "http://www.janeray.com/about/",
+    "title": "About Jane",
+    "description": "About Jane Born in London, Jane studied art and design at Middlesex University. Her main study was ceramics and she didn't start to illustrate until she left college. Her first published work was a series of greetings cards for Roger la Borde, followed by some book jackets, and eventually black and ",
+    "frecency": 2420,
+    "url_hash": 70620877007742,
+    "last_visit_date": 1758203935643228
+  }
+}

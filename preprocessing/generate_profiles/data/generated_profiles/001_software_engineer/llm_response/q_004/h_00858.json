@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Welcome to beautiful Deer Island Welcome to beautiful Deer Island Why Visit Deer Island? Business Directory Join the Chamber",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Deer Island tourism and a chamber of commerce, not about Docker or beginner setup; thus it is not relevant.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Welcome to beautiful Deer Island Welcome to beautiful Deer Island Why Visit Deer Island? Business Directory Join the Chamber",
+  "history": {
+    "url": "http://www.deerisland.nb.ca/",
+    "title": "Welcome to beautiful Deer Island",
+    "description": "Welcome to beautiful Deer Island Why Visit Deer Island? Business Directory Join the Chamber ",
+    "frecency": 2045,
+    "url_hash": 2309574286041,
+    "last_visit_date": 1758203927704200
+  }
+}

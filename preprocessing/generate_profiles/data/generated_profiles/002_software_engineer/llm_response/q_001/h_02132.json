@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Three PNC Plaza Three PNC Plaza Pittsburgh, Pennsylvania Located at the intersection of the major commercial and cultural corridors of Fifth and Liberty Avenues, Three PNC Plaza aims to reinvigorate the heart of downtown Pittsburgh from the ground to the sky. This landmark tower respects its urban context through a",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a building in Pittsburgh and does not mention Python, libraries, machine learning, or related topics; thus not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Three PNC Plaza Three PNC Plaza Pittsburgh, Pennsylvania Located at the intersection of the major commercial and cultural corridors of Fifth and Liberty Avenues, Three PNC Plaza aims to reinvigorate the heart of downtown Pittsburgh from the ground to the sky. This landmark tower respects its urban context through a",
+  "history": {
+    "url": "https://www.gensler.com/projects/three-pnc-plaza",
+    "title": "Three PNC Plaza",
+    "description": "Three PNC Plaza Pittsburgh, Pennsylvania Located at the intersection of the major commercial and cultural corridors of Fifth and Liberty Avenues, Three PNC Plaza aims to reinvigorate the heart of downtown Pittsburgh from the ground to the sky. This landmark tower respects its urban context through a",
+    "frecency": 1148,
+    "url_hash": 5233883268463,
+    "last_visit_date": 1758203929846111
+  }
+}

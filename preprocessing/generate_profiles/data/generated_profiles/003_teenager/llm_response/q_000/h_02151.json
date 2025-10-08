@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "How Creatine Helps You Gain Muscle and Strength Creatine is the most effective supplement for increasing muscle mass and strength ( 1 ). It is a fundamental supplement in the bodybuilding and fitness communities ( 2 ). Research shows supplementing with creatine can double your strength and lean muscle gains when compared to training alone ( 3 ).",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses creatine supplementation and muscle gain, which is unrelated to starting a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "How Creatine Helps You Gain Muscle and Strength Creatine is the most effective supplement for increasing muscle mass and strength ( 1 ). It is a fundamental supplement in the bodybuilding and fitness communities ( 2 ). Research shows supplementing with creatine can double your strength and lean muscle gains when compared to training alone ( 3 ).",
+  "history": {
+    "url": "https://www.healthline.com/nutrition/creatine-for-muscle-and-strength",
+    "title": "How Creatine Helps You Gain Muscle and Strength",
+    "description": "Creatine is the most effective supplement for increasing muscle mass and strength ( 1 ). It is a fundamental supplement in the bodybuilding and fitness communities ( 2 ). Research shows supplementing with creatine can double your strength and lean muscle gains when compared to training alone ( 3 ). ",
+    "frecency": 2776,
+    "url_hash": 33340972932264,
+    "last_visit_date": 1758203935001228
+  }
+}

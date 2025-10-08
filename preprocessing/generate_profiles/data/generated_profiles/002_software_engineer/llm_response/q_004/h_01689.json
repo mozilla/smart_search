@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "TECHNOLOGIES TECHNOLOGIESHigh voltage, high current, pulsed power engineering We engineer pulsed technology from single rack-mounted drivers to multi-pulser systems and large pulsers consisting of Marx generators and multiple stages of pulse compression. Our repetitively pulsed systems include a solid state 10k",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses high-voltage pulsed power engineering, not Docker or beginner setup; it is not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "TECHNOLOGIES TECHNOLOGIESHigh voltage, high current, pulsed power engineering We engineer pulsed technology from single rack-mounted drivers to multi-pulser systems and large pulsers consisting of Marx generators and multiple stages of pulse compression. Our repetitively pulsed systems include a solid state 10k",
+  "history": {
+    "url": "http://www.appliedpulsedpower.com/technologies",
+    "title": "TECHNOLOGIES",
+    "description": "TECHNOLOGIESHigh voltage, high current, pulsed power engineering We engineer pulsed technology from single rack-mounted drivers to multi-pulser systems and large pulsers consisting of Marx generators and multiple stages of pulse compression. Our repetitively pulsed systems include a solid state 10k ",
+    "frecency": 1934,
+    "url_hash": 27657032479358,
+    "last_visit_date": 1758203930328111
+  }
+}

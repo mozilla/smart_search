@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Riverfest 2018 Featuring Chris Lane Riverfest 2018 Featuring Chris Lane Get Ready for the La Crosse Area's Largest Summer Festival!Enjoy family-friendly activities, concerts, fireworks, food & fun for everyone.",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a festival and concerts, unrelated to starting or operating a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Riverfest 2018 Featuring Chris Lane Riverfest 2018 Featuring Chris Lane Get Ready for the La Crosse Area's Largest Summer Festival!Enjoy family-friendly activities, concerts, fireworks, food & fun for everyone.",
+  "history": {
+    "url": "https://riverfestlacrosse.com/",
+    "title": "Riverfest 2018 Featuring Chris Lane",
+    "description": "Riverfest 2018 Featuring Chris Lane Get Ready for the La Crosse Area's Largest Summer Festival!Enjoy family-friendly activities, concerts, fireworks, food & fun for everyone. ",
+    "frecency": 3295,
+    "url_hash": 22192601345399,
+    "last_visit_date": 1758203929617228
+  }
+}

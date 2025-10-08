@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Thomas James Smitherman III MD Thomas James Smitherman III MDFamily Medicine Pelham, ALPhysician Claim your profile Are you Dr. Smitherman? Join over one million U. S. Physicians, Nurse Practitioners and PAs, already on Doximity. Connect with colleagues like Samuel Gillespie, MD, Vance Blackburn, MD, Sherri Clark, MD, Karen Hammo",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a physician profile page (medical directory) and has no content related to optimizing database queries.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Thomas James Smitherman III MD Thomas James Smitherman III MDFamily Medicine Pelham, ALPhysician Claim your profile Are you Dr. Smitherman? Join over one million U. S. Physicians, Nurse Practitioners and PAs, already on Doximity. Connect with colleagues like Samuel Gillespie, MD, Vance Blackburn, MD, Sherri Clark, MD, Karen Hammo",
+  "history": {
+    "url": "https://www.doximity.com/pub/thomas-smitherman-md/1",
+    "title": "Thomas James Smitherman III MD",
+    "description": "Thomas James Smitherman III MDFamily Medicine Pelham, ALPhysician Claim your profile Are you Dr. Smitherman? Join over one million U. S. Physicians, Nurse Practitioners and PAs, already on Doximity. Connect with colleagues like Samuel Gillespie, MD, Vance Blackburn, MD, Sherri Clark, MD, Karen Hammo",
+    "frecency": 584,
+    "url_hash": 75928676236985,
+    "last_visit_date": 1758203928872200
+  }
+}

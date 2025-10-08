@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "IPv4 address exhaustion From Wikipedia, the free encyclopedia navigation search IPv4 address exhaustion is the depletion of the pool of unallocated IPv4 addresses. Because there are fewer than 4.3 billion addresses available, depletion has been anticipated since the late 1980s, when the Internet started to experience drama",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses IPv4 address exhaustion, which is unrelated to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "IPv4 address exhaustion \"From Wikipedia, the free encyclopedianavigation search IPv4 address exhaustion is the depletion of the pool of unallocated IPv4 addresses. Because there are fewer than 4.3 billion addresses available, depletion has been anticipated since the late 1980s, when the Internet started to experience drama",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/IPv4_address_exhaustion",
+    "title": "IPv4 address exhaustion",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search IPv4 address exhaustion is the depletion of the pool of unallocated IPv4 addresses. Because there are fewer than 4.3 billion addresses available, depletion has been anticipated since the late 1980s, when the Internet started to experience drama",
+    "frecency": 1270,
+    "url_hash": 15526306041714,
+    "last_visit_date": 1758203928214111
+  }
+}

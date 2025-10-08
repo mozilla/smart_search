@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "PROCESSES PROCESSESProperty Description Parameter type Integer Default value40 to operating system-dependent Modifiable No Range of values6 to operating system dependent Basic Yes Real Application Clusters Multiple instances can have different values. PROCESSES specifies the maximum number of operating system",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses a database parameter related to operating system processes, not Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "PROCESSES PROCESSESProperty Description Parameter type Integer Default value40 to operating system-dependent Modifiable No Range of values6 to operating system dependent Basic Yes Real Application Clusters Multiple instances can have different values. PROCESSES specifies the maximum number of operating system",
+  "history": {
+    "url": "http://docs.oracle.com/cd/B19306_01/server.102/b14237/initparams169.htm",
+    "title": "PROCESSES",
+    "description": "PROCESSESProperty Description Parameter type Integer Default value40 to operating system-dependent Modifiable No Range of values6 to operating system dependent Basic Yes Real Application Clusters Multiple instances can have different values. PROCESSES specifies the maximum number of operating system",
+    "frecency": 1897,
+    "url_hash": 67176008503693,
+    "last_visit_date": 1758203931476111
+  }
+}

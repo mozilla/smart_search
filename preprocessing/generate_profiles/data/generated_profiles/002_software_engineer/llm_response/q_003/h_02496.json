@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Peter Stearns \"From Wikipedia, the free encyclopedianavigation search Peter N. Stearns Born March 3, 1936 (age 82)Occupation Professor Nationality USAAlma mater Harvard University Genre History Peter Nathaniel Stearns (born March 3, 1936) is a professor at George Mason University, where he was provost, from Janua",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a historian (Peter Stearns) with no relation to database optimization; it is not relevant to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Peter Stearns \"From Wikipedia, the free encyclopedianavigation search Peter N. Stearns Born March 3, 1936 (age 82)Occupation Professor Nationality USAAlma mater Harvard University Genre History Peter Nathaniel Stearns (born March 3, 1936) is a professor at George Mason University, where he was provost, from Janua",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Peter_Stearns",
+    "title": "Peter Stearns",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search Peter N. Stearns Born March 3, 1936 (age 82)Occupation Professor Nationality USAAlma mater Harvard University Genre History Peter Nathaniel Stearns (born March 3, 1936) is a professor at George Mason University, where he was provost, from Janua",
+    "frecency": 492,
+    "url_hash": 66972979261447,
+    "last_visit_date": 1758203930086111
+  }
+}

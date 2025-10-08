@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "What is a substitute for celery root in a soup? _Seasoned Advice is a question and answer site for professional and amateur chefs. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top What is a substitute for celery root in a soup?up vote7do",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns cooking substitutions (celery root) and a cooking Q&A site, not topic of database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "What is a substitute for celery root in a soup? _Seasoned Advice is a question and answer site for professional and amateur chefs. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top What is a substitute for celery root in a soup?up vote7do",
+  "history": {
+    "url": "https://cooking.stackexchange.com/questions/13452/what-is-a-substitute-for-celery-root-in-a-soup",
+    "title": "What is a substitute for celery root in a soup?",
+    "description": "_Seasoned Advice is a question and answer site for professional and amateur chefs. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top What is a substitute for celery root in a soup?up vote7do",
+    "frecency": 2907,
+    "url_hash": 81478797831351,
+    "last_visit_date": 1758203930040111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Receptionist \"From Wikipedia, the free encyclopedianavigation search This article is about an employee. For the theological doctrine, see Receptionism. Receptionists in Stockholm, Sweden A receptionist is an employee taking an office or administrative support position. The work is usually performed in a waiting",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses a receptionist/administrative staff, not related to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Receptionist \"From Wikipedia, the free encyclopedianavigation search This article is about an employee. For the theological doctrine, see Receptionism. Receptionists in Stockholm, Sweden A receptionist is an employee taking an office or administrative support position. The work is usually performed in a waiting",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Receptionist",
+    "title": "Receptionist",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search This article is about an employee. For the theological doctrine, see Receptionism. Receptionists in Stockholm, Sweden A receptionist is an employee taking an office or administrative support position. The work is usually performed in a waiting ",
+    "frecency": 1993,
+    "url_hash": 54844515589065,
+    "last_visit_date": 1758203930200111
+  }
+}

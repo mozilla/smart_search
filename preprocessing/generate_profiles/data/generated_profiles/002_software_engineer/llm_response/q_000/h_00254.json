@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "MU-MIMO Main \u00bb TERM \u00bb M \u00bbMU-MIMOTweet Related Terms802.11ac Wave 2MIMO - multiple-in, multiple-outwearable technologylicensing technology IT - Information Technology Information Technology (IT) Directorlast mile telecommunications technologyinformation technology degree Information Technology (IT) Architect",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "Result contains networking/IT terms (MU-MIMO, 802.11ac) and generic IT roles, with no content about debugging APIs; not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "MU-MIMO Main \u00bb TERM \u00bb M \u00bbMU-MIMOTweet Related Terms802.11ac Wave 2MIMO - multiple-in, multiple-outwearable technologylicensing technology IT - Information Technology Information Technology (IT) Directorlast mile telecommunications technologyinformation technology degree Information Technology (IT) Architect",
+  "history": {
+    "url": "http://www.webopedia.com/TERM/M/mu-mimo.html",
+    "title": "MU-MIMO",
+    "description": "Main \u00bb TERM \u00bb M \u00bbMU-MIMOTweet Related Terms802.11ac Wave 2MIMO - multiple-in, multiple-outwearable technologylicensing technology IT - Information Technology Information Technology (IT) Directorlast mile telecommunications technologyinformation technology degree Information Technology (IT) Architect",
+    "frecency": 4586,
+    "url_hash": 53021879400335,
+    "last_visit_date": 1758203930476111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Mission Statement Mission Statement The Liberty University Honors Program is designed to provide gifted and talented students with the opportunity to achieve their highest intellectual and creative potential in a nurturing, Christian atmosphere with caring and credentialed Honors faculty. Qualifications Eligibility f",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a mission statement for Liberty University Honors Program and has no content related to Python, libraries, or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Mission Statement Mission Statement The Liberty University Honors Program is designed to provide gifted and talented students with the opportunity to achieve their highest intellectual and creative potential in a nurturing, Christian atmosphere with caring and credentialed Honors faculty. Qualifications Eligibility f",
+  "history": {
+    "url": "http://www.liberty.edu/academics/honors/index.cfm?PID=339",
+    "title": "Mission Statement",
+    "description": "Mission Statement The Liberty University Honors Program is designed to provide gifted and talented students with the opportunity to achieve their highest intellectual and creative potential in a nurturing, Christian atmosphere with caring and credentialed Honors faculty. Qualifications Eligibility f",
+    "frecency": 560,
+    "url_hash": 90344080798817,
+    "last_visit_date": 1758203929024111
+  }
+}

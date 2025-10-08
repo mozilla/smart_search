@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Coffee Shop Marketing Strategies and related articles about coffee shop marketing; unrelated to Docker setup.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns coffee shop marketing topics, not Docker setup or beginner Docker guidance.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Coffee Shop Marketing Strategies \"Related Articles1Marketing Plans for a Coffee House2SWOT Analysis for a Coffee Cafe3What Is the Target Market for Coffee?4Cafe Pricing Strategy Coffee shops serve coffees, teas, deserts and light lunches in bistro-like settings. Small, local coffee shops can establish a solid reputation in their co",
+  "history": {
+    "url": "http://smallbusiness.chron.com/coffee-shop-marketing-strategies-10413.html",
+    "title": "Coffee Shop Marketing Strategies",
+    "description": "\"Related Articles1Marketing Plans for a Coffee House2SWOT Analysis for a Coffee Cafe3What Is the Target Market for Coffee?4Cafe Pricing Strategy Coffee shops serve coffees, teas, deserts and light lunches in bistro-like settings. Small, local coffee shops can establish a solid reputation in their co",
+    "frecency": 1124,
+    "url_hash": 97005032703518,
+    "last_visit_date": 1758203932268111
+  }
+}

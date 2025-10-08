@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Burnt Store Marina 1 2 3BURNT STORE MARINA Burnt Store Marina is every boater\u2019s dream. Located on beautiful Charlotte Harbor, ranked one of the top ten places to sail by Sail magazine, the basin is just 10 miles to the Gulf of Mexico. Charlotte Harbor is the second-largest estuary in Florida, encompassing 270 square mi",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a marina and boating, not about starting a YouTube channel; it does not address the user query.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Burnt Store Marina 1 2 3BURNT STORE MARINABurnt Store Marina is every boater\u2019s dream. Located on beautiful Charlotte Harbor, ranked one of the top ten places to sail by Sail magazine, the basin is just 10 miles to the Gulf of Mexico. Charlotte Harbor is the second-largest estuary in Florida, encompassing 270 square mi",
+  "history": {
+    "url": "http://burntstoremarina.com/",
+    "title": "Burnt Store Marina",
+    "description": "1 2 3BURNT STORE MARINABurnt Store Marina is every boater\u2019s dream. Located on beautiful Charlotte Harbor, ranked one of the top ten places to sail by Sail magazine, the basin is just 10 miles to the Gulf of Mexico. Charlotte Harbor is the second-largest estuary in Florida, encompassing 270 square mi",
+    "frecency": 4614,
+    "url_hash": 50251708483162,
+    "last_visit_date": 1758203931165228
+  }
+}

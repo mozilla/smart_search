@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Mini Moo's\u00c2\u00ae Half & Half All Products Whipping Cream and Half & Half Half & Half Mini Moo's\u00ae Half & Half Ideal at the office or on-the-go. Where to Buy Made with milk and cream, Land O Lakes\u00ae Mini Moo's\u00ae Half & Half creamer singles are a convenient way to enjoy a perfect cup of coffee anywhere. For more information on these",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about dairy creamer products, not sports improvement; it does not answer or relate to 'how to get better at sports'.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Mini Moo's\u00c2\u00ae Half & Half All Products Whipping Cream and Half & Half Half & Half Mini Moo's\u00ae Half & Half Ideal at the office or on-the-go. Where to Buy Made with milk and cream, Land O Lakes\u00ae Mini Moo's\u00ae Half & Half creamer singles are a convenient way to enjoy a perfect cup of coffee anywhere. For more information on these",
+  "history": {
+    "url": "https://www.landolakes.com/products/half-half-and-whipping-cream/half-half/land-o-lakes-sup-reg;-sup-mini-moo-s-sup-reg/",
+    "title": "Mini Moo's\u00c2\u00ae Half & Half",
+    "description": "All Products Whipping Cream and Half & Half Half & Half Mini Moo's\u00ae Half & Half Ideal at the office or on-the-go. Where to Buy Made with milk and cream, Land O Lakes\u00ae Mini Moo's\u00ae Half & Half creamer singles are a convenient way to enjoy a perfect cup of coffee anywhere. For more information on these",
+    "frecency": 3882,
+    "url_hash": 93583401084732,
+    "last_visit_date": 1758203927725139
+  }
+}

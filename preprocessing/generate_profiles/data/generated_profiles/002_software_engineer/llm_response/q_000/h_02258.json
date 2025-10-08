@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "How to Become a Private Investigator How to Become a Private Investigator Private investigators are individuals who research into a person or company\u2019s background to get information about personal, financial, and legal matters. They conduct interviews, gather evidence, and write reports on their findings. They occasionally assist lawye",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page discusses becoming a private investigator, which is unrelated to debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "How to Become a Private Investigator How to Become a Private Investigator Private investigators are individuals who research into a person or company\u2019s background to get information about personal, financial, and legal matters. They conduct interviews, gather evidence, and write reports on their findings. They occasionally assist lawye",
+  "history": {
+    "url": "http://www.criminaljusticeusa.com/private-investigator/",
+    "title": "How to Become a Private Investigator",
+    "description": "How to Become a Private Investigator Private investigators are individuals who research into a person or company\u2019s background to get information about personal, financial, and legal matters. They conduct interviews, gather evidence, and write reports on their findings. They occasionally assist lawye",
+    "frecency": 919,
+    "url_hash": 33737371191147,
+    "last_visit_date": 1758203931120111
+  }
+}

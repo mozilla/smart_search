@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Lagash \\\"From Wikipedia, the free encyclopedianavigation search For the Argentine comic books character, see Nippur de Lagash. For the fictional planet in the Asimov story Nightfall (also known as Lagash), see Kalgash. Lagash Relief of Ur-Nanshe. At the top he creates the foundation for a shrine, at the bot",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns Lagash and related topics not related to easy DIY room decoration ideas; it does not appear to be about the requested query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Lagash \"From Wikipedia, the free encyclopedianavigation search For the Argentine comic books character, see Nippur de Lagash. For the fictional planet in the Asimov story Nightfall (also known as Lagash), see Kalgash. Lagash Relief of Ur-Nanshe. At the top he creates the foundation for a shrine, at the bot",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Lagash",
+    "title": "Lagash",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search For the Argentine comic books character, see Nippur de Lagash. For the fictional planet in the Asimov story Nightfall (also known as Lagash), see Kalgash. Lagash Relief of Ur-Nanshe. At the top he creates the foundation for a shrine, at the bot",
+    "frecency": 1233,
+    "url_hash": 1108322813938,
+    "last_visit_date": 1758203927748735
+  }
+}

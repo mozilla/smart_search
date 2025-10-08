@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Software Download Information Software Download Information The Following Software Packages are available from Network Software for all undergraduate engineering students: Autodesk Student Products Chem Sketch Dy Know Vision End Note JMPMathematica Matlab Microsoft Office Microsoft Project Pro Microsoft Visio Microsoft Windows P",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page lists general software download information for engineering students and does not mention Python libraries or machine learning libraries, hence not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Software Download Information Software Download Information The Following Software Packages are available from Network Software for all undergraduate engineering students: Autodesk Student Products Chem Sketch Dy Know Vision End Note JMPMathematica Matlab Microsoft Office Microsoft Project Pro Microsoft Visio Microsoft Windows P",
+  "history": {
+    "url": "https://www.swat.eng.vt.edu/software-download-information",
+    "title": "Software Download Information",
+    "description": "Software Download Information The Following Software Packages are available from Network Software for all undergraduate engineering students: Autodesk Student Products Chem Sketch Dy Know Vision End Note JMPMathematica Matlab Microsoft Office Microsoft Project Pro Microsoft Visio Microsoft Windows P",
+    "frecency": 4117,
+    "url_hash": 94676406334323,
+    "last_visit_date": 1758203929018111
+  }
+}

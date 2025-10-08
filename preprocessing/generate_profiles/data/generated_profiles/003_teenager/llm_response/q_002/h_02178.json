@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Seth Rogen \\\"Home Celebs Seth Rogen Seth Rogen Powered by imdb An actor, comedian and writer, Seth Rogen has come a long way from doing stand-up comedy as a teen. Rogen was born in Vancouver, British Columbia, to Sandy (Belogus), a social worker, and Mark Rogen, who worked for non-profits. His father is America",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Seth Rogen, a celebrity, and contains no information about DIY room decoration ideas; it is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Seth Rogen \"Home Celebs Seth Rogen Seth Rogen Powered by imdb An actor, comedian and writer, Seth Rogen has come a long way from doing stand-up comedy as a teen. Rogen was born in Vancouver, British Columbia, to Sandy (Belogus), a social worker, and Mark Rogen, who worked for non-profits. His father is America",
+  "history": {
+    "url": "http://www.tmz.com/person/seth-rogen/",
+    "title": "Seth Rogen",
+    "description": "\"Home Celebs Seth Rogen Seth Rogen Powered by imdb An actor, comedian and writer, Seth Rogen has come a long way from doing stand-up comedy as a teen. Rogen was born in Vancouver, British Columbia, to Sandy (Belogus), a social worker, and Mark Rogen, who worked for non-profits. His father is America",
+    "frecency": 2751,
+    "url_hash": 83404319890398,
+    "last_visit_date": 1758203927446735
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Public Golf Courses in Spring, Texas Spring, Texas, is a suburb located north of Houston, the most populous city in the state of Texas. Spring is the home of the Texas Crawfish and Music Festival and the Pearl Fincher Museum of Fine Arts. There are four public golf courses in Spring, two of which are owned by the same company, and anot",
+  "relevance_score": 0.15,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page is about golf courses in a specific locale, not about improving athletic performance or sports strategies. Only tangential relevance to 'how to get better at sports'.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Public Golf Courses in Spring, Texas Spring, Texas, is a suburb located north of Houston, the most populous city in the state of Texas. Spring is the home of the Texas Crawfish and Music Festival and the Pearl Fincher Museum of Fine Arts. There are four public golf courses in Spring, two of which are owned by the same company, and anot",
+  "history": {
+    "url": "http://traveltips.usatoday.com/public-golf-courses-spring-texas-11651.html",
+    "title": "Public Golf Courses in Spring, Texas",
+    "description": "Spring, Texas, is a suburb located north of Houston, the most populous city in the state of Texas. Spring is the home of the Texas Crawfish and Music Festival and the Pearl Fincher Museum of Fine Arts. There are four public golf courses in Spring, two of which are owned by the same company, and anot",
+    "frecency": 3856,
+    "url_hash": 14517319257498,
+    "last_visit_date": 1758203930331228
+  }
+}

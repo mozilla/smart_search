@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "How to Poison your Fictional Characters How to Poison your Fictional Characters By Michele Acker\u00a9 2007, Michele Acker Do you have a fictional character you need to kill, but you don't want them strangled or shot or stabbed with a knife? Do you want your murderer to kill them without letting anyone know what you plan to do or who your kill",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The result is about poisoning fictional characters, not about improving sports or performance; not relevant to the query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "How to Poison your Fictional Characters How to Poison your Fictional Characters By Michele Acker\u00a9 2007, Michele Acker Do you have a fictional character you need to kill, but you don't want them strangled or shot or stabbed with a knife? Do you want your murderer to kill them without letting anyone know what you plan to do or who your kill",
+  "history": {
+    "url": "http://fmwriters.com/Visionback/Vision37/howtopoison.htm",
+    "title": "How to Poison your Fictional Characters",
+    "description": "How to Poison your Fictional Characters By Michele Acker\u00a9 2007, Michele Acker Do you have a fictional character you need to kill, but you don't want them strangled or shot or stabbed with a knife? Do you want your murderer to kill them without letting anyone know what you plan to do or who your kill",
+    "frecency": 3291,
+    "url_hash": 661182708108,
+    "last_visit_date": 1758203928818735
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Gravitational waves detected 100 years after Einstein's prediction \\\"Science News from research organizations Gravitational waves detected 100 years after Einstein's prediction LIGO opens new window on the universe with observation of gravitational waves from colliding black holes Date: February 11, 2016Source: LIGO Laboratory Summary: For the first time, scientists",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page discusses gravitational waves and LIGO, which is unrelated to integrated development environments or software development topics.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Gravitational waves detected 100 years after Einstein's prediction \"Science News from research organizations Gravitational waves detected 100 years after Einstein's prediction LIGO opens new window on the universe with observation of gravitational waves from colliding black holes Date: February 11, 2016Source: LIGO Laboratory Summary: For the first time, scientists",
+  "history": {
+    "url": "https://www.sciencedaily.com/releases/2016/02/160211103935.htm",
+    "title": "Gravitational waves detected 100 years after Einstein's prediction",
+    "description": "\"Science News from research organizations Gravitational waves detected 100 years after Einstein's prediction LIGO opens new window on the universe with observation of gravitational waves from colliding black holes Date: February 11, 2016Source: LIGO Laboratory Summary: For the first time, scientists",
+    "frecency": 4305,
+    "url_hash": 49692922348710,
+    "last_visit_date": 1758203927774200
+  }
+}

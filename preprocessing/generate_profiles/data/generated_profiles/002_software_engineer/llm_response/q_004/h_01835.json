@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Employment Opportunities Employment Opportunities The City of Bessemer City is an Equal Opportunity Employer Joshua Ross City Clerk / Human Capital Officer & Economic Development Officer City of Bessemer City Administration Department: Development Services Division132 West Virginia Avenue Bessemer City, North Carolina 28016",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is unrelated to Docker or beginner setup guidance; it appears to be a city employment opportunities page.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Employment Opportunities Employment Opportunities The City of Bessemer City is an Equal Opportunity Employer Joshua Ross City Clerk / Human Capital Officer & Economic Development Officer City of Bessemer City Administration Department: Development Services Division132 West Virginia Avenue Bessemer City, North Carolina 28016",
+  "history": {
+    "url": "http://bessemercity.com/employment-opportunities/",
+    "title": "Employment Opportunities",
+    "description": "Employment Opportunities The City of Bessemer City is an Equal Opportunity Employer Joshua Ross City Clerk / Human Capital Officer & Economic Development Officer City of Bessemer City Administration Department: Development Services Division132 West Virginia Avenue Bessemer City, North Carolina 28016",
+    "frecency": 1648,
+    "url_hash": 67652067282633,
+    "last_visit_date": 1758203931596111
+  }
+}

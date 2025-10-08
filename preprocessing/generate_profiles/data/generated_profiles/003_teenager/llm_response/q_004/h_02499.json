@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "BodyPump Body Pump By WLR's Site Manager, Laurence Beeken Tweet Body Pump is a new and exciting way to introduce fitness and exercise into people\u2019s lives, and exercise classes are popping up everywhere. One of the current fitness workouts is Body Pump. Although started originally in New Zealand by Les Mills",
+  "relevance_score": 0.2,
+  "binary_decision": 0,
+  "Decision_Reason": "The result discusses a specific fitness class (Body Pump) rather than providing guidance or information aimed at improving sports performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "BodyPump Body Pump By WLR's Site Manager, Laurence Beeken Tweet Body Pump is a new and exciting way to introduce fitness and exercise into people\u2019s lives, and exercise classes are popping up everywhere. One of the current fitness workouts is Body Pump. Although started originally in New Zealand by Les Mills",
+  "history": {
+    "url": "http://www.weightlossresources.co.uk/exercise/workouts/body-pump.htm",
+    "title": "BodyPump",
+    "description": "Body Pump By WLR's Site Manager, Laurence Beeken Tweet Body Pump is a new and exciting way to introduce fitness and exercise into people\u2019s lives, and exercise classes are popping up everywhere. One of the current fitness workouts is Body Pump. Although started originally in New Zealand by Les Mills ",
+    "frecency": 2430,
+    "url_hash": 39477171540337,
+    "last_visit_date": 1758203931643228
+  }
+}

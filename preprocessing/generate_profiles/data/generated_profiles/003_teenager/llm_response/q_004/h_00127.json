@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Drought & Fire Updates Feedback News Drought and wildland fires affect Montana's fish, wildlife, and parks. Please check here for news on current conditions and any restrictions in effect to protect Montana's natural resources. Recent Drought & Fire News Fire Inci Web This public website provides wildland fire information",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses drought and wildfire news in Montana; it is not about improving performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Drought & Fire Updates Feedback News Drought and wildland fires affect Montana's fish, wildlife, and parks. Please check here for news on current conditions and any restrictions in effect to protect Montana's natural resources. Recent Drought & Fire News Fire Inci Web This public website provides wildland fire information",
+  "history": {
+    "url": "http://fwp.mt.gov/news/drought/default.html",
+    "title": "Drought & Fire Updates",
+    "description": "Feedback News Drought and wildland fires affect Montana's fish, wildlife, and parks. Please check here for news on current conditions and any restrictions in effect to protect Montana's natural resources. Recent Drought & Fire News Fire Inci Web This public website provides wildland fire information",
+    "frecency": 4870,
+    "url_hash": 75230766678680,
+    "last_visit_date": 1758203933431228
+  }
+}

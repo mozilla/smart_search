@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Russia's mixed messages on LGBT \\\"RTKira Sadovaya is the main heroine of RT's documentary series Trans Reality Kira is a young Russian transgender woman waiting for the gender re-assignment operation that is going to allow her to live her life officially as a woman. She is studying in Moscow, where she also works as a fashion model",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns a documentary about LGBT topics in Russia, not about debugging or API integration. It is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Russia's mixed messages on LGBT \"RTKira Sadovaya is the main heroine of RT's documentary series Trans Reality Kira is a young Russian transgender woman waiting for the gender re-assignment operation that is going to allow her to live her life officially as a woman. She is studying in Moscow, where she also works as a fashion model",
+  "history": {
+    "url": "http://www.bbc.com/news/world-europe-36132060",
+    "title": "Russia's mixed messages on LGBT",
+    "description": "\"RTKira Sadovaya is the main heroine of RT's documentary series Trans Reality Kira is a young Russian transgender woman waiting for the gender re-assignment operation that is going to allow her to live her life officially as a woman. She is studying in Moscow, where she also works as a fashion model",
+    "frecency": 4056,
+    "url_hash": 32146339993866,
+    "last_visit_date": 1758203927656111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Hypovolemic Shock \\\"Hypovolemic Shock Back Hypovolemic Shock Author: Paul Kolecki, MD, FACEPChief Editor: Barry E Brenner, MD, Ph D, FACEPOverview Clinical Presentation Differential Diagnoses Workup Treatment & Management Medication Overview Background Pathophysiology Clinical Presentation History Physical Causes Work",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a medical topic about hypovolemic shock, not related to debugging API integration. No content about debugging, APIs, or integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Hypovolemic Shock \"Hypovolemic Shock Back Hypovolemic Shock Author: Paul Kolecki, MD, FACEPChief Editor: Barry E Brenner, MD, Ph D, FACEPOverview Clinical Presentation Differential Diagnoses Workup Treatment & Management Medication Overview Background Pathophysiology Clinical Presentation History Physical Causes Work",
+  "history": {
+    "url": "http://misc.medscape.com/pi/android/medscapeapp/html/A760145-business.html",
+    "title": "Hypovolemic Shock",
+    "description": "\"Hypovolemic Shock Back Hypovolemic Shock Author: Paul Kolecki, MD, FACEPChief Editor: Barry E Brenner, MD, Ph D, FACEPOverview Clinical Presentation Differential Diagnoses Workup Treatment & Management Medication Overview Background Pathophysiology Clinical Presentation History Physical Causes Work",
+    "frecency": 2482,
+    "url_hash": 23927776046988,
+    "last_visit_date": 1758203930024111
+  }
+}

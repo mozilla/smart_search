@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "How Leonard Cohen's 'Hallelujah' Became an Unlikely Pop Standard Music How Leonard Cohen's 'Hallelujah' Became an Unlikely Pop Standard Alex Heigl November 11, 2016 12:05 PMDo you remember the first time you heard \u201cHallelujah?\u201d Was it in Shrek? Maybe on a reality-singing competition show? Maybe you just heard it from a street musician somewhere and thought, \u201cThat",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Leonard Cohen's song, not about easy DIY room decoration ideas; not relevant.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "How Leonard Cohen's 'Hallelujah' Became an Unlikely Pop Standard Music How Leonard Cohen's 'Hallelujah' Became an Unlikely Pop Standard Alex Heigl November 11, 2016 12:05 PMDo you remember the first time you heard \u201cHallelujah?\u201d Was it in Shrek? Maybe on a reality-singing competition show? Maybe you just heard it from a street musician somewhere and thought, \u201cThat",
+  "history": {
+    "url": "http://people.com/music/leonard-cohen-hallelujah-history/",
+    "title": "How Leonard Cohen's 'Hallelujah' Became an Unlikely Pop Standard",
+    "description": "Music How Leonard Cohen's 'Hallelujah' Became an Unlikely Pop Standard Alex Heigl November 11, 2016 12:05 PMDo you remember the first time you heard \u201cHallelujah?\u201d Was it in Shrek? Maybe on a reality-singing competition show? Maybe you just heard it from a street musician somewhere and thought, \u201cThat",
+    "frecency": 3073,
+    "url_hash": 23083631786716,
+    "last_visit_date": 1758203934055228
+  }
+}

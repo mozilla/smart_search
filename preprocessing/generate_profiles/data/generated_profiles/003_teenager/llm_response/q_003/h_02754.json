@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Broiled Asparagus Martha Stewart Dinner Recipes Broiled Asparagus Broiled Asparagus14This member of the lily family has been cultivated for more than 2,000 years. Asparagus is at its peak from February through June and is a good source of fiber, folic acid, and potassium. Source: Everyday Food, March/April 200320 min",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a cooking recipe/article about broiled asparagus and is unrelated to apps for improving study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Broiled Asparagus Martha Stewart Dinner Recipes Broiled Asparagus Broiled Asparagus14This member of the lily family has been cultivated for more than 2,000 years. Asparagus is at its peak from February through June and is a good source of fiber, folic acid, and potassium. Source: Everyday Food, March/April 200320 min",
+  "history": {
+    "url": "http://www.marthastewart.com/312979/broiled-asparagus",
+    "title": "Broiled Asparagus",
+    "description": "Martha Stewart Dinner Recipes Broiled Asparagus Broiled Asparagus14This member of the lily family has been cultivated for more than 2,000 years. Asparagus is at its peak from February through June and is a good source of fiber, folic acid, and potassium. Source: Everyday Food, March/April 200320 min",
+    "frecency": 2128,
+    "url_hash": 8768955825907,
+    "last_visit_date": 1758203931685228
+  }
+}

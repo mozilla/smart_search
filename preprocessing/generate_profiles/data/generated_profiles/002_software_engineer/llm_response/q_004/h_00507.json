@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "David Duke Threatens To Expose Other Politicians With White Supremacist Ties POLITICS 01/02/2015 11:16 am ET Updated Jan 02, 2015David Duke Threatens To Expose Other Politicians With White Supremacist Ties By Paige Lavender XFormer Ku Klux Klan leader David Duke issued a warning to Republicans who have criticized House Majority Whip Steve Scalise (R-La.) for speaking to wh",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about David Duke and politics, not about Docker or setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "David Duke Threatens To Expose Other Politicians With White Supremacist Ties POLITICS 01/02/2015 11:16 am ET Updated Jan 02, 2015David Duke Threatens To Expose Other Politicians With White Supremacist Ties By Paige Lavender XFormer Ku Klux Klan leader David Duke issued a warning to Republicans who have criticized House Majority Whip Steve Scalise (R-La.) for speaking to a wh",
+  "history": {
+    "url": "http://www.huffingtonpost.com/2015/01/02/david-duke-steve-scalise_n_6406844.html",
+    "title": "David Duke Threatens To Expose Other Politicians With White Supremacist Ties",
+    "description": "POLITICS 01/02/2015 11:16 am ET Updated Jan 02, 2015David Duke Threatens To Expose Other Politicians With White Supremacist Ties By Paige Lavender XFormer Ku Klux Klan leader David Duke issued a warning to Republicans who have criticized House Majority Whip Steve Scalise (R-La.) for speaking to a wh",
+    "frecency": 4120,
+    "url_hash": 47985451068885,
+    "last_visit_date": 1758203931986111
+  }
+}

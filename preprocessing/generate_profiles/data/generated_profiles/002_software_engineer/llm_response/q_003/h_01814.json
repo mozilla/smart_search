@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Our work Our work The Big Issue offers people facing poverty and exclusion the opportunity to earn their own money; a livelihood. The Big Issue Foundation is an independent charity working alongside the magazine distribution network. We aim to maximize the success of each vendor\u2019s selling career and engage t",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses The Big Issue charity and its foundation, not database queries or optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Our work Our work The Big Issue offers people facing poverty and exclusion the opportunity to earn their own money; a livelihood. The Big Issue Foundation is an independent charity working alongside the magazine distribution network. We aim to maximize the success of each vendor\u2019s selling career and engage t",
+  "history": {
+    "url": "https://www.bigissue.org.uk/",
+    "title": "Our work",
+    "description": "Our work The Big Issue offers people facing poverty and exclusion the opportunity to earn their own money; a livelihood. The Big Issue Foundation is an independent charity working alongside the magazine distribution network. We aim to maximize the success of each vendor\u2019s selling career and engage t",
+    "frecency": 1707,
+    "url_hash": 64113661069241,
+    "last_visit_date": 1758203927002111
+  }
+}

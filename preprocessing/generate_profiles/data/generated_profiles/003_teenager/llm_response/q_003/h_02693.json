@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "The New Freedom \\\"From Wikipedia, the free encyclopedianavigation search This article is part of a series about Woodrow Wilson Early Life Boyhood home South Carolina home President of Princeton University Campaign for Governor of New Jersey President of the United States Presidency First Term1912 campaign Election1s\\\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Woodrow Wilson and unrelated topics, not about apps for improving study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "The New Freedom \"From Wikipedia, the free encyclopedianavigation search This article is part of a series about Woodrow Wilson Early Life Boyhood home South Carolina home President of Princeton University Campaign for Governor of New Jersey President of the United States Presidency First Term1912 campaign Election1s",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/The_New_Freedom",
+    "title": "The New Freedom",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search This article is part of a series about Woodrow Wilson Early Life Boyhood home South Carolina home President of Princeton University Campaign for Governor of New Jersey President of the United States Presidency First Term1912 campaign Election1s",
+    "frecency": 2206,
+    "url_hash": 82012196038450,
+    "last_visit_date": 1758203933737228
+  }
+}

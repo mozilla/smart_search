@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "C'est la vie (Khaled song) - Single by Khaled from the album C'est la vie, Released 2 July 2012, Genre Ra\u00ef Turkish pop dance, Length 3:50, Label Universal Music Division AZ, Songwriter(s) Khaled, Red One, Alex Papaconstantinou, Bilal Hajji",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a music song page about Khaled's 'C'est la vie', unrelated to improving performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "C'est la vie (Khaled song) \"C'est la vie (Khaled song)From Wikipedia, the free encyclopedianavigation search\"\"C'est la vie\"\"Single by Khaledfrom the album C'est la vie Released 2 July 2012Genre Ra\u00ef Turkish pop dance Length 3: 50Label Universal Music Division AZSongwriter (s) Khaled, Red One, Alex Papaconstantinou, Bilal Hajji",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/C%27est_la_vie_(Khaled_song)",
+    "title": "C'est la vie (Khaled song)",
+    "description": "\"C'est la vie (Khaled song)From Wikipedia, the free encyclopedianavigation search\"\"C'est la vie\"\"Single by Khaledfrom the album C'est la vie Released 2 July 2012Genre Ra\u00ef Turkish pop dance Length 3: 50Label Universal Music Division AZSongwriter (s) Khaled, Red One, Alex Papaconstantinou, Bilal Hajji",
+    "frecency": 3110,
+    "url_hash": 53404057383037,
+    "last_visit_date": 1758203934735228
+  }
+}

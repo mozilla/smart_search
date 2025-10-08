@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "How to Write a Program in Java to Calculate the Mean \\\"Edit Article How to Write a Program in Java to Calculate the Mean Calculating Mean is very important in day-to-day life. Mean, or mean average, is used along with many other mathematical operations and is an important thing to know. But, if we are dealing with big numbers, it becomes easier to use",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns programming in Java to calculate the mean; it has no content related to improving athletic performance or sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "How to Write a Program in Java to Calculate the Mean \"Edit Article How to Write a Program in Java to Calculate the Mean Calculating Mean is very important in day-to-day life. Mean, or mean average, is used along with many other mathematical operations and is an important thing to know. But, if we are dealing with big numbers, it becomes easier to use",
+  "history": {
+    "url": "http://www.wikihow.com/Write-a-Program-in-Java-to-Calculate-the-Mean",
+    "title": "How to Write a Program in Java to Calculate the Mean",
+    "description": "\"Edit Article How to Write a Program in Java to Calculate the Mean Calculating Mean is very important in day-to-day life. Mean, or mean average, is used along with many other mathematical operations and is an important thing to know. But, if we are dealing with big numbers, it becomes easier to use ",
+    "frecency": 3951,
+    "url_hash": 89513233282037,
+    "last_visit_date": 1758203927270735
+  }
+}

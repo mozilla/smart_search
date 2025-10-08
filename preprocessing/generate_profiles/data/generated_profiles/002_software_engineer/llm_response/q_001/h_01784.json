@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Cultural impact of Elvis Presley \"From Wikipedia, the free encyclopedianavigation search Elvis impersonators Folk rock musician Amy Ray wearing an Elvis shirt onstage Elvis Presley Avenue in Shreveport, Louisiana Since the beginning of his career, Elvis Presley has had an extensive cultural impact. According to Rolling Stone, \"\"it",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Elvis Presley and his cultural impact, which is unrelated to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Cultural impact of Elvis Presley \"From Wikipedia, the free encyclopedianavigation search Elvis impersonators Folk rock musician Amy Ray wearing an Elvis shirt onstage Elvis Presley Avenue in Shreveport, Louisiana Since the beginning of his career, Elvis Presley has had an extensive cultural impact. According to Rolling Stone, \"\"it",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Cultural_impact_of_Elvis_Presley",
+    "title": "Cultural impact of Elvis Presley",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search Elvis impersonators Folk rock musician Amy Ray wearing an Elvis shirt onstage Elvis Presley Avenue in Shreveport, Louisiana Since the beginning of his career, Elvis Presley has had an extensive cultural impact. According to Rolling Stone, \"\"it ",
+    "frecency": 1760,
+    "url_hash": 6362309508339,
+    "last_visit_date": 1758203928704111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "crossfire crossfire Crossfire is when weapons are being fired from different directions, crossing the same general area. Getting caught in crossfire during a shootout can be deadly. Crossfire is a situation that comes up when gangsters and police officers are shooting at each other, or in a war during a battl",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about crossfire and gun violence, not Docker or software setup; does not address the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "crossfire crossfire Crossfire is when weapons are being fired from different directions, crossing the same general area. Getting caught in crossfire during a shootout can be deadly. Crossfire is a situation that comes up when gangsters and police officers are shooting at each other, or in a war during a battl",
+  "history": {
+    "url": "https://www.vocabulary.com/dictionary/crossfire",
+    "title": "crossfire",
+    "description": "crossfire Crossfire is when weapons are being fired from different directions, crossing the same general area. Getting caught in crossfire during a shootout can be deadly. Crossfire is a situation that comes up when gangsters and police officers are shooting at each other, or in a war during a battl",
+    "frecency": 4376,
+    "url_hash": 98396197162965,
+    "last_visit_date": 1758203931550111
+  }
+}

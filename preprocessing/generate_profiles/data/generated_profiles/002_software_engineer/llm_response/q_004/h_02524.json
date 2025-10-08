@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "ACU PAC Home ACU PACACU PACThe ACU Political Action Committee is the political arm of the American Conservative Union. The committee is a registered PAC that supports candidates for office who reflect the conservative principles on which the ACU was founded. The goals of the ACU PAC are to increase the numb",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is unrelated to Docker or beginner setup; it discusses a political action committee, not the requested topic.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "ACU PAC Home ACU PACACU PACThe ACU Political Action Committee is the political arm of the American Conservative Union. The committee is a registered PAC that supports candidates for office who reflect the conservative principles on which the ACU was founded. The goals of the ACU PAC are to increase the numb",
+  "history": {
+    "url": "http://conservative.org/acu-pac/",
+    "title": "ACU PAC",
+    "description": "Home ACU PACACU PACThe ACU Political Action Committee is the political arm of the American Conservative Union. The committee is a registered PAC that supports candidates for office who reflect the conservative principles on which the ACU was founded. The goals of the ACU PAC are to increase the numb",
+    "frecency": 442,
+    "url_hash": 13751276465609,
+    "last_visit_date": 1758203931042111
+  }
+}

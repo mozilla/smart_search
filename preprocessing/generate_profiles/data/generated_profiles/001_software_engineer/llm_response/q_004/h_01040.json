@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Line 130 - Death benefits (other than Canada or Quebec Pension Plan death benefits) A death benefit is an amount you receive after a person's death for their employment service. Generally, amounts are shown on these slips: T4A, Statement of Pension, Retirement, Annuity, and Other Income T3, Statement of Trust Income Allocations and Designations You may not have to pay tax on up to",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses death benefits and tax forms, which is unrelated to Docker setup or beginner guidance.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Line 130 - Death benefits (other than Canada or Quebec Pension Plan death benefits) A death benefit is an amount you receive after a person's death for their employment service. Generally, amounts are shown on these slips: T4A, Statement of Pension, Retirement, Annuity, and Other Income T3, Statement of Trust Income Allocations and Designations You may not have to pay tax on up to",
+  "history": {
+    "url": "http://www.cra-arc.gc.ca/tx/ndvdls/tpcs/ncm-tx/rtrn/cmpltng/rprtng-ncm/lns101-170/130/dth-eng.html",
+    "title": "Line 130 - Death benefits (other than Canada or Quebec Pension Plan death benefits)",
+    "description": "A death benefit is an amount you receive after a person's death for their employment service. Generally, amounts are shown on these slips: T4A, Statement of Pension, Retirement, Annuity, and Other Income T3, Statement of Trust Income Allocations and Designations You may not have to pay tax on up to ",
+    "frecency": 1299,
+    "url_hash": 21696973965358,
+    "last_visit_date": 1758203928790200
+  }
+}

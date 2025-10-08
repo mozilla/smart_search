@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Turtle Diary \\\"Turtle Diary From Wikipedia, the free encyclopedianavigation search Turtle Diary Theatrical release poster Directed by John Irvin Produced by Richard Johnson Bernard Sofronski (Executive Producer)Written by Russell Hoban (novel) Harold Pinter (screenplay)Starring Glenda Jackson Ben Kingsley Music b",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes the Turtle Diary film/book and contains no information related to improving athletic performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Turtle Diary \"Turtle Diary From Wikipedia, the free encyclopedianavigation search Turtle Diary Theatrical release poster Directed by John Irvin Produced by Richard Johnson Bernard Sofronski (Executive Producer)Written by Russell Hoban (novel) Harold Pinter (screenplay)Starring Glenda Jackson Ben Kingsley Music b",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Turtle_Diary",
+    "title": "Turtle Diary",
+    "description": "\"Turtle Diary From Wikipedia, the free encyclopedianavigation search Turtle Diary Theatrical release poster Directed by John Irvin Produced by Richard Johnson Bernard Sofronski (Executive Producer)Written by Russell Hoban (novel) Harold Pinter (screenplay)Starring Glenda Jackson Ben Kingsley Music b",
+    "frecency": 1144,
+    "url_hash": 86782325078876,
+    "last_visit_date": 1758203929272735
+  }
+}

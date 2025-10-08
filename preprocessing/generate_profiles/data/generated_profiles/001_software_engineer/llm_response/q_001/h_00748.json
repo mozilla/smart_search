@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Why do we collapse immediately when our heart stops beating? \\\"Mike Chronley, Former Exercise Physiology Researcher Answered Nov 29, 2014 \u00b7 Author has 318 answers and 648k answer views I guess I entered this in the wrong box, hopefully this is correct now :) The sudden drop in blood pressure is what causes you to drop. Although the oxygen in stationary blood l",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about heart physiology and has no relevance to Python libraries or machine learning topics.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Why do we collapse immediately when our heart stops beating? \"Mike Chronley, Former Exercise Physiology Researcher Answered Nov 29, 2014 \u00b7 Author has 318 answers and 648k answer views I guess I entered this in the wrong box, hopefully this is correct now :) The sudden drop in blood pressure is what causes you to drop. Although the oxygen in stationary blood l",
+  "history": {
+    "url": "https://www.quora.com/Why-do-we-collapse-immediately-when-our-heart-stops-beating",
+    "title": "Why do we collapse immediately when our heart stops beating?",
+    "description": "\"Mike Chronley, Former Exercise Physiology Researcher Answered Nov 29, 2014 \u00b7 Author has 318 answers and 648k answer views I guess I entered this in the wrong box, hopefully this is correct now :) The sudden drop in blood pressure is what causes you to drop. Although the oxygen in stationary blood l",
+    "frecency": 2471,
+    "url_hash": 24275195514489,
+    "last_visit_date": 1758203927374200
+  }
+}

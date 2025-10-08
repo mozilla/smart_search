@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "How to React if Your Car's Brake Light Comes On 1 Check the parking brake (also called an emergency brake) and attempt to release it. The warning light will stay on continuously if this device is engaged.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses automotive brake-light troubleshooting and is not related to IDEs or software development.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "How to React if Your Car's Brake Light Comes On 1 Check the parking brake (also called an emergency brake) and attempt to release it. The warning light will stay on continuously if this device is engaged.",
+  "history": {
+    "url": "http://www.wikihow.com/React-if-Your-Car%27s-Brake-Light-Comes-On",
+    "title": "How to React if Your Car's Brake Light Comes On",
+    "description": "1 Check the parking brake (also called an emergency brake) and attempt to release it. The warning light will stay on continuously if this device is engaged. ",
+    "frecency": 1534,
+    "url_hash": 90710150942771,
+    "last_visit_date": 1758203928884200
+  }
+}

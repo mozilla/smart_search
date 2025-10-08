@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "XLR: Extensible Language and Runtime Numbers in computers are limited compared to their mathematical counterparts. The range of integers is not infinite, and real numbers don't have infinite precision, to cite two simple examples. This creates many classical forms of semantic noise. For instance, using 16-bit signed computations, (3276",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Extensible Language and Runtime Numbers and semantic noise; it does not mention Python, libraries, or machine learning, so it is not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "XLR: Extensible Language and Runtime Numbers in computers are limited compared to their mathematical counterparts. The range of integers is not infinite, and real numbers don't have infinite precision, to cite two simple examples. This creates many classical forms of semantic noise. For instance, using 16-bit signed computations, (3276",
+  "history": {
+    "url": "http://xlr.sourceforge.net/concept/semnoise.html",
+    "title": "XLR: Extensible Language and Runtime",
+    "description": "Numbers in computers are limited compared to their mathematical counterparts. The range of integers is not infinite, and real numbers don't have infinite precision, to cite two simple examples. This creates many classical forms of semantic noise. For instance, using 16-bit signed computations, (3276",
+    "frecency": 530,
+    "url_hash": 55707036590348,
+    "last_visit_date": 1758203927254200
+  }
+}

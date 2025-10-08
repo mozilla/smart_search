@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "What is Education Outreach? What is Education Outreach? We specialize in supporting educators and students in the classroom, and families at home by creating and connecting quality PBS educational content to national and common core state standards. We help our constituents improve student performance through evidence and rese",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses education outreach and PBS educational content, not Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "What is Education Outreach? What is Education Outreach? We specialize in supporting educators and students in the classroom, and families at home by creating and connecting quality PBS educational content to national and common core state standards. We help our constituents improve student performance through evidence and rese",
+  "history": {
+    "url": "http://asset.asu.edu/new/whatisasset.html",
+    "title": "What is Education Outreach?",
+    "description": "What is Education Outreach? We specialize in supporting educators and students in the classroom, and families at home by creating and connecting quality PBS educational content to national and common core state standards. We help our constituents improve student performance through evidence and rese",
+    "frecency": 4001,
+    "url_hash": 13723580110068,
+    "last_visit_date": 1758203929404111
+  }
+}

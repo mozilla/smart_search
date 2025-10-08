@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Headache You Are Here: Home \u2192 Medical Encyclopedia \u2192 Headache Headache A headache is pain or discomfort in the head, scalp, or neck. Serious causes of headaches are rare. Most people with headaches can feel much better by making lifestyle changes, learning ways to relax, and sometimes by taking medicines. Ca",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page is about headaches (medical encyclopedia) and has no relevance to starting a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Headache You Are Here: Home \u2192 Medical Encyclopedia \u2192 Headache Headache A headache is pain or discomfort in the head, scalp, or neck. Serious causes of headaches are rare. Most people with headaches can feel much better by making lifestyle changes, learning ways to relax, and sometimes by taking medicines. Ca",
+  "history": {
+    "url": "https://www.nlm.nih.gov/medlineplus/ency/article/003024.htm",
+    "title": "Headache",
+    "description": "You Are Here: Home \u2192 Medical Encyclopedia \u2192 Headache Headache A headache is pain or discomfort in the head, scalp, or neck. Serious causes of headaches are rare. Most people with headaches can feel much better by making lifestyle changes, learning ways to relax, and sometimes by taking medicines. Ca",
+    "frecency": 4608,
+    "url_hash": 35426335956085,
+    "last_visit_date": 1758203927001139
+  }
+}

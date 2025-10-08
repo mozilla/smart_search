@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "How long is too long a college football game? How long is too long a college football game? College football games are lasting longer, which is not affecting ratings but may be hurting players (literally) and audience enjoyment. by Jon Solomon @Jon Solomon CBS Feb 9, 2015 \u2022 7 min read The clock on Michigan's scoreboard could run after first dow",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses college football game duration, not API integration debugging; no relevance.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "How long is too long a college football game? \"How long is too long a college football game? College football games are lasting longer, which is not affecting ratings but may be hurting players (literally) and audience enjoyment.by Jon Solomon @Jon Solomon CBS Feb 9, 2015 \u2022 7 min read The clock on Michigan's scoreboard could run after first dow",
+  "history": {
+    "url": "https://www.cbssports.com/college-football/news/how-long-is-too-long-a-college-football-game/",
+    "title": "How long is too long a college football game?",
+    "description": "\"How long is too long a college football game? College football games are lasting longer, which is not affecting ratings but may be hurting players (literally) and audience enjoyment.by Jon Solomon @Jon Solomon CBS Feb 9, 2015 \u2022 7 min read The clock on Michigan's scoreboard could run after first dow",
+    "frecency": 2218,
+    "url_hash": 92019870899172,
+    "last_visit_date": 1758203929848111
+  }
+}

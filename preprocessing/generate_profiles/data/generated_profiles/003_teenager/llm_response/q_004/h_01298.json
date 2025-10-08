@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Who played Buffy on Family ... \"Today\u2019s News Who played Buffy on Family ... By TV Guide News | Sep 29, 2005 4:00 AM EDTWe are family: the cast of Family Affair Question: Who played Buffy on Family Affair? Answer: Anissa Jones played Buffy alongside Johnnie Whitaker ( Sigmund and the Sea Monsters) on the series, which ran on CBS f",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns a TV show character Buffy from Family Affair and does not relate to strategies for getting better at sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Who played Buffy on Family ... \"Today\u2019s News Who played Buffy on Family ... By TV Guide News | Sep 29, 2005 4:00 AM EDTWe are family: the cast of Family Affair Question: Who played Buffy on Family Affair? Answer: Anissa Jones played Buffy alongside Johnnie Whitaker ( Sigmund and the Sea Monsters) on the series, which ran on CBS f",
+  "history": {
+    "url": "http://www.tvguide.com/news/played-buffy-family-65801/",
+    "title": "Who played Buffy on Family ...",
+    "description": "\"Today\u2019s News Who played Buffy on Family ... By TV Guide News | Sep 29, 2005 4:00 AM EDTWe are family: the cast of Family Affair Question: Who played Buffy on Family Affair? Answer: Anissa Jones played Buffy alongside Johnnie Whitaker ( Sigmund and the Sea Monsters) on the series, which ran on CBS f",
+    "frecency": 3672,
+    "url_hash": 14303193815472,
+    "last_visit_date": 1758203931933228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Attractions Attractions There is always something to do in Thomasville!Thomasville may be small, but that doesn't mean we're not busy; there is always something for you here. Take a tour through one of our historical museums, visit a magnifi",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The page content describes Thomasville attractions, which is unrelated to apps or study habit improvement.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Attractions Attractions There is always something to do in Thomasville!Thomasville may be small, but that doesn't mean we're not busy; there is always something to do in Thomasville! No matter what your interest, there is something for you here. Take a tour through one of our historical museums, visit a magnifi",
+  "history": {
+    "url": "http://www.thomasvillega.com/Content/Default/8/40/15/thomasville-visitor%27s-center/visit-us/attractions.html",
+    "title": "Attractions",
+    "description": "Attractions There is always something to do in Thomasville!Thomasville may be small, but that doesn't mean we're not busy; there is always something to do in Thomasville! No matter what your interest, there is something for you here. Take a tour through one of our historical museums, visit a magnifi",
+    "frecency": 4734,
+    "url_hash": 17230781271630,
+    "last_visit_date": 1758203933603228
+  }
+}

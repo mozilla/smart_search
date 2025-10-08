@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Richard Crenna \"Richard Crenna Actor & Director\"\"We make all these jokes about every waiter and waitress in L. A. is an actor. They have to be waiters and waitresses, they have to make a living so they can follow their dream. My advice to them is: if you want to do it this badly hang in there, but make sure you ca",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses actor Richard Crenna and contains quotes about acting, not about debugging API integration. It is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Richard Crenna \"Richard Crenna Actor & Director\"\"We make all these jokes about every waiter and waitress in L. A. is an actor. They have to be waiters and waitresses, they have to make a living so they can follow their dream. My advice to them is: if you want to do it this badly hang in there, but make sure you ca",
+  "history": {
+    "url": "http://www.emmytvlegends.org/interviews/people/richard-crenna",
+    "title": "Richard Crenna",
+    "description": "\"Richard Crenna Actor & Director\"\"We make all these jokes about every waiter and waitress in L. A. is an actor. They have to be waiters and waitresses, they have to make a living so they can follow their dream. My advice to them is: if you want to do it this badly hang in there, but make sure you ca",
+    "frecency": 3095,
+    "url_hash": 36333200155877,
+    "last_visit_date": 1758203928576200
+  }
+}

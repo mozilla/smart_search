@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "BarracudaLoad Balancer ADC Highly Scalable The Barracuda Load Balancer ADC is ideal for optimizing application performance. It offloads compute-intensive SSL transactions from the server, preserving resources for applications. In addition, optimization features such as caching, compression, and TCP pooling enable faster appli",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Barracuda Load Balancer ADC features and does not mention Docker, container setups, or beginner-friendly Docker guidance.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "BarracudaLoad Balancer ADC Highly Scalable The Barracuda Load Balancer ADC is ideal for optimizing application performance. It offloads compute-intensive SSL transactions from the server, preserving resources for applications. In addition, optimization features such as caching, compression, and TCP pooling enable faster appli",
+  "history": {
+    "url": "https://www.barracuda.com/products/loadbalancer",
+    "title": "BarracudaLoad Balancer ADC",
+    "description": "Highly Scalable The Barracuda Load Balancer ADC is ideal for optimizing application performance. It offloads compute-intensive SSL transactions from the server, preserving resources for applications. In addition, optimization features such as caching, compression, and TCP pooling enable faster appli",
+    "frecency": 4252,
+    "url_hash": 30496873845024,
+    "last_visit_date": 1758203930380111
+  }
+}

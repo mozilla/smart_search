@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "magnetic resonance imaging \"magnetic resonance imaging (redirected from Contrast MRI) Also found in: Dictionary, Thesaurus, Encyclopedia . Magnetic Resonance Imaging Definition Magnetic resonance imaging (MRI) is the newest, and perhaps most versatile, medical imagingtechnology available. Doctors can get highly refined images",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses magnetic resonance imaging (MRI), which is unrelated to Docker or Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "magnetic resonance imaging \"magnetic resonance imaging (redirected from Contrast MRI) Also found in: Dictionary, Thesaurus, Encyclopedia . Magnetic Resonance Imaging Definition Magnetic resonance imaging (MRI) is the newest, and perhaps most versatile, medical imagingtechnology available. Doctors can get highly refined images",
+  "history": {
+    "url": "http://medical-dictionary.thefreedictionary.com/Contrast+MRI",
+    "title": "magnetic resonance imaging",
+    "description": "\"magnetic resonance imaging (redirected from Contrast MRI) Also found in: Dictionary, Thesaurus, Encyclopedia . Magnetic Resonance Imaging Definition Magnetic resonance imaging (MRI) is the newest, and perhaps most versatile, medical imagingtechnology available. Doctors can get highly refined images",
+    "frecency": 2489,
+    "url_hash": 89475041039925,
+    "last_visit_date": 1758203928684111
+  }
+}

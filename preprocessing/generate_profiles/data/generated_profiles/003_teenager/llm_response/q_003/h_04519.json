@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Colorectal Cancer Signs and Symptoms Colorectal Cancer Signs and Symptoms Colorectal cancer might not cause symptoms right away, but if it does, it may cause one or more of these symptoms: A change in bowel habits, such as diarrhea, constipation, or narrowing of the stool, that lasts for more than a few days A feeling that you need to",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses colorectal cancer signs and symptoms, which is unrelated to the query about apps for improving study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Colorectal Cancer Signs and Symptoms Colorectal Cancer Signs and Symptoms Colorectal cancer might not cause symptoms right away, but if it does, it may cause one or more of these symptoms: A change in bowel habits, such as diarrhea, constipation, or narrowing of the stool, that lasts for more than a few days A feeling that you need to",
+  "history": {
+    "url": "https://www.cancer.org/cancer/colon-rectal-cancer/detection-diagnosis-staging/signs-and-symptoms.html",
+    "title": "Colorectal Cancer Signs and Symptoms",
+    "description": "Colorectal Cancer Signs and Symptoms Colorectal cancer might not cause symptoms right away, but if it does, it may cause one or more of these symptoms: A change in bowel habits, such as diarrhea, constipation, or narrowing of the stool, that lasts for more than a few days A feeling that you need to ",
+    "frecency": 318,
+    "url_hash": 44099090406070,
+    "last_visit_date": 1758203935165228
+  }
+}

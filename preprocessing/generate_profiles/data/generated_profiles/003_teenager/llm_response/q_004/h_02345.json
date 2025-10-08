@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Current Students Current Students Student Life Student Life & Leadership Campus Recreation New Student Handbook Clubs and Organizations UCI Athletics Fraternities and Sororities Bren Events Center Student Government & Student Media KUCI 88.9 FMStudent Affairs New University (student newspaper)Anthology Yearbook Free",
+  "relevance_score": 0.25,
+  "binary_decision": 0,
+  "Decision_Reason": "The result is a university navigation page listing student-life sections (Campus Recreation, UCI Athletics, etc.) rather than content specifically about improving sports performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Current Students Current Students Student Life Student Life & Leadership Campus Recreation New Student Handbook Clubs and Organizations UCI Athletics Fraternities and Sororities Bren Events Center Student Government & Student Media KUCI 88.9 FMStudent Affairs New University (student newspaper)Anthology Yearbook Free",
+  "history": {
+    "url": "http://students.uci.edu/",
+    "title": "Current Students",
+    "description": "Current Students Student Life Student Life & Leadership Campus Recreation New Student Handbook Clubs and Organizations UCI Athletics Fraternities and Sororities Bren Events Center Student Government & Student Media KUCI 88.9 FMStudent Affairs New University (student newspaper)Anthology Yearbook Free",
+    "frecency": 2586,
+    "url_hash": 26681584925051,
+    "last_visit_date": 1758203927098735
+  }
+}

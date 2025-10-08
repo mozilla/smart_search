@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Product details Livestock Specialty XL Catlin offers livestock insurance worldwide. Specialised and individually tailored coverage is available for a variety of clients, from private farm owners to commercial operations. Whether in situ or in transit, all livestock classes are catered for: - production animals (she",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes livestock insurance services, not anything about debugging or API integration; domain mismatch.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Product details Livestock Specialty XL Catlin offers livestock insurance worldwide. Specialised and individually tailored coverage is available for a variety of clients, from private farm owners to commercial operations. Whether in situ or in transit, all livestock classes are catered for: - production animals (she",
+  "history": {
+    "url": "http://xlcatlin.com/insurance/insurance-coverage/specialty-insurance/livestock",
+    "title": "Product details",
+    "description": "Livestock Specialty XL Catlin offers livestock insurance worldwide. Specialised and individually tailored coverage is available for a variety of clients, from private farm owners to commercial operations. Whether in situ or in transit, all livestock classes are catered for: - production animals (she",
+    "frecency": 1856,
+    "url_hash": 65755418968038,
+    "last_visit_date": 1758203931688111
+  }
+}

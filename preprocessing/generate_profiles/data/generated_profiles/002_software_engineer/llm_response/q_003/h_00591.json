@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Number of veterans in Congress continues to decline \\\" (Photo: Pablo Martinez Monsivais, AP)Story Highlights In January, only 19% of members will be veterans Military veteran candidates in eight competitive Senate races this year were defeated Veterans and their advocates say they face more challenges running for office in the modern era CONNECT TWEET",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about veterans in Congress, not database query optimization; it is not relevant to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Number of veterans in Congress continues to decline \" (Photo: Pablo Martinez Monsivais, AP)Story Highlights In January, only 19% of members will be veterans Military veteran candidates in eight competitive Senate races this year were defeated Veterans and their advocates say they face more challenges running for office in the modern era CONNECT TWEET",
+  "history": {
+    "url": "https://www.usatoday.com/story/news/nation/2012/11/20/fewer-congress-vets/1716697/",
+    "title": "Number of veterans in Congress continues to decline",
+    "description": "\" (Photo: Pablo Martinez Monsivais, AP)Story Highlights In January, only 19% of members will be veterans Military veteran candidates in eight competitive Senate races this year were defeated Veterans and their advocates say they face more challenges running for office in the modern era CONNECT TWEET",
+    "frecency": 3989,
+    "url_hash": 61333618128998,
+    "last_visit_date": 1758203929398111
+  }
+}

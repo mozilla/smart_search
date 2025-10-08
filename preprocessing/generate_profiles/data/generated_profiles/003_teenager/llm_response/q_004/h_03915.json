@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Claes Oldenburg \"Claes Oldenburg From Wikipedia, the free encyclopedianavigation search Claes Oldenburg Claes Oldenburg 2012Born January 28, 1929 (age 89)Stockholm, Sweden Nationality American Education Latin School of Chicago, Art Institute of Chicago, Yale University Known for Sculpture, Public Art Movement Pop A",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Claes Oldenburg, an artist, not about improving sports or strategies to get better at sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Claes Oldenburg \"Claes Oldenburg From Wikipedia, the free encyclopedianavigation search Claes Oldenburg Claes Oldenburg 2012Born January 28, 1929 (age 89)Stockholm, Sweden Nationality American Education Latin School of Chicago, Art Institute of Chicago, Yale University Known for Sculpture, Public Art Movement Pop A",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Claes_Oldenburg",
+    "title": "Claes Oldenburg",
+    "description": "\"Claes Oldenburg From Wikipedia, the free encyclopedianavigation search Claes Oldenburg Claes Oldenburg 2012Born January 28, 1929 (age 89)Stockholm, Sweden Nationality American Education Latin School of Chicago, Art Institute of Chicago, Yale University Known for Sculpture, Public Art Movement Pop A",
+    "frecency": 941,
+    "url_hash": 46313904733776,
+    "last_visit_date": 1758203934319228
+  }
+}

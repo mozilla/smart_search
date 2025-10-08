@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Gremlins 2: The New Batch \"From Wikipedia, the free encyclopedianavigation search This article is about the film. For the video game based on the movie, see Gremlins 2: The New Batch (video game). Gremlins 2: The New Batch Theatrical release poster Directed by Joe Dante Chuck Jones (animation)Produced by Michael Finnell Writ",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a film (Gremlins 2: The New Batch) and is not related to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Gremlins 2: The New Batch \"From Wikipedia, the free encyclopedianavigation search This article is about the film. For the video game based on the movie, see Gremlins 2: The New Batch (video game). Gremlins 2: The New Batch Theatrical release poster Directed by Joe Dante Chuck Jones (animation)Produced by Michael Finnell Writ",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Gremlins_2:_The_New_Batch",
+    "title": "Gremlins 2: The New Batch",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search This article is about the film. For the video game based on the movie, see Gremlins 2: The New Batch (video game). Gremlins 2: The New Batch Theatrical release poster Directed by Joe Dante Chuck Jones (animation)Produced by Michael Finnell Writ",
+    "frecency": 3006,
+    "url_hash": 55056350359631,
+    "last_visit_date": 1758203927921139
+  }
+}

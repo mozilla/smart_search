@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Walking with Dinosaurs Favorite Theater Button Walking with Dinosaurs Favorite Theater Button Overview Movie Times + Tickets Synopsis Movie Reviews More Released December 20, 2013PG, 1 hr 27 min Action/Adventure Family1,143 Fan Ratings SEE IT IN35MM Digital 3DTell us where you are Looking for movie tickets? Enter your location to see which movie",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The result is a movie theater listing for 'Walking with Dinosaurs' and has nothing to do with improving at sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Walking with Dinosaurs Favorite Theater Button Walking with Dinosaurs Favorite Theater Button Overview Movie Times + Tickets Synopsis Movie Reviews More Released December 20, 2013PG, 1 hr 27 min Action/Adventure Family1,143 Fan Ratings SEE IT IN35MM Digital 3DTell us where you are Looking for movie tickets? Enter your location to see which movie",
+  "history": {
+    "url": "http://www.fandango.com/walkingwithdinosaurs_169739/movieoverview",
+    "title": "Walking with Dinosaurs Favorite Theater Button",
+    "description": "Walking with Dinosaurs Favorite Theater Button Overview Movie Times + Tickets Synopsis Movie Reviews More Released December 20, 2013PG, 1 hr 27 min Action/Adventure Family1,143 Fan Ratings SEE IT IN35MM Digital 3DTell us where you are Looking for movie tickets? Enter your location to see which movie",
+    "frecency": 2073,
+    "url_hash": 31009038188924,
+    "last_visit_date": 1758203936063228
+  }
+}

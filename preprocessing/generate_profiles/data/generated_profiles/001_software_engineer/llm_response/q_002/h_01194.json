@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Acronyms \\\"Acronyms are abbreviations and a number of Acronyms float around in the World of Finance. In case, one does not know the meaning of the same, the entire issue, discussion, point of observation, etc. may not be understood correctly. Although it is often said that use of Acronyms should be restricted\\n\\n# Evaluation \\nBased on your reasoning, determine a relevance score between 0 and 1 (where 0 is not relevant, and 1 is highly relevant). Then, based on this score, assign a binary rating of 0 = not relevant or 1 = relevant. \\n\\n# Output format as a Dictionary\\n search_query: <search query>,\\n retrieved_result: <retrieved result>,\\n relevance_score: <score>,\\n binary_decision: 0 or 1,\\n Decision_Reason: <reason for decision>\"",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses financial acronyms and is not related to IDEs or software development tools.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Acronyms \"Acronyms are abbreviations and a number of Acronyms float around in the World of Finance. In case, one does not know the meaning of the same, the entire issue, discussion, point of observation, etc. may not be understood correctly. Although it is often said that use of Acronyms should be restricted",
+  "history": {
+    "url": "http://finance.wikia.com/wiki/Acronyms",
+    "title": "Acronyms",
+    "description": "\"Acronyms are abbreviations and a number of Acronyms float around in the World of Finance. In case, one does not know the meaning of the same, the entire issue, discussion, point of observation, etc. may not be understood correctly. Although it is often said that use of Acronyms should be restricted",
+    "frecency": 770,
+    "url_hash": 10104013468590,
+    "last_visit_date": 1758203929058200
+  }
+}

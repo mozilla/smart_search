@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Nursing Jobs in Ambulatory Care \\\"Get new jobs for this search by email Email jobs Found 46 jobs Interested in Ambulatory nursing or outpatient, primary or home care? Check out these nursing opportunities on Nurse. Com RN, Contract, 13 Week Assign, Ambulatory OR, PACU, Varied Locations Atlanta, GACompetitive Emory Healthcare JOB DE",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about nursing jobs and healthcare employment, not related to Docker, container setup, or beginner guides for Docker.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Nursing Jobs in Ambulatory Care \"Get new jobs for this search by email Email jobs Found 46 jobs Interested in Ambulatory nursing or outpatient, primary or home care? Check out these nursing opportunities on Nurse. Com RN, Contract, 13 Week Assign, Ambulatory OR, PACU, Varied Locations Atlanta, GACompetitive Emory Healthcare JOB DE",
+  "history": {
+    "url": "https://www.nurse.com/jobs/browse/ambulatory-care/",
+    "title": "Nursing Jobs in Ambulatory Care",
+    "description": "\"Get new jobs for this search by email Email jobs Found 46 jobs Interested in Ambulatory nursing or outpatient, primary or home care? Check out these nursing opportunities on Nurse. Com RN, Contract, 13 Week Assign, Ambulatory OR, PACU, Varied Locations Atlanta, GACompetitive Emory Healthcare JOB DE",
+    "frecency": 1719,
+    "url_hash": 95788372629400,
+    "last_visit_date": 1758203928826111
+  }
+}

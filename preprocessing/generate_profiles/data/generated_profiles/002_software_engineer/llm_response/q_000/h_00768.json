@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Dale Carnegie Training Public Speaking & Presentation Programs Dale Carnegie Training\u00ae emphasizes practical principles and processes by designing programs that offer people the knowledge plus the skills and practices they need to add value to organizations and advance in their careers. The High Impact Presentations Progra",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses public speaking training, not API integration debugging.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Dale Carnegie Training Public Speaking & Presentation Programs Dale Carnegie Training\u00ae emphasizes practical principles and processes by designing programs that offer people the knowledge plus the skills and practices they need to add value to organizations and advance in their careers. The High Impact Presentations Progra",
+  "history": {
+    "url": "http://dcarnegietraining.com/training",
+    "title": "Dale Carnegie Training",
+    "description": "Public Speaking & Presentation Programs Dale Carnegie Training\u00ae emphasizes practical principles and processes by designing programs that offer people the knowledge plus the skills and practices they need to add value to organizations and advance in their careers. The High Impact Presentations Progra",
+    "frecency": 3618,
+    "url_hash": 59003316358864,
+    "last_visit_date": 1758203927724111
+  }
+}

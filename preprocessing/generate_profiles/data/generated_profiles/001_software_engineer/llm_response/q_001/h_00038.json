@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Personal. Motivational. Personal. Motivational. Framingham State University is a place where inquisitive, career-focused students thrive. New ideas and discoveries are a daily occurrence on campus. Every student at FSU is an individual, and each has his or her own personal road to success. Part of our culture is to help yo",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result appears to be generic university homepage content about Framingham State University and personal/motivational messaging, with no mention of Python, libraries, machine learning, or related topics.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Personal. Motivational. Personal. Motivational. Framingham State University is a place where inquisitive, career-focused students thrive. New ideas and discoveries are a daily occurrence on campus. Every student at FSU is an individual, and each has his or her own personal road to success. Part of our culture is to help yo",
+  "history": {
+    "url": "https://framingham.edu/",
+    "title": "Personal. Motivational.",
+    "description": "Personal. Motivational. Framingham State University is a place where inquisitive, career-focused students thrive. New ideas and discoveries are a daily occurrence on campus. Every student at FSU is an individual, and each has his or her own personal road to success. Part of our culture is to help yo",
+    "frecency": 4856,
+    "url_hash": 64022183165550,
+    "last_visit_date": 1758203928344200
+  }
+}

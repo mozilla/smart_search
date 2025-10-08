@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Passing Arrays as Arguments (C# Programming Guide)",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses C# arrays and passing them as arguments, not IDEs or development environments, hence not relevant to the query about top IDEs.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Passing Arrays as Arguments (C# Programming Guide) \"Passing Arrays as Arguments (C# Programming Guide)July 20, 2015 3 minutes to read Contributors In this article Passing Single-Dimensional Arrays As Arguments Example Passing Multidimensional Arrays As Arguments Example See Also Arrays can be passed as arguments to method parameters. Because arrays",
+  "history": {
+    "url": "https://msdn.microsoft.com/en-us/library/hyfeyz71.aspx",
+    "title": "Passing Arrays as Arguments (C# Programming Guide)",
+    "description": "\"Passing Arrays as Arguments (C# Programming Guide)July 20, 2015 3 minutes to read Contributors In this article Passing Single-Dimensional Arrays As Arguments Example Passing Multidimensional Arrays As Arguments Example See Also Arrays can be passed as arguments to method parameters. Because arrays ",
+    "frecency": 2789,
+    "url_hash": 20960462545327,
+    "last_visit_date": 1758203931134111
+  }
+}

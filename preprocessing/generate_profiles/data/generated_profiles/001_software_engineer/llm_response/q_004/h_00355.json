@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Primary History - Famous People Choose a section: Why is Baird famous? Growing up Becoming an inventor The first TV pictures The television age What happened to Baird? Why is Baird famous? What Baird did John Logie Baird was a pioneer of television. Other people helped to invent television (TV). But Baird was the first to show TV",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about John Logie Baird and the history of television, not Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Primary History - Famous People Choose a section: Why is Baird famous? Growing up Becoming an inventor The first TV pictures The television age What happened to Baird? Why is Baird famous? What Baird did John Logie Baird was a pioneer of television. Other people helped to invent television (TV). But Baird was the first to show TV",
+  "history": {
+    "url": "http://www.bbc.co.uk/schools/primaryhistory/famouspeople/john_logie_baird/",
+    "title": "Primary History - Famous People",
+    "description": "Choose a section: Why is Baird famous? Growing up Becoming an inventor The first TV pictures The television age What happened to Baird? Why is Baird famous? What Baird did John Logie Baird was a pioneer of television. Other people helped to invent television (TV). But Baird was the first to show TV ",
+    "frecency": 3780,
+    "url_hash": 78239497787309,
+    "last_visit_date": 1758203927772200
+  }
+}

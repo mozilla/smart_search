@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Hurleyville Clerk Office Hurleyville Clerk Office Home Government Administration Offices Clerk Offices New York Sullivan County Hurleyville Find Hurleyville New York clerk offices, including county, city, and circuit clerks, and clerks of court. Clerks provide information on public court records and legal documents, crimina",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page discusses clerk offices in Hurleyville, NY, unrelated to debugging or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Hurleyville Clerk Office Hurleyville Clerk Office Home Government Administration Offices Clerk Offices New York Sullivan County Hurleyville Find Hurleyville New York clerk offices, including county, city, and circuit clerks, and clerks of court. Clerks provide information on public court records and legal documents, crimina",
+  "history": {
+    "url": "http://www.countyoffice.org/hurleyville-ny-clerk/",
+    "title": "Hurleyville Clerk Office",
+    "description": "Hurleyville Clerk Office Home Government Administration Offices Clerk Offices New York Sullivan County Hurleyville Find Hurleyville New York clerk offices, including county, city, and circuit clerks, and clerks of court. Clerks provide information on public court records and legal documents, crimina",
+    "frecency": 2035,
+    "url_hash": 89454659102555,
+    "last_visit_date": 1758203927438200
+  }
+}

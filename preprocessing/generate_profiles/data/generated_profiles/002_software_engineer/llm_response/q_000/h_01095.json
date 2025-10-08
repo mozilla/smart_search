@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "What is it Like to Work in the ICU? Working as an intensive care or critical care nurse requires expert technical skill and an innate ability to deal with stress during a crisis. Working as an intensive care or critical care nurse requires expert technical skill and an innate ability to deal with stress during a crisis. These highly s",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses ICU nursing and healthcare work, which is not related to debugging or integrating APIs.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "What is it Like to Work in the ICU? Working as an intensive care or critical care nurse requires expert technical skill and an innate ability to deal with stress during a crisis. Working as an intensive care or critical care nurse requires expert technical skill and an innate ability to deal with stress during a crisis. These highly s",
+  "history": {
+    "url": "http://www.hospitaljobsonline.com/career-center/healthcare-careers/what-is-it-like-to-work-in-an-intensive-and-critical-care-unit.html",
+    "title": "What is it Like to Work in the ICU?",
+    "description": "Working as an intensive care or critical care nurse requires expert technical skill and an innate ability to deal with stress during a crisis. Working as an intensive care or critical care nurse requires expert technical skill and an innate ability to deal with stress during a crisis. These highly s",
+    "frecency": 3050,
+    "url_hash": 69781013412873,
+    "last_visit_date": 1758203928472111
+  }
+}

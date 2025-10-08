@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Windows Server Failover Clustering (WSFC) is a feature of the Windows Server platform for improving the high availability (HA) of applications and services. WSFC, which is the successor to Microsoft Cluster Service (MSCS), can be administered through the Failover Cluster Manager snap-in. Download",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Windows Server Failover Clustering and high availability, not database query optimization; it is not relevant to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Windows Server Failover Clustering (WSFC) \"Windows Server Failover Clustering (WSFC) is a feature of the Windows Server platform for improving the high availability ( HA) of applications and services. WSFC, which is the successor to Microsoft Cluster Service (MSCS), can be administered through the Failover Cluster Manager snap-in. Download",
+  "history": {
+    "url": "http://searchwindowsserver.techtarget.com/definition/Windows-Server-failover-clustering",
+    "title": "Windows Server Failover Clustering (WSFC)",
+    "description": "\"Windows Server Failover Clustering (WSFC) is a feature of the Windows Server platform for improving the high availability ( HA) of applications and services. WSFC, which is the successor to Microsoft Cluster Service (MSCS), can be administered through the Failover Cluster Manager snap-in. Download ",
+    "frecency": 4161,
+    "url_hash": 99596949962704,
+    "last_visit_date": 1758203927430111
+  }
+}

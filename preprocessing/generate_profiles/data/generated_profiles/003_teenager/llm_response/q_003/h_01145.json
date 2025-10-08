@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "SpongeBob SquarePants \"From Wikipedia, the free encyclopedia (Redirected from Sponge Bob Squarepants)navigation search For the titular character, see Sponge Bob Square Pants (character). Sponge Bob Square Pants Genre Animated sitcom [1]Created by Stephen Hillenburg Developed by Derek Drymon Tim Hill Nick Jennings Creativ",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a page about SpongeBob SquarePants, not about apps or study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "SpongeBob SquarePants \"From Wikipedia, the free encyclopedia (Redirected from Sponge Bob Squarepants)navigation search For the titular character, see Sponge Bob Square Pants (character). Sponge Bob Square Pants Genre Animated sitcom [1]Created by Stephen Hillenburg Developed by Derek Drymon Tim Hill Nick Jennings Creativ",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Sponge_Bob_Squarepants",
+    "title": "SpongeBob SquarePants",
+    "description": "\"From Wikipedia, the free encyclopedia (Redirected from Sponge Bob Squarepants)navigation search For the titular character, see Sponge Bob Square Pants (character). Sponge Bob Square Pants Genre Animated sitcom [1]Created by Stephen Hillenburg Developed by Derek Drymon Tim Hill Nick Jennings Creativ",
+    "frecency": 3819,
+    "url_hash": 75029729520888,
+    "last_visit_date": 1758203932589228
+  }
+}

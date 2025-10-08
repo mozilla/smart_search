@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Beep Lyrics highlight lyrics to add meaning... Ha, ha-ha, ha-ha Ha, ha-ha, ha Ha-ha, ha-ha, ha It's funny how a man only thinks about the... You got a real big heart, but I'm looking at your... You got real big brains, but I'm looking at your...",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result consists of song lyrics, not related to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Beep Lyrics highlight lyrics to add meaning... Ha, ha-ha, ha-ha Ha, ha-ha, ha Ha-ha, ha-ha, ha-ha Ha, ha-ha, ha It's funny how a man only thinks about the... You got a real big heart, but I'm looking at your... You got real big brains, but I'm looking at your... Girl, there ain't no pain in me looking at your..",
+  "history": {
+    "url": "http://www.metrolyrics.com/beep-lyrics-pussycat-dolls.html",
+    "title": "Beep Lyrics",
+    "description": "highlight lyrics to add meaning... Ha, ha-ha, ha-ha Ha, ha-ha, ha Ha-ha, ha-ha, ha-ha Ha, ha-ha, ha It's funny how a man only thinks about the... You got a real big heart, but I'm looking at your... You got real big brains, but I'm looking at your... Girl, there ain't no pain in me looking at your..",
+    "frecency": 252,
+    "url_hash": 87445838195079,
+    "last_visit_date": 1758203931849228
+  }
+}

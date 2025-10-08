@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Indianapolis, IN Town Center Home Indianapolis, IN Town Center Indianapolis, IN Town Center About Search Results Sort: Default BBB Rated A+/ACoupons All Filters Neff Realty2346 S Lynhurst Dr, Indianapolis, IN 46241 (317) 762-0479Show Banner Real Estate Rental Service Website Directions More Info Stenz Management Co Inc429 N Pen",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Indianapolis real estate and does not mention Python or machine learning; unrelated to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Indianapolis, IN Town Center Home Indianapolis, IN Town Center Indianapolis, IN Town Center About Search Results Sort: Default BBB Rated A+/ACoupons All Filters Neff Realty2346 S Lynhurst Dr, Indianapolis, IN 46241 (317) 762-0479Show Banner Real Estate Rental Service Website Directions More Info Stenz Management Co Inc429 N Pen",
+  "history": {
+    "url": "https://www.yellowpages.com/indianapolis-in/town-center",
+    "title": "Indianapolis, IN Town Center",
+    "description": "Home Indianapolis, IN Town Center Indianapolis, IN Town Center About Search Results Sort: Default BBB Rated A+/ACoupons All Filters Neff Realty2346 S Lynhurst Dr, Indianapolis, IN 46241 (317) 762-0479Show Banner Real Estate Rental Service Website Directions More Info Stenz Management Co Inc429 N Pen",
+    "frecency": 4581,
+    "url_hash": 30711484924193,
+    "last_visit_date": 1758203929234111
+  }
+}

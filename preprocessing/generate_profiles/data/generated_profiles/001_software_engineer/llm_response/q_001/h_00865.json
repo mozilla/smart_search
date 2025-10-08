@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Calculate a Ratio in Excel \"Calculate a Ratio in Excelby Debra Dalgleish \u00b7 January 16, 2009In Excel, if you divide 2 by 8, the result is 0.25. if you format the cell as a fraction, the cell might show 1/4 as the result. What if you want to show the result as a ratio? How can you get the cell to show 1:4 instead of 1/4? There",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Excel and ratios, not Python libraries or machine learning. It is not relevant to the query about latest Python libraries for machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Calculate a Ratio in Excel \"Calculate a Ratio in Excelby Debra Dalgleish \u00b7 January 16, 2009In Excel, if you divide 2 by 8, the result is 0.25. if you format the cell as a fraction, the cell might show 1/4 as the result. What if you want to show the result as a ratio? How can you get the cell to show 1:4 instead of 1/4? There",
+  "history": {
+    "url": "http://blog.contextures.com/archives/2009/01/16/calculate-a-ratio-in-excel/",
+    "title": "Calculate a Ratio in Excel",
+    "description": "\"Calculate a Ratio in Excelby Debra Dalgleish \u00b7 January 16, 2009In Excel, if you divide 2 by 8, the result is 0.25. if you format the cell as a fraction, the cell might show 1/4 as the result. What if you want to show the result as a ratio? How can you get the cell to show 1:4 instead of 1/4? There ",
+    "frecency": 2031,
+    "url_hash": 43237426263287,
+    "last_visit_date": 1758203927800200
+  }
+}

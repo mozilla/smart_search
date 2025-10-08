@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "National Labor Relations Act (1935) Also known as the Wagner Act, this bill was signed into law by President Franklin Roosevelt on July 5, 1935. It established the National Labor Relations Board and addressed relations between unions and employers in the private sector. After the National Industrial Recovery Act was declared unconstit",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses labor law (Wagner Act) and is unrelated to Docker or beginner setup guidance; no Docker content is present.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "National Labor Relations Act (1935) Also known as the Wagner Act, this bill was signed into law by President Franklin Roosevelt on July 5, 1935. It established the National Labor Relations Board and addressed relations between unions and employers in the private sector. After the National Industrial Recovery Act was declared unconstit",
+  "history": {
+    "url": "http://www.ourdocuments.gov/doc.php?doc=67",
+    "title": "National Labor Relations Act (1935)",
+    "description": "Also known as the Wagner Act, this bill was signed into law by President Franklin Roosevelt on July 5, 1935. It established the National Labor Relations Board and addressed relations between unions and employers in the private sector. After the National Industrial Recovery Act was declared unconstit",
+    "frecency": 787,
+    "url_hash": 35764964327008,
+    "last_visit_date": 1758203927766200
+  }
+}

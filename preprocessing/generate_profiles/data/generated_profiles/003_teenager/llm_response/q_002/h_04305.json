@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Fowlerville, MI Fowlerville, MI Would you like to add this location to your favourites? Yes, Save it No Thanks+Wind- - -Humidity-%Sunrise-Sunset-Pressure-UV 0 Low Fowlerville Short Term Forecast Hourly 36 Hours Weekend 7 Days 14 Days DAY NIGHTFeels like: Night: POP:24 Hr Rain:24 Hr Snow: Wind: Hrs of Sun: Fri Apr 1",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a weather/forecast page for a location, not related to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Fowlerville, MI Fowlerville, MI Would you like to add this location to your favourites? Yes, Save it No Thanks+Wind- - -Humidity-%Sunrise-Sunset-Pressure-UV 0 Low Fowlerville Short Term Forecast Hourly 36 Hours Weekend 7 Days 14 Days DAY NIGHTFeels like: Night: POP:24 Hr Rain:24 Hr Snow: Wind: Hrs of Sun: Fri Apr 1",
+  "history": {
+    "url": "https://www.theweathernetwork.com/us/weather/michigan/fowlerville",
+    "title": "Fowlerville, MI",
+    "description": "Fowlerville, MI Would you like to add this location to your favourites? Yes, Save it No Thanks+Wind- - -Humidity-%Sunrise-Sunset-Pressure-UV 0 Low Fowlerville Short Term Forecast Hourly 36 Hours Weekend 7 Days 14 Days DAY NIGHTFeels like: Night: POP:24 Hr Rain:24 Hr Snow: Wind: Hrs of Sun: Fri Apr 1",
+    "frecency": 542,
+    "url_hash": 56869957133542,
+    "last_visit_date": 1758203930203228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Conductor Look up conductor or conduction in Wiktionary, the free dictionary. Conductor or conduction may refer to: Contents [ hide ]1 Human roles2 Mathematics3 Physics4 Other uses Human roles [ edit]Conductor (music), a person who leads a musical ensemble The visible gestures of a conductor are known as cond",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a Wiktionary dictionary entry about 'Conductor' or 'conduction', not related to API integration or debugging.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Conductor Look up conductor or conduction in Wiktionary, the free dictionary. Conductor or conduction may refer to: Contents [ hide ]1 Human roles2 Mathematics3 Physics4 Other uses Human roles [ edit]Conductor (music), a person who leads a musical ensemble The visible gestures of a conductor are known as cond",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Conductor",
+    "title": "Conductor",
+    "description": "Look up conductor or conduction in Wiktionary, the free dictionary. Conductor or conduction may refer to: Contents [ hide ]1 Human roles2 Mathematics3 Physics4 Other uses Human roles [ edit]Conductor (music), a person who leads a musical ensemble The visible gestures of a conductor are known as cond",
+    "frecency": 3352,
+    "url_hash": 72567473682246,
+    "last_visit_date": 1758203932296111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "UNIVERSITY EVENTS CALENDAR UNIVERSITY EVENTS CALENDARFrom annual events to art exhibits, here you can find out what's going on at Southeastern. Sort the calendar by category to find events that interest you. The interactive calendar lets you view event locations using Google Maps, save events to your online calendar or share",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The page describes a university events calendar, not DIY room decoration ideas; it has no relevance to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "UNIVERSITY EVENTS CALENDAR UNIVERSITY EVENTS CALENDARFrom annual events to art exhibits, here you can find out what's going on at Southeastern. Sort the calendar by category to find events that interest you. The interactive calendar lets you view event locations using Google Maps, save events to your online calendar or share",
+  "history": {
+    "url": "https://www2.southeastern.edu/helios/",
+    "title": "UNIVERSITY EVENTS CALENDAR",
+    "description": "UNIVERSITY EVENTS CALENDARFrom annual events to art exhibits, here you can find out what's going on at Southeastern. Sort the calendar by category to find events that interest you. The interactive calendar lets you view event locations using Google Maps, save events to your online calendar or share ",
+    "frecency": 4086,
+    "url_hash": 40491209362974,
+    "last_visit_date": 1758203929180735
+  }
+}

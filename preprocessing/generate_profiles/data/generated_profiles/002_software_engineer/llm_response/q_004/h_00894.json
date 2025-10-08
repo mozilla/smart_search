@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Find your next commercial property Find your next commercial property For Sale For Lease Search all types for sale Search Advanced Search Loop Net has more traffic, listings, and geographic coverage than any other commercial real estate marketplace.5 million MONTHLY VISITORS500,000 LISTINGS AVAILABLE$240 billion IN PROPERTY FOR SALE5",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about commercial real estate (LoopNet) and contains no content related to Docker or setting up Docker for beginners; thus not relevant.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Find your next commercial property Find your next commercial property For Sale For Lease Search all types for sale Search Advanced Search Loop Net has more traffic, listings, and geographic coverage than any other commercial real estate marketplace.5 million MONTHLY VISITORS500,000 LISTINGS AVAILABLE$240 billion IN PROPERTY FOR SALE5",
+  "history": {
+    "url": "http://www.loopnet.com/San-Francisco_California_Market-Trends",
+    "title": "Find your next commercial property",
+    "description": "Find your next commercial property For Sale For Lease Search all types for sale Search Advanced Search Loop Net has more traffic, listings, and geographic coverage than any other commercial real estate marketplace.5 million MONTHLY VISITORS500,000 LISTINGS AVAILABLE$240 billion IN PROPERTY FOR SALE5",
+    "frecency": 3383,
+    "url_hash": 69554629053240,
+    "last_visit_date": 1758203930256111
+  }
+}

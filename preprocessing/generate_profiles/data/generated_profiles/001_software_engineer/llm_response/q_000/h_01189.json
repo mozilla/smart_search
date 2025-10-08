@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "The largest showcase of advanced battery technology in North America \"The largest showcase of advanced battery technology in North America Save the Date: September 11 - 13, 2018The Battery Show Exhibition & Conference is a showcase of advanced battery technology for electric & hybrid vehicles, utility & renewable energy support, portable electronics, medical technolo",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a battery technology conference, not related to debugging API integrations.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "The largest showcase of advanced battery technology in North America \"The largest showcase of advanced battery technology in North America Save the Date: September 11 - 13, 2018The Battery Show Exhibition & Conference is a showcase of advanced battery technology for electric & hybrid vehicles, utility & renewable energy support, portable electronics, medical technolo",
+  "history": {
+    "url": "http://www.thebatteryshow.com/",
+    "title": "The largest showcase of advanced battery technology in North America",
+    "description": "\"The largest showcase of advanced battery technology in North America Save the Date: September 11 - 13, 2018The Battery Show Exhibition & Conference is a showcase of advanced battery technology for electric & hybrid vehicles, utility & renewable energy support, portable electronics, medical technolo",
+    "frecency": 795,
+    "url_hash": 76889761421841,
+    "last_visit_date": 1758203927252200
+  }
+}

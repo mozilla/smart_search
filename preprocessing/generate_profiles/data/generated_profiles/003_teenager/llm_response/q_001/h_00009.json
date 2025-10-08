@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "Adult health Appointments at Mayo Clinic Mayo Clinic offers appointments in Arizona, Florida and Minnesota and at Mayo Clinic Health System locations. Request Appointment Healthy Lifestyle Adult health Basics In-Depth Expert Answers Multimedia Resources News From Mayo Clinic Products and services Free E-newslett",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Mayo Clinic health services and does not relate to TikTok trends for 2024.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "Adult health Appointments at Mayo Clinic Mayo Clinic offers appointments in Arizona, Florida and Minnesota and at Mayo Clinic Health System locations. Request Appointment Healthy Lifestyle Adult health Basics In-Depth Expert Answers Multimedia Resources News From Mayo Clinic Products and services Free E-newslett",
+  "history": {
+    "url": "http://www.mayoclinic.org/healthy-lifestyle/adult-health/expert-answers/sleep-and-weight-gain/faq-20058198",
+    "title": "Adult health",
+    "description": "Appointments at Mayo Clinic Mayo Clinic offers appointments in Arizona, Florida and Minnesota and at Mayo Clinic Health System locations. Request Appointment Healthy Lifestyle Adult health Basics In-Depth Expert Answers Multimedia Resources News From Mayo Clinic Products and services Free E-newslett",
+    "frecency": 4991,
+    "url_hash": 26369406463044,
+    "last_visit_date": 1758203928076735
+  }
+}

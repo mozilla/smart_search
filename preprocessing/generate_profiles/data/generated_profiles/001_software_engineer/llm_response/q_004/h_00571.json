@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "How to Use a Liquid Solder How to Use a Liquid Solder. Liquid solders are most often used to bond metal and other strong materials such as concrete. As they are strong and water-resistant adhesives, liquid solders are the heavy-duty adhesive of choice among many contractors and metal-workers. Step 1Decide whether liquid solde",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about soldering and adhesives, not Docker or container setup.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "How to Use a Liquid Solder How to Use a Liquid Solder. Liquid solders are most often used to bond metal and other strong materials such as concrete. As they are strong and water-resistant adhesives, liquid solders are the heavy-duty adhesive of choice among many contractors and metal-workers. Step 1Decide whether liquid solde",
+  "history": {
+    "url": "http://www.ehow.com/how_2071313_use-liquid-solder.html",
+    "title": "How to Use a Liquid Solder",
+    "description": "How to Use a Liquid Solder. Liquid solders are most often used to bond metal and other strong materials such as concrete. As they are strong and water-resistant adhesives, liquid solders are the heavy-duty adhesive of choice among many contractors and metal-workers. Step 1Decide whether liquid solde",
+    "frecency": 3064,
+    "url_hash": 68230558213849,
+    "last_visit_date": 1758203927642200
+  }
+}

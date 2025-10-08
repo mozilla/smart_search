@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "US HealthWorks Is this your business? Customize this page. Claim this business Business Details Gallery Reviews Walking Urgent Care10308 W Sample Rd, Coral Springs, FL 33065 (954) 692-5124Medical Clinics Website Directions More Info Get Urgent Care By Phone We Can Treat & Prescribe By Phone. Skip The Waiting Room.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a local medical clinic/business listing and is unrelated to Python libraries or machine learning; it does not address the search query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "US HealthWorks Is this your business? Customize this page. Claim this business Business Details Gallery Reviews Walking Urgent Care10308 W Sample Rd, Coral Springs, FL 33065 (954) 692-5124Medical Clinics Website Directions More Info Get Urgent Care By Phone We Can Treat & Prescribe By Phone. Skip The Waiting Room.",
+  "history": {
+    "url": "https://www.yellowpages.com/fort-lauderdale-fl/mip/us-healthworks-11619650",
+    "title": "US HealthWorks",
+    "description": "Is this your business? Customize this page. Claim this business Business Details Gallery Reviews Walking Urgent Care10308 W Sample Rd, Coral Springs, FL 33065 (954) 692-5124Medical Clinics Website Directions More Info Get Urgent Care By Phone We Can Treat & Prescribe By Phone. Skip The Waiting Room.",
+    "frecency": 2750,
+    "url_hash": 83799965802477,
+    "last_visit_date": 1758203929048111
+  }
+}

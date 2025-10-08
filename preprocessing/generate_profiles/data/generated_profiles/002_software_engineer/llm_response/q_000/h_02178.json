@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Can't set Chrome as default browser \\\"Can't set Chrome as default browser Neptilo4/29/14 12:37 AM I just installed Google Chrome, making sure to check \\\"Set as default browser\\\" during the install, but it doesn't work. In the settings, the button \\\"Make Google Chrome the default browser\\\" just seems to reset Explorer's icon which quick",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses default browser settings, not API integration debugging.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Can't set Chrome as default browser \"Can't set Chrome as default browser Neptilo4/29/14 12:37 AM I just installed Google Chrome, making sure to check \"\"Set as default browser\"\" during the install, but it doesn't work. In the settings, the button \"\"Make Google Chrome the default browser\"\" just seems to reset Explorer's icon which quick",
+  "history": {
+    "url": "http://productforums.google.com/d/topic/chrome/jIDf1o1NXxY",
+    "title": "Can't set Chrome as default browser",
+    "description": "\"Can't set Chrome as default browser Neptilo4/29/14 12:37 AM I just installed Google Chrome, making sure to check \"\"Set as default browser\"\" during the install, but it doesn't work. In the settings, the button \"\"Make Google Chrome the default browser\"\" just seems to reset Explorer's icon which quick",
+    "frecency": 1048,
+    "url_hash": 3283839131388,
+    "last_visit_date": 1758203930094111
+  }
+}

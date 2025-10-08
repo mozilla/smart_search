@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "TV Shows TV Shows A-Z Full Episodes",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result pertains to TV shows, not apps or study habit improvement, showing no relevance to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "TV Shows TV Shows A-Z Full Episodes",
+  "history": {
+    "url": "https://www.discovery.com/tv-shows/",
+    "title": "TV Shows",
+    "description": "TV Shows A-Z Full Episodes ",
+    "frecency": 2541,
+    "url_hash": 42563520644591,
+    "last_visit_date": 1758203933777228
+  }
+}

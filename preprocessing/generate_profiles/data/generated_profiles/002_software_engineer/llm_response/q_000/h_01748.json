@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "List Of Trade Associations \"trade associations (trade association) A nonprofit group that serves the information needs of a particular industry and represents its mutual interests, e.g., education, legislation, media relations. An industry trade group, also known as a trade association or sector association, is an organizatio",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses trade associations and is unrelated to debugging API integration; it does not address API debugging concepts, tools, or steps.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "List Of Trade Associations \"trade associations (trade association) A nonprofit group that serves the information needs of a particular industry and represents its mutual interests, e.g., education, legislation, media relations. An industry trade group, also known as a trade association or sector association, is an organizatio",
+  "history": {
+    "url": "https://sites.google.com/site/listoftradeassociationsawt/",
+    "title": "List Of Trade Associations",
+    "description": "\"trade associations (trade association) A nonprofit group that serves the information needs of a particular industry and represents its mutual interests, e.g., education, legislation, media relations. An industry trade group, also known as a trade association or sector association, is an organizatio",
+    "frecency": 1831,
+    "url_hash": 55934173729077,
+    "last_visit_date": 1758203927190111
+  }
+}

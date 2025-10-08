@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "World\u00e2s most cultured cities \"World\u2019s most cultured cities Tokyoites borrow the most library books, Parisians are movie-obsessed and other cultural snapshots of the world's biggest cities By Ni\u00f1a Terol-Zialcita 22 August, 2012Do art exhibitions make a city brighter? London's Royal Academy gives it a shot. Which city has the mos",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses culture and art in cities, not sports improvement; it is not related to getting better at sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "World\u00e2s most cultured cities \"World\u2019s most cultured cities Tokyoites borrow the most library books, Parisians are movie-obsessed and other cultural snapshots of the world's biggest cities By Ni\u00f1a Terol-Zialcita 22 August, 2012Do art exhibitions make a city brighter? London's Royal Academy gives it a shot. Which city has the mos",
+  "history": {
+    "url": "http://travel.cnn.com/explorations/life/worlds-best-cities-culture-vultures-832691/",
+    "title": "World\u00e2s most cultured cities",
+    "description": "\"World\u2019s most cultured cities Tokyoites borrow the most library books, Parisians are movie-obsessed and other cultural snapshots of the world's biggest cities By Ni\u00f1a Terol-Zialcita 22 August, 2012Do art exhibitions make a city brighter? London's Royal Academy gives it a shot. Which city has the mos",
+    "frecency": 511,
+    "url_hash": 22839720923987,
+    "last_visit_date": 1758203927729139
+  }
+}

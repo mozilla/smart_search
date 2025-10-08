@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Electric light disambiguation page (unrelated to sports).",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about electric light and disambiguation, not about sports or improving athletic performance; not relevant to the query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Electric light \"From Wikipedia, the free encyclopedianavigation search For other uses, see Electric light (disambiguation). \"\"Electric lamp\"\" redirects here. For the item of furniture, see light fixture. \"\"Light bulb\"\" redirects here. For the music by Fujiya & Miyagi, see Lightbulbs (album). This article needs add",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Electric_light",
+    "title": "Electric light",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search For other uses, see Electric light (disambiguation). \"\"Electric lamp\"\" redirects here. For the item of furniture, see light fixture. \"\"Light bulb\"\" redirects here. For the music by Fujiya & Miyagi, see Lightbulbs (album). This article needs add",
+    "frecency": 269,
+    "url_hash": 85692181545637,
+    "last_visit_date": 1758203928269139
+  }
+}

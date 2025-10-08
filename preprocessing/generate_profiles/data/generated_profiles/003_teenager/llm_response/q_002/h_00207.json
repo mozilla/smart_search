@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Smoking Risks Smoking Smoking It\u2019s no secret that smoking causes serious health problems, including heart disease, asthma and lung cancer. If you are having surgery, you also may experience complications related to smoking and anesthesia. This is especially true if you are having general anesthesia \u2014 the ty",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses smoking risks and health issues, which are unrelated to DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Smoking Risks Smoking Smoking It\u2019s no secret that smoking causes serious health problems, including heart disease, asthma and lung cancer. If you are having surgery, you also may experience complications related to smoking and anesthesia. This is especially true if you are having general anesthesia \u2014 the ty",
+  "history": {
+    "url": "http://www.asahq.org/whensecondscount/patients%20home/preparing%20for%20surgery/surgery%20risks/smoking%20and%20anesthesia",
+    "title": "Smoking",
+    "description": "Risks Smoking Smoking It\u2019s no secret that smoking causes serious health problems, including heart disease, asthma and lung cancer. If you are having surgery, you also may experience complications related to smoking and anesthesia. This is especially true if you are having general anesthesia \u2014 the ty",
+    "frecency": 4792,
+    "url_hash": 65090133560231,
+    "last_visit_date": 1758203936145228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "56b. Kennedy's New Frontier \\\"56b. Kennedy's New Frontier John F. Kennedy's youthful looks, cheerful family and charming demeanor captured the American imagination like few Presidents had ever done. Here, Kennedy poses with his wife Jacqueline and their two children John and Caroline. They called it Camelot. Like King Arthur an\\\"",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about JFK and Camelot, not about easy DIY room decoration ideas; thus not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "56b. Kennedy's New Frontier \"56b. Kennedy's New Frontier John F. Kennedy's youthful looks, cheerful family and charming demeanor captured the American imagination like few Presidents had ever done. Here, Kennedy poses with his wife Jacqueline and their two children John and Caroline. They called it Camelot. Like King Arthur an",
+  "history": {
+    "url": "http://www.ushistory.org/us/56b.asp",
+    "title": "56b. Kennedy's New Frontier",
+    "description": "\"56b. Kennedy's New Frontier John F. Kennedy's youthful looks, cheerful family and charming demeanor captured the American imagination like few Presidents had ever done. Here, Kennedy poses with his wife Jacqueline and their two children John and Caroline. They called it Camelot. Like King Arthur an",
+    "frecency": 4128,
+    "url_hash": 44671162238887,
+    "last_visit_date": 1758203929787228
+  }
+}

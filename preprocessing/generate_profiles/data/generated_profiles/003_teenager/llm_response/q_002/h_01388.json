@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Legendary singer Frank Sinatra dies \\\"Legendary singer Frank Sinatra dies May 15, 1998 Web posted at: 10:57 a.m. EDT (1457 GMT)LOS ANGELES (CNN) -- \\\\\"Ol' Blue Eyes,\\\\\" Frank Sinatra, is being mourned Friday around the world by millions of fans after his death from a heart attack. The Sinatra family plans to hold a private funeral. The t",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses the death of Frank Sinatra and is unrelated to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Legendary singer Frank Sinatra dies \"Legendary singer Frank Sinatra dies May 15, 1998 Web posted at: 10:57 a.m. EDT (1457 GMT)LOS ANGELES (CNN) -- \"\"Ol' Blue Eyes,\"\" Frank Sinatra, is being mourned Friday around the world by millions of fans after his death from a heart attack. The Sinatra family plans to hold a private funeral. The t",
+  "history": {
+    "url": "http://www.cnn.com/SHOWBIZ/9805/15/sinatra.obit/",
+    "title": "Legendary singer Frank Sinatra dies",
+    "description": "\"Legendary singer Frank Sinatra dies May 15, 1998 Web posted at: 10:57 a.m. EDT (1457 GMT)LOS ANGELES (CNN) -- \"\"Ol' Blue Eyes,\"\" Frank Sinatra, is being mourned Friday around the world by millions of fans after his death from a heart attack. The Sinatra family plans to hold a private funeral. The t",
+    "frecency": 3581,
+    "url_hash": 91439503015134,
+    "last_visit_date": 1758203934685228
+  }
+}

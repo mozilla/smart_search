@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "A Master Builder \"A Master Builder From Wikipedia, the free encyclopedianavigation search A Master Builder Directed by Jonathan Demme Written by Wallace Shawn Based on The Master Builder by Henrik Ibsen Starring Wallace Shawn Julie Hagerty Andre Gregory Cinematography Declan Quinn Edited by Tim Squyres Release date",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a film, not content related to study habits or apps; therefore it is not relevant to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "A Master Builder \"A Master Builder From Wikipedia, the free encyclopedianavigation search A Master Builder Directed by Jonathan Demme Written by Wallace Shawn Based on The Master Builder by Henrik Ibsen Starring Wallace Shawn Julie Hagerty Andre Gregory Cinematography Declan Quinn Edited by Tim Squyres Release date",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/A_Master_Builder",
+    "title": "A Master Builder",
+    "description": "\"A Master Builder From Wikipedia, the free encyclopedianavigation search A Master Builder Directed by Jonathan Demme Written by Wallace Shawn Based on The Master Builder by Henrik Ibsen Starring Wallace Shawn Julie Hagerty Andre Gregory Cinematography Declan Quinn Edited by Tim Squyres Release date ",
+    "frecency": 1095,
+    "url_hash": 68855691124206,
+    "last_visit_date": 1758203930773228
+  }
+}

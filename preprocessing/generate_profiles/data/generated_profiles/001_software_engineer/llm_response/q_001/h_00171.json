@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Ankle pain Appointments at Mayo Clinic Mayo Clinic offers appointments in Arizona, Florida and Minnesota and at Mayo Clinic Health System locations. Request Appointment Symptoms Ankle pain Print Basics In-depth Resources Definition Causes When to see a doctor Products and services Free E-newsletter Subscribe t",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "Retrieved result is about ankle pain and Mayo Clinic, not related to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Ankle pain Appointments at Mayo Clinic Mayo Clinic offers appointments in Arizona, Florida and Minnesota and at Mayo Clinic Health System locations. Request Appointment Symptoms Ankle pain Print Basics In-depth Resources Definition Causes When to see a doctor Products and services Free E-newsletter Subscribe t",
+  "history": {
+    "url": "http://www.mayoclinic.org/symptoms/ankle-pain/basics/when-to-see-doctor/sym-20050796",
+    "title": "Ankle pain",
+    "description": "Appointments at Mayo Clinic Mayo Clinic offers appointments in Arizona, Florida and Minnesota and at Mayo Clinic Health System locations. Request Appointment Symptoms Ankle pain Print Basics In-depth Resources Definition Causes When to see a doctor Products and services Free E-newsletter Subscribe t",
+    "frecency": 4409,
+    "url_hash": 31532518981194,
+    "last_visit_date": 1758203927914200
+  }
+}

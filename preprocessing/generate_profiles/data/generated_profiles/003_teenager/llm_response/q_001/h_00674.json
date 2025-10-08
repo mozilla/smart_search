@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "Content ratings for apps & games: Content ratings for apps & games Using our rating system, you can communicate familiar and locally relevant content ratings to your users and help improve app engagement by targeting the right audience for your content. To prevent your apps from being listed as Unrated, sign in to your Play Console.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns content ratings for apps and games, not TikTok trends; it is not relevant to the query.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "Content ratings for apps & games \"Content ratings for apps & games Using our rating system, you can communicate familiar and locally relevant content ratings to your users and help improve app engagement by targeting the right audience for your content. To prevent your apps from being listed as \u201cUnrated,\u201d sign in to your Play Conso",
+  "history": {
+    "url": "https://support.google.com/googleplay/android-developer/answer/188189?hl=en",
+    "title": "Content ratings for apps & games",
+    "description": "\"Content ratings for apps & games Using our rating system, you can communicate familiar and locally relevant content ratings to your users and help improve app engagement by targeting the right audience for your content. To prevent your apps from being listed as \u201cUnrated,\u201d sign in to your Play Conso",
+    "frecency": 4283,
+    "url_hash": 96443798204805,
+    "last_visit_date": 1758203932763228
+  }
+}

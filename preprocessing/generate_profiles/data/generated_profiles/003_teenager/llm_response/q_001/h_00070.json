@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "The Ball family -- coming to a basketball court (and TV) near you \\\"The Ball family -- coming to a basketball court (and TV) near you La Var and Tina Ball have three children -- all of whom are elite basketball prospects. The oldest two are already committed to UCLA. The youngest will likely join them. It's a unique family with a unique story soon to be featured in\\\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses the Ball family and basketball, which are unrelated to TikTok trends for 2024.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "The Ball family -- coming to a basketball court (and TV) near you \"The Ball family -- coming to a basketball court (and TV) near you La Var and Tina Ball have three children -- all of whom are elite basketball prospects. The oldest two are already committed to UCLA. The youngest will likely join them. It's a unique family with a unique story soon to be featured in",
+  "history": {
+    "url": "http://www.cbssports.com/college-basketball/news/the-ball-family-coming-to-a-basketball-court-and-tv-near-you/",
+    "title": "The Ball family -- coming to a basketball court (and TV) near you",
+    "description": "\"The Ball family -- coming to a basketball court (and TV) near you La Var and Tina Ball have three children -- all of whom are elite basketball prospects. The oldest two are already committed to UCLA. The youngest will likely join them. It's a unique family with a unique story soon to be featured in",
+    "frecency": 4935,
+    "url_hash": 32592691034677,
+    "last_visit_date": 1758203927550735
+  }
+}

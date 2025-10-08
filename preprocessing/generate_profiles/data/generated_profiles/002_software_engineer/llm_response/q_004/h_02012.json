@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Clint Howard \"Top 5000Clint Howard Actor | Soundtrack | Writer Official Photos \u00bbClint Howard also had a recurring role in The Andy Griffith Show, as a little boy always dressed in a cowboy outfit and always eating a peanut butter and jelly sandwich. He never said a word, but was always offering someone a bite. H",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about actor Clint Howard and has no content related to Docker or beginner Docker setup.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Clint Howard \"Top 5000Clint Howard Actor | Soundtrack | Writer Official Photos \u00bbClint Howard also had a recurring role in The Andy Griffith Show, as a little boy always dressed in a cowboy outfit and always eating a peanut butter and jelly sandwich. He never said a word, but was always offering someone a bite. H",
+  "history": {
+    "url": "http://www.imdb.com/name/nm0397212/",
+    "title": "Clint Howard",
+    "description": "\"Top 5000Clint Howard Actor | Soundtrack | Writer Official Photos \u00bbClint Howard also had a recurring role in The Andy Griffith Show, as a little boy always dressed in a cowboy outfit and always eating a peanut butter and jelly sandwich. He never said a word, but was always offering someone a bite. H",
+    "frecency": 1348,
+    "url_hash": 39569850515131,
+    "last_visit_date": 1758203927000111
+  }
+}

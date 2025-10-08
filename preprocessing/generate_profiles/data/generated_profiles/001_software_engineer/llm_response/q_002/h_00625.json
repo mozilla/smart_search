@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Find your way to the heart of the city Find your way to the heart of the city Shangri-La hotel, Nanchang, is perfectly located for business and leisure travellers in the heart of the city\u2019s new central business district, Honggutan. The hotel is within walking distance of city government offices and the MTR station with connections to Lin",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a hotel in Nanchang, unrelated to IDEs or software development; it does not answer the query about top IDEs.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Find your way to the heart of the city Find your way to the heart of the city Shangri-La hotel, Nanchang, is perfectly located for business and leisure travellers in the heart of the city\u2019s new central business district, Honggutan. The hotel is within walking distance of city government offices and the MTR station with connections to Lin",
+  "history": {
+    "url": "http://www.shangri-la.com/nanchang/shangrila/about/map-directions/",
+    "title": "Find your way to the heart of the city",
+    "description": "Find your way to the heart of the city Shangri-La hotel, Nanchang, is perfectly located for business and leisure travellers in the heart of the city\u2019s new central business district, Honggutan. The hotel is within walking distance of city government offices and the MTR station with connections to Lin",
+    "frecency": 2865,
+    "url_hash": 29039326634910,
+    "last_visit_date": 1758203928350200
+  }
+}

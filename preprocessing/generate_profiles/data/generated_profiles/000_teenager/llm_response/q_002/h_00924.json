@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Broadway Guide NYC is made up of five boroughs The Bronx Brooklyn Manhattan Queens Staten Island The Bronx People all around the world know the Bronx as the home of the New York Yankees, the Bronx Zoo and the New York Botanical Garden\u2014not to mention as the birthplace of hip-hop. Learn moreback to map Brooklyn No m",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses NYC boroughs and a Broadway Guide, not DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Broadway Guide NYC is made up of five boroughs The Bronx Brooklyn Manhattan Queens Staten Island The Bronx People all around the world know the Bronx as the home of the New York Yankees, the Bronx Zoo and the New York Botanical Garden\u2014not to mention as the birthplace of hip-hop. Learn moreback to map Brooklyn No m",
+  "history": {
+    "url": "https://www.nycgo.com/",
+    "title": "Broadway Guide",
+    "description": "NYC is made up of five boroughs The Bronx Brooklyn Manhattan Queens Staten Island The Bronx People all around the world know the Bronx as the home of the New York Yankees, the Bronx Zoo and the New York Botanical Garden\u2014not to mention as the birthplace of hip-hop. Learn moreback to map Brooklyn No m",
+    "frecency": 923,
+    "url_hash": 65766247064824,
+    "last_visit_date": 1758203928577139
+  }
+}

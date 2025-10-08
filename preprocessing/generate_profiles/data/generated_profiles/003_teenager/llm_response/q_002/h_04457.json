@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "12 Shocking Secrets of Movie Stars' Salaries",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "Retrieved result is about movie star salaries, not DIY room decoration ideas; topic is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "12 Shocking Secrets of Movie Stars' Salaries \"News12 Shocking Secrets of Movie Stars' Salaries By Zach Seemayer 9:09 PM PDT, October 2, 2014We all knew celebs make big bucks for appearing in films, on TV, in commercials, in video games, and for just showing up at night clubs. But according to this recent comprehensive examination of Hollywood",
+  "history": {
+    "url": "http://www.etonline.com/news/152027_12_shocking_secrets_of_movie_stars_salaries/",
+    "title": "12 Shocking Secrets of Movie Stars' Salaries",
+    "description": "\"News12 Shocking Secrets of Movie Stars' Salaries By Zach Seemayer 9:09 PM PDT, October 2, 2014We all knew celebs make big bucks for appearing in films, on TV, in commercials, in video games, and for just showing up at night clubs. But according to this recent comprehensive examination of Hollywood ",
+    "frecency": 378,
+    "url_hash": 69463177150372,
+    "last_visit_date": 1758203929713228
+  }
+}

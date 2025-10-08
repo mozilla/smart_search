@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Shkreli and Ex-Counsel Seek Separate Trial Paths Andrew Denney, New York Law Journal April 5, 2017 | 0 Comments - As the fraud case against former pharmaceutical executive Martin Shkreli moves closer to trial, attorneys for the controversial \\\"Pharma Bro\\\" and for co-defendant Evan Greeb",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a legal news article about Martin Shkreli's trial, unrelated to Docker or beginner setup; lacks any Docker-related content.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Shkreli and Ex-Counsel Seek Separate Trial Paths \"Shkreli and Ex-Counsel Seek Separate Trial Paths Andrew Denney, New York Law Journal April 5, 2017 | 0 Commentssharereprints As the fraud case against former pharmaceutical executive Martin Shkreli moves closer to trial, attorneys for the controversial \"\"Pharma Bro\"\" and for co-defendant Evan Greeb",
+  "history": {
+    "url": "http://www.newyorklawjournal.com/id=1202783077110/Shkreli-and-ExCounsel-Seek-Separate-Trial-Paths",
+    "title": "Shkreli and Ex-Counsel Seek Separate Trial Paths",
+    "description": "\"Shkreli and Ex-Counsel Seek Separate Trial Paths Andrew Denney, New York Law Journal April 5, 2017 | 0 Commentssharereprints As the fraud case against former pharmaceutical executive Martin Shkreli moves closer to trial, attorneys for the controversial \"\"Pharma Bro\"\" and for co-defendant Evan Greeb",
+    "frecency": 1353,
+    "url_hash": 81367393235997,
+    "last_visit_date": 1758203928302200
+  }
+}

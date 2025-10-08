@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Concierge Services When you already have accommodations but need a little help planning your Disney vacation, the Ears of Experience Concierge Service is tailor-made for you. Whether you want to know the best time of the day to visit Walt Disney World \u00ae Resort, or you need dinner reservations after a day on the rides,",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Disney vacation concierge services, not sports improvement.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Concierge Services When you already have accommodations but need a little help planning your Disney vacation, the Ears of Experience Concierge Service is tailor-made for you. Whether you want to know the best time of the day to visit Walt Disney World \u00ae Resort, or you need dinner reservations after a day on the rides,",
+  "history": {
+    "url": "http://themouseexperts.com/concierge.html",
+    "title": "Concierge Services",
+    "description": "When you already have accommodations but need a little help planning your Disney vacation, the Ears of Experience Concierge Service is tailor-made for you. Whether you want to know the best time of the day to visit Walt Disney World \u00ae Resort, or you need dinner reservations after a day on the rides,",
+    "frecency": 3653,
+    "url_hash": 42875749026698,
+    "last_visit_date": 1758203936361228
+  }
+}

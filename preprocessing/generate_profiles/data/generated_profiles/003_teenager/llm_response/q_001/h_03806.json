@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "America's Children: Key National Indicators of Well-Being, 2017 Behavior The well-being of young people can be affected by aspects of their behavior and social environments. The indicators in this section focus on illegal and high-risk behaviors. Substance use behaviors are shown for regular cigarette smoking, alcohol use, and illicit drug use. Other indicators",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses national indicators of well-being for children and their behavior; it has no relation to TikTok trends or 2024 trends.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "America's Children: Key National Indicators of Well-Being, 2017 Behavior The well-being of young people can be affected by aspects of their behavior and social environments. The indicators in this section focus on illegal and high-risk behaviors. Substance use behaviors are shown for regular cigarette smoking, alcohol use, and illicit drug use. Other indicators",
+  "history": {
+    "url": "http://www.childstats.gov/americaschildren/beh.asp",
+    "title": "America's Children: Key National Indicators of Well-Being, 2017",
+    "description": "Behavior The well-being of young people can be affected by aspects of their behavior and social environments. The indicators in this section focus on illegal and high-risk behaviors. Substance use behaviors are shown for regular cigarette smoking, alcohol use, and illicit drug use. Other indicators ",
+    "frecency": 1054,
+    "url_hash": 26414155772916,
+    "last_visit_date": 1758203932909228
+  }
+}

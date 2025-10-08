@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Careful use of nurse case managers can improve outcomes \\\"Careful use of nurse case managers can improve outcomes Reprints Joanne Wojcik3/25/2011 12:56:02 PMShare Facebook Linked In Google +Twitter Although they are an added expense, nurse case managers can significantly reduce the duration and cost of workers compensation claims by guiding injured employ",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses nurse case management and workers' compensation, not Python libraries or machine learning. It is not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Careful use of nurse case managers can improve outcomes \"Careful use of nurse case managers can improve outcomes Reprints Joanne Wojcik3/25/2011 12:56:02 PMShare Facebook Linked In Google +Twitter Although they are an added expense, nurse case managers can significantly reduce the duration and cost of workers compensation claims by guiding injured employ",
+  "history": {
+    "url": "http://www.businessinsurance.com/article/99999999/NEWS080101/399999965",
+    "title": "Careful use of nurse case managers can improve outcomes",
+    "description": "\"Careful use of nurse case managers can improve outcomes Reprints Joanne Wojcik3/25/2011 12:56:02 PMShare Facebook Linked In Google +Twitter Although they are an added expense, nurse case managers can significantly reduce the duration and cost of workers compensation claims by guiding injured employ",
+    "frecency": 1062,
+    "url_hash": 66928004635032,
+    "last_visit_date": 1758203931536111
+  }
+}

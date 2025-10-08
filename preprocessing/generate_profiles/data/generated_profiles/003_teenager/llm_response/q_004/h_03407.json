@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Ghost Riders In The Sky Lyrics \"Tweet Johnny Cash \u2013 Ghost Riders In The Sky Lyrics An old cowboy went riding out one dark and windy day Upon a ridge he rested as he went along his way When all at once a mighty herd of red eyed cows he saw A-plowing through the ragged sky and up the cloudy draw Their brands were still on fire and",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "Retrieved result is song lyrics unrelated to improving at sports; not relevant to the query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Ghost Riders In The Sky Lyrics \"Tweet Johnny Cash \u2013 Ghost Riders In The Sky Lyrics An old cowboy went riding out one dark and windy day Upon a ridge he rested as he went along his way When all at once a mighty herd of red eyed cows he saw A-plowing through the ragged sky and up the cloudy draw Their brands were still on fire and",
+  "history": {
+    "url": "http://www.lyricsfreak.com/j/johnny+cash/ghost+riders+in+the+sky_20204993.html",
+    "title": "Ghost Riders In The Sky Lyrics",
+    "description": "\"Tweet Johnny Cash \u2013 Ghost Riders In The Sky Lyrics An old cowboy went riding out one dark and windy day Upon a ridge he rested as he went along his way When all at once a mighty herd of red eyed cows he saw A-plowing through the ragged sky and up the cloudy draw Their brands were still on fire and ",
+    "frecency": 1441,
+    "url_hash": 11789357094501,
+    "last_visit_date": 1758203930919228
+  }
+}

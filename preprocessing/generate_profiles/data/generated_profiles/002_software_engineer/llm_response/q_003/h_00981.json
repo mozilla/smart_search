@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "The History of Plastic Surgery \"The History of Plastic Surgery By Jannelle Salcido \u00a9 2010 Staff Writer The history of plastic surgery goes as far back as 2000 B. C. In India and Egypt, ancient physicians practiced some of the most rudimentary forms of plastic surgery. According to a 1994 article in the Washington Post by Thomas V",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses the history of plastic surgery and is unrelated to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "The History of Plastic Surgery \"The History of Plastic Surgery By Jannelle Salcido \u00a9 2010 Staff Writer The history of plastic surgery goes as far back as 2000 B. C. In India and Egypt, ancient physicians practiced some of the most rudimentary forms of plastic surgery. According to a 1994 article in the Washington Post by Thomas V",
+  "history": {
+    "url": "https://plasticsurgery.com/the-history-of-plastic-surgery/",
+    "title": "The History of Plastic Surgery",
+    "description": "\"The History of Plastic Surgery By Jannelle Salcido \u00a9 2010 Staff Writer The history of plastic surgery goes as far back as 2000 B. C. In India and Egypt, ancient physicians practiced some of the most rudimentary forms of plastic surgery. According to a 1994 article in the Washington Post by Thomas V",
+    "frecency": 3243,
+    "url_hash": 2147817385467,
+    "last_visit_date": 1758203927818111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Cineplex opens new adults-only VIP theatres at Queensway Entertainment Movies Cineplex opens new adults-only VIP theatres at Queensway The new 20,000-square-foot, five-auditorium VIP section opens at the Cineplex Odeon Queensway theatre complex Jan. 17 with its own lounge, in-seat service and no kids. Cineplex CEO and president Ellis Jacob takes a seat in",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The result is about cinema entertainment (VIP theatres) and has no relevance to improving athletic performance or sports skills.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Cineplex opens new adults-only VIP theatres at Queensway Entertainment Movies Cineplex opens new adults-only VIP theatres at Queensway The new 20,000-square-foot, five-auditorium VIP section opens at the Cineplex Odeon Queensway theatre complex Jan. 17 with its own lounge, in-seat service and no kids. Cineplex CEO and president Ellis Jacob takes a seat in",
+  "history": {
+    "url": "http://www.thestar.com/entertainment/movies/2014/01/07/cineplex_opens_new_adultsonly_vip_theatres_at_queensway.html",
+    "title": "Cineplex opens new adults-only VIP theatres at Queensway",
+    "description": "Entertainment Movies Cineplex opens new adults-only VIP theatres at Queensway The new 20,000-square-foot, five-auditorium VIP section opens at the Cineplex Odeon Queensway theatre complex Jan. 17 with its own lounge, in-seat service and no kids. Cineplex CEO and president Ellis Jacob takes a seat in",
+    "frecency": 3601,
+    "url_hash": 15958165272268,
+    "last_visit_date": 1758203935617228
+  }
+}

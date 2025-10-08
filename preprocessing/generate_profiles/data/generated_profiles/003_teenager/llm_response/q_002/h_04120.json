@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Cod Liver Oil Cod Liver Oil Side Effects Prev NEXTChances are you've seen an old cartoon in which one of the characters is forced to down some cod liver oil. The comical face of disgust that quickly follows the dosing is not just a result of clever cartooning. One of the obvious negatives of cod liver oil is that",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses cod liver oil side effects, not easy DIY room decoration ideas; it is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Cod Liver Oil Cod Liver Oil Side Effects Prev NEXTChances are you've seen an old cartoon in which one of the characters is forced to down some cod liver oil. The comical face of disgust that quickly follows the dosing is not just a result of clever cartooning. One of the obvious negatives of cod liver oil is that",
+  "history": {
+    "url": "http://health.howstuffworks.com/wellness/natural-medicine/alternative/cod-liver-oil2.htm",
+    "title": "Cod Liver Oil",
+    "description": "Cod Liver Oil Side Effects Prev NEXTChances are you've seen an old cartoon in which one of the characters is forced to down some cod liver oil. The comical face of disgust that quickly follows the dosing is not just a result of clever cartooning. One of the obvious negatives of cod liver oil is that",
+    "frecency": 740,
+    "url_hash": 28806238910944,
+    "last_visit_date": 1758203934769228
+  }
+}

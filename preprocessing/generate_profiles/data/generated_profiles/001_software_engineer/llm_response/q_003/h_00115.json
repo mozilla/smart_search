@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Did joe converse invent converse shoes? Harrypotterlover12 10 Contributions Answered In Clothing Did joe converse invent converse shoes? I really don't know. Maybe no Danni6 4 Contributions Answered In Shopping The place I found these shoes were in Athletes World but my size was not there. Which store sells woman's One star lo pro mid con",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses shoes and clothing, unrelated to database queries; not relevant.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Did joe converse invent converse shoes? Harrypotterlover12 10 Contributions Answered In Clothing Did joe converse invent converse shoes? I really don't know. Maybe no Danni6 4 Contributions Answered In Shopping The place I found these shoes were in Athletes World but my size was not there. Which store sells woman's One star lo pro mid con",
+  "history": {
+    "url": "http://www.answers.com/Q/Is_converse_counted_as_athletic_shoes",
+    "title": "Did joe converse invent converse shoes?",
+    "description": "Harrypotterlover12 10 Contributions Answered In Clothing Did joe converse invent converse shoes? I really don't know. Maybe no Danni6 4 Contributions Answered In Shopping The place I found these shoes were in Athletes World but my size was not there. Which store sells woman's One star lo pro mid con",
+    "frecency": 4605,
+    "url_hash": 63040445554873,
+    "last_visit_date": 1758203928204200
+  }
+}

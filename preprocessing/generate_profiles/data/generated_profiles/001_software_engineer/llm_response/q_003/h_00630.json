@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "More bad news about remicade and enbrel More bad news about remicade and enbrel Over the past few months, I\u2019ve told you about some serious side effects from the prescription drugs Remicade and Enbrel, which are both used to treat rheumatoid arthritis (RA) and Crohn\u2019s disease. In the November 1st e-Alert, I told you how some doctors had be",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses adverse effects of drugs Remicade and Enbrel, not database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "More bad news about remicade and enbrel More bad news about remicade and enbrel Over the past few months, I\u2019ve told you about some serious side effects from the prescription drugs Remicade and Enbrel, which are both used to treat rheumatoid arthritis (RA) and Crohn\u2019s disease. In the November 1st e-Alert, I told you how some doctors had be",
+  "history": {
+    "url": "http://hsionline.com/2002/01/29/bad-news-about-remicade-and-enbrel/",
+    "title": "More bad news about remicade and enbrel",
+    "description": "More bad news about remicade and enbrel Over the past few months, I\u2019ve told you about some serious side effects from the prescription drugs Remicade and Enbrel, which are both used to treat rheumatoid arthritis (RA) and Crohn\u2019s disease. In the November 1st e-Alert, I told you how some doctors had be",
+    "frecency": 2844,
+    "url_hash": 85820753728109,
+    "last_visit_date": 1758203928910200
+  }
+}

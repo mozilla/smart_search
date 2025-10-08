@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Do Therapists really help? \"Health Mental Health Do Therapists really help? I think i need counseling. I feel like a failure in life. I feel like everyone and everything is passing me by. I know there are things i can do to make it better but i just dont have the motivation. I just feel worthless. I dont know my purpose in li",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses therapy and mental health, not content about improving performance or getting better at sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Do Therapists really help? \"Health Mental Health Do Therapists really help? I think i need counseling. I feel like a failure in life. I feel like everyone and everything is passing me by. I know there are things i can do to make it better but i just dont have the motivation. I just feel worthless. I dont know my purpose in li",
+  "history": {
+    "url": "https://answers.yahoo.com/question/index?qid=20081008112636AAYlyPc",
+    "title": "Do Therapists really help?",
+    "description": "\"Health Mental Health Do Therapists really help? I think i need counseling. I feel like a failure in life. I feel like everyone and everything is passing me by. I know there are things i can do to make it better but i just dont have the motivation. I just feel worthless. I dont know my purpose in li",
+    "frecency": 445,
+    "url_hash": 34959817239937,
+    "last_visit_date": 1758203934447228
+  }
+}

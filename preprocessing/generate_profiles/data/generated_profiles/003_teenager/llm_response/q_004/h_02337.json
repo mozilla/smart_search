@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Jane Connell, Agnes Gooch of \u00e2Mame,\u00e2 Is Dead at 87 \"Theater Jane Connell, Agnes Gooch of \u2018Mame,\u2019 Is Dead at 87By JOHN SCHWARTZ SEPT. 25, 2013Jane Connell, a character actress best known for her portrayal of Agnes Gooch, the mousy secretary to the title character in the musical \u201cMame,\u201d died on Sunday in Englewood, N. J. She was 87. Her daughter Maggi",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is an obituary about a theater actress and has no relation to improving athletic performance or sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Jane Connell, Agnes Gooch of \u00e2Mame,\u00e2 Is Dead at 87 \"Theater Jane Connell, Agnes Gooch of \u2018Mame,\u2019 Is Dead at 87By JOHN SCHWARTZ SEPT. 25, 2013Jane Connell, a character actress best known for her portrayal of Agnes Gooch, the mousy secretary to the title character in the musical \u201cMame,\u201d died on Sunday in Englewood, N. J. She was 87. Her daughter Maggi",
+  "history": {
+    "url": "http://www.nytimes.com/2013/09/26/theater/jane-connell-agnes-gooch-of-mame-is-dead-at-87.html",
+    "title": "Jane Connell, Agnes Gooch of \u00e2Mame,\u00e2 Is Dead at 87",
+    "description": "\"Theater Jane Connell, Agnes Gooch of \u2018Mame,\u2019 Is Dead at 87By JOHN SCHWARTZ SEPT. 25, 2013Jane Connell, a character actress best known for her portrayal of Agnes Gooch, the mousy secretary to the title character in the musical \u201cMame,\u201d died on Sunday in Englewood, N. J. She was 87. Her daughter Maggi",
+    "frecency": 2593,
+    "url_hash": 18405016888443,
+    "last_visit_date": 1758203933283228
+  }
+}

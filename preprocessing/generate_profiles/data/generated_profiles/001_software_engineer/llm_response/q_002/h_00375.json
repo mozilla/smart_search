@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Buy tickets Buy tickets There are three action-packed days of horses, shopping, demonstrations, and clinics at the 2018 Midwest Horse Fair on April 20, 21 & 22! Book your general admission tickets in advance and save time and money. Cut off for online sales is April 9th, 2018. After that we can't guarantee deli",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about tickets for the Midwest Horse Fair and not related to IDEs or software development.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Buy tickets Buy tickets There are three action-packed days of horses, shopping, demonstrations, and clinics at the 2018 Midwest Horse Fair on April 20, 21 & 22! Book your general admission tickets in advance and save time and money. Cut off for online sales is April 9th, 2018. After that we can't guarantee deli",
+  "history": {
+    "url": "http://craftstage.midwesthorsefair.com/store/tickets",
+    "title": "Buy tickets",
+    "description": "Buy tickets There are three action-packed days of horses, shopping, demonstrations, and clinics at the 2018 Midwest Horse Fair on April 20, 21 & 22! Book your general admission tickets in advance and save time and money. Cut off for online sales is April 9th, 2018. After that we can't guarantee deli",
+    "frecency": 3729,
+    "url_hash": 67314734776061,
+    "last_visit_date": 1758203927266200
+  }
+}

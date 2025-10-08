@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Schoolhouse Rock - Grammar Rock Conjunction Junction lyrics; unrelated to easy DIY room decoration ideas.",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about grammar (Conjunction Junction) and not about room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Schoolhouse Rock - Grammar Rock \"Schoolhouse Rock - Grammar Rock Conjunction Junction Music & Lyrics: Bob Dorough Sung by: Jack Sheldon Animation: Phil Kimmelman and Associates }} Conjunction Junction, what's your function? Hooking up words and phrases and clauses. }} Conjunction Junction, how's that function? I got three favorite",
+  "history": {
+    "url": "http://www.postdiluvian.org/~gilly/Schoolhouse_Rock/HTML/grammar/conjunction.html",
+    "title": "Schoolhouse Rock - Grammar Rock",
+    "description": "\"Schoolhouse Rock - Grammar Rock Conjunction Junction Music & Lyrics: Bob Dorough Sung by: Jack Sheldon Animation: Phil Kimmelman and Associates }} Conjunction Junction, what's your function? Hooking up words and phrases and clauses. }} Conjunction Junction, how's that function? I got three favorite",
+    "frecency": 3274,
+    "url_hash": 29273268975042,
+    "last_visit_date": 1758203927494735
+  }
+}

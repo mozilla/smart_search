@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Humphry Davy \"\u25bc Primary Sources \u25bcHumphry Davy Humphry Davy, a woodcarver's son, was born in Penzance in 1778. After being educated in Truro, Davy was apprenticed to a Penzance surgeon. In 1797 he took up chemistry and was taken on by Thomas Beddoes, as an assistant at his Medical Pneumatic Institution in Bristol",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns the life and work of Humphry Davy, a historical figure, and has no relation to integrated development environments (IDEs) or software development tools.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Humphry Davy \"\u25bc Primary Sources \u25bcHumphry Davy Humphry Davy, a woodcarver's son, was born in Penzance in 1778. After being educated in Truro, Davy was apprenticed to a Penzance surgeon. In 1797 he took up chemistry and was taken on by Thomas Beddoes, as an assistant at his Medical Pneumatic Institution in Bristol",
+  "history": {
+    "url": "http://spartacus-educational.com/SCdavy.htm",
+    "title": "Humphry Davy",
+    "description": "\"\u25bc Primary Sources \u25bcHumphry Davy Humphry Davy, a woodcarver's son, was born in Penzance in 1778. After being educated in Truro, Davy was apprenticed to a Penzance surgeon. In 1797 he took up chemistry and was taken on by Thomas Beddoes, as an assistant at his Medical Pneumatic Institution in Bristol",
+    "frecency": 4130,
+    "url_hash": 42326489875909,
+    "last_visit_date": 1758203928636111
+  }
+}

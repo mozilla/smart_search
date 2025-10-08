@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Adult Bullying: Harassment By People You Respect Adult bullying is more prevalent than many want to admit. If you\u2019re old enough to pay a mortgage or raise a family, shouldn\u2019t you be able to handle anything that comes your way? But bullying doesn\u2019t come to a standstill after graduating from the playground, and giving grown-ups a pass on aggressive",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses adult bullying, which is unrelated to strategies or guidance for improving athletic performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Adult Bullying: Harassment By People You Respect Adult bullying is more prevalent than many want to admit. If you\u2019re old enough to pay a mortgage or raise a family, shouldn\u2019t you be able to handle anything that comes your way? But bullying doesn\u2019t come to a standstill after graduating from the playground, and giving grown-ups a pass on aggressive",
+  "history": {
+    "url": "http://www.huffingtonpost.com/sue-scheff/adult-bullying-harassment_b_4256954.html",
+    "title": "Adult Bullying: Harassment By People You Respect",
+    "description": "Adult bullying is more prevalent than many want to admit. If you\u2019re old enough to pay a mortgage or raise a family, shouldn\u2019t you be able to handle anything that comes your way? But bullying doesn\u2019t come to a standstill after graduating from the playground, and giving grown-ups a pass on aggressive ",
+    "frecency": 4661,
+    "url_hash": 97983185203961,
+    "last_visit_date": 1758203933077228
+  }
+}

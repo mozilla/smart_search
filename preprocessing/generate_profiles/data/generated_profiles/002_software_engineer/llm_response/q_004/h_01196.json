@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "How many Bank of America locations in US? \"Flag How many Bank of America locations in US? Answer by Underthebed Confidence votes 11* 4,800 branches in 22 states as of 1997 [1]Bank of America is the largest bank in the US [1)Bo A's automated customer service system hangs up on you, rather than transferring you to an operator if it cannot und",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns Bank of America locations and does not relate to Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "How many Bank of America locations in US? \"Flag How many Bank of America locations in US? Answer by Underthebed Confidence votes 11* 4,800 branches in 22 states as of 1997 [1]Bank of America is the largest bank in the US [1)Bo A's automated customer service system hangs up on you, rather than transferring you to an operator if it cannot und",
+  "history": {
+    "url": "http://www.answers.com/Q/How_many_Bank_of_America_locations_in_US",
+    "title": "How many Bank of America locations in US?",
+    "description": "\"Flag How many Bank of America locations in US? Answer by Underthebed Confidence votes 11* 4,800 branches in 22 states as of 1997 [1]Bank of America is the largest bank in the US [1)Bo A's automated customer service system hangs up on you, rather than transferring you to an operator if it cannot und",
+    "frecency": 2868,
+    "url_hash": 18443042791843,
+    "last_visit_date": 1758203929238111
+  }
+}

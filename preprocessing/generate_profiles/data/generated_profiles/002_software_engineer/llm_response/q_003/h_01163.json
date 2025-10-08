@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "How to: Display Dialog Boxes for Windows Forms Docs . NET . NET Framework Windows Forms How to: Display Dialog Boxes for Windows Forms March 30, 2017 2 minutes to read Contributorsall You display a dialog box in the same way you display any other form in an application. The startup form loads automatically when the application is run. To make a",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns Windows Forms dialog boxes, not database query optimization; no overlap with the query topic.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "How to: Display Dialog Boxes for Windows Forms Docs . NET . NET Framework Windows Forms How to: Display Dialog Boxes for Windows Forms March 30, 2017 2 minutes to read Contributorsall You display a dialog box in the same way you display any other form in an application. The startup form loads automatically when the application is run. To make a",
+  "history": {
+    "url": "https://docs.microsoft.com/en-us/dotnet/framework/winforms/how-to-display-dialog-boxes-for-windows-forms",
+    "title": "How to: Display Dialog Boxes for Windows Forms",
+    "description": "Docs . NET . NET Framework Windows Forms How to: Display Dialog Boxes for Windows Forms March 30, 2017 2 minutes to read Contributorsall You display a dialog box in the same way you display any other form in an application. The startup form loads automatically when the application is run. To make a ",
+    "frecency": 2928,
+    "url_hash": 9081419894826,
+    "last_visit_date": 1758203930608111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "Parody music \\\"From Wikipedia, the free encyclopedianavigation search Parody music, or musical parody, involves changing or copying existing (usually well known) musical ideas or lyrics, or copying the particular style of a composer or artist, or even a general style of music. Although the intention of a musical",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses parody music, not TikTok trends or top TikTok trends for 2024.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "Parody music \"From Wikipedia, the free encyclopedianavigation search Parody music, or musical parody, involves changing or copying existing (usually well known) musical ideas or lyrics, or copying the particular style of a composer or artist, or even a general style of music. Although the intention of a musical",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Parody_music",
+    "title": "Parody music",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search Parody music, or musical parody, involves changing or copying existing (usually well known) musical ideas or lyrics, or copying the particular style of a composer or artist, or even a general style of music. Although the intention of a musical ",
+    "frecency": 4215,
+    "url_hash": 86183139344073,
+    "last_visit_date": 1758203936219228
+  }
+}

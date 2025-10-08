@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Easy (Commodores song) From Wikipedia, the free encyclopedia navigation search Easy A-side label of 1977 U. S. vinyl single Single by Commodores from the album Commodores B-side Can't Let You Tease Me Released March 18, 1977 Format 45 rpm record Recorded 1977 Genre Soft rock Length 3:58 (single version) 4:14 (album version)",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about the Commodores song, not easy DIY room decoration ideas; the content is unrelated to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Easy (Commodores song) \"From Wikipedia, the free encyclopedianavigation search\"\"Easy\"\"A-side label of 1977 U. S. vinyl single Single by Commodoresfrom the album Commodores B-side \"\"Can't Let You Tease Me\"\"Released March 18, 1977Format 45 rpm record Recorded 1977Genre Soft rock Length3: 58 (single version)4:14 (album versi",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Easy_(Commodores_song)",
+    "title": "Easy (Commodores song)",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search\"\"Easy\"\"A-side label of 1977 U. S. vinyl single Single by Commodoresfrom the album Commodores B-side \"\"Can't Let You Tease Me\"\"Released March 18, 1977Format 45 rpm record Recorded 1977Genre Soft rock Length3: 58 (single version)4:14 (album versi",
+    "frecency": 1898,
+    "url_hash": 18323502417846,
+    "last_visit_date": 1758203934671228
+  }
+}

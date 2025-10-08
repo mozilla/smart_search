@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Does NASCAR use rain tires? \\\"Jim Mowreader 15,778 Contributions I am an Army veteran who has worked in the graphic arts, photography, transportation and retail industries. Does NASCAR use rain tires? Answer \\n. \\n NASCAR tires look completely bald, but that's not because they are worn out. It is by design. On a dry track, tire",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses NASCAR rain tires and is unrelated to debugging API integration; it does not address the user's query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Does NASCAR use rain tires? \"Jim Mowreader 15,778 Contributions I am an Army veteran who has worked in the graphic arts, photography, transportation and retail industries. Does NASCAR use rain tires? Answer \\n. \\n NASCAR tires look completely bald, but that's not because they are worn out. It is by design. On a dry track, tire",
+  "history": {
+    "url": "http://www.answers.com/Q/What_is_the_price_of_a_new_Nascar_tire",
+    "title": "Does NASCAR use rain tires?",
+    "description": "\"Jim Mowreader 15,778 Contributions I am an Army veteran who has worked in the graphic arts, photography, transportation and retail industries. Does NASCAR use rain tires? Answer \\n. \\n NASCAR tires look completely bald, but that's not because they are worn out. It is by design. On a dry track, tire",
+    "frecency": 3471,
+    "url_hash": 18780269544759,
+    "last_visit_date": 1758203928004111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "How many calories are in 1 chicken tenderloin ? Health Diet & Fitness How many calories are in 1 chicken tenderloin ? I was just wondering how much calories are in 1 grilled chicken tenderloin thats been marinated in a tinnnnnny bit of olive oil pinch of salt and a bit of pepper. I eat 1 cup of cooked rice with 2.5 tenderloins as a meal, twice a",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about calories in chicken tenderloin and health/diet topics, not related to apps for improving study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "How many calories are in 1 chicken tenderloin ? Health Diet & Fitness How many calories are in 1 chicken tenderloin ? I was just wondering how much calories are in 1 grilled chicken tenderloin thats been marinated in a tinnnnnny bit of olive oil pinch of salt and a bit of pepper. I eat 1 cup of cooked rice with 2.5 tenderloins as a meal, twice a",
+  "history": {
+    "url": "https://answers.yahoo.com/question/index?qid=20120206022813AAKTELe",
+    "title": "How many calories are in 1 chicken tenderloin ?",
+    "description": "Health Diet & Fitness How many calories are in 1 chicken tenderloin ? I was just wondering how much calories are in 1 grilled chicken tenderloin thats been marinated in a tinnnnnny bit of olive oil pinch of salt and a bit of pepper. I eat 1 cup of cooked rice with 2.5 tenderloins as a meal, twice a ",
+    "frecency": 4416,
+    "url_hash": 59163367639387,
+    "last_visit_date": 1758203934565228
+  }
+}

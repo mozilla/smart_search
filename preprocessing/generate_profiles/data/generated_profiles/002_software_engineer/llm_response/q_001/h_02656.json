@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Recovering IOS on a Catalyst Switch \"Unfortunately there is no easy way to recover a corrupt or deleted IOS image on a fixed configuration Cisco Catalyst switch. You must use x Modem which commonly takes 2+ hours. This lab will discuss and demonstrate the IOS recovery procedure for fixed configuration Catalyst series switches using x\"",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Cisco IOS recovery on Catalyst switches, unrelated to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Recovering IOS on a Catalyst Switch \"Unfortunately there is no easy way to recover a corrupt or deleted IOS image on a fixed configuration Cisco Catalyst switch. You must use x Modem which commonly takes 2+ hours. This lab will discuss and demonstrate the IOS recovery procedure for fixed configuration Catalyst series switches using x",
+  "history": {
+    "url": "https://www.freeccnaworkbook.com/workbooks/ccna/recovering-a-corrupt-cisco-ios-image-on-a-catalyst-switch",
+    "title": "Recovering IOS on a Catalyst Switch",
+    "description": "\"Unfortunately there is no easy way to recover a corrupt or deleted IOS image on a fixed configuration Cisco Catalyst switch. You must use x Modem which commonly takes 2+ hours. This lab will discuss and demonstrate the IOS recovery procedure for fixed configuration Catalyst series switches using x ",
+    "frecency": 166,
+    "url_hash": 1435543699548,
+    "last_visit_date": 1758203928178111
+  }
+}

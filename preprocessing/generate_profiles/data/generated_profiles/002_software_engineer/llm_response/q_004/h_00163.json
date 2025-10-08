@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Solutions Solutions We are excited to bring you a full array of small business solutions to meet the most pressing needs of small business owners. These solutions allow you to take advantage of the latest technology to better understand your business, help it grow - or just make more time to focus on what you",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "Content describes generic small business solutions, not about Docker or setup instructions; thus not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Solutions Solutions We are excited to bring you a full array of small business solutions to meet the most pressing needs of small business owners. These solutions allow you to take advantage of the latest technology to better understand your business, help it grow - or just make more time to focus on what you",
+  "history": {
+    "url": "https://www.suntrustmerchantservices.com/solutions/",
+    "title": "Solutions",
+    "description": "Solutions We are excited to bring you a full array of small business solutions to meet the most pressing needs of small business owners. These solutions allow you to take advantage of the latest technology to better understand your business, help it grow - or just make more time to focus on what you",
+    "frecency": 4732,
+    "url_hash": 74662847219277,
+    "last_visit_date": 1758203929130111
+  }
+}

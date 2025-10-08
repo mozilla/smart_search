@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "If the temperature outside today is zero degrees and tomorrow will be twice as cold as it was today, how cold will it be tomorrow? \"Amogh K M, B Tech Bachelor of Technology in Electronics and Communications Engineering , PES University (2019)Answered Jun 15, 2016Originally Answered: If the temperature outside is 0 degree Celsius today and it is going to be twice as cold tomorrow, how cold will it be? Well, when we speak of some",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses a temperature-related riddle, not database query optimization; it is not relevant to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "If the temperature outside today is zero degrees and tomorrow will be twice as cold as it was today, how cold will it be tomorrow? \"Amogh K M, B Tech Bachelor of Technology in Electronics and Communications Engineering , PES University (2019)Answered Jun 15, 2016Originally Answered: If the temperature outside is 0 degree Celsius today and it is going to be twice as cold tomorrow, how cold will it be? Well, when we speak of some",
+  "history": {
+    "url": "https://www.quora.com/If-the-temperature-outside-today-is-zero-degrees-and-tomorrow-will-be-twice-as-cold-as-it-was-today-how-cold-will-it-be-tomorrow",
+    "title": "If the temperature outside today is zero degrees and tomorrow will be twice as cold as it was today, how cold will it be tomorrow?",
+    "description": "\"Amogh K M, B Tech Bachelor of Technology in Electronics and Communications Engineering , PES University (2019)Answered Jun 15, 2016Originally Answered: If the temperature outside is 0 degree Celsius today and it is going to be twice as cold tomorrow, how cold will it be? Well, when we speak of some",
+    "frecency": 2615,
+    "url_hash": 8720847673983,
+    "last_visit_date": 1758203929864111
+  }
+}

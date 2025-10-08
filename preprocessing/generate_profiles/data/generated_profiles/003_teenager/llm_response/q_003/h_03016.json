@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Bill Paxton, Versatile 'Big Love,' 'Twister' Actor, Dead at 61 \"Bill Paxton, the veteran actor who starred in Big Love and appeared in films like Aliens, Twister and Apollo 13, died Saturday follow",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a celebrity obituary about Bill Paxton and is unrelated to apps or study habits; it does not address improving study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Bill Paxton, Versatile 'Big Love,' 'Twister' Actor, Dead at 61 \"Bill Paxton, Versatile 'Big Love,' 'Twister' Actor, Dead at 61Golden Globe-nominated actor dies following complications from surgery By Daniel Kreps February 26, 2017Bill Paxton, the veteran actor who starred in Big Love and appeared in films like Aliens, Twister and Apollo 13, died Saturday follow",
+  "history": {
+    "url": "http://www.rollingstone.com/movies/news/bill-paxton-versatile-big-love-actor-dead-at-61-w468938",
+    "title": "Bill Paxton, Versatile 'Big Love,' 'Twister' Actor, Dead at 61",
+    "description": "\"Bill Paxton, Versatile 'Big Love,' 'Twister' Actor, Dead at 61Golden Globe-nominated actor dies following complications from surgery By Daniel Kreps February 26, 2017Bill Paxton, the veteran actor who starred in Big Love and appeared in films like Aliens, Twister and Apollo 13, died Saturday follow",
+    "frecency": 1819,
+    "url_hash": 60485012701217,
+    "last_visit_date": 1758203928636735
+  }
+}

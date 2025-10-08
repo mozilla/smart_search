@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Explore Bar Cart, Cocktail Recipes, and more!",
+  "relevance_score": 0.15,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result focuses on bar carts and cocktails rather than room decoration ideas, making it not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Explore Bar Cart, Cocktail Recipes, and more!",
+  "history": {
+    "url": "https://www.pinterest.com/pin/60587557459141420/",
+    "title": "Explore Bar Cart, Cocktail Recipes, and more!",
+    "description": "",
+    "frecency": 3262,
+    "url_hash": 39905851280213,
+    "last_visit_date": 1758203928503139
+  }
+}

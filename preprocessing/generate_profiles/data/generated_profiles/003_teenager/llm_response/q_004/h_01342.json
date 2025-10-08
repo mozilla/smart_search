@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Things To Do in Wisconsin Dells Things To Do in Wisconsin Dells Wisconsin Dells has many activities to enjoy for the perfect Winter getaway. We offer a wide variety of attractions to keep your entire group entertained. There are a many ski hills, snow-tubing opportunities, and snowmobile trails surrounding the Dells area. Stay war",
+  "relevance_score": 0.15,
+  "binary_decision": 0,
+  "Decision_Reason": "The page lists local winter activities; it doesn't provide guidance or strategies to improve skills in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Things To Do in Wisconsin Dells Things To Do in Wisconsin Dells Wisconsin Dells has many activities to enjoy for the perfect Winter getaway. We offer a wide variety of attractions to keep your entire group entertained. There are a many ski hills, snow-tubing opportunities, and snowmobile trails surrounding the Dells area. Stay war",
+  "history": {
+    "url": "https://www.dells.com/activities/",
+    "title": "Things To Do in Wisconsin Dells",
+    "description": "Things To Do in Wisconsin Dells Wisconsin Dells has many activities to enjoy for the perfect Winter getaway. We offer a wide variety of attractions to keep your entire group entertained. There are a many ski hills, snow-tubing opportunities, and snowmobile trails surrounding the Dells area. Stay war",
+    "frecency": 3632,
+    "url_hash": 51341849118456,
+    "last_visit_date": 1758203929803228
+  }
+}

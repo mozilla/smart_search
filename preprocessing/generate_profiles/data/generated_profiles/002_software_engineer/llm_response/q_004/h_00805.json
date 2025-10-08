@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "What does a title company do? What does a title company do? It is our job to coordinate the interests of all parties to a real estate transaction, including the buyers, sellers, mortgage lender and real estate agents. We make sure that all requirements for settlement are fully satisfied. After the Sales Contract is ratified, it",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses title companies and real estate, not Docker setup; unrelated to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "What does a title company do? What does a title company do? It is our job to coordinate the interests of all parties to a real estate transaction, including the buyers, sellers, mortgage lender and real estate agents. We make sure that all requirements for settlement are fully satisfied. After the Sales Contract is ratified, it",
+  "history": {
+    "url": "http://rsititle.com/real-estate-agent-resources/resource.html?resource_id=25",
+    "title": "What does a title company do?",
+    "description": "What does a title company do? It is our job to coordinate the interests of all parties to a real estate transaction, including the buyers, sellers, mortgage lender and real estate agents. We make sure that all requirements for settlement are fully satisfied. After the Sales Contract is ratified, it ",
+    "frecency": 3539,
+    "url_hash": 67747876799509,
+    "last_visit_date": 1758203928634111
+  }
+}

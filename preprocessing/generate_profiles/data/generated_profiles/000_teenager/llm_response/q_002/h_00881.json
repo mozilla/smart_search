@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Regional Weather & Seasons With an average of 174 inches of beautiful powder in the winter and pleasantly warm and sunny days in the summer, Mc Call weather makes this the perfect outdoor recreation destination year round. Overview Mc Call ID weather is great for the outdoor enthusiast. Late spring through early fall brings p",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses weather and outdoor recreation in McCall, Idaho, not easy DIY room decoration ideas; it is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Regional Weather & Seasons With an average of 174 inches of beautiful powder in the winter and pleasantly warm and sunny days in the summer, Mc Call weather makes this the perfect outdoor recreation destination year round. Overview Mc Call ID weather is great for the outdoor enthusiast. Late spring through early fall brings p",
+  "history": {
+    "url": "https://www.allmccall.com/weather/",
+    "title": "Regional Weather & Seasons",
+    "description": "With an average of 174 inches of beautiful powder in the winter and pleasantly warm and sunny days in the summer, Mc Call weather makes this the perfect outdoor recreation destination year round. Overview Mc Call ID weather is great for the outdoor enthusiast. Late spring through early fall brings p",
+    "frecency": 1120,
+    "url_hash": 73801861913549,
+    "last_visit_date": 1758203927427139
+  }
+}

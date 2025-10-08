@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "How do geodatabases use Oracle Spatial? How do geodatabases use Oracle Spatial? Geodata \u00bb Administering geodatabases \u00bb Geodatabases in Oracle \u00bb Inside a geodatabase in Oracle Arc GIS supports Oracle Spatial or Oracle Locator for storing and managing geometry in a geodatabase in Oracle. To use it in a geodatabase, you must have SDO_GEOMET",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Oracle Spatial geodatabases, unrelated to IDEs or software development environments, thus not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "How do geodatabases use Oracle Spatial? \"How do geodatabases use Oracle Spatial? Geodata \u00bb Administering geodatabases \u00bb Geodatabases in Oracle \u00bb Inside a geodatabase in Oracle Arc GIS supports Oracle Spatial or Oracle Locator for storing and managing geometry in a geodatabase in Oracle. To use it in a geodatabase, you must have SDO_GEOMET",
+  "history": {
+    "url": "http://resources.arcgis.com/en/help/main/10.1/002n/002n0000006s000000.htm",
+    "title": "How do geodatabases use Oracle Spatial?",
+    "description": "\"How do geodatabases use Oracle Spatial? Geodata \u00bb Administering geodatabases \u00bb Geodatabases in Oracle \u00bb Inside a geodatabase in Oracle Arc GIS supports Oracle Spatial or Oracle Locator for storing and managing geometry in a geodatabase in Oracle. To use it in a geodatabase, you must have SDO_GEOMET",
+    "frecency": 2999,
+    "url_hash": 95221372691339,
+    "last_visit_date": 1758203927358111
+  }
+}

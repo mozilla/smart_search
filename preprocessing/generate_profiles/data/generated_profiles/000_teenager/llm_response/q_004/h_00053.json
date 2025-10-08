@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Did Ringo Starr say Paul McCartney died in 1966? \"Chantal de Paus, Lifelong Beatles fan and avid researcher of Beatles facts/trivia. Answered Dec 3, 2016 \u00b7 Author has 348 answers and 812.5k answer views No, he didn't. The article people will mention as Ringo's confession is actually fake. It was published on a satirical website akin to the Onion.\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Beatles trivia, not about improving athletic performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Did Ringo Starr say Paul McCartney died in 1966? \"Chantal de Paus, Lifelong Beatles fan and avid researcher of Beatles facts/trivia. Answered Dec 3, 2016 \u00b7 Author has 348 answers and 812.5k answer views No, he didn't. The article people will mention as Ringo's confession is actually fake. It was published on a satirical website akin to the Onion.",
+  "history": {
+    "url": "https://www.quora.com/Did-Ringo-Starr-say-Paul-McCartney-died-in-1966",
+    "title": "Did Ringo Starr say Paul McCartney died in 1966?",
+    "description": "\"Chantal de Paus, Lifelong Beatles fan and avid researcher of Beatles facts/trivia. Answered Dec 3, 2016 \u00b7 Author has 348 answers and 812.5k answer views No, he didn't. The article people will mention as Ringo's confession is actually fake. It was published on a satirical website akin to the Onion. ",
+    "frecency": 4785,
+    "url_hash": 49741068912876,
+    "last_visit_date": 1758203928679139
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Oliver! (film) \\\"From Wikipedia, the free encyclopedia navigation search Oliver!Theatrical release poster by Howard Terpning Directed by Carol Reed Produced by John Woolf Screenplay by Vernon Harris Based on Oliver! by Lionel Bart Oliver Twist by Charles Dickens Starring Ron Moody Oliver Reed Harry Secombe Shani Wal\\\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about the film Oliver! and not related to starting a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Oliver!  (film) \"From Wikipedia, the free encyclopedianavigation search Oliver!Theatrical release poster by Howard Terpning Directed by Carol Reed Produced by John Woolf Screenplay by Vernon Harris Based on Oliver! by Lionel Bart Oliver Twist by Charles Dickens Starring Ron Moody Oliver Reed Harry Secombe Shani Wal",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Oliver!_(film)",
+    "title": "Oliver!  (film)",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search Oliver!Theatrical release poster by Howard Terpning Directed by Carol Reed Produced by John Woolf Screenplay by Vernon Harris Based on Oliver! by Lionel Bart Oliver Twist by Charles Dickens Starring Ron Moody Oliver Reed Harry Secombe Shani Wal",
+    "frecency": 2132,
+    "url_hash": 934513568997,
+    "last_visit_date": 1758203927315139
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Jobs for Teens at sweetFrog Jobs for Teens at sweet Frog Jobs for teenagers at sweet Frog, a frozen yogurt retail. Minimum age to work is 16 years old. Learn more about sweet Frog?sweet Frog was founded by Derek Cha, a Korean immigrant, in Richmond, Virginia,",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses teen employment at Sweet Frog and company history, not related to database query optimization. It is not relevant to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Jobs for Teens at sweetFrog Jobs for Teens at sweet Frog Jobs for teenagers at sweet Frog, a frozen yogurt retail. Minimum age to work is 16 years old. Learn more about sweet Frog job perks and drawbacks. What facts should you know about sweet Frog?sweet Frog was founded by Derek Cha, a Korean immigrant, in Richmond, Virginia,",
+  "history": {
+    "url": "http://www.hireteen.com/retail-stores/sweetfrog/",
+    "title": "Jobs for Teens at sweetFrog",
+    "description": "Jobs for Teens at sweet Frog Jobs for teenagers at sweet Frog, a frozen yogurt retail. Minimum age to work is 16 years old. Learn more about sweet Frog job perks and drawbacks. What facts should you know about sweet Frog?sweet Frog was founded by Derek Cha, a Korean immigrant, in Richmond, Virginia,",
+    "frecency": 285,
+    "url_hash": 94250805115654,
+    "last_visit_date": 1758203927678111
+  }
+}

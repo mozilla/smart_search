@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "James Stewart, the Hesitant Hero, Dies at 89 July 3, 1997OBITUARYJames Stewart, the Hesitant Hero, Dies at 89By THE NEW YORK TIMESJames Stewart, whose movie portrayals of decent, idealistic and naive small-town Americans made him a beloved national icon, died yesterday at his home in Beverly Hills, Calif. He was 89. He died from a blood clot i",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is an obituary about James Stewart, unrelated to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "James Stewart, the Hesitant Hero, Dies at 89 July 3, 1997OBITUARYJames Stewart, the Hesitant Hero, Dies at 89By THE NEW YORK TIMESJames Stewart, whose movie portrayals of decent, idealistic and naive small-town Americans made him a beloved national icon, died yesterday at his home in Beverly Hills, Calif. He was 89. He died from a blood clot i",
+  "history": {
+    "url": "http://www.nytimes.com/learning/general/onthisday/bday/0520.html",
+    "title": "James Stewart, the Hesitant Hero, Dies at 89",
+    "description": "July 3, 1997OBITUARYJames Stewart, the Hesitant Hero, Dies at 89By THE NEW YORK TIMESJames Stewart, whose movie portrayals of decent, idealistic and naive small-town Americans made him a beloved national icon, died yesterday at his home in Beverly Hills, Calif. He was 89. He died from a blood clot i",
+    "frecency": 2465,
+    "url_hash": 91450339769482,
+    "last_visit_date": 1758203929631228
+  }
+}

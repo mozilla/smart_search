@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Pete Rose Biography Pete Rose Biography Baseball Player Pete Rose is one of the greatest professional baseball players in the history of the game \u2014 and also one of the most controversial. Rose began playing professionally for the Cincinnati Reds in 1963, where he quickly earned the nickname \u201cCharlie Hustle\u201d for his wor",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a Pete Rose biography and has no connection to Docker or beginner setup; not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Pete Rose Biography Pete Rose Biography Baseball Player Pete Rose is one of the greatest professional baseball players in the history of the game \u2014 and also one of the most controversial. Rose began playing professionally for the Cincinnati Reds in 1963, where he quickly earned the nickname \u201cCharlie Hustle\u201d for his wor",
+  "history": {
+    "url": "http://www.who2.com/bio/pete-rose/",
+    "title": "Pete Rose Biography",
+    "description": "Pete Rose Biography Baseball Player Pete Rose is one of the greatest professional baseball players in the history of the game \u2014 and also one of the most controversial. Rose began playing professionally for the Cincinnati Reds in 1963, where he quickly earned the nickname \u201cCharlie Hustle\u201d for his wor",
+    "frecency": 3619,
+    "url_hash": 13228926450264,
+    "last_visit_date": 1758203928074111
+  }
+}

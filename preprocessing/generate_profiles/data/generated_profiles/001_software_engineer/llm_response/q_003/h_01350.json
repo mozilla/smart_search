@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Chicago World's Fair: Invention Exposition Engineer George W. Ferris submitted several different designs to the designers ( 25 ). After turning down Ferris three times, the designers finallyaccepted his idea of a great wheel. Ferris' first three plans were rejected because they believed such an elaborate and complex wheel would create many d",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses the Chicago World's Fair and the Ferris wheel, not database queries or optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Chicago World\u00e2s Fair: Invention Exposition Engineer George W. Ferris submitted several different designs to the designers ( 25 ). After turning down Ferris three times, the designers finallyaccepted his idea of a great wheel. Ferris' first three plans were rejected because they believed such an elaborate and complex wheel would create many d",
+  "history": {
+    "url": "http://www.umich.edu/~eng217/student_projects/Chicago%20Inventions/ferriswheel.html",
+    "title": "Chicago World\u00e2s Fair: Invention Exposition",
+    "description": "Engineer George W. Ferris submitted several different designs to the designers ( 25 ). After turning down Ferris three times, the designers finallyaccepted his idea of a great wheel. Ferris' first three plans were rejected because they believed such an elaborate and complex wheel would create many d",
+    "frecency": 229,
+    "url_hash": 31889504630817,
+    "last_visit_date": 1758203926980200
+  }
+}

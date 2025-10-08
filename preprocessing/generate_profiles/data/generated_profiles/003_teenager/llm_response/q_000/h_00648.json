@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Harmonic Content \"Vibrato/Tremolo The primary contributers to the quality or timbre of the sound of a musical instrument are harmonic content, attack and decay, and vibrato/tremolo. The ordinary definition of vibrato is \"periodic changes in the pitch of the tone\", and the term tremolo is used to indicate periodic",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page discusses musical vibrato and harmonic content, not related to starting a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Harmonic Content \"Vibrato/Tremolo The primary contributers to the quality or timbre of the sound of a musical instrument are harmonic content, attack and decay, and vibrato/tremolo. The ordinary definition of vibrato is \"\"periodic changes in the pitch of the tone\"\", and the term tremolo is used to indicate periodic",
+  "history": {
+    "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/Sound/timbre.html",
+    "title": "Harmonic Content",
+    "description": "\"Vibrato/Tremolo The primary contributers to the quality or timbre of the sound of a musical instrument are harmonic content, attack and decay, and vibrato/tremolo. The ordinary definition of vibrato is \"\"periodic changes in the pitch of the tone\"\", and the term tremolo is used to indicate periodic ",
+    "frecency": 4318,
+    "url_hash": 72608848751421,
+    "last_visit_date": 1758203930235228
+  }
+}

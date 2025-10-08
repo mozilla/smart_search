@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "What are Spats? Spats are a type of covering for the tops of shoes, which may be worn for ornamental or decorative purpose, or can be worn to promote safety while performing certain jobs. This shoe accessory became popular in the 19th century in men\u2019s formal dress. The typical pair of spats have a loop that fits un",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses spats (shoe accessories) and is unrelated to debugging API integration; it does not mention APIs, debugging, or integration topics.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "What are Spats? Spats are a type of covering for the tops of shoes, which may be worn for ornamental or decorative purpose, or can be worn to promote safety while performing certain jobs. This shoe accessory became popular in the 19th century in men\u2019s formal dress. The typical pair of spats have a loop that fits un",
+  "history": {
+    "url": "http://www.wisegeek.com/what-are-spats.htm",
+    "title": "What are Spats?",
+    "description": "Spats are a type of covering for the tops of shoes, which may be worn for ornamental or decorative purpose, or can be worn to promote safety while performing certain jobs. This shoe accessory became popular in the 19th century in men\u2019s formal dress. The typical pair of spats have a loop that fits un",
+    "frecency": 3469,
+    "url_hash": 11228737597411,
+    "last_visit_date": 1758203930308111
+  }
+}

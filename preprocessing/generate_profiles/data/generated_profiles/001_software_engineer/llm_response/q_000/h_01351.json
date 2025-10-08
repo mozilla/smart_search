@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "What is the limit of BigInteger in C#? \\\"What is the limit of Big Integer in C#? Archived Forums V > Visual C# Language Question0Sign in to vote I noticed that in c# Big Integer well wasn't really Big Integer. I checked it with the following code and found it quickly reached it's limit.using System; using System. Collections. Generic; usi",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses the limit of BigInteger in C#, which is unrelated to debugging or API integration; therefore it is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "What is the limit of BigInteger in C#? \"What is the limit of Big Integer in C#? Archived Forums V > Visual C# Language Question0Sign in to vote I noticed that in c# Big Integer well wasn't really Big Integer. I checked it with the following code and found it quickly reached it's limit.using System; using System. Collections. Generic; usi",
+  "history": {
+    "url": "https://social.msdn.microsoft.com/Forums/en-US/d781f9d7-09b1-4415-a566-064053638e80/what-is-the-limit-of-biginteger-in-c?forum=csharplanguage",
+    "title": "What is the limit of BigInteger in C#?",
+    "description": "\"What is the limit of Big Integer in C#? Archived Forums V > Visual C# Language Question0Sign in to vote I noticed that in c# Big Integer well wasn't really Big Integer. I checked it with the following code and found it quickly reached it's limit.using System; using System. Collections. Generic; usi",
+    "frecency": 228,
+    "url_hash": 58670629199164,
+    "last_visit_date": 1758203929242200
+  }
+}

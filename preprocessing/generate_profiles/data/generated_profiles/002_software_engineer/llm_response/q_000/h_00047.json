@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "What is considered a long distance phone call? \\\"Consumer Electronics Land Phones What is considered a long distance phone call? I want to make and receive phone calls from a friend of mine who moved to the other side of the country. Is a phone call from CA to NJ considered long distance? Or does long distance mean \\\"\\\"out of the country\\\"\\\" calls? U",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses long distance phone calls, not API integration debugging; not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "What is considered a long distance phone call? \"Consumer Electronics Land Phones What is considered a long distance phone call? I want to make and receive phone calls from a friend of mine who moved to the other side of the country. Is a phone call from CA to NJ considered long distance? Or does long distance mean \"\"out of the country\"\" calls? U",
+  "history": {
+    "url": "https://answers.yahoo.com/question/index?qid=20090624104743AAO5Hxs",
+    "title": "What is considered a long distance phone call?",
+    "description": "\"Consumer Electronics Land Phones What is considered a long distance phone call? I want to make and receive phone calls from a friend of mine who moved to the other side of the country. Is a phone call from CA to NJ considered long distance? Or does long distance mean \"\"out of the country\"\" calls? U",
+    "frecency": 4920,
+    "url_hash": 59095869573644,
+    "last_visit_date": 1758203930724111
+  }
+}

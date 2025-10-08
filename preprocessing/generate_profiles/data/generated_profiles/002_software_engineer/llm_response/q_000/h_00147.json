@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Defining Modules \\\"This tutorial is for Dojo 1.8 and may be out of date. Up to date tutorials are available. Defining Modules Dojo now supports modules written in the Asynchronous Module Definition (AMD) format, which makes code easier to author and debug. In this tutorial, we learn all about this new module format,",
+  "relevance_score": 0.15,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Dojo AMD module definitions and general debugging in that context, not specifically about debugging API integrations.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Defining Modules \"This tutorial is for Dojo 1.8 and may be out of date. Up to date tutorials are available. Defining Modules Dojo now supports modules written in the Asynchronous Module Definition (AMD) format, which makes code easier to author and debug. In this tutorial, we learn all about this new module format,",
+  "history": {
+    "url": "http://dojotoolkit.org/documentation/tutorials/1.8/modules/",
+    "title": "Defining Modules",
+    "description": "\"This tutorial is for Dojo 1.8 and may be out of date. Up to date tutorials are available. Defining Modules Dojo now supports modules written in the Asynchronous Module Definition (AMD) format, which makes code easier to author and debug. In this tutorial, we learn all about this new module format, ",
+    "frecency": 4751,
+    "url_hash": 89793412307351,
+    "last_visit_date": 1758203932140111
+  }
+}

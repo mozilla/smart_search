@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "10 Status Code Definitions \\\"part of Hypertext Transfer Protocol -- HTTP/1.1 RFC 2616 Fielding, et al.10 Status Code Definitions Each Status-Code is described below, including a description of which method (s) it can follow and any metainformation required in the response.10.1 Informational 1xx This class of status code indica",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses HTTP status codes, not Docker setup for beginners; it is not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "10 Status Code Definitions \"part of Hypertext Transfer Protocol -- HTTP/1.1 RFC 2616 Fielding, et al.10 Status Code Definitions Each Status-Code is described below, including a description of which method (s) it can follow and any metainformation required in the response.10.1 Informational 1xx This class of status code indica",
+  "history": {
+    "url": "http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html",
+    "title": "10 Status Code Definitions",
+    "description": "\"part of Hypertext Transfer Protocol -- HTTP/1.1 RFC 2616 Fielding, et al.10 Status Code Definitions Each Status-Code is described below, including a description of which method (s) it can follow and any metainformation required in the response.10.1 Informational 1xx This class of status code indica",
+    "frecency": 1476,
+    "url_hash": 83290308398604,
+    "last_visit_date": 1758203928844111
+  }
+}

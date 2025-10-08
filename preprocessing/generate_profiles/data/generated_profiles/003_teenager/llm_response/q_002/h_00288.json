@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Packer Salaries Packer Salaries About This Data1,793 Salaries Updated Apr 6, 2018All Industries Architecture & Civil Engineering Arts & Entertainment Automotive Banking & Financial Services Beauty & Fitness Biotech & Pharmaceuticals Business Services Computer Software & Hardwa",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "Retrieved result is unrelated to DIY room decoration ideas; page appears to list salaries across industries, not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Packer Salaries Packer Salaries About This Data1,793 Salaries Updated Apr 6, 2018All Industries Accounting & Legal Aerospace & Defense Architecture & Civil Engineering Arts & Entertainment Automotive Banking & Financial Services Beauty & Fitness Biotech & Pharmaceuticals Business Services Computer Software & Hardwa",
+  "history": {
+    "url": "https://www.glassdoor.com/Salaries/packer-salary-SRCH_KO0,6.htm",
+    "title": "Packer Salaries",
+    "description": "Packer Salaries About This Data1,793 Salaries Updated Apr 6, 2018All Industries Accounting & Legal Aerospace & Defense Architecture & Civil Engineering Arts & Entertainment Automotive Banking & Financial Services Beauty & Fitness Biotech & Pharmaceuticals Business Services Computer Software & Hardwa",
+    "frecency": 4709,
+    "url_hash": 66837678074653,
+    "last_visit_date": 1758203928668735
+  }
+}

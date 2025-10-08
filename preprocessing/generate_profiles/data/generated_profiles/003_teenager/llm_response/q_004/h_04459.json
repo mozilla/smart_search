@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "\u00e2Every seat was a good seat!\u00e2Review of New Amsterdam Theater \\\"Reviewed February 14, 2012Every seat was a good seat!My wife and I just went to see Mary Poppin's for Valentines weekend. We both had a really good time. ... Let me start by saying that we both love Disney but are not \\\"Play People\\\". We had gone to see Beauty and the Best a while back and had",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The result is a theater review about going to Mary Poppins, not related to improving at sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "\u00e2Every seat was a good seat!\u00e2Review of New Amsterdam Theater \"Reviewed February 14, 2012Every seat was a good seat!My wife and I just went to see Mary Poppin's for Valentines weekend. We both had a really good time. ... Let me start by saying that we both love Disney but are not \"\"Play People\"\". We had gone to see Beauty and the Best a while back and had a gr",
+  "history": {
+    "url": "https://www.tripadvisor.com/ShowUserReviews-g60763-d548694-r124603943-New_Amsterdam_Theater-New_York_City_New_York.html",
+    "title": "\u00e2Every seat was a good seat!\u00e2Review of New Amsterdam Theater",
+    "description": "\"Reviewed February 14, 2012Every seat was a good seat!My wife and I just went to see Mary Poppin's for Valentines weekend. We both had a really good time. ... Let me start by saying that we both love Disney but are not \"\"Play People\"\". We had gone to see Beauty and the Best a while back and had a gr",
+    "frecency": 377,
+    "url_hash": 27651381639063,
+    "last_visit_date": 1758203932125228
+  }
+}

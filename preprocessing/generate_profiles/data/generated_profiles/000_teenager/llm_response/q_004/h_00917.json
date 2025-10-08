@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Chip Taylor \"Chip Taylor From Wikipedia, the free encyclopedianavigation search Chip Taylor Taylor performing in New York City, 2012Background information Birth name James Wesley Voight Born March 21, 1940 (age 78)Origin Yonkers, New York, U. S. Genres Country pop music Occupation (s) Singer-songwriter, songwri",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Chip Taylor, a musician; it is not related to improving at sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Chip Taylor \"Chip Taylor From Wikipedia, the free encyclopedianavigation search Chip Taylor Taylor performing in New York City, 2012Background information Birth name James Wesley Voight Born March 21, 1940 (age 78)Origin Yonkers, New York, U. S. Genres Country pop music Occupation (s) Singer-songwriter, songwri",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Chip_Taylor",
+    "title": "Chip Taylor",
+    "description": "\"Chip Taylor From Wikipedia, the free encyclopedianavigation search Chip Taylor Taylor performing in New York City, 2012Background information Birth name James Wesley Voight Born March 21, 1940 (age 78)Origin Yonkers, New York, U. S. Genres Country pop music Occupation (s) Singer-songwriter, songwri",
+    "frecency": 942,
+    "url_hash": 42176189679406,
+    "last_visit_date": 1758203927289139
+  }
+}

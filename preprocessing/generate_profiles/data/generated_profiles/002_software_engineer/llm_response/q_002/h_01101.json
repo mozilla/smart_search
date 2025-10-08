@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Q: Can't install steam, locked \"\"Offline Mode\"\"\" \"CO Connor Dominik asked on February 24, 2013Q: Can't install Steam onto my computer in Offline mode because it requires me to be in Online mode. However, I cannot access Steam to turn it to Online mode, because Steam is not installed. This constant loop",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Steam offline mode, not about top IDEs for software development; topic mismatch.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "\"Q: Can't install steam, locked \"\"Offline Mode\"\"\" \"CO Connor Dominik asked on February 24, 2013Q: Can't install steam, locked \"\"Offline Mode\"\"I can't install Steam onto my computer in Offline mode because it requires me to be in Online mode. However, I cannot access Steam to turn it to Online mode, because Steam is not installed. This constant loop",
+  "history": {
+    "url": "http://answers.microsoft.com/en-us/windows/forum/windows_7-gaming/cant-install-steam-locked-offline-mode/d7cd3cbd-2d8e-4158-b925-1bebc92b7878",
+    "title": "\"Q: Can't install steam, locked \"\"Offline Mode\"\"\"",
+    "description": "\"CO Connor Dominik asked on February 24, 2013Q: Can't install steam, locked \"\"Offline Mode\"\"I can't install Steam onto my computer in Offline mode because it requires me to be in Online mode. However, I cannot access Steam to turn it to Online mode, because Steam is not installed. This constant loop",
+    "frecency": 3042,
+    "url_hash": 42132804871993,
+    "last_visit_date": 1758203930044111
+  }
+}

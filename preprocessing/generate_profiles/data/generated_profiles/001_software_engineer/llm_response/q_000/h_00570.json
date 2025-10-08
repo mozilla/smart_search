@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Michaels Application Michaels Application Michaels Job Application Online Michaels is an arts and crafts store with locations all over North America including Canada. It was set up in 1976 by Michael J. Dupey in Dallas, Texas. The company went public in 1984 and at present is headquartered in Irving, Texas. As a growing",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses a crafts store's job application and company information, not about debugging API integrations.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Michaels Application Michaels Application Michaels Job Application Online Michaels is an arts and crafts store with locations all over North America including Canada. It was set up in 1976 by Michael J. Dupey in Dallas, Texas. The company went public in 1984 and at present is headquartered in Irving, Texas. As a growing",
+  "history": {
+    "url": "http://onlinejobapplication.org/michaels-application/",
+    "title": "Michaels Application",
+    "description": "Michaels Application Michaels Job Application Online Michaels is an arts and crafts store with locations all over North America including Canada. It was set up in 1976 by Michael J. Dupey in Dallas, Texas. The company went public in 1984 and at present is headquartered in Irving, Texas. As a growing",
+    "frecency": 3064,
+    "url_hash": 69290682036179,
+    "last_visit_date": 1758203927388200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Why is solar power still a pay up-front system? \\\"NEXTThe owner of a solar energy company installs panels for a hot water system in Oregon. Melanie Conner/ Getty Images Just about everyone wants to reduce his or her carbon footprint. Yet we've also grown attached to our computers, hot tubs and big-screen TVs, all of which require a lot of energy.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved_result discusses solar power and energy topics, not API integration debugging; not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Why is solar power still a pay up-front system? \"NEXTThe owner of a solar energy company installs panels for a hot water system in Oregon. Melanie Conner/ Getty Images Just about everyone wants to reduce his or her carbon footprint. Yet we've also grown attached to our computers, hot tubs and big-screen TVs, all of which require a lot of energy.",
+  "history": {
+    "url": "http://science.howstuffworks.com/environmental/green-science/solar-power-pay-upfront.htm",
+    "title": "Why is solar power still a pay up-front system?",
+    "description": "\"NEXTThe owner of a solar energy company installs panels for a hot water system in Oregon. Melanie Conner/ Getty Images Just about everyone wants to reduce his or her carbon footprint. Yet we've also grown attached to our computers, hot tubs and big-screen TVs, all of which require a lot of energy. ",
+    "frecency": 1085,
+    "url_hash": 63107326363005,
+    "last_visit_date": 1758203929424111
+  }
+}

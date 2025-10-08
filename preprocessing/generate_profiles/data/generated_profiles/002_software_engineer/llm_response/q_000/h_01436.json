@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Landmark Group \\\"Landmark Group Overview Website www.landmarkgroup.com Headquarters Dubai (United Arab Emirates) Size 10000+ employees Founded 1973 Type Company - Private Industry Department, Clothing, & Shoe Stores Revenue Unknown / Non-Applicable Competitors Unknown Landmark Group is one of the one of the largest",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a corporate overview of Landmark Group and does not mention API integration or debugging, hence not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Landmark Group \"Landmark Group Overview Website www.landmarkgroup.com Headquarters Dubai (United Arab Emirates) Size 10000+ employees Founded 1973 Type Company - Private Industry Department, Clothing, & Shoe Stores Revenue Unknown / Non-Applicable Competitors Unknown Landmark Group is one of the one of the largest",
+  "history": {
+    "url": "https://www.glassdoor.com/Overview/Working-at-Landmark-Group-EI_IE342832.11,25.htm",
+    "title": "Landmark Group",
+    "description": "\"Landmark Group Overview Website www.landmarkgroup.com Headquarters Dubai (United Arab Emirates) Size 10000+ employees Founded 1973 Type Company - Private Industry Department, Clothing, & Shoe Stores Revenue Unknown / Non-Applicable Competitors Unknown Landmark Group is one of the one of the largest",
+    "frecency": 2398,
+    "url_hash": 66113775141117,
+    "last_visit_date": 1758203931192111
+  }
+}

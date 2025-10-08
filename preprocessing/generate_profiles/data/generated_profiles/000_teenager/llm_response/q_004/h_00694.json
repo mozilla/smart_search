@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Fat and fatter: the world's 10 fattest countries 2010 CHICAGO \u2014 Every continent except for Antarctica is represented on Global Post's list of the world's top 25 fattest countries, according to 2010 World Health Organization statistics. The causes are simple yet infuriatingly difficult to reverse \u2014 humans are eating more and moving less. Global trends t",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses obesity and fattest countries, not content about improving sports performance or methods to get better at sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Fat and fatter: the world's 10 fattest countries 2010 CHICAGO \u2014 Every continent except for Antarctica is represented on Global Post's list of the world's top 25 fattest countries, according to 2010 World Health Organization statistics. The causes are simple yet infuriatingly difficult to reverse \u2014 humans are eating more and moving less. Global trends t",
+  "history": {
+    "url": "http://www.globalpost.com/dispatch/health/101118/fat-and-fatter-worlds-10-fattest-countries",
+    "title": "Fat and fatter: the world's 10 fattest countries 2010",
+    "description": "CHICAGO \u2014 Every continent except for Antarctica is represented on Global Post's list of the world's top 25 fattest countries, according to 2010 World Health Organization statistics. The causes are simple yet infuriatingly difficult to reverse \u2014 humans are eating more and moving less. Global trends t",
+    "frecency": 2020,
+    "url_hash": 45111652538706,
+    "last_visit_date": 1758203927611139
+  }
+}

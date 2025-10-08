@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Using the Focus Group in Market Research In a hotel in the centre of London, a group of IT managers are discussing the type of information they need from a supplier of application serving software. They are all involved in the technical side of management and have the requirement for technical information to help them to keep their systems",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses market research focus groups and IT management, with no reference to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Using the Focus Group in Market Research In a hotel in the centre of London, a group of IT managers are discussing the type of information they need from a supplier of application serving software. They are all involved in the technical side of management and have the requirement for technical information to help them to keep their systems",
+  "history": {
+    "url": "https://www.b2binternational.com/publications/market-research-focus-group/",
+    "title": "Using the Focus Group in Market Research",
+    "description": "In a hotel in the centre of London, a group of IT managers are discussing the type of information they need from a supplier of application serving software. They are all involved in the technical side of management and have the requirement for technical information to help them to keep their systems",
+    "frecency": 235,
+    "url_hash": 45662475421062,
+    "last_visit_date": 1758203931512111
+  }
+}

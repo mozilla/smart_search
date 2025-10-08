@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Application Requirements for International Applicants \"Application Requirements for International Applicants Main Navigation Home Prospective Graduate Students Application for Admission Requirements for US Citizens and Permanent Residents Requirements for International Applicants Required Academic Records Financial Verification and Visa Procedures Engl\"",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes application requirements for international applicants, unrelated to Docker setup or beginner Docker guidance.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Application Requirements for International Applicants \"Application Requirements for International Applicants Main Navigation Home Prospective Graduate Students Application for Admission Requirements for US Citizens and Permanent Residents Requirements for International Applicants Required Academic Records Financial Verification and Visa Procedures Engl",
+  "history": {
+    "url": "http://graduate.ucr.edu/international.html",
+    "title": "Application Requirements for International Applicants",
+    "description": "\"Application Requirements for International Applicants Main Navigation Home Prospective Graduate Students Application for Admission Requirements for US Citizens and Permanent Residents Requirements for International Applicants Required Academic Records Financial Verification and Visa Procedures Engl",
+    "frecency": 1372,
+    "url_hash": 47826013830848,
+    "last_visit_date": 1758203932306111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Re-News \"Re-News Reversing your liver damageon on on on on\u00a9Our liver is a sensitive organ. Here's how to take care of it. By Steve Diogo Substance abuse takes a toll on the body as well as the mind and spirit. As the organ tasked with stripping toxins from the blood, the liver of a heavy drinker or drug use",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses liver health and substance abuse, not sports performance or training, hence not relevant to 'how to get better at sports'.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Re-News \"Re-News Reversing your liver damageon on on on on\u00a9Our liver is a sensitive organ. Here's how to take care of it. By Steve Diogo Substance abuse takes a toll on the body as well as the mind and spirit. As the organ tasked with stripping toxins from the blood, the liver of a heavy drinker or drug use",
+  "history": {
+    "url": "http://www.reneweveryday.com/reversing-your-liver-damage/",
+    "title": "Re-News",
+    "description": "\"Re-News Reversing your liver damageon on on on on\u00a9Our liver is a sensitive organ. Here's how to take care of it. By Steve Diogo Substance abuse takes a toll on the body as well as the mind and spirit. As the organ tasked with stripping toxins from the blood, the liver of a heavy drinker or drug use",
+    "frecency": 3603,
+    "url_hash": 15134946933970,
+    "last_visit_date": 1758203932745228
+  }
+}

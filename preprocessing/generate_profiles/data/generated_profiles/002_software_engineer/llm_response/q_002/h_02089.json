@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Giovanni Ribisi \"Top 5000Giovanni Ribisi Actor | Producer | Soundtrack Antonino Giovanni Ribisi is an American actor who was born in Los Angeles, California. His parents both have careers in the entertainment industry. His mother, Gay Ribisi (n\u00e9e Landrum), is a talent manager for actors and writers, and his father,",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns actor Giovanni Ribisi and is unrelated to software development IDEs.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Giovanni Ribisi \"Top 5000Giovanni Ribisi Actor | Producer | Soundtrack Antonino Giovanni Ribisi is an American actor who was born in Los Angeles, California. His parents both have careers in the entertainment industry. His mother, Gay Ribisi (n\u00e9e Landrum), is a talent manager for actors and writers, and his father,",
+  "history": {
+    "url": "http://www.imdb.com/name/nm0000610/",
+    "title": "Giovanni Ribisi",
+    "description": "\"Top 5000Giovanni Ribisi Actor | Producer | Soundtrack Antonino Giovanni Ribisi is an American actor who was born in Los Angeles, California. His parents both have careers in the entertainment industry. His mother, Gay Ribisi (n\u00e9e Landrum), is a talent manager for actors and writers, and his father,",
+    "frecency": 1215,
+    "url_hash": 52181792829331,
+    "last_visit_date": 1758203928706111
+  }
+}

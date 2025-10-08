@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "COUNSELLING SKILLS and the COMMITMENT LEVEL MODEL \\\"COUNSELLING SKILLS and the COMMITMENT LEVEL MODELYouth pastors may know the basics of youth ministry - they may understand contemporary society and youth culture; understand the development of children, teenagers and young adults; have a good philosophy that includes programming at each commitment\\\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses counselling skills and youth ministry, not topics related to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "COUNSELLING SKILLS and the COMMITMENT LEVEL MODEL \"COUNSELLING SKILLS and the COMMITMENT LEVEL MODELYouth pastors may know the basics of youth ministry - they may understand contemporary society and youth culture; understand the development of children, teenagers and young adults; have a good philosophy that includes programming at each commitment",
+  "history": {
+    "url": "http://www.ymresourcer.com/model/counsel.htm",
+    "title": "COUNSELLING SKILLS and the COMMITMENT LEVEL MODEL",
+    "description": "\"COUNSELLING SKILLS and the COMMITMENT LEVEL MODELYouth pastors may know the basics of youth ministry - they may understand contemporary society and youth culture; understand the development of children, teenagers and young adults; have a good philosophy that includes programming at each commitment ",
+    "frecency": 4382,
+    "url_hash": 80182700153510,
+    "last_visit_date": 1758203933543228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Encyclopedia \"Encyclopedia Search Encyclopedia ABCDEFGHIJKLMNOPQRSTUVWXYZ0-9MISCDefinition of: programmable computerprogrammable computer A redundant term, because what makes a computer a computer is that it follows a set of instructions. Many electronic devices are computers that perform only one operation, but",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a general encyclopedia entry about programmable computers, not about Python libraries or machine learning. It does not discuss or imply relevance to the query about latest Python libraries for ML.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Encyclopedia \"Encyclopedia Search Encyclopedia ABCDEFGHIJKLMNOPQRSTUVWXYZ0-9MISCDefinition of: programmable computerprogrammable computer A redundant term, because what makes a computer a computer is that it follows a set of instructions. Many electronic devices are computers that perform only one operation, but",
+  "history": {
+    "url": "http://www.pcmag.com/encyclopedia/term/63683/programmable-computer",
+    "title": "Encyclopedia",
+    "description": "\"Encyclopedia Search Encyclopedia ABCDEFGHIJKLMNOPQRSTUVWXYZ0-9MISCDefinition of: programmable computerprogrammable computer A redundant term, because what makes a computer a computer is that it follows a set of instructions. Many electronic devices are computers that perform only one operation, but",
+    "frecency": 4338,
+    "url_hash": 62182047591751,
+    "last_visit_date": 1758203928278200
+  }
+}

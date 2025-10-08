@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "The Finger to Nose Test \"The finger to nose test is a common field sobriety test (FST) that some law enforcement officers administer in order to assess whether a DUI suspect is under the influence of alcohol and/or drugs. 1During the finger to nose test, the DUI suspect is required to: Bring the tip of the index finger up",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a field sobriety test and DUI procedures, which are unrelated to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "The Finger to Nose Test \"The finger to nose test is a common field sobriety test (FST) that some law enforcement officers administer in order to assess whether a DUI suspect is under the influence of alcohol and/or drugs. 1During the finger to nose test, the DUI suspect is required to: Bring the tip of the index finger up",
+  "history": {
+    "url": "https://www.shouselaw.com/finger_nose_test.html",
+    "title": "The Finger to Nose Test",
+    "description": "\"The finger to nose test is a common field sobriety test (FST) that some law enforcement officers administer in order to assess whether a DUI suspect is under the influence of alcohol and/or drugs. 1During the finger to nose test, the DUI suspect is required to: Bring the tip of the index finger up ",
+    "frecency": 2456,
+    "url_hash": 26714187491521,
+    "last_visit_date": 1758203930696111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Greifswald Long Traditions and Cultural Diversity \\\"Greifswald Long Traditions and Cultural Diversity Greifswald is a small city with a very homey atmosphere. Not only are you likely to meet your professors and fellows students at the university, but also at the market place, local pub and at the beach. The cultural activities make this quaint Hanse\\\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Greifswald culture, not software development or IDEs.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Greifswald Long Traditions and Cultural Diversity \"Greifswald Long Traditions and Cultural Diversity Greifswald is a small city with a very homey atmosphere. Not only are you likely to meet your professors and fellows students at the university, but also at the market place, local pub and at the beach. The cultural activities make this quaint Hanse",
+  "history": {
+    "url": "https://www.study-in.de/en/discover-germany/german-cities/greifswald_40548.php",
+    "title": "Greifswald Long Traditions and Cultural Diversity",
+    "description": "\"Greifswald Long Traditions and Cultural Diversity Greifswald is a small city with a very homey atmosphere. Not only are you likely to meet your professors and fellows students at the university, but also at the market place, local pub and at the beach. The cultural activities make this quaint Hanse",
+    "frecency": 3134,
+    "url_hash": 5996062404982,
+    "last_visit_date": 1758203931554111
+  }
+}

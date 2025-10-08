@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Intermatic TN111 Supplementary Manual Advertisement Advertisement",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a manual for an Intermatic TN111 device (likely a hardware timer), which is unrelated to API integration or debugging APIs.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Intermatic TN111 Supplementary Manual Advertisement Advertisement",
+  "history": {
+    "url": "https://www.manualslib.com/manual/283356/Intermatic-Tn111.html",
+    "title": "Intermatic TN111 Supplementary Manual",
+    "description": "Advertisement Advertisement ",
+    "frecency": 4717,
+    "url_hash": 9941176723098,
+    "last_visit_date": 1758203931458111
+  }
+}

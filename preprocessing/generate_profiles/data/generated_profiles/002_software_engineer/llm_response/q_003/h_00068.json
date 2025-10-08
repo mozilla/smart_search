@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "What the Triangle Shirtwaist fire means for workers now Mourners honor victims of New York's 1911 Triangle Shirtwaist Company fire at the Mount Richmond Cemetery in Staten Island on March 1. 22 of the fire's 146 casualties were buried in the cemetery. (David Karp/ASSOCIATED PRESS)By Hilda L. Solis March 18, 2011A century ago this week, in Lower Manhattan",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses the Triangle Shirtwaist fire and related memorials, not topics related to optimizing database queries.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "What the Triangle Shirtwaist fire means for workers now Mourners honor victims of New York's 1911 Triangle Shirtwaist Company fire at the Mount Richmond Cemetery in Staten Island on March 1. 22 of the fire's 146 casualties were buried in the cemetery. (David Karp/ASSOCIATED PRESS)By Hilda L. Solis March 18, 2011A century ago this week, in Lower Manhattan",
+  "history": {
+    "url": "https://www.washingtonpost.com/opinions/what-the-triangle-shirtwaist-fire-means-for-workers-now/2011/03/15/ABVAFIs_story.html",
+    "title": "What the Triangle Shirtwaist fire means for workers now",
+    "description": "Mourners honor victims of New York's 1911 Triangle Shirtwaist Company fire at the Mount Richmond Cemetery in Staten Island on March 1. 22 of the fire's 146 casualties were buried in the cemetery. (David Karp/ASSOCIATED PRESS)By Hilda L. Solis March 18, 2011A century ago this week, in Lower Manhattan",
+    "frecency": 4889,
+    "url_hash": 56694154137556,
+    "last_visit_date": 1758203928708111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "How to Rip Music from a CD to a Computer 1 Insert the CD into the CD-ROM drive of your computer.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about ripping music from a CD, not about TikTok trends, so it is not relevant to the query.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "How to Rip Music from a CD to a Computer 1 Insert the CD into the CD-ROM drive of your computer.",
+  "history": {
+    "url": "http://www.wikihow.com/Rip-Music-from-a-CD-to-a-Computer",
+    "title": "How to Rip Music from a CD to a Computer",
+    "description": "1 Insert the CD into the CD-ROM drive of your computer. ",
+    "frecency": 1749,
+    "url_hash": 23097504922232,
+    "last_visit_date": 1758203935583228
+  }
+}

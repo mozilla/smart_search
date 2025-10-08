@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Julie Gayet \\\"Julie Gayet From Wikipedia, the free encyclopedia (Redirected from Gayet)navigation search Julie Gayet Julie Gayet at the 2014 Cannes Film Festival Born 3 June 1972 (age 45) [1]Suresnes, Hauts-de-Seine, France Occupation Actress, film producer Spouse (s) Santiago Amigorena ( m. 2003; div. 2006) [2]",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about actress Julie Gayet, not related to Docker or beginner setup tutorials.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Julie Gayet \"Julie Gayet From Wikipedia, the free encyclopedia (Redirected from Gayet)navigation search Julie Gayet Julie Gayet at the 2014 Cannes Film Festival Born 3 June 1972 (age 45) [1]Suresnes, Hauts-de-Seine, France Occupation Actress, film producer Spouse (s) Santiago Amigorena ( m. 2003; div. 2006) [2]",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Gayet",
+    "title": "Julie Gayet",
+    "description": "\"Julie Gayet From Wikipedia, the free encyclopedia (Redirected from Gayet)navigation search Julie Gayet Julie Gayet at the 2014 Cannes Film Festival Born 3 June 1972 (age 45) [1]Suresnes, Hauts-de-Seine, France Occupation Actress, film producer Spouse (s) Santiago Amigorena ( m. 2003; div. 2006) [2]",
+    "frecency": 2557,
+    "url_hash": 95331212769543,
+    "last_visit_date": 1758203927148111
+  }
+}

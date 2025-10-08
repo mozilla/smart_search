@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Earworm \"From Wikipedia, the free encyclopedianavigation search For other uses, see Earworm (disambiguation). An earworm, sometimes known as a brainworm, [1] sticky music, stuck song syndrome, [2] or Involuntary Musical Imagery (INMI) [3] is a catchy piece of music that continually repeats through a person'",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses earworms (musical imagery) and is unrelated to easy DIY room decoration ideas; it does not pertain to the query topic.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Earworm \"From Wikipedia, the free encyclopedianavigation search For other uses, see Earworm (disambiguation). An earworm, sometimes known as a brainworm, [1] sticky music, stuck song syndrome, [2] or Involuntary Musical Imagery (INMI) [3] is a catchy piece of music that continually repeats through a person'",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Earworm",
+    "title": "Earworm",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search For other uses, see Earworm (disambiguation). An earworm, sometimes known as a brainworm, [1] sticky music, stuck song syndrome, [2] or Involuntary Musical Imagery (INMI) [3] is a catchy piece of music that continually repeats through a person'",
+    "frecency": 3188,
+    "url_hash": 97418504662609,
+    "last_visit_date": 1758203936113228
+  }
+}

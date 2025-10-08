@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Diskette drive 0 seek failure Diskette drive 0 seek failure Updated: 01/05/2018 by Computer Hope When starting up your computer, if you experience the Diskette drive 0 seek failure error, it is due to an issue with the computer booting from a floppy disk drive or bootable device. However, this doesn't necessarily mean there is a",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses diskette drive errors and boot issues unrelated to Docker or container setup for beginners. No mention of Docker, containers, or setup guidance.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Diskette drive 0 seek failure Diskette drive 0 seek failure Updated: 01/05/2018 by Computer Hope When starting up your computer, if you experience the Diskette drive 0 seek failure error, it is due to an issue with the computer booting from a floppy disk drive or bootable device. However, this doesn't necessarily mean there is a",
+  "history": {
+    "url": "http://www.computerhope.com/issues/ch001500.htm",
+    "title": "Diskette drive 0 seek failure",
+    "description": "Diskette drive 0 seek failure Updated: 01/05/2018 by Computer Hope When starting up your computer, if you experience the Diskette drive 0 seek failure error, it is due to an issue with the computer booting from a floppy disk drive or bootable device. However, this doesn't necessarily mean there is a",
+    "frecency": 970,
+    "url_hash": 14058487014007,
+    "last_visit_date": 1758203930140111
+  }
+}

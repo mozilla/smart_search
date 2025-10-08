@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "From Grange Hill to the valleys \"Movies From Grange Hill to the valleys She used to play the school goody-goody on television, but now Amma Asante has made a powerful first film about racism in Wales - without a single black character in it. She talks to Bonnie Greer Bonnie Greer Mon 8 Nov 2004 11.08 EST11.08 EST0A young British f",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns a film and racism in Wales, not related to improving performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "From Grange Hill to the valleys \"Movies From Grange Hill to the valleys She used to play the school goody-goody on television, but now Amma Asante has made a powerful first film about racism in Wales - without a single black character in it. She talks to Bonnie Greer Bonnie Greer Mon 8 Nov 2004 11.08 EST11.08 EST0A young British f",
+  "history": {
+    "url": "https://www.theguardian.com/film/2004/nov/08/hayfilmfestival2005.race",
+    "title": "From Grange Hill to the valleys",
+    "description": "\"Movies From Grange Hill to the valleys She used to play the school goody-goody on television, but now Amma Asante has made a powerful first film about racism in Wales - without a single black character in it. She talks to Bonnie Greer Bonnie Greer Mon 8 Nov 2004 11.08 EST11.08 EST0A young British f",
+    "frecency": 1521,
+    "url_hash": 87969137827193,
+    "last_visit_date": 1758203932209228
+  }
+}

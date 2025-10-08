@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Home Office Deduction If you use part of your home for business, you may be able to deduct expenses for the business use of your home. The home office deduction is available for homeowners and renters, and applies to all types of homes. Simplified Option For taxable years starting on, or after, January 1, 2013 (filed beg",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses tax deductions for home office use, not Docker setup. It is unrelated to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Home Office Deduction If you use part of your home for business, you may be able to deduct expenses for the business use of your home. The home office deduction is available for homeowners and renters, and applies to all types of homes. Simplified Option For taxable years starting on, or after, January 1, 2013 (filed beg",
+  "history": {
+    "url": "https://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Home-Office-Deduction",
+    "title": "Home Office Deduction",
+    "description": "If you use part of your home for business, you may be able to deduct expenses for the business use of your home. The home office deduction is available for homeowners and renters, and applies to all types of homes. Simplified Option For taxable years starting on, or after, January 1, 2013 (filed beg",
+    "frecency": 4991,
+    "url_hash": 29380459726205,
+    "last_visit_date": 1758203928940111
+  }
+}

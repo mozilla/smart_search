@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Upgrade in Progress Upgrade in Progress In order to improve the resilience, security and performance of our systems, we are carrying out important, major upgrades on Saturday the 25 th and Sunday 26 th of November. There will be site outages during this time. We apologise for the inconvenience.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page discusses system upgrades/outages, not any guidance or content related to optimizing database queries.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Upgrade in Progress Upgrade in Progress In order to improve the resilience, security and performance of our systems, we are carrying out important, major upgrades on Saturday the 25 th and Sunday 26 th of November. There will be site outages during this time. We apologise for the inconvenience.",
+  "history": {
+    "url": "http://www.sqa.org.uk/files_ccc/Appendix%209%20-%20NOS_learn_and_dev.pdf",
+    "title": "Upgrade in Progress",
+    "description": "Upgrade in Progress In order to improve the resilience, security and performance of our systems, we are carrying out important, major upgrades on Saturday the 25 th and Sunday 26 th of November. There will be site outages during this time. We apologise for the inconvenience. ",
+    "frecency": 2805,
+    "url_hash": 53247007622530,
+    "last_visit_date": 1758203931404111
+  }
+}

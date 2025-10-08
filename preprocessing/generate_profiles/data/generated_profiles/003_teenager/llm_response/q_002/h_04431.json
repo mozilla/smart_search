@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Local #22 Top News Local #22 Top News Christmas Party Summer Party Terre Haute Golf Outing Services for Steve P Campbell Indianapolis Golf Outing IMPACT NEWSIronworkers On the Safe Side Construction Diversity Summit Aims to Break the Glass Ceiling Construction Industry Predictions Show Gains in 2017Waiward Steel Rethi",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result lists local news and unrelated topics (parties, golf outings, construction), with no mention of DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Local #22 Top News Local #22 Top News Christmas Party Summer Party Terre Haute Golf Outing Services for Steve P Campbell Indianapolis Golf Outing IMPACT NEWSIronworkers On the Safe Side Construction Diversity Summit Aims to Break the Glass Ceiling Construction Industry Predictions Show Gains in 2017Waiward Steel Rethi",
+  "history": {
+    "url": "http://ironworkers22.net/",
+    "title": "Local #22 Top News",
+    "description": "Local #22 Top News Christmas Party Summer Party Terre Haute Golf Outing Services for Steve P Campbell Indianapolis Golf Outing IMPACT NEWSIronworkers On the Safe Side Construction Diversity Summit Aims to Break the Glass Ceiling Construction Industry Predictions Show Gains in 2017Waiward Steel Rethi",
+    "frecency": 406,
+    "url_hash": 92694996075317,
+    "last_visit_date": 1758203928860735
+  }
+}

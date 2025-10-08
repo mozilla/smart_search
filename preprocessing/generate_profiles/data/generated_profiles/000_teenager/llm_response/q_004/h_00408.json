@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "The White Stripes Biography \"The White Stripes Biography Follow City-Data.com founder on our Forum or @Lech Mazur Jack White July 1975 \u2022 Detroit, Michigan Guitarist, pianist, singer, songwriter Meg Whitec. 1974 \u2022 Grosse Pointe, Michigan Drummer Jack White and Meg White of the White Stripes. AP/Wide World Photos. Reproduced by",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a rock band biography, not about sports or improving sports performance; it is unrelated to the query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "The White Stripes Biography \"The White Stripes Biography Follow City-Data.com founder on our Forum or @Lech Mazur Jack White July 1975 \u2022 Detroit, Michigan Guitarist, pianist, singer, songwriter Meg Whitec. 1974 \u2022 Grosse Pointe, Michigan Drummer Jack White and Meg White of the White Stripes. AP/Wide World Photos. Reproduced by",
+  "history": {
+    "url": "http://www.notablebiographies.com/news/Sh-Z/The-White-Stripes.html",
+    "title": "The White Stripes Biography",
+    "description": "\"The White Stripes Biography Follow City-Data.com founder on our Forum or @Lech Mazur Jack White July 1975 \u2022 Detroit, Michigan Guitarist, pianist, singer, songwriter Meg Whitec. 1974 \u2022 Grosse Pointe, Michigan Drummer Jack White and Meg White of the White Stripes. AP/Wide World Photos. Reproduced by ",
+    "frecency": 3233,
+    "url_hash": 51299096990409,
+    "last_visit_date": 1758203928619139
+  }
+}

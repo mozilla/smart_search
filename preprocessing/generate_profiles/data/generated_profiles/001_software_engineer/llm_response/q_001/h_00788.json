@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Colorado Rules of Civil Procedure Colorado Rules of Civil Procedure Does a process server have to be licensed in Colorado? No. Visit Serve Now.com\u2019s Become a Process Server page for more information. Colorado Process Server Licensing Requirements Process may be served inside or outside this state by the sheriff of the county where t",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Colorado process serving/licensing and civil procedure, not Python libraries or machine learning; it is not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Colorado Rules of Civil Procedure Colorado Rules of Civil Procedure Does a process server have to be licensed in Colorado? No. Visit Serve Now.com\u2019s Become a Process Server page for more information. Colorado Process Server Licensing Requirements Process may be served inside or outside this state by the sheriff of the county where t",
+  "history": {
+    "url": "https://www.serve-now.com/resources/process-serving-laws/colorado",
+    "title": "Colorado Rules of Civil Procedure",
+    "description": "Colorado Rules of Civil Procedure Does a process server have to be licensed in Colorado? No. Visit Serve Now.com\u2019s Become a Process Server page for more information. Colorado Process Server Licensing Requirements Process may be served inside or outside this state by the sheriff of the county where t",
+    "frecency": 2338,
+    "url_hash": 73513971036419,
+    "last_visit_date": 1758203927202200
+  }
+}

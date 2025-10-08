@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Cisco Nexus 1000V for VMware vSphere Port Profile Configuration Guide, Release 5.x Chapter Contents This chapter contains the following sections: Information About Port Profiles Guidelines and Limitations for Creating Port Profiles Port Profile Configuration Limits Default Settings Configuring Port Profiles Port Mode Configuration Port Binding for v Ethernet Port Profiles Configur",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved content concerns Cisco Nexus 1000V port profiles for VMware vSphere, not database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Cisco Nexus 1000V for VMware vSphere Port Profile Configuration Guide, Release 5.x Chapter Contents This chapter contains the following sections: Information About Port Profiles Guidelines and Limitations for Creating Port Profiles Port Profile Configuration Limits Default Settings Configuring Port Profiles Port Mode Configuration Port Binding for v Ethernet Port Profiles Configur",
+  "history": {
+    "url": "http://www.cisco.com/c/en/us/td/docs/switches/datacenter/nexus1000/sw/5_x/port_profile_config/b_Cisco_N1KV_VMware_Port_Profile_Config_5x/creating_port_profiles.html",
+    "title": "Cisco Nexus 1000V for VMware vSphere Port Profile Configuration Guide, Release 5.x",
+    "description": "Chapter Contents This chapter contains the following sections: Information About Port Profiles Guidelines and Limitations for Creating Port Profiles Port Profile Configuration Limits Default Settings Configuring Port Profiles Port Mode Configuration Port Binding for v Ethernet Port Profiles Configur",
+    "frecency": 4139,
+    "url_hash": 29024373957834,
+    "last_visit_date": 1758203929186111
+  }
+}

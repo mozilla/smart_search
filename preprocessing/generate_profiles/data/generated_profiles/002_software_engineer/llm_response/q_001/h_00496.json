@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Wireless SCADA Wireless SCADAFor an introduction to SCADA, please refer to Technote: Introduction to SCADA. Wireless SCADA is required in those applications when wireline communications to the remote site is prohibitively expensive or it is too time-consuming to construct. In particular types of industry such as O",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The page discusses Wireless SCADA and industrial control topics, not Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Wireless SCADA Wireless SCADAFor an introduction to SCADA, please refer to Technote: Introduction to SCADA. Wireless SCADA is required in those applications when wireline communications to the remote site is prohibitively expensive or it is too time-consuming to construct. In particular types of industry such as O",
+  "history": {
+    "url": "https://www.scadalink.com/support/knowledge-base/wireless-scada/",
+    "title": "Wireless SCADA",
+    "description": "Wireless SCADAFor an introduction to SCADA, please refer to Technote: Introduction to SCADA. Wireless SCADA is required in those applications when wireline communications to the remote site is prohibitively expensive or it is too time-consuming to construct. In particular types of industry such as O",
+    "frecency": 4139,
+    "url_hash": 10541325702527,
+    "last_visit_date": 1758203927404111
+  }
+}

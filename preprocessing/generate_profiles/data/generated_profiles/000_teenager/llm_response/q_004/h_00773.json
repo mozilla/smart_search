@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "The Secret Life of Pets The Secret Life of Pets A pleasant enough re-tread of every animated movie featuring talking animals that you've ever seen. Alissa Wilkinson | July 6, 2016'The Secret Life of Pets'Sign up for the CT Entertainment Newsletter You\u2019re reading a capsule review from the CT Entertainment newsletter, a week",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a movie review about 'The Secret Life of Pets' and has no relation to strategies or tips for improving athletic performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "The Secret Life of Pets The Secret Life of Pets A pleasant enough re-tread of every animated movie featuring talking animals that you've ever seen. Alissa Wilkinson | July 6, 2016'The Secret Life of Pets'Sign up for the CT Entertainment Newsletter You\u2019re reading a capsule review from the CT Entertainment newsletter, a week",
+  "history": {
+    "url": "http://www.christianitytoday.com/ct/2016/july-web-only/secret-life-of-pets.html",
+    "title": "The Secret Life of Pets",
+    "description": "The Secret Life of Pets A pleasant enough re-tread of every animated movie featuring talking animals that you've ever seen. Alissa Wilkinson | July 6, 2016'The Secret Life of Pets'Sign up for the CT Entertainment Newsletter You\u2019re reading a capsule review from the CT Entertainment newsletter, a week",
+    "frecency": 1665,
+    "url_hash": 29183669885176,
+    "last_visit_date": 1758203927939139
+  }
+}

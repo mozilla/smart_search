@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Is a Culture War Between American Soldiers and Civilians Inevitable? Is a Culture War Between American Soldiers and Civilians Inevitable? By Robert Mackey June 23, 2010 10:47 am177Luke Sharrett/The New York Times In May, President Barack Obama was presented with a sword after delivering a commencement address to graduating cadets at the United States Military Academy",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses a culture war article about American soldiers and civilians, with no relation to Docker or beginner setup topics.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Is a Culture War Between American Soldiers and Civilians Inevitable? Is a Culture War Between American Soldiers and Civilians Inevitable? By Robert Mackey June 23, 2010 10:47 am177Luke Sharrett/The New York Times In May, President Barack Obama was presented with a sword after delivering a commencement address to graduating cadets at the United States Military Academy",
+  "history": {
+    "url": "http://thelede.blogs.nytimes.com/2010/06/23/is-a-culture-war-between-american-soldiers-and-civilians-inevitable/",
+    "title": "Is a Culture War Between American Soldiers and Civilians Inevitable?",
+    "description": "Is a Culture War Between American Soldiers and Civilians Inevitable? By Robert Mackey June 23, 2010 10:47 am177Luke Sharrett/The New York Times In May, President Barack Obama was presented with a sword after delivering a commencement address to graduating cadets at the United States Military Academy",
+    "frecency": 4750,
+    "url_hash": 86094589273409,
+    "last_visit_date": 1758203929000111
+  }
+}

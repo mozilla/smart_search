@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "How-To Stretch Your Shoes How-To Stretch Your Shoes So you've found the perfect pair of shoes. They look just stunningly handsome. They shine so bright with style that you unwittingly allow a few tears of joy to escape from your eyes. These shoes are so beautiful, they could spark a war. Heck, they could stop a war. They cou",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about stretching shoes, which is unrelated to improving performance or skills in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "How-To Stretch Your Shoes How-To Stretch Your Shoes So you've found the perfect pair of shoes. They look just stunningly handsome. They shine so bright with style that you unwittingly allow a few tears of joy to escape from your eyes. These shoes are so beautiful, they could spark a war. Heck, they could stop a war. They cou",
+  "history": {
+    "url": "http://www.shoemetro.com/t-How-To-Stretch-Your-Shoes.aspx",
+    "title": "How-To Stretch Your Shoes",
+    "description": "How-To Stretch Your Shoes So you've found the perfect pair of shoes. They look just stunningly handsome. They shine so bright with style that you unwittingly allow a few tears of joy to escape from your eyes. These shoes are so beautiful, they could spark a war. Heck, they could stop a war. They cou",
+    "frecency": 2378,
+    "url_hash": 70287439531635,
+    "last_visit_date": 1758203926571139
+  }
+}

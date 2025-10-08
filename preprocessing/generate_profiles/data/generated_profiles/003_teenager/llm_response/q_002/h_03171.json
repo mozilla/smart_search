@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Lakes and Rivers Lakes and Rivers Very few lakes are easily accessible in Yosemite National Park. Tenaya Lake (above) is one of the easiest to get to (when the Tioga Road is open, late May or early June to sometime in November) and is quite popular for picnicking, swimming, and canoeing. You can see Tenaya Lake from",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses lakes and rivers in Yosemite National Park, not easy DIY room decoration ideas; not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Lakes and Rivers Lakes and Rivers Very few lakes are easily accessible in Yosemite National Park. Tenaya Lake (above) is one of the easiest to get to (when the Tioga Road is open, late May or early June to sometime in November) and is quite popular for picnicking, swimming, and canoeing. You can see Tenaya Lake from",
+  "history": {
+    "url": "https://www.nps.gov/yose/planyourvisit/lakes.htm",
+    "title": "Lakes and Rivers",
+    "description": "Lakes and Rivers Very few lakes are easily accessible in Yosemite National Park. Tenaya Lake (above) is one of the easiest to get to (when the Tioga Road is open, late May or early June to sometime in November) and is quite popular for picnicking, swimming, and canoeing. You can see Tenaya Lake from",
+    "frecency": 1672,
+    "url_hash": 32992874311009,
+    "last_visit_date": 1758203930163228
+  }
+}

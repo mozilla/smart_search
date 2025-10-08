@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Adult Dog Classes Adult Dog Classes We have a variety of training options for dogs older than 10 months (or older than 12 months for small breeds) that range from teaching you and your pup some foundations of training, to advancing your skills around distractions and temptations, to just plain having fun with your do",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page is about adult dog training classes, not about IDEs, software development, or programming tools; it has no relevance to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Adult Dog Classes Adult Dog Classes We have a variety of training options for dogs older than 10 months (or older than 12 months for small breeds) that range from teaching you and your pup some foundations of training, to advancing your skills around distractions and temptations, to just plain having fun with your do",
+  "history": {
+    "url": "http://ahimsadogtraining.com/class/",
+    "title": "Adult Dog Classes",
+    "description": "Adult Dog Classes We have a variety of training options for dogs older than 10 months (or older than 12 months for small breeds) that range from teaching you and your pup some foundations of training, to advancing your skills around distractions and temptations, to just plain having fun with your do",
+    "frecency": 3647,
+    "url_hash": 19560388443908,
+    "last_visit_date": 1758203930966111
+  }
+}

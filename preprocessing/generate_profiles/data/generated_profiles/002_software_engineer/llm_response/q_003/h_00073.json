@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Uber driver killed in Lincolnwood while dropping off passenger, cops say \"Grant Nelson, shown in a family photo, was working for Uber when he was fatally stabbed while dropping off a passenger in Lincolnwood, according to police. (Todd Nelson photo)Brian L. Cox, Susan Berger and Grace Wong Chicago Tribune A 16-year-old girl has been charged as an adult in the stabbing de",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a crime news article unrelated to database queries; it does not discuss optimization or database querying topics.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Uber driver killed in Lincolnwood while dropping off passenger, cops say \"Grant Nelson, shown in a family photo, was working for Uber when he was fatally stabbed while dropping off a passenger in Lincolnwood, according to police. (Todd Nelson photo)Brian L. Cox, Susan Berger and Grace Wong Chicago Tribune A 16-year-old girl has been charged as an adult in the stabbing de",
+  "history": {
+    "url": "http://www.chicagotribune.com/suburbs/lincolnwood/news/ct-lwr-man-stabbed-to-death-in-lincolnwood-tl-0608-20170530-13-story.html",
+    "title": "Uber driver killed in Lincolnwood while dropping off passenger, cops say",
+    "description": "\"Grant Nelson, shown in a family photo, was working for Uber when he was fatally stabbed while dropping off a passenger in Lincolnwood, according to police. (Todd Nelson photo)Brian L. Cox, Susan Berger and Grace Wong Chicago Tribune A 16-year-old girl has been charged as an adult in the stabbing de",
+    "frecency": 4884,
+    "url_hash": 5811708551341,
+    "last_visit_date": 1758203930764111
+  }
+}

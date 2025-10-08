@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Prohibition \"Origins of Prohibition In the 1820s and \u201930s, a wave of religious revivalism swept the United States, leading to increased calls for temperance, as well as other \u201cperfectionist\u201d movements such as the abolition of slavery. In 1838, the state of Massachusetts passed a temperance law banning the sale",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses the origins of Prohibition in the 19th century, which is unrelated to starting a YouTube channel; there is no topical relevance.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Prohibition \"Origins of Prohibition In the 1820s and \u201930s, a wave of religious revivalism swept the United States, leading to increased calls for temperance, as well as other \u201cperfectionist\u201d movements such as the abolition of slavery. In 1838, the state of Massachusetts passed a temperance law banning the sale",
+  "history": {
+    "url": "http://www.history.com/topics/prohibition",
+    "title": "Prohibition",
+    "description": "\"Origins of Prohibition In the 1820s and \u201930s, a wave of religious revivalism swept the United States, leading to increased calls for temperance, as well as other \u201cperfectionist\u201d movements such as the abolition of slavery. In 1838, the state of Massachusetts passed a temperance law banning the sale ",
+    "frecency": 797,
+    "url_hash": 2014199918860,
+    "last_visit_date": 1758203928111139
+  }
+}

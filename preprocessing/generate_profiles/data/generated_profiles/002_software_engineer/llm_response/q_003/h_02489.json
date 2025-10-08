@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Welcome to BASF Corporation in the U.S.A. Welcome to BASF Corporation in the U. S. A. At BASF, we create chemistry for a sustainable future. We combine economic success with environmental protection and social responsibility. Through science and innovation we enable our customers in nearly every industry to meet the current and future needs",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page is a corporate homepage about BASF with content unrelated to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Welcome to BASF Corporation in the U.S.A. Welcome to BASF Corporation in the U. S. A. At BASF, we create chemistry for a sustainable future. We combine economic success with environmental protection and social responsibility. Through science and innovation we enable our customers in nearly every industry to meet the current and future needs",
+  "history": {
+    "url": "https://www.basf.com/",
+    "title": "Welcome to BASF Corporation in the U.S.A.",
+    "description": "Welcome to BASF Corporation in the U. S. A. At BASF, we create chemistry for a sustainable future. We combine economic success with environmental protection and social responsibility. Through science and innovation we enable our customers in nearly every industry to meet the current and future needs",
+    "frecency": 501,
+    "url_hash": 86364360029234,
+    "last_visit_date": 1758203928768111
+  }
+}

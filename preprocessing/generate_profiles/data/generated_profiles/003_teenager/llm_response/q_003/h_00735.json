@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "What Is Tendinitis? Got knee pain? If you\u2019re an athlete or fitness enthusiast, you may have tendinitis. \u201cMany people who participate in sports or fitness activities will get tendinitis at one time or another,\u201d says Steven Stuchin, MD, director of orthopaedic surgery at NYU Hospital for Joint Diseases in New York City.",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses tendinitis and knee pain, unrelated to apps for improving study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "What Is Tendinitis? Got knee pain? If you\u2019re an athlete or fitness enthusiast, you may have tendinitis. \u201cMany people who participate in sports or fitness activities will get tendinitis at one time or another,\u201d says Steven Stuchin, MD, director of orthopaedic surgery at NYU Hospital for Joint Diseases in New York City.",
+  "history": {
+    "url": "http://www.everydayhealth.com/knee-pain/what-is-tendinitis.aspx",
+    "title": "What Is Tendinitis?",
+    "description": "Got knee pain? If you\u2019re an athlete or fitness enthusiast, you may have tendinitis. \u201cMany people who participate in sports or fitness activities will get tendinitis at one time or another,\u201d says Steven Stuchin, MD, director of orthopaedic surgery at NYU Hospital for Joint Diseases in New York City. ",
+    "frecency": 4210,
+    "url_hash": 81340244533659,
+    "last_visit_date": 1758203927888735
+  }
+}

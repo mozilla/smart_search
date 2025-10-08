@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Sources of Lead Sources of Lead Lead can be found in many products and locations. Some you might never have thought of, including some imported candies, toys, and traditional medicines. The most common cause of lead poisoning is dust and chips from old paint. However, some non-paint sources, though less common, can",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The content discusses lead sources and poisoning, not easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Sources of Lead Sources of Lead Lead can be found in many products and locations. Some you might never have thought of, including some imported candies, toys, and traditional medicines. The most common cause of lead poisoning is dust and chips from old paint. However, some non-paint sources, though less common, can",
+  "history": {
+    "url": "https://www.health.ny.gov/environmental/lead/sources.htm",
+    "title": "Sources of Lead",
+    "description": "Sources of Lead Lead can be found in many products and locations. Some you might never have thought of, including some imported candies, toys, and traditional medicines. The most common cause of lead poisoning is dust and chips from old paint. However, some non-paint sources, though less common, can",
+    "frecency": 1452,
+    "url_hash": 26766570905702,
+    "last_visit_date": 1758203927701139
+  }
+}

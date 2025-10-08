@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Premier Wines & Spirits Skip to Search Form Skip to Navigation Skip to Page Content Yelp Find Near Cancel Search Sign Up Log In Login Sign Up About Me Talk Oops, we can't find your location First, try refreshing the page and clicking Current Location again. Make sure you click Allow or Grant Permissions if your browser ask",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is unrelated to Python libraries or machine learning; it appears to be a Yelp page about Premier Wines & Spirits, indicating no relevance to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Premier Wines & Spirits Skip to Search Form Skip to Navigation Skip to Page Content Yelp Find Near Cancel Search Sign Up Log In Login Sign Up About Me Talk Oops, we can't find your location First, try refreshing the page and clicking Current Location again. Make sure you click Allow or Grant Permissions if your browser ask",
+  "history": {
+    "url": "https://www.yelp.com/biz/premier-wines-and-spirits-osseo",
+    "title": "Premier Wines & Spirits",
+    "description": "Skip to Search Form Skip to Navigation Skip to Page Content Yelp Find Near Cancel Search Sign Up Log In Login Sign Up About Me Talk Oops, we can't find your location First, try refreshing the page and clicking Current Location again. Make sure you click Allow or Grant Permissions if your browser ask",
+    "frecency": 1045,
+    "url_hash": 60733873586744,
+    "last_visit_date": 1758203930620111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Encomium: A Tribute to Led Zeppelin \\\"Stream or buy on: Release Date1995Duration52:02Genre Pop/Rock Styles Contemporary Pop/Rock Hard Rock Post-Grunge Adult Alternative Pop/Rock Alternative Metal Alternative Pop/Rock Alternative/Indie Rock American Trad Rock Heavy Metal Punk/New Wave Singer/Songwriter Synth Pop Jam Bands Submit Correct",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a music album/page about Led Zeppelin, not related to apps or studying.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Encomium: A Tribute to Led Zeppelin \"Stream or buy on: Release Date1995Duration52:02Genre Pop/Rock Styles Contemporary Pop/Rock Hard Rock Post-Grunge Adult Alternative Pop/Rock Alternative Metal Alternative Pop/Rock Alternative/Indie Rock American Trad Rock Heavy Metal Punk/New Wave Singer/Songwriter Synth Pop Jam Bands Submit Correct",
+  "history": {
+    "url": "http://www.allmusic.com/album/encomium-a-tribute-to-led-zeppelin-mw0000123457",
+    "title": "Encomium: A Tribute to Led Zeppelin",
+    "description": "\"Stream or buy on: Release Date1995Duration52:02Genre Pop/Rock Styles Contemporary Pop/Rock Hard Rock Post-Grunge Adult Alternative Pop/Rock Alternative Metal Alternative Pop/Rock Alternative/Indie Rock American Trad Rock Heavy Metal Punk/New Wave Singer/Songwriter Synth Pop Jam Bands Submit Correct",
+    "frecency": 2034,
+    "url_hash": 54903279584048,
+    "last_visit_date": 1758203931909228
+  }
+}

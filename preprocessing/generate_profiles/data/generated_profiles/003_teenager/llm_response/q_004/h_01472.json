@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Self-directedness \"From Wikipedia, the free encyclopedia (Redirected from Self-Directedness)navigation search Self-directedness is a personality trait of self-determination, that is, the ability to regulate and adapt behavior to the demands of a situation in order to achieve personally chosen goals and values. [1] It\"",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The page describes a personality trait (self-directedness) rather than methods or guidance for improving athletic performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Self-directedness \"From Wikipedia, the free encyclopedia (Redirected from Self-Directedness)navigation search Self-directedness is a personality trait of self-determination, that is, the ability to regulate and adapt behavior to the demands of a situation in order to achieve personally chosen goals and values. [1] It",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Self-Directedness",
+    "title": "Self-directedness",
+    "description": "\"From Wikipedia, the free encyclopedia (Redirected from Self-Directedness)navigation search Self-directedness is a personality trait of self-determination, that is, the ability to regulate and adapt behavior to the demands of a situation in order to achieve personally chosen goals and values. [1] It",
+    "frecency": 3499,
+    "url_hash": 53706169172036,
+    "last_visit_date": 1758203933209228
+  }
+}

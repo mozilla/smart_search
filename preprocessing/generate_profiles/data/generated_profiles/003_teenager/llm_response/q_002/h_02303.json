@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "10 Signs You Have an Iron Deficiency \u2014 health/medical article",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses health/iron deficiency and is not related to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "10 Signs You Have an Iron Deficiency \"1/11About 9 percent of women suffer from an iron deficiency, according to the most recent stats from the Centers for Disease Control and Prevention\u2014but that number's even higher for physically active women, say experts. How can you tell if your levels are a little low? Be on the lookout for these 1",
+  "history": {
+    "url": "http://www.womenshealthmag.com/food/iron-deficiency",
+    "title": "10 Signs You Have an Iron Deficiency",
+    "description": "\"1/11About 9 percent of women suffer from an iron deficiency, according to the most recent stats from the Centers for Disease Control and Prevention\u2014but that number's even higher for physically active women, say experts. How can you tell if your levels are a little low? Be on the lookout for these 1",
+    "frecency": 2625,
+    "url_hash": 98563189327153,
+    "last_visit_date": 1758203928826735
+  }
+}

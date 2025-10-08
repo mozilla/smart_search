@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Career Education School Locations About Career Education Investor Relations Jobs at Career Education Corporate Contact American Inter Continental University Colorado Technical University",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns career education institutions rather than Docker or technical setup topics.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Career Education School Locations About Career Education Investor Relations Jobs at Career Education Corporate Contact American Inter Continental University Colorado Technical University",
+  "history": {
+    "url": "http://www.careered.com/",
+    "title": "Career Education School Locations",
+    "description": "About Career Education Investor Relations Jobs at Career Education Corporate Contact American Inter Continental University Colorado Technical University ",
+    "frecency": 1431,
+    "url_hash": 12985829026285,
+    "last_visit_date": 1758203928614200
+  }
+}

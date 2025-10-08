@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Can I Write Off Bus Passes on My Taxes? Transportation expenses, including bus passes, are tax deductible in some situations. The primary factor is whether the transportation costs are recognized as business or personal. Business expenses are deductible, but personal expenses are not. Transportation costs are deemed business-related depen",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses tax deductions for bus passes, which is unrelated to starting a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Can I Write Off Bus Passes on My Taxes? Transportation expenses, including bus passes, are tax deductible in some situations. The primary factor is whether the transportation costs are recognized as business or personal. Business expenses are deductible, but personal expenses are not. Transportation costs are deemed business-related depen",
+  "history": {
+    "url": "http://www.ehow.com/info_8614781_can-off-bus-passes-taxes.html",
+    "title": "Can I Write Off Bus Passes on My Taxes?",
+    "description": "Transportation expenses, including bus passes, are tax deductible in some situations. The primary factor is whether the transportation costs are recognized as business or personal. Business expenses are deductible, but personal expenses are not. Transportation costs are deemed business-related depen",
+    "frecency": 1966,
+    "url_hash": 82806814829996,
+    "last_visit_date": 1758203926629139
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "UDP Ports 67 and 68 Typically this traffic is related to normal DHCP operation and is not an attack on your network. DHCP (Dynamic Host Configuration Protocol) is how your computer gets its unique IP address. When a system starts up on a network it must first request an IP address (assume it is not using a static IP ad",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses UDP ports and DHCP, which are unrelated to Python libraries or machine learning topics.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "UDP Ports 67 and 68 Typically this traffic is related to normal DHCP operation and is not an attack on your network. DHCP (Dynamic Host Configuration Protocol) is how your computer gets its unique IP address. When a system starts up on a network it must first request an IP address (assume it is not using a static IP ad",
+  "history": {
+    "url": "http://www.linklogger.com/UDP67_68.htm",
+    "title": "UDP Ports 67 and 68",
+    "description": "Typically this traffic is related to normal DHCP operation and is not an attack on your network. DHCP (Dynamic Host Configuration Protocol) is how your computer gets its unique IP address. When a system starts up on a network it must first request an IP address (assume it is not using a static IP ad",
+    "frecency": 2328,
+    "url_hash": 24022844645263,
+    "last_visit_date": 1758203928454111
+  }
+}

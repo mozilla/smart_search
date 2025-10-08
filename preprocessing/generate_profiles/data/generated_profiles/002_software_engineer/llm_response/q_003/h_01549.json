@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "CalWORKS Cal WORKSHelping You Meet Welfare-To-Work Requirements As Well As Providing a Variety of Support Services Cal WORKS is a program intended to help students meet their Welfare-To-Work requirements and prepare for permanent jobs in their chosen profession. We provide a variety of support services to he",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a welfare-to-work program (CalWORKS) and student support services, which is unrelated to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "CalWORKS Cal WORKSHelping You Meet Welfare-To-Work Requirements As Well As Providing a Variety of Support Services Cal WORKS is a program intended to help students meet their Welfare-To-Work requirements and prepare for permanent jobs in their chosen profession. We provide a variety of support services to he",
+  "history": {
+    "url": "https://www.sierracollege.edu/student-services/support-programs/calworks.php",
+    "title": "CalWORKS",
+    "description": "Cal WORKSHelping You Meet Welfare-To-Work Requirements As Well As Providing a Variety of Support Services Cal WORKS is a program intended to help students meet their Welfare-To-Work requirements and prepare for permanent jobs in their chosen profession. We provide a variety of support services to he",
+    "frecency": 2211,
+    "url_hash": 61004912574891,
+    "last_visit_date": 1758203931594111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Career \\\"Welcome to the Village of Brown Deer's Employment Application Process!Our on-line application system allows applicants the ability to save and update their job applications, apply for one or several open positions and access many other features including completion of a job interest card so applica",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page is about an employment application process and does not address debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Career \"Welcome to the Village of Brown Deer's Employment Application Process!Our on-line application system allows applicants the ability to save and update their job applications, apply for one or several open positions and access many other features including completion of a job interest card so applica",
+  "history": {
+    "url": "https://www.governmentjobs.com/careers/browndeerwi",
+    "title": "Career",
+    "description": "\"Welcome to the Village of Brown Deer's Employment Application Process!Our on-line application system allows applicants the ability to save and update their job applications, apply for one or several open positions and access many other features including completion of a job interest card so applica",
+    "frecency": 3996,
+    "url_hash": 69184813548241,
+    "last_visit_date": 1758203928860200
+  }
+}

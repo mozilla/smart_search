@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "A. A. Milne From Wikipedia, the free encyclopedia navigation search A. A. Milne A. A. Milne in 1922 Born Alan Alexander Milne 18 January 1882 Kilburn, London, England Died 31 January 1956 (aged 74) Hartfield, Sussex, England Occupation Novelist, playwright, poet Nationality British Alma mater Trinity",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The result is about A. A. Milne, not related to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "A. A. Milne \"A. A. Milne From Wikipedia, the free encyclopedianavigation search A. A. Milne A. A. Milne in 1922Born Alan Alexander Milne 18 January 1882 Kilburn, London, England Died 31 January 1956 (aged 74) Hartfield, Sussex, England Occupation Novelist, playwright, poet Nationality British Alma mater Trinity",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/A._A._Milne",
+    "title": "A. A. Milne",
+    "description": "\"A. A. Milne From Wikipedia, the free encyclopedianavigation search A. A. Milne A. A. Milne in 1922Born Alan Alexander Milne 18 January 1882 Kilburn, London, England Died 31 January 1956 (aged 74) Hartfield, Sussex, England Occupation Novelist, playwright, poet Nationality British Alma mater Trinity",
+    "frecency": 3515,
+    "url_hash": 91406483511327,
+    "last_visit_date": 1758203928576735
+  }
+}

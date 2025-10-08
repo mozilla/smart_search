@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Using ROBOCOPY to MOVE data around, not copy it. Server Fault is a question and answer site for system and network administrators. It discusses how Server Fault works, sign-up, and voting on answers.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The result concerns Robocopy (a file-copy utility) on a Server Fault Q&A site, not about database queries or query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Using ROBOCOPY to MOVE data around, not copy it \"_Server Fault is a question and answer site for system and network administrators. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Using ROBOCOPY to MOVE data around, not copy itup vote4d",
+  "history": {
+    "url": "https://serverfault.com/questions/233612/using-robocopy-to-move-data-around-not-copy-it",
+    "title": "Using ROBOCOPY to MOVE data around, not copy it",
+    "description": "\"_Server Fault is a question and answer site for system and network administrators. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Using ROBOCOPY to MOVE data around, not copy itup vote4d",
+    "frecency": 3041,
+    "url_hash": 62532534354166,
+    "last_visit_date": 1758203927848111
+  }
+}

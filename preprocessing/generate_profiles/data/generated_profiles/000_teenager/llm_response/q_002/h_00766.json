@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Aruba: Annual Weather Averages Aruba: Annual Weather Averages May is the hottest month in Aruba with an average temperature of 83 \u00b0F ( 29 \u00b0C) and the coldest is January at 80 \u00b0F ( 27 \u00b0C). The wettest month is November with an average of 90mm of rain . The best month to swim in the sea is in October when the average sea temperatur",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Aruba weather, not DIY room decoration ideas; not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Aruba: Annual Weather Averages Aruba: Annual Weather Averages May is the hottest month in Aruba with an average temperature of 83 \u00b0F ( 29 \u00b0C) and the coldest is January at 80 \u00b0F ( 27 \u00b0C). The wettest month is November with an average of 90mm of rain . The best month to swim in the sea is in October when the average sea temperatur",
+  "history": {
+    "url": "http://www.holiday-weather.com/aruba/averages/",
+    "title": "Aruba: Annual Weather Averages",
+    "description": "Aruba: Annual Weather Averages May is the hottest month in Aruba with an average temperature of 83 \u00b0F ( 29 \u00b0C) and the coldest is January at 80 \u00b0F ( 27 \u00b0C). The wettest month is November with an average of 90mm of rain . The best month to swim in the sea is in October when the average sea temperatur",
+    "frecency": 1690,
+    "url_hash": 90796330676579,
+    "last_visit_date": 1758203928033139
+  }
+}

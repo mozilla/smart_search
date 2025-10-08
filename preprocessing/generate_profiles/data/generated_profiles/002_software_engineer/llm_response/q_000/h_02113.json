@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "WAN accelerator A WAN accelerator is an appliance that optimizes bandwidth to improve the end user's experience on a wide area network ( WAN ). The appliance, which can be a physical hardware component, software program, or an appliance running in a virtualized environment, speeds up the time it takes for informati",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page discusses WAN accelerators and networking hardware/software, with no content on debugging or integrating APIs. It is not relevant to 'how to debug API integration'.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "WAN accelerator A WAN accelerator is an appliance that optimizes bandwidth to improve the end user's experience on a wide area network ( WAN ). The appliance, which can be a physical hardware component, software program, or an appliance running in a virtualized environment, speeds up the time it takes for informati",
+  "history": {
+    "url": "http://searchenterprisewan.techtarget.com/definition/WAN-accelerator",
+    "title": "WAN accelerator",
+    "description": "A WAN accelerator is an appliance that optimizes bandwidth to improve the end user's experience on a wide area network ( WAN ). The appliance, which can be a physical hardware component, software program, or an appliance running in a virtualized environment, speeds up the time it takes for informati",
+    "frecency": 1182,
+    "url_hash": 18563121689897,
+    "last_visit_date": 1758203928186111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Industrial Revolution \"Advertisement Industrial Revolution Factory System History >> Industrial Revolution The factory system was a new way of making products that began during the Industrial Revolution. The factory system used powered machinery, division of labor, unskilled workers, and a centralized workplace to mass-p",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes the Industrial Revolution and factory system, with no reference to Python, machine learning, or Python libraries; it is not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Industrial Revolution \"Advertisement Industrial Revolution Factory System History >> Industrial Revolution The factory system was a new way of making products that began during the Industrial Revolution. The factory system used powered machinery, division of labor, unskilled workers, and a centralized workplace to mass-p",
+  "history": {
+    "url": "http://www.ducksters.com/history/us_1800s/factory_system_industrial_revolution.php",
+    "title": "Industrial Revolution",
+    "description": "\"Advertisement Industrial Revolution Factory System History >> Industrial Revolution The factory system was a new way of making products that began during the Industrial Revolution. The factory system used powered machinery, division of labor, unskilled workers, and a centralized workplace to mass-p",
+    "frecency": 747,
+    "url_hash": 6998512039613,
+    "last_visit_date": 1758203927134111
+  }
+}

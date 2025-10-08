@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Woman tells Dr. Phil she didn't aid accused killer* \"Lauren Williams A community theater actress accused of covering for her former fiance after he allegedly killed two college students proclaimed her innocence during Tuesday's episode of \"\" Dr. Phil . \"\"Rachel Buffett, 25, of Long Beach has pleaded not guilty to being an accessory to murder after th",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a Dr. Phil episode and a crime-related news topic, not about apps for improving study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Woman tells Dr. Phil she didn't aid accused killer* \"Lauren Williams A community theater actress accused of covering for her former fiance after he allegedly killed two college students proclaimed her innocence during Tuesday's episode of \"\" Dr. Phil . \"\"Rachel Buffett, 25, of Long Beach has pleaded not guilty to being an accessory to murder after th",
+  "history": {
+    "url": "http://www.latimes.com/tn-dpt-0206-buffett-dr-phil-20130205-story.html",
+    "title": "Woman tells Dr. Phil she didn't aid accused killer*",
+    "description": "\"Lauren Williams A community theater actress accused of covering for her former fiance after he allegedly killed two college students proclaimed her innocence during Tuesday's episode of \"\" Dr. Phil . \"\"Rachel Buffett, 25, of Long Beach has pleaded not guilty to being an accessory to murder after th",
+    "frecency": 828,
+    "url_hash": 64350579339945,
+    "last_visit_date": 1758203932243228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "How long do roads last? How long do roads last? When to maintain and when to renew? Orange City Council engineers inspect all of the Road network segments regularly. For effective management, engineers divide sections of Orange\u2019s road network into \u2018segments\u2019. A road segment is a section of road that runs from one intersect",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses road maintenance and road network management, not database queries or optimization techniques.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "How long do roads last? How long do roads last? When to maintain and when to renew? Orange City Council engineers inspect all of the Road network segments regularly. For effective management, engineers divide sections of Orange\u2019s road network into \u2018segments\u2019. A road segment is a section of road that runs from one intersect",
+  "history": {
+    "url": "http://www.orange.nsw.gov.au/site/index.cfm?display=329376",
+    "title": "How long do roads last?",
+    "description": "How long do roads last? When to maintain and when to renew? Orange City Council engineers inspect all of the Road network segments regularly. For effective management, engineers divide sections of Orange\u2019s road network into \u2018segments\u2019. A road segment is a section of road that runs from one intersect",
+    "frecency": 746,
+    "url_hash": 65607827292045,
+    "last_visit_date": 1758203929408111
+  }
+}

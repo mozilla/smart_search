@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Why NCC? Why NCC? Nassau Community College, part of the SUNY system, serves students of all ages and backgrounds. NCC offers day, evening, weekend, online, continuing and professional programs from its traditional, 225-acre campus in the center of Long Island. You\u2019ll find award-winning faculty, one of the st",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Nassau Community College and is not about API debugging or API integration debugging.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Why NCC? Why NCC? Nassau Community College, part of the SUNY system, serves students of all ages and backgrounds. NCC offers day, evening, weekend, online, continuing and professional programs from its traditional, 225-acre campus in the center of Long Island. You\u2019ll find award-winning faculty, one of the st",
+  "history": {
+    "url": "http://www.ncc.edu/",
+    "title": "Why NCC?",
+    "description": "Why NCC? Nassau Community College, part of the SUNY system, serves students of all ages and backgrounds. NCC offers day, evening, weekend, online, continuing and professional programs from its traditional, 225-acre campus in the center of Long Island. You\u2019ll find award-winning faculty, one of the st",
+    "frecency": 4091,
+    "url_hash": 24710643734888,
+    "last_visit_date": 1758203929088111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Meet the new Dancing With the Stars cast - entertainment news about the DWTS cast reveal.",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The result is entertainment news about a TV show cast, not about improving at sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Meet the new \u00e2Dancing With the Stars\u00e2 cast \"Entertainment Meet the new \u2018Dancing With the Stars\u2019 cast By Andrea Morabito September 2, 2015 | 3:00pm Modal Trigger The cast of the 21st season of \"\"Dancing With the Stars\"\" is revealed on \"\"Good Morning America. \"\"ABC/Ida Mae Astute The new season of \u201cDancing With the Stars\u201d will include an Ameri",
+  "history": {
+    "url": "http://nypost.com/2015/09/02/meet-the-new-dancing-with-the-stars-cast/",
+    "title": "Meet the new \u00e2Dancing With the Stars\u00e2 cast",
+    "description": "\"Entertainment Meet the new \u2018Dancing With the Stars\u2019 cast By Andrea Morabito September 2, 2015 | 3:00pm Modal Trigger The cast of the 21st season of \"\"Dancing With the Stars\"\" is revealed on \"\"Good Morning America. \"\"ABC/Ida Mae Astute The new season of \u201cDancing With the Stars\u201d will include an Ameri",
+    "frecency": 326,
+    "url_hash": 87205101080021,
+    "last_visit_date": 1758203931921228
+  }
+}

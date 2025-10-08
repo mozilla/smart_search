@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "How long does it take to get oil changed for your car? \\\"Chester Payne, Well over ten years as automotive tech and line mechanic. Answered Oct 5, 2016 \u00b7 Author has 2.4k answers and 1m answer views From the personal experience of having had to change oil on a number of different vehicles over the years, fifteen minutes for a quickie, engine warm, and filt",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns car oil changes, not API integration debugging; topic is unrelated.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "How long does it take to get oil changed for your car? \"Chester Payne, Well over ten years as automotive tech and line mechanic. Answered Oct 5, 2016 \u00b7 Author has 2.4k answers and 1m answer views From the personal experience of having had to change oil on a number of different vehicles over the years, fifteen minutes for a quickie, engine warm, and filt",
+  "history": {
+    "url": "https://www.quora.com/How-long-does-it-take-to-get-oil-changed-for-your-car",
+    "title": "How long does it take to get oil changed for your car?",
+    "description": "\"Chester Payne, Well over ten years as automotive tech and line mechanic. Answered Oct 5, 2016 \u00b7 Author has 2.4k answers and 1m answer views From the personal experience of having had to change oil on a number of different vehicles over the years, fifteen minutes for a quickie, engine warm, and filt",
+    "frecency": 1369,
+    "url_hash": 77923269391750,
+    "last_visit_date": 1758203927664200
+  }
+}

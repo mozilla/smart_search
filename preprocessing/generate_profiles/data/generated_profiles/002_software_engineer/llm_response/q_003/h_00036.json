@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Who is the FBI? \\\"Samii96 2 Contributions Who is the FBI? Federal Bureau of Investigation. What do you have to do to be a FBI? you have to study and learn about them Jovi110810 1 Contribution Where is the FBI? Main headquarters are in DC. There are other branches all over the US. > >> >>> >>>> >>>>> Actually the FBI",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses the FBI and related topics, which are unrelated to optimizing database queries.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Who is the FBI? \"Samii96 2 Contributions Who is the FBI? Federal Bureau of Investigation. What do you have to do to be a FBI? you have to study and learn about them Jovi110810 1 Contribution Where is the FBI? Main headquarters are in DC. There are other branches all over the US. > >> >>> >>>> >>>>> Actually the FBI",
+  "history": {
+    "url": "http://www.answers.com/Q/Why_is_the_fbi_called_the_fbi",
+    "title": "Who is the FBI?",
+    "description": "\"Samii96 2 Contributions Who is the FBI? Federal Bureau of Investigation. What do you have to do to be a FBI? you have to study and learn about them Jovi110810 1 Contribution Where is the FBI? Main headquarters are in DC. There are other branches all over the US. > >> >>> >>>> >>>>> Actually the FBI",
+    "frecency": 4933,
+    "url_hash": 3556801081666,
+    "last_visit_date": 1758203931218111
+  }
+}

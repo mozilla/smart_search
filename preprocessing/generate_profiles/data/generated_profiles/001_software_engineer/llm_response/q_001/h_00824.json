@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Duct Dudes Air Duct Cleaning Cost Today\u2019s duct cleaning market is saturated with companies promising $199\u2014or even $99\u2014for a full-house duct cleaning. In reality, these cleaning companies are little more than a gimmick, using \u201chidden charges\u201d with these deals to jack up the price as the services are performed.",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses air duct cleaning services and pricing, with no reference to Python libraries or machine learning; thus it is not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Duct Dudes Air Duct Cleaning Cost Today\u2019s duct cleaning market is saturated with companies promising $199\u2014or even $99\u2014for a full-house duct cleaning. In reality, these cleaning companies are little more than a gimmick, using \u201chidden charges\u201d with these deals to jack up the price as the services are performed.",
+  "history": {
+    "url": "http://www.ductdudes.com/our-pricing/",
+    "title": "Duct Dudes",
+    "description": "Air Duct Cleaning Cost Today\u2019s duct cleaning market is saturated with companies promising $199\u2014or even $99\u2014for a full-house duct cleaning. In reality, these cleaning companies are little more than a gimmick, using \u201chidden charges\u201d with these deals to jack up the price as the services are performed. ",
+    "frecency": 2175,
+    "url_hash": 82072744443102,
+    "last_visit_date": 1758203928002200
+  }
+}

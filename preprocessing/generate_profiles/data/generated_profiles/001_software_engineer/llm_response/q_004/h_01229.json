@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Helping you thrive at ASU Helping you thrive at ASUAs the #1 public university chosen by international students, we serve international students across ASU\u2019s five campuses and location in Lake Havasu City, Arizona. We work to facilitate the success of our more than 10,000 international students and scholars during their time",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Arizona State University and international students, not Docker or beginner setup for Docker; it is not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Helping you thrive at ASU Helping you thrive at ASUAs the #1 public university chosen by international students, we serve international students across ASU\u2019s five campuses and location in Lake Havasu City, Arizona. We work to facilitate the success of our more than 10,000 international students and scholars during their time",
+  "history": {
+    "url": "https://issc.asu.edu/",
+    "title": "Helping you thrive at ASU",
+    "description": "Helping you thrive at ASUAs the #1 public university chosen by international students, we serve international students across ASU\u2019s five campuses and location in Lake Havasu City, Arizona. We work to facilitate the success of our more than 10,000 international students and scholars during their time",
+    "frecency": 662,
+    "url_hash": 45256219886198,
+    "last_visit_date": 1758203926932200
+  }
+}

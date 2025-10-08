@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Make Every Moment Sparkle Sparkling Mineral Water View Products Sparkling Spring Water View Products Crystal Geyser Create a Celebration Crystal Geyser Sparkling Water elevates everyday experiences to meaningful moments. We believe that life is about creating special moments with the ones we love, and celebrating them every",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about sparkling water products and brand, not about apps or studying; not relevant to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Make Every Moment Sparkle Sparkling Mineral Water View Products Sparkling Spring Water View Products Crystal Geyser Create a Celebration Crystal Geyser Sparkling Water elevates everyday experiences to meaningful moments. We believe that life is about creating special moments with the ones we love, and celebrating them every",
+  "history": {
+    "url": "http://www.crystalgeyser.com/",
+    "title": "Make Every Moment Sparkle",
+    "description": "Sparkling Mineral Water View Products Sparkling Spring Water View Products Crystal Geyser Create a Celebration Crystal Geyser Sparkling Water elevates everyday experiences to meaningful moments. We believe that life is about creating special moments with the ones we love, and celebrating them every ",
+    "frecency": 4280,
+    "url_hash": 63481051129791,
+    "last_visit_date": 1758203933919228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "The Hidden Dangers of Racing NASCARThe Hidden Dangers of Racing Melissa Bauer-Herzog May 24, 2010John Harrelson/Getty Images It is common sense that driving race cars at over one 180 miles per hour is dangerous. In every race there is at least one wreck, and the drivers get into their car knowing full well that their next accid",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about NASCAR racing dangers and not related to API integration or debugging.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "The Hidden Dangers of Racing NASCARThe Hidden Dangers of Racing Melissa Bauer-Herzog May 24, 2010John Harrelson/Getty Images It is common sense that driving race cars at over one 180 miles per hour is dangerous. In every race there is at least one wreck, and the drivers get into their car knowing full well that their next accid",
+  "history": {
+    "url": "http://bleacherreport.com/articles/396020-the-hidden-dangers-of-racing",
+    "title": "The Hidden Dangers of Racing",
+    "description": "NASCARThe Hidden Dangers of Racing Melissa Bauer-Herzog May 24, 2010John Harrelson/Getty Images It is common sense that driving race cars at over one 180 miles per hour is dangerous. In every race there is at least one wreck, and the drivers get into their car knowing full well that their next accid",
+    "frecency": 3778,
+    "url_hash": 97983261717911,
+    "last_visit_date": 1758203927544111
+  }
+}

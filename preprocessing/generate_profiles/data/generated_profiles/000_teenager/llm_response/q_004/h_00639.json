@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Schooners Calendar Schooners Calendar Schooners is known for its live music and events. Check out our Panama City Beach calendar below for the most recent band and event dates.",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The page is a music/events calendar unrelated to improving at sports; content does not address sports performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Schooners Calendar Schooners Calendar Schooners is known for its live music and events. Check out our Panama City Beach calendar below for the most recent band and event dates.",
+  "history": {
+    "url": "http://www.schooners.com/calendar/",
+    "title": "Schooners Calendar",
+    "description": "Schooners Calendar Schooners is known for its live music and events. Check out our Panama City Beach calendar below for the most recent band and event dates. ",
+    "frecency": 2216,
+    "url_hash": 71519649068992,
+    "last_visit_date": 1758203927923139
+  }
+}

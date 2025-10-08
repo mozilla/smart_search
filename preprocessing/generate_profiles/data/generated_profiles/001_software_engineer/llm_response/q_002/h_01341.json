@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "What is a Receptionist? What is a Receptionist? Receptionists might find themselves answering phones, entering data, directing schedules, ensuring office operations run smoothly and even managing projects and events. As the initial point of contact, receptionists help form a visitor's first impression of a business or orga",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses receptionists and office administration, not IDEs or software development; thus it is not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "What is a Receptionist? What is a Receptionist? Receptionists might find themselves answering phones, entering data, directing schedules, ensuring office operations run smoothly and even managing projects and events. As the initial point of contact, receptionists help form a visitor's first impression of a business or orga",
+  "history": {
+    "url": "https://money.usnews.com/careers/best-jobs/receptionist",
+    "title": "What is a Receptionist?",
+    "description": "What is a Receptionist? Receptionists might find themselves answering phones, entering data, directing schedules, ensuring office operations run smoothly and even managing projects and events. As the initial point of contact, receptionists help form a visitor's first impression of a business or orga",
+    "frecency": 270,
+    "url_hash": 50490989334191,
+    "last_visit_date": 1758203927380200
+  }
+}

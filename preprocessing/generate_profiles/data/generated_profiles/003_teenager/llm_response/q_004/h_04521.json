@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "What is a HO Slot Car? From Wikipedia, the free encyclopedia (Slot Cars) Modern commercially-made slot cars and track. Ninco, 1:32 scale. A slot car (sometimes, slotcar) is a powered miniature auto or other vehicle that is guided by a groove or slot in the track on which it runs.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about HO slot cars (model racing) and slot car tracks, not about sports performance or ways to improve athletic ability.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "What is a HO Slot Car? \"What is a HO Slot Car? From Wikipedia, the free encyclopedia (Slot Cars)Modern commercially-made slot cars and track. Ninco, 1:32 scale. A slot car (sometimes, slotcar) is a powered miniature auto or other vehicle that is guided by a groove or slot in the track on which it runs. A pin or blade exte",
+  "history": {
+    "url": "http://hoslotcar.com/info.html",
+    "title": "What is a HO Slot Car?",
+    "description": "\"What is a HO Slot Car? From Wikipedia, the free encyclopedia (Slot Cars)Modern commercially-made slot cars and track. Ninco, 1:32 scale. A slot car (sometimes, slotcar) is a powered miniature auto or other vehicle that is guided by a groove or slot in the track on which it runs. A pin or blade exte",
+    "frecency": 313,
+    "url_hash": 39750399111726,
+    "last_visit_date": 1758203928256735
+  }
+}

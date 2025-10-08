@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Biography page about actor Tony Goldwyn with biographical details; not related to debugging API integration.",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a biographical page about an actor, not relevant to debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Biography \"Edit Tony Goldwyn Biography Showing all 23 items Jump to: Overview (4) | Mini Bio (1) | Spouse (1) | Trivia (16) | Personal Quotes (1)Overview (4)Born May 20, 1960 in Los Angeles, California, USABirth Name Anthony Howard Goldwyn Nickname Gold Height 6' 2\"\" (1.88 m)Mini Bio (1)Actor, director, produ",
+  "history": {
+    "url": "http://www.imdb.com/name/nm0001282/bio",
+    "title": "Biography",
+    "description": "\"Edit Tony Goldwyn Biography Showing all 23 items Jump to: Overview (4) | Mini Bio (1) | Spouse (1) | Trivia (16) | Personal Quotes (1)Overview (4)Born May 20, 1960 in Los Angeles, California, USABirth Name Anthony Howard Goldwyn Nickname Gold Height 6' 2\"\" (1.88 m)Mini Bio (1)Actor, director, produ",
+    "frecency": 3802,
+    "url_hash": 45084050067416,
+    "last_visit_date": 1758203927010200
+  }
+}

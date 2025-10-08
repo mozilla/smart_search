@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Pfile or SPFile \\\"Question and Answer Thanks for the question, Chandan. Asked: November 26, 2002 - 11:32 pm UTCAnswered by: Tom Kyte - Last updated: March 22, 2010 - 10:14 am UTCCategory: Database - Version: 9.0.1Viewed 10K+ times! This question is Whilst you are here, check out some content from the Ask Tom team: T",
+  "relevance_score": 0.7,
+  "binary_decision": 1,
+  "Decision_Reason": "The page is a database-focused Q&A (Ask Tom) relevant to topics about database queries, aligning with the query, though not strictly a tutorial on optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Pfile or SPFile \"Question and Answer Thanks for the question, Chandan. Asked: November 26, 2002 - 11:32 pm UTCAnswered by: Tom Kyte - Last updated: March 22, 2010 - 10:14 am UTCCategory: Database - Version: 9.0.1Viewed 10K+ times! This question is Whilst you are here, check out some content from the Ask Tom team: T",
+  "history": {
+    "url": "https://asktom.oracle.com/pls/asktom/f?p=100:11:0::::P11_QUESTION_ID:6644781942843",
+    "title": "Pfile or SPFile",
+    "description": "\"Question and Answer Thanks for the question, Chandan. Asked: November 26, 2002 - 11:32 pm UTCAnswered by: Tom Kyte - Last updated: March 22, 2010 - 10:14 am UTCCategory: Database - Version: 9.0.1Viewed 10K+ times! This question is Whilst you are here, check out some content from the Ask Tom team: T",
+    "frecency": 187,
+    "url_hash": 18357228688205,
+    "last_visit_date": 1758203931746111
+  }
+}

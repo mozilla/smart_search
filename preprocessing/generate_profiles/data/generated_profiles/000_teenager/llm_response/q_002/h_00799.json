@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Snow in Summer by Jane Yolen Snow in Summer by Jane Yolen Snow in Summer by Jane Yolen Target Audience: Middle Grade/YA Summary: With her black hair, red lips, and lily-white skin, Summer is as beautiful as her father's garden. And her life in the mountains of West Virginia seems like a fairy tale; her parents sing and dance wi",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a novel rather than DIY room decoration ideas; it is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Snow in Summer by Jane Yolen Snow in Summer by Jane Yolen Snow in Summer by Jane Yolen Target Audience: Middle Grade/YA Summary: With her black hair, red lips, and lily-white skin, Summer is as beautiful as her father's garden. And her life in the mountains of West Virginia seems like a fairy tale; her parents sing and dance wi",
+  "history": {
+    "url": "http://talesoldastime.blogspot.com/2013/01/snow-in-summer-by-jane-yolen.html",
+    "title": "Snow in Summer by Jane Yolen",
+    "description": "Snow in Summer by Jane Yolen Snow in Summer by Jane Yolen Target Audience: Middle Grade/YA Summary: With her black hair, red lips, and lily-white skin, Summer is as beautiful as her father's garden. And her life in the mountains of West Virginia seems like a fairy tale; her parents sing and dance wi",
+    "frecency": 1525,
+    "url_hash": 4678450490780,
+    "last_visit_date": 1758203927453139
+  }
+}

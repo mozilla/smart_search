@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "How to Divide Tracks in Audacity 1 Open Audacity. This program's icon resembles a blue pair of headphones with a red and orange sound wave in the middle of them. If you haven't yet installed Audacity, you can download it for Mac or PC from the official site: http://www.audacityteam.org/You may encounter bugs while running Audacity",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Audacity, an audio editing software, and contains no information related to Python libraries or machine learning; therefore it is not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "How to Divide Tracks in Audacity 1 Open Audacity. This program's icon resembles a blue pair of headphones with a red and orange sound wave in the middle of them. If you haven't yet installed Audacity, you can download it for Mac or PC from the official site: http://www.audacityteam.org/You may encounter bugs while running Audacity",
+  "history": {
+    "url": "http://www.wikihow.com/Divide-Tracks-in-Audacity",
+    "title": "How to Divide Tracks in Audacity",
+    "description": "1 Open Audacity. This program's icon resembles a blue pair of headphones with a red and orange sound wave in the middle of them. If you haven't yet installed Audacity, you can download it for Mac or PC from the official site: http://www.audacityteam.org/You may encounter bugs while running Audacity ",
+    "frecency": 4618,
+    "url_hash": 63517897043895,
+    "last_visit_date": 1758203931224111
+  }
+}

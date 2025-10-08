@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "5 reasons ABC might have canceled the Tim Allen comedy Last Man Standing Tim Allen\u2019s sitcom Last Man Standing has been canceled, despite solid ratings. ABCIt\u2019s not often a network cancels its second most-watched comedy in a sudden, surprising move. Usually, if a show that important to a network has to go out, it\u2019s granted some sort of \u201cthis will be your final season\u201d rep",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about television show cancellation, not about improving athletic performance or sports skills.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "5 reasons ABC might have canceled the Tim Allen comedy Last Man Standing Tim Allen\u2019s sitcom Last Man Standing has been canceled, despite solid ratings. ABCIt\u2019s not often a network cancels its second most-watched comedy in a sudden, surprising move. Usually, if a show that important to a network has to go out, it\u2019s granted some sort of \u201cthis will be your final season\u201d rep",
+  "history": {
+    "url": "https://www.vox.com/culture/2017/5/12/15628038/last-man-standing-canceled-tim-allen",
+    "title": "5 reasons ABC might have canceled the Tim Allen comedy Last Man Standing",
+    "description": "Tim Allen\u2019s sitcom Last Man Standing has been canceled, despite solid ratings. ABCIt\u2019s not often a network cancels its second most-watched comedy in a sudden, surprising move. Usually, if a show that important to a network has to go out, it\u2019s granted some sort of \u201cthis will be your final season\u201d rep",
+    "frecency": 2324,
+    "url_hash": 1169733048126,
+    "last_visit_date": 1758203928832735
+  }
+}

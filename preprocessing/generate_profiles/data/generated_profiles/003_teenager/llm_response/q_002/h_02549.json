@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Ouch! Burning pee! Is this a urinary tract infection (UTI)? \\\"Alice,I think I may have some kind of urinary tract infection. It came on very suddenly, about three nights ago. And when I pee, there is a burning sensation when my bladder has almost emptied. It's not an STD because I'm in a monogamous relationship, and yes, I'm sure! Please help. Thank you.\u2014 Bur\\\"",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page discusses a urinary tract infection, unrelated to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Ouch! Burning pee! Is this a urinary tract infection (UTI)? \"Alice,I think I may have some kind of urinary tract infection. It came on very suddenly, about three nights ago. And when I pee, there is a burning sensation when my bladder has almost emptied. It's not an STD because I'm in a monogamous relationship, and yes, I'm sure! Please help. Thank you.\u2014 Bur",
+  "history": {
+    "url": "http://goaskalice.columbia.edu/answered-questions/ouch-burning-pee-urinary-tract-infection-uti",
+    "title": "Ouch! Burning pee! Is this a urinary tract infection (UTI)?",
+    "description": "\"Alice,I think I may have some kind of urinary tract infection. It came on very suddenly, about three nights ago. And when I pee, there is a burning sensation when my bladder has almost emptied. It's not an STD because I'm in a monogamous relationship, and yes, I'm sure! Please help. Thank you.\u2014 Bur",
+    "frecency": 2378,
+    "url_hash": 50403731689061,
+    "last_visit_date": 1758203935481228
+  }
+}

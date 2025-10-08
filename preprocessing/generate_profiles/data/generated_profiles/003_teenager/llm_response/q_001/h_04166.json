@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "Heist (2001 film) from Wikipedia: a film page about the 2001 movie Heist, not related to TikTok trends.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a 2001 film, not about TikTok trends for 2024.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "Heist  (2001 film) \"Heist (2001 film)From Wikipedia, the free encyclopedia (Redirected from Heist (film))navigation search Not to be confused with The Heist (2001 film), Heist (2015 film), or The Big Heist. Heist Heist poster Directed by David Mamet Produced by Art Linson Elie Samaha Andrew Stevens Written by David Ma",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Heist_(film)",
+    "title": "Heist  (2001 film)",
+    "description": "\"Heist (2001 film)From Wikipedia, the free encyclopedia (Redirected from Heist (film))navigation search Not to be confused with The Heist (2001 film), Heist (2015 film), or The Big Heist. Heist Heist poster Directed by David Mamet Produced by Art Linson Elie Samaha Andrew Stevens Written by David Ma",
+    "frecency": 674,
+    "url_hash": 25898850482278,
+    "last_visit_date": 1758203929861228
+  }
+}

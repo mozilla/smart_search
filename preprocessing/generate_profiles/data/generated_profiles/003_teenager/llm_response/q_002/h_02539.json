@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "BOXED WARNING BOXED WARNINGCardiovascular Risk NSAIDs may cause an increased risk of serious cardiovascular thrombotic events, myocardial infarction, and stroke, which can be fatal. This risk may increase with duration of use. Patients with cardiovascular disease or risk factors for cardiovascular disease may be",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses cardiovascular risk warnings for NSAIDs, not easy DIY room decoration ideas; content is unrelated to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "BOXED WARNING BOXED WARNINGCardiovascular Risk NSAIDs may cause an increased risk of serious cardiovascular thrombotic events, myocardial infarction, and stroke, which can be fatal. This risk may increase with duration of use. Patients with cardiovascular disease or risk factors for cardiovascular disease may be",
+  "history": {
+    "url": "https://dailymed.nlm.nih.gov/dailymed/archives/fdaDrugInfo.cfm?archiveid=4563",
+    "title": "BOXED WARNING",
+    "description": "BOXED WARNINGCardiovascular Risk NSAIDs may cause an increased risk of serious cardiovascular thrombotic events, myocardial infarction, and stroke, which can be fatal. This risk may increase with duration of use. Patients with cardiovascular disease or risk factors for cardiovascular disease may be ",
+    "frecency": 2394,
+    "url_hash": 78906672830112,
+    "last_visit_date": 1758203934611228
+  }
+}

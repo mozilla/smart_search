@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "The Plane Train \\\"The Plane Train From Wikipedia, the free encyclopedianavigation search This article is about the underground people mover at Hartsfield\u2013Jackson Atlanta International Airport. For the elevated people mover that serves the airport's rental car center, see ATL Sky Train. The Plane Train Concourse A St",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses an airport transit system (The Plane Train) and is unrelated to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "The Plane Train \"The Plane Train From Wikipedia, the free encyclopedianavigation search This article is about the underground people mover at Hartsfield\u2013Jackson Atlanta International Airport. For the elevated people mover that serves the airport's rental car center, see ATL Sky Train. The Plane Train Concourse A St",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/The_Plane_Train",
+    "title": "The Plane Train",
+    "description": "\"The Plane Train From Wikipedia, the free encyclopedianavigation search This article is about the underground people mover at Hartsfield\u2013Jackson Atlanta International Airport. For the elevated people mover that serves the airport's rental car center, see ATL Sky Train. The Plane Train Concourse A St",
+    "frecency": 839,
+    "url_hash": 20611226947325,
+    "last_visit_date": 1758203926786200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "The People Factor \"Product Description Additional Information Reviews The relationships in your life will make the difference between happiness and misery. The right relationship will launch you to the heights of achievement; the wrong one will tether you to mediocrity. Your relationships will be your sources of grea",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved content discusses relationships rather than database query optimization, indicating no relevance to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "The People Factor \"Product Description Additional Information Reviews The relationships in your life will make the difference between happiness and misery. The right relationship will launch you to the heights of achievement; the wrong one will tether you to mediocrity. Your relationships will be your sources of grea",
+  "history": {
+    "url": "http://www.thomasnelson.com/the-people-factor",
+    "title": "The People Factor",
+    "description": "\"Product Description Additional Information Reviews The relationships in your life will make the difference between happiness and misery. The right relationship will launch you to the heights of achievement; the wrong one will tether you to mediocrity. Your relationships will be your sources of grea",
+    "frecency": 3824,
+    "url_hash": 19636244273029,
+    "last_visit_date": 1758203931316111
+  }
+}

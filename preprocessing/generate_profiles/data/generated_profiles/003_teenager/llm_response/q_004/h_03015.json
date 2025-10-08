@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "What do Amish eat? \\\"What do Amish eat? Amish consume a varied diet, including homegrown and store-bought foods Amish have a reputation for good food. Numerous tourist restaurants feature \u201cPennyslvania Dutch\u201d and \u201cAmish-style\u201d cooking. Amish food typically is very filling, and not low-fat. In addition to home-grown and",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Amish food, not about improving at sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "What do Amish eat? \"What do Amish eat? Amish consume a varied diet, including homegrown and store-bought foods Amish have a reputation for good food. Numerous tourist restaurants feature \u201cPennyslvania Dutch\u201d and \u201cAmish-style\u201d cooking. Amish food typically is very filling, and not low-fat. In addition to home-grown and",
+  "history": {
+    "url": "http://amishamerica.com/what-do-amish-eat/",
+    "title": "What do Amish eat?",
+    "description": "\"What do Amish eat? Amish consume a varied diet, including homegrown and store-bought foods Amish have a reputation for good food. Numerous tourist restaurants feature \u201cPennyslvania Dutch\u201d and \u201cAmish-style\u201d cooking. Amish food typically is very filling, and not low-fat. In addition to home-grown and",
+    "frecency": 1819,
+    "url_hash": 9811366493707,
+    "last_visit_date": 1758203934837228
+  }
+}

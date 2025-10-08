@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "America's Most Diverse National Recreation Area America's Most Diverse National Recreation Area Boat, hike, cycle, camp and fish at America\u2019s most diverse national recreation area. With striking landscapes and brilliant blue waters, this year-round playground spreads across 1.5 million acres of mountains, canyons, valleys and two vast lakes. See",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a national recreation area and outdoor activities, which is unrelated to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "America's Most Diverse National Recreation Area America's Most Diverse National Recreation Area Boat, hike, cycle, camp and fish at America\u2019s most diverse national recreation area. With striking landscapes and brilliant blue waters, this year-round playground spreads across 1.5 million acres of mountains, canyons, valleys and two vast lakes. See",
+  "history": {
+    "url": "https://www.nps.gov/lake/index.htm",
+    "title": "America's Most Diverse National Recreation Area",
+    "description": "America's Most Diverse National Recreation Area Boat, hike, cycle, camp and fish at America\u2019s most diverse national recreation area. With striking landscapes and brilliant blue waters, this year-round playground spreads across 1.5 million acres of mountains, canyons, valleys and two vast lakes. See ",
+    "frecency": 4937,
+    "url_hash": 13371859161383,
+    "last_visit_date": 1758203926539139
+  }
+}

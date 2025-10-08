@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "emeritus \\\"emeritus An emeritus is a retired college professor or minister. When a professor stops teaching, she might be given the title of emeritus, which basically means she can still be remembered as a successful professor. The word emeritus, pronounced \\\"eh-MER-ih-tus,\\\" is Latin, originally meaning ...",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is unrelated to Docker setup for beginners; it discusses the term 'emeritus' rather than Docker.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "emeritus \"emeritus An emeritus is a retired college professor or minister. When a professor stops teaching, she might be given the title of emeritus, which basically means she can still be remembered as a successful professor. The word emeritus, pronounced \"\"eh-MER-ih-tus,\"\" is Latin, originally meaning \"\"ve",
+  "history": {
+    "url": "https://www.vocabulary.com/dictionary/emeritus",
+    "title": "emeritus",
+    "description": "\"emeritus An emeritus is a retired college professor or minister. When a professor stops teaching, she might be given the title of emeritus, which basically means she can still be remembered as a successful professor. The word emeritus, pronounced \"\"eh-MER-ih-tus,\"\" is Latin, originally meaning \"\"ve",
+    "frecency": 4691,
+    "url_hash": 59870684818566,
+    "last_visit_date": 1758203928772200
+  }
+}

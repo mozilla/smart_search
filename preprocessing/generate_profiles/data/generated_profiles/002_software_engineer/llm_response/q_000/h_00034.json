@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Tolleson Assessor Office Tolleson Assessor Office Home Business, Finance, & Real Estate Offices Assessor Offices Arizona Maricopa County Tolleson Find Tolleson Arizona assessor, assessment, auditor's, and appraiser's offices, revenue commissions, GIS, and tax equalization departments. Assessors provide information on proper",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns local government assessor offices, not content about debugging or integrating APIs.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Tolleson Assessor Office Tolleson Assessor Office Home Business, Finance, & Real Estate Offices Assessor Offices Arizona Maricopa County Tolleson Find Tolleson Arizona assessor, assessment, auditor's, and appraiser's offices, revenue commissions, GIS, and tax equalization departments. Assessors provide information on proper",
+  "history": {
+    "url": "http://www.countyoffice.org/tolleson-az-assessor/",
+    "title": "Tolleson Assessor Office",
+    "description": "Tolleson Assessor Office Home Business, Finance, & Real Estate Offices Assessor Offices Arizona Maricopa County Tolleson Find Tolleson Arizona assessor, assessment, auditor's, and appraiser's offices, revenue commissions, GIS, and tax equalization departments. Assessors provide information on proper",
+    "frecency": 4938,
+    "url_hash": 33805409153440,
+    "last_visit_date": 1758203931498111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "food + drink + friends food + drink + friends Come in after a day of work, or on a leisure weekend and we'll serve up what it takes to make you happy. Whether it's great food or great drinks, you'll leave rested and ready. Belle Glades Restaurant abuts to the newest championship golf course in the Villages so you'll be re",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a restaurant webpage, not content about database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "food + drink + friends food + drink + friends Come in after a day of work, or on a leisure weekend and we'll serve up what it takes to make you happy. Whether it's great food or great drinks, you'll leave rested and ready. Belle Glades Restaurant abuts to the newest championship golf course in the Villages so you'll be re",
+  "history": {
+    "url": "http://www.bellegladerestaurant.com/",
+    "title": "food + drink + friends",
+    "description": "food + drink + friends Come in after a day of work, or on a leisure weekend and we'll serve up what it takes to make you happy. Whether it's great food or great drinks, you'll leave rested and ready. Belle Glades Restaurant abuts to the newest championship golf course in the Villages so you'll be re",
+    "frecency": 4525,
+    "url_hash": 57659429464255,
+    "last_visit_date": 1758203930870111
+  }
+}

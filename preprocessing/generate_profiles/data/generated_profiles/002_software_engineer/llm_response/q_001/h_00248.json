@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "The Negative Effects of Minimum Wage Laws \\\"Mark Wilson September 1, 2012The federal government through the Department of Labor has imposed a minimum wage since 1938. Nearly all the state governments also impose minimum wages. These laws prevent employers from paying wages below a mandated level. While the aim is to help workers, decades of",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses minimum wage laws and labor policy, which is unrelated to Python libraries or machine learning, yielding zero relevance to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "The Negative Effects of Minimum Wage Laws \"Mark Wilson September 1, 2012The federal government through the Department of Labor has imposed a minimum wage since 1938. Nearly all the state governments also impose minimum wages. These laws prevent employers from paying wages below a mandated level. While the aim is to help workers, decades of",
+  "history": {
+    "url": "http://www.downsizinggovernment.org/labor/negative-effects-minimum-wage-laws",
+    "title": "The Negative Effects of Minimum Wage Laws",
+    "description": "\"Mark Wilson September 1, 2012The federal government through the Department of Labor has imposed a minimum wage since 1938. Nearly all the state governments also impose minimum wages. These laws prevent employers from paying wages below a mandated level. While the aim is to help workers, decades of ",
+    "frecency": 4596,
+    "url_hash": 14608696278463,
+    "last_visit_date": 1758203931090111
+  }
+}

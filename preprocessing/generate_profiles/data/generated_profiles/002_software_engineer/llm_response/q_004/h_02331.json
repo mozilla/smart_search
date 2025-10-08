@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "How Does Construction Bidding Work? \"How Does Construction Bidding Work?by Donna Bogren; Updated September 26, 2017When a construction project is put out to bid, its owner is looking for a responsible, qualified contractor to do the work at a reasonable cost. The bid process ensures that potential bidders are working from the same inf",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses construction bidding, not Docker or technology; it is not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "How Does Construction Bidding Work? \"How Does Construction Bidding Work?by Donna Bogren; Updated September 26, 2017When a construction project is put out to bid, its owner is looking for a responsible, qualified contractor to do the work at a reasonable cost. The bid process ensures that potential bidders are working from the same inf",
+  "history": {
+    "url": "http://www.ehow.com/how-does_5446050_construction-bidding-work.html",
+    "title": "How Does Construction Bidding Work?",
+    "description": "\"How Does Construction Bidding Work?by Donna Bogren; Updated September 26, 2017When a construction project is put out to bid, its owner is looking for a responsible, qualified contractor to do the work at a reasonable cost. The bid process ensures that potential bidders are working from the same inf",
+    "frecency": 802,
+    "url_hash": 42472000528262,
+    "last_visit_date": 1758203931464111
+  }
+}

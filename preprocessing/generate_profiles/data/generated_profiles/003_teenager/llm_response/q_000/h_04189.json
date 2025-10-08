@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Aat Games Barbie Fun Cafe Slender Micro Ice Age Moto Forest Princess Baby Barbie Cake Shop Doraemon Escape Mutant Fighting Cup Doraemon Memory Matching Barbie Masquerade Princess Dressup Nascar Racing 3Talking Tom Valentine Demolition Inc Pilates Girl Pirate Cat With Broken Leg Tom VS Ben Air Hockey World Cup",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "Retrieved result is a collection of game titles unrelated to starting a YouTube channel; it does not address the query.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Aat Games Barbie Fun Cafe Slender Micro Ice Age Moto Forest Princess Baby Barbie Cake Shop Doraemon Escape Mutant Fighting Cup Doraemon Memory Matching Barbie Masquerade Princess Dressup Nascar Racing 3Talking Tom Valentine Demolition Inc Pilates Girl Pirate Cat With Broken Leg Tom VS Ben Air Hockey World Cup",
+  "history": {
+    "url": "http://www.flashgamesplayer.com/online/aat.html",
+    "title": "Aat Games",
+    "description": "Barbie Fun Cafe Slender Micro Ice Age Moto Forest Princess Baby Barbie Cake Shop Doraemon Escape Mutant Fighting Cup Doraemon Memory Matching Barbie Masquerade Princess Dressup Nascar Racing 3Talking Tom Valentine Demolition Inc Pilates Girl Pirate Cat With Broken Leg Tom VS Ben Air Hockey World Cup",
+    "frecency": 653,
+    "url_hash": 34342933392519,
+    "last_visit_date": 1758203934325228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "BCS Academy of Computing BCS Academy of Computing The BCS Academy of Computing is a learned society dedicated to advancing computing as an academic discipline. Its mission is to advance the creation, study and application of knowledge in computing for the benefit of society. This mission is a core component of the BCS\u2019s Roy",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page describes a computing society, not content about debugging APIs or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "BCS Academy of Computing BCS Academy of Computing The BCS Academy of Computing is a learned society dedicated to advancing computing as an academic discipline. Its mission is to advance the creation, study and application of knowledge in computing for the benefit of society. This mission is a core component of the BCS\u2019s Roy",
+  "history": {
+    "url": "http://academy.bcs.org/content/lovelace-medal",
+    "title": "BCS Academy of Computing",
+    "description": "BCS Academy of Computing The BCS Academy of Computing is a learned society dedicated to advancing computing as an academic discipline. Its mission is to advance the creation, study and application of knowledge in computing for the benefit of society. This mission is a core component of the BCS\u2019s Roy",
+    "frecency": 245,
+    "url_hash": 6404513652034,
+    "last_visit_date": 1758203930414111
+  }
+}

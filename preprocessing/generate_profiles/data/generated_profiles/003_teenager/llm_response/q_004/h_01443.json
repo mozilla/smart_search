@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Why Does Rain Smell So Good? \\\"Rain is an element of nature that many in society revere: We love it for the pitter patter it makes when it hits our roof; it gives us an excuse to curl up on the couch with a good book; and has inspired artistic masterpieces. Rain has the innate ability to simultaneously engage all of our senses,\\\"",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses rain and sensory experiences, not sports improvement or training strategies.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Why Does Rain Smell So Good? \"Rain is an element of nature that many in society revere: We love it for the pitter patter it makes when it hits our roof; it gives us an excuse to curl up on the couch with a good book; and has inspired artistic masterpieces. Rain has the innate ability to simultaneously engage all of our senses,",
+  "history": {
+    "url": "https://weather.com/science/nature/news/why-does-rain-smell-so-good-20131104",
+    "title": "Why Does Rain Smell So Good?",
+    "description": "\"Rain is an element of nature that many in society revere: We love it for the pitter patter it makes when it hits our roof; it gives us an excuse to curl up on the couch with a good book; and has inspired artistic masterpieces. Rain has the innate ability to simultaneously engage all of our senses, ",
+    "frecency": 3522,
+    "url_hash": 11261540282834,
+    "last_visit_date": 1758203935823228
+  }
+}

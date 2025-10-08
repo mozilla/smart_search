@@ -1,0 +1,5 @@
+{
+  "url": "http://www.techrepublic.com/article/the-ins-and-outs-of-the-windows-file-replication-service/",
+  "search_query": "how Windows replicates domain files",
+  "combined_text": "The ins and outs of the Windows File Replication Service \"0At the heart of Windows Server lies the File Replication Service (FRS). FRS is critical to the proper functioning of the Distributed File System and Group Policies, not to mention the proper functioning of login scripts across the domain. Without a properly functioning FRS, none of these services"
+}

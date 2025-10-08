@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "TELEMEDICINE REPORT TO CONGRESS \"TELEMEDICINE REPORT TO CONGRESSJanuary 31, 1997LEGAL ISSUES--LICENSURE AND TELEMEDICINEA. OVERVIEWTelemedicine raises a number of legal concerns regarding licensure and professional accountability, particularly relating to cross-state practice. The purpose of licensing health care professionals is",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns telemedicine legal/licensure issues and cross-state practice, not debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "TELEMEDICINE REPORT TO CONGRESS \"TELEMEDICINE REPORT TO CONGRESSJanuary 31, 1997LEGAL ISSUES--LICENSURE AND TELEMEDICINEA. OVERVIEWTelemedicine raises a number of legal concerns regarding licensure and professional accountability, particularly relating to cross-state practice. The purpose of licensing health care professionals is",
+  "history": {
+    "url": "https://www.ntia.doc.gov/legacy/reports/telemed/legal.htm",
+    "title": "TELEMEDICINE REPORT TO CONGRESS",
+    "description": "\"TELEMEDICINE REPORT TO CONGRESSJanuary 31, 1997LEGAL ISSUES--LICENSURE AND TELEMEDICINEA. OVERVIEWTelemedicine raises a number of legal concerns regarding licensure and professional accountability, particularly relating to cross-state practice. The purpose of licensing health care professionals is ",
+    "frecency": 3212,
+    "url_hash": 22678747091885,
+    "last_visit_date": 1758203927308111
+  }
+}

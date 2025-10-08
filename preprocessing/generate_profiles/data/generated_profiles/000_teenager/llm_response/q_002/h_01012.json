@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "The 2018 Oscar nominations by the numbers This video is either unavailable or not supported in this browser Error Code: MEDIA_ERR_SRC_NOT_SUPPORTEDTechnical details : No compatible source was found for this media. If you are using an older browser please try upgrading or installing Flash. Session ID: 2018-04-09:c8ce9fcc18f045bcd7cfdb9b Play",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses 2018 Oscar nominations and a video playback error, with no relation to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "The 2018 Oscar nominations by the numbers This video is either unavailable or not supported in this browser Error Code: MEDIA_ERR_SRC_NOT_SUPPORTEDTechnical details : No compatible source was found for this media. If you are using an older browser please try upgrading or installing Flash. Session ID: 2018-04-09:c8ce9fcc18f045bcd7cfdb9b Play",
+  "history": {
+    "url": "http://ew.com/awards/2018/01/23/2018-oscar-nominations-by-the-numbers/",
+    "title": "The 2018 Oscar nominations by the numbers",
+    "description": "This video is either unavailable or not supported in this browser Error Code: MEDIA_ERR_SRC_NOT_SUPPORTEDTechnical details : No compatible source was found for this media. If you are using an older browser please try upgrading or installing Flash. Session ID: 2018-04-09:c8ce9fcc18f045bcd7cfdb9b Play",
+    "frecency": 546,
+    "url_hash": 63506166508693,
+    "last_visit_date": 1758203928055139
+  }
+}

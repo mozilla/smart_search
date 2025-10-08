@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Glomerular filtration rate From Wikipedia, the free encyclopedianavigation search A single glomerulus The inside of a glomerulus showing the filter Glomerular filtration rate ( GFR) is a test used by physicians and other medical professionals to see if the kidneys are working correctly. In basic terms, it is a measurement of",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about glomerular filtration rate (a medical topic) and does not relate to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Glomerular filtration rate From Wikipedia, the free encyclopedianavigation search A single glomerulus The inside of a glomerulus showing the filter Glomerular filtration rate ( GFR) is a test used by physicians and other medical professionals to see if the kidneys are working correctly. In basic terms, it is a measurement of",
+  "history": {
+    "url": "https://simple.wikipedia.org/wiki/Glomerular_filtration_rate",
+    "title": "Glomerular filtration rate",
+    "description": "From Wikipedia, the free encyclopedianavigation search A single glomerulus The inside of a glomerulus showing the filter Glomerular filtration rate ( GFR) is a test used by physicians and other medical professionals to see if the kidneys are working correctly. In basic terms, it is a measurement of ",
+    "frecency": 3435,
+    "url_hash": 51609297884501,
+    "last_visit_date": 1758203931830111
+  }
+}

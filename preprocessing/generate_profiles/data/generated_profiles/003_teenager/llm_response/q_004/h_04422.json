@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Happy Birthday, Prince! \\\"By Rolling Stone June 7, 2011Prince, one of the great icons of Eighties pop and beyond, turns 53 today. To celebrate the occasion, Rolling Stone is sharing a classic Prince cover story from the archives, a set of photo galleries documenting the singer's recent concerts in New York City and Los Ange",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns a music artist and a Rolling Stone article, not content about improving sports performance or related topics.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Happy Birthday, Prince! \"By Rolling Stone June 7, 2011Prince, one of the great icons of Eighties pop and beyond, turns 53 today. To celebrate the occasion, Rolling Stone is sharing a classic Prince cover story from the archives, a set of photo galleries documenting the singer's recent concerts in New York City and Los Ange",
+  "history": {
+    "url": "http://www.rollingstone.com/music/news/happy-birthday-prince-20110607",
+    "title": "Happy Birthday, Prince!",
+    "description": "\"By Rolling Stone June 7, 2011Prince, one of the great icons of Eighties pop and beyond, turns 53 today. To celebrate the occasion, Rolling Stone is sharing a classic Prince cover story from the archives, a set of photo galleries documenting the singer's recent concerts in New York City and Los Ange",
+    "frecency": 415,
+    "url_hash": 42071409548221,
+    "last_visit_date": 1758203928338735
+  }
+}

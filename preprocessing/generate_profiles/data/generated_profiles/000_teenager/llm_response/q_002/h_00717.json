@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Creamy Peanut Butter Pancakes \"Home Recipes Breakfast and Brunch Pancakes Creamy Peanut Butter Pancakes14 made it | 10 reviews0Recipe by: phillyprincess00\"\"These are a twist to the traditional pancake breakfast! \"\"Save I Made It Print Pin Share Ingredients25 m 4 829On Sale What's on sale near you.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a pancake recipe and not related to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Creamy Peanut Butter Pancakes \"Home Recipes Breakfast and Brunch Pancakes Creamy Peanut Butter Pancakes14 made it | 10 reviews0Recipe by: phillyprincess00\"\"These are a twist to the traditional pancake breakfast! Definitely a family tradition! \"\"Save I Made It Print Pin Share Ingredients25 m 4 829On Sale What's on sale near you.",
+  "history": {
+    "url": "http://allrecipes.com/recipe/230493/creamy-peanut-butter-pancakes/",
+    "title": "Creamy Peanut Butter Pancakes",
+    "description": "\"Home Recipes Breakfast and Brunch Pancakes Creamy Peanut Butter Pancakes14 made it | 10 reviews0Recipe by: phillyprincess00\"\"These are a twist to the traditional pancake breakfast! Definitely a family tradition! \"\"Save I Made It Print Pin Share Ingredients25 m 4 829On Sale What's on sale near you. ",
+    "frecency": 1936,
+    "url_hash": 63992327757430,
+    "last_visit_date": 1758203927765139
+  }
+}

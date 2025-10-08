@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Thomas the Tank Engine \"From Wikipedia, the free encyclopedianavigation search This article is about the character. For the TV show the character appears in, see Thomas & Friends. Thomas the Tank Engine Thomas & Friends character Thomas' Model First appearance Thomas the Tank Engine ( The Railway Series) \"\"Thomas & Gordon\"",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns the Thomas the Tank Engine character and is unrelated to sports or improving athletic performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Thomas the Tank Engine \"From Wikipedia, the free encyclopedianavigation search This article is about the character. For the TV show the character appears in, see Thomas & Friends. Thomas the Tank Engine Thomas & Friends character Thomas' Model First appearance Thomas the Tank Engine ( The Railway Series) \"\"Thomas & Gordon",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Thomas_the_Tank_Engine",
+    "title": "Thomas the Tank Engine",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search This article is about the character. For the TV show the character appears in, see Thomas & Friends. Thomas the Tank Engine Thomas & Friends character Thomas' Model First appearance Thomas the Tank Engine ( The Railway Series) \"\"Thomas & Gordon",
+    "frecency": 3544,
+    "url_hash": 47737493353429,
+    "last_visit_date": 1758203927449139
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Question: Part A: Find the output voltage due to the current source i1 You are going to calculate the volt... Question: Part A: Find the output voltage due to the current source i1 You are going to calculate the volt... Part A: Find the output voltage due to the current source i1You are going to calculate the voltage drop across the 60 k? resistor due only to the current source i 1. Which of the following c",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "Retrieved result discusses electrical circuit analysis (output voltage, current source) and does not relate to debugging or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Question: Part A:  Find the output voltage due to the current source i1 You are going to calculate the volt... Question: Part A: Find the output voltage due to the current source i1 You are going to calculate the volt... Part A: Find the output voltage due to the current source i1You are going to calculate the voltage drop across the 60 k? resistor due only to the current source i 1. Which of the following c",
+  "history": {
+    "url": "http://www.chegg.com/homework-help/questions-and-answers/part-find-output-voltage-due-current-source-i1-going-calculate-voltage-drop-across-60-k-re-q5779533",
+    "title": "Question: Part A:  Find the output voltage due to the current source i1 You are going to calculate the volt...",
+    "description": "Question: Part A: Find the output voltage due to the current source i1 You are going to calculate the volt... Part A: Find the output voltage due to the current source i1You are going to calculate the voltage drop across the 60 k? resistor due only to the current source i 1. Which of the following c",
+    "frecency": 4231,
+    "url_hash": 9144809318347,
+    "last_visit_date": 1758203931518111
+  }
+}

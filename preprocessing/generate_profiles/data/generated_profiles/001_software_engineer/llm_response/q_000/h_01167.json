@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Welcome to Japan PDX Imports Welcome to Japan PDX Imports Licensed dealer of Right Hand Drive vehicles for use by postal mail carriers. Located in Portland, Oregon. Click for Current Inventory High quality used RHD vehicles for postal carriers Japan PDX Imports specializes in importing gently used right-hand drive vehicles for",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page discusses importing right-hand drive vehicles, not API integration debugging; it is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Welcome to Japan PDX Imports Welcome to Japan PDX Imports Licensed dealer of Right Hand Drive vehicles for use by postal mail carriers. Located in Portland, Oregon. Click for Current Inventory High quality used RHD vehicles for postal carriers Japan PDX Imports specializes in importing gently used right-hand drive vehicles for",
+  "history": {
+    "url": "http://www.japanpdximports.com/",
+    "title": "Welcome to Japan PDX Imports",
+    "description": "Welcome to Japan PDX Imports Licensed dealer of Right Hand Drive vehicles for use by postal mail carriers. Located in Portland, Oregon. Click for Current Inventory High quality used RHD vehicles for postal carriers Japan PDX Imports specializes in importing gently used right-hand drive vehicles for ",
+    "frecency": 881,
+    "url_hash": 97297005506851,
+    "last_visit_date": 1758203928968200
+  }
+}

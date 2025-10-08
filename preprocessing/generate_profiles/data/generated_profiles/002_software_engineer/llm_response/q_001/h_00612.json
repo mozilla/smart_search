@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Homepage Who Are We? One Stop is a retail convenience business with over 850 shops and a key focus on being the best store for customers in the neighbourhood. Open 7 days a week One Stop aims to meet the needs of all its local customers. Since 2003 we have been a subsidiary of Tesco. With our stores situated",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a retail convenience business and has no content related to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Homepage Who Are We? One Stop is a retail convenience business with over 850 shops and a key focus on being the best store for customers in the neighbourhood. Open 7 days a week One Stop aims to meet the needs of all its local customers. Since 2003 we have been a subsidiary of Tesco. With our stores situated",
+  "history": {
+    "url": "http://www.onestop.co.uk/about_us.php",
+    "title": "Homepage",
+    "description": "Who Are We? One Stop is a retail convenience business with over 850 shops and a key focus on being the best store for customers in the neighbourhood. Open 7 days a week One Stop aims to meet the needs of all its local customers. Since 2003 we have been a subsidiary of Tesco. With our stores situated",
+    "frecency": 3947,
+    "url_hash": 56037151692749,
+    "last_visit_date": 1758203931314111
+  }
+}

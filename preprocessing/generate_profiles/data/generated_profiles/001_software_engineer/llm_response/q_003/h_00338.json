@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Eric Holder Biography \"Quick Facts Name Eric Holder Occupation Legal Professional Birth Date January 21, 1951 (age)Education Columbia University, Columbia Law School, Stuyvesant High School Place of Birth New York, New York Zodiac Sign Aquarius Who Is Eric Holder? Early Education and Career Appointments Under Reagan,",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a biography of Eric Holder and is not related to database query optimization or how to optimize database queries.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Eric Holder Biography \"Quick Facts Name Eric Holder Occupation Legal Professional Birth Date January 21, 1951 (age 67)Education Columbia University, Columbia Law School, Stuyvesant High School Place of Birth New York, New York Zodiac Sign Aquarius Who Is Eric Holder? Early Education and Career Appointments Under Reagan,",
+  "history": {
+    "url": "https://www.biography.com/people/eric-holder-391612",
+    "title": "Eric Holder Biography",
+    "description": "\"Quick Facts Name Eric Holder Occupation Legal Professional Birth Date January 21, 1951 (age 67)Education Columbia University, Columbia Law School, Stuyvesant High School Place of Birth New York, New York Zodiac Sign Aquarius Who Is Eric Holder? Early Education and Career Appointments Under Reagan, ",
+    "frecency": 3816,
+    "url_hash": 53697715694457,
+    "last_visit_date": 1758203927068200
+  }
+}

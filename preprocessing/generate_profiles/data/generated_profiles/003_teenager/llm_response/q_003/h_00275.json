@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Tuscany Home \u00bb Tuscany Tuscany Tuscany is the undisputed leader in world tourism. Its scenery, artistic heritage and important towns, particularly Florence, made this region unique. It\u2019s a region where the hills outline the horizon, each rock, leaf and tree tells a 3,000 year old story of medieval villages,",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page discusses tourism in Tuscany and lacks any mention of study habits or apps, making it not relevant to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Tuscany Home \u00bb Tuscany Tuscany Tuscany is the undisputed leader in world tourism. Its scenery, artistic heritage and important towns, particularly Florence, made this region unique. It\u2019s a region where the hills outline the horizon, each rock, leaf and tree tells a 3,000 year old story of medieval villages,",
+  "history": {
+    "url": "http://www.termedisaturnia.it/en/tuscany/",
+    "title": "Tuscany",
+    "description": "Home \u00bb Tuscany Tuscany Tuscany is the undisputed leader in world tourism. Its scenery, artistic heritage and important towns, particularly Florence, made this region unique. It\u2019s a region where the hills outline the horizon, each rock, leaf and tree tells a 3,000 year old story of medieval villages,",
+    "frecency": 4733,
+    "url_hash": 99274558006503,
+    "last_visit_date": 1758203933401228
+  }
+}

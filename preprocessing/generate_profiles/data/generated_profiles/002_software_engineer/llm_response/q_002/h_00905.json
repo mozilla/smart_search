@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "VIZIO Picture Quality. Brilliance In Every Pixel VIZIO Picture Quality.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes VIZIO picture quality rather than any IDEs or software development topics; thus it is not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "VIZIO Picture Quality. Brilliance In Every Pixel VIZIO Picture Quality.",
+  "history": {
+    "url": "https://www.vizio.com/picture-quality",
+    "title": "VIZIO Picture Quality.",
+    "description": "Brilliance In Every Pixel VIZIO Picture Quality. ",
+    "frecency": 3362,
+    "url_hash": 7479831674864,
+    "last_visit_date": 1758203927476111
+  }
+}

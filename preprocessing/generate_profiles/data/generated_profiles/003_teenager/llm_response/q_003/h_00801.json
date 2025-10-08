@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Led Zeppelin \"From Wikipedia, the free encyclopedia (Redirected from Zeppelin, Led)navigation search This article is about the band. For their eponymous first album, see Led Zeppelin (album). For other uses, see Led Zeppelin (disambiguation). Led Zeppelin Clockwise, from top left: Jimmy Page, John Bonham, Robert",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The result is about a rock band (Led Zeppelin) and not about apps or studying; it is not relevant to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Led Zeppelin \"From Wikipedia, the free encyclopedia (Redirected from Zeppelin, Led)navigation search This article is about the band. For their eponymous first album, see Led Zeppelin (album). For other uses, see Led Zeppelin (disambiguation). Led Zeppelin Clockwise, from top left: Jimmy Page, John Bonham, Robert",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Zeppelin,_Led",
+    "title": "Led Zeppelin",
+    "description": "\"From Wikipedia, the free encyclopedia (Redirected from Zeppelin, Led)navigation search This article is about the band. For their eponymous first album, see Led Zeppelin (album). For other uses, see Led Zeppelin (disambiguation). Led Zeppelin Clockwise, from top left: Jimmy Page, John Bonham, Robert",
+    "frecency": 4144,
+    "url_hash": 88990160659285,
+    "last_visit_date": 1758203933069228
+  }
+}

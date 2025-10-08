@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Secretary General Ministry Minister Deputy Ministers Secretary General Division for Public Communication Office on the Copyright and Related Rights Organisation Contact Access to Public Documents Culture and Cultural Heritage Institutions Reports Publications Newsletter Secretary General Veton Firzi Permanent Secret",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result appears to be a government/organizational page about officials and public communications, not related to API debugging or integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Secretary General \"Ministry Minister Deputy Ministers Secretary General Division for Public Communication Office on the Copyright and Related Rights Organisation Contact Access to Public Documents Culture and Cultural Heritage Institutions Reports Publications Newsletter Secretary General Veton Firzi Permanent Secret",
+  "history": {
+    "url": "http://www.mkrs-ks.org/?page=2,23,43",
+    "title": "Secretary General",
+    "description": "\"Ministry Minister Deputy Ministers Secretary General Division for Public Communication Office on the Copyright and Related Rights Organisation Contact Access to Public Documents Culture and Cultural Heritage Institutions Reports Publications Newsletter Secretary General Veton Firzi Permanent Secret",
+    "frecency": 2355,
+    "url_hash": 73226455394844,
+    "last_visit_date": 1758203929724111
+  }
+}

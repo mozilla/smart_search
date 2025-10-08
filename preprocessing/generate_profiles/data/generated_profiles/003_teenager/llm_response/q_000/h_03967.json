@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "How to Play Tetris 1 Get a Tetris game to play. Tetris is available on almost all electronic mediums, you can try it on your computer; a GBA or Nintendo DS work too.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about playing Tetris, not about starting or running a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "How to Play Tetris 1 Get a Tetris game to play. Tetris is available on almost all electronic mediums, you can try it on your computer; a GBA or Nintendo DS work too.",
+  "history": {
+    "url": "https://www.wikihow.com/Play-Tetris",
+    "title": "How to Play Tetris",
+    "description": "1 Get a Tetris game to play. Tetris is available on almost all electronic mediums, you can try it on your computer; a GBA or Nintendo DS work too. ",
+    "frecency": 887,
+    "url_hash": 75273400730034,
+    "last_visit_date": 1758203932667228
+  }
+}

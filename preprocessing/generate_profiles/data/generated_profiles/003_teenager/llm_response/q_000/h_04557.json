@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "I Quit Showering, and Life Continued \u2014 an Atlantic health article about washing, not about starting a YouTube channel.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The article discusses hygiene and time spent washing; it has no content related to starting or running a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "I Quit Showering, and Life Continued \"I Quit Showering, and Life Continued We spend two full years of our lives washing ourselves. How much of that time (and money and water) is a waste? Nicolas Pollock / The Atlantic James Hamblin Jun 9, 2016 Health Share Tweet\u2026Linked In Email Print Text Size Like The Atlantic? Subscribe to The Atlant",
+  "history": {
+    "url": "https://www.theatlantic.com/health/archive/2016/06/i-stopped-showering-and-life-continued/486314/",
+    "title": "I Quit Showering, and Life Continued",
+    "description": "\"I Quit Showering, and Life Continued We spend two full years of our lives washing ourselves. How much of that time (and money and water) is a waste? Nicolas Pollock / The Atlantic James Hamblin Jun 9, 2016 Health Share Tweet\u2026Linked In Email Print Text Size Like The Atlantic? Subscribe to The Atlant",
+    "frecency": 276,
+    "url_hash": 86124140913351,
+    "last_visit_date": 1758203928092735
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Study between beaches and the foot of Mt. Keira Study between beaches and the foot of Mt. Keira Would you like an 83-acre campus nestled between beautiful bushland at the foot of Mt. Kiera and the stunning coastline while only an hour south of Sydney? University of Wollongong is perfect if you want access to Sydney\u2019s events, culture and nightlife",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The page discusses the University of Wollongong and campus information, not easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Study between beaches and the foot of Mt. Keira Study between beaches and the foot of Mt. Keira Would you like an 83-acre campus nestled between beautiful bushland at the foot of Mt. Kiera and the stunning coastline while only an hour south of Sydney? University of Wollongong is perfect if you want access to Sydney\u2019s events, culture and nightlife",
+  "history": {
+    "url": "http://studyabroad.arcadia.edu/find-a-program/programs-by-country/australia/university-of-wollongong/",
+    "title": "Study between beaches and the foot of Mt. Keira",
+    "description": "Study between beaches and the foot of Mt. Keira Would you like an 83-acre campus nestled between beautiful bushland at the foot of Mt. Kiera and the stunning coastline while only an hour south of Sydney? University of Wollongong is perfect if you want access to Sydney\u2019s events, culture and nightlife",
+    "frecency": 460,
+    "url_hash": 53788804079567,
+    "last_visit_date": 1758203935315228
+  }
+}

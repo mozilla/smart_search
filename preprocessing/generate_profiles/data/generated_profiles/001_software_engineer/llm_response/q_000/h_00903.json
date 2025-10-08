@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Former Eagles Member Randy Meisner Allegedly Threatened Murder-Suicide \\\"Former Eagles Member Randy Meisner Allegedly Threatened Murder-Suicide A judge placed the musician under court-ordered supervision following accusations from a friend's lawyer Former Eagles bassist Randy Meisner allegedly threatened murder-suicide and has been placed under court-ordered supervision\\\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a musician's legal issues, not about debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Former Eagles Member Randy Meisner Allegedly Threatened Murder-Suicide \"Former Eagles Member Randy Meisner Allegedly Threatened Murder-Suicide A judge placed the musician under court-ordered supervision following accusations from a friend's lawyer Former Eagles bassist Randy Meisner allegedly threatened murder-suicide and has been placed under court-ordered supervision",
+  "history": {
+    "url": "http://www.rollingstone.com/music/news/former-eagles-member-randy-meisner-allegedly-threatened-murder-suicide-20150709",
+    "title": "Former Eagles Member Randy Meisner Allegedly Threatened Murder-Suicide",
+    "description": "\"Former Eagles Member Randy Meisner Allegedly Threatened Murder-Suicide A judge placed the musician under court-ordered supervision following accusations from a friend's lawyer Former Eagles bassist Randy Meisner allegedly threatened murder-suicide and has been placed under court-ordered supervision",
+    "frecency": 1869,
+    "url_hash": 57462172977081,
+    "last_visit_date": 1758203926940200
+  }
+}

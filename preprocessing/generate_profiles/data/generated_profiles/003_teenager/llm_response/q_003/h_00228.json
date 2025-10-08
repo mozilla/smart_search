@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Keyboard concertos by Johann Sebastian Bach \"From Wikipedia, the free encyclopedianavigation search This article or section is in the process of an expansion or major restructuring. You are welcome to assist in its construction by editing it as well. If this article or section has not been edited in several days, please remove this template.\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about keyboard concertos by Bach and contains Wikipedia maintenance text; it is unrelated to apps for improving study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Keyboard concertos by Johann Sebastian Bach \"From Wikipedia, the free encyclopedianavigation search This article or section is in the process of an expansion or major restructuring. You are welcome to assist in its construction by editing it as well. If this article or section has not been edited in several days, please remove this template.",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Keyboard_concertos_by_Johann_Sebastian_Bach",
+    "title": "Keyboard concertos by Johann Sebastian Bach",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search This article or section is in the process of an expansion or major restructuring. You are welcome to assist in its construction by editing it as well. If this article or section has not been edited in several days, please remove this template. ",
+    "frecency": 4777,
+    "url_hash": 60891299063834,
+    "last_visit_date": 1758203931987228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Sarah's Key  (novel) \"From Wikipedia, the free encyclopedianavigation search For the film adaptation, see Sarah's Key. Sarah's Key French cover (2nd edition). Author Tatiana de Rosnay Original title Elle s'appelait Sarah Country France Language French Genre Holocaust Publisher France Loisirs Publication date September 2",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a novel page (Sarah's Key) and not related to easy DIY room decoration ideas; the content is unrelated to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Sarah's Key  (novel) \"From Wikipedia, the free encyclopedianavigation search For the film adaptation, see Sarah's Key. Sarah's Key French cover (2nd edition). Author Tatiana de Rosnay Original title Elle s'appelait Sarah Country France Language French Genre Holocaust Publisher France Loisirs Publication date September 2",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Sarah%27s_Key_%28novel%29",
+    "title": "Sarah's Key  (novel)",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search For the film adaptation, see Sarah's Key. Sarah's Key French cover (2nd edition). Author Tatiana de Rosnay Original title Elle s'appelait Sarah Country France Language French Genre Holocaust Publisher France Loisirs Publication date September 2",
+    "frecency": 3955,
+    "url_hash": 480330396735,
+    "last_visit_date": 1758203930401228
+  }
+}

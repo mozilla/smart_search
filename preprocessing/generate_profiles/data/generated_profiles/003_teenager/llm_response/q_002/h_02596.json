@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Come Out, Come Out Lyrics highlight lyrics to add meaning... Come out, come out, where ever you are, come meet the young lady who fell from a star. She fell from the sky, she fell very far, and Kansas she says is the name of the star. Munchkins: And Kansas she says is the name of the star She brings you good news, or haven't",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is song lyrics (not about DIY room decoration) and is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Come Out, Come Out Lyrics highlight lyrics to add meaning... Come out, come out, where ever you are, come meet the young lady who fell from a star. She fell from the sky, she fell very far, and Kansas she says is the name of the star. Munchkins: And Kansas she says is the name of the star She brings you good news, or haven't",
+  "history": {
+    "url": "http://www.metrolyrics.com/come-out-come-out-lyrics-wizard-of-oz.html",
+    "title": "Come Out, Come Out Lyrics",
+    "description": "highlight lyrics to add meaning... Come out, come out, where ever you are, come meet the young lady who fell from a star. She fell from the sky, she fell very far, and Kansas she says is the name of the star. Munchkins: And Kansas she says is the name of the star She brings you good news, or haven't",
+    "frecency": 2334,
+    "url_hash": 39485878902337,
+    "last_visit_date": 1758203931943228
+  }
+}

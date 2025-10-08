@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "The Nutrition of Brown Rice The Nutrition of Brown Rice Fitday Editor Nutrition Healthy Eating Brown rice is one of the healthiest cereal grains for more the half the world's population. White rice has most of its outer layers removed. This strips it of most of its nutritional value. The brown variety retains most of its layer",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses brown rice nutrition and does not address improving sports performance, athletic training, or related guidance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "The Nutrition of Brown Rice The Nutrition of Brown Rice Fitday Editor Nutrition Healthy Eating Brown rice is one of the healthiest cereal grains for more the half the world's population. White rice has most of its outer layers removed. This strips it of most of its nutritional value. The brown variety retains most of its layer",
+  "history": {
+    "url": "http://www.fitday.com/fitness-articles/nutrition/healthy-eating/the-nutrition-of-brown-rice.html",
+    "title": "The Nutrition of Brown Rice",
+    "description": "The Nutrition of Brown Rice Fitday Editor Nutrition Healthy Eating Brown rice is one of the healthiest cereal grains for more the half the world's population. White rice has most of its outer layers removed. This strips it of most of its nutritional value. The brown variety retains most of its layer",
+    "frecency": 1166,
+    "url_hash": 32657141251108,
+    "last_visit_date": 1758203931221228
+  }
+}

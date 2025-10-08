@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Pink Valentine Frosting \"Home Recipes Desserts Frostings and Icings Pink Valentine Frosting24 made it | 21 reviews Recipe by: Laria Tabul\"\"Frosting for Easy Valentine Sandwich Cookies (see recipe). \"\"Save I Made It Print Pin Share Ingredients16 31On Sale What's on sale near you. We're showing stores near Seattle Update Loc",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about frosting recipes, not IDEs or software development topics.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Pink Valentine Frosting \"Home Recipes Desserts Frostings and Icings Pink Valentine Frosting24 made it | 21 reviews Recipe by: Laria Tabul\"\"Frosting for Easy Valentine Sandwich Cookies (see recipe). \"\"Save I Made It Print Pin Share Ingredients16 31On Sale What's on sale near you. We're showing stores near Seattle Update Loc",
+  "history": {
+    "url": "http://allrecipes.com/recipe/10414/pink-valentine-frosting/",
+    "title": "Pink Valentine Frosting",
+    "description": "\"Home Recipes Desserts Frostings and Icings Pink Valentine Frosting24 made it | 21 reviews Recipe by: Laria Tabul\"\"Frosting for Easy Valentine Sandwich Cookies (see recipe). \"\"Save I Made It Print Pin Share Ingredients16 31On Sale What's on sale near you. We're showing stores near Seattle Update Loc",
+    "frecency": 2379,
+    "url_hash": 11787567248259,
+    "last_visit_date": 1758203928046111
+  }
+}

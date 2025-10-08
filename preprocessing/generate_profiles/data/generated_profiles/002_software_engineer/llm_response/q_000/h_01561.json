@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "What Is Undifferentiated Marketing? \"Related Articles1What Is the Difference Between Differentiated & Undifferentiated Marketing Strategies?2Difference Between Differentiated Marketing Strategy and Concentrated Marketing Strategy3An Example of Undifferentiated Marketing4What Are Examples of a Differentiation Marketing Strategy? Market",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses marketing strategies rather than debugging APIs; it is not relevant to the query about debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "What Is Undifferentiated Marketing? \"Related Articles1What Is the Difference Between Differentiated & Undifferentiated Marketing Strategies?2Difference Between Differentiated Marketing Strategy and Concentrated Marketing Strategy3An Example of Undifferentiated Marketing4What Are Examples of a Differentiation Marketing Strategy? Market",
+  "history": {
+    "url": "http://smallbusiness.chron.com/undifferentiated-marketing-20797.html",
+    "title": "What Is Undifferentiated Marketing?",
+    "description": "\"Related Articles1What Is the Difference Between Differentiated & Undifferentiated Marketing Strategies?2Difference Between Differentiated Marketing Strategy and Concentrated Marketing Strategy3An Example of Undifferentiated Marketing4What Are Examples of a Differentiation Marketing Strategy? Market",
+    "frecency": 2177,
+    "url_hash": 63918800585303,
+    "last_visit_date": 1758203931630111
+  }
+}

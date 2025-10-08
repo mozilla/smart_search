@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Seashore Bikes & Golf Carts Serving The Shore Drive Community For Over 30 Years !Photos of the Business Information about this business (3)We are a full service bicycle and golf cart retailer. We service all brand of bikes, new and used bikes. We service Ez-Go, Yamaha, Club Car, Tomberlin, Star Cars, and GEM Cars. Posted on Se",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a bicycle and golf cart retailer; it is unrelated to debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Seashore Bikes & Golf Carts Serving The Shore Drive Community For Over 30 Years !Photos of the Business Information about this business (3)We are a full service bicycle and golf cart retailer. We service all brand of bikes, new and used bikes. We service Ez-Go, Yamaha, Club Car, Tomberlin, Star Cars, and GEM Cars. Posted on Se",
+  "history": {
+    "url": "http://find.hamptonroads.com/seashore-bikes-golf-carts-virginia-beach-va.html",
+    "title": "Seashore Bikes & Golf Carts",
+    "description": "Serving The Shore Drive Community For Over 30 Years !Photos of the Business Information about this business (3)We are a full service bicycle and golf cart retailer. We service all brand of bikes, new and used bikes. We service Ez-Go, Yamaha, Club Car, Tomberlin, Star Cars, and GEM Cars. Posted on Se",
+    "frecency": 628,
+    "url_hash": 7293188515808,
+    "last_visit_date": 1758203928824111
+  }
+}

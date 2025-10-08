@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "How to Make Zucchini Noodles + 10 Zucchini Noodle Recipes (Everyday Maven, July 31, 2013) - a zucchini noodle recipe article.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a zucchini noodle recipe article, unrelated to improving athletic performance or sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "How to Make Zucchini Noodles + 10 Zucchini Noodle Recipes \"You are here: Home / By Diet / Dairy Free / How to Make Zucchini Noodles + 10 Zucchini Noodle Recipes How to Make Zucchini Noodles + 10 Zucchini Noodle Recipes July 31, 2013 By Everyday Maven 73 Comments Pin 3.65K Yum Share 1.43K Email5.08KZucchini Noodles have been all the rage for quite some time",
+  "history": {
+    "url": "http://www.everydaymaven.com/2013/how-to-make-zucchini-noodles/",
+    "title": "How to Make Zucchini Noodles + 10 Zucchini Noodle Recipes",
+    "description": "\"You are here: Home / By Diet / Dairy Free / How to Make Zucchini Noodles + 10 Zucchini Noodle Recipes How to Make Zucchini Noodles + 10 Zucchini Noodle Recipes July 31, 2013 By Everyday Maven 73 Comments Pin 3.65K Yum Share 1.43K Email5.08KZucchini Noodles have been all the rage for quite some time",
+    "frecency": 906,
+    "url_hash": 69878455901104,
+    "last_visit_date": 1758203934775228
+  }
+}

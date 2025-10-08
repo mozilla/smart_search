@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Great Location Welcome To Dutch Hollow Village Community!Visit Busch Stadium and See The St. Louis Cardinals Play! Explore St. Louis at the World Famous City Museum Enjoy an Evening of Outdoor Music at the Muny Theatre St. Louis Is Home To The World Class St. Louis Zoo! The St. Louis Zoo Is A Great Place for A Fam",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a local tourism/housing advertisement and contains no information about apps or study habit improvement.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Great Location Welcome To Dutch Hollow Village Community!Visit Busch Stadium and See The St. Louis Cardinals Play! Explore St. Louis at the World Famous City Museum Enjoy an Evening of Outdoor Music at the Muny Theatre St. Louis Is Home To The World Class St. Louis Zoo! The St. Louis Zoo Is A Great Place for A Fam",
+  "history": {
+    "url": "http://www.dutchhollowvillage.com/great-location/",
+    "title": "Great Location",
+    "description": "Welcome To Dutch Hollow Village Community!Visit Busch Stadium and See The St. Louis Cardinals Play! Explore St. Louis at the World Famous City Museum Enjoy an Evening of Outdoor Music at the Muny Theatre St. Louis Is Home To The World Class St. Louis Zoo! The St. Louis Zoo Is A Great Place for A Fam",
+    "frecency": 4593,
+    "url_hash": 32498769626244,
+    "last_visit_date": 1758203930677228
+  }
+}

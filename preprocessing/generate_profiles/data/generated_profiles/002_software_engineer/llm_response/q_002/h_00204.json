@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Minnesota billionaires listed by Forbes \"Let's consider trading places. This news makes us want to go out and rent \\\"Trading Places\\\" all over again. Forbes is out with its list of the world's most wildly wealthy tycoons. Itfigures there are 1,210 billionaires in the world, worth a total of $4.5 trillion -- a figure that beats the gross d",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Forbes billionaire lists, unrelated to IDEs or software development.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Minnesota billionaires listed by Forbes \"Let's consider trading places. This news makes us want to go out and rent \"\"Trading Places\"\" all over again. Forbes is out with its list of the world's most wildly wealthy tycoons. Itfigures there are 1,210 billionaires in the world, worth a total of $4.5 trillion -- a figure that beats the gross d",
+  "history": {
+    "url": "http://www.citypages.com/news/minnesota-billionaires-listed-by-forbes-6561970",
+    "title": "Minnesota billionaires listed by Forbes",
+    "description": "\"Let's consider trading places. This news makes us want to go out and rent \"\"Trading Places\"\" all over again. Forbes is out with its list of the world's most wildly wealthy tycoons. Itfigures there are 1,210 billionaires in the world, worth a total of $4.5 trillion -- a figure that beats the gross d",
+    "frecency": 4666,
+    "url_hash": 54170140579917,
+    "last_visit_date": 1758203932172111
+  }
+}

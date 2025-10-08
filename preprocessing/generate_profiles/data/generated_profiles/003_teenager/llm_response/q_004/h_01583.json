@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "About: Mission History Mission and Guiding Principles FAQ and Fact Sheets Fun on Wildlife Refuges Field Notes Refuge Reports Conservation Heroes Multimedia Careers Archives About: Mission Mission Statement The Mission of the National Wildlife Refuge System is to administer a national network of lands and waters fo",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The result describes a National Wildlife Refuge System mission page and contains no content related to improving sports performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "About: Mission History Mission and Guiding Principles FAQ and Fact Sheets Fun on Wildlife Refuges Field Notes Refuge Reports Conservation Heroes Multimedia Careers Archives About: Mission Mission Statement The Mission of the National Wildlife Refuge System is to administer a national network of lands and waters fo",
+  "history": {
+    "url": "https://www.fws.gov/refuges/about/mission.html",
+    "title": "About: Mission",
+    "description": "History Mission and Guiding Principles FAQ and Fact Sheets Fun on Wildlife Refuges Field Notes Refuge Reports Conservation Heroes Multimedia Careers Archives About: Mission Mission Statement The Mission of the National Wildlife Refuge System is to administer a national network of lands and waters fo",
+    "frecency": 3375,
+    "url_hash": 12432987646968,
+    "last_visit_date": 1758203927768735
+  }
+}

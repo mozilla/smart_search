@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Browse by Series or Topic Listen to/view CDC podcasts on your computer or download them for reliable health and safety information when and where you want it. New to podcasting? See Podcast Help and RSS Help HIV/AIDSNational Latino AIDS Awareness Day Listen To This Podcast (3:21)This podcast highlights National Latino AIDS A",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about CDC podcasts and health information, not about debugging APIs or API integration; no content related to API debugging.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Browse by Series or Topic Listen to/view CDC podcasts on your computer or download them for reliable health and safety information when and where you want it. New to podcasting? See Podcast Help and RSS Help HIV/AIDSNational Latino AIDS Awareness Day Listen To This Podcast (3:21)This podcast highlights National Latino AIDS A",
+  "history": {
+    "url": "https://www2c.cdc.gov/podcasts/browse.asp?c=497",
+    "title": "Browse by Series or Topic",
+    "description": "Listen to/view CDC podcasts on your computer or download them for reliable health and safety information when and where you want it. New to podcasting? See Podcast Help and RSS Help HIV/AIDSNational Latino AIDS Awareness Day Listen To This Podcast (3:21)This podcast highlights National Latino AIDS A",
+    "frecency": 1204,
+    "url_hash": 21679361386764,
+    "last_visit_date": 1758203927972200
+  }
+}

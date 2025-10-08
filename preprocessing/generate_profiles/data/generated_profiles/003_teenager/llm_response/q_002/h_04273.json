@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Oh, the Places You'll Go! \"From Wikipedia, the free encyclopedianavigation search Oh, the Places You'll Go!Author Dr. Seuss Country United States Language English Genre Children's literature Publisher Random House Publication date January 22, 1990Media type Print ( Hardcover and paperback)ISBN 0-679-80527-3OCLC 20169007Dewey",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a Dr. Seuss children's book, not any topic related to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Oh, the Places You'll Go! \"From Wikipedia, the free encyclopedianavigation search Oh, the Places You'll Go!Author Dr. Seuss Country United States Language English Genre Children's literature Publisher Random House Publication date January 22, 1990Media type Print ( Hardcover and paperback)ISBN 0-679-80527-3OCLC 20169007Dewey",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Oh,_the_Places_You%27ll_Go!",
+    "title": "Oh, the Places You'll Go!",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search Oh, the Places You'll Go!Author Dr. Seuss Country United States Language English Genre Children's literature Publisher Random House Publication date January 22, 1990Media type Print ( Hardcover and paperback)ISBN 0-679-80527-3OCLC 20169007Dewey",
+    "frecency": 569,
+    "url_hash": 17432421589832,
+    "last_visit_date": 1758203934397228
+  }
+}

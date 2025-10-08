@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "About R9 About R9Posted on By revolution9band See More... Media Posted on By revolution9band See More... Shows Posted on By revolution9band See More...",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result contains unrelated content about 'R9' and 'revolution9band' with no reference to study apps or study habits; not relevant to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "About R9 About R9Posted on By revolution9band See More... Media Posted on By revolution9band See More... Shows Posted on By revolution9band See More...",
+  "history": {
+    "url": "http://www.revolution9band.com/",
+    "title": "About R9",
+    "description": "About R9Posted on By revolution9band See More... Media Posted on By revolution9band See More... Shows Posted on By revolution9band See More... ",
+    "frecency": 2552,
+    "url_hash": 80403460278580,
+    "last_visit_date": 1758203928780735
+  }
+}

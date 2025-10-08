@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "The Metamorphosis The Absurdity of Life Beginning with its first sentence, The Metamorphosis deals with an absurd, or wildly irrational event, which in itself suggests that the story operates in a random, chaotic universe. The absurd event is Gregor \u2019s waking up to discover he has turned into a giant insect, and sin",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses The Metamorphosis, a literary analysis, not DIY room decoration ideas; it is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "The Metamorphosis The Absurdity of Life Beginning with its first sentence, The Metamorphosis deals with an absurd, or wildly irrational, event, which in itself suggests that the story operates in a random, chaotic universe. The absurd event is Gregor \u2019s waking up to discover he has turned into a giant insect, and sin",
+  "history": {
+    "url": "http://www.sparknotes.com/lit/metamorph/themes.html",
+    "title": "The Metamorphosis",
+    "description": "The Absurdity of Life Beginning with its first sentence, The Metamorphosis deals with an absurd, or wildly irrational, event, which in itself suggests that the story operates in a random, chaotic universe. The absurd event is Gregor \u2019s waking up to discover he has turned into a giant insect, and sin",
+    "frecency": 2288,
+    "url_hash": 92334768451032,
+    "last_visit_date": 1758203928447139
+  }
+}

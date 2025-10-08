@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Community mourns family members killed in boating accident PLEASANT VIEW -- A community awoke to devastating news Tuesday morning after hearing that a well-liked doctor, his two daughters and their friend died tragically in a boating accident.\u201cThey were a model family, perfect in every way,\u201d neighbor Lori Tennant told the Standard-Examiner. \u201cOur little gran",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a boating accident news article with no relation to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Community mourns family members killed in boating accident PLEASANT VIEW -- A community awoke to devastating news Tuesday morning after hearing that a well-liked doctor, his two daughters and their friend died tragically in a boating accident.\u201cThey were a model family, perfect in every way,\u201d neighbor Lori Tennant told the Standard-Examiner. \u201cOur little gran",
+  "history": {
+    "url": "http://www.standard.net/News/2015/06/02/Community-mourns-loss-of-family-to-boating-accident",
+    "title": "Community mourns family members killed in boating accident",
+    "description": "PLEASANT VIEW -- A community awoke to devastating news Tuesday morning after hearing that a well-liked doctor, his two daughters and their friend died tragically in a boating accident.\u201cThey were a model family, perfect in every way,\u201d neighbor Lori Tennant told the Standard-Examiner. \u201cOur little gran",
+    "frecency": 3368,
+    "url_hash": 29004619672176,
+    "last_visit_date": 1758203931912111
+  }
+}

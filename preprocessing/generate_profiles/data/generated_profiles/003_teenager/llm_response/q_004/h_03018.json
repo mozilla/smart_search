@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Chicago Stadium Tweet Chicago Stadium Between the Bulls and Blackhawks, the Stadium hosted 10 Stanley Cup Finals and three NBA Finals Opened on March 28, 1929, the Chicago Stadium served host to numerous sporting events, concerts and political conventions. Built at a cost of $7 million, the Madhouse on Madison serv",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page discusses a sports venue's history rather than guidance or strategies to improve athletic performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Chicago Stadium Tweet Chicago Stadium Between the Bulls and Blackhawks, the Stadium hosted 10 Stanley Cup Finals and three NBA Finals Opened on March 28, 1929, the Chicago Stadium served host to numerous sporting events, concerts and political conventions. Built at a cost of $7 million, the Madhouse on Madison serv",
+  "history": {
+    "url": "http://www.nba.com/bulls/history/chicago_stadium.html",
+    "title": "Chicago Stadium",
+    "description": "Tweet Chicago Stadium Between the Bulls and Blackhawks, the Stadium hosted 10 Stanley Cup Finals and three NBA Finals Opened on March 28, 1929, the Chicago Stadium served host to numerous sporting events, concerts and political conventions. Built at a cost of $7 million, the Madhouse on Madison serv",
+    "frecency": 1818,
+    "url_hash": 27129675181039,
+    "last_visit_date": 1758203931815228
+  }
+}

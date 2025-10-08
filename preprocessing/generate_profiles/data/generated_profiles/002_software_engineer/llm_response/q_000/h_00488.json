@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Shopping in Norfolk, VA Shopping in Norfolk, VAMac Arthur Center Recently named a top attraction in the region, the one-million square foot Mac Arthur Center located in the heart of downtown is one of the best places to shop in the area! Along with a wide selection of stores, Mac Arthur Center also offers a variety of ente",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about shopping at a mall in Norfolk, VA and is not related to debugging or integrating APIs.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Shopping in Norfolk, VA Shopping in Norfolk, VAMac Arthur Center Recently named a top attraction in the region, the one-million square foot Mac Arthur Center located in the heart of downtown is one of the best places to shop in the area! Along with a wide selection of stores, Mac Arthur Center also offers a variety of ente",
+  "history": {
+    "url": "https://www.visitnorfolk.com/things-to-do/shopping/",
+    "title": "Shopping in Norfolk, VA",
+    "description": "Shopping in Norfolk, VAMac Arthur Center Recently named a top attraction in the region, the one-million square foot Mac Arthur Center located in the heart of downtown is one of the best places to shop in the area! Along with a wide selection of stores, Mac Arthur Center also offers a variety of ente",
+    "frecency": 4157,
+    "url_hash": 31049909712030,
+    "last_visit_date": 1758203927904111
+  }
+}

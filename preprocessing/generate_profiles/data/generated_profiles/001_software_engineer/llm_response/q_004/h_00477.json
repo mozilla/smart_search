@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Q: Networking two computers to access QuickBooks through a modem \\\"SH Sharon-daskala asked on August 19, 2011Q: Networking two computers to access Quick Books through a modem I am trying to set up two computers to access Quick Books through a modem (Network), but my parent computer won't let me change the permissions to allow the other computer to access the files",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses networking QuickBooks between two computers via a modem, which is unrelated to Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Q: Networking two computers to access QuickBooks through a modem \"SH Sharon-daskala asked on August 19, 2011Q: Networking two computers to access Quick Books through a modem I am trying to set up two computers to access Quick Books through a modem (Network), but my parent computer won't let me change the permissions to allow the other computer to access the files",
+  "history": {
+    "url": "http://answers.microsoft.com/en-us/windows/forum/windows_7-networking/networking-two-computers-to-access-quickbooks/29c13938-063e-4adf-bcf1-2f3b906a7ce2",
+    "title": "Q: Networking two computers to access QuickBooks through a modem",
+    "description": "\"SH Sharon-daskala asked on August 19, 2011Q: Networking two computers to access Quick Books through a modem I am trying to set up two computers to access Quick Books through a modem (Network), but my parent computer won't let me change the permissions to allow the other computer to access the files",
+    "frecency": 3361,
+    "url_hash": 13189813874195,
+    "last_visit_date": 1758203928254200
+  }
+}

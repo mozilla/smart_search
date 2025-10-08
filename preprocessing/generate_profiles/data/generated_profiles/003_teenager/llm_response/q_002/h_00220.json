@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "We Are Independent Health Insurance Specialists We Are Independent Health Insurance Specialists We specialise in providing health insurance to individuals, couples, families and business of all sizes Get a Quote",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns health insurance, not DIY room decoration ideas; no alignment with the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "We Are Independent Health Insurance Specialists We Are Independent Health Insurance Specialists We specialise in providing health insurance to individuals, couples, families and business of all sizes Get a Quote",
+  "history": {
+    "url": "http://www.lifepointhealthcare.co.uk/",
+    "title": "We Are Independent Health Insurance Specialists",
+    "description": "We Are Independent Health Insurance Specialists We specialise in providing health insurance to individuals, couples, families and business of all sizes Get a Quote ",
+    "frecency": 4782,
+    "url_hash": 58976812205990,
+    "last_visit_date": 1758203927734735
+  }
+}

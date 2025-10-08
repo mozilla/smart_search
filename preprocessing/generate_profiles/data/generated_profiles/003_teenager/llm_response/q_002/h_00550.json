@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Gargoyle \\\"From Wikipedia, the free encyclopedianavigation search This article is about the statues on buildings. For the monster, see Gargoyle (monster). For other uses, see Gargoyle (disambiguation). This article needs additional citations for verification. Please help improve this article by adding citatio",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses gargoyles (statues) and disambiguation, not DIY room decoration ideas; unrelated to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Gargoyle \"From Wikipedia, the free encyclopedianavigation search This article is about the statues on buildings. For the monster, see Gargoyle (monster). For other uses, see Gargoyle (disambiguation). This article needs additional citations for verification. Please help improve this article by adding citatio",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Gargoyle",
+    "title": "Gargoyle",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search This article is about the statues on buildings. For the monster, see Gargoyle (monster). For other uses, see Gargoyle (disambiguation). This article needs additional citations for verification. Please help improve this article by adding citatio",
+    "frecency": 4414,
+    "url_hash": 56166257175463,
+    "last_visit_date": 1758203930577228
+  }
+}

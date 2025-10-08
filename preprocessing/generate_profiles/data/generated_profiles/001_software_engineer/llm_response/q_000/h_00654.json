@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Requirements traceability \\\"Requirements traceability is a sub-discipline of requirements management within software development and systems engineering. Traceability as a general term is defined by the IEEE Systems and Software Engineering Vocabulary [1] as (1) the degree to which a relationship can be established between tw",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result topic is about requirements traceability, unrelated to debugging API integrations.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Requirements traceability \"Requirements traceability is a sub-discipline of requirements management within software development and systems engineering. Traceability as a general term is defined by the IEEE Systems and Software Engineering Vocabulary [1] as (1) the degree to which a relationship can be established between tw",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Requirements_Traceability",
+    "title": "Requirements traceability",
+    "description": "\"Requirements traceability is a sub-discipline of requirements management within software development and systems engineering. Traceability as a general term is defined by the IEEE Systems and Software Engineering Vocabulary [1] as (1) the degree to which a relationship can be established between tw",
+    "frecency": 2782,
+    "url_hash": 71229347787528,
+    "last_visit_date": 1758203928460200
+  }
+}

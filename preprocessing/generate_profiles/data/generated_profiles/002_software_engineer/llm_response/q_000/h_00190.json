@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "How do you save something on a USB stick? \\\"Computers & Internet Hardware Add-ons How do you save something on a USB stick? I know this must be like the easiest thing to but, i guess i'm computer challenged. Also how do u check what's on it ? (it's my sisters and she told me that i could earase stuff that's on it) I have a PC, trying to save",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses saving data to a USB stick, not debugging API integrations; does not address the query topic.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "How do you save something on a USB stick? \"Computers & Internet Hardware Add-ons How do you save something on a USB stick? I know this must be like the easiest thing to but, i guess i'm computer challenged. Also how do u check what's on it ? (it's my sisters and she told me that i could earase stuff that's on it) I have a PC, trying to save",
+  "history": {
+    "url": "https://answers.yahoo.com/question/index?qid=20080414211635AAB6tBM",
+    "title": "How do you save something on a USB stick?",
+    "description": "\"Computers & Internet Hardware Add-ons How do you save something on a USB stick? I know this must be like the easiest thing to but, i guess i'm computer challenged. Also how do u check what's on it ? (it's my sisters and she told me that i could earase stuff that's on it) I have a PC, trying to save",
+    "frecency": 4697,
+    "url_hash": 57141923852049,
+    "last_visit_date": 1758203930688111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Cyberpunk \"From Wikipedia, the free encyclopedianavigation search For other uses, see Cyberpunk (disambiguation). Not to be confused with Cypherpunk. A cyberpunk cityscape Cyberpunk is a subgenre of science fiction in a futuristic setting that tends to focus on \\\"a combination of low life and high tech \\\" [1]",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Cyberpunk, a science fiction subgenre, and is not relevant to 'how to get better at sports'.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Cyberpunk \"From Wikipedia, the free encyclopedianavigation search For other uses, see Cyberpunk (disambiguation). Not to be confused with Cypherpunk. A cyberpunk cityscape Cyberpunk is a subgenre of science fiction in a futuristic setting that tends to focus on \"\"a combination of low life and high tech \"\" [1]",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Cyberpunk",
+    "title": "Cyberpunk",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search For other uses, see Cyberpunk (disambiguation). Not to be confused with Cypherpunk. A cyberpunk cityscape Cyberpunk is a subgenre of science fiction in a futuristic setting that tends to focus on \"\"a combination of low life and high tech \"\" [1]",
+    "frecency": 4924,
+    "url_hash": 70876267056621,
+    "last_visit_date": 1758203933713228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Express Delivery Services & International Shipping DHL Colombia | Express Express Delivery Services & International Shipping When you ship with DHL Express \u2013 you\u2019re shipping with specialists in international shipping and courier delivery services! With our wide range of express parcel and package services, along with shipping and tracking solutions",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes DHL express shipping services; unrelated to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Express Delivery Services & International Shipping DHL Colombia | Express Express Delivery Services & International Shipping When you ship with DHL Express \u2013 you\u2019re shipping with specialists in international shipping and courier delivery services! With our wide range of express parcel and package services, along with shipping and tracking solutions",
+  "history": {
+    "url": "http://www.dhl.com.co/en/express.html",
+    "title": "Express Delivery Services & International Shipping",
+    "description": "DHL Colombia | Express Express Delivery Services & International Shipping When you ship with DHL Express \u2013 you\u2019re shipping with specialists in international shipping and courier delivery services! With our wide range of express parcel and package services, along with shipping and tracking solutions ",
+    "frecency": 2520,
+    "url_hash": 70615502064964,
+    "last_visit_date": 1758203927634111
+  }
+}

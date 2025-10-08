@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "SAP AG \\\"From Wikipedia, the free encyclopedia SAP AGType Aktiengesellschaft ( ISIN: DE0007164600, FWB: SAP, NYSE : SAP)Founded Weinheim, Germany (1972)Headquarters Walldorf, Germany Key people Henning Kagermann, co-CEO, Leo Apotheker, co-CEO & President, Global Customer Solutions & Operations. Members of t",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes SAP AG as a company and contains no content related to optimizing database queries.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "SAP AG \"From Wikipedia, the free encyclopedia SAP AGType Aktiengesellschaft ( ISIN: DE0007164600, FWB: SAP, NYSE : SAP)Founded Weinheim, Germany (1972)Headquarters Walldorf, Germany Key people Henning Kagermann, co-CEO, Leo Apotheker, co-CEO & President, Global Customer Solutions & Operations. Members of t",
+  "history": {
+    "url": "http://taggedwiki.zubiaga.org/new_content/8f2c383aa5a827e4f49c7cdd99ef2075",
+    "title": "SAP AG",
+    "description": "\"From Wikipedia, the free encyclopedia SAP AGType Aktiengesellschaft ( ISIN: DE0007164600, FWB: SAP, NYSE : SAP)Founded Weinheim, Germany (1972)Headquarters Walldorf, Germany Key people Henning Kagermann, co-CEO, Leo Apotheker, co-CEO & President, Global Customer Solutions & Operations. Members of t",
+    "frecency": 3876,
+    "url_hash": 12342367825727,
+    "last_visit_date": 1758203928840111
+  }
+}

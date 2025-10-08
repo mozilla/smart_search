@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Physicians Regional Medical Center - Pine Ridge Skip to Search Form Skip to Navigation Skip to Page Content Yelp Find Near Cancel Search Sign Up Log In Login Sign Up About Me Talk Oops, we can't find your location First, try refreshing the page and clicking Current Location again. Make sure you click Allow or Grant Permissions if your browser ask",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is unrelated to software development IDEs; it appears to be a medical center/yelp page and does not address IDEs or programming tools.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Physicians Regional Medical Center - Pine Ridge Skip to Search Form Skip to Navigation Skip to Page Content Yelp Find Near Cancel Search Sign Up Log In Login Sign Up About Me Talk Oops, we can't find your location First, try refreshing the page and clicking Current Location again. Make sure you click Allow or Grant Permissions if your browser ask",
+  "history": {
+    "url": "https://www.yelp.com/biz/physicians-regional-medical-center-pine-ridge-naples",
+    "title": "Physicians Regional Medical Center - Pine Ridge",
+    "description": "Skip to Search Form Skip to Navigation Skip to Page Content Yelp Find Near Cancel Search Sign Up Log In Login Sign Up About Me Talk Oops, we can't find your location First, try refreshing the page and clicking Current Location again. Make sure you click Allow or Grant Permissions if your browser ask",
+    "frecency": 846,
+    "url_hash": 431028623190,
+    "last_visit_date": 1758203929334111
+  }
+}

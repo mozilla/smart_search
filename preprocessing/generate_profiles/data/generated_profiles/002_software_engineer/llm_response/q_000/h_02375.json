@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "BETTER DELIVERIES, HAPPIER CUSTOMERS \"Features Industries Blog Contact Sections Features Industries About us Resources Blog Contact us More content API Docs Support center Terms & conditions Privacy policy Home Features Industries About us Resources Blog Contact us Customer log in BETTER DELIVERIES, HAPPIER CUSTOMERSBoost your logistic",
+  "relevance_score": 0.2,
+  "binary_decision": 0,
+  "Decision_Reason": "The page appears to be a logistics/delivery service site. It does not provide content focused on debugging or integrating APIs, though it mentions an 'API Docs' link. Overall relevance to 'how to debug API integration' is low.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "BETTER DELIVERIES, HAPPIER CUSTOMERS \"Features Industries Blog Contact Sections Features Industries About us Resources Blog Contact us More content API Docs Support center Terms & conditions Privacy policy Home Features Industries About us Resources Blog Contact us Customer log in BETTER DELIVERIES, HAPPIER CUSTOMERSBoost your logistic",
+  "history": {
+    "url": "https://www.beetrack.com/en/",
+    "title": "BETTER DELIVERIES, HAPPIER CUSTOMERS",
+    "description": "\"Features Industries Blog Contact Sections Features Industries About us Resources Blog Contact us More content API Docs Support center Terms & conditions Privacy policy Home Features Industries About us Resources Blog Contact us Customer log in BETTER DELIVERIES, HAPPIER CUSTOMERSBoost your logistic",
+    "frecency": 722,
+    "url_hash": 218898575380,
+    "last_visit_date": 1758203931916111
+  }
+}

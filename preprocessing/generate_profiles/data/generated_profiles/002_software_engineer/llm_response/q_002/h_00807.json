@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Documentation for Administrators This page describes the features and details of Chromium\u2019s central management of policies and preferences. Chromium supports methods of managing the browser's behavior centrally, through group policy, MCX files, and external configuration files. This gives you, as an administrator, a way to manage t",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The page discusses Chromium policy management for administrators, not IDEs or software development environments.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Documentation for Administrators This page describes the features and details of Chromium\u2019s central management of policies and preferences. Chromium supports methods of managing the browser's behavior centrally, through group policy, MCX files, and external configuration files. This gives you, as an administrator, a way to manage t",
+  "history": {
+    "url": "https://www.chromium.org/administrators",
+    "title": "Documentation for Administrators",
+    "description": "This page describes the features and details of Chromium\u2019s central management of policies and preferences. Chromium supports methods of managing the browser's behavior centrally, through group policy, MCX files, and external configuration files. This gives you, as an administrator, a way to manage t",
+    "frecency": 3537,
+    "url_hash": 90515980053381,
+    "last_visit_date": 1758203929180111
+  }
+}

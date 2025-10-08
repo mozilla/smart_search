@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Access 2010: database tasks \"Here are some basic database tasks that you can do to help you learn how to use Microsoft Access 2010. In this article What is Access? Relational databases in Access When you open Access Find and apply a template Create a database from scratch Open an existing Access database Get started using your\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Microsoft Access 2010 database tasks, not API debugging or API integration, so it is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Access 2010: database tasks \"Here are some basic database tasks that you can do to help you learn how to use Microsoft Access 2010. In this article What is Access? Relational databases in Access When you open Access Find and apply a template Create a database from scratch Open an existing Access database Get started using your",
+  "history": {
+    "url": "https://support.office.com/en-us/article/Access-2010-database-tasks-268ACFED-2484-4822-ACB3-C30E58045588",
+    "title": "Access 2010: database tasks",
+    "description": "\"Here are some basic database tasks that you can do to help you learn how to use Microsoft Access 2010. In this article What is Access? Relational databases in Access When you open Access Find and apply a template Create a database from scratch Open an existing Access database Get started using your",
+    "frecency": 653,
+    "url_hash": 26606383651271,
+    "last_visit_date": 1758203928336111
+  }
+}

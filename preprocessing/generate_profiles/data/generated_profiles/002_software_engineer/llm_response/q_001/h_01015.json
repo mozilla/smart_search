@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Risk & Return in Financial Management \"Risk & Return in Financial Managementby Leigh Richards; Updated September 26, 2017The concept of financial risk and return is an important aspect of a financial manager's core responsibilities within a business. Generally, the more financial risk a business is exposed to the greater its chances fo",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page content discusses financial risk and return, not Python libraries or machine learning, so it is not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Risk & Return in Financial Management \"Risk & Return in Financial Managementby Leigh Richards; Updated September 26, 2017The concept of financial risk and return is an important aspect of a financial manager's core responsibilities within a business. Generally, the more financial risk a business is exposed to, the greater its chances fo",
+  "history": {
+    "url": "http://www.ehow.com/info_10021656_financial-product.html",
+    "title": "Risk & Return in Financial Management",
+    "description": "\"Risk & Return in Financial Managementby Leigh Richards; Updated September 26, 2017The concept of financial risk and return is an important aspect of a financial manager's core responsibilities within a business. Generally, the more financial risk a business is exposed to, the greater its chances fo",
+    "frecency": 3190,
+    "url_hash": 37905387928066,
+    "last_visit_date": 1758203930748111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "What does a non-perturbative theory mean? \"_Physics Stack Exchange is a question and answer site for active researchers, academics and students of physics. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top What does a non-perturbati",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns non-perturbative theory in physics and is unrelated to debugging API integrations; it does not address the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "What does a non-perturbative theory mean? \"_Physics Stack Exchange is a question and answer site for active researchers, academics and students of physics. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top What does a non-perturbati",
+  "history": {
+    "url": "https://physics.stackexchange.com/questions/31930/what-does-a-non-perturbative-theory-mean",
+    "title": "What does a non-perturbative theory mean?",
+    "description": "\"_Physics Stack Exchange is a question and answer site for active researchers, academics and students of physics. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top What does a non-perturbati",
+    "frecency": 4440,
+    "url_hash": 34872808592835,
+    "last_visit_date": 1758203928630111
+  }
+}

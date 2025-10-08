@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "The Amazon Women: Is There Any Truth Behind the Myth? I oved watching the \u201cWonder Woman\u201d TV series when I was a girl. I never wanted to dress like her\u2014the idea of wearing a gold lam\u00e9 bustier and star-spangled blue underwear all day seemed problematic\u2014but the Amazonian princess was strong and resourceful, with a rope trick for every problem. She seemed",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about The Amazon Women myth and Wonder Woman, not related to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "The Amazon Women: Is There Any Truth Behind the Myth? I oved watching the \u201cWonder Woman\u201d TV series when I was a girl. I never wanted to dress like her\u2014the idea of wearing a gold lam\u00e9 bustier and star-spangled blue underwear all day seemed problematic\u2014but the Amazonian princess was strong and resourceful, with a rope trick for every problem. She seemed",
+  "history": {
+    "url": "http://www.smithsonianmag.com/history/amazon-women-there-any-truth-behind-myth-180950188/",
+    "title": "The Amazon Women: Is There Any Truth Behind the Myth?",
+    "description": "I oved watching the \u201cWonder Woman\u201d TV series when I was a girl. I never wanted to dress like her\u2014the idea of wearing a gold lam\u00e9 bustier and star-spangled blue underwear all day seemed problematic\u2014but the Amazonian princess was strong and resourceful, with a rope trick for every problem. She seemed ",
+    "frecency": 1090,
+    "url_hash": 17696267895957,
+    "last_visit_date": 1758203933533228
+  }
+}

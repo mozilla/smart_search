@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "PeloponessosGythio Greece Travel Guide Athensguide Greek Island Guide Lesvos Hotels of Greece Turkey Paris Peloponessos Gythio One of my favorite places in Greece is Gythio in the southern Peloponessos. It is a port town with lots of good fish restaurants, some great ouzeries and is within driving distance of the Mani",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a travel guide about a location in Greece, not information about improving athletic performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "PeloponessosGythio Greece Travel Guide Athensguide Greek Island Guide Lesvos Hotels of Greece Turkey Paris Peloponessos Gythio One of my favorite places in Greece is Gythio in the southern Peloponessos. It is a port town with lots of good fish restaurants, some great ouzeries and is within driving distance of the Mani",
+  "history": {
+    "url": "http://www.greecetravel.com/peloponessos/gythion/",
+    "title": "PeloponessosGythio",
+    "description": "Greece Travel Guide Athensguide Greek Island Guide Lesvos Hotels of Greece Turkey Paris Peloponessos Gythio One of my favorite places in Greece is Gythio in the southern Peloponessos. It is a port town with lots of good fish restaurants, some great ouzeries and is within driving distance of the Mani",
+    "frecency": 1163,
+    "url_hash": 90185540253624,
+    "last_visit_date": 1758203927524735
+  }
+}

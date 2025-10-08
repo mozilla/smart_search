@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "David Hockney: \u00e2When I\u00e2m working, I feel like Picasso, I feel I\u00e2m 30\u00e2 David Hockney The Observer Interview David Hockney: \u2018When I\u2019m working, I feel like Picasso, I feel I\u2019m 30\u2019By Tim Lewis David Hockney last year left Yorkshire and returned to his home in the Hollywood Hills after a series of traumatic events in his personal life. Here the 77-year-old reveals how Cali",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses David Hockney and an interview, not Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "David Hockney: \u00e2When I\u00e2m working, I feel like Picasso, I feel I\u00e2m 30\u00e2 David Hockney The Observer Interview David Hockney: \u2018When I\u2019m working, I feel like Picasso, I feel I\u2019m 30\u2019By Tim Lewis David Hockney last year left Yorkshire and returned to his home in the Hollywood Hills after a series of traumatic events in his personal life. Here the 77-year-old reveals how Cali",
+  "history": {
+    "url": "https://www.theguardian.com/artanddesign/2014/nov/16/david-hockney-interview-i-feel-like-picasso",
+    "title": "David Hockney: \u00e2When I\u00e2m working, I feel like Picasso, I feel I\u00e2m 30\u00e2",
+    "description": "David Hockney The Observer Interview David Hockney: \u2018When I\u2019m working, I feel like Picasso, I feel I\u2019m 30\u2019By Tim Lewis David Hockney last year left Yorkshire and returned to his home in the Hollywood Hills after a series of traumatic events in his personal life. Here the 77-year-old reveals how Cali",
+    "frecency": 1335,
+    "url_hash": 23449405593807,
+    "last_visit_date": 1758203929910111
+  }
+}

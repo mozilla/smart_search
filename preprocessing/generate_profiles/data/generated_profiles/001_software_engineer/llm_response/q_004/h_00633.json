@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "ALDI HOURS ALDI HOURSAldi can be a breath of fresh air to those who frequent American supermarkets like Kroger or Publix. The store carries a wide variety of international foods and products. Whether you want to try some exotic tasty chips or just do your grocery shopping, Aldi is worth checking out. You might",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Aldi grocery store hours and groceries, not Docker or software setup. It is not relevant to the query about Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "ALDI HOURS ALDI HOURSAldi can be a breath of fresh air to those who frequent American supermarkets like Kroger or Publix. The store carries a wide variety of international foods and products. Whether you want to try some exotic tasty chips or just do your grocery shopping, Aldi is worth checking out. You might",
+  "history": {
+    "url": "http://www.allbusinesshours.com/aldi-hours-what-are-aldi-opening-times-hours/",
+    "title": "ALDI HOURS",
+    "description": "ALDI HOURSAldi can be a breath of fresh air to those who frequent American supermarkets like Kroger or Publix. The store carries a wide variety of international foods and products. Whether you want to try some exotic tasty chips or just do your grocery shopping, Aldi is worth checking out. You might",
+    "frecency": 2830,
+    "url_hash": 79355376071524,
+    "last_visit_date": 1758203927604200
+  }
+}

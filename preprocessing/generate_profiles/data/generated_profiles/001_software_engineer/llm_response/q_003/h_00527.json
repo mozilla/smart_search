@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Payroll FAQs \"Question: What is meant by \\\"lag\\\" payroll? Answer: All University State employees are paid on a biweekly lag basis. This means that you are paid for a two week pay period (beginning on a Thursday through the second Wednesday) two weeks after the conclusion of that pay period (exception: hourly emp",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses payroll lag and employee compensation, not database query optimization; domain mismatch.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Payroll FAQs \"Question: What is meant by \"\"lag\"\" payroll? Answer: All University State employees are paid on a biweekly lag basis. This means that you are paid for a two week pay period (beginning on a Thursday through the second Wednesday) two weeks after the conclusion of that pay period (exception: hourly emp",
+  "history": {
+    "url": "https://www.brockport.edu/support/human_resources/payroll/faq.html",
+    "title": "Payroll FAQs",
+    "description": "\"Question: What is meant by \"\"lag\"\" payroll? Answer: All University State employees are paid on a biweekly lag basis. This means that you are paid for a two week pay period (beginning on a Thursday through the second Wednesday) two weeks after the conclusion of that pay period (exception: hourly emp",
+    "frecency": 3171,
+    "url_hash": 94130648083739,
+    "last_visit_date": 1758203927806200
+  }
+}

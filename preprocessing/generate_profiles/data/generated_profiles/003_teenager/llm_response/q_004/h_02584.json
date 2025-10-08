@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "The Villages of Citrus Hills is Florida's Premier Master-Planned Community \"DISCOVER CITRUS HILLSSchedule a Visit Today!Our Amenities Home Gallery Location Visit Options The Villages of Citrus Hills is Florida's Premier Master-Planned Community View Our Brochure \u27a4 Watch Our Webinar \u27a4 Schedule A Visit \u27a4 Amenities The possibilities are endless. From ballroom dancing to bri",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The page describes a residential community with amenities, not guidance on improving sports performance. Any sports relevance is negligible (e.g., a brief mention of dancing), so it is not relevant to the query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "The Villages of Citrus Hills is Florida's Premier Master-Planned Community \"DISCOVER CITRUS HILLSSchedule a Visit Today!Our Amenities Home Gallery Location Visit Options The Villages of Citrus Hills is Florida's Premier Master-Planned Community View Our Brochure \u27a1\ufe0e Watch Our Webinar \u27a1\ufe0e Schedule A Visit \u27a1\ufe0eAmenities The possibilities are endless. From ballroom dancing to bri",
+  "history": {
+    "url": "https://www.citrushills.com/",
+    "title": "The Villages of Citrus Hills is Florida's Premier Master-Planned Community",
+    "description": "\"DISCOVER CITRUS HILLSSchedule a Visit Today!Our Amenities Home Gallery Location Visit Options The Villages of Citrus Hills is Florida's Premier Master-Planned Community View Our Brochure \u27a1\ufe0e Watch Our Webinar \u27a1\ufe0e Schedule A Visit \u27a1\ufe0eAmenities The possibilities are endless. From ballroom dancing to bri",
+    "frecency": 2342,
+    "url_hash": 30839874374120,
+    "last_visit_date": 1758203935121228
+  }
+}

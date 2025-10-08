@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "New Statistics and Cases of CEO Succession in the S&P 500 CEO Succession Practices, which The Conference Board updates annually, documents CEO turnover events at S&P 500 companies. The 2015 edition contains a historical comparison of 2014 CEO successions with information dating back to 2000. In addition to analyzing the correlation between CEO succession a",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result's topic is CEO succession in S&P 500 companies, not Python libraries or machine learning; thus not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "New Statistics and Cases of CEO Succession in the S&P 500 CEO Succession Practices, which The Conference Board updates annually, documents CEO turnover events at S&P 500 companies. The 2015 edition contains a historical comparison of 2014 CEO successions with information dating back to 2000. In addition to analyzing the correlation between CEO succession a",
+  "history": {
+    "url": "https://corpgov.law.harvard.edu/2015/04/23/new-statistics-and-cases-of-ceo-succession-in-the-sp-500/",
+    "title": "New Statistics and Cases of CEO Succession in the S&P 500",
+    "description": "CEO Succession Practices, which The Conference Board updates annually, documents CEO turnover events at S&P 500 companies. The 2015 edition contains a historical comparison of 2014 CEO successions with information dating back to 2000. In addition to analyzing the correlation between CEO succession a",
+    "frecency": 1514,
+    "url_hash": 648854752834,
+    "last_visit_date": 1758203928192200
+  }
+}

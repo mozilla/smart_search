@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "RE/MAX Franchise \"Franchises \u00bb RE/MAX Franchise Information RE/MAX Franchise Real estate agents specializing in residential and corporate property RE/MAX was established in 1973 by Dave and Gail Liniger, with a creative, entrepreneurial culture managing its operators and franchisees the adaptability to work their or",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses RE/MAX franchise information and real estate, not API integration debugging.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "RE/MAX Franchise \"Franchises \u00bb RE/MAX Franchise Information RE/MAX Franchise Real estate agents specializing in residential and corporate property RE/MAX was established in 1973 by Dave and Gail Liniger, with a creative, entrepreneurial culture managing its operators and franchisees the adaptability to work their or",
+  "history": {
+    "url": "http://www.thefranchisemall.com/franchises/details/10113-0-re_max.htm",
+    "title": "RE/MAX Franchise",
+    "description": "\"Franchises \u00bb RE/MAX Franchise Information RE/MAX Franchise Real estate agents specializing in residential and corporate property RE/MAX was established in 1973 by Dave and Gail Liniger, with a creative, entrepreneurial culture managing its operators and franchisees the adaptability to work their or",
+    "frecency": 3520,
+    "url_hash": 54214769982152,
+    "last_visit_date": 1758203926996111
+  }
+}

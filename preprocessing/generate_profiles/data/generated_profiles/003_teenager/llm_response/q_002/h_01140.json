@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Sublimation (psychology) For other uses, see Sublimation (disambiguation). In psychology, sublimation is a mature type of defense mechanism, in which socially unacceptable impulses or idealizations are unconsciously transformed into socially acceptable actions or behavior, possibly resulting in a long-term conversion of th",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about sublimation in psychology, which is unrelated to easy DIY room decoration ideas; thus not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Sublimation (psychology) \"For other uses, see Sublimation (disambiguation). In psychology, sublimation is a mature type of defense mechanism, in which socially unacceptable impulses or idealizations are unconsciously transformed into socially acceptable actions or behavior, possibly resulting in a long-term conversion of th",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Sublimation_(psychology)",
+    "title": "Sublimation (psychology)",
+    "description": "\"For other uses, see Sublimation (disambiguation). In psychology, sublimation is a mature type of defense mechanism, in which socially unacceptable impulses or idealizations are unconsciously transformed into socially acceptable actions or behavior, possibly resulting in a long-term conversion of th",
+    "frecency": 3824,
+    "url_hash": 22808280413608,
+    "last_visit_date": 1758203928430735
+  }
+}

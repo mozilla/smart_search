@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Disability Support Services Disability Support Services Disability is an aspect of diversity that is integral to our society and to the Towson University community. Disability Support Services' (DSS) mission is to provide leadership in promoting equal access to educational opportunities to students with disabilities. DSS colla",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Disability Support Services, not about Python libraries or machine learning; it is unrelated to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Disability Support Services Disability Support Services Disability is an aspect of diversity that is integral to our society and to the Towson University community. Disability Support Services' (DSS) mission is to provide leadership in promoting equal access to educational opportunities to students with disabilities. DSS colla",
+  "history": {
+    "url": "http://www.towson.edu/dss/",
+    "title": "Disability Support Services",
+    "description": "Disability Support Services Disability is an aspect of diversity that is integral to our society and to the Towson University community. Disability Support Services' (DSS) mission is to provide leadership in promoting equal access to educational opportunities to students with disabilities. DSS colla",
+    "frecency": 1599,
+    "url_hash": 13012657002154,
+    "last_visit_date": 1758203927800111
+  }
+}

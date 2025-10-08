@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "What is HIV? What is HIV? HIV is a virus that compromises the immune system. There\u2019s currently no cure for it, but there are treatments available to reduce its effects on people\u2019s lives. In the majority of cases, once HIV infection takes hold, the virus stays in the body for life. However, unlike what may occur",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about HIV, not about study apps; it is unrelated to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "What is HIV? What is HIV? HIV is a virus that compromises the immune system. There\u2019s currently no cure for it, but there are treatments available to reduce its effects on people\u2019s lives. In the majority of cases, once HIV infection takes hold, the virus stays in the body for life. However, unlike what may occur",
+  "history": {
+    "url": "https://www.healthline.com/health/hiv-aids/hiv-symptoms-timeline",
+    "title": "What is HIV?",
+    "description": "What is HIV? HIV is a virus that compromises the immune system. There\u2019s currently no cure for it, but there are treatments available to reduce its effects on people\u2019s lives. In the majority of cases, once HIV infection takes hold, the virus stays in the body for life. However, unlike what may occur ",
+    "frecency": 592,
+    "url_hash": 38297210868129,
+    "last_visit_date": 1758203929775228
+  }
+}

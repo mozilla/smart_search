@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Inception \\\"Original Theatrical Date: July 16, 2010OSCAR WINNER: Best Cinematography Best Visual Effects Best Sound Best Sound Mixing Nominated for eight Academy Awards, including \\\"Best Picture,\\\" and winner of four, Inception \u2014directed by acclaimed filmmaker Christopher Nolan\u2014features an international cast i",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes the film Inception and its awards, not about DIY room decoration ideas; it does not address the user's query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Inception \"Original Theatrical Date: July 16, 2010OSCAR WINNER: Best Cinematography Best Visual Effects Best Sound Best Sound Mixing Nominated for eight Academy Awards, including \"\"Best Picture,\"\" and winner of four, Inception \u2014directed by acclaimed filmmaker Christopher Nolan\u2014features an international cast i",
+  "history": {
+    "url": "https://www.warnerbros.com/inception",
+    "title": "Inception",
+    "description": "\"Original Theatrical Date: July 16, 2010OSCAR WINNER: Best Cinematography Best Visual Effects Best Sound Best Sound Mixing Nominated for eight Academy Awards, including \"\"Best Picture,\"\" and winner of four, Inception \u2014directed by acclaimed filmmaker Christopher Nolan\u2014features an international cast i",
+    "frecency": 1602,
+    "url_hash": 81131881214708,
+    "last_visit_date": 1758203935107228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Why do weather people still use green screens? Vicky's answer is great. Cost/Benefit is one of the main reasons. However, there's other more technical aspects that dictate why greenscreens are still in use. First, the weather person is not working in the dark. (s)He has a monitor in front of him that outputs the rendered video with the weather f",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses weather broadcasting and green screens, not integrated development environments or software development topics; thus not relevant.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Why do weather people still use green screens? Vicky's answer is great. Cost/Benefit is one of the main reasons. However, there's other more technical aspects that dictate why greenscreens are still in use. First, the weather person is not working in the dark. (s)He has a monitor in front of him that outputs the rendered video with the weather f",
+  "history": {
+    "url": "https://www.quora.com/Why-do-weather-people-still-use-green-screens",
+    "title": "Why do weather people still use green screens?",
+    "description": "Vicky's answer is great. Cost/Benefit is one of the main reasons. However, there's other more technical aspects that dictate why greenscreens are still in use. First, the weather person is not working in the dark. (s)He has a monitor in front of him that outputs the rendered video with the weather f",
+    "frecency": 2290,
+    "url_hash": 37702750863968,
+    "last_visit_date": 1758203927196200
+  }
+}

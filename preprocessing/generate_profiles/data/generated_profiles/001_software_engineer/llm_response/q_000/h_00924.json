@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "WHAT'S HAPPENING AT THE RBC HERITAGE? Spectators Don\u2019t miss a moment of the RBC Heritage, as some of the top names in the game play the most fun and fan-friendly stop on the PGA TOUR schedule! Sponsorships Partner with the RBC Heritage while showing your support for the community and nurturing your client relationships with customizable",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a golf tournament (RBC Heritage) and not related to debugging APIs or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "WHAT'S HAPPENING AT THE RBC HERITAGE? Spectators Don\u2019t miss a moment of the RBC Heritage, as some of the top names in the game play the most fun and fan-friendly stop on the PGA TOUR schedule!Sponsorships Partner with the RBC Heritage while showing your support for the community and nurturing your client relationships with customizable",
+  "history": {
+    "url": "http://www.rbcheritage.com/",
+    "title": "WHAT'S HAPPENING AT THE RBC HERITAGE?",
+    "description": "Spectators Don\u2019t miss a moment of the RBC Heritage, as some of the top names in the game play the most fun and fan-friendly stop on the PGA TOUR schedule!Sponsorships Partner with the RBC Heritage while showing your support for the community and nurturing your client relationships with customizable ",
+    "frecency": 1775,
+    "url_hash": 77168946660843,
+    "last_visit_date": 1758203929436200
+  }
+}

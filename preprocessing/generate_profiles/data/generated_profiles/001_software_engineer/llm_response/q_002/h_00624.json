@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "How to Use Your Roth IRA as an Emergency Fund (excerpt)",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses personal finance (Roth IRA and emergency fund) and has no connection to IDEs or software development.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "How to Use Your Roth IRA as an Emergency Fund \"Do you feel like you don\u2019t have enough money to save for emergencies and also save for retirement? If you keep that money in your bank account, it's easily accessible if you suddenly need a pile of cash to fix your car, get a new air conditioner or deal with unemployment. But if you put it in your",
+  "history": {
+    "url": "https://www.investopedia.com/articles/personal-finance/040714/how-use-your-roth-ira-emergency-fund.asp",
+    "title": "How to Use Your Roth IRA as an Emergency Fund",
+    "description": "\"Do you feel like you don\u2019t have enough money to save for emergencies and also save for retirement? If you keep that money in your bank account, it's easily accessible if you suddenly need a pile of cash to fix your car, get a new air conditioner or deal with unemployment. But if you put it in your ",
+    "frecency": 2871,
+    "url_hash": 98673639790057,
+    "last_visit_date": 1758203927580200
+  }
+}

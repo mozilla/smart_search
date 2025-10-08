@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "It's Dungeness crab season, with 12 recipes \\\"Are you a food geek? Follow me on Twitter @russ_parsons1Russ Parsons The California Cook Dungeness crab season opened this weekend and it looks like another good one Our holidays are safe. The 2014 Dungeness crab season kicked off this past weekend and, at least from early reports, it looks like it",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Dungeness crab recipes and seasonality, not about easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "It's Dungeness crab season, with 12 recipes \"Are you a food geek? Follow me on Twitter @russ_parsons1Russ Parsons The California Cook Dungeness crab season opened this weekend and it looks like another good one Our holidays are safe. The 2014 Dungeness crab season kicked off this past weekend and, at least from early reports, it looks like it",
+  "history": {
+    "url": "http://www.latimes.com/food/dailydish/la-dd-dungeness-crab-12-recipes-20141117-story.html",
+    "title": "It's Dungeness crab season, with 12 recipes",
+    "description": "\"Are you a food geek? Follow me on Twitter @russ_parsons1Russ Parsons The California Cook Dungeness crab season opened this weekend and it looks like another good one Our holidays are safe. The 2014 Dungeness crab season kicked off this past weekend and, at least from early reports, it looks like it",
+    "frecency": 406,
+    "url_hash": 31884337630486,
+    "last_visit_date": 1758203927792735
+  }
+}

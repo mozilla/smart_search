@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Social Security School Officials Home Page How the Process Works Form SSA-1372-BKFAQs - School Officials FAQs - Students Field Office Locator Top 10 Services Other Sites Frequently Asked Questions - Students10. Who can receive student benefits?9. What must I do to receive student benefits?8. Can I get benefits for",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Social Security and student benefits, not about IDEs or software development tools.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Social Security School Officials Home Page How the Process Works Form SSA-1372-BKFAQs - School Officials FAQs - Students Field Office Locator Top 10 Services Other Sites Frequently Asked Questions - Students10. Who can receive student benefits?9. What must I do to receive student benefits?8. Can I get benefits for",
+  "history": {
+    "url": "https://www.ssa.gov/schoolofficials/faqs_students.htm",
+    "title": "Social Security",
+    "description": "School Officials Home Page How the Process Works Form SSA-1372-BKFAQs - School Officials FAQs - Students Field Office Locator Top 10 Services Other Sites Frequently Asked Questions - Students10. Who can receive student benefits?9. What must I do to receive student benefits?8. Can I get benefits for ",
+    "frecency": 2790,
+    "url_hash": 48797778807128,
+    "last_visit_date": 1758203927630200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Is Splash Mountain at Disney World scary? What about Big Thunder Mountain Railroad? \"Games & Recreation Amusement Parks Is Splash Mountain at Disney World scary? What about Big Thunder Mountain Railroad? I really don't like roller coasters but i want to try them? Do you get that wet? What row do you suggest sitting in if you dont want to get soaked? What about Big Thunder Mountain",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses amusement park rides and roller coasters, not easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Is Splash Mountain at Disney World scary? What about Big Thunder Mountain Railroad? \"Games & Recreation Amusement Parks Is Splash Mountain at Disney World scary? What about Big Thunder Mountain Railroad? I really don't like roller coasters but i want to try them? Do you get that wet? What row do you suggest sitting in if you dont want to get soaked? What about Big Thunder Mountain",
+  "history": {
+    "url": "https://answers.yahoo.com/question/index?qid=20090617225340AAHRDbN",
+    "title": "Is Splash Mountain at Disney World scary? What about Big Thunder Mountain Railroad?",
+    "description": "\"Games & Recreation Amusement Parks Is Splash Mountain at Disney World scary? What about Big Thunder Mountain Railroad? I really don't like roller coasters but i want to try them? Do you get that wet? What row do you suggest sitting in if you dont want to get soaked? What about Big Thunder Mountain ",
+    "frecency": 3620,
+    "url_hash": 48962416917515,
+    "last_visit_date": 1758203927271139
+  }
+}

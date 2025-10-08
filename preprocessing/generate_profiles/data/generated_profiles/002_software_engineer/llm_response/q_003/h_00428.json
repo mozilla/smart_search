@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "How The Declaration of Independence Was Written \"How The Declaration of Independence Was Written At the time he was selected to write the Declaration, Jefferson was living at the corner of Seventh and Market Streets in Philadelphia. His lodgings were in a three story house owned by a bricklayer named Graff. Few houses had been built in the vicini",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses the writing of the Declaration of Independence, not database query optimization; not relevant to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "How The Declaration of Independence Was Written \"How The Declaration of Independence Was Written At the time he was selected to write the Declaration, Jefferson was living at the corner of Seventh and Market Streets in Philadelphia. His lodgings were in a three story house owned by a bricklayer named Graff. Few houses had been built in the vicini",
+  "history": {
+    "url": "https://www.varsitytutors.com/earlyamerica/freedom-documents/declaration-independence-written",
+    "title": "How The Declaration of Independence Was Written",
+    "description": "\"How The Declaration of Independence Was Written At the time he was selected to write the Declaration, Jefferson was living at the corner of Seventh and Market Streets in Philadelphia. His lodgings were in a three story house owned by a bricklayer named Graff. Few houses had been built in the vicini",
+    "frecency": 4268,
+    "url_hash": 2712243952599,
+    "last_visit_date": 1758203928496111
+  }
+}

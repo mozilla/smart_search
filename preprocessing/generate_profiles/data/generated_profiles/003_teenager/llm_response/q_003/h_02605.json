@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "403 Forbidden \\\"403 Forbidden BESSEMER, Alabama -- The new owner of Alabama Adventure plans to re-open the facility as Splash Adventure, expanding the water park portion of the venue and selling off the rides that made up the amusement park. General Attractions bought the park in January and is investing $1.5 mill\\\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a water park acquisition and is unrelated to apps for improving study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "403 Forbidden \"403 Forbidden BESSEMER, Alabama -- The new owner of Alabama Adventure plans to re-open the facility as Splash Adventure, expanding the water park portion of the venue and selling off the rides that made up the amusement park. General Attractions bought the park in January and is investing $1.5 mill",
+  "history": {
+    "url": "http://blog.al.com/businessnews/2012/04/new_splash_adventure_to_expand.html",
+    "title": "403 Forbidden",
+    "description": "\"403 Forbidden BESSEMER, Alabama -- The new owner of Alabama Adventure plans to re-open the facility as Splash Adventure, expanding the water park portion of the venue and selling off the rides that made up the amusement park. General Attractions bought the park in January and is investing $1.5 mill",
+    "frecency": 2322,
+    "url_hash": 32113491955897,
+    "last_visit_date": 1758203928052735
+  }
+}

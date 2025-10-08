@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Conficker worm might originate in China Wikipedia Updated at 9:13 p.m. PDT with information provided by BKIS stating that its free version of BKAV antivirus software can remove the worm from any infected computer. There's been a lot of fuss about the Conficker worm. And here's the a $250,000 question: what is the origin of the virus?$250,",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses a computer worm (Conficker) and antivirus info, not related to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Conficker worm might originate in China Wikipedia Updated at 9:13 p.m. PDT with information provided by BKIS stating that its free version of BKAV antivirus software can remove the worm from any infected computer. There's been a lot of fuss about the Conficker worm. And here's the a $250,000 question: what is the origin of the virus?$250,",
+  "history": {
+    "url": "https://www.cnet.com/news/conficker-worm-might-originate-in-china/",
+    "title": "Conficker worm might originate in China",
+    "description": "Wikipedia Updated at 9:13 p.m. PDT with information provided by BKIS stating that its free version of BKAV antivirus software can remove the worm from any infected computer. There's been a lot of fuss about the Conficker worm. And here's the a $250,000 question: what is the origin of the virus?$250,",
+    "frecency": 4999,
+    "url_hash": 30022145625366,
+    "last_visit_date": 1758203927366111
+  }
+}

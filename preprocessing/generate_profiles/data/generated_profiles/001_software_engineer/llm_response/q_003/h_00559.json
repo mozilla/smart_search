@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "The Difference Between Earnings & Wages: You earn wages by working for an employer; you receive earnings from all other income sources. It includes articles about 401(k) deductions, FICA wages, income tax, and Social Security tax\u2014topics unrelated to database query optimization.",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses earnings, wages, and taxes, not database query optimization; thus not relevant.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "The Difference Between Earnings & Wages \"You earn wages by working for an employer; you receive earnings from all other income sources. More Articles1. Do 401 (k) Deductions Reduce FICA Wages?2. What Percentage of Income Tax Is Deducted From Bonus Checks?3. What Types of Income Do You Not Have to Pay Social Security Tax On? Although the w",
+  "history": {
+    "url": "http://finance.zacks.com/difference-between-earnings-wages-7113.html",
+    "title": "The Difference Between Earnings & Wages",
+    "description": "\"You earn wages by working for an employer; you receive earnings from all other income sources. More Articles1. Do 401 (k) Deductions Reduce FICA Wages?2. What Percentage of Income Tax Is Deducted From Bonus Checks?3. What Types of Income Do You Not Have to Pay Social Security Tax On? Although the w",
+    "frecency": 3096,
+    "url_hash": 90653484140626,
+    "last_visit_date": 1758203926784200
+  }
+}

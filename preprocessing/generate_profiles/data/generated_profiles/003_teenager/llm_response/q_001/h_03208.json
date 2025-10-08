@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "Parking \\\"Parking From Wikipedia, the free encyclopedianavigation search For other uses, see Parking (disambiguation). \\\"\\\"Free parking\\\"\\\" redirects here. For the card game inspired by the Monopoly board, see Free Parking. Cars parked at the side of the street Parking is the act of stopping and disengaging a ve",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about parking, not about TikTok trends; irrelevant to the query.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "Parking \"Parking From Wikipedia, the free encyclopedianavigation search For other uses, see Parking (disambiguation). \"\"Free parking\"\" redirects here. For the card game inspired by the Monopoly board, see Free Parking. Cars parked at the side of the street Parking is the act of stopping and disengaging a ve",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Parking",
+    "title": "Parking",
+    "description": "\"Parking From Wikipedia, the free encyclopedianavigation search For other uses, see Parking (disambiguation). \"\"Free parking\"\" redirects here. For the card game inspired by the Monopoly board, see Free Parking. Cars parked at the side of the street Parking is the act of stopping and disengaging a ve",
+    "frecency": 1641,
+    "url_hash": 80253646921449,
+    "last_visit_date": 1758203936141228
+  }
+}

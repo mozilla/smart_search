@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Universal Studios Dubailand - a page about the Universal Studios Dubailand theme park in Dubai, United Arab Emirates.",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns a theme park (Universal Studios Dubailand) and provides no guidance on improving sports performance or athletic skills.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Universal Studios Dubailand \"Universal Studios Dubailand From Wikipedia, the free encyclopedianavigation search Universal Studios Dubailand Location Dubailand, Dubai, United Arab Emirates Coordinates 25\u00b03\u203233\u2033N 55\u00b023\u20320\u2033ECoordinates: 25\u00b03\u203233\u2033N 55\u00b023\u20320\u2033EOwner Dubai Holding Operated by Universal Parks & Resorts Area 20,000,000 squ",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Universal_Studios_Dubailand",
+    "title": "Universal Studios Dubailand",
+    "description": "\"Universal Studios Dubailand From Wikipedia, the free encyclopedianavigation search Universal Studios Dubailand Location Dubailand, Dubai, United Arab Emirates Coordinates 25\u00b03\u203233\u2033N 55\u00b023\u20320\u2033ECoordinates: 25\u00b03\u203233\u2033N 55\u00b023\u20320\u2033EOwner Dubai Holding Operated by Universal Parks & Resorts Area 20,000,000 squ",
+    "frecency": 1958,
+    "url_hash": 22966734075351,
+    "last_visit_date": 1758203934835228
+  }
+}

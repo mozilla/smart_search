@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Average Yearly Rainfall for Hawaii The tables below give yearly averages for rainfall at cities, towns, resorts, parks and beaches in Hawaii. Each place has a total for the amount of precipitation it usually receives in a year. Most locations also have information on the number of days with wet weather. That includes the days when pr",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses average yearly rainfall in Hawaii and contains no information about apps or study habits; it is not relevant to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Average Yearly Rainfall for Hawaii The tables below give yearly averages for rainfall at cities, towns, resorts, parks and beaches in Hawaii. Each place has a total for the amount of precipitation it usually receives in a year. Most locations also have information on the number of days with wet weather. That includes the days when pr",
+  "history": {
+    "url": "http://www.currentresults.com/Weather/Hawaii/yearly-rainfall.php",
+    "title": "Average Yearly Rainfall for Hawaii",
+    "description": "The tables below give yearly averages for rainfall at cities, towns, resorts, parks and beaches in Hawaii. Each place has a total for the amount of precipitation it usually receives in a year. Most locations also have information on the number of days with wet weather. That includes the days when pr",
+    "frecency": 153,
+    "url_hash": 35477577712693,
+    "last_visit_date": 1758203928536735
+  }
+}

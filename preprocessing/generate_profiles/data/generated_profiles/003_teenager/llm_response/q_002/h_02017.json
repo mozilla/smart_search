@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Recreation and Leisure Recreation and Leisure Multi- Sport Court \u2013 this addition to the Sports branch features a golf driving cage, batting cage with both slow pitch softball and baseball pitching machines, a golf putting surface, tennis court, and pickle ball/multi-racquet sports court. There are age restrictions dependi",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a multi-sport court facility and is not about room decoration ideas for DIY projects.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Recreation and Leisure Recreation and Leisure Multi- Sport Court \u2013 this addition to the Sports branch features a golf driving cage, batting cage with both slow pitch softball and baseball pitching machines, a golf putting surface, tennis court, and pickle ball/multi-racquet sports court. There are age restrictions dependi",
+  "history": {
+    "url": "http://www.yumamwr.com/recreation.html",
+    "title": "Recreation and Leisure",
+    "description": "Recreation and Leisure Multi- Sport Court \u2013 this addition to the Sports branch features a golf driving cage, batting cage with both slow pitch softball and baseball pitching machines, a golf putting surface, tennis court, and pickle ball/multi-racquet sports court. There are age restrictions dependi",
+    "frecency": 2910,
+    "url_hash": 44387341339711,
+    "last_visit_date": 1758203935945228
+  }
+}

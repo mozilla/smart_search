@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Electric Zoo Festival Canceled Due to Severe Weather \\\"Electric Zoo Festival Canceled Due to Severe Weather The EDM fest at Randall's Island, New York is cut short for the second straight year as 'extreme weather conditions' roll in Electric Zoo Festival, Randall's Island, New York Daniel Zuchnik, Getty Images By Daniel Kreps August 31, 2014The Electri",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a music festival cancellation due to severe weather, unrelated to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Electric Zoo Festival Canceled Due to Severe Weather \"Electric Zoo Festival Canceled Due to Severe Weather The EDM fest at Randall's Island, New York is cut short for the second straight year as 'extreme weather conditions' roll in Electric Zoo Festival, Randall's Island, New York Daniel Zuchnik, Getty Images By Daniel Kreps August 31, 2014The Electri",
+  "history": {
+    "url": "http://www.rollingstone.com/music/news/electric-zoo-festival-canceled-due-to-severe-weather-20140831",
+    "title": "Electric Zoo Festival Canceled Due to Severe Weather",
+    "description": "\"Electric Zoo Festival Canceled Due to Severe Weather The EDM fest at Randall's Island, New York is cut short for the second straight year as 'extreme weather conditions' roll in Electric Zoo Festival, Randall's Island, New York Daniel Zuchnik, Getty Images By Daniel Kreps August 31, 2014The Electri",
+    "frecency": 4798,
+    "url_hash": 45677020897875,
+    "last_visit_date": 1758203931787228
+  }
+}

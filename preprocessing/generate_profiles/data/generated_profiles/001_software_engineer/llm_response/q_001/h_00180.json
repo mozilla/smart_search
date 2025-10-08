@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Expenses and benefits: business travel mileage for employees' own vehicles Home Expenses and benefits: business travel mileage for employees' own vehicles Overview Rules for tax Rules for National Insurance Passenger payments Technical guidance1. Overview As an employer, you have certain tax, National Insurance and reporting obligations if you cover the costs of your emplo",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses taxes, expenses, and employee travel reimbursement, not Python libraries or machine learning; thus it is not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Expenses and benefits: business travel mileage for employees' own vehicles Home Expenses and benefits: business travel mileage for employees' own vehicles Overview Rules for tax Rules for National Insurance Passenger payments Technical guidance1. Overview As an employer, you have certain tax, National Insurance and reporting obligations if you cover the costs of your emplo",
+  "history": {
+    "url": "https://www.gov.uk/expenses-and-benefits-business-travel-mileage",
+    "title": "Expenses and benefits: business travel mileage for employees' own vehicles",
+    "description": "Home Expenses and benefits: business travel mileage for employees' own vehicles Overview Rules for tax Rules for National Insurance Passenger payments Technical guidance1. Overview As an employer, you have certain tax, National Insurance and reporting obligations if you cover the costs of your emplo",
+    "frecency": 4392,
+    "url_hash": 86208058586065,
+    "last_visit_date": 1758203927404200
+  }
+}

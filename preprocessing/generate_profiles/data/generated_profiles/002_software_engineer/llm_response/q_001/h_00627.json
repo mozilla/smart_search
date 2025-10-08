@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Ajo Arizona (AZ 85321) Fact Sheet \\\"Ajo Arizona (AZ 85321) Fact Sheet The current location of Ajo, Arizona was founded by the New Cornelia Copper Company, a subsidiary of Calumet and Arizona Mining Company, in about 1915. The company owned town was established to house the workers at the adjacent open pit copper mine. Phelps Dodge ac",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Ajo, Arizona and mining history, not about Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Ajo Arizona (AZ 85321) Fact Sheet \"Ajo Arizona (AZ 85321) Fact Sheet The current location of Ajo, Arizona was founded by the New Cornelia Copper Company, a subsidiary of Calumet and Arizona Mining Company, in about 1915. The company owned town was established to house the workers at the adjacent open pit copper mine. Phelps Dodge ac",
+  "history": {
+    "url": "http://earthonly.com/ajo/",
+    "title": "Ajo Arizona (AZ 85321) Fact Sheet",
+    "description": "\"Ajo Arizona (AZ 85321) Fact Sheet The current location of Ajo, Arizona was founded by the New Cornelia Copper Company, a subsidiary of Calumet and Arizona Mining Company, in about 1915. The company owned town was established to house the workers at the adjacent open pit copper mine. Phelps Dodge ac",
+    "frecency": 3893,
+    "url_hash": 38465468431785,
+    "last_visit_date": 1758203927618111
+  }
+}

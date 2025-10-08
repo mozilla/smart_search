@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Error messages about deleting registry keys; document relates to Laplink software; Windows registry errors, not about Docker or setup.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses registry errors and Laplink software, unrelated to Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "\"Error Message: \"\"Cannot delete \u00e2\u00a6. Error while deleting key.\"\"\" \"Error Message: \"\"Cannot delete \u2026. Error while deleting key. \"\"Document relates to: All Laplink Software SUMMARYWhen attempting to modify or delete registry keys as noted in some of our articles, you may receive an error message. \"\"Cannot delete ... Error while deleting key. \"\"CAUSEWhen dealing with",
+  "history": {
+    "url": "http://kb.laplink.com/index.php/article/printer/1055",
+    "title": "\"Error Message: \"\"Cannot delete \u00e2\u00a6. Error while deleting key.\"\"\"",
+    "description": "\"Error Message: \"\"Cannot delete \u2026. Error while deleting key. \"\"Document relates to: All Laplink Software SUMMARYWhen attempting to modify or delete registry keys as noted in some of our articles, you may receive an error message. \"\"Cannot delete ... Error while deleting key. \"\"CAUSEWhen dealing with",
+    "frecency": 2685,
+    "url_hash": 41204292259527,
+    "last_visit_date": 1758203927990200
+  }
+}

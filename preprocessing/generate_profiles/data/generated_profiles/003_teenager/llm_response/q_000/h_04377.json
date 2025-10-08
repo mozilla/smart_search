@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Movie Times and Tickets in Boston, MA 02116 Movie Times and Tickets in Boston, MA 02116April 12, 2018Go Thursday Apr 12Friday Apr 13Saturday Apr 14Sunday Apr 15Monday Apr 16Tuesday Apr 17Wednesday Apr 18Thursday Apr 19Friday Apr 20Saturday Apr 21Sunday Apr 22Monday Apr 23Tuesday Apr 24Wednesday Apr 25Thursday Apr 26Friday Apr 27Saturday Apr 2",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about movie times in Boston; it does not pertain to starting a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Movie Times and Tickets in Boston, MA 02116 Movie Times and Tickets in Boston, MA 02116April 12, 2018Go Thursday Apr 12Friday Apr 13Saturday Apr 14Sunday Apr 15Monday Apr 16Tuesday Apr 17Wednesday Apr 18Thursday Apr 19Friday Apr 20Saturday Apr 21Sunday Apr 22Monday Apr 23Tuesday Apr 24Wednesday Apr 25Thursday Apr 26Friday Apr 27Saturday Apr 2",
+  "history": {
+    "url": "http://www.moviefone.com/showtimes/boston-ma/02116/theaters/",
+    "title": "Movie Times and Tickets in Boston, MA 02116",
+    "description": "Movie Times and Tickets in Boston, MA 02116April 12, 2018Go Thursday Apr 12Friday Apr 13Saturday Apr 14Sunday Apr 15Monday Apr 16Tuesday Apr 17Wednesday Apr 18Thursday Apr 19Friday Apr 20Saturday Apr 21Sunday Apr 22Monday Apr 23Tuesday Apr 24Wednesday Apr 25Thursday Apr 26Friday Apr 27Saturday Apr 2",
+    "frecency": 459,
+    "url_hash": 54018681457001,
+    "last_visit_date": 1758203932599228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "How Are Fiberglass Pools Installed? Pool Designs About Us Gallery Learning Hub VA / MD Residents Blog Become a Dealer | Contact |",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about fiberglass pools installation and related services, not database queries or their optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "How Are Fiberglass Pools Installed? Pool Designs About Us Gallery Learning Hub VA / MD Residents Blog Become a Dealer | Contact |",
+  "history": {
+    "url": "http://www.riverpoolsandspas.com/fiberglass-pool-installation-process",
+    "title": "How Are Fiberglass Pools Installed?",
+    "description": "Pool Designs About Us Gallery Learning Hub VA / MD Residents Blog Become a Dealer | Contact | ",
+    "frecency": 3927,
+    "url_hash": 78130865389752,
+    "last_visit_date": 1758203932340111
+  }
+}

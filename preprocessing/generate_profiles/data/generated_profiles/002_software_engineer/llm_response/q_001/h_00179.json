@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Superbugs: What They Are and How You Get Them",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page discusses superbugs and bacterial infections, which is unrelated to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Superbugs: What They Are and How You Get Them \"Superbugs: What They Are and How You Get Them By Kelli Miller From the Web MD Archives April 17, 2015 -- Imagine being sick in the hospital with a bacterial infection and doctors can't stop it from spreading. This so-called \"\"superbug\"\" scenario is not science fiction. It's an urgent, worldwide wor",
+  "history": {
+    "url": "http://www.webmd.com/news/20150417/superbugs-what-they-are",
+    "title": "Superbugs: What They Are and How You Get Them",
+    "description": "\"Superbugs: What They Are and How You Get Them By Kelli Miller From the Web MD Archives April 17, 2015 -- Imagine being sick in the hospital with a bacterial infection and doctors can't stop it from spreading. This so-called \"\"superbug\"\" scenario is not science fiction. It's an urgent, worldwide wor",
+    "frecency": 4712,
+    "url_hash": 28977054155571,
+    "last_visit_date": 1758203929006111
+  }
+}

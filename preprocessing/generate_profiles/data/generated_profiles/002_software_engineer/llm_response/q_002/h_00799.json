@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "A Brief History Of The BlackBerry \"Elizabeth Woyke, Forbes Staff From smartphones to tablets, Wi-Fi to 3G/4G: I cover telecom & mobile. Black Berrys are cult devices, inspiring a kind of slavish devotion perhaps matched only by Apple products. But while Apple's corporate history is familiar to many, no one has written a comprehensiv",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses BlackBerry history and telecom; it is not about IDEs or software development tools, so it's not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "A Brief History Of The BlackBerry \"Elizabeth Woyke, Forbes Staff From smartphones to tablets, Wi-Fi to 3G/4G: I cover telecom & mobile. Black Berrys are cult devices, inspiring a kind of slavish devotion perhaps matched only by Apple products. But while Apple's corporate history is familiar to many, no one has written a comprehensiv",
+  "history": {
+    "url": "https://www.forbes.com/2009/08/17/rim-apple-sweeny-intelligent-technology-blackberry.html",
+    "title": "A Brief History Of The BlackBerry",
+    "description": "\"Elizabeth Woyke, Forbes Staff From smartphones to tablets, Wi-Fi to 3G/4G: I cover telecom & mobile. Black Berrys are cult devices, inspiring a kind of slavish devotion perhaps matched only by Apple products. But while Apple's corporate history is familiar to many, no one has written a comprehensiv",
+    "frecency": 3553,
+    "url_hash": 67906504963463,
+    "last_visit_date": 1758203932120111
+  }
+}

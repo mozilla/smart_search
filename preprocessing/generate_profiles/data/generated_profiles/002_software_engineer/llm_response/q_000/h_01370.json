@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "What is the US equivalent of Golden Syrup (UK)? \\\"_Seasoned Advice is a question and answer site for professional and amateur chefs. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top What is the US equivalent of Golden Syrup (UK)?up vote9d",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses cooking and Golden Syrup, not API integration debugging; it is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "What is the US equivalent of Golden Syrup (UK)? \"_Seasoned Advice is a question and answer site for professional and amateur chefs. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top What is the US equivalent of Golden Syrup (UK)?up vote9d",
+  "history": {
+    "url": "https://cooking.stackexchange.com/questions/43920/what-is-the-us-equivalent-of-golden-syrup-uk",
+    "title": "What is the US equivalent of Golden Syrup (UK)?",
+    "description": "\"_Seasoned Advice is a question and answer site for professional and amateur chefs. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top What is the US equivalent of Golden Syrup (UK)?up vote9d",
+    "frecency": 2525,
+    "url_hash": 87638387885694,
+    "last_visit_date": 1758203930204111
+  }
+}

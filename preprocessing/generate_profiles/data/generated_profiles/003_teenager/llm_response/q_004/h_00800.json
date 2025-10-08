@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "ROCKOUT WORKOUT ROCKOUT WORKOUTChannel your inner rockstar with this full body cardio-jam session inspired by the infectious, energizing, and sweat-dripping fun of playing the drums FIND A CLASSTHE WORKOUTInstead of listening to music, you become the music in this exhilarating full-body workout that combines cardio",
+  "relevance_score": 0.3,
+  "binary_decision": 0,
+  "Decision_Reason": "The result is a general fitness cardio class description, not specifically about strategies or guidance to improve sports performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "ROCKOUT WORKOUT ROCKOUT WORKOUTChannel your inner rockstar with this full body cardio-jam session inspired by the infectious, energizing, and sweat-dripping fun of playing the drums FIND A CLASSTHE WORKOUTInstead of listening to music, you become the music in this exhilarating full-body workout that combines cardio",
+  "history": {
+    "url": "https://poundfit.com/about/",
+    "title": "ROCKOUT WORKOUT",
+    "description": "ROCKOUT WORKOUTChannel your inner rockstar with this full body cardio-jam session inspired by the infectious, energizing, and sweat-dripping fun of playing the drums FIND A CLASSTHE WORKOUTInstead of listening to music, you become the music in this exhilarating full-body workout that combines cardio",
+    "frecency": 4145,
+    "url_hash": 63071147120552,
+    "last_visit_date": 1758203934053228
+  }
+}

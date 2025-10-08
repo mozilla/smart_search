@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "INI file \"From Wikipedia, the free encyclopedianavigation search Initialization Filename extension .ini Internet media type text/plain, application/textedit, zz-application/zz-winassoc-ini Type of format Initialization/Configuration File The INI file format is an informal standard for configuration files for",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses INI files and configuration formats, not API integration debugging.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "INI file \"From Wikipedia, the free encyclopedianavigation search Initialization Filename extension .ini Internet media type text/plain, application/textedit, zz-application/zz-winassoc-ini Type of format Initialization/Configuration File The INI file format is an informal standard for configuration files for",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/INI_file",
+    "title": "INI file",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search Initialization Filename extension .ini Internet media type text/plain, application/textedit, zz-application/zz-winassoc-ini Type of format Initialization/Configuration File The INI file format is an informal standard for configuration files for",
+    "frecency": 2031,
+    "url_hash": 55141523896532,
+    "last_visit_date": 1758203932100111
+  }
+}

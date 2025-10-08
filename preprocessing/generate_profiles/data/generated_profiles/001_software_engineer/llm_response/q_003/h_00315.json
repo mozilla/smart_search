@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "\u00e2I want to get back to my job, my grandkids, my life.\u00e2 \u201cI want to get back to my job, my grandkids, my life.\u201dDiscover my Potential Rehabilitation: A transformation in physical, occupational and speech therapy in Rockville, Md. There\u2019s a new option for rehabilitation: a community with beautiful private rooms, concierge services, state-of-the-art capabili",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about rehabilitation services and is unrelated to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "\u00e2I want to get back to my job, my grandkids, my life.\u00e2 \u201cI want to get back to my job, my grandkids, my life.\u201dDiscover my Potential Rehabilitation: A transformation in physical, occupational and speech therapy in Rockville, Md. There\u2019s a new option for rehabilitation: a community with beautiful private rooms, concierge services, state-of-the-art capabili",
+  "history": {
+    "url": "http://www.mypotentialrehab.org/",
+    "title": "\u00e2I want to get back to my job, my grandkids, my life.\u00e2",
+    "description": "\u201cI want to get back to my job, my grandkids, my life.\u201dDiscover my Potential Rehabilitation: A transformation in physical, occupational and speech therapy in Rockville, Md. There\u2019s a new option for rehabilitation: a community with beautiful private rooms, concierge services, state-of-the-art capabili",
+    "frecency": 3900,
+    "url_hash": 41330012559976,
+    "last_visit_date": 1758203927458200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Sign Up Connect with friends and the world around you on Facebook. See photos and updates from friends in News Feed. Share what's new in your life on your Timeline. Find more of what you're looking for with Facebook Search. Sign Up It\u2019s free and always will be. Birthday Why do I need to provide my birthday?",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a Facebook signup page and does not relate to apps for improving study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Sign Up Connect with friends and the world around you on Facebook. See photos and updates from friends in News Feed. Share what's new in your life on your Timeline. Find more of what you're looking for with Facebook Search. Sign Up It\u2019s free and always will be. Birthday Why do I need to provide my birthday?",
+  "history": {
+    "url": "http://www.facebook.com/",
+    "title": "Sign Up",
+    "description": "Connect with friends and the world around you on Facebook. See photos and updates from friends in News Feed. Share what's new in your life on your Timeline. Find more of what you're looking for with Facebook Search. Sign Up It\u2019s free and always will be. Birthday Why do I need to provide my birthday?",
+    "frecency": 1233,
+    "url_hash": 44550625150345,
+    "last_visit_date": 1758203930533228
+  }
+}

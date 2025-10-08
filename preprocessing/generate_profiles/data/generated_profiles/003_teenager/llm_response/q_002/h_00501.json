@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Cinema of France - article about the film industry and distributors (unrelated to DIY room decoration).",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses cinema in France, not topics related to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Cinema of France \"Cinema of France From Wikipedia, the free encyclopedianavigation search See also: French comedy films Cinema of France Gaumont palace in Paris, c.1914No. of screens 5,653 (2014) [1]Main distributors Twentieth Century Fox (14.6%) Warner Bros. (9.8%) UGC (6.9%) [1]Produced feature films (2014) [1] [2",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Cinema_of_France",
+    "title": "Cinema of France",
+    "description": "\"Cinema of France From Wikipedia, the free encyclopedianavigation search See also: French comedy films Cinema of France Gaumont palace in Paris, c.1914No. of screens 5,653 (2014) [1]Main distributors Twentieth Century Fox (14.6%) Warner Bros. (9.8%) UGC (6.9%) [1]Produced feature films (2014) [1] [2",
+    "frecency": 4470,
+    "url_hash": 17228302351185,
+    "last_visit_date": 1758203929046735
+  }
+}

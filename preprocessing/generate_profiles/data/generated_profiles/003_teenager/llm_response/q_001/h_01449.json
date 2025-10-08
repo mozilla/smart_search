@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "Baywatch  (film) \"From Wikipedia, the free encyclopedianavigation search Baywatch Theatrical release poster Directed by Seth Gordon Produced by Ivan Reitman Michael Berk Douglas Schwartz Gregory J. Bonann Beau Flynn Screenplay by Damien Shannon Mark Swift Story by Jay Scherick David Ronn Thomas Lennon Robert Ben Gar\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about the Baywatch film, not related to TikTok trends for 2024.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "Baywatch  (film) \"From Wikipedia, the free encyclopedianavigation search Baywatch Theatrical release poster Directed by Seth Gordon Produced by Ivan Reitman Michael Berk Douglas Schwartz Gregory J. Bonann Beau Flynn Screenplay by Damian Shannon Mark Swift Story by Jay Scherick David Ronn Thomas Lennon Robert Ben Gar",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Baywatch_(film)",
+    "title": "Baywatch  (film)",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search Baywatch Theatrical release poster Directed by Seth Gordon Produced by Ivan Reitman Michael Berk Douglas Schwartz Gregory J. Bonann Beau Flynn Screenplay by Damian Shannon Mark Swift Story by Jay Scherick David Ronn Thomas Lennon Robert Ben Gar",
+    "frecency": 3517,
+    "url_hash": 37890113666658,
+    "last_visit_date": 1758203931015228
+  }
+}

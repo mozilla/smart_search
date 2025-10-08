@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Choral Conducting The reputation of Westminster Choir College rests in large part upon the excellence of the choirs and the success of its graduates. The nation\u2019s leading critics and orchestra conductors continue to find the choirs worthy of the highest praise. Alumni lead some of the finest choral programs in school",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses choral conducting and Westminster Choir College; no content about starting a YouTube channel or video creation; not relevant to the query.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Choral Conducting The reputation of Westminster Choir College rests in large part upon the excellence of the choirs and the success of its graduates. The nation\u2019s leading critics and orchestra conductors continue to find the choirs worthy of the highest praise. Alumni lead some of the finest choral programs in school",
+  "history": {
+    "url": "http://www.rider.edu/wcc/academics/graduate-programs/choral-conducting",
+    "title": "Choral Conducting",
+    "description": "The reputation of Westminster Choir College rests in large part upon the excellence of the choirs and the success of its graduates. The nation\u2019s leading critics and orchestra conductors continue to find the choirs worthy of the highest praise. Alumni lead some of the finest choral programs in school",
+    "frecency": 2091,
+    "url_hash": 27900610504027,
+    "last_visit_date": 1758203934349228
+  }
+}

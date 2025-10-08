@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "10 Signs You Have an Iron Deficiency - 1/11: About 9 percent of women suffer from an iron deficiency, according to the most recent stats from the Centers for Disease Control and Prevention\u2014but that number's even higher for physically active women, say experts. How can you tell if your levels are a little low? Be on the lookout for these 1",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses iron deficiency health information, not apps or strategies for improving study habits. It is not relevant to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "10 Signs You Have an Iron Deficiency \"1/11About 9 percent of women suffer from an iron deficiency, according to the most recent stats from the Centers for Disease Control and Prevention\u2014but that number's even higher for physically active women, say experts. How can you tell if your levels are a little low? Be on the lookout for these 1",
+  "history": {
+    "url": "http://www.womenshealthmag.com/food/iron-deficiency",
+    "title": "10 Signs You Have an Iron Deficiency",
+    "description": "\"1/11About 9 percent of women suffer from an iron deficiency, according to the most recent stats from the Centers for Disease Control and Prevention\u2014but that number's even higher for physically active women, say experts. How can you tell if your levels are a little low? Be on the lookout for these 1",
+    "frecency": 2625,
+    "url_hash": 98563189327153,
+    "last_visit_date": 1758203928826735
+  }
+}

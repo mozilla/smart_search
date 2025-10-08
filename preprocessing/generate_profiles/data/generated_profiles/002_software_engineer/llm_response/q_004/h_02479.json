@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Graphics Class \\\"Graphics Class. NET Framework (current version) Other Versions Note The . NET API Reference documentation has a new home. Visit the . NET API Browser on docs.microsoft.com to see the new experience. Encapsulates a GDI+ drawing surface. This class cannot be inherited. Namespace: System. Drawing Asse",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses the .NET Graphics Class, not Docker setup or Docker concepts, so it is not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Graphics Class \"Graphics Class. NET Framework (current version) Other Versions Note The . NET API Reference documentation has a new home. Visit the . NET API Browser on docs.microsoft.com to see the new experience. Encapsulates a GDI+ drawing surface. This class cannot be inherited. Namespace: System. Drawing Asse",
+  "history": {
+    "url": "https://msdn.microsoft.com/en-us/library/system.drawing.graphics(v=vs.110).aspx",
+    "title": "Graphics Class",
+    "description": "\"Graphics Class. NET Framework (current version) Other Versions Note The . NET API Reference documentation has a new home. Visit the . NET API Browser on docs.microsoft.com to see the new experience. Encapsulates a GDI+ drawing surface. This class cannot be inherited. Namespace: System. Drawing Asse",
+    "frecency": 526,
+    "url_hash": 38822190560036,
+    "last_visit_date": 1758203931698111
+  }
+}

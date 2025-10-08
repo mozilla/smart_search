@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "About Financial Consulting About Financial Consulting What is Financial Consulting? Financial consulting is a service provided by Certified Financial Consultants to large corporations, government agencies and individual clients. The role of a financial consultant is to provide an independent, expert opinion on a proposed busi",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses financial consulting, which is unrelated to debugging APIs or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "About Financial Consulting About Financial Consulting What is Financial Consulting? Financial consulting is a service provided by Certified Financial Consultants to large corporations, government agencies and individual clients. The role of a financial consultant is to provide an independent, expert opinion on a proposed busi",
+  "history": {
+    "url": "http://www.ifconsultants.org/finconsulting.html",
+    "title": "About Financial Consulting",
+    "description": "About Financial Consulting What is Financial Consulting? Financial consulting is a service provided by Certified Financial Consultants to large corporations, government agencies and individual clients. The role of a financial consultant is to provide an independent, expert opinion on a proposed busi",
+    "frecency": 1835,
+    "url_hash": 82522133316895,
+    "last_visit_date": 1758203929432111
+  }
+}

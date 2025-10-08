@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Google Play Movies & TV app Google Play Movies & TV app Chromecast requires Google Play Movies & TV app version 2.6.9 or higher on Android and version 1.0.1 on i OS. To update to the latest version, please visit Google Play or the Apple App Store. Using Chromecast, you can cast movies & TV shows from the Google Play Movies & T",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses a Google Play Movies & TV app and Chromecast, not related to improving athletic performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Google Play Movies & TV app Google Play Movies & TV app Chromecast requires Google Play Movies & TV app version 2.6.9 or higher on Android and version 1.0.1 on i OS. To update to the latest version, please visit Google Play or the Apple App Store. Using Chromecast, you can cast movies & TV shows from the Google Play Movies & T",
+  "history": {
+    "url": "https://support.google.com/chromecast/answer/2998481?hl=en",
+    "title": "Google Play Movies & TV app",
+    "description": "Google Play Movies & TV app Chromecast requires Google Play Movies & TV app version 2.6.9 or higher on Android and version 1.0.1 on i OS. To update to the latest version, please visit Google Play or the Apple App Store. Using Chromecast, you can cast movies & TV shows from the Google Play Movies & T",
+    "frecency": 971,
+    "url_hash": 80407591546718,
+    "last_visit_date": 1758203932829228
+  }
+}

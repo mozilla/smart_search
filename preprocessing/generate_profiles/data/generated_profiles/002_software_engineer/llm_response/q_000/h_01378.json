@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "The Algae Programming Language The Algae Programming Language Welcome to the home of Algae, a programming language for numerical analysis. Algae was developed because we needed a fast and versatile tool, capable of handling large systems. Algae has been applied to interesting problems in aerospace and related fields for more than",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a programming language for numerical analysis, not related to debugging or API integration; content is not about the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "The Algae Programming Language The Algae Programming Language Welcome to the home of Algae, a programming language for numerical analysis. Algae was developed because we needed a fast and versatile tool, capable of handling large systems. Algae has been applied to interesting problems in aerospace and related fields for more than",
+  "history": {
+    "url": "http://algae.sourceforge.net/",
+    "title": "The Algae Programming Language",
+    "description": "The Algae Programming Language Welcome to the home of Algae, a programming language for numerical analysis. Algae was developed because we needed a fast and versatile tool, capable of handling large systems. Algae has been applied to interesting problems in aerospace and related fields for more than",
+    "frecency": 2517,
+    "url_hash": 95944392618171,
+    "last_visit_date": 1758203930670111
+  }
+}

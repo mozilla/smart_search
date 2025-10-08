@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Coronary Heart Disease Coronary Heart Disease Also known as Coronary Artery Disease Leer en espa\u00f1ol See also Information for Health Professionals What Is Other Names Causes Risk Factors Screening and Prevention Signs, Symptoms, and Complications Diagnosis Treatment Living With Participate in NHLBI Clinical Trials More Inf",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses coronary heart disease, not about starting a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Coronary Heart Disease Coronary Heart Disease Also known as Coronary Artery Disease Leer en espa\u00f1ol See also Information for Health Professionals What Is Other Names Causes Risk Factors Screening and Prevention Signs, Symptoms, and Complications Diagnosis Treatment Living With Participate in NHLBI Clinical Trials More Inf",
+  "history": {
+    "url": "http://www.nhlbi.nih.gov/health/health-topics/topics/cad/atrisk",
+    "title": "Coronary Heart Disease",
+    "description": "Coronary Heart Disease Also known as Coronary Artery Disease Leer en espa\u00f1ol See also Information for Health Professionals What Is Other Names Causes Risk Factors Screening and Prevention Signs, Symptoms, and Complications Diagnosis Treatment Living With Participate in NHLBI Clinical Trials More Inf",
+    "frecency": 1341,
+    "url_hash": 67978168344424,
+    "last_visit_date": 1758203933215228
+  }
+}

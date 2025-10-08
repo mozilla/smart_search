@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "How to Get a PhD Reader Approved How to Get a Ph DFive Parts: Completing Prerequisite Education Applying to Graduate Programs Completing Your Degree Funding Your Research Surviving the Process Community Q&AA Ph D, short for Doctor of Philosophy, may help you secure a position as a college or university professor, a",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses obtaining a PhD and related processes, not topics on optimizing database queries; topic mismatch indicates irrelevance.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "How to Get a PhD Reader Approved How to Get a Ph DFive Parts: Completing Prerequisite Education Applying to Graduate Programs Completing Your Degree Funding Your Research Surviving the Process Community Q&AA Ph D, short for Doctor of Philosophy, may help you secure a position as a college or university professor, a",
+  "history": {
+    "url": "http://www.wikihow.com/Get-a-PhD",
+    "title": "How to Get a PhD",
+    "description": "Reader Approved How to Get a Ph DFive Parts: Completing Prerequisite Education Applying to Graduate Programs Completing Your Degree Funding Your Research Surviving the Process Community Q&AA Ph D, short for Doctor of Philosophy, may help you secure a position as a college or university professor, a ",
+    "frecency": 1614,
+    "url_hash": 34350176838174,
+    "last_visit_date": 1758203929340111
+  }
+}

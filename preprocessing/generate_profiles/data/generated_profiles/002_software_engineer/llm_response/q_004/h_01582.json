@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Sorry : ( Sorry : (First, put the failed URL into the Way Back Machine to find the original file: http://archive.org/web/web.php This is the first thing I would do. Secondly, try playing with the .html and .htm of the file. Many times this is the problem, I have discovered. I am more interested in linking to",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses using the Wayback Machine and editing HTML files; it does not mention Docker or beginner setup guidance.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Sorry : ( Sorry : (First, put the failed URL into the Way Back Machine to find the original file: http://archive.org/web/web.php This is the first thing I would do. Secondly, try playing with the .html and .htm of the file. Many times this is the problem, I have discovered. I am more interested in linking to",
+  "history": {
+    "url": "http://www.tnellen.com/cybereng/harrison.html",
+    "title": "Sorry : (",
+    "description": "Sorry : (First, put the failed URL into the Way Back Machine to find the original file: http://archive.org/web/web.php This is the first thing I would do. Secondly, try playing with the .html and .htm of the file. Many times this is the problem, I have discovered. I am more interested in linking to ",
+    "frecency": 2143,
+    "url_hash": 96596559909137,
+    "last_visit_date": 1758203929626111
+  }
+}

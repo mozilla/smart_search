@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "BACnet for Linux BACnet for Linux Summary Open-Source BACnet Protocol ( www.bacnet.org) stack for Linux. This project's goal was to develop a complete implementation of the BACnet protocol for use by anyone who wishes to give their products BACnet communication capability. Note: This project is no longer active. See",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses a BACnet protocol stack for Linux and has no content related to Docker, container setup, or beginner guidance for Docker.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "BACnet for Linux BACnet for Linux Summary Open-Source BACnet Protocol ( www.bacnet.org) stack for Linux. This project's goal was to develop a complete implementation of the BACnet protocol for use by anyone who wishes to give their products BACnet communication capability. Note: This project is no longer active. See",
+  "history": {
+    "url": "http://bacnet4linux.sourceforge.net/",
+    "title": "BACnet for Linux",
+    "description": "BACnet for Linux Summary Open-Source BACnet Protocol ( www.bacnet.org) stack for Linux. This project's goal was to develop a complete implementation of the BACnet protocol for use by anyone who wishes to give their products BACnet communication capability. Note: This project is no longer active. See",
+    "frecency": 538,
+    "url_hash": 25580089973161,
+    "last_visit_date": 1758203929254111
+  }
+}

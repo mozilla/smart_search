@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "The Coming Battle Over 340B Contract Pharmacies \"The Coming Battle Over 340B Contract Pharmacies Check out an important new must-read white paper for anyone in the drug channel: The 340B Drug Discount Program: A Review and Analysis Of The 340b Program. The report was funded by an unusual coalition of industry associations representing manufacture",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "Retrieved result discusses 340B contract pharmacies rather than API integration debugging; not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "The Coming Battle Over 340B Contract Pharmacies \"The Coming Battle Over 340B Contract Pharmacies Check out an important new must-read white paper for anyone in the drug channel: The 340B Drug Discount Program: A Review and Analysis Of The 340b Program. The report was funded by an unusual coalition of industry associations representing manufacture",
+  "history": {
+    "url": "http://www.drugchannels.net/2013/02/the-coming-battle-over-340b-contract.html",
+    "title": "The Coming Battle Over 340B Contract Pharmacies",
+    "description": "\"The Coming Battle Over 340B Contract Pharmacies Check out an important new must-read white paper for anyone in the drug channel: The 340B Drug Discount Program: A Review and Analysis Of The 340b Program. The report was funded by an unusual coalition of industry associations representing manufacture",
+    "frecency": 2814,
+    "url_hash": 15180534543518,
+    "last_visit_date": 1758203929868111
+  }
+}

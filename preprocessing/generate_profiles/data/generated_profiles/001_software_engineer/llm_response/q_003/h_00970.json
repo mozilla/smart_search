@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Drake (musician) \\\"From Wikipedia, the free encyclopedia (Redirected from Drake (rapper))navigation search Drake Drake in 2017Born Aubrey Drake Graham October 24, 1986 (age 31)Toronto, Ontario, Canada Residence Hidden Hills, California, U. S. Occupation Rapper singer songwriter record producer actorentrepreneur Years",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page is about a musician (Drake) and unrelated to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Drake (musician) \"From Wikipedia, the free encyclopedia (Redirected from Drake (rapper))navigation search Drake Drake in 2017Born Aubrey Drake Graham October 24, 1986 (age 31)Toronto, Ontario, Canada Residence Hidden Hills, California, U. S. Occupation Rapper singer songwriter record producer actorentrepreneur Years",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Drake_(rapper)",
+    "title": "Drake (musician)",
+    "description": "\"From Wikipedia, the free encyclopedia (Redirected from Drake (rapper))navigation search Drake Drake in 2017Born Aubrey Drake Graham October 24, 1986 (age 31)Toronto, Ontario, Canada Residence Hidden Hills, California, U. S. Occupation Rapper singer songwriter record producer actorentrepreneur Years",
+    "frecency": 1577,
+    "url_hash": 98178534378695,
+    "last_visit_date": 1758203927200200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Sleep and Memory article discussing how sleep relates to memory consolidation, including Dr. Robert Stickgold's takeaway about sleep and student sleep patterns.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses sleep and memory, unrelated to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Sleep and Memory \"Search Share Email Sleep and Memory During sleep, your brain is taking your memories, reactivating and looking at them again, and storing them in a more efficient and effective form. Dr. Robert Stickgold The Takeaway Only 11 percent of American college students sleep well, and 40 percent of student",
+  "history": {
+    "url": "http://healthysleep.med.harvard.edu/need-sleep/whats-in-it-for-you/memory",
+    "title": "Sleep and Memory",
+    "description": "\"Search Share Email Sleep and Memory During sleep, your brain is taking your memories, reactivating and looking at them again, and storing them in a more efficient and effective form. Dr. Robert Stickgold The Takeaway Only 11 percent of American college students sleep well, and 40 percent of student",
+    "frecency": 2816,
+    "url_hash": 82170816769974,
+    "last_visit_date": 1758203931170111
+  }
+}

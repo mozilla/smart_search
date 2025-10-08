@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Taking annual leave Taking annual leave Annual leave accumulates based on an employee's ordinary hours and allows them to take paid time off from work. Requesting annual leave An employee needs to request to take annual leave before going on leave. The process for requesting annual leave is often set out in an award or",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses annual leave policies, unrelated to Docker setup.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Taking annual leave Taking annual leave Annual leave accumulates based on an employee's ordinary hours and allows them to take paid time off from work. Requesting annual leave An employee needs to request to take annual leave before going on leave. The process for requesting annual leave is often set out in an award or",
+  "history": {
+    "url": "http://www.fairwork.gov.au/leave/annual-leave/taking-annual-leave",
+    "title": "Taking annual leave",
+    "description": "Taking annual leave Annual leave accumulates based on an employee's ordinary hours and allows them to take paid time off from work. Requesting annual leave An employee needs to request to take annual leave before going on leave. The process for requesting annual leave is often set out in an award or",
+    "frecency": 4548,
+    "url_hash": 35448242396629,
+    "last_visit_date": 1758203930816111
+  }
+}

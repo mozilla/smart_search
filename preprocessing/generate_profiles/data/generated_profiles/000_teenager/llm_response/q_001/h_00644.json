@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "American Horror Story: Asylum American Horror Story: Asylum FX Networks",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns the TV show American Horror Story: Asylum, not TikTok trends, indicating no relevance to the query.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "American Horror Story: Asylum American Horror Story: Asylum FX Networks",
+  "history": {
+    "url": "http://www.emmys.com/shows/american-horror-story-asylum",
+    "title": "American Horror Story: Asylum",
+    "description": "American Horror Story: Asylum FX Networks ",
+    "frecency": 2168,
+    "url_hash": 12302661092315,
+    "last_visit_date": 1758203928085139
+  }
+}

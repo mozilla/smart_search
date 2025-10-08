@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Lara Croft page about a video game character, unrelated to study habits or apps.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Lara Croft, a video game character, not related to study apps or improving study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Lara Croft \"From Wikipedia, the free encyclopedianavigation search Not to be confused with Laura Croft. Lara Croft Tomb Raider character Lara Croft, as she appears in a promotional render from Tomb Raider (2013)First game Tomb Raider (1996)Created by Toby Gard Voiced by Shelley Blond (1996) [1]Judith Gibbins (",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Lara_Croft",
+    "title": "Lara Croft",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search Not to be confused with Laura Croft. Lara Croft Tomb Raider character Lara Croft, as she appears in a promotional render from Tomb Raider (2013)First game Tomb Raider (1996)Created by Toby Gard Voiced by Shelley Blond (1996) [1]Judith Gibbins (",
+    "frecency": 2979,
+    "url_hash": 59107607839947,
+    "last_visit_date": 1758203929703228
+  }
+}

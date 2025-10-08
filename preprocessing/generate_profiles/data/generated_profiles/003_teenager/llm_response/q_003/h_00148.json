@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Prime Lenses Prime Lenses Explore Canon's range of prime lenses. Shoot quality professional portraits with maximum aperture and advanced optics.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses prime lenses and photography, not apps or study habit improvement.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Prime Lenses Prime Lenses Explore Canon's range of prime lenses. Shoot quality professional portraits with maximum aperture and advanced optics.",
+  "history": {
+    "url": "https://www.canon.com.au/prime-lenses",
+    "title": "Prime Lenses",
+    "description": "Prime Lenses Explore Canon's range of prime lenses. Shoot quality professional portraits with maximum aperture and advanced optics. ",
+    "frecency": 4847,
+    "url_hash": 30692933837477,
+    "last_visit_date": 1758203933701228
+  }
+}

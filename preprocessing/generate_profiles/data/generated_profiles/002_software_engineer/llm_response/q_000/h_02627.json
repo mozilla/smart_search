@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Sound System Interconnection \"Sound System Interconnection Rane Technical Staff Rane Note 110 written 1985; last revised 11/15Cause and prevention of ground loops Interfacing balanced and unbalanced Proper pin connections and wiring Chassis ground vs. signal ground Ground lift switches Introduction This note, originally written",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses sound system interconnection, grounding, and wiring, not APIs or debugging APIs; thus not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Sound System Interconnection \"Sound System Interconnection Rane Technical Staff Rane Note 110 written 1985; last revised 11/15Cause and prevention of ground loops Interfacing balanced and unbalanced Proper pin connections and wiring Chassis ground vs. signal ground Ground lift switches Introduction This note, originally written",
+  "history": {
+    "url": "http://www.rane.com/note110.html",
+    "title": "Sound System Interconnection",
+    "description": "\"Sound System Interconnection Rane Technical Staff Rane Note 110 written 1985; last revised 11/15Cause and prevention of ground loops Interfacing balanced and unbalanced Proper pin connections and wiring Chassis ground vs. signal ground Ground lift switches Introduction This note, originally written",
+    "frecency": 201,
+    "url_hash": 55496598094947,
+    "last_visit_date": 1758203927372111
+  }
+}

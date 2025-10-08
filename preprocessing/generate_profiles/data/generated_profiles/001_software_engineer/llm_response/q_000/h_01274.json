@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "IELTS Examiners We are looking for examiners to conduct one to one interviews with IELTS candidates to assess their spoken English according to set requirements, and assess written scripts produced by candidates under exam conditions. Details Reference number IELTS Examiners Location Lagos, Abuja, PHC, Ibadan, Ilor",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result content is about IELTS examiners and language assessments, not about debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "IELTS Examiners We are looking for examiners to conduct one to one interviews with IELTS candidates to assess their spoken English according to set requirements, and assess written scripts produced by candidates under exam conditions. Details Reference number IELTS Examiners Location Lagos, Abuja, PHC, Ibadan, Ilor",
+  "history": {
+    "url": "https://www.britishcouncil.org.ng/jobs/ielts-examiners",
+    "title": "IELTS Examiners",
+    "description": "We are looking for examiners to conduct one to one interviews with IELTS candidates to assess their spoken English according to set requirements, and assess written scripts produced by candidates under exam conditions. Details Reference number IELTS Examiners Location Lagos, Abuja, PHC, Ibadan, Ilor",
+    "frecency": 519,
+    "url_hash": 35645773006585,
+    "last_visit_date": 1758203928536200
+  }
+}

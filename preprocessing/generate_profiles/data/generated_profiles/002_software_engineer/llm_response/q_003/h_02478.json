@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "1957 Civil Rights Act American History > Civil Rights 1860-1980 > 1957 Civil Rights Act1957 Civil Rights Act The Civil Rights Act (1957) provided for the establishment of the Civil Rights Section of the Justice Department and empowered federal prosecutors to obtain court injunctions against interference with the right to",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns the 1957 Civil Rights Act and U.S. civil rights history, not database query optimization, so it is not relevant to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "1957 Civil Rights Act American History > Civil Rights 1860-1980 > 1957 Civil Rights Act1957 Civil Rights Act The Civil Rights Act (1957) provided for the establishment of the Civil Rights Section of the Justice Department and empowered federal prosecutors to obtain court injunctions against interference with the right to",
+  "history": {
+    "url": "http://spartacus-educational.com/USAcivil57.htm",
+    "title": "1957 Civil Rights Act",
+    "description": "American History > Civil Rights 1860-1980 > 1957 Civil Rights Act1957 Civil Rights Act The Civil Rights Act (1957) provided for the establishment of the Civil Rights Section of the Justice Department and empowered federal prosecutors to obtain court injunctions against interference with the right to",
+    "frecency": 531,
+    "url_hash": 91947162177275,
+    "last_visit_date": 1758203928546111
+  }
+}

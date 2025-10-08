@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "How did the Vietnam War influence the social structure and lifestyles from the 1960s counterculture? \\\"Homework Help > History How did the Vietnam War influence the social structure and lifestyles from the 1960s counterculture?print Print document PDF list Cite Expert Answers Ashley Kannan | Certified Educator One of the most cultural important influences of the Vietnam War was to inspire the spirit\\\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses history and the Vietnam War, not API debugging; it is not relevant to the query about debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "How did the Vietnam War influence the social structure and lifestyles from the 1960s counterculture? \"Homework Help > History How did the Vietnam War influence the social structure and lifestyles from the 1960s counterculture?print Print document PDF list Cite Expert Answers Ashley Kannan | Certified Educator One of the most cultural important influences of the Vietnam War was to inspire the spirit",
+  "history": {
+    "url": "https://www.enotes.com/homework-help/how-did-vietnam-war-influence-social-structure-127157",
+    "title": "How did the Vietnam War influence the social structure and lifestyles from the 1960s counterculture?",
+    "description": "\"Homework Help > History How did the Vietnam War influence the social structure and lifestyles from the 1960s counterculture?print Print document PDF list Cite Expert Answers Ashley Kannan | Certified Educator One of the most cultural important influences of the Vietnam War was to inspire the spirit",
+    "frecency": 2714,
+    "url_hash": 67041361351317,
+    "last_visit_date": 1758203928430200
+  }
+}

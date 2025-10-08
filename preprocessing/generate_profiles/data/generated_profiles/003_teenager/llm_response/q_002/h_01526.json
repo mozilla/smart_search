@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "What do vegetarians eat?and What do vegans eat?A vegetarian food list | Notes at the bottom of the page \\\"What do vegetarians eat?and What do vegans eat? A vegetarian food list | Notes at the bottom of the page Entrees AMERICAN Baked Beans Chili Black Bean, Lentil, Pinto Bean, Soy, Tempeh Veggie Burgers Burger King BK Veggie, Boca Burger, Gardenburger, Morningstar Farms, Yves Black Bean Meatless Hot Do",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns vegetarian foods, not DIY room decoration ideas; no topical relevance to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "What do vegetarians eat?and What do vegans eat?A vegetarian food list | Notes at the bottom of the page \"What do vegetarians eat?and What do vegans eat? A vegetarian food list | Notes at the bottom of the page Entrees AMERICAN Baked Beans Chili Black Bean, Lentil, Pinto Bean, Soy, Tempeh Veggie Burgers Burger King BK Veggie, Boca Burger, Gardenburger, Morningstar Farms, Yves Black Bean Meatless Hot Do",
+  "history": {
+    "url": "http://michaelbluejay.com/veg/eat.html",
+    "title": "What do vegetarians eat?and What do vegans eat?A vegetarian food list | Notes at the bottom of the page",
+    "description": "\"What do vegetarians eat?and What do vegans eat? A vegetarian food list | Notes at the bottom of the page Entrees AMERICAN Baked Beans Chili Black Bean, Lentil, Pinto Bean, Soy, Tempeh Veggie Burgers Burger King BK Veggie, Boca Burger, Gardenburger, Morningstar Farms, Yves Black Bean Meatless Hot Do",
+    "frecency": 3447,
+    "url_hash": 73880578615562,
+    "last_visit_date": 1758203928290735
+  }
+}

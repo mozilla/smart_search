@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "How many different phone numbers are possible within an area code? \"_Mathematics Stack Exchange is a question and answer site for people studying math at any level and professionals in related fields. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top How ma",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns mathematics and phone numbers rather than integrated development environments or software development topics; not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "How many different phone numbers are possible within an area code? \"_Mathematics Stack Exchange is a question and answer site for people studying math at any level and professionals in related fields. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top How ma",
+  "history": {
+    "url": "https://math.stackexchange.com/questions/920972/how-many-different-phone-numbers-are-possible-within-an-area-code",
+    "title": "How many different phone numbers are possible within an area code?",
+    "description": "\"_Mathematics Stack Exchange is a question and answer site for people studying math at any level and professionals in related fields. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top How ma",
+    "frecency": 1866,
+    "url_hash": 81640785085074,
+    "last_visit_date": 1758203927842200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Create Indexed Views Create Indexed Views January 22, 2018 10 minutes to read Contributors In this article Before You Begin Using Transact-SQLSee Also THIS TOPIC APPLIES TO: SQL Server (starting with 2008) Azure SQL Database Azure SQL Data Warehouse Parallel Data Warehouse This topic describes how to create indexes on a",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page discusses SQL Server indexed views and Transact-SQL, not Python libraries or machine learning; therefore it is not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Create Indexed Views Create Indexed Views January 22, 2018 10 minutes to read Contributors In this article Before You Begin Using Transact-SQLSee Also THIS TOPIC APPLIES TO: SQL Server (starting with 2008) Azure SQL Database Azure SQL Data Warehouse Parallel Data Warehouse This topic describes how to create indexes on a",
+  "history": {
+    "url": "https://docs.microsoft.com/en-us/sql/relational-databases/views/create-indexed-views",
+    "title": "Create Indexed Views",
+    "description": "Create Indexed Views January 22, 2018 10 minutes to read Contributors In this article Before You Begin Using Transact-SQLSee Also THIS TOPIC APPLIES TO: SQL Server (starting with 2008) Azure SQL Database Azure SQL Data Warehouse Parallel Data Warehouse This topic describes how to create indexes on a",
+    "frecency": 1100,
+    "url_hash": 81561806993159,
+    "last_visit_date": 1758203926908200
+  }
+}

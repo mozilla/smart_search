@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Wahlburgers \"Wahlburgers From Wikipedia, the free encyclopedia (Redirected from Paul Wahlberg)navigation search This article is about the burger restaurant owned by the Wahlberg family and A&E reality television show. For the New York state area burger, see Tom Wahl's. \"Wahlburger\" redirects here. It is not t",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a burger restaurant (Wahlburgers) and not related to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Wahlburgers \"Wahlburgers From Wikipedia, the free encyclopedia (Redirected from Paul Wahlberg)navigation search This article is about the burger restaurant owned by the Wahlberg family and A&E reality television show. For the New York state area burger, see Tom Wahl's. \"\"Wahlburger\"\" redirects here. It is not t",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Paul_Wahlberg",
+    "title": "Wahlburgers",
+    "description": "\"Wahlburgers From Wikipedia, the free encyclopedia (Redirected from Paul Wahlberg)navigation search This article is about the burger restaurant owned by the Wahlberg family and A&E reality television show. For the New York state area burger, see Tom Wahl's. \"\"Wahlburger\"\" redirects here. It is not t",
+    "frecency": 2348,
+    "url_hash": 31239134412026,
+    "last_visit_date": 1758203934799228
+  }
+}

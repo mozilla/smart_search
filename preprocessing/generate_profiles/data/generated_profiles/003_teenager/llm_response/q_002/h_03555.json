@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "What is prom and why is it important? \"Well, first of all, it's not objectively important. It's important to many high-school aged people (and to some older, nostalgic people) but not all. It was never important to me. I didn't go to my prom or take any interest in it. If you're not into it, that's fine. There's nothing wrong with you.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses prom, not easy DIY room decoration ideas; no relevant content to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "What is prom and why is it important? \"Well, first of all, it's not objectively important. It's important to many high-school aged people (and to some older, nostalgic people) but not all. It was never important to me. I didn't go to my prom or take any interest in it. If you're not into it, that's fine. There's nothing wrong with you.",
+  "history": {
+    "url": "https://www.quora.com/What-is-prom-and-why-is-it-important",
+    "title": "What is prom and why is it important?",
+    "description": "\"Well, first of all, it's not objectively important. It's important to many high-school aged people (and to some older, nostalgic people) but not all. It was never important to me. I didn't go to my prom or take any interest in it. If you're not into it, that's fine. There's nothing wrong with you. ",
+    "frecency": 1289,
+    "url_hash": 32974774765493,
+    "last_visit_date": 1758203932885228
+  }
+}

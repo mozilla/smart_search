@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Jane Addams Biography Follow City-Data.com founder on our Forum or @Lech Mazur Born: September 6, 1860 Cedarville, Illinois Died: May 21, 1935 Chicago, Illinois American reformer and social worker Jane Addams was called the \\\"beloved lady\\\" of American reform. She was a social worker, reformer, and",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a biography of Jane Addams and does not address debugging API integrations.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Jane Addams Biography \"Jane Addams Biography Follow City-Data.com founder on our Forum or @Lech Mazur Born: September 6, 1860 Cedarville, Illinois Died: May 21, 1935 Chicago, Illinois American reformer and social worker Jane Addams was called the \"\"beloved lady\"\" of American reform. She was a social worker, reformer, and",
+  "history": {
+    "url": "http://www.notablebiographies.com/A-An/Addams-Jane.html",
+    "title": "Jane Addams Biography",
+    "description": "\"Jane Addams Biography Follow City-Data.com founder on our Forum or @Lech Mazur Born: September 6, 1860 Cedarville, Illinois Died: May 21, 1935 Chicago, Illinois American reformer and social worker Jane Addams was called the \"\"beloved lady\"\" of American reform. She was a social worker, reformer, and",
+    "frecency": 1811,
+    "url_hash": 65443450254362,
+    "last_visit_date": 1758203929418200
+  }
+}

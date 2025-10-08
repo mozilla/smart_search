@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "How many calories in a glass of wine? A Keats 1,476,599 Contributions Own clinic, Environmental Medicine+Clinical Ecology+Psychiatry+became writer+published book author+webmaster How many calories in a glass of wine? The number of calories in a glass of wine range depending on the type of wine. The wines with the fewest calories are red",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses calories in wine, not API integration debugging; not relevant.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "How many calories in a glass of wine? A Keats 1,476,599 Contributions Own clinic, Environmental Medicine+Clinical Ecology+Psychiatry+became writer+published book author+webmaster How many calories in a glass of wine? The number of calories in a glass of wine range depending on the type of wine. The wines with the fewest calories are red",
+  "history": {
+    "url": "http://www.answers.com/Q/How_many_calories_in_a_glass_of_Franzia_wine",
+    "title": "How many calories in a glass of wine?",
+    "description": "A Keats 1,476,599 Contributions Own clinic, Environmental Medicine+Clinical Ecology+Psychiatry+became writer+published book author+webmaster How many calories in a glass of wine? The number of calories in a glass of wine range depending on the type of wine. The wines with the fewest calories are red",
+    "frecency": 2536,
+    "url_hash": 38730263070116,
+    "last_visit_date": 1758203928388200
+  }
+}

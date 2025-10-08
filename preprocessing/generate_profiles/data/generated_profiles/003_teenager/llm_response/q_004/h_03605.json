@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Yamagata, Japan Yamagata, Japan Boulder-Yamagata City Friendship Committee The Sister City relationship between the citizens of Boulder, Colorado and Yamagata, Japan has brought us together to eat, work and dance, to learn and exchange culture, people and gifts. Above all though, the experiences from this relations",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The page content focuses on a sister-city relationship (cultural exchange) rather than guidance or information on improving athletic performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Yamagata, Japan Yamagata, Japan Boulder-Yamagata City Friendship Committee The Sister City relationship between the citizens of Boulder, Colorado and Yamagata, Japan has brought us together to eat, work and dance, to learn and exchange culture, people and gifts. Above all though, the experiences from this relations",
+  "history": {
+    "url": "https://bouldercolorado.gov/sister-cities/yamagata-japan",
+    "title": "Yamagata, Japan",
+    "description": "Yamagata, Japan Boulder-Yamagata City Friendship Committee The Sister City relationship between the citizens of Boulder, Colorado and Yamagata, Japan has brought us together to eat, work and dance, to learn and exchange culture, people and gifts. Above all though, the experiences from this relations",
+    "frecency": 1238,
+    "url_hash": 89228885041816,
+    "last_visit_date": 1758203934877228
+  }
+}

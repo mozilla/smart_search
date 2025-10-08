@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Salary Law and Legal Definition Salary Law and Legal Definition Salary is financial compensation an employee receives for performing the job, and part of an employee compensation package. Salary can be on an hourly, daily, weekly, monthly, or yearly basis. Salary may also include overtime pay, bonuses, and commissions. Laws govern",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses salary law and legal definitions, which is unrelated to IDEs or software development; thus not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Salary Law and Legal Definition Salary Law and Legal Definition Salary is financial compensation an employee receives for performing the job, and part of an employee compensation package. Salary can be on an hourly, daily, weekly, monthly, or yearly basis. Salary may also include overtime pay, bonuses, and commissions. Laws govern",
+  "history": {
+    "url": "http://definitions.uslegal.com/s/salary/",
+    "title": "Salary Law and Legal Definition",
+    "description": "Salary Law and Legal Definition Salary is financial compensation an employee receives for performing the job, and part of an employee compensation package. Salary can be on an hourly, daily, weekly, monthly, or yearly basis. Salary may also include overtime pay, bonuses, and commissions. Laws govern",
+    "frecency": 2390,
+    "url_hash": 35270916303476,
+    "last_visit_date": 1758203932082111
+  }
+}

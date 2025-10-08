@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Five steps to mental wellbeing 'Evidence suggests there are five steps we can all take to improve our mental wellbeing. If you give them a try, you may feel happier, more positive and able to get the most from life. What is mental wellbeing? Sarah Stewart-Brown, professor of public health at the University of Warwick and a wellbe'",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The page discusses mental wellbeing, not sports performance or training; it does not address how to get better at sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Five steps to mental wellbeing \"Evidence suggests there are five steps we can all take to improve our mental wellbeing. If you give them a try, you may feel happier, more positive and able to get the most from life. What is mental wellbeing? Sarah Stewart-Brown, professor of public health at the University of Warwick and a wellbe",
+  "history": {
+    "url": "http://www.nhs.uk/Conditions/stress-anxiety-depression/Pages/improve-mental-wellbeing.aspx",
+    "title": "Five steps to mental wellbeing",
+    "description": "\"Evidence suggests there are five steps we can all take to improve our mental wellbeing. If you give them a try, you may feel happier, more positive and able to get the most from life. What is mental wellbeing? Sarah Stewart-Brown, professor of public health at the University of Warwick and a wellbe",
+    "frecency": 2715,
+    "url_hash": 27011381519450,
+    "last_visit_date": 1758203927826735
+  }
+}

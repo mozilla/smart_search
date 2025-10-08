@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "MATLAB MATRICES AND VECTORS \"2. MATLAB MATRICES AND VECTORS2.1 Dense matrices and vectors2.2 Sparse matrices and vectors2.3 Range operators2.4 Grid operators2.5 Size and shape operators2.6 Special matrices Matlab \"\"thinks\"\" in vector's and matrices, and it is most efficient if Matlab users treat every variable as a vector or a",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses MATLAB matrices and vectors, not IDEs or software development environments; thus it is not relevant to the query about top IDEs.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "2. MATLAB MATRICES AND VECTORS \"2. MATLAB MATRICES AND VECTORS2.1 Dense matrices and vectors2.2 Sparse matrices and vectors2.3 Range operators2.4 Grid operators2.5 Size and shape operators2.6 Special matrices Matlab \"\"thinks\"\" in vector's and matrices, and it is most efficient if Matlab users treat every variable as a vector or a",
+  "history": {
+    "url": "http://www.math.utah.edu/~eyre/computing/matlab-intro/matrices.html",
+    "title": "2. MATLAB MATRICES AND VECTORS",
+    "description": "\"2. MATLAB MATRICES AND VECTORS2.1 Dense matrices and vectors2.2 Sparse matrices and vectors2.3 Range operators2.4 Grid operators2.5 Size and shape operators2.6 Special matrices Matlab \"\"thinks\"\" in vector's and matrices, and it is most efficient if Matlab users treat every variable as a vector or a",
+    "frecency": 4791,
+    "url_hash": 97845084702269,
+    "last_visit_date": 1758203929082200
+  }
+}

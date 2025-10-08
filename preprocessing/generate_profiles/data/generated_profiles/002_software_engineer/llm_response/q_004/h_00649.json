@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Windows 7/8/10 \u00e2 How to Delete Files Protected by TrustedInstaller Windows 7/8/10 \u2013 How to Delete Files Protected by Trusted Installer Did you know that a lot of files in Windows are not owned by you, even if you are the Administrator? They are instead owned by an entity called the \u201cTrusted Installer\u201d. Such a wonderful sounding name eh!So that\u2019s not a problem most",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about deleting Windows system files protected by TrustedInstaller, which is unrelated to Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Windows 7/8/10 \u00e2 How to Delete Files Protected by TrustedInstaller Windows 7/8/10 \u2013 How to Delete Files Protected by Trusted Installer Did you know that a lot of files in Windows are not owned by you, even if you are the Administrator? They are instead owned by an entity called the \u201cTrusted Installer\u201d. Such a wonderful sounding name eh!So that\u2019s not a problem most",
+  "history": {
+    "url": "http://helpdeskgeek.com/windows-7/windows-7-how-to-delete-files-protected-by-trustedinstaller/",
+    "title": "Windows 7/8/10 \u00e2 How to Delete Files Protected by TrustedInstaller",
+    "description": "Windows 7/8/10 \u2013 How to Delete Files Protected by Trusted Installer Did you know that a lot of files in Windows are not owned by you, even if you are the Administrator? They are instead owned by an entity called the \u201cTrusted Installer\u201d. Such a wonderful sounding name eh!So that\u2019s not a problem most ",
+    "frecency": 3848,
+    "url_hash": 36884410499445,
+    "last_visit_date": 1758203927752111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "List of Suits episodes \"From Wikipedia, the free encyclopedianavigation search Suits is an American television drama series created by Aaron Korsh, which premiered on June 23, 2011 on the USA Network. It revolves around Mike Ross ( Patrick J. Adams) and Harvey Specter ( Gabriel Macht ), two lawyers at a high-profile New Y",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about the Suits TV series, not about starting a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "List of Suits episodes \"From Wikipedia, the free encyclopedianavigation search Suits is an American television drama series created by Aaron Korsh, which premiered on June 23, 2011 on the USA Network. It revolves around Mike Ross ( Patrick J. Adams) and Harvey Specter ( Gabriel Macht ), two lawyers at a high-profile New Y",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/List_of_Suits_episodes",
+    "title": "List of Suits episodes",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search Suits is an American television drama series created by Aaron Korsh, which premiered on June 23, 2011 on the USA Network. It revolves around Mike Ross ( Patrick J. Adams) and Harvey Specter ( Gabriel Macht ), two lawyers at a high-profile New Y",
+    "frecency": 3488,
+    "url_hash": 96024425716201,
+    "last_visit_date": 1758203927932735
+  }
+}

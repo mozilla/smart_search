@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Yellow journalism \"From Wikipedia, the free encyclopedianavigation search Journalism News Writing style Ethics Objectivity News values Attribution Defamation Editorial independence Journalism school Index of journalism articles Areas Arts Business Data Entertainment Environment Fashion Medicine Politics Science Sport\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses journalism topics rather than DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Yellow journalism \"From Wikipedia, the free encyclopedianavigation search Journalism News Writing style Ethics Objectivity News values Attribution Defamation Editorial independence Journalism school Index of journalism articles Areas Arts Business Data Entertainment Environment Fashion Medicine Politics Science Sport",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Yellow_journalism",
+    "title": "Yellow journalism",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search Journalism News Writing style Ethics Objectivity News values Attribution Defamation Editorial independence Journalism school Index of journalism articles Areas Arts Business Data Entertainment Environment Fashion Medicine Politics Science Sport",
+    "frecency": 3776,
+    "url_hash": 74283922111409,
+    "last_visit_date": 1758203933385228
+  }
+}

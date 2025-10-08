@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Tomorrow's Challenges \"Tomorrow's Challenges Thought leadership articles on business issues faced by leaders and executives across industries. February 2017What is organizational culture? And why should we care? By Michael D. Watkins If you want to provoke a vigorous debate, start a conversation on organizational culture",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses organizational culture and thought leadership, not API integration debugging. It has no content related to debugging APIs or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Tomorrow's Challenges \"Tomorrow's Challenges Thought leadership articles on business issues faced by leaders and executives across industries. February 2017What is organizational culture? And why should we care? By Michael D. Watkins If you want to provoke a vigorous debate, start a conversation on organizational culture",
+  "history": {
+    "url": "http://www.imd.org/research/challenges/TC085-14-strategic-partnerships-dhanaraj-henderson.cfm",
+    "title": "Tomorrow's Challenges",
+    "description": "\"Tomorrow's Challenges Thought leadership articles on business issues faced by leaders and executives across industries. February 2017What is organizational culture? And why should we care? By Michael D. Watkins If you want to provoke a vigorous debate, start a conversation on organizational culture",
+    "frecency": 3508,
+    "url_hash": 47990580872920,
+    "last_visit_date": 1758203930282111
+  }
+}

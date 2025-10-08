@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "DOI: Digital Object Identifier What is a DOI? A DOI is a digital object identifier, a unique number that is assigned to a digital or electronic work. A DOI that is assigned to a scholarly article basically works the same way an ISBN number works for a print book. It is a unique idenitifier for that article. The DOI also allows fo",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Digital Object Identifiers (DOIs) and not about debugging or API integration, so it is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "DOI: Digital Object Identifier What is a DOI? A DOI is a digital object identifier, a unique number that is assigned to a digital or electronic work. A DOI that is assigned to a scholarly article basically works the same way an ISBN number works for a print book. It is a unique idenitifier for that article. The DOI also allows fo",
+  "history": {
+    "url": "http://library.villanova.edu/research/topic-guides/doi-digital-object-identifier/",
+    "title": "DOI: Digital Object Identifier",
+    "description": "What is a DOI? A DOI is a digital object identifier, a unique number that is assigned to a digital or electronic work. A DOI that is assigned to a scholarly article basically works the same way an ISBN number works for a print book. It is a unique idenitifier for that article. The DOI also allows fo",
+    "frecency": 2022,
+    "url_hash": 87181679934934,
+    "last_visit_date": 1758203932270111
+  }
+}

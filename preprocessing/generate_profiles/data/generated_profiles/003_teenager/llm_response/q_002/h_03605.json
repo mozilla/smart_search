@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Yamagata, Japan Yamagata, Japan Boulder-Yamagata City Friendship Committee The Sister City relationship between the citizens of Boulder, Colorado and Yamagata, Japan has brought us together to eat, work and dance, to learn and exchange culture, people and gifts. Above all though, the experiences from this relations",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses sister city relations and cultural exchange, not DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Yamagata, Japan Yamagata, Japan Boulder-Yamagata City Friendship Committee The Sister City relationship between the citizens of Boulder, Colorado and Yamagata, Japan has brought us together to eat, work and dance, to learn and exchange culture, people and gifts. Above all though, the experiences from this relations",
+  "history": {
+    "url": "https://bouldercolorado.gov/sister-cities/yamagata-japan",
+    "title": "Yamagata, Japan",
+    "description": "Yamagata, Japan Boulder-Yamagata City Friendship Committee The Sister City relationship between the citizens of Boulder, Colorado and Yamagata, Japan has brought us together to eat, work and dance, to learn and exchange culture, people and gifts. Above all though, the experiences from this relations",
+    "frecency": 1238,
+    "url_hash": 89228885041816,
+    "last_visit_date": 1758203934877228
+  }
+}

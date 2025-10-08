@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Cullman, AL Truckpro Home Cullman, AL Truckpro Cullman, AL Truckpro About Search Results Sort: Default Benchmark Chrysler Dodge Jeep Ram (2)1313 Grants Mill Way, Birmingham, AL 35210 (205) 957-1313Show Banner New Truck Dealers New Car Dealers Website Directions More Info Premiere Chevrolet Inc4990 Premiere Pkwy, Besseme",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result contains automotive dealership information and addresses; it does not mention APIs or debugging, thus is not relevant to 'how to debug API integration'.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Cullman, AL Truckpro Home Cullman, AL Truckpro Cullman, AL Truckpro About Search Results Sort: Default Benchmark Chrysler Dodge Jeep Ram (2)1313 Grants Mill Way, Birmingham, AL 35210 (205) 957-1313Show Banner New Truck Dealers New Car Dealers Website Directions More Info Premiere Chevrolet Inc4990 Premiere Pkwy, Besseme",
+  "history": {
+    "url": "https://www.yellowpages.com/cullman-al/truckpro",
+    "title": "Cullman, AL Truckpro",
+    "description": "Home Cullman, AL Truckpro Cullman, AL Truckpro About Search Results Sort: Default Benchmark Chrysler Dodge Jeep Ram (2)1313 Grants Mill Way, Birmingham, AL 35210 (205) 957-1313Show Banner New Truck Dealers New Car Dealers Website Directions More Info Premiere Chevrolet Inc4990 Premiere Pkwy, Besseme",
+    "frecency": 3319,
+    "url_hash": 62365071608639,
+    "last_visit_date": 1758203928690111
+  }
+}

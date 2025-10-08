@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Broda Elite 785 Broda Elite 785The Broda Elite Chair, model 785, is a superior re-positioning chair that provides exceptional resident comfort while reducing the time and effort required of caregivers. NOTE: This Broda Chair model is no longer available for sale. However, these chairs are still in our rental invent",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "Retrieved result is about a Broda Elite Chair (repositioning chair) for caregivers, not about IDEs or software development tools; not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Broda Elite 785 Broda Elite 785The Broda Elite Chair, model 785, is a superior re-positioning chair that provides exceptional resident comfort while reducing the time and effort required of caregivers. NOTE: This Broda Chair model is no longer available for sale. However, these chairs are still in our rental invent",
+  "history": {
+    "url": "https://cornermedical.com/product/broda-elite-785/",
+    "title": "Broda Elite 785",
+    "description": "Broda Elite 785The Broda Elite Chair, model 785, is a superior re-positioning chair that provides exceptional resident comfort while reducing the time and effort required of caregivers. NOTE: This Broda Chair model is no longer available for sale. However, these chairs are still in our rental invent",
+    "frecency": 2566,
+    "url_hash": 26364430228339,
+    "last_visit_date": 1758203930116111
+  }
+}

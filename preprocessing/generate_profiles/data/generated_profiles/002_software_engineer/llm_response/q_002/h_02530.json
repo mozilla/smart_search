@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Turn wherever you are into your very own screening room. Turn wherever you are into your very own screening room.i Tunes makes it easy to lose yourself in a movie or TV show, whether you\u2019re relaxing at home or out in the world. Just download your favorite episodes or movies and you have something great to watch while you\u2019re commuting to work, traveling, o",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about entertainment/media (iTunes) rather than IDEs or software development, so it is not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Turn wherever you are into your very own screening room. Turn wherever you are into your very own screening room.i Tunes makes it easy to lose yourself in a movie or TV show, whether you\u2019re relaxing at home or out in the world. Just download your favorite episodes or movies and you have something great to watch while you\u2019re commuting to work, traveling, o",
+  "history": {
+    "url": "http://www.apple.com/itunes/video/",
+    "title": "Turn wherever you are into your very own screening room.",
+    "description": "Turn wherever you are into your very own screening room.i Tunes makes it easy to lose yourself in a movie or TV show, whether you\u2019re relaxing at home or out in the world. Just download your favorite episodes or movies and you have something great to watch while you\u2019re commuting to work, traveling, o",
+    "frecency": 426,
+    "url_hash": 39981961911197,
+    "last_visit_date": 1758203931320111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "What is the average salary for Business Manager jobs? Salary checker > Results What is the average salary for Business Manager jobs? The average salary for Business Manager jobs is \u00a329,000. In March 2018, the average salary for Business Manager jobs fell by \u00a35,482 (23%). Read on to find out how much Business Manager jobs pay across various UK locations",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about salaries for Business Manager jobs and not about Python libraries or machine learning; hence not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "What is the average salary for Business Manager jobs? Salary checker > Results What is the average salary for Business Manager jobs? The average salary for Business Manager jobs is \u00a329,000. In March 2018, the average salary for Business Manager jobs fell by \u00a35,482 (23%). Read on to find out how much Business Manager jobs pay across various UK locations",
+  "history": {
+    "url": "https://www.totaljobs.com/salary-checker/average-business-manager-salary",
+    "title": "What is the average salary for Business Manager jobs?",
+    "description": "Salary checker > Results What is the average salary for Business Manager jobs? The average salary for Business Manager jobs is \u00a329,000. In March 2018, the average salary for Business Manager jobs fell by \u00a35,482 (23%). Read on to find out how much Business Manager jobs pay across various UK locations",
+    "frecency": 4230,
+    "url_hash": 26204334379913,
+    "last_visit_date": 1758203928924200
+  }
+}

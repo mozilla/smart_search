@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "On Broadway On Broadway The interactive installation On Broadway represents life in the 21st century city through a compilation of images and data collected along the 13 miles of Broadway that span Manhattan. The result is a new type of city view, created from the activities of hundreds of thousands of people.",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "Content about an interactive installation named On Broadway; unrelated to starting a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "On Broadway On Broadway The interactive installation On Broadway represents life in the 21st century city through a compilation of images and data collected along the 13 miles of Broadway that span Manhattan. The result is a new type of city view, created from the activities of hundreds of thousands of people.",
+  "history": {
+    "url": "http://on-broadway.nyc/",
+    "title": "On Broadway",
+    "description": "On Broadway The interactive installation On Broadway represents life in the 21st century city through a compilation of images and data collected along the 13 miles of Broadway that span Manhattan. The result is a new type of city view, created from the activities of hundreds of thousands of people. ",
+    "frecency": 2850,
+    "url_hash": 19457187979231,
+    "last_visit_date": 1758203930499228
+  }
+}

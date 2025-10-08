@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Hampton by Hilton \\\"From Wikipedia, the free encyclopedia (Redirected from Hampton Inn)navigation search For the parent company, see Hilton Worldwide. For other uses, see Hampton Inn (disambiguation). Hampton by Hilton Type Franchise Industry Hospitality Founded 1984; 34 years ago in Memphis, Tennessee, United States",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The content is about a hotel brand (Hampton by Hilton) and does not address debugging, API integration, or technical guidance.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Hampton by Hilton \"From Wikipedia, the free encyclopedia (Redirected from Hampton Inn)navigation search For the parent company, see Hilton Worldwide. For other uses, see Hampton Inn (disambiguation). Hampton by Hilton Type Franchise Industry Hospitality Founded 1984; 34 years ago in Memphis, Tennessee, United States",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Hampton_Inn",
+    "title": "Hampton by Hilton",
+    "description": "\"From Wikipedia, the free encyclopedia (Redirected from Hampton Inn)navigation search For the parent company, see Hilton Worldwide. For other uses, see Hampton Inn (disambiguation). Hampton by Hilton Type Franchise Industry Hospitality Founded 1984; 34 years ago in Memphis, Tennessee, United States ",
+    "frecency": 4154,
+    "url_hash": 47771212449652,
+    "last_visit_date": 1758203928506200
+  }
+}

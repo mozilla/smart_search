@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "List of The Incredibles characters \"From Wikipedia, the free encyclopedia\" navigation text about The Incredibles characters.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about The Incredibles characters, not about starting a YouTube channel; no content relevant to the query.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "List of The Incredibles characters \"List of The Incredibles characters From Wikipedia, the free encyclopedianavigation search The Incredibles. From left to right: Elastigirl, Mr. Incredible, Violet, and Dash. Bottom: Jack-Jack. The following is a list of fictional characters from the 2004 Disney / Pixar animated film The Incredibles,",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/List_of_The_Incredibles_characters",
+    "title": "List of The Incredibles characters",
+    "description": "\"List of The Incredibles characters From Wikipedia, the free encyclopedianavigation search The Incredibles. From left to right: Elastigirl, Mr. Incredible, Violet, and Dash. Bottom: Jack-Jack. The following is a list of fictional characters from the 2004 Disney / Pixar animated film The Incredibles,",
+    "frecency": 543,
+    "url_hash": 62719126392214,
+    "last_visit_date": 1758203926963139
+  }
+}

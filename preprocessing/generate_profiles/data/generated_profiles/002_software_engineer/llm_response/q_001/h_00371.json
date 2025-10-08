@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Reboot \"From Wikipedia, the free encyclopedia (Redirected from Reboot (computing))navigation search For other uses, see Reboot (disambiguation). In computing, re booting is the process by which a running computer system is restarted, either intentionally or unintentionally. Reboots can be either cold (alte",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about rebooting in computing, not about Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Reboot \"From Wikipedia, the free encyclopedia (Redirected from Reboot (computing))navigation search For other uses, see Reboot (disambiguation). In computing, re booting is the process by which a running computer system is restarted, either intentionally or unintentionally. Reboots can be either cold (alte",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Reboot_%28computing%29",
+    "title": "Reboot",
+    "description": "\"From Wikipedia, the free encyclopedia (Redirected from Reboot (computing))navigation search For other uses, see Reboot (disambiguation). In computing, re booting is the process by which a running computer system is restarted, either intentionally or unintentionally. Reboots can be either cold (alte",
+    "frecency": 4364,
+    "url_hash": 30933895545874,
+    "last_visit_date": 1758203930806111
+  }
+}

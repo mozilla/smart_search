@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Civic Engagement Training Series Workforce Certificates Requirements and Audits MDHR offers resources for contractors to assist them in applying for and retaining their workforce certificate. Your Rights - Education Discrimination Under the Human Rights Act, education is protected, and it's illegal to treat you differently because",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses civil rights and workforce certificates, not Docker or setup guidance; thus it is not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Civic Engagement Training Series Workforce Certificates Requirements and Audits MDHR offers resources for contractors to assist them in applying for and retaining their workforce certificate. Your Rights - Education Discrimination Under the Human Rights Act, education is protected, and it's illegal to treat you differently because",
+  "history": {
+    "url": "https://mn.gov/mdhr/",
+    "title": "Civic Engagement Training Series",
+    "description": "Workforce Certificates Requirements and Audits MDHR offers resources for contractors to assist them in applying for and retaining their workforce certificate. Your Rights - Education Discrimination Under the Human Rights Act, education is protected, and it's illegal to treat you differently because ",
+    "frecency": 4798,
+    "url_hash": 57546943689233,
+    "last_visit_date": 1758203931430111
+  }
+}

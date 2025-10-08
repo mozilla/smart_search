@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "How much does daycare for a newborn cost? \"Pregnancy & Parenting Newborn & Baby How much does daycare for a newborn cost? Just a rough estimate b/c I know it varies around the country. Update: Thanks but I wasn't asking for opinions about working vs. not working, I have to work so daycare or home care is my best option.1 following 13 answer",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about daycare costs for newborns, unrelated to Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "How much does daycare for a newborn cost? \"Pregnancy & Parenting Newborn & Baby How much does daycare for a newborn cost? Just a rough estimate b/c I know it varies around the country. Update: Thanks but I wasn't asking for opinions about working vs. not working, I have to work so daycare or home care is my best option.1 following 13 answer",
+  "history": {
+    "url": "https://answers.yahoo.com/question/index?qid=20071015183607AAkwKss",
+    "title": "How much does daycare for a newborn cost?",
+    "description": "\"Pregnancy & Parenting Newborn & Baby How much does daycare for a newborn cost? Just a rough estimate b/c I know it varies around the country. Update: Thanks but I wasn't asking for opinions about working vs. not working, I have to work so daycare or home care is my best option.1 following 13 answer",
+    "frecency": 3122,
+    "url_hash": 77130315855610,
+    "last_visit_date": 1758203928576111
+  }
+}

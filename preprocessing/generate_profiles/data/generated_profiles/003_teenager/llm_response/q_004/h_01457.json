@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Western culture \\\"Reference Terms from Wikipedia, the free encyclopedia Western culture Western culture, sometimes equated with Western civilization, Western lifestyle or European civilization, is a term used very broadly to refer to a heritage of social norms, ethical values, traditional customs, belief systems, po",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Western culture and civilization, not techniques or guidance on improving performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Western culture \"Reference Terms from Wikipedia, the free encyclopedia Western culture Western culture, sometimes equated with Western civilization, Western lifestyle or European civilization, is a term used very broadly to refer to a heritage of social norms, ethical values, traditional customs, belief systems, po",
+  "history": {
+    "url": "https://www.sciencedaily.com/terms/western_culture.htm",
+    "title": "Western culture",
+    "description": "\"Reference Terms from Wikipedia, the free encyclopedia Western culture Western culture, sometimes equated with Western civilization, Western lifestyle or European civilization, is a term used very broadly to refer to a heritage of social norms, ethical values, traditional customs, belief systems, po",
+    "frecency": 3511,
+    "url_hash": 31766438241688,
+    "last_visit_date": 1758203932551228
+  }
+}

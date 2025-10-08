@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Bowling pin \"From Wikipedia, the free encyclopedianavigation search Bowling pins are the target of the bowling ball in various bowling games including tenpins, five-pins, duckpins, and candlepins. Tenpins Contents [ hide ]1 Ten-pin bowling pin2 Duckpins3 Candlepins4 Pin construction5 See also6 References7 Exter",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page discusses bowling pins, which is a topic related to a specific sport, not about generic strategies or guidance on improving overall athletic performance. It is not primarily about the query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Bowling pin \"From Wikipedia, the free encyclopedianavigation search Bowling pins are the target of the bowling ball in various bowling games including tenpins, five-pins, duckpins, and candlepins. Tenpins Contents [ hide ]1 Ten-pin bowling pin2 Duckpins3 Candlepins4 Pin construction5 See also6 References7 Exter",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Bowling_pin",
+    "title": "Bowling pin",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search Bowling pins are the target of the bowling ball in various bowling games including tenpins, five-pins, duckpins, and candlepins. Tenpins Contents [ hide ]1 Ten-pin bowling pin2 Duckpins3 Candlepins4 Pin construction5 See also6 References7 Exter",
+    "frecency": 1756,
+    "url_hash": 83097663355530,
+    "last_visit_date": 1758203930311228
+  }
+}

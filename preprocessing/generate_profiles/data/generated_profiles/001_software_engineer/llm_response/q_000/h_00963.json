@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Biography \"Advertisement Biography Galileo Galilei Back to Biographies Occupation: Scientist, mathematician, and Astronomer Born: February 15, 1564 in Pisa, Italy Died: January 8, 1642 Tuscany, Italy Best known for: Improving the telescope to be used to study the planets and stars Biography: Early Life Galile",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a biography of Galileo Galilei and does not pertain to debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Biography \"Advertisement Biography Galileo Galilei Back to Biographies Occupation: Scientist, mathematician, and Astronomer Born: February 15, 1564 in Pisa, Italy Died: January 8, 1642 Tuscany, Italy Best known for: Improving the telescope to be used to study the planets and stars Biography: Early Life Galile",
+  "history": {
+    "url": "http://www.ducksters.com/biography/scientists/galileo_galilei.php",
+    "title": "Biography",
+    "description": "\"Advertisement Biography Galileo Galilei Back to Biographies Occupation: Scientist, mathematician, and Astronomer Born: February 15, 1564 in Pisa, Italy Died: January 8, 1642 Tuscany, Italy Best known for: Improving the telescope to be used to study the planets and stars Biography: Early Life Galile",
+    "frecency": 1613,
+    "url_hash": 14632848068842,
+    "last_visit_date": 1758203928970200
+  }
+}

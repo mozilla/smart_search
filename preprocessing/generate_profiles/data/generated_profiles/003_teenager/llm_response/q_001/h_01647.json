@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "Foods That Strengthen Blood Vessels by Sandi Busch (Oct 3, 2017) about a heart-healthy diet; discusses omega-3s from fish and related nutrition, not TikTok trends.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The result concerns health nutrition, not TikTok trends; it is not relevant to the query.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "Foods That Strengthen Blood Vessels \"Foods That Strengthen Blood Vesselsby SANDI BUSCH Oct. 03, 2017A heart-healthy diet that focuses on lowering cholesterol can also help strengthen blood vessels, reports a 1998 article in \"\"American Family Physician.\"\" This type of diet emphasizes foods such as omega-3 fatty acids from fish, monouns",
+  "history": {
+    "url": "http://www.livestrong.com/article/386703-foods-that-strengthen-blood-vessels/",
+    "title": "Foods That Strengthen Blood Vessels",
+    "description": "\"Foods That Strengthen Blood Vesselsby SANDI BUSCH Oct. 03, 2017A heart-healthy diet that focuses on lowering cholesterol can also help strengthen blood vessels, reports a 1998 article in \"\"American Family Physician.\"\" This type of diet emphasizes foods such as omega-3 fatty acids from fish, monouns",
+    "frecency": 3309,
+    "url_hash": 89658848387774,
+    "last_visit_date": 1758203932935228
+  }
+}

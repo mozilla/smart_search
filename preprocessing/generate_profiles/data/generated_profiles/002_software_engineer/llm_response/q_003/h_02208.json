@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Medical Billing Medical Billing Medical billing is an extremely important component of the health care industry. This article highlights some common medical billing mistakes and the types of services available to ensure the best record of care for patients and the best physician reimbursements for the services rend",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses medical billing, not database queries, so it is not relevant to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Medical Billing Medical Billing Medical billing is an extremely important component of the health care industry. This article highlights some common medical billing mistakes and the types of services available to ensure the best record of care for patients and the best physician reimbursements for the services rend",
+  "history": {
+    "url": "http://www.healthcarebusinesstech.com/medical-billing/",
+    "title": "Medical Billing",
+    "description": "Medical Billing Medical billing is an extremely important component of the health care industry. This article highlights some common medical billing mistakes and the types of services available to ensure the best record of care for patients and the best physician reimbursements for the services rend",
+    "frecency": 985,
+    "url_hash": 27418748147736,
+    "last_visit_date": 1758203929764111
+  }
+}

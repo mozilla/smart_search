@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Problem Gambling Institute of Ontario Problem Gambling Institute of Ontario Where helping professionals connect and learn about clinical best practices for problem gambling & technology use",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about problem gambling and technology use, not about Docker or beginner setup; no relevance to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Problem Gambling Institute of Ontario Problem Gambling Institute of Ontario Where helping professionals connect and learn about clinical best practices for problem gambling & technology use",
+  "history": {
+    "url": "http://www.problemgambling.ca/EN/GettingHelp/Pages/SelfHelpWorkbook.aspx",
+    "title": "Problem Gambling Institute of Ontario",
+    "description": "Problem Gambling Institute of Ontario Where helping professionals connect and learn about clinical best practices for problem gambling & technology use ",
+    "frecency": 3362,
+    "url_hash": 32296298267596,
+    "last_visit_date": 1758203927222111
+  }
+}

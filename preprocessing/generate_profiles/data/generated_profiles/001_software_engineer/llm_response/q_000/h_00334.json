@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "What Are the Career Options for BSN Graduates? What Are the Career Options for BSN Graduates? Career options for nursing school graduates with a Bachelor of Science in Nursing (BSN) degree are many. Graduates have opportunities to work in specialized fields and with different populations. Schools offering Nursing degrees can also be found in the",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about BSN career options and is unrelated to debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "What Are the Career Options for BSN Graduates? What Are the Career Options for BSN Graduates? Career options for nursing school graduates with a Bachelor of Science in Nursing (BSN) degree are many. Graduates have opportunities to work in specialized fields and with different populations. Schools offering Nursing degrees can also be found in the",
+  "history": {
+    "url": "http://learn.org/articles/What_are_the_Career_Options_for_Nursing_School_Graduates_with_a_BSN.html",
+    "title": "What Are the Career Options for BSN Graduates?",
+    "description": "What Are the Career Options for BSN Graduates? Career options for nursing school graduates with a Bachelor of Science in Nursing (BSN) degree are many. Graduates have opportunities to work in specialized fields and with different populations. Schools offering Nursing degrees can also be found in the",
+    "frecency": 3825,
+    "url_hash": 69841196117957,
+    "last_visit_date": 1758203926798200
+  }
+}

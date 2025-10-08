@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Dicyclomine Dicyclominepronounced as (dye sye' kloe meen)Why is this medication prescribed? How should this medicine be used? Other uses for this medicine What special precautions should I follow? What special dietary instructions should I follow? What should I do if I forget a dose? What side effects can this",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The page discusses a medication (dicyclomine) and does not relate to improving athletic performance or sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Dicyclomine Dicyclominepronounced as (dye sye' kloe meen)Why is this medication prescribed? How should this medicine be used? Other uses for this medicine What special precautions should I follow? What special dietary instructions should I follow? What should I do if I forget a dose? What side effects can this",
+  "history": {
+    "url": "https://www.nlm.nih.gov/medlineplus/druginfo/meds/a684007.html",
+    "title": "Dicyclomine",
+    "description": "Dicyclominepronounced as (dye sye' kloe meen)Why is this medication prescribed? How should this medicine be used? Other uses for this medicine What special precautions should I follow? What special dietary instructions should I follow? What should I do if I forget a dose? What side effects can this ",
+    "frecency": 218,
+    "url_hash": 23413900087447,
+    "last_visit_date": 1758203930371228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "The Bachelor of Fine Arts Degree in Communication Arts The Bachelor of Fine Arts Degree in Communication Arts Communication Arts is the study and exploration of the qualities, disciplines and technologies that enable us to create and communicate with insight and vision. Our studies are firmly rooted in understanding the power of image and art to communi",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes an academic program in Communication Arts, unrelated to software development or integrated development environments (IDEs).",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "The Bachelor of Fine Arts Degree in Communication Arts The Bachelor of Fine Arts Degree in Communication Arts Communication Arts is the study and exploration of the qualities, disciplines and technologies that enable us to create and communicate with insight and vision. Our studies are firmly rooted in understanding the power of image and art to communi",
+  "history": {
+    "url": "http://arts.vcu.edu/communicationarts/bfa/",
+    "title": "The Bachelor of Fine Arts Degree in Communication Arts",
+    "description": "The Bachelor of Fine Arts Degree in Communication Arts Communication Arts is the study and exploration of the qualities, disciplines and technologies that enable us to create and communicate with insight and vision. Our studies are firmly rooted in understanding the power of image and art to communi",
+    "frecency": 3117,
+    "url_hash": 79435560194859,
+    "last_visit_date": 1758203928640200
+  }
+}

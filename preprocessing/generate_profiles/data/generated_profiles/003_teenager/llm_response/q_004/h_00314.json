@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Dane Cook \\\"From Wikipedia, the free encyclopedianavigation search Dane Cook Cook at Comic Con 2007 promoting Good Luck Chuck Birth name Dane Jeffrey Cook Born March 18, 1972 (age 46)Cambridge, Massachusetts, U. S. Medium Stand-up, film, television Nationality American Years active 1990\u2013present Genres Observat",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a comedian (Dane Cook) and does not address improving sports performance; not relevant to the query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Dane Cook \"From Wikipedia, the free encyclopedianavigation search Dane Cook Cook at Comic Con 2007 promoting Good Luck Chuck Birth name Dane Jeffrey Cook Born March 18, 1972 (age 46)Cambridge, Massachusetts, U. S. Medium Stand-up, film, television Nationality American Years active 1990\u2013present Genres Observat",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Dane_Cook",
+    "title": "Dane Cook",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search Dane Cook Cook at Comic Con 2007 promoting Good Luck Chuck Birth name Dane Jeffrey Cook Born March 18, 1972 (age 46)Cambridge, Massachusetts, U. S. Medium Stand-up, film, television Nationality American Years active 1990\u2013present Genres Observat",
+    "frecency": 4681,
+    "url_hash": 26772099596971,
+    "last_visit_date": 1758203930993228
+  }
+}

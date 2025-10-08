@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "South Carolina Beach Resorts Wild Dunes Resort Show Prices4,351 reviews#1 Best Value of 1,162 hotels in South Carolina\u201c Perfect for Charleston stay, away from the crowds downtown, a little hidden gem! Units super clean and well decorated, great to be ableto walk to the beach as well as having pool options, just great ambiance -",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a hotel listing for a South Carolina beach resort and contains no information about improving performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "South Carolina Beach Resorts Wild Dunes Resort Show Prices4,351 reviews#1 Best Value of 1,162 hotels in South Carolina\u201c Perfect for Charleston stay, away from the crowds downtown, a little hidden gem! Units super clean and well decorated, great to be ableto walk to the beach as well as having pool options, just great ambiance -",
+  "history": {
+    "url": "https://www.tripadvisor.com/HotelsList-South_Carolina-Beach-Resorts-zfp3908.html",
+    "title": "South Carolina Beach Resorts",
+    "description": "Wild Dunes Resort Show Prices4,351 reviews#1 Best Value of 1,162 hotels in South Carolina\u201c Perfect for Charleston stay, away from the crowds downtown, a little hidden gem! Units super clean and well decorated, great to be ableto walk to the beach as well as having pool options, just great ambiance -",
+    "frecency": 2200,
+    "url_hash": 4672786848969,
+    "last_visit_date": 1758203931907228
+  }
+}

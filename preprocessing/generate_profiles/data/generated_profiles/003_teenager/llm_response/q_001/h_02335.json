@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "6 Foods and Tips for More Fiber (Web MD)",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The page is about dietary fiber and health tips, unrelated to TikTok trends for 2024; does not address the query.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "6 Foods and Tips for More Fiber \"6 Foods and Tips for More Fiber Experts say we need 25 grams of fiber a day on a 2,000-calorie diet. How can we possibly eat that much? Here's how!By Elaine Magee, MPH, RDFrom the Web MD Archives We all know fiber is good for us. Not only can dietary fiber lower cholesterol, it also helps keep us t",
+  "history": {
+    "url": "https://www.webmd.com/diet/features/6-foods-and-tips-for-more-fiber",
+    "title": "6 Foods and Tips for More Fiber",
+    "description": "\"6 Foods and Tips for More Fiber Experts say we need 25 grams of fiber a day on a 2,000-calorie diet. How can we possibly eat that much? Here's how!By Elaine Magee, MPH, RDFrom the Web MD Archives We all know fiber is good for us. Not only can dietary fiber lower cholesterol, it also helps keep us t",
+    "frecency": 2594,
+    "url_hash": 31814213795385,
+    "last_visit_date": 1758203928376735
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Barton County Welcome to Barton County Extension Barton County K-State Research and Extension office has many things to offer. Are you interested in Making the Best Better? If so, 4-H and Youth is the place to be. Do you ever have a question about food, health, parenting or family and finance? Family and Con",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes Barton County Extension services and 4-H, not DIY room decoration ideas; it is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Barton County \"Welcome to Barton County Extension Barton County K-State Research and Extension office has many things to offer. Are you interested in \"\"Making the Best Better?\"\" If so, 4-H and Youth is the place to be. Do you ever have a question about food, health, parenting or family and finance? Family and Con",
+  "history": {
+    "url": "http://www.barton.k-state.edu/",
+    "title": "Barton County",
+    "description": "\"Welcome to Barton County Extension Barton County K-State Research and Extension office has many things to offer. Are you interested in \"\"Making the Best Better?\"\" If so, 4-H and Youth is the place to be. Do you ever have a question about food, health, parenting or family and finance? Family and Con",
+    "frecency": 3237,
+    "url_hash": 34814090454370,
+    "last_visit_date": 1758203930511228
+  }
+}

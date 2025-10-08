@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "How to Play Tetris 1 Get a Tetris game to play. Tetris is available on almost all electronic mediums, you can try it on your computer; a GBA or Nintendo DS work too.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses playing Tetris, not apps or methods to improve study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "How to Play Tetris 1 Get a Tetris game to play. Tetris is available on almost all electronic mediums, you can try it on your computer; a GBA or Nintendo DS work too.",
+  "history": {
+    "url": "https://www.wikihow.com/Play-Tetris",
+    "title": "How to Play Tetris",
+    "description": "1 Get a Tetris game to play. Tetris is available on almost all electronic mediums, you can try it on your computer; a GBA or Nintendo DS work too. ",
+    "frecency": 887,
+    "url_hash": 75273400730034,
+    "last_visit_date": 1758203932667228
+  }
+}

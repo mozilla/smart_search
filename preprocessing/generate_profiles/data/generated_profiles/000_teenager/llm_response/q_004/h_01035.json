@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Hotel Breakfasts Hotel Breakfasts Does your hotel reservation include breakfast? When booking a reservation for a hotel room, perhaps breakfast is the furthest thing from your mind. If it is, then the next morning you may wake up ready to start your day with a nice breakfast only to find out that the hotel does not",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The result discusses hotel breakfasts and is not related to improving performance or skills in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Hotel Breakfasts Hotel Breakfasts Does your hotel reservation include breakfast? When booking a reservation for a hotel room, perhaps breakfast is the furthest thing from your mind. If it is, then the next morning you may wake up ready to start your day with a nice breakfast only to find out that the hotel does not",
+  "history": {
+    "url": "http://morrishousehotel.com/hotel-breakfasts/",
+    "title": "Hotel Breakfasts",
+    "description": "Hotel Breakfasts Does your hotel reservation include breakfast? When booking a reservation for a hotel room, perhaps breakfast is the furthest thing from your mind. If it is, then the next morning you may wake up ready to start your day with a nice breakfast only to find out that the hotel does not ",
+    "frecency": 436,
+    "url_hash": 93870614139805,
+    "last_visit_date": 1758203927837139
+  }
+}

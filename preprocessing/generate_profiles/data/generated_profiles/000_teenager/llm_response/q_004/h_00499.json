@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Tom Cruise \\\"Top 500Tom Cruise Actor | Producer | Soundtrack In 1976, if you had told fourteen year-old Franciscan seminary student Thomas Cruise Mapother IV that one day in the not too distant future he would be Tom Cruise, one of the top 100 movie stars of all time, he would have probably grinned and told you",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Tom Cruise and acting, not strategies or guidance for improving sports performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Tom Cruise \"Top 500Tom Cruise Actor | Producer | Soundtrack In 1976, if you had told fourteen year-old Franciscan seminary student Thomas Cruise Mapother IV that one day in the not too distant future he would be Tom Cruise, one of the top 100 movie stars of all time, he would have probably grinned and told you",
+  "history": {
+    "url": "http://www.imdb.com/name/nm0000129/",
+    "title": "Tom Cruise",
+    "description": "\"Top 500Tom Cruise Actor | Producer | Soundtrack In 1976, if you had told fourteen year-old Franciscan seminary student Thomas Cruise Mapother IV that one day in the not too distant future he would be Tom Cruise, one of the top 100 movie stars of all time, he would have probably grinned and told you",
+    "frecency": 2757,
+    "url_hash": 67869909724821,
+    "last_visit_date": 1758203928589139
+  }
+}

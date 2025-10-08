@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "We Are Independent Health Insurance Specialists We Are Independent Health Insurance Specialists We specialise in providing health insurance to individuals, couples, families and business of all sizes Get a Quote",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The page is about health insurance; it has no content related to database queries or their optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "We Are Independent Health Insurance Specialists We Are Independent Health Insurance Specialists We specialise in providing health insurance to individuals, couples, families and business of all sizes Get a Quote",
+  "history": {
+    "url": "http://www.lifepointhealthcare.co.uk/",
+    "title": "We Are Independent Health Insurance Specialists",
+    "description": "We Are Independent Health Insurance Specialists We specialise in providing health insurance to individuals, couples, families and business of all sizes Get a Quote ",
+    "frecency": 3057,
+    "url_hash": 58976812205990,
+    "last_visit_date": 1758203932166111
+  }
+}

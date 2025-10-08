@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Better Puppet Modules Using Hiera Data \\\"Better Puppet Modules Using Hiera Data12/08/2013When writing Puppet Modules there tend to be a ton of configuration data \u2013 generally things like different paths for different operating systems. Today the general pattern to manage this data is a class module::param with a bunch of logic in it. Here\u2019",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Puppet modules and Hiera data, not Docker or Docker setup concepts; thus not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Better Puppet Modules Using Hiera Data \"Better Puppet Modules Using Hiera Data12/08/2013When writing Puppet Modules there tend to be a ton of configuration data \u2013 generally things like different paths for different operating systems. Today the general pattern to manage this data is a class module::param with a bunch of logic in it. Here\u2019",
+  "history": {
+    "url": "https://www.devco.net/archives/2013/12/08/better-puppet-modules-using-hiera-data.php",
+    "title": "Better Puppet Modules Using Hiera Data",
+    "description": "\"Better Puppet Modules Using Hiera Data12/08/2013When writing Puppet Modules there tend to be a ton of configuration data \u2013 generally things like different paths for different operating systems. Today the general pattern to manage this data is a class module::param with a bunch of logic in it. Here\u2019",
+    "frecency": 690,
+    "url_hash": 96766920165517,
+    "last_visit_date": 1758203930926111
+  }
+}

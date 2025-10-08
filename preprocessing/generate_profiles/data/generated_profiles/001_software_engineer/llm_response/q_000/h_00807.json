@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "What Is an HR Coordinator? Related Articles Typical HR Department Hierarchy Purpose of HR Policies & Procedures Seven Major Categories of HR Management Activities How Does Downsizing Impact the Role of Human Resource Management? Major Challenges Affecting a Human Resource Manager What Are the Various Roles HR Plays in Organiz",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about HR topics and unrelated to API debugging; no relevance to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "What Is an HR Coordinator? Related Articles Typical HR Department Hierarchy Purpose of HR Policies & Procedures Seven Major Categories of HR Management Activities How Does Downsizing Impact the Role of Human Resource Management? Major Challenges Affecting a Human Resource Manager What Are the Various Roles HR Plays in Organiz",
+  "history": {
+    "url": "http://yourbusiness.azcentral.com/hr-coordinator-3309.html",
+    "title": "What Is an HR Coordinator?",
+    "description": "Related Articles Typical HR Department Hierarchy Purpose of HR Policies & Procedures Seven Major Categories of HR Management Activities How Does Downsizing Impact the Role of Human Resource Management? Major Challenges Affecting a Human Resource Manager What Are the Various Roles HR Plays in Organiz",
+    "frecency": 2265,
+    "url_hash": 54577209448566,
+    "last_visit_date": 1758203928742200
+  }
+}

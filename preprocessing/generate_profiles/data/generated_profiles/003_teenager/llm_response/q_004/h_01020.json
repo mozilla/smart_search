@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "2017 Schedule Home Tickets Main Stage Shows Carnival Admission/Deals Entertainment Main Stage Shows Stage Acts Carnival Contests/Entry Forms Fair Explorer Program2017 Schedule Thursday Friday Saturday Sunday4-H & FFAInformation Parking & Grounds Guest Services Food Vendor Applications Sponsorships News Exhibits O",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result appears to be a carnival fair schedule page and contains no content related to improving sports performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "2017 Schedule Home Tickets Main Stage Shows Carnival Admission/Deals Entertainment Main Stage Shows Stage Acts Carnival Contests/Entry Forms Fair Explorer Program2017 Schedule Thursday Friday Saturday Sunday4-H & FFAInformation Parking & Grounds Guest Services Food Vendor Applications Sponsorships News Exhibits O",
+  "history": {
+    "url": "http://www.canyoncountyfair.org/schedule/",
+    "title": "2017 Schedule",
+    "description": "Home Tickets Main Stage Shows Carnival Admission/Deals Entertainment Main Stage Shows Stage Acts Carnival Contests/Entry Forms Fair Explorer Program2017 Schedule Thursday Friday Saturday Sunday4-H & FFAInformation Parking & Grounds Guest Services Food Vendor Applications Sponsorships News Exhibits O",
+    "frecency": 3942,
+    "url_hash": 40717746417321,
+    "last_visit_date": 1758203931251228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "What genre of music does Adam Lambert sing? Adam Lambert (musician) Genres Music Genres Music Industry Music What genre of music does Adam Lambert sing? No Answers Yet Related Questions Do you listen to Adam Lambert's music? What do you think about Adam Lambert? How do you find your genre (singing)? What are Adam Lambert's best songs? Who is",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Adam Lambert's music genre and is unrelated to improving sports; it does not address the query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "What genre of music does Adam Lambert sing? Adam Lambert (musician) Genres Music Genres Music Industry Music What genre of music does Adam Lambert sing? No Answers Yet Related Questions Do you listen to Adam Lambert's music? What do you think about Adam Lambert? How do you find your genre (singing)? What are Adam Lambert's best songs? Who is",
+  "history": {
+    "url": "https://www.quora.com/unanswered/What-genre-of-music-does-Adam-Lambert-sing",
+    "title": "What genre of music does Adam Lambert sing?",
+    "description": "Adam Lambert (musician) Genres Music Genres Music Industry Music What genre of music does Adam Lambert sing? No Answers Yet Related Questions Do you listen to Adam Lambert's music? What do you think about Adam Lambert? How do you find your genre (singing)? What are Adam Lambert's best songs? Who is ",
+    "frecency": 1126,
+    "url_hash": 32790967020152,
+    "last_visit_date": 1758203931217228
+  }
+}

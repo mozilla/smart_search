@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Public Holidays and Festivals \"Tweettraditional Samoan dancers, Apia Public Holidays and Festivals Public holidays include: New Year's Days (January 1, 2)Head of State's Birthday (first Monday in January)Good Friday and Easter Monday (March/April)Mothers of Samoa Day (a Monday in mid-May)Independence Days (June 1, 2)Labor Day (a",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses public holidays in Samoa and not sports, thus not relevant to the query 'how to get better at sports'.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Public Holidays and Festivals \"Tweettraditional Samoan dancers, Apia Public Holidays and Festivals Public holidays include: New Year's Days (January 1, 2)Head of State's Birthday (first Monday in January)Good Friday and Easter Monday (March/April)Mothers of Samoa Day (a Monday in mid-May)Independence Days (June 1, 2)Labor Day (a",
+  "history": {
+    "url": "http://samoa.southpacific.org/travel/holidays.html",
+    "title": "Public Holidays and Festivals",
+    "description": "\"Tweettraditional Samoan dancers, Apia Public Holidays and Festivals Public holidays include: New Year's Days (January 1, 2)Head of State's Birthday (first Monday in January)Good Friday and Easter Monday (March/April)Mothers of Samoa Day (a Monday in mid-May)Independence Days (June 1, 2)Labor Day (a",
+    "frecency": 2014,
+    "url_hash": 21501776082700,
+    "last_visit_date": 1758203933839228
+  }
+}

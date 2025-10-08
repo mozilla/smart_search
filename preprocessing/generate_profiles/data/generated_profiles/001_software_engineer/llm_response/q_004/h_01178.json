@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "How many rings does Uranus have? Science Astronomy Planets Q: How many rings does Uranus have? A: Quick Answer There are thirteen rings surrounding the planet Uranus. Ten of the rings were first discovered by Australian astronomers in 1977. In 1986, technological advances allowed the space craft Voyager II to identify the other thr",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Uranus rings and astronomy, which is unrelated to Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "How many rings does Uranus have? Science Astronomy Planets Q: How many rings does Uranus have? A: Quick Answer There are thirteen rings surrounding the planet Uranus. Ten of the rings were first discovered by Australian astronomers in 1977. In 1986, technological advances allowed the space craft Voyager II to identify the other thr",
+  "history": {
+    "url": "https://www.reference.com/science/many-rings-uranus-e5a2cd5ea15b3225",
+    "title": "How many rings does Uranus have?",
+    "description": "Science Astronomy Planets Q: How many rings does Uranus have? A: Quick Answer There are thirteen rings surrounding the planet Uranus. Ten of the rings were first discovered by Australian astronomers in 1977. In 1986, technological advances allowed the space craft Voyager II to identify the other thr",
+    "frecency": 844,
+    "url_hash": 57737494453285,
+    "last_visit_date": 1758203929104200
+  }
+}

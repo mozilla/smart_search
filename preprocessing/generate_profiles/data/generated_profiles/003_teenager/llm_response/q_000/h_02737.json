@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Averages for Sydney in June What's the Weather Like in Sydney in June Sydney is located on the east coast of Australia and is the capital city of New South Wales. One of the world's most famous cities, Sydney combines a vibrant urban atmosphere with the laidback beach life that Australia is known for. In the Southern Hemispher",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses weather in Sydney rather than providing information related to starting a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Averages for Sydney in June What's the Weather Like in Sydney in June Sydney is located on the east coast of Australia and is the capital city of New South Wales. One of the world's most famous cities, Sydney combines a vibrant urban atmosphere with the laidback beach life that Australia is known for. In the Southern Hemispher",
+  "history": {
+    "url": "http://www.holiday-weather.com/sydney/averages/june/",
+    "title": "Averages for Sydney in June",
+    "description": "What's the Weather Like in Sydney in June Sydney is located on the east coast of Australia and is the capital city of New South Wales. One of the world's most famous cities, Sydney combines a vibrant urban atmosphere with the laidback beach life that Australia is known for. In the Southern Hemispher",
+    "frecency": 2148,
+    "url_hash": 56159815190064,
+    "last_visit_date": 1758203928434735
+  }
+}

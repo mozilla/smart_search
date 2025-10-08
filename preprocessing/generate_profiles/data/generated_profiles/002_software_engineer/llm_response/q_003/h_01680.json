@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Safeguard Your Thanksgiving Leftovers \"Safeguard Your Thanksgiving Leftovers Thanksgiving dinner usually ends with a lot of leftovers for days. To keep your food fresh and your stomach happy, be sure to follow the 2-2-4 formula for reusing leftovers. From the Web MD Archives They used to say that Chicago stockyard workers used \"\"everyth",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Thanksgiving leftovers, not database queries; it is not relevant to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Safeguard Your Thanksgiving Leftovers \"Safeguard Your Thanksgiving Leftovers Thanksgiving dinner usually ends with a lot of leftovers for days. To keep your food fresh and your stomach happy, be sure to follow the 2-2-4 formula for reusing leftovers. From the Web MD Archives They used to say that Chicago stockyard workers used \"\"everyth",
+  "history": {
+    "url": "https://www.webmd.com/food-recipes/features/safeguard-your-thanksgiving-leftovers",
+    "title": "Safeguard Your Thanksgiving Leftovers",
+    "description": "\"Safeguard Your Thanksgiving Leftovers Thanksgiving dinner usually ends with a lot of leftovers for days. To keep your food fresh and your stomach happy, be sure to follow the 2-2-4 formula for reusing leftovers. From the Web MD Archives They used to say that Chicago stockyard workers used \"\"everyth",
+    "frecency": 1952,
+    "url_hash": 77268248183695,
+    "last_visit_date": 1758203928170111
+  }
+}

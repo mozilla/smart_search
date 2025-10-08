@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Articles and Databases Find by Subject Accounting Anthropology Biochemistry Biology Business Chemistry Communication Computer Science Criminology & Justice Studies Dance Economics Education Environmental Studies Ethnic Studies Film Finance Geography Global Studies History-- Primary Sources Human Development Kinesiology Li",
+  "relevance_score": 0.15,
+  "binary_decision": 0,
+  "Decision_Reason": "The result appears to be a general subject directory listing disciplines, not a resource or article about improving athletic performance; only tangentially related via 'Kinesiology'.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Articles and Databases Find by Subject Accounting Anthropology Biochemistry Biology Business Chemistry Communication Computer Science Criminology & Justice Studies Dance Economics Education Environmental Studies Ethnic Studies Film Finance Geography Global Studies History-- Primary Sources Human Development Kinesiology Li",
+  "history": {
+    "url": "https://biblio.csusm.edu/research_portal/databases",
+    "title": "Articles and Databases",
+    "description": "Find by Subject Accounting Anthropology Biochemistry Biology Business Chemistry Communication Computer Science Criminology & Justice Studies Dance Economics Education Environmental Studies Ethnic Studies Film Finance Geography Global Studies History-- Primary Sources Human Development Kinesiology Li",
+    "frecency": 3587,
+    "url_hash": 23429839061718,
+    "last_visit_date": 1758203934897228
+  }
+}

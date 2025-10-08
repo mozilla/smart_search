@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "When Did Redd Foxx Die? Biography about the comedian, not related to API debugging or programming topics.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is unrelated to debugging API integration; it's a biography about Redd Foxx.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "When Did Redd Foxx Die? \"Home Biographies When Did Redd Foxx Die? When Did Redd Foxx Die? Redd Foxx was born in 1922 and died in 1991. He was a great comedian and entertainer. He died on a set, doing what he loved to do, making people laugh. When Redd Foxx Died Redd and friend Della Reese co-starred in a movie called, \"\"Ha",
+  "history": {
+    "url": "http://biography.yourdictionary.com/articles/when-redd-foxx-die.html",
+    "title": "When Did Redd Foxx Die?",
+    "description": "\"Home Biographies When Did Redd Foxx Die? When Did Redd Foxx Die? Redd Foxx was born in 1922 and died in 1991. He was a great comedian and entertainer. He died on a set, doing what he loved to do, making people laugh. When Redd Foxx Died Redd and friend Della Reese co-starred in a movie called, \"\"Ha",
+    "frecency": 3512,
+    "url_hash": 91508474452295,
+    "last_visit_date": 1758203928646200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Palace of Versailles, the Entrance September 10, 2012 by Max Distro LLC 2 Comments Palace of Versailles, the Entrance Palace of Versailles Versailles started out as a hunting lodge for King Louis XIII. When Louis XIII was younger, he had accompanied his father King Henry IV on hunting trips to the estate of Albert de Gondi, a French",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about the Palace of Versailles, a historical site, not related to improving sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Palace of Versailles, the Entrance September 10, 2012 by Max Distro LLC 2 Comments Palace of Versailles, the Entrance Palace of Versailles Versailles started out as a hunting lodge for King Louis XIII. When Louis XIII was younger, he had accompanied his father King Henry IV on hunting trips to the estate of Albert de Gondi, a French",
+  "history": {
+    "url": "https://traveltoeat.com/palace-of-versailles-the-entrance/",
+    "title": "Palace of Versailles, the Entrance",
+    "description": "September 10, 2012 by Max Distro LLC 2 Comments Palace of Versailles, the Entrance Palace of Versailles Versailles started out as a hunting lodge for King Louis XIII. When Louis XIII was younger, he had accompanied his father King Henry IV on hunting trips to the estate of Albert de Gondi, a French ",
+    "frecency": 4481,
+    "url_hash": 97210791682366,
+    "last_visit_date": 1758203932093228
+  }
+}

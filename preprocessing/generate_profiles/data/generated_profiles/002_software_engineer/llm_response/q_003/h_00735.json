@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Salary and Career Info for Diving Instructors Salary and Career Info for Diving Instructors Scuba diving instructors require a significant amount of specialized training to help others learn the art of underwater exploration. Get a quick view of the requirements as well as details about degree programs, job duties and licensure to find out if t",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses diving instructors and related career information, not database query optimization; no alignment with the search query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Salary and Career Info for Diving Instructors Salary and Career Info for Diving Instructors Scuba diving instructors require a significant amount of specialized training to help others learn the art of underwater exploration. Get a quick view of the requirements as well as details about degree programs, job duties and licensure to find out if t",
+  "history": {
+    "url": "http://study.com/articles/Salary_and_Career_Info_for_Diving_Instructors.html",
+    "title": "Salary and Career Info for Diving Instructors",
+    "description": "Salary and Career Info for Diving Instructors Scuba diving instructors require a significant amount of specialized training to help others learn the art of underwater exploration. Get a quick view of the requirements as well as details about degree programs, job duties and licensure to find out if t",
+    "frecency": 3689,
+    "url_hash": 59404257211340,
+    "last_visit_date": 1758203930290111
+  }
+}

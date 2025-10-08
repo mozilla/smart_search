@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Summer Camp Job Facts Summer Camp Job Facts Here are some statistics according to the American Camping Association: Summer camp enrollment is increasingly steadily about 10% every year, so the need for staff is greater with each camping season.2 out of 3 camp directors are women and 44% are under 35 years old. Less than",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about summer camps and staffing statistics, not related to Docker setup or beginner/docker instructions.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Summer Camp Job Facts Summer Camp Job Facts Here are some statistics according to the American Camping Association: Summer camp enrollment is increasingly steadily about 10% every year, so the need for staff is greater with each camping season.2 out of 3 camp directors are women and 44% are under 35 years old. Less than",
+  "history": {
+    "url": "http://www.jobmonkey.com/summercamps/summer_camp_jobs/",
+    "title": "Summer Camp Job Facts",
+    "description": "Summer Camp Job Facts Here are some statistics according to the American Camping Association: Summer camp enrollment is increasingly steadily about 10% every year, so the need for staff is greater with each camping season.2 out of 3 camp directors are women and 44% are under 35 years old. Less than ",
+    "frecency": 4787,
+    "url_hash": 87109932831448,
+    "last_visit_date": 1758203929690111
+  }
+}

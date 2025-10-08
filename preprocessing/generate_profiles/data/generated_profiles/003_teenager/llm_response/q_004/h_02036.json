@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Josh Temple HGTV and DIY Network Host Josh Temple",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns a television host and network shows, not content about improving athletic performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Josh Temple HGTV and DIY Network Host Josh Temple",
+  "history": {
+    "url": "http://people.hgtv.com/talent/josh-temple",
+    "title": "Josh Temple",
+    "description": "HGTV and DIY Network Host Josh Temple ",
+    "frecency": 2891,
+    "url_hash": 87683269704745,
+    "last_visit_date": 1758203929156735
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "A list of poems and poetry titles; not relevant to starting a YouTube channel.",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about poems, not related to creating or starting a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Frequently asked for poems \"Here are the details of poems we are often asked about. \"\"John was a tyrant, / John was a tartar\"\"\"\"Men who were boys when I was a boy\"\"\"\"Stop all the clocks...\"\"\"\"The life that I have is all that I have...\"\"\"\"What is this life if, full of care\"\"\"\"When I am an old woman I shall wear purple\"\"A Song",
+  "history": {
+    "url": "http://www.poetrylibrary.org.uk/queries/faps/",
+    "title": "Frequently asked for poems",
+    "description": "\"Here are the details of poems we are often asked about. \"\"John was a tyrant, / John was a tartar\"\"\"\"Men who were boys when I was a boy\"\"\"\"Stop all the clocks...\"\"\"\"The life that I have is all that I have...\"\"\"\"What is this life if, full of care\"\"\"\"When I am an old woman I shall wear purple\"\"A Song ",
+    "frecency": 3504,
+    "url_hash": 41579327114742,
+    "last_visit_date": 1758203930913228
+  }
+}

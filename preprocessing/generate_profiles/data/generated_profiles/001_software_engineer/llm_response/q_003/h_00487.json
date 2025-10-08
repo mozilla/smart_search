@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "The Piano Guys \"Artist Biography by Steve Leggett Technically, the Piano Guys are the duo of pianist Jon Schmidt and cellist Steven Sharp Nelson, but they're also a 21st century multimedia collective that includes Paul Anderson and studio engineer and writer Al van der Beek. Together they produce musical and video",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a music artist biography and has no connection to optimizing database queries.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "The Piano Guys \"Artist Biography by Steve Leggett Technically, the Piano Guys are the duo of pianist Jon Schmidt and cellist Steven Sharp Nelson, but they're also a 21st century multimedia collective that includes Paul Anderson and studio engineer and writer Al van der Beek. Together they produce musical and video",
+  "history": {
+    "url": "http://www.allmusic.com/artist/the-piano-guys-mn0002895189/biography",
+    "title": "The Piano Guys",
+    "description": "\"Artist Biography by Steve Leggett Technically, the Piano Guys are the duo of pianist Jon Schmidt and cellist Steven Sharp Nelson, but they're also a 21st century multimedia collective that includes Paul Anderson and studio engineer and writer Al van der Beek. Together they produce musical and video",
+    "frecency": 3337,
+    "url_hash": 44775778134423,
+    "last_visit_date": 1758203927304200
+  }
+}

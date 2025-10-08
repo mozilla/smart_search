@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Is rye bread healthy? Health Diet & Fitness Is rye bread healthy? I know that wholemeal bread is good for you, but when I was at the supermarket/grocery store I compared rye bread to wholemeal. The rye bread had less carbs, less fat and less calories. Does that mean the rye bread is better than the wholemeal bread? Is r",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about rye bread health, not API integration debugging.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Is rye bread healthy? \"Health Diet & Fitness Is rye bread healthy? I know that wholemeal bread is good for you, but when I was at the supermarket/grocery store I compared rye bread to wholemeal. The rye bread had less carbs, less fat and less calories. Does that mean the rye bread is better than the wholemeal bread? Is r",
+  "history": {
+    "url": "https://answers.yahoo.com/question/index?qid=20081003064709AAXUrsZ",
+    "title": "Is rye bread healthy?",
+    "description": "\"Health Diet & Fitness Is rye bread healthy? I know that wholemeal bread is good for you, but when I was at the supermarket/grocery store I compared rye bread to wholemeal. The rye bread had less carbs, less fat and less calories. Does that mean the rye bread is better than the wholemeal bread? Is r",
+    "frecency": 4711,
+    "url_hash": 21973710454104,
+    "last_visit_date": 1758203928632200
+  }
+}

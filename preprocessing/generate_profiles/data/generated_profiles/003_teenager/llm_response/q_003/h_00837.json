@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Who sings Everything's Gonna Be Alright? \"Entertainment & Music Music Lyrics Who sings Everything's Gonna Be Alright? I know that there's a lot of songs out there named that, but there's one that's always stuck in my head. It's a female singer, it was popular in the 90's I believe, and she had amazing pipes. It went kinda like \"\"Everything",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a song lyrics query and singer, not about study apps or improving study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Who sings Everything's Gonna Be Alright? \"Entertainment & Music Music Lyrics Who sings Everything's Gonna Be Alright? I know that there's a lot of songs out there named that, but there's one that's always stuck in my head. It's a female singer, it was popular in the 90's I believe, and she had amazing pipes. It went kinda like \"\"Everything",
+  "history": {
+    "url": "https://answers.yahoo.com/question/index?qid=20100902153146AANUCxI",
+    "title": "Who sings Everything's Gonna Be Alright?",
+    "description": "\"Entertainment & Music Music Lyrics Who sings Everything's Gonna Be Alright? I know that there's a lot of songs out there named that, but there's one that's always stuck in my head. It's a female singer, it was popular in the 90's I believe, and she had amazing pipes. It went kinda like \"\"Everything",
+    "frecency": 4116,
+    "url_hash": 94063258233017,
+    "last_visit_date": 1758203931549228
+  }
+}

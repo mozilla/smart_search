@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Pasadena: Arriving & Departing Pasadena Traveler Article: Pasadena: Arriving & Departing Save Article More Traveler Articlesadvice from real travelers Background Architecture Culture History Recommended Reading Tourist Board Info Weather & When to Go Things to Do Events & Festivals Foody Field Trips How to \u201cdo\u201d the Rose Parade Hu",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about travel information for Pasadena and the Rose Parade, not about improving performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Pasadena: Arriving & Departing Pasadena Traveler Article: Pasadena: Arriving & Departing Save Article More Traveler Articlesadvice from real travelers Background Architecture Culture History Recommended Reading Tourist Board Info Weather & When to Go Things to Do Events & Festivals Foody Field Trips How to \u201cdo\u201d the Rose Parade Hu",
+  "history": {
+    "url": "https://www.tripadvisor.com/Travel-g32859-s301/Pasadena:California:Arriving.And.Departing.html",
+    "title": "Pasadena: Arriving & Departing",
+    "description": "Pasadena Traveler Article: Pasadena: Arriving & Departing Save Article More Traveler Articlesadvice from real travelers Background Architecture Culture History Recommended Reading Tourist Board Info Weather & When to Go Things to Do Events & Festivals Foody Field Trips How to \u201cdo\u201d the Rose Parade Hu",
+    "frecency": 2620,
+    "url_hash": 61508147201308,
+    "last_visit_date": 1758203929951228
+  }
+}

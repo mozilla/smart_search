@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Early HIV symptoms: What are they? Appointments at Mayo Clinic Mayo Clinic offers appointments in Arizona, Florida and Minnesota and at Mayo Clinic Health System locations. Request Appointment Early HIV symptoms: What are they? Products and services Free E-newsletter Subscribe to Housecall Our general interest e-newsletter keeps you",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses HIV symptoms and Mayo Clinic information, not Python libraries or machine learning; it is not relevant to the search query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Early HIV symptoms: What are they? Appointments at Mayo Clinic Mayo Clinic offers appointments in Arizona, Florida and Minnesota and at Mayo Clinic Health System locations. Request Appointment Early HIV symptoms: What are they? Products and services Free E-newsletter Subscribe to Housecall Our general interest e-newsletter keeps you",
+  "history": {
+    "url": "http://www.mayoclinic.org/diseases-conditions/hiv-aids/expert-answers/early-hiv-symptoms/FAQ-20058415",
+    "title": "Early HIV symptoms: What are they?",
+    "description": "Appointments at Mayo Clinic Mayo Clinic offers appointments in Arizona, Florida and Minnesota and at Mayo Clinic Health System locations. Request Appointment Early HIV symptoms: What are they? Products and services Free E-newsletter Subscribe to Housecall Our general interest e-newsletter keeps you ",
+    "frecency": 283,
+    "url_hash": 57154946974364,
+    "last_visit_date": 1758203931422111
+  }
+}

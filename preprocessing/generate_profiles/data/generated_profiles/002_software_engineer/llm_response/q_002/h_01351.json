@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "The Benefits of Physical Therapy The Benefits of Physical Therapy Tweet Physical therapy involves the interaction between physical therapist, patients/clients, other health care professionals, families, care givers, and communities in a process where movement potential is assessed and diagnosed and goals are agreed upon. Physical t",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses physical therapy and is unrelated to software development IDEs; it does not address the query and is not relevant.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "The Benefits of Physical Therapy The Benefits of Physical Therapy Tweet Physical therapy involves the interaction between physical therapist, patients/clients, other health care professionals, families, care givers, and communities in a process where movement potential is assessed and diagnosed and goals are agreed upon. Physical t",
+  "history": {
+    "url": "http://newyorkmedicalservices.com/physical-therapy-articles/the-benefits-of-physical-therapy",
+    "title": "The Benefits of Physical Therapy",
+    "description": "The Benefits of Physical Therapy Tweet Physical therapy involves the interaction between physical therapist, patients/clients, other health care professionals, families, care givers, and communities in a process where movement potential is assessed and diagnosed and goals are agreed upon. Physical t",
+    "frecency": 2559,
+    "url_hash": 53779355923773,
+    "last_visit_date": 1758203927672111
+  }
+}

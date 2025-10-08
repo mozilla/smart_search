@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Radio: A Consumer Product and a Producer of Consumption \"Radio: A Consumer Product and a Producer of Consumption Intro Note Menu || Historical Overview Next Intro Note: Newsstand 1926Previous Intro Note: Advertising and Public Relations: The Mass Distribution Congress passed the first Radio Act in 1912 but it was not until the Radio Act of 1927 that the",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses radio history and media topics, not Docker or beginner Docker setup; it does not address the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Radio: A Consumer Product and a Producer of Consumption \"Radio: A Consumer Product and a Producer of Consumption Intro Note Menu || Historical Overview Next Intro Note: Newsstand 1926Previous Intro Note: Advertising and Public Relations: The Mass Distribution Congress passed the first Radio Act in 1912 but it was not until the Radio Act of 1927 that the",
+  "history": {
+    "url": "http://lcweb2.loc.gov:8081/ammem/amrlhtml/inradio.html",
+    "title": "Radio: A Consumer Product and a Producer of Consumption",
+    "description": "\"Radio: A Consumer Product and a Producer of Consumption Intro Note Menu || Historical Overview Next Intro Note: Newsstand 1926Previous Intro Note: Advertising and Public Relations: The Mass Distribution Congress passed the first Radio Act in 1912 but it was not until the Radio Act of 1927 that the ",
+    "frecency": 4627,
+    "url_hash": 41614740854975,
+    "last_visit_date": 1758203927162111
+  }
+}

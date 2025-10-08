@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "403 Forbidden \"403 Forbidden By Barbara Miller | bmiller@pennlive.com Email the author | Follow on Twitter on January 28, 2015 at 4:27 PM, updated January 28, 2015 at 9:07 PMMilton Hershey School celebrated enrolling its 2000th student this week as it forges ahead on its pledge to serve more kids in social and ec",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a 403 Forbidden page about Milton Hershey School, not related to IDEs or software development.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "403 Forbidden \"403 Forbidden By Barbara Miller | bmiller@pennlive.com Email the author | Follow on Twitter on January 28, 2015 at 4:27 PM, updated January 28, 2015 at 9:07 PMMilton Hershey School celebrated enrolling its 2000th student this week as it forges ahead on its pledge to serve more kids in social and ec",
+  "history": {
+    "url": "http://www.pennlive.com/midstate/index.ssf/2015/01/milton_hershey_school_2000_stu.html",
+    "title": "403 Forbidden",
+    "description": "\"403 Forbidden By Barbara Miller | bmiller@pennlive.com Email the author | Follow on Twitter on January 28, 2015 at 4:27 PM, updated January 28, 2015 at 9:07 PMMilton Hershey School celebrated enrolling its 2000th student this week as it forges ahead on its pledge to serve more kids in social and ec",
+    "frecency": 4362,
+    "url_hash": 80732201053252,
+    "last_visit_date": 1758203929092200
+  }
+}

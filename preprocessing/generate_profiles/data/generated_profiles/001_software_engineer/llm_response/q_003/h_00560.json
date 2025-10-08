@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "How do I prepare an already painted wall for new paint? \"_Home Improvement Stack Exchange is a question and answer site for contractors and serious DIYers. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top How do I prepare an already painted wall",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about painting walls and home improvement, not database query optimization; unrelated domain.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "How do I prepare an already painted wall for new paint? \"_Home Improvement Stack Exchange is a question and answer site for contractors and serious DIYers. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top How do I prepare an already painted wall",
+  "history": {
+    "url": "https://diy.stackexchange.com/questions/1380/how-do-i-prepare-an-already-painted-wall-for-new-paint",
+    "title": "How do I prepare an already painted wall for new paint?",
+    "description": "\"_Home Improvement Stack Exchange is a question and answer site for contractors and serious DIYers. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top How do I prepare an already painted wall",
+    "frecency": 3096,
+    "url_hash": 76195148934735,
+    "last_visit_date": 1758203928526200
+  }
+}

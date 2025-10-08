@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Nursing Manager Salary data showing salary statistics; unrelated to database queries or optimization.",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The result is about nursing manager salary, not about database query optimization; it is not relevant to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Nursing Manager  Salary \"Nursing Manager Salary The average salary for a Nursing Manager is $83,048 per year. Pay for this job does not change much by experience, with the most experienced earning only a bit more than the least. Read More$61K $72K $83K $97K $110KMEDIAN: $82,63110% 25% 50% 75% 90%Add this chart to your site",
+  "history": {
+    "url": "https://www.payscale.com/research/US/Job=Nursing_Manager/Salary",
+    "title": "Nursing Manager  Salary",
+    "description": "\"Nursing Manager Salary The average salary for a Nursing Manager is $83,048 per year. Pay for this job does not change much by experience, with the most experienced earning only a bit more than the least. Read More$61K $72K $83K $97K $110KMEDIAN: $82,63110% 25% 50% 75% 90%Add this chart to your site",
+    "frecency": 3381,
+    "url_hash": 93805433972940,
+    "last_visit_date": 1758203928534200
+  }
+}

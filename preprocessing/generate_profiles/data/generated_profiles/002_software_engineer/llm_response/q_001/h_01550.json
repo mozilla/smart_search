@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "About: Mission History Mission and Guiding Principles FAQ and Fact Sheets Fun on Wildlife Refuges Field Notes Refuge Reports Conservation Heroes Multimedia Careers Archives About: Mission Mission Statement The Mission of the National Wildlife Refuge System is to administer a national network of lands and waters fo",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses the National Wildlife Refuge System, not Python libraries or machine learning; no relevance to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "About: Mission History Mission and Guiding Principles FAQ and Fact Sheets Fun on Wildlife Refuges Field Notes Refuge Reports Conservation Heroes Multimedia Careers Archives About: Mission Mission Statement The Mission of the National Wildlife Refuge System is to administer a national network of lands and waters fo",
+  "history": {
+    "url": "https://www.fws.gov/refuges/about/mission.html",
+    "title": "About: Mission",
+    "description": "History Mission and Guiding Principles FAQ and Fact Sheets Fun on Wildlife Refuges Field Notes Refuge Reports Conservation Heroes Multimedia Careers Archives About: Mission Mission Statement The Mission of the National Wildlife Refuge System is to administer a national network of lands and waters fo",
+    "frecency": 2208,
+    "url_hash": 12432987646968,
+    "last_visit_date": 1758203927020111
+  }
+}

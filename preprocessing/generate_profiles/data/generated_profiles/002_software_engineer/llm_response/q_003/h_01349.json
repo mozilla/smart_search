@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Digital Signal Processing (DSP) Digital Signal Processing (DSP)Definition - What does Digital Signal Processing (DSP) mean? Digital signal processing (DSP) is the process of analyzing and modifying a signal to optimize or improve its efficiency or performance. It involves applying various mathematical and computational algorithms",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Digital Signal Processing (DSP) and is not about databases or query optimization; there is no relevance to the search query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Digital Signal Processing (DSP) Digital Signal Processing (DSP)Definition - What does Digital Signal Processing (DSP) mean? Digital signal processing (DSP) is the process of analyzing and modifying a signal to optimize or improve its efficiency or performance. It involves applying various mathematical and computational algorithms",
+  "history": {
+    "url": "https://www.techopedia.com/definition/2360/digital-signal-processing-dsp",
+    "title": "Digital Signal Processing (DSP)",
+    "description": "Digital Signal Processing (DSP)Definition - What does Digital Signal Processing (DSP) mean? Digital signal processing (DSP) is the process of analyzing and modifying a signal to optimize or improve its efficiency or performance. It involves applying various mathematical and computational algorithms ",
+    "frecency": 2561,
+    "url_hash": 99522455075128,
+    "last_visit_date": 1758203929570111
+  }
+}

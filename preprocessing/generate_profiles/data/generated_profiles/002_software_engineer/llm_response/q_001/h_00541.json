@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Why did Germany attack Neutral Belgium in the first world war? \"_History Stack Exchange is a question and answer site for historians and history buffs. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Why did Germany attack Neutral Belgium in the first\"",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about World War I history and not related to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Why did Germany attack Neutral Belgium in the first world war? \"_History Stack Exchange is a question and answer site for historians and history buffs. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Why did Germany attack Neutral Belgium in the first",
+  "history": {
+    "url": "http://history.stackexchange.com/questions/8488/why-did-germany-attack-neutral-belgium-in-the-first-world-war",
+    "title": "Why did Germany attack Neutral Belgium in the first world war?",
+    "description": "\"_History Stack Exchange is a question and answer site for historians and history buffs. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Why did Germany attack Neutral Belgium in the first",
+    "frecency": 4066,
+    "url_hash": 43381959974547,
+    "last_visit_date": 1758203927420111
+  }
+}

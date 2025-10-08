@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Day-care centre Alternative Titles: cr\u00e8che, day nursery, nursery school Day-care centre, also called day nursery, nursery school, or cr\u00e8che (French: \u201ccrib\u201d), institution that provides supervision and care of infants and young children during the daytime, particularly so that their parents can hold jobs. Such instit",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes daycare centers, not API integration or debugging; it is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Day-care centre Alternative Titles: cr\u00e8che, day nursery, nursery school Day-care centre, also called day nursery, nursery school, or cr\u00e8che (French: \u201ccrib\u201d), institution that provides supervision and care of infants and young children during the daytime, particularly so that their parents can hold jobs. Such instit",
+  "history": {
+    "url": "https://www.britannica.com/topic/day-care-center",
+    "title": "Day-care centre",
+    "description": "Alternative Titles: cr\u00e8che, day nursery, nursery school Day-care centre, also called day nursery, nursery school, or cr\u00e8che (French: \u201ccrib\u201d), institution that provides supervision and care of infants and young children during the daytime, particularly so that their parents can hold jobs. Such instit",
+    "frecency": 3860,
+    "url_hash": 28040280464394,
+    "last_visit_date": 1758203929732111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Configuring Databases with SQL Scripts \"Configuring Databases with SQL Scripts The following article uses options that are available starting with the Enterprise edition and project type. This tutorial will guide you in configuring SQL scripts that will be executed during installation if the application you are installing depends on cert\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "Retrieved result is about configuring databases with SQL scripts, unrelated to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Configuring Databases with SQL Scripts \"Configuring Databases with SQL Scripts The following article uses options that are available starting with the Enterprise edition and project type. This tutorial will guide you in configuring SQL scripts that will be executed during installation if the application you are installing depends on cert",
+  "history": {
+    "url": "http://www.advancedinstaller.com/user-guide/tutorial-sql.html",
+    "title": "Configuring Databases with SQL Scripts",
+    "description": "\"Configuring Databases with SQL Scripts The following article uses options that are available starting with the Enterprise edition and project type. This tutorial will guide you in configuring SQL scripts that will be executed during installation if the application you are installing depends on cert",
+    "frecency": 4495,
+    "url_hash": 24006756035058,
+    "last_visit_date": 1758203928364111
+  }
+}

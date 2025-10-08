@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Taxation in Puerto Rico \"Taxation in Puerto Rico From Wikipedia, the free encyclopedianavigation search Since Puerto Rico is a U. S. territory only government employees pay federal income tax. All other employers and employees pay no federal income taxes. Contents [ hide ]1 Federal taxes2 Commonwealth taxes2.1 Sales tax3 S",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns taxation in Puerto Rico, not database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Taxation in Puerto Rico \"Taxation in Puerto Rico From Wikipedia, the free encyclopedianavigation search Since Puerto Rico is a U. S. territory only government employees pay federal income tax. All other employers and employees pay no federal income taxes. Contents [ hide ]1 Federal taxes2 Commonwealth taxes2.1 Sales tax3 S",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Taxation_in_Puerto_Rico",
+    "title": "Taxation in Puerto Rico",
+    "description": "\"Taxation in Puerto Rico From Wikipedia, the free encyclopedianavigation search Since Puerto Rico is a U. S. territory only government employees pay federal income tax. All other employers and employees pay no federal income taxes. Contents [ hide ]1 Federal taxes2 Commonwealth taxes2.1 Sales tax3 S",
+    "frecency": 1761,
+    "url_hash": 15185498644794,
+    "last_visit_date": 1758203931952111
+  }
+}

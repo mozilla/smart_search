@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Diphenhydramine Injection Diphenhydramine Injectionpronounced as (dye fen hye' dra meen)Why is this medication prescribed? How should this medicine be used? Other uses for this medicine What special precautions should I follow? What special dietary instructions should I follow? What side effects can this medication cause? Wh",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a medication (diphenhydramine) and unrelated to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Diphenhydramine Injection Diphenhydramine Injectionpronounced as (dye fen hye' dra meen)Why is this medication prescribed? How should this medicine be used? Other uses for this medicine What special precautions should I follow? What special dietary instructions should I follow? What side effects can this medication cause? Wh",
+  "history": {
+    "url": "https://medlineplus.gov/druginfo/meds/a616038.html",
+    "title": "Diphenhydramine Injection",
+    "description": "Diphenhydramine Injectionpronounced as (dye fen hye' dra meen)Why is this medication prescribed? How should this medicine be used? Other uses for this medicine What special precautions should I follow? What special dietary instructions should I follow? What side effects can this medication cause? Wh",
+    "frecency": 4066,
+    "url_hash": 88771698168043,
+    "last_visit_date": 1758203933833228
+  }
+}

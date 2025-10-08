@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "UNITED STATES DEPARTMENT OF LABOR \\\"OSHA Technical Manual General Information Health Hazards Safety Hazards Construction Hazards Section III: Chapter 7Legionnaires' Disease Table of Contents: Introduction Disease Recognition Source Identification Investigation Protocol Controls Bibliography List of Appendices Appendix III:7-1. Employ",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Legionnaires' disease and OSHA safety materials, not API debugging or API integration topics.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "UNITED STATES DEPARTMENT OF LABOR \"OSHA Technical Manual General Information Health Hazards Safety Hazards Construction Hazards Section III: Chapter 7Legionnaires' Disease Table of Contents: Introduction Disease Recognition Source Identification Investigation Protocol Controls Bibliography List of Appendices Appendix III:7-1. Employ",
+  "history": {
+    "url": "https://www.osha.gov/dts/osta/otm/otm_iii/otm_iii_7.html",
+    "title": "UNITED STATES DEPARTMENT OF LABOR",
+    "description": "\"OSHA Technical Manual General Information Health Hazards Safety Hazards Construction Hazards Section III: Chapter 7Legionnaires' Disease Table of Contents: Introduction Disease Recognition Source Identification Investigation Protocol Controls Bibliography List of Appendices Appendix III:7-1. Employ",
+    "frecency": 702,
+    "url_hash": 82872373091389,
+    "last_visit_date": 1758203928550200
+  }
+}

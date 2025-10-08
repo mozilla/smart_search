@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Preston Clerk Office Preston Clerk Office Home Government Administration Offices Clerk Offices Iowa Jackson County Preston Find Preston Iowa clerk offices, including county, city, and circuit clerks, and clerks of court. Clerks provide information on public court records and legal documents, criminal, jail, and arrest r",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about clerk offices and government clerks, unrelated to software development IDEs.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Preston Clerk Office Preston Clerk Office Home Government Administration Offices Clerk Offices Iowa Jackson County Preston Find Preston Iowa clerk offices, including county, city, and circuit clerks, and clerks of court. Clerks provide information on public court records and legal documents, criminal, jail, and arrest r",
+  "history": {
+    "url": "http://www.countyoffice.org/preston-ia-clerk/",
+    "title": "Preston Clerk Office",
+    "description": "Preston Clerk Office Home Government Administration Offices Clerk Offices Iowa Jackson County Preston Find Preston Iowa clerk offices, including county, city, and circuit clerks, and clerks of court. Clerks provide information on public court records and legal documents, criminal, jail, and arrest r",
+    "frecency": 794,
+    "url_hash": 39829172463479,
+    "last_visit_date": 1758203927622200
+  }
+}

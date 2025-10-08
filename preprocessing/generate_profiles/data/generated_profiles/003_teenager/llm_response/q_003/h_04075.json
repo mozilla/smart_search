@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Sitzprobe Sitzprobe is a German term used in opera and musical theatre to describe a seated rehearsal \u2014the literal translation of Sitzprobe \u2014where the singers sing with the orchestra, focusing attention on integrating the two groups. It is often the first rehearsal where the orchestra and singers rehearse tog",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes an opera term (Sitzprobe) and rehearsal practices, unrelated to apps or study habit improvement.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Sitzprobe Sitzprobe is a German term used in opera and musical theatre to describe a seated rehearsal \u2014the literal translation of Sitzprobe \u2014where the singers sing with the orchestra, focusing attention on integrating the two groups. It is often the first rehearsal where the orchestra and singers rehearse tog",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Sitzprobe",
+    "title": "Sitzprobe",
+    "description": "Sitzprobe is a German term used in opera and musical theatre to describe a seated rehearsal \u2014the literal translation of Sitzprobe \u2014where the singers sing with the orchestra, focusing attention on integrating the two groups. It is often the first rehearsal where the orchestra and singers rehearse tog",
+    "frecency": 791,
+    "url_hash": 35706289829395,
+    "last_visit_date": 1758203929565228
+  }
+}

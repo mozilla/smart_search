@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "How do you be a lead singer? \\\"B Bozidar 54,497 Contributions I am a professional musician and forum administrator. How do you be a lead singer? Answer Take vocal lessons. Practice, practice, practice. Do some singing venues with a choir or other group. After years of performances, you may just achieve you \u2026Guam bobertea 2 Contr",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses singing and is unrelated to Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "How do you be a lead singer? \"B Bozidar 54,497 Contributions I am a professional musician and forum administrator. How do you be a lead singer? Answer Take vocal lessons. Practice, practice, practice. Do some singing venues with a choir or other group. After years of performances, you may just achieve you \u2026Guam bobertea 2 Contr",
+  "history": {
+    "url": "http://www.answers.com/Q/Who_was_the_lead_singer_for_the_commodores",
+    "title": "How do you be a lead singer?",
+    "description": "\"B Bozidar 54,497 Contributions I am a professional musician and forum administrator. How do you be a lead singer? Answer Take vocal lessons. Practice, practice, practice. Do some singing venues with a choir or other group. After years of performances, you may just achieve you \u2026Guam bobertea 2 Contr",
+    "frecency": 2085,
+    "url_hash": 28209335952884,
+    "last_visit_date": 1758203927486111
+  }
+}

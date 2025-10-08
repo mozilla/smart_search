@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Season (sports) \"Season (sports)From Wikipedia, the free encyclopedia (Redirected from Regular season)navigation search In an organized sports league, a typical season is the portion of one year in which regulated games of the sport are in session: for example, in Major League Baseball the season lasts approximately",
+  "relevance_score": 0.15,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result defines what a season in sports is, rather than offering guidance or strategies to improve athletic performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Season (sports) \"Season (sports)From Wikipedia, the free encyclopedia (Redirected from Regular season)navigation search In an organized sports league, a typical season is the portion of one year in which regulated games of the sport are in session: for example, in Major League Baseball the season lasts approximatel",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Regular_season",
+    "title": "Season (sports)",
+    "description": "\"Season (sports)From Wikipedia, the free encyclopedia (Redirected from Regular season)navigation search In an organized sports league, a typical season is the portion of one year in which regulated games of the sport are in session: for example, in Major League Baseball the season lasts approximatel",
+    "frecency": 2699,
+    "url_hash": 71351587959454,
+    "last_visit_date": 1758203933733228
+  }
+}

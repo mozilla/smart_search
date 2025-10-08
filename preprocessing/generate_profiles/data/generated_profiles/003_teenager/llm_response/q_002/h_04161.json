@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Disney's Art of Animation Resort Cars, Nemo, The Little Mermaid and The Lion King Disney's Art of Animation Resort is the newest of the Value Resort and probably the most popular. Have you ever wished that you could catch a wave with Nemo, sing \u201cHakuna Matata\u201d in a jungle oasis, celebrate \u201cUnder the",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns a Disney resort and characters rather than easy DIY room decoration ideas; it contains no actionable or relevant content about decorating rooms.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Disney's Art of Animation Resort Cars, Nemo, The Little Mermaid and The Lion King Disney's Art of Animation Resort Cars, Nemo, The Little Mermaid and The Lion King Disney's Art of Animation Resort is the newest of the Value Resort and probably the most popular. Have you ever wished that you could catch a wave with Nemo, sing \u201cHakuna Matata\u201d in a jungle oasis, celebrate \u201cUnder the",
+  "history": {
+    "url": "http://www.dadsguidetowdw.com/art-of-animation.html",
+    "title": "Disney's Art of Animation Resort Cars, Nemo, The Little Mermaid and The Lion King",
+    "description": "Disney's Art of Animation Resort Cars, Nemo, The Little Mermaid and The Lion King Disney's Art of Animation Resort is the newest of the Value Resort and probably the most popular. Have you ever wished that you could catch a wave with Nemo, sing \u201cHakuna Matata\u201d in a jungle oasis, celebrate \u201cUnder the",
+    "frecency": 680,
+    "url_hash": 73961373044038,
+    "last_visit_date": 1758203930239228
+  }
+}

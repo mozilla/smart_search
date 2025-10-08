@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Scrub Tech Salary Scrub technicians, commonly referred to as surgical nurses in the medical environment, are trained health care providers who work close to surgeons and other physicians in the operating room. It is the duty of the scrub tech to pass the surgeon all the surgical instruments he requires, and it is als",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses scrub technicians and surgical nurses, which is unrelated to database queries or optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Scrub Tech Salary Scrub technicians, commonly referred to as surgical nurses in the medical environment, are trained health care providers who work close to surgeons and other physicians in the operating room. It is the duty of the scrub tech to pass the surgeon all the surgical instruments he requires, and it is als",
+  "history": {
+    "url": "http://www.healthcareworkersalary.com/technicians-and-technologists/scrub-tech-salary/",
+    "title": "Scrub Tech Salary",
+    "description": "Scrub technicians, commonly referred to as surgical nurses in the medical environment, are trained health care providers who work close to surgeons and other physicians in the operating room. It is the duty of the scrub tech to pass the surgeon all the surgical instruments he requires, and it is als",
+    "frecency": 886,
+    "url_hash": 58590097296220,
+    "last_visit_date": 1758203930900111
+  }
+}

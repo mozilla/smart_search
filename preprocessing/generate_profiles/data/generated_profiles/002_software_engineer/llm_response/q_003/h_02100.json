@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Whole Chicken Stew: The Perfect Winter Meal \"Daylight savings, nearly a month ago now (where did the time go? ), marked the end of late evenings, cooking dinner by the light of the kitchen window. The sun is gone by 5:00 p.m., forcing me to turn on glaring overhead lights earlier, sometimes before I\u2019ve even stood up from my computer and finis",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a cooking blog post about making chicken stew, not related to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Whole Chicken Stew: The Perfect Winter Meal \"Daylight savings, nearly a month ago now (where did the time go? ), marked the end of late evenings, cooking dinner by the light of the kitchen window. The sun is gone by 5:00 p.m., forcing me to turn on glaring overhead lights earlier, sometimes before I\u2019ve even stood up from my computer and finis",
+  "history": {
+    "url": "http://foodformyfamily.com/recipes/whole-chicken-stew-the-perfect-winter-meal",
+    "title": "Whole Chicken Stew: The Perfect Winter Meal",
+    "description": "\"Daylight savings, nearly a month ago now (where did the time go? ), marked the end of late evenings, cooking dinner by the light of the kitchen window. The sun is gone by 5:00 p.m., forcing me to turn on glaring overhead lights earlier, sometimes before I\u2019ve even stood up from my computer and finis",
+    "frecency": 1196,
+    "url_hash": 96319850130169,
+    "last_visit_date": 1758203930038111
+  }
+}

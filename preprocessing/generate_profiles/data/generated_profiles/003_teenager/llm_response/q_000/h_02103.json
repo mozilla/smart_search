@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Rag Doll \\\"CDs & Vinyl \u203a Pop Share Go Unlimited Start your 30-day free trial Listen to any song, anywhere with Amazon Music Unlimited. Learn More Buy New $20.99Qty: FREE Shipping on orders over $25\u2014or get FREE Two-Day Shipping with Amazon Prime Temporarily out of stock. Order now and we'll deliver when availa",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is an Amazon music product page about Rag Doll CDs & Vinyl, not related to starting a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Rag Doll \"CDs & Vinyl \u203a Pop Share Go Unlimited Start your 30-day free trial Listen to any song, anywhere with Amazon Music Unlimited. Learn More Buy New $20.99Qty: FREE Shipping on orders over $25\u2014or get FREE Two-Day Shipping with Amazon Prime Temporarily out of stock. Order now and we'll deliver when availa",
+  "history": {
+    "url": "https://www.amazon.com/Rag-Doll-FOUR-SEASONS/dp/B00YNO25AC",
+    "title": "Rag Doll",
+    "description": "\"CDs & Vinyl \u203a Pop Share Go Unlimited Start your 30-day free trial Listen to any song, anywhere with Amazon Music Unlimited. Learn More Buy New $20.99Qty: FREE Shipping on orders over $25\u2014or get FREE Two-Day Shipping with Amazon Prime Temporarily out of stock. Order now and we'll deliver when availa",
+    "frecency": 2829,
+    "url_hash": 46117371110250,
+    "last_visit_date": 1758203935653228
+  }
+}

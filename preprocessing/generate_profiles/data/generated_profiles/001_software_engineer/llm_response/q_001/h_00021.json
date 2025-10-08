@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "What does an emergency room (ER) nurse do? Los Robles Hospital & Medical Center Administration Registered nurses in emergency departments are trained on multiple different areas and are experienced nurses. In this video, Lynn Tadlock, RN, of Los Robles Hospital & Medical Center, explains the training and certifications that are required. Con",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses ER nurses and hospital administration; unrelated to Python libraries for machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "What does an emergency room (ER) nurse do? Los Robles Hospital & Medical Center Administration Registered nurses in emergency departments are trained on multiple different areas and are experienced nurses. In this video, Lynn Tadlock, RN, of Los Robles Hospital & Medical Center, explains the training and certifications that are required. Con",
+  "history": {
+    "url": "https://www.sharecare.com/health/nursing/what-emergency-room-er-nurse",
+    "title": "What does an emergency room (ER) nurse do?",
+    "description": "Los Robles Hospital & Medical Center Administration Registered nurses in emergency departments are trained on multiple different areas and are experienced nurses. In this video, Lynn Tadlock, RN, of Los Robles Hospital & Medical Center, explains the training and certifications that are required. Con",
+    "frecency": 4924,
+    "url_hash": 65831796064083,
+    "last_visit_date": 1758203927400200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "American Horror Story: Asylum American Horror Story: Asylum FX Networks",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a television show (American Horror Story: Asylum) and has no relevance to improving performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "American Horror Story: Asylum American Horror Story: Asylum FX Networks",
+  "history": {
+    "url": "http://www.emmys.com/shows/american-horror-story-asylum",
+    "title": "American Horror Story: Asylum",
+    "description": "American Horror Story: Asylum FX Networks ",
+    "frecency": 1919,
+    "url_hash": 12302661092315,
+    "last_visit_date": 1758203927856735
+  }
+}

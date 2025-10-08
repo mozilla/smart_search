@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Saturday Night Live Down By The River Ad Choices Saturday Night Live Down By The River",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The result appears unrelated to sports improvement; it's about a Saturday Night Live sketch/ad, not guidance on getting better at sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Saturday Night Live Down By The River Ad Choices Saturday Night Live Down By The River",
+  "history": {
+    "url": "https://www.hulu.com/watch/4183",
+    "title": "Saturday Night Live Down By The River",
+    "description": "Ad Choices Saturday Night Live Down By The River ",
+    "frecency": 1106,
+    "url_hash": 17238810135950,
+    "last_visit_date": 1758203935975228
+  }
+}

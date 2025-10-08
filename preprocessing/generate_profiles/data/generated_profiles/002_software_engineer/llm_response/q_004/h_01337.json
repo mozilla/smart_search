@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "America's Oldest Veteran Drinks Whiskey And Smokes Cigars Every Day \"America's Oldest Veteran Drinks Whiskey And Smokes Cigars Every Day Paul Szoldra Nov. 8, 2013, 5:49 PM 25,815Wikimedia Commons With Veterans Day coming up on Monday, America's oldest living military veteran is enjoying the spotlight on his service once more, but even at the age of 107 he doesn't se",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about America's oldest veteran and is unrelated to Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "America's Oldest Veteran Drinks Whiskey And Smokes Cigars Every Day \"America's Oldest Veteran Drinks Whiskey And Smokes Cigars Every Day Paul Szoldra Nov. 8, 2013, 5:49 PM 25,815Wikimedia Commons With Veterans Day coming up on Monday, America's oldest living military veteran is enjoying the spotlight on his service once more, but even at the age of 107 he doesn't se",
+  "history": {
+    "url": "http://www.businessinsider.com/americas-oldest-veteran-drinks-whiskey-and-smokes-cigars-every-day-2013-11",
+    "title": "America's Oldest Veteran Drinks Whiskey And Smokes Cigars Every Day",
+    "description": "\"America's Oldest Veteran Drinks Whiskey And Smokes Cigars Every Day Paul Szoldra Nov. 8, 2013, 5:49 PM 25,815Wikimedia Commons With Veterans Day coming up on Monday, America's oldest living military veteran is enjoying the spotlight on his service once more, but even at the age of 107 he doesn't se",
+    "frecency": 2592,
+    "url_hash": 19520075857954,
+    "last_visit_date": 1758203928748111
+  }
+}

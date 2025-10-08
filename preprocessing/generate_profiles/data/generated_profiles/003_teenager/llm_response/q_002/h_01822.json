@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Our Company Our Company As the nation\u2019s largest, most successful provider of home healthcare products and services, Apria helps thousands of Americans live healthier and feel better \u2013 every day. Through our trained professionals and clinicians, Apria offers a comprehensive product portfolio with a leading marke",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The result describes a home healthcare provider and does not address DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Our Company Our Company As the nation\u2019s largest, most successful provider of home healthcare products and services, Apria helps thousands of Americans live healthier and feel better \u2013 every day. Through our trained professionals and clinicians, Apria offers a comprehensive product portfolio with a leading marke",
+  "history": {
+    "url": "http://lifeatapria.com/our-company/",
+    "title": "Our Company",
+    "description": "Our Company As the nation\u2019s largest, most successful provider of home healthcare products and services, Apria helps thousands of Americans live healthier and feel better \u2013 every day. Through our trained professionals and clinicians, Apria offers a comprehensive product portfolio with a leading marke",
+    "frecency": 3144,
+    "url_hash": 58406019123658,
+    "last_visit_date": 1758203928842735
+  }
+}

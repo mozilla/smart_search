@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Culture media Home Dictionary Forum About us Contact usonline dictionary Search Advertisement",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result shows generic site navigation terms and references to an online dictionary, not content about DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Culture media Home Dictionary Forum About us Contact usonline dictionary Search Advertisement",
+  "history": {
+    "url": "http://www.biology-online.org/dictionary/Culture_media",
+    "title": "Culture media",
+    "description": "Home Dictionary Forum About us Contact usonline dictionary Search Advertisement ",
+    "frecency": 1646,
+    "url_hash": 49629512326289,
+    "last_visit_date": 1758203935769228
+  }
+}

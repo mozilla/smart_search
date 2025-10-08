@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "ISSUE/BEHAVIOR: Chatter Desktop - After log in credentials are submitted, the user interface will return a white blank page Knowledge Article Number 000204538Description ISSUE/BEHAVIOR: When a user attempts to log into Chatter Desktop from a Windows or Mac operating system, after submitting their credentials, the O",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a Chatter Desktop login issue, unrelated to IDEs or software development environments.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "ISSUE/BEHAVIOR: Chatter Desktop - After log in credentials are submitted, the user interface will return a white blank page Knowledge Article Number 000204538Description ISSUE/BEHAVIOR: When a user attempts to log into Chatter Desktop from a Windows or Mac operating system, after submitting their credentials, the O",
+  "history": {
+    "url": "https://help.salesforce.com/HTViewHelpDoc?id=exporting_data.htm&language=en_US",
+    "title": "ISSUE/BEHAVIOR:",
+    "description": "Chatter Desktop - After log in credentials are submitted, the user interface will return a white blank page Knowledge Article Number 000204538Description ISSUE/BEHAVIOR: When a user attempts to log into Chatter Desktop from a Windows or Mac operating system, after submitting their credentials, the O",
+    "frecency": 2002,
+    "url_hash": 15763944340320,
+    "last_visit_date": 1758203928878200
+  }
+}

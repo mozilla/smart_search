@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "Star Wars: The Force Awakens \"From Wikipedia, the free encyclopedia (Redirected from The Force Awakens)navigation search\"\"Episode VII\"\" redirects here. For other episodes, see Episode 7. \"The Force Awakens\" redirects here. For the soundtrack, see The Force Awakens (soundtrack). Star Wars: The Force Awakens Theatrical release",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Star Wars: The Force Awakens, not related to TikTok trends; thus not relevant.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "Star Wars: The Force Awakens \"From Wikipedia, the free encyclopedia (Redirected from The Force Awakens)navigation search\"\"Episode VII\"\" redirects here. For other episodes, see Episode 7. \"\"The Force Awakens\"\" redirects here. For the soundtrack, see The Force Awakens (soundtrack). Star Wars: The Force Awakens Theatrical release",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/The_Force_Awakens",
+    "title": "Star Wars: The Force Awakens",
+    "description": "\"From Wikipedia, the free encyclopedia (Redirected from The Force Awakens)navigation search\"\"Episode VII\"\" redirects here. For other episodes, see Episode 7. \"\"The Force Awakens\"\" redirects here. For the soundtrack, see The Force Awakens (soundtrack). Star Wars: The Force Awakens Theatrical release ",
+    "frecency": 2746,
+    "url_hash": 14411163542032,
+    "last_visit_date": 1758203927310735
+  }
+}

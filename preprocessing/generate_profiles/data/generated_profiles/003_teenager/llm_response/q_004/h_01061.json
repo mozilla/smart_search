@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "How to Form a Michigan Nonprofit Corporation Most nonprofits are 501 (c) (3) organizations, which means they are formed for religious, charitable, scientific, literary, or educational purposes and are eligible for federal and state tax exemptions. To create a 501 (c) (3) tax-exempt organization, first you need to form a Michigan nonprofit corp",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses forming a nonprofit corporation, which is unrelated to improving performance or skills in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "How to Form a Michigan Nonprofit Corporation Most nonprofits are 501 (c) (3) organizations, which means they are formed for religious, charitable, scientific, literary, or educational purposes and are eligible for federal and state tax exemptions. To create a 501 (c) (3) tax-exempt organization, first you need to form a Michigan nonprofit corp",
+  "history": {
+    "url": "http://www.nolo.com/legal-encyclopedia/forming-nonprofit-corporation-michigan-36070.html",
+    "title": "How to Form a Michigan Nonprofit Corporation",
+    "description": "Most nonprofits are 501 (c) (3) organizations, which means they are formed for religious, charitable, scientific, literary, or educational purposes and are eligible for federal and state tax exemptions. To create a 501 (c) (3) tax-exempt organization, first you need to form a Michigan nonprofit corp",
+    "frecency": 3899,
+    "url_hash": 60547447090765,
+    "last_visit_date": 1758203930461228
+  }
+}

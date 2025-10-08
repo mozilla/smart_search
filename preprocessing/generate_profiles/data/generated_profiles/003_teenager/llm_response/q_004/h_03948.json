@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "John Updike \\\"From Wikipedia, the free encyclopedianavigation search John Updike Updike in 1989Born John Hoyer Updike March 18, 1932 Reading, Pennsylvania, United States Died January 27, 2009 (aged 76) Danvers, Massachusetts, United States Occupation novelist, short story writer, poet, literary critic, artist Ge",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about John Updike, a novelist, not related to sports or improving at sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "John Updike \"From Wikipedia, the free encyclopedianavigation search John Updike Updike in 1989Born John Hoyer Updike March 18, 1932 Reading, Pennsylvania, United States Died January 27, 2009 (aged 76) Danvers, Massachusetts, United States Occupation novelist, short story writer, poet, literary critic, artist Ge",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/John_Updike",
+    "title": "John Updike",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search John Updike Updike in 1989Born John Hoyer Updike March 18, 1932 Reading, Pennsylvania, United States Died January 27, 2009 (aged 76) Danvers, Massachusetts, United States Occupation novelist, short story writer, poet, literary critic, artist Ge",
+    "frecency": 903,
+    "url_hash": 37897296917870,
+    "last_visit_date": 1758203930265228
+  }
+}

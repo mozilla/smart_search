@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Samburus - a kin of the Maasais Home > test1 > test2Samburus - a kin of the Maasais The Samburu tribe are a Nilotic tribe that inhabits Kenya's northern plains. They are a Maa-speaking group, and are very similar to the Maasai tribe. Like the Maasai, the Samburu are nomadic pastoralists, moving from one place to another following",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about the Samburu/Maasai tribes, not about easy DIY room decoration ideas; it is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Samburus - a kin of the Maasais Home > test1 > test2Samburus - a kin of the Maasais The Samburu tribe are a Nilotic tribe that inhabits Kenya's northern plains. They are a Maa-speaking group, and are very similar to the Maasai tribe. Like the Maasai, the Samburu are nomadic pastoralists, moving from one place to another following",
+  "history": {
+    "url": "http://www.kenya-information-guide.com/samburu-tribe.html",
+    "title": "Samburus - a kin of the Maasais",
+    "description": "Home > test1 > test2Samburus - a kin of the Maasais The Samburu tribe are a Nilotic tribe that inhabits Kenya's northern plains. They are a Maa-speaking group, and are very similar to the Maasai tribe. Like the Maasai, the Samburu are nomadic pastoralists, moving from one place to another following ",
+    "frecency": 2386,
+    "url_hash": 38736835866521,
+    "last_visit_date": 1758203935213228
+  }
+}

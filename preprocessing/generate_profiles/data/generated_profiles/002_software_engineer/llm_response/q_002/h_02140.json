@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Cyber Security Glossary Advanced Persistent Threat / APT Definition: An advanced persistent threat is deployed by cyber-criminals who have a high level of expertise and important resources to infiltrate a network. They usually use this type of attack to target large organizations seeking to retrieve economic or financial information.",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page discusses cybersecurity terminology and threats, not IDEs or software development tools.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Cyber Security Glossary \"Advanced Persistent Threat / APTDefinition: An advanced persistent threat is deployed by cyber-criminals who have a high level of expertise and important resources to infiltrate a network. They usually use this type of attack to target large organizations seeking to retrieve economic or financial i",
+  "history": {
+    "url": "https://heimdalsecurity.com/glossary/whaling",
+    "title": "Cyber Security Glossary",
+    "description": "\"Advanced Persistent Threat / APTDefinition: An advanced persistent threat is deployed by cyber-criminals who have a high level of expertise and important resources to infiltrate a network. They usually use this type of attack to target large organizations seeking to retrieve economic or financial i",
+    "frecency": 1117,
+    "url_hash": 28763242359893,
+    "last_visit_date": 1758203928110111
+  }
+}

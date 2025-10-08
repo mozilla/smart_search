@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Can you plug the Kindle Paperwhite USB cable into an iPhone/iPad power adapter? \\\"John Santhosh, IOS Device User / Developer. Answered May 24, 2016Check behind your Kindle Paperwhite : Input : 5.25V \u2013 Max 500m AIt means that the kindle is compatible with any USB power adaptor having an output of 5.25V or less. Apple i Pad 10 Watt USB Power Adapter : Output : 5.1V - 2.1AApple i P",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses USB power adapters and Kindle devices, not API integration debugging.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Can you plug the Kindle Paperwhite USB cable into an iPhone/iPad power adapter? \"John Santhosh, IOS Device User / Developer. Answered May 24, 2016Check behind your Kindle Paperwhite : Input : 5.25V \u2013 Max 500m AIt means that the kindle is compatible with any USB power adaptor having an output of 5.25V or less. Apple i Pad 10 Watt USB Power Adapter : Output : 5.1V - 2.1AApple i P",
+  "history": {
+    "url": "https://www.quora.com/Can-you-plug-the-Kindle-Paperwhite-USB-cable-into-an-iPhone-iPad-power-adapter",
+    "title": "Can you plug the Kindle Paperwhite USB cable into an iPhone/iPad power adapter?",
+    "description": "\"John Santhosh, IOS Device User / Developer. Answered May 24, 2016Check behind your Kindle Paperwhite : Input : 5.25V \u2013 Max 500m AIt means that the kindle is compatible with any USB power adaptor having an output of 5.25V or less. Apple i Pad 10 Watt USB Power Adapter : Output : 5.1V - 2.1AApple i P",
+    "frecency": 2996,
+    "url_hash": 80841383868417,
+    "last_visit_date": 1758203927146200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Billy Ray Cyrus \\\"Billy Ray Cyrus Garth Brooks was far and away the biggest country music star of the 1990s, but Billy Ray Cyrus was the artist who best exemplified how Nashville's take on the music business had changed in that decade. Brooks was the first country act who was introduced to the world with the same de",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result content is about country music artists, not about apps, studying, or study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Billy Ray Cyrus \"Billy Ray Cyrus Garth Brooks was far and away the biggest country music star of the 1990s, but Billy Ray Cyrus was the artist who best exemplified how Nashville's take on the music business had changed in that decade. Brooks was the first country act who was introduced to the world with the same de",
+  "history": {
+    "url": "https://itunes.apple.com/us/artist/billy-ray-cyrus/id411913",
+    "title": "Billy Ray Cyrus",
+    "description": "\"Billy Ray Cyrus Garth Brooks was far and away the biggest country music star of the 1990s, but Billy Ray Cyrus was the artist who best exemplified how Nashville's take on the music business had changed in that decade. Brooks was the first country act who was introduced to the world with the same de",
+    "frecency": 638,
+    "url_hash": 5244151668051,
+    "last_visit_date": 1758203934269228
+  }
+}

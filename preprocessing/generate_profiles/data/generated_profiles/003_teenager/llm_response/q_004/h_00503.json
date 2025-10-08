@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "The Endless River \"From Wikipedia, the free encyclopedia (Redirected from Allons-y)navigation search This article is about the Pink Floyd album. For the film, see The Endless River (film). The Endless River Studio album by Pink Floyd Released 7 November 2014Recorded 1968, 1993, 2013\u20132014Studio Royal Albert Hall Olymp",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a Pink Floyd album, not about improving sports performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "The Endless River \"From Wikipedia, the free encyclopedia (Redirected from Allons-y)navigation search This article is about the Pink Floyd album. For the film, see The Endless River (film). The Endless River Studio album by Pink Floyd Released 7 November 2014Recorded 1968, 1993, 2013\u20132014Studio Royal Albert Hall Olymp",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Allons-y",
+    "title": "The Endless River",
+    "description": "\"From Wikipedia, the free encyclopedia (Redirected from Allons-y)navigation search This article is about the Pink Floyd album. For the film, see The Endless River (film). The Endless River Studio album by Pink Floyd Released 7 November 2014Recorded 1968, 1993, 2013\u20132014Studio Royal Albert Hall Olymp",
+    "frecency": 4468,
+    "url_hash": 20153682601047,
+    "last_visit_date": 1758203933403228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "University of Phoenix From Wikipedia, the free encyclopedia navigation search Not to be confused with Phoenix College. University of Phoenix Motto We Rise Type For-profit college Established 1976 President Peter Cohen. [1] Academic staff 16,000 Administrative staff 69 Students 142,500 [2] Location Phoenix (headquarters), Ariz",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page concerns a university and contains no content about IDEs or software development, so it is not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "University of Phoenix \"From Wikipedia, the free encyclopedianavigation search Not to be confused with Phoenix College. University of Phoenix Motto We Rise Type For-profit college Established 1976President Peter Cohen. [1]Academic staff 16,000Administrative staff 69Students 142,500 [2]Location Phoenix (headquarters), Ariz",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/University_of_Phoenix",
+    "title": "University of Phoenix",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search Not to be confused with Phoenix College. University of Phoenix Motto We Rise Type For-profit college Established 1976President Peter Cohen. [1]Academic staff 16,000Administrative staff 69Students 142,500 [2]Location Phoenix (headquarters), Ariz",
+    "frecency": 4944,
+    "url_hash": 95528653803616,
+    "last_visit_date": 1758203927486200
+  }
+}

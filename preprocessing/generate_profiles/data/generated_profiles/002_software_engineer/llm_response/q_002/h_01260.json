@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Exclusive Deals. Vacation Experts. Personalized Service. Exclusive Deals. Vacation Experts. Personalized Service. Follow Us To A Better Vacation \u2122Search Cruises Search Tours Caribbean Cruises from $369 Europe Cruises from $609 Alaska Cruises from $609Last Minute Cruises",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses vacations and cruises with no mention of IDEs or software development topics; thus it is not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Exclusive Deals. Vacation Experts. Personalized Service. Exclusive Deals. Vacation Experts. Personalized Service. Follow Us To A Better Vacation \u2122Search Cruises Search Tours Caribbean Cruises from $369 Europe Cruises from $609 Alaska Cruises from $609Last Minute Cruises",
+  "history": {
+    "url": "http://www.avoyatravel.com/",
+    "title": "Exclusive Deals. Vacation Experts. Personalized Service.",
+    "description": "Exclusive Deals. Vacation Experts. Personalized Service. Follow Us To A Better Vacation \u2122Search Cruises Search Tours Caribbean Cruises from $369 Europe Cruises from $609 Alaska Cruises from $609Last Minute Cruises ",
+    "frecency": 2736,
+    "url_hash": 49652765614523,
+    "last_visit_date": 1758203930564111
+  }
+}

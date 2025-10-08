@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "User Authentication on the Solaris OS Part 3: PAM Conversation Functions \\\"User Authentication on the Solaris OS Part 3: PAM Conversation Functions By Rich Teer, September 2007Learn to use the conversation functions of the PAM (Pluggable Authentication Modules) API and examine a sample program. Contents Introduction Conversation Functions An Example Conversation Function\\\"",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about PAM authentication on Solaris, not about optimizing database queries.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "User Authentication on the Solaris OS Part 3: PAM Conversation Functions \"User Authentication on the Solaris OS Part 3: PAM Conversation Functions By Rich Teer, September 2007Learn to use the conversation functions of the PAM (Pluggable Authentication Modules) API and examine a sample program. Contents Introduction Conversation Functions An Example Conversation Function",
+  "history": {
+    "url": "http://www.oracle.com/technetwork/server-storage/solaris10/user-auth-solaris3-137042.html",
+    "title": "User Authentication on the Solaris OS Part 3: PAM Conversation Functions",
+    "description": "\"User Authentication on the Solaris OS Part 3: PAM Conversation Functions By Rich Teer, September 2007Learn to use the conversation functions of the PAM (Pluggable Authentication Modules) API and examine a sample program. Contents Introduction Conversation Functions An Example Conversation Function ",
+    "frecency": 3282,
+    "url_hash": 34279886622242,
+    "last_visit_date": 1758203927808111
+  }
+}

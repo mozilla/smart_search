@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Solid Diffusion \\\"Net Logo Models Library: Sample Models/Chemistry & Physics (back to the library)Solid Diffusion If you download the Net Logo application, this model is included. (You can also run this model in your browser, but we don't recommend it; details here . )WHAT IS IT? This model describes how diffusion o",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses NetLogo diffusion models, not Docker or beginner Docker setup; content is unrelated to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Solid Diffusion \"Net Logo Models Library: Sample Models/Chemistry & Physics (back to the library)Solid Diffusion If you download the Net Logo application, this model is included. (You can also run this model in your browser, but we don't recommend it; details here . )WHAT IS IT? This model describes how diffusion o",
+  "history": {
+    "url": "http://ccl.northwestern.edu/netlogo/models/SolidDiffusion",
+    "title": "Solid Diffusion",
+    "description": "\"Net Logo Models Library: Sample Models/Chemistry & Physics (back to the library)Solid Diffusion If you download the Net Logo application, this model is included. (You can also run this model in your browser, but we don't recommend it; details here . )WHAT IS IT? This model describes how diffusion o",
+    "frecency": 2161,
+    "url_hash": 50023206530711,
+    "last_visit_date": 1758203932272111
+  }
+}

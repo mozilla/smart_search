@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "\u00e2Why Do I Get So Tight??\u00e2 \u201cWhy Do I Get So Tight? ?\u201dNovember 30, 2012 By Kirstin Schumaker I ran into a physical therapist at the gym about six months ago, and after we exchanged some \u201chey, how ya doing\u201d chit-chat, she revealed her frustration of the moment: \u201cWhy do I get so tight and stiff? ?\u201dI don\u2019t think she really expect",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses body tightness and physical therapy, not API integration debugging; unrelated topic.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "\u00e2Why Do I Get So Tight??\u00e2 \u201cWhy Do I Get So Tight? ?\u201dNovember 30, 2012 By Kirstin Schumaker I ran into a physical therapist at the gym about six months ago, and after we exchanged some \u201chey, how ya doing\u201d chit-chat, she revealed her frustration of the moment: \u201cWhy do I get so tight and stiff? ?\u201dI don\u2019t think she really expect",
+  "history": {
+    "url": "http://agilebodysi.com/2012/11/30/why-do-i-get-so-tight/",
+    "title": "\u00e2Why Do I Get So Tight??\u00e2",
+    "description": "\u201cWhy Do I Get So Tight? ?\u201dNovember 30, 2012 By Kirstin Schumaker I ran into a physical therapist at the gym about six months ago, and after we exchanged some \u201chey, how ya doing\u201d chit-chat, she revealed her frustration of the moment: \u201cWhy do I get so tight and stiff? ?\u201dI don\u2019t think she really expect",
+    "frecency": 4281,
+    "url_hash": 81858081688768,
+    "last_visit_date": 1758203932202111
+  }
+}

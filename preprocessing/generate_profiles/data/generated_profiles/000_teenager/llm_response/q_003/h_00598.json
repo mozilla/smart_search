@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Welcome to American Care & Equipment Welcome to American Care & Equipment Offering Home Medical Equipment Services Since 1978, American Care & Equipment has been serving customers in the greater Kansas City area by providing professional service and high-quality home medical equipment. Our goal is to make life easier for our customers",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page is about a home medical equipment company and is not related to study apps or study habit improvement.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Welcome to American Care & Equipment Welcome to American Care & Equipment Offering Home Medical Equipment Services Since 1978, American Care & Equipment has been serving customers in the greater Kansas City area by providing professional service and high-quality home medical equipment. Our goal is to make life easier for our customers",
+  "history": {
+    "url": "http://www.americancarekc.com/",
+    "title": "Welcome to American Care & Equipment",
+    "description": "Welcome to American Care & Equipment Offering Home Medical Equipment Services Since 1978, American Care & Equipment has been serving customers in the greater Kansas City area by providing professional service and high-quality home medical equipment. Our goal is to make life easier for our customers ",
+    "frecency": 2363,
+    "url_hash": 82454713809516,
+    "last_visit_date": 1758203927931139
+  }
+}

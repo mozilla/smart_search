@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "About DSAC About DSACThe Domestic Security Alliance Council (DSAC) is a strategic partnership between the U. S. government and the U. S. private industry that enhances communication and promotes the timely and effective exchange of security and intelligence information between the federal government and the pr",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses the Domestic Security Alliance Council (DSAC), a government-private security partnership, and contains no information about integrated development environments (IDEs) or software development tools. It is not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "About DSAC About DSACThe Domestic Security Alliance Council (DSAC) is a strategic partnership between the U. S. government and the U. S. private industry that enhances communication and promotes the timely and effective exchange of security and intelligence information between the federal government and the pr",
+  "history": {
+    "url": "https://www.dsac.gov/about",
+    "title": "About DSAC",
+    "description": "About DSACThe Domestic Security Alliance Council (DSAC) is a strategic partnership between the U. S. government and the U. S. private industry that enhances communication and promotes the timely and effective exchange of security and intelligence information between the federal government and the pr",
+    "frecency": 925,
+    "url_hash": 83956957280964,
+    "last_visit_date": 1758203932042111
+  }
+}

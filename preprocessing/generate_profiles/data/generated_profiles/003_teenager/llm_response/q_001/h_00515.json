@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "Estimated Cost of Attendance, 2014-2015 \"This page contains estimates of the Cost of Attendance for one year at the University of Virginia, including Tuition and Fees, Room, Board, Personal Expenses and Travel. Each year Student Financial Services establishes standard estimates to help families determine their financial needs for the year",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about university cost of attendance and budgeting, not about TikTok trends or anything related to 2024 TikTok trends.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "Estimated Cost of Attendance, 2014-2015 \"This page contains estimates of the Cost of Attendance for one year at the University of Virginia, including Tuition and Fees, Room, Board, Personal Expenses and Travel. Each year Student Financial Services establishes standard estimates to help families determine their financial needs for the year",
+  "history": {
+    "url": "http://sfs.virginia.edu/cost/14-15",
+    "title": "Estimated Cost of Attendance, 2014-2015",
+    "description": "\"This page contains estimates of the Cost of Attendance for one year at the University of Virginia, including Tuition and Fees, Room, Board, Personal Expenses and Travel. Each year Student Financial Services establishes standard estimates to help families determine their financial needs for the year",
+    "frecency": 4458,
+    "url_hash": 25557935558216,
+    "last_visit_date": 1758203931163228
+  }
+}

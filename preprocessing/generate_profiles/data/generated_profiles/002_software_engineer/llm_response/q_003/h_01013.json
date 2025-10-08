@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Jane Powell (I) \\\"Top 5000Jane Powell (I)Actress | Soundtrack Jane Powell was singing and dancing at an early age. She sang on the radio and performed in theaters before her screen debut in 1944. Through the 1940s and 1950s, she had a successful career in movie musicals. However, in 1957, her career in films ended,",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about an actress, not related to database queries or their optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Jane Powell (I) \"Top 5000Jane Powell (I)Actress | Soundtrack Jane Powell was singing and dancing at an early age. She sang on the radio and performed in theaters before her screen debut in 1944. Through the 1940s and 1950s, she had a successful career in movie musicals. However, in 1957, her career in films ended,",
+  "history": {
+    "url": "http://www.imdb.com/name/nm0007225/",
+    "title": "Jane Powell (I)",
+    "description": "\"Top 5000Jane Powell (I)Actress | Soundtrack Jane Powell was singing and dancing at an early age. She sang on the radio and performed in theaters before her screen debut in 1944. Through the 1940s and 1950s, she had a successful career in movie musicals. However, in 1957, her career in films ended, ",
+    "frecency": 3199,
+    "url_hash": 84886758794859,
+    "last_visit_date": 1758203929104111
+  }
+}

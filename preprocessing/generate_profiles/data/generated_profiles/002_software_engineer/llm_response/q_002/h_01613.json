@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Military Deaths Under Clinton and Bush \"Q: Did more soldiers die during Bill Clinton\u2019s term than have died fighting in Iraq and Afghanistan? A: Actually, even counting non-combat fatalities, more military personnel died during the first six years of George Bush\u2019s tenure than during the entire eight years that Bill Clinton was in office.\"",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses military fatalities and U.S. presidents, not software development IDEs. Therefore it is not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Military Deaths Under Clinton and Bush \"Q: Did more soldiers die during Bill Clinton\u2019s term than have died fighting in Iraq and Afghanistan? A: Actually, even counting non-combat fatalities, more military personnel died during the first six years of George Bush\u2019s tenure than during the entire eight years that Bill Clinton was in office.",
+  "history": {
+    "url": "http://www.factcheck.org/2008/01/military-deaths-under-clinton-and-bush/",
+    "title": "Military Deaths Under Clinton and Bush",
+    "description": "\"Q: Did more soldiers die during Bill Clinton\u2019s term than have died fighting in Iraq and Afghanistan? A: Actually, even counting non-combat fatalities, more military personnel died during the first six years of George Bush\u2019s tenure than during the entire eight years that Bill Clinton was in office. ",
+    "frecency": 2082,
+    "url_hash": 98431566559160,
+    "last_visit_date": 1758203931944111
+  }
+}

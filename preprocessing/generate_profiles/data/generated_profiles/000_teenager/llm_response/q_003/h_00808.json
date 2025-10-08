@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Sources of Lead Sources of Lead Lead can be found in many products and locations. Some you might never have thought of, including some imported candies, toys, and traditional medicines. The most common cause of lead poisoning is dust and chips from old paint. However, some non-paint sources, though less common, can",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses lead poisoning sources, unrelated to study habit apps; no alignment with the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Sources of Lead Sources of Lead Lead can be found in many products and locations. Some you might never have thought of, including some imported candies, toys, and traditional medicines. The most common cause of lead poisoning is dust and chips from old paint. However, some non-paint sources, though less common, can",
+  "history": {
+    "url": "https://www.health.ny.gov/environmental/lead/sources.htm",
+    "title": "Sources of Lead",
+    "description": "Sources of Lead Lead can be found in many products and locations. Some you might never have thought of, including some imported candies, toys, and traditional medicines. The most common cause of lead poisoning is dust and chips from old paint. However, some non-paint sources, though less common, can",
+    "frecency": 1452,
+    "url_hash": 26766570905702,
+    "last_visit_date": 1758203927701139
+  }
+}

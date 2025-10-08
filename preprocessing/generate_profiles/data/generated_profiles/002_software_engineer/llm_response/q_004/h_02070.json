@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Seabrook, TX USA.com / Texas / Harris County / Seabrook, TXSeabrook, TXBasic Info Population/Races Income/Careers Housing Education Crime/Crime Rate Others Seabrook is located in southeast Texas. Seabrook is part of Harris County. Seabrook has 5.32 square miles of land area and 15.95 square miles of water area.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result contains geographic/demographic content about Seabrook, TX with no Docker-related information, thus not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Seabrook, TX USA.com / Texas / Harris County / Seabrook, TXSeabrook, TXBasic Info Population/Races Income/Careers Housing Education Crime/Crime Rate Others Seabrook is located in southeast Texas. Seabrook is part of Harris County. Seabrook has 5.32 square miles of land area and 15.95 square miles of water area.",
+  "history": {
+    "url": "http://www.usa.com/seabrook-tx.htm",
+    "title": "Seabrook, TX",
+    "description": "USA.com / Texas / Harris County / Seabrook, TXSeabrook, TXBasic Info Population/Races Income/Careers Housing Education Crime/Crime Rate Others Seabrook is located in southeast Texas. Seabrook is part of Harris County. Seabrook has 5.32 square miles of land area and 15.95 square miles of water area. ",
+    "frecency": 1245,
+    "url_hash": 52716871006725,
+    "last_visit_date": 1758203928258111
+  }
+}

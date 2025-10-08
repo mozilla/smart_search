@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "The Climate And Weather Of Spain The Climate And Weather Of Spain If you ask any expat what their main motivation was in choosing Spain as their new home, the wonderful climate would be right at the top of their list. The weather influences so much here, and has helped define many of the everyday routines that are part and parcel o",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page is about climate and weather in Spain, unrelated to debugging API integration; no content about debugging, APIs, or software integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "The Climate And Weather Of Spain The Climate And Weather Of Spain If you ask any expat what their main motivation was in choosing Spain as their new home, the wonderful climate would be right at the top of their list. The weather influences so much here, and has helped define many of the everyday routines that are part and parcel o",
+  "history": {
+    "url": "http://www.recruitspain.com/ClimateAndWeatherspain.asp",
+    "title": "The Climate And Weather Of Spain",
+    "description": "The Climate And Weather Of Spain If you ask any expat what their main motivation was in choosing Spain as their new home, the wonderful climate would be right at the top of their list. The weather influences so much here, and has helped define many of the everyday routines that are part and parcel o",
+    "frecency": 566,
+    "url_hash": 16382139318325,
+    "last_visit_date": 1758203927504200
+  }
+}

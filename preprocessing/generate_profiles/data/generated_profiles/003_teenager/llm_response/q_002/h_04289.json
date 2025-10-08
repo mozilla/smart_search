@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Don Ameche (1908\u00e21993) \"SEE RANKDon Ameche (1908\u20131993)Actor | Soundtrack | Director Don Ameche was a versatile and popular American film actor in the 1930s and '40s",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Don Ameche, an actor, and has no relation to DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Don Ameche (1908\u00e21993) \"SEE RANKDon Ameche (1908\u20131993)Actor | Soundtrack | Director Don Ameche was a versatile and popular American film actor in the 1930s and '40s, usually as the dapper, mustached leading man. He was also popular as a radio master of ceremonies during this time. As his film popularity waned in the 1950s",
+  "history": {
+    "url": "http://www.imdb.com/name/nm0000747/",
+    "title": "Don Ameche (1908\u00e21993)",
+    "description": "\"SEE RANKDon Ameche (1908\u20131993)Actor | Soundtrack | Director Don Ameche was a versatile and popular American film actor in the 1930s and '40s, usually as the dapper, mustached leading man. He was also popular as a radio master of ceremonies during this time. As his film popularity waned in the 1950s",
+    "frecency": 551,
+    "url_hash": 87721532055825,
+    "last_visit_date": 1758203928554735
+  }
+}

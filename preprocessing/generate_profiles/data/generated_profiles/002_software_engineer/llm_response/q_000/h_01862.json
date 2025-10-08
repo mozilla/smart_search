@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "What is MSRP? \"MSRP, or Manufacturer Suggested Retail Price, is the selling price that a manufacturer recommends for its products. It is also sometimes referred to as the list price, and is most commonly associated in the car industry. Manufacturer prices are used for marketing by retail businesses and for compar",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses MSRP (pricing) and has no relevance to debugging or integrating APIs.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "What is MSRP? \"MSRP, or Manufacturer Suggested Retail Price, is the selling price that a manufacturer recommends for its products. It is also sometimes referred to as the list price, and is most commonly associated in the car industry. Manufacturer prices are used for marketing by retail businesses and for compar",
+  "history": {
+    "url": "http://www.wisegeek.org/what-is-msrp.htm",
+    "title": "What is MSRP?",
+    "description": "\"MSRP, or Manufacturer Suggested Retail Price, is the selling price that a manufacturer recommends for its products. It is also sometimes referred to as the list price, and is most commonly associated in the car industry. Manufacturer prices are used for marketing by retail businesses and for compar",
+    "frecency": 1598,
+    "url_hash": 4840556093812,
+    "last_visit_date": 1758203931988111
+  }
+}

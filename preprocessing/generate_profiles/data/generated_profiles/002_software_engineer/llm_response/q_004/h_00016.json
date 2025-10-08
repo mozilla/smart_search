@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Restaurant.com Restaurant.com The nation's largest dining deals site with thousands of restaurants, merchants and online providers nationwide",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a dining deals site (Restaurant.com) and is not related to Docker or software setup.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Restaurant.com Restaurant.com The nation's largest dining deals site with thousands of restaurants, merchants and online providers nationwide",
+  "history": {
+    "url": "http://incentives.restaurant.com/how-it-works",
+    "title": "Restaurant.com",
+    "description": "Restaurant.com The nation's largest dining deals site with thousands of restaurants, merchants and online providers nationwide ",
+    "frecency": 4966,
+    "url_hash": 10601804183919,
+    "last_visit_date": 1758203929240111
+  }
+}

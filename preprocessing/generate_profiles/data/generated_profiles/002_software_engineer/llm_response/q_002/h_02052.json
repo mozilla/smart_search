@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Loratadine 3.41 46 ratings Loratadine Joe Graedon April 1, 2000 Default 35 Comments Overview Claritin is the third of a new generation of allergy medicines called histamine H1 receptor antagonists. These nonsedating antihistamines are changing the way doctors control allergy symptoms. Until these drugs became",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns allergy medication (Loratadine/Claritin) and medical information, not IDEs or software development.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Loratadine 3.41 46 ratings Loratadine Joe Graedon April 1, 2000 Default 35 Comments Overview Claritin is the third of a new generation of allergy medicines called histamine H1 receptor antagonists. These nonsedating antihistamines are changing the way doctors control allergy symptoms. Until these drugs became",
+  "history": {
+    "url": "http://www.peoplespharmacy.com/2000/04/01/loratadine/",
+    "title": "Loratadine",
+    "description": "3.41 46 ratings Loratadine Joe Graedon April 1, 2000 Default 35 Comments Overview Claritin is the third of a new generation of allergy medicines called histamine H1 receptor antagonists. These nonsedating antihistamines are changing the way doctors control allergy symptoms. Until these drugs became ",
+    "frecency": 1266,
+    "url_hash": 7880709825901,
+    "last_visit_date": 1758203931070111
+  }
+}

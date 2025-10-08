@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Bridgeport Visitors Love: scenery, nature, mountains Bridgeport Enter your dates and choose from 9 properties!Check-in Date+/ / Check-in Date Check-out Date+/ / Check-out Date Are you traveling for work? Yes No Rooms Adults Children Show me prices More than 1 million people last month said they'd recommend Boo",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a hotel booking/visitor information page with no reference to Docker or setup guidance; not relevant to 'Docker setup for beginners'.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Bridgeport Visitors Love: scenery, nature, mountains Bridgeport Enter your dates and choose from 9 properties!Check-in Date+/ / Check-in Date Check-out Date+/ / Check-out Date Are you traveling for work? Yes No Rooms Adults Children Show me prices More than 1 million people last month said they'd recommend Boo",
+  "history": {
+    "url": "https://www.booking.com/city/us/bridgeport-california.html",
+    "title": "Bridgeport",
+    "description": "Visitors Love: scenery, nature, mountains Bridgeport Enter your dates and choose from 9 properties!Check-in Date+/ / Check-in Date Check-out Date+/ / Check-out Date Are you traveling for work? Yes No Rooms Adults Children Show me prices More than 1 million people last month said they'd recommend Boo",
+    "frecency": 1034,
+    "url_hash": 8232895892886,
+    "last_visit_date": 1758203930462111
+  }
+}

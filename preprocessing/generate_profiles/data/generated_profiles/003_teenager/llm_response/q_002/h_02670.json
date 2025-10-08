@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "School, Welcome, Back to School \"School, Welcome, Back to School A Circle of Friends We've joined together as classmates as the new year begins... A year full of learning while we become friends. We'll share and be kind as we work and play. And our friendship will grow with each passing day. The First Day of School I wonder if my",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about school-related content (welcome messages and the first day of school) and does not relate to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "School, Welcome, Back to School \"School, Welcome, Back to School A Circle of Friends We've joined together as classmates as the new year begins... A year full of learning while we become friends. We'll share and be kind as we work and play. And our friendship will grow with each passing day. The First Day of School I wonder if my",
+  "history": {
+    "url": "http://www.canteach.ca/elementary/songspoems5.html",
+    "title": "School, Welcome, Back to School",
+    "description": "\"School, Welcome, Back to School A Circle of Friends We've joined together as classmates as the new year begins... A year full of learning while we become friends. We'll share and be kind as we work and play. And our friendship will grow with each passing day. The First Day of School I wonder if my ",
+    "frecency": 2231,
+    "url_hash": 84752682947188,
+    "last_visit_date": 1758203932259228
+  }
+}

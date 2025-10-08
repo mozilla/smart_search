@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "The College Student's Guide to Citation Styles \"Many writing assignments and projects will need to be completed during a student's college career. Plagiarism involves both intentional and unintentional copying of someone else's ideas and written work. Because plagiarism is a serious offense that could have serious academic repercussions, it's im",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses citation styles and plagiarism, not API debugging or integration; it is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "The College Student's Guide to Citation Styles \"Many writing assignments and projects will need to be completed during a student's college career. Plagiarism involves both intentional and unintentional copying of someone else's ideas and written work. Because plagiarism is a serious offense that could have serious academic repercussions, it's im",
+  "history": {
+    "url": "http://www.wgu.edu/info/college-students-guide-citation-styles",
+    "title": "The College Student's Guide to Citation Styles",
+    "description": "\"Many writing assignments and projects will need to be completed during a student's college career. Plagiarism involves both intentional and unintentional copying of someone else's ideas and written work. Because plagiarism is a serious offense that could have serious academic repercussions, it's im",
+    "frecency": 1039,
+    "url_hash": 3090791457125,
+    "last_visit_date": 1758203930848111
+  }
+}

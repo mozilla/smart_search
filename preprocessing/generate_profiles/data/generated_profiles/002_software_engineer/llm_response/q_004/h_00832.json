@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Specialised Recruitment for International Trade and Logistics / Procurement and Supply Chain",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page appears to be a recruitment/HR site focused on international trade and logistics, not on Docker or container setup guidance.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Specialised Recruitment for International Trade and Logistics / Procurement and Supply Chain",
+  "history": {
+    "url": "http://www.paceappointments.com.au/",
+    "title": "Specialised Recruitment for International Trade and Logistics / Procurement and Supply Chain",
+    "description": "",
+    "frecency": 3493,
+    "url_hash": 96889714713983,
+    "last_visit_date": 1758203928032111
+  }
+}

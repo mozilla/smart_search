@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Aflac Salaries in Watertown, SD Aflac Salaries in Watertown, SD1 salary (for 1 job title ) Back to all Salaries How much do Aflac employees make in Watertown, SD? Glassdoor has salaries, wages, tips, bonuses, and hourly pay submitted anonymously by 1 Aflac employees in Watertown, SD.\u2013 Watertown, SD Area US - All Cities\u2013 Columbus,",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Aflac salaries and not about Docker setup for beginners; it is unrelated to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Aflac Salaries in Watertown, SD Aflac Salaries in Watertown, SD1 salary (for 1 job title ) Back to all Salaries How much do Aflac employees make in Watertown, SD? Glassdoor has salaries, wages, tips, bonuses, and hourly pay submitted anonymously by 1 Aflac employees in Watertown, SD.\u2013 Watertown, SD Area US - All Cities\u2013 Columbus,",
+  "history": {
+    "url": "https://www.glassdoor.com/Salary/Aflac-Watertown-Salaries-EI_IE1302.0,5_IL.6,15_IM913_IP8.htm",
+    "title": "Aflac Salaries in Watertown, SD",
+    "description": "Aflac Salaries in Watertown, SD1 salary (for 1 job title ) Back to all Salaries How much do Aflac employees make in Watertown, SD? Glassdoor has salaries, wages, tips, bonuses, and hourly pay submitted anonymously by 1 Aflac employees in Watertown, SD.\u2013 Watertown, SD Area US - All Cities\u2013 Columbus, ",
+    "frecency": 3096,
+    "url_hash": 44220582530402,
+    "last_visit_date": 1758203927746111
+  }
+}

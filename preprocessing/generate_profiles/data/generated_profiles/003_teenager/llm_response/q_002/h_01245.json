@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "How liberal is Portland? \\\"How liberal is Portland? Jim Redden Tuesday, March 04, 2014View Comments This ain't 'Portlandia' but it sure feels like it, according to a survey highlighting the Rose City's very lefty political leanings Everyone knows Portland is more liberal than the rest of the region and the state. People joke",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Portland's political leanings, not easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "How liberal is Portland? \"How liberal is Portland? Jim Redden Tuesday, March 04, 2014View Comments This ain't 'Portlandia' but it sure feels like it, according to a survey highlighting the Rose City's very lefty political leanings Everyone knows Portland is more liberal than the rest of the region and the state. People joke",
+  "history": {
+    "url": "http://portlandtribune.com/pt/9-news/212726-70134-how-liberal-is-portland",
+    "title": "How liberal is Portland?",
+    "description": "\"How liberal is Portland? Jim Redden Tuesday, March 04, 2014View Comments This ain't 'Portlandia' but it sure feels like it, according to a survey highlighting the Rose City's very lefty political leanings Everyone knows Portland is more liberal than the rest of the region and the state. People joke",
+    "frecency": 3725,
+    "url_hash": 8893070954573,
+    "last_visit_date": 1758203931579228
+  }
+}

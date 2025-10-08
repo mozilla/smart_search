@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Major\u00c2\u00ae Pharmaceuticals Major\u00ae Pharmaceuticals For more than 30 years, Major\u00ae has been offering a broad and expanding portfolio of Rx unit dose, bulk and OTC options focused on supporting patient care efforts and providing economic value. Our product portfolio is positioned to simplify the ordering process, reduce reliance",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is from a pharmaceutical company and discusses patient care products, not IDEs or software development.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Major\u00c2\u00ae Pharmaceuticals Major\u00ae Pharmaceuticals For more than 30 years, Major\u00ae has been offering a broad and expanding portfolio of Rx unit dose, bulk and OTC options focused on supporting patient care efforts and providing economic value. Our product portfolio is positioned to simplify the ordering process, reduce reliance",
+  "history": {
+    "url": "https://www.majorpharmaceuticals.com/",
+    "title": "Major\u00c2\u00ae Pharmaceuticals",
+    "description": "Major\u00ae Pharmaceuticals For more than 30 years, Major\u00ae has been offering a broad and expanding portfolio of Rx unit dose, bulk and OTC options focused on supporting patient care efforts and providing economic value. Our product portfolio is positioned to simplify the ordering process, reduce reliance",
+    "frecency": 1574,
+    "url_hash": 1232973890123,
+    "last_visit_date": 1758203931452111
+  }
+}

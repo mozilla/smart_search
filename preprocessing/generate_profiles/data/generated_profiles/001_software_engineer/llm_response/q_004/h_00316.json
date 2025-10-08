@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Nginx vs Apache May 14th, 2014 - by Walker Rowe What is the Nginx web and proxy server and how does it compare to Apache? Should you use one of these servers or both? Here we explore some answers to these questions. The Apache web servers have been in use since 1995. Apache powers more websites than any other produ",
+  "relevance_score": 0.15,
+  "binary_decision": 0,
+  "Decision_Reason": "The page discusses Nginx vs Apache and generic server comparisons, not Docker or Docker setup guidance for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Nginx vs Apache May 14th, 2014 - by Walker Rowe What is the Nginx web and proxy server and how does it compare to Apache? Should you use one of these servers or both? Here we explore some answers to these questions. The Apache web servers have been in use since 1995. Apache powers more websites than any other produ",
+  "history": {
+    "url": "https://anturis.com/blog/nginx-vs-apache/",
+    "title": "Nginx vs Apache",
+    "description": "May 14th, 2014 - by Walker Rowe What is the Nginx web and proxy server and how does it compare to Apache? Should you use one of these servers or both? Here we explore some answers to these questions. The Apache web servers have been in use since 1995. Apache powers more websites than any other produ",
+    "frecency": 3893,
+    "url_hash": 56288509323767,
+    "last_visit_date": 1758203929360200
+  }
+}

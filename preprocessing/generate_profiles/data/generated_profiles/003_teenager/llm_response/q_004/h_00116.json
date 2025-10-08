@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "List of AO-rated video games \"From Wikipedia, the free encyclopedianavigation search The ESRB's \\\"Adults Only\\\" ratings symbol The following is a list of video games that have been given the \\\"Adults Only\\\" (AO) rating by the Entertainment Software Rating Board (ESRB), a United States -based organization which rates the content",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses AO-rated video games and ESRB ratings, which has no relation to improving performance in sports; thus not relevant to the query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "List of AO-rated video games \"From Wikipedia, the free encyclopedianavigation search The ESRB's \"\"Adults Only\"\" ratings symbol The following is a list of video games that have been given the \"\"Adults Only\"\" (AO) rating by the Entertainment Software Rating Board (ESRB), a United States -based organization which rates the content",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/List_of_AO-rated_video_games",
+    "title": "List of AO-rated video games",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search The ESRB's \"\"Adults Only\"\" ratings symbol The following is a list of video games that have been given the \"\"Adults Only\"\" (AO) rating by the Entertainment Software Rating Board (ESRB), a United States -based organization which rates the content",
+    "frecency": 4883,
+    "url_hash": 76124074749702,
+    "last_visit_date": 1758203931661228
+  }
+}

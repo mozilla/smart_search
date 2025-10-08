@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Manila \"From Wikipedia, the free encyclopedia (Redirected from Manila, Philippines)navigation search\"\"Maynila\" and \"\"Maynilad\"\" redirect here. For the Philippine TV series produced by the GMA Network, see Maynila (TV series). For related water companies, see Maynilad Water Services and Manila Water. This",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Manila, Philippines, water companies, and a TV series; it is unrelated to starting a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Manila \"From Wikipedia, the free encyclopedia (Redirected from Manila, Philippines)navigation search\"\"Maynila\"\" and \"\"Maynilad\"\" redirect here. For the Philippine TV series produced by the GMA Network, see Maynila (TV series). For related water companies, see Maynilad Water Services and Manila Water. This",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Manila,_Philippines",
+    "title": "Manila",
+    "description": "\"From Wikipedia, the free encyclopedia (Redirected from Manila, Philippines)navigation search\"\"Maynila\"\" and \"\"Maynilad\"\" redirect here. For the Philippine TV series produced by the GMA Network, see Maynila (TV series). For related water companies, see Maynilad Water Services and Manila Water. This ",
+    "frecency": 611,
+    "url_hash": 15790076021197,
+    "last_visit_date": 1758203929767228
+  }
+}

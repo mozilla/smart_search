@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Grape seed extract and the prevention of chronic degenerative disease. \"Grape seed extract and the prevention of chronic degenerative disease. Suprising but grape seed extract may be better for you than the grapes from which it comes. For countless centuries, people from many different cultures have enjoyed a fine glass of wine, but only recently have scientists discov",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses grape seed extract and health, not DIY room decoration ideas; it is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Grape seed extract and the prevention of chronic degenerative disease. \"Grape seed extract and the prevention of chronic degenerative disease. Suprising but grape seed extract may be better for you than the grapes from which it comes. For countless centuries, people from many different cultures have enjoyed a fine glass of wine, but only recently have scientists discov",
+  "history": {
+    "url": "http://www.preventive-health-guide.com/grape-seed-extract.html",
+    "title": "Grape seed extract and the prevention of chronic degenerative disease.",
+    "description": "\"Grape seed extract and the prevention of chronic degenerative disease. Suprising but grape seed extract may be better for you than the grapes from which it comes. For countless centuries, people from many different cultures have enjoyed a fine glass of wine, but only recently have scientists discov",
+    "frecency": 2275,
+    "url_hash": 94429351180397,
+    "last_visit_date": 1758203934753228
+  }
+}

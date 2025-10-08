@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "This video contains content from TeccaTV. It is not available in your country. This video contains content from Tecca TV. It is not available in your country. Sorry about that.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a geoblocked video disclaimer with no content related to study apps or improving study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "This video contains content from TeccaTV. It is not available in your country. This video contains content from Tecca TV. It is not available in your country. Sorry about that.",
+  "history": {
+    "url": "http://www.youtube.com/watch?v=V39xI7Pnhsw",
+    "title": "This video contains content from TeccaTV. It is not available in your country.",
+    "description": "This video contains content from Tecca TV. It is not available in your country. Sorry about that. ",
+    "frecency": 2227,
+    "url_hash": 53659314653933,
+    "last_visit_date": 1758203933373228
+  }
+}

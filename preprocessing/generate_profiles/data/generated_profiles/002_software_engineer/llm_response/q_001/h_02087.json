@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Who Should and Who Shouldn\u00e2t Take Daily Aspirin Photo Inc\u2014Getty Images/Photo Researchers RMBy Alice Park May 8, 2014TIME Health For more, visit TIME Health. Heart doctors around the country got a lot of phone calls from worried patients after the Food and Drug Administration (FDA) announced that taking low doses of aspirin every day to prevent a",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses aspirin and health news, not Python libraries or machine learning; there is no relevance to the query about latest Python libraries for ML.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Who Should and Who Shouldn\u00e2t Take Daily Aspirin Photo Inc\u2014Getty Images/Photo Researchers RMBy Alice Park May 8, 2014TIME Health For more, visit TIME Health. Heart doctors around the country got a lot of phone calls from worried patients after the Food and Drug Administration (FDA) announced that taking low doses of aspirin every day to prevent a",
+  "history": {
+    "url": "http://time.com/91726/who-should-and-who-shouldnt-take-daily-aspirin/",
+    "title": "Who Should and Who Shouldn\u00e2t Take Daily Aspirin",
+    "description": "Photo Inc\u2014Getty Images/Photo Researchers RMBy Alice Park May 8, 2014TIME Health For more, visit TIME Health. Heart doctors around the country got a lot of phone calls from worried patients after the Food and Drug Administration (FDA) announced that taking low doses of aspirin every day to prevent a ",
+    "frecency": 1217,
+    "url_hash": 33344751654438,
+    "last_visit_date": 1758203929082111
+  }
+}

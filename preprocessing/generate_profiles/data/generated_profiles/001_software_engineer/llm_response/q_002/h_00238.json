@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Video clip \\\"From Wikipedia, the free encyclopedianavigation search\\\"\\\"Web video\\\"\\\" redirects here. For technical details of video on the web, see HTML5 video. [ hide]This article has multiple issues. Please help improve it or discuss these issues on the talk page. ( Learn how and when to remove these template mes",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a generic Wikipedia video page with template notices, not about IDEs or software development tools.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Video clip \"From Wikipedia, the free encyclopedianavigation search\"\"Web video\"\" redirects here. For technical details of video on the web, see HTML5 video. [ hide]This article has multiple issues. Please help improve it or discuss these issues on the talk page. ( Learn how and when to remove these template mes",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Video_clip",
+    "title": "Video clip",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search\"\"Web video\"\" redirects here. For technical details of video on the web, see HTML5 video. [ hide]This article has multiple issues. Please help improve it or discuss these issues on the talk page. ( Learn how and when to remove these template mes",
+    "frecency": 4194,
+    "url_hash": 34029621590331,
+    "last_visit_date": 1758203927874200
+  }
+}

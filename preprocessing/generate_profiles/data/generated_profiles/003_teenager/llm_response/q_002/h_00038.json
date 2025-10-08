@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "That Old Feeling Lyrics \\\"Tweet Doris Day \u2013 That Old Feeling Lyrics I saw you last night and got that old feeling When you came in sight I got that old feeling The moment that you danced by, I felt a thrill And when you caught my eye, my heart stood still Once again I seemed to feel that old yearning And I knew the spark of",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page is about song lyrics, not about DIY room decoration ideas; content is unrelated.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "That Old Feeling Lyrics \"Tweet Doris Day \u2013 That Old Feeling Lyrics I saw you last night and got that old feeling When you came in sight I got that old feeling The moment that you danced by, I felt a thrill And when you caught my eye, my heart stood still Once again I seemed to feel that old yearning And I knew the spark of",
+  "history": {
+    "url": "http://www.lyricsfreak.com/d/doris+day/that+old+feeling_20810043.html",
+    "title": "That Old Feeling Lyrics",
+    "description": "\"Tweet Doris Day \u2013 That Old Feeling Lyrics I saw you last night and got that old feeling When you came in sight I got that old feeling The moment that you danced by, I felt a thrill And when you caught my eye, my heart stood still Once again I seemed to feel that old yearning And I knew the spark of",
+    "frecency": 4963,
+    "url_hash": 5924137759353,
+    "last_visit_date": 1758203930115228
+  }
+}

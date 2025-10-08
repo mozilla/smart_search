@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Hi there, and welcome to Soundtrap's Support page! Soundtrap Studio Editing What is quantization / quantize ? How do I make a loop shorter? How to change the pitch of a region Changing the tempo of individual tracks or matching tempos How to copy or remove a section of a song How to merge tracks See all 16 articles General studio stuff\u2605 Microphone A",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is from Soundtrap Support about audio editing features, clearly unrelated to DIY room decoration ideas; no relevance to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Hi there, and welcome to Soundtrap's Support page! Soundtrap Studio Editing What is quantization / quantize ? How do I make a loop shorter? How to change the pitch of a region Changing the tempo of individual tracks or matching tempos How to copy or remove a section of a song How to merge tracks See all 16 articles General studio stuff\u2605 Microphone A",
+  "history": {
+    "url": "https://soundtrap.zendesk.com/hc/en-us",
+    "title": "Hi there, and welcome to Soundtrap's Support page!",
+    "description": "Soundtrap Studio Editing What is quantization / quantize ? How do I make a loop shorter? How to change the pitch of a region Changing the tempo of individual tracks or matching tempos How to copy or remove a section of a song How to merge tracks See all 16 articles General studio stuff\u2605 Microphone A",
+    "frecency": 4679,
+    "url_hash": 61554720148514,
+    "last_visit_date": 1758203927428735
+  }
+}

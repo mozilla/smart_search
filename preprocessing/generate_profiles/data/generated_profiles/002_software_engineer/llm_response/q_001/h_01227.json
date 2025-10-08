@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Resources: Automated Testing Resources: Automated Testing The Test Automation Learning Center Why Automated Testing? Every software development group tests its products, yet delivered software always has defects. Test engineers strive to catch them before the product is released but they always creep in and they often reappear,",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about automated testing resources and test automation, not about Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Resources: Automated Testing Resources: Automated Testing The Test Automation Learning Center Why Automated Testing? Every software development group tests its products, yet delivered software always has defects. Test engineers strive to catch them before the product is released but they always creep in and they often reappear,",
+  "history": {
+    "url": "https://smartbear.com/learn/automated-testing/",
+    "title": "Resources: Automated Testing",
+    "description": "Resources: Automated Testing The Test Automation Learning Center Why Automated Testing? Every software development group tests its products, yet delivered software always has defects. Test engineers strive to catch them before the product is released but they always creep in and they often reappear,",
+    "frecency": 2811,
+    "url_hash": 2265824348299,
+    "last_visit_date": 1758203927696111
+  }
+}

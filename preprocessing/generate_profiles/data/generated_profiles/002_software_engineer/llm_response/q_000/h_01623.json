@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Timo Werner Timo Werner Profile and Statistics Soccer Punter > Players > Timo Werner Timo Werner First name: Timo Last name: Werner Position: Attacker Nationality: Germany Date of birth: 6 March 1996Age: 22Place of birth: Stuttgart Height: 180 cm Weight: 75 kg Foot: right Status: active Football Career Transfer",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a soccer player profile and does not discuss debugging, APIs, or integration techniques.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Timo Werner Timo Werner Profile and Statistics Soccer Punter > Players > Timo Werner Timo Werner First name: Timo Last name: Werner Position: Attacker Nationality: Germany Date of birth: 6 March 1996Age: 22Place of birth: Stuttgart Height: 180 cm Weight: 75 kg Foot: right Status: active Football Career Transfer",
+  "history": {
+    "url": "https://www.soccerpunter.com/players/242778-Timo-Werner",
+    "title": "Timo Werner",
+    "description": "Timo Werner Profile and Statistics Soccer Punter > Players > Timo Werner Timo Werner First name: Timo Last name: Werner Position: Attacker Nationality: Germany Date of birth: 6 March 1996Age: 22Place of birth: Stuttgart Height: 180 cm Weight: 75 kg Foot: right Status: active Football Career Transfer",
+    "frecency": 2060,
+    "url_hash": 25120655624209,
+    "last_visit_date": 1758203928290111
+  }
+}

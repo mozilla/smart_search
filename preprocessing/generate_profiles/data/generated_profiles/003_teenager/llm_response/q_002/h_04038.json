@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "How much do piano lessons cost? \"Entertainment & Music Music Classical How much do piano lessons cost? My daughter is thinking that she wants to take piano lessons, I asked her to think about it more and make sure she really wants to do it (so we don't waste any money), so she has been thinking about it and she says she really wan",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses piano lessons costs, not DIY room decoration ideas; topic is unrelated to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "How much do piano lessons cost? \"Entertainment & Music Music Classical How much do piano lessons cost? My daughter is thinking that she wants to take piano lessons, I asked her to think about it more and make sure she really wants to do it (so we don't waste any money), so she has been thinking about it and she says she really wan",
+  "history": {
+    "url": "https://answers.yahoo.com/question/index?qid=20090522132355AABuL0V",
+    "title": "How much do piano lessons cost?",
+    "description": "\"Entertainment & Music Music Classical How much do piano lessons cost? My daughter is thinking that she wants to take piano lessons, I asked her to think about it more and make sure she really wants to do it (so we don't waste any money), so she has been thinking about it and she says she really wan",
+    "frecency": 821,
+    "url_hash": 47636514318636,
+    "last_visit_date": 1758203930149228
+  }
+}

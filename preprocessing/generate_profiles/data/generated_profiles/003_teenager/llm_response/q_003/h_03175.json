@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Pros and cons Pros and cons If dialysis is recommended for you, you'll often be able to choose whether to have haemodialysis or peritoneal dialysis. Both methods of dialysis are equally effective for most people, so it's usually a case of personal preference. However, there may be some situations where a particul",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses dialysis, not related to study apps; no relevance to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Pros and cons Pros and cons If dialysis is recommended for you, you'll often be able to choose whether to have haemodialysis or peritoneal dialysis. Both methods of dialysis are equally effective for most people, so it's usually a case of personal preference. However, there may be some situations where a particul",
+  "history": {
+    "url": "http://www.nhs.uk/Conditions/Dialysis/Pages/Advantages-and-disadvantages.aspx",
+    "title": "Pros and cons",
+    "description": "Pros and cons If dialysis is recommended for you, you'll often be able to choose whether to have haemodialysis or peritoneal dialysis. Both methods of dialysis are equally effective for most people, so it's usually a case of personal preference. However, there may be some situations where a particul",
+    "frecency": 1670,
+    "url_hash": 66779140691471,
+    "last_visit_date": 1758203934579228
+  }
+}

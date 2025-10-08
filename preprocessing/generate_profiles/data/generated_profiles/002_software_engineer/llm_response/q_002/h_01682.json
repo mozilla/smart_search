@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Home Press Room Audiences State Info Program Offices Topic Areas About HUD More Looking for something specific? We've compiled answers to some of our most frequently asked questions. I Want to Buy a Home Find Rental Assistance File a Discrimination Complaint Learn about the Housing Choice Voucher Program Access the Real Estate Assessment Center (REAC) System Access the Limited",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is from a housing/HUD website and contains no content related to integrated development environments or software development.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Home Press Room Audiences State Info Program Offices Topic Areas About HUD More Looking for something specific? We've compiled answers to some of our most frequently asked questions. I Want to Buy a Home Find Rental Assistance File a Discrimination Complaint Learn about the Housing Choice Voucher Program Access the Real Estate Assessment Center (REAC) System Access the Limited",
+  "history": {
+    "url": "https://portal.hud.gov/hudportal/HUD",
+    "title": "Home Press Room Audiences State Info Program Offices Topic Areas About HUD More",
+    "description": "Looking for something specific? We've compiled answers to some of our most frequently asked questions. I Want to Buy a Home Find Rental Assistance File a Discrimination Complaint Learn about the Housing Choice Voucher Program Access the Real Estate Assessment Center (REAC) System Access the Limited ",
+    "frecency": 1947,
+    "url_hash": 84380174220092,
+    "last_visit_date": 1758203929202111
+  }
+}

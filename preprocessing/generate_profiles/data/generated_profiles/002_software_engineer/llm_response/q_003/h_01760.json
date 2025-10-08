@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Kerberos Kerberos Kerberos is a network authentication protocol which utilizes symmetric cryptography to provide authentication for client-server applications. Kerberos Standard Definition Kerberos is defined in RFC 1510 \u2013 The Kerberos Network Authentication Service (V5). Kerberos Architecture The core of Ke",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Kerberos authentication rather than database query optimization, indicating zero relevance to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Kerberos Kerberos Kerberos is a network authentication protocol which utilizes symmetric cryptography to provide authentication for client-server applications. Kerberos Standard Definition Kerberos is defined in RFC 1510 \u2013 The Kerberos Network Authentication Service (V5). Kerberos Architecture The core of Ke",
+  "history": {
+    "url": "http://www.tech-faq.com/what-is-kerberos.html",
+    "title": "Kerberos",
+    "description": "Kerberos Kerberos is a network authentication protocol which utilizes symmetric cryptography to provide authentication for client-server applications. Kerberos Standard Definition Kerberos is defined in RFC 1510 \u2013 The Kerberos Network Authentication Service (V5). Kerberos Architecture The core of Ke",
+    "frecency": 1815,
+    "url_hash": 82577916421509,
+    "last_visit_date": 1758203929948111
+  }
+}

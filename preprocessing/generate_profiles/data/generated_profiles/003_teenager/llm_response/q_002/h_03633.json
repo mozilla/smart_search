@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Atkins Prepared Food and Frozen Meals Atkins Products Atkins Frozen Food & Meals Atkins Prepared Food and Frozen Meals Don\u2019t have the time or energy to cook? We get it. Life is busy! With Atkins Prepared Food and Frozen Meals, you can have delicious, healthy meals on the table in no time, without compromising your low carb lifestyle. At",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Atkins prepared meals, not DIY room decoration ideas, hence it is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Atkins Prepared Food and Frozen Meals Atkins Products Atkins Frozen Food & Meals Atkins Prepared Food and Frozen Meals Don\u2019t have the time or energy to cook? We get it. Life is busy! With Atkins Prepared Food and Frozen Meals, you can have delicious, healthy meals on the table in no time, without compromising your low carb lifestyle. At",
+  "history": {
+    "url": "http://www.atkins.com/products/frozen-meals",
+    "title": "Atkins Prepared Food and Frozen Meals",
+    "description": "Atkins Products Atkins Frozen Food & Meals Atkins Prepared Food and Frozen Meals Don\u2019t have the time or energy to cook? We get it. Life is busy! With Atkins Prepared Food and Frozen Meals, you can have delicious, healthy meals on the table in no time, without compromising your low carb lifestyle. At",
+    "frecency": 1214,
+    "url_hash": 15422401653963,
+    "last_visit_date": 1758203932169228
+  }
+}

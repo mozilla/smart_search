@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Whipple Procedure << Back to Digestive Disorders The Whipple procedure (also called a pancreaticoduodenectomy) is the primary surgical treatment for pancreatic cancer that occurs within the head of the gland. During this procedure, surgeons remove the head of the pancreas, most of the duodenum (a part of the small in",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a medical surgical procedure (Whipple procedure) and is unrelated to software development IDEs.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Whipple Procedure << Back to Digestive Disorders The Whipple procedure (also called a pancreaticoduodenectomy) is the primary surgical treatment for pancreatic cancer that occurs within the head of the gland. During this procedure, surgeons remove the head of the pancreas, most of the duodenum (a part of the small in",
+  "history": {
+    "url": "http://www.hopkinsmedicine.org/kimmel_cancer_center/centers/pancreatic_cancer/treatments/whipple_procedure.html",
+    "title": "Whipple Procedure",
+    "description": "<< Back to Digestive Disorders The Whipple procedure (also called a pancreaticoduodenectomy) is the primary surgical treatment for pancreatic cancer that occurs within the head of the gland. During this procedure, surgeons remove the head of the pancreas, most of the duodenum (a part of the small in",
+    "frecency": 762,
+    "url_hash": 32960750368777,
+    "last_visit_date": 1758203929930111
+  }
+}

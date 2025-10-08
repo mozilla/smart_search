@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "\"What was the name of the \\\"famous\\\" Jimi Hendrix Vietnam song?\" \"Maruti Sridhar, Never without my i Pod Answered Aug 19, 2015 \u00b7 Author has 647 answers and 819.3k answer views Machine Gun Here're the lyrics to the live version from the second show at Berkeley: \\\"Happy new year first of all. I hope we'll have A million or two million more of them... if we Can get",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses a Jimi Hendrix song and lyrics, not sports or methods to improve sports performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "\"What was the name of the \"\"famous\"\" Jimi Hendrix Vietnam song?\" \"Maruti Sridhar, Never without my i Pod Answered Aug 19, 2015 \u00b7 Author has 647 answers and 819.3k answer views Machine Gun Here're the lyrics to the live version from the second show at Berkeley: \"\"Happy new year first of all. I hope we'll have A million or two million more of them... if we Can get",
+  "history": {
+    "url": "https://www.quora.com/What-was-the-name-of-the-famous-Jimi-Hendrix-Vietnam-song",
+    "title": "\"What was the name of the \"\"famous\"\" Jimi Hendrix Vietnam song?\"",
+    "description": "\"Maruti Sridhar, Never without my i Pod Answered Aug 19, 2015 \u00b7 Author has 647 answers and 819.3k answer views Machine Gun Here're the lyrics to the live version from the second show at Berkeley: \"\"Happy new year first of all. I hope we'll have A million or two million more of them... if we Can get ",
+    "frecency": 597,
+    "url_hash": 73330333170499,
+    "last_visit_date": 1758203934247228
+  }
+}

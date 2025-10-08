@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "How can I change user passwords in Windows 7 and 8.1 without knowing current password? \\\"How can I change user passwords in Windows 7 or 10 and 8.1, without knowing the current password, no hacker knowledge required. Please start the Windows 7 (Windows-8, Vista, Server 2008) cmd.exe in admi",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Windows password changes, which is unrelated to Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "How can I change user passwords in Windows 7 and 8.1 without knowing current password? \"How can I change user passwords in Windows 7 and 8.1 without knowing current password? To change the password of a specific user in windows 7 or 10 and 8.1, without knowing the current password, no hacker knowledge required. Please start the Windows 7 (Windows-8, Vista, Server 2008) cmd.exe in admi",
+  "history": {
+    "url": "http://www.softwareok.com/?seite=faq-Windows-7&faq=58",
+    "title": "How can I change user passwords in Windows 7 and 8.1 without knowing current password?",
+    "description": "\"How can I change user passwords in Windows 7 and 8.1 without knowing current password? To change the password of a specific user in windows 7 or 10 and 8.1, without knowing the current password, no hacker knowledge required. Please start the Windows 7 (Windows-8, Vista, Server 2008) cmd.exe in admi",
+    "frecency": 1879,
+    "url_hash": 20039808354681,
+    "last_visit_date": 1758203929274200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Lost Horizon (1937 film) From Wikipedia, the free encyclopedia navigation search Lost Horizon Original poster Directed by Frank Capra Produced by Frank Capra Screenplay by Robert Riskin Based on Lost Horizon 1933 novel by James Hilton Starring Ronald Colman Jane Wyatt Sam Jaffe John Howard H. B. Warner Music by Dimitri Tiom",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a 1937 film and contains no information related to apps or study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Lost Horizon  (1937 film) \"From Wikipedia, the free encyclopedianavigation search Lost Horizon Original poster Directed by Frank Capra Produced by Frank Capra Screenplay by Robert Riskin Based on Lost Horizon 1933 novel by James Hilton Starring Ronald Colman Jane Wyatt Sam Jaffe John Howard H. B. Warner Music by Dimitri Tiom",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Lost_Horizon_(1937_film)",
+    "title": "Lost Horizon  (1937 film)",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search Lost Horizon Original poster Directed by Frank Capra Produced by Frank Capra Screenplay by Robert Riskin Based on Lost Horizon 1933 novel by James Hilton Starring Ronald Colman Jane Wyatt Sam Jaffe John Howard H. B. Warner Music by Dimitri Tiom",
+    "frecency": 2872,
+    "url_hash": 11277309985391,
+    "last_visit_date": 1758203927382735
+  }
+}

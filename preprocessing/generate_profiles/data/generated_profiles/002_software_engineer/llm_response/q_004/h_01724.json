@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "A cut above \\\"Think of the last time someone handed you a business card, especially if it was someone from your industry. What did you do? Chances are you glanced at the person's name to see if there were any additional letters there -- the kind of letters that stand for designations and certifications obtained.\\\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses business cards and professional designations, not Docker or beginner Docker setup.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "A cut above \"Think of the last time someone handed you a business card, especially if it was someone from your industry. What did you do? Chances are you glanced at the person's name to see if there were any additional letters there -- the kind of letters that stand for designations and certifications obtained.",
+  "history": {
+    "url": "http://www.benefitspro.com/2007/11/01/a-cut-above",
+    "title": "A cut above",
+    "description": "\"Think of the last time someone handed you a business card, especially if it was someone from your industry. What did you do? Chances are you glanced at the person's name to see if there were any additional letters there -- the kind of letters that stand for designations and certifications obtained.",
+    "frecency": 1889,
+    "url_hash": 18052645267189,
+    "last_visit_date": 1758203930838111
+  }
+}

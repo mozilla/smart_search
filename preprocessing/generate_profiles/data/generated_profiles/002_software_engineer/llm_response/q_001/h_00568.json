@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Westmed Medical Group Overview Website www.westmedgroup.com Headquarters Purchase, NY Size 1001 to 5000 employees Founded 1996 Type Company - Private Industry Health Care Services & Hospitals Revenue Unknown / Non-Applicable Competitors Unknown Westmed Medical Group is a large, award-winning multi-",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a medical group and healthcare organization; it has no relation to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Westmed Medical Group \"Westmed Medical Group Overview Website www.westmedgroup.com Headquarters Purchase, NY Size 1001 to 5000 employees Founded 1996 Type Company - Private Industry Health Care Services & Hospitals Revenue Unknown / Non-Applicable Competitors Unknown Westmed Medical Group is a large, award-winning multi-",
+  "history": {
+    "url": "https://www.glassdoor.com/Overview/Working-at-Westmed-Medical-Group-EI_IE381593.11,32.htm",
+    "title": "Westmed Medical Group",
+    "description": "\"Westmed Medical Group Overview Website www.westmedgroup.com Headquarters Purchase, NY Size 1001 to 5000 employees Founded 1996 Type Company - Private Industry Health Care Services & Hospitals Revenue Unknown / Non-Applicable Competitors Unknown Westmed Medical Group is a large, award-winning multi-",
+    "frecency": 4025,
+    "url_hash": 16489507778796,
+    "last_visit_date": 1758203927548111
+  }
+}

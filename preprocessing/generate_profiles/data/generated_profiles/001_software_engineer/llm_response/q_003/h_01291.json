@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Nordstrom (JWN) Stock Surging in After-Hours Trading as Earnings Beat Estimates \\\"NEW YORK ( The Street) -- Nordstrom ( JWN) stock is rallying 6.22% to $79.58 in after-hours trading on Thursday after the department store chain posted strong second quarter 2015 earnings results that topped analysts' estimates. The company's revenue fell slightly short of estimates. For the quarte",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved article is about Nordstrom stock earnings and is unrelated to optimizing database queries.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Nordstrom (JWN) Stock Surging in After-Hours Trading as Earnings Beat Estimates \"NEW YORK ( The Street) -- Nordstrom ( JWN) stock is rallying 6.22% to $79.58 in after-hours trading on Thursday after the department store chain posted strong second quarter 2015 earnings results that topped analysts' estimates. The company's revenue fell slightly short of estimates. For the quarte",
+  "history": {
+    "url": "https://www.thestreet.com/story/13255631/1/nordstrom-jwn-stock-surging-in-after-hours-trading-as-earnings-beat-estimates.html",
+    "title": "Nordstrom (JWN) Stock Surging in After-Hours Trading as Earnings Beat Estimates",
+    "description": "\"NEW YORK ( The Street) -- Nordstrom ( JWN) stock is rallying 6.22% to $79.58 in after-hours trading on Thursday after the department store chain posted strong second quarter 2015 earnings results that topped analysts' estimates. The company's revenue fell slightly short of estimates. For the quarte",
+    "frecency": 463,
+    "url_hash": 17563564073688,
+    "last_visit_date": 1758203927956200
+  }
+}

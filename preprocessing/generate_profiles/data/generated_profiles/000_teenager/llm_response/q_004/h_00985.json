@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "New survey takes pulse of young Americans Posted in Behind the News New survey takes pulse of young Americans March 30, 2018, by Lauren Easton As the run-up to the U. S. midterm elections begins, the new Youth Political Pulse survey, by MTV with The Associated Press-NORC Center for Public Affairs Research, aims to reveal what political issu",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses a political survey about youth opinions and elections, not sports or sports improvement.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "New survey takes pulse of young Americans Posted in Behind the News New survey takes pulse of young Americans March 30, 2018, by Lauren Easton As the run-up to the U. S. midterm elections begins, the new Youth Political Pulse survey, by MTV with The Associated Press-NORC Center for Public Affairs Research, aims to reveal what political issu",
+  "history": {
+    "url": "https://blog.ap.org/",
+    "title": "New survey takes pulse of young Americans",
+    "description": "Posted in Behind the News New survey takes pulse of young Americans March 30, 2018, by Lauren Easton As the run-up to the U. S. midterm elections begins, the new Youth Political Pulse survey, by MTV with The Associated Press-NORC Center for Public Affairs Research, aims to reveal what political issu",
+    "frecency": 668,
+    "url_hash": 20488009991266,
+    "last_visit_date": 1758203927353139
+  }
+}

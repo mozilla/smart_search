@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "What lifestyle habits are risk factors for type 2 diabetes? What lifestyle habits are risk factors for type 2 diabetes? ANSWERSome risk factors for type 2 diabetes have to do with your daily habits and lifestyle. These are the ones you can do something about: Getting little or no exercise Smoking Stress Sleeping too little or too much From: Type 2 Diabetes:",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses lifestyle factors related to type 2 diabetes, not study habits or apps.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "What lifestyle habits are risk factors for type 2 diabetes? What lifestyle habits are risk factors for type 2 diabetes? ANSWERSome risk factors for type 2 diabetes have to do with your daily habits and lifestyle. These are the ones you can do something about: Getting little or no exercise Smoking Stress Sleeping too little or too much From: Type 2 Diabetes:",
+  "history": {
+    "url": "https://www.webmd.com/diabetes/qa/what-lifestyle-habits-are-risk-factors-for-type-2-diabetes",
+    "title": "What lifestyle habits are risk factors for type 2 diabetes?",
+    "description": "What lifestyle habits are risk factors for type 2 diabetes? ANSWERSome risk factors for type 2 diabetes have to do with your daily habits and lifestyle. These are the ones you can do something about: Getting little or no exercise Smoking Stress Sleeping too little or too much From: Type 2 Diabetes: ",
+    "frecency": 1047,
+    "url_hash": 64477202160329,
+    "last_visit_date": 1758203927395139
+  }
+}

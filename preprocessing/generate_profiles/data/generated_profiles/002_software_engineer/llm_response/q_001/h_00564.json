@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Peter Steele \"From Wikipedia, the free encyclopedianavigation search For the Australian poet and academic, see Peter Steele (poet). Peter Steele Steele performing in 2007Background information Birth name Petrus Thomas Ratajczyk Also known as Peter Steele; Pete Steele; Lord Petrus Steele; The Green Man Born Janua",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Peter Steele, a poet and musician, and has no relevance to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Peter Steele \"From Wikipedia, the free encyclopedianavigation search For the Australian poet and academic, see Peter Steele (poet). Peter Steele Steele performing in 2007Background information Birth name Petrus Thomas Ratajczyk Also known as Peter Steele; Pete Steele; Lord Petrus Steele; The Green Man Born Janua",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Peter_Steele",
+    "title": "Peter Steele",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search For the Australian poet and academic, see Peter Steele (poet). Peter Steele Steele performing in 2007Background information Birth name Petrus Thomas Ratajczyk Also known as Peter Steele; Pete Steele; Lord Petrus Steele; The Green Man Born Janua",
+    "frecency": 4034,
+    "url_hash": 72679651484446,
+    "last_visit_date": 1758203929304111
+  }
+}

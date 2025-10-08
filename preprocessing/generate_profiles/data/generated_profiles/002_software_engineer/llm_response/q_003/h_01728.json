@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Oven Baked (Breaded) Turbot Oven Baked (Breaded) Turbot2By Jo Zimny @Emily Jo It's been a while since I've found Turbot in any store, but found some in Trader Joe's and decided to bake it in the oven. I've made my own bread crumbs for this one out of some stale bread I had in the fridge. I plan to serve some fruit salsa with t",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a cooking recipe about baking Turbot, unrelated to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Oven Baked (Breaded) Turbot Oven Baked (Breaded) Turbot2By Jo Zimny @Emily Jo It's been a while since I've found Turbot in any store, but found some in Trader Joe's and decided to bake it in the oven. I've made my own bread crumbs for this one out of some stale bread I had in the fridge. I plan to serve some fruit salsa with t",
+  "history": {
+    "url": "https://www.justapinch.com/recipes/main-course/fish/oven-baked-breaded-turbot.html",
+    "title": "Oven Baked (Breaded) Turbot",
+    "description": "Oven Baked (Breaded) Turbot2By Jo Zimny @Emily Jo It's been a while since I've found Turbot in any store, but found some in Trader Joe's and decided to bake it in the oven. I've made my own bread crumbs for this one out of some stale bread I had in the fridge. I plan to serve some fruit salsa with t",
+    "frecency": 1879,
+    "url_hash": 97474640616586,
+    "last_visit_date": 1758203928238111
+  }
+}

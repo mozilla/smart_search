@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Living costs Home Admissions Undergraduate Fees and funding Living costs Living costs Your living costs will vary significantly dependent on your lifestyle. These are estimated to be between \u00a31,014 and \u00a31,556 per month in 2018-19. Undergraduate courses usually consist of three terms of eight weeks each, but as a",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses living costs and university admissions, not topics related to DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Living costs Home Admissions Undergraduate Fees and funding Living costs Living costs Your living costs will vary significantly dependent on your lifestyle. These are estimated to be between \u00a31,014 and \u00a31,556 per month in 2018-19. Undergraduate courses usually consist of three terms of eight weeks each, but as a",
+  "history": {
+    "url": "https://www.ox.ac.uk/admissions/undergraduate/fees-and-funding/living-costs?wssl=1",
+    "title": "Living costs",
+    "description": "Home Admissions Undergraduate Fees and funding Living costs Living costs Your living costs will vary significantly dependent on your lifestyle. These are estimated to be between \u00a31,014 and \u00a31,556 per month in 2018-19. Undergraduate courses usually consist of three terms of eight weeks each, but as a",
+    "frecency": 709,
+    "url_hash": 14232496135588,
+    "last_visit_date": 1758203934185228
+  }
+}

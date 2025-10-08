@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Tommy Tune \"Tommy Tune From Wikipedia, the free encyclopedianavigation search Tommy Tune Tune in 1977. Born Thomas James Tune February 28, 1939 (age 79)Wichita Falls, Texas, U. S. Alma mater University of Texas at Austin University of Houston Occupation Actor, choreographer, dancer, singer, theatre director, p",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Tommy Tune, not about Docker or a beginner's Docker setup; it is not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Tommy Tune \"Tommy Tune From Wikipedia, the free encyclopedianavigation search Tommy Tune Tune in 1977. Born Thomas James Tune February 28, 1939 (age 79)Wichita Falls, Texas, U. S. Alma mater University of Texas at Austin University of Houston Occupation Actor, choreographer, dancer, singer, theatre director, p",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Tommy_Tune",
+    "title": "Tommy Tune",
+    "description": "\"Tommy Tune From Wikipedia, the free encyclopedianavigation search Tommy Tune Tune in 1977. Born Thomas James Tune February 28, 1939 (age 79)Wichita Falls, Texas, U. S. Alma mater University of Texas at Austin University of Houston Occupation Actor, choreographer, dancer, singer, theatre director, p",
+    "frecency": 2469,
+    "url_hash": 78858073204154,
+    "last_visit_date": 1758203929282200
+  }
+}

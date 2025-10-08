@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Radios: Your Lifeline is Evolving \"Photo: Mark W. Clark The two-way radio has been an essential law enforcement tool since the 1930s. And in the 80 years since, officers have come to rely on both their in-car and portable radios for not only information from dispatchers but critical intelligence about the people they contact and the",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses radios and law enforcement, not software development or IDEs; it is not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Radios: Your Lifeline is Evolving \"Photo: Mark W. Clark The two-way radio has been an essential law enforcement tool since the 1930s. And in the 80 years since, officers have come to rely on both their in-car and portable radios for not only information from dispatchers but critical intelligence about the people they contact and the",
+  "history": {
+    "url": "http://www.policemag.com/channel/technology/articles/2014/06/radios-your-lifeline-is-evolving.aspx",
+    "title": "Radios: Your Lifeline is Evolving",
+    "description": "\"Photo: Mark W. Clark The two-way radio has been an essential law enforcement tool since the 1930s. And in the 80 years since, officers have come to rely on both their in-car and portable radios for not only information from dispatchers but critical intelligence about the people they contact and the",
+    "frecency": 2467,
+    "url_hash": 52355797371290,
+    "last_visit_date": 1758203928760200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Robert Newman (comedian) biography page; unrelated to Docker or setup.",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a comedian and not related to Docker, so not relevant.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Robert Newman (comedian) \"From Wikipedia, the free encyclopedianavigation search Robert Newman Newman at a reading and signing for his novel The Trade Secret in 2013Born Robert Newman 7 July 1964 (age 53)Residence London, UKOccupation Comedian Author Actor Known for Political activism Website www.robnewman.com Robert \"\"Rob\"",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Robert_Newman_(comedian)",
+    "title": "Robert Newman (comedian)",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search Robert Newman Newman at a reading and signing for his novel The Trade Secret in 2013Born Robert Newman 7 July 1964 (age 53)Residence London, UKOccupation Comedian Author Actor Known for Political activism Website www.robnewman.com Robert \"\"Rob\"",
+    "frecency": 450,
+    "url_hash": 41308114208430,
+    "last_visit_date": 1758203931304111
+  }
+}

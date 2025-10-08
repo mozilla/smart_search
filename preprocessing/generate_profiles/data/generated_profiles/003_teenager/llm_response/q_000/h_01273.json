@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Brooklands Museum Trip Advisor Traveller Rating Based on 1,793 reviews Explore motoring and aviation history at Brooklands. The Brooklands Museum features racing cars, motorcycles and aircraft like the Wellington Bomber and a chance to go aboard a classic Concorde. The Read More About Prices and Opening Times Images",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a museum and its features; it has no content about starting a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Brooklands Museum Trip Advisor Traveller Rating Based on 1,793 reviews Explore motoring and aviation history at Brooklands. The Brooklands Museum features racing cars, motorcycles and aircraft like the Wellington Bomber and a chance to go aboard a classic Concorde. The Read More About Prices and Opening Times Images",
+  "history": {
+    "url": "http://www.visitlondon.com/things-to-do/place/225754-brooklands-museum",
+    "title": "Brooklands Museum",
+    "description": "Trip Advisor Traveller Rating Based on 1,793 reviews Explore motoring and aviation history at Brooklands. The Brooklands Museum features racing cars, motorcycles and aircraft like the Wellington Bomber and a chance to go aboard a classic Concorde. The Read More About Prices and Opening Times Images ",
+    "frecency": 3701,
+    "url_hash": 83521684324398,
+    "last_visit_date": 1758203931339228
+  }
+}

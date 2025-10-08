@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "About Jane About Jane Born in London, Jane studied art and design at Middlesex University. Her main study was ceramics and she didn't start to illustrate until she left college. Her first published work was a series of greetings cards for Roger la Borde, followed by some book jackets, and eventually black and",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes an artist named Jane; it has no relevance to improving athletic performance or sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "About Jane About Jane Born in London, Jane studied art and design at Middlesex University. Her main study was ceramics and she didn't start to illustrate until she left college. Her first published work was a series of greetings cards for Roger la Borde, followed by some book jackets, and eventually black and",
+  "history": {
+    "url": "http://www.janeray.com/about/",
+    "title": "About Jane",
+    "description": "About Jane Born in London, Jane studied art and design at Middlesex University. Her main study was ceramics and she didn't start to illustrate until she left college. Her first published work was a series of greetings cards for Roger la Borde, followed by some book jackets, and eventually black and ",
+    "frecency": 2420,
+    "url_hash": 70620877007742,
+    "last_visit_date": 1758203935643228
+  }
+}

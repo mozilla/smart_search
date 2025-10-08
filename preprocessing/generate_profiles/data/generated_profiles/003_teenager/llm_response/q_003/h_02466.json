@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "How to add yourself to IMDb How to add yourself to IMDb Have you worked on a movie? How about a TV or web series? If so, you\u2019re probably eligible for an IMDb page. Follow these steps to add yourself... Make sure you aren't already listed. We have many millions of credits in the database, so unless you've just started your care",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses adding yourself to IMDb and has no relation to apps or techniques for improving study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "How to add yourself to IMDb How to add yourself to IMDb Have you worked on a movie? How about a TV or web series? If so, you\u2019re probably eligible for an IMDb page. Follow these steps to add yourself... Make sure you aren't already listed. We have many millions of credits in the database, so unless you've just started your care",
+  "history": {
+    "url": "http://www.imdb.com/help/show_leaf?resumeaddnewname",
+    "title": "How to add yourself to IMDb",
+    "description": "How to add yourself to IMDb Have you worked on a movie? How about a TV or web series? If so, you\u2019re probably eligible for an IMDb page. Follow these steps to add yourself... Make sure you aren't already listed. We have many millions of credits in the database, so unless you've just started your care",
+    "frecency": 2469,
+    "url_hash": 19938904917178,
+    "last_visit_date": 1758203933895228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Clipboard text: From Wikipedia, the free encyclopedia. For the clipboard used in software, see Clipboard (computing). A wooden clipboard is a thin, rigid board with a clip at the top for holding paper in place. A clipboard is typically used to support paper with one hand while writing.",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a clipboard, which is unrelated to IDEs or software development tools.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Clipboard \"From Wikipedia, the free encyclopedianavigation search For the clipboard used in software, see Clipboard (computing). A wooden clipboard A clipboard is a thin, rigid board with a clip at the top for holding paper in place. A clipboard is typically used to support paper with one hand while writing o",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Clipboard",
+    "title": "Clipboard",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search For the clipboard used in software, see Clipboard (computing). A wooden clipboard A clipboard is a thin, rigid board with a clip at the top for holding paper in place. A clipboard is typically used to support paper with one hand while writing o",
+    "frecency": 3491,
+    "url_hash": 16232034301375,
+    "last_visit_date": 1758203929184111
+  }
+}

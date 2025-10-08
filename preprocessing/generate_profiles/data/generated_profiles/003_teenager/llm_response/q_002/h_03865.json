@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Jimmy Carter Timeline \"Jimmy Carter Timeline Jimmy Carter Timeline. A lifetime of events for the Thirty-Eighth U. S. President both public and private. From his birth on October 1, in Plains Georgia, through a four year presidential term, political retirement and a continued life as writer and global humanitarian. DATE J\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Jimmy Carter's timeline, not related to DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Jimmy Carter Timeline \"Jimmy Carter Timeline Jimmy Carter Timeline. A lifetime of events for the Thirty-Eighth U. S. President both public and private. From his birth on October 1, in Plains Georgia, through a four year presidential term, political retirement and a continued life as writer and global humanitarian. DATE J",
+  "history": {
+    "url": "http://www.american-presidents-history.com/jimmy-carter-timeline.html",
+    "title": "Jimmy Carter Timeline",
+    "description": "\"Jimmy Carter Timeline Jimmy Carter Timeline. A lifetime of events for the Thirty-Eighth U. S. President both public and private. From his birth on October 1, in Plains Georgia, through a four year presidential term, political retirement and a continued life as writer and global humanitarian. DATE J",
+    "frecency": 998,
+    "url_hash": 56596410016003,
+    "last_visit_date": 1758203929290735
+  }
+}

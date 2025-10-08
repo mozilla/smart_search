@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Macon, MO Weather \\\"Missouri News AP Top Missouri Headlines at 5:51 p... Prosecutor in Chicago named head of SEC's regional office CHICAGO (AP) -- A high-profile federal prosecutor who helped convict a former Illinois governor of corruption has been named the new director for the Securities and Exchange Commission's n",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is unrelated to API debugging; it contains weather/news content and does not cover API integration topics.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Macon, MO Weather \"Missouri News AP Top Missouri Headlines at 5:51 p... Prosecutor in Chicago named head of SEC's regional office CHICAGO (AP) -- A high-profile federal prosecutor who helped convict a former Illinois governor of corruption has been named the new director for the Securities and Exchange Commission's n",
+  "history": {
+    "url": "https://www.findlocalweather.com/forecast/mo/macon.html",
+    "title": "Macon, MO Weather",
+    "description": "\"Missouri News AP Top Missouri Headlines at 5:51 p... Prosecutor in Chicago named head of SEC's regional office CHICAGO (AP) -- A high-profile federal prosecutor who helped convict a former Illinois governor of corruption has been named the new director for the Securities and Exchange Commission's n",
+    "frecency": 1098,
+    "url_hash": 46160838665032,
+    "last_visit_date": 1758203928778200
+  }
+}

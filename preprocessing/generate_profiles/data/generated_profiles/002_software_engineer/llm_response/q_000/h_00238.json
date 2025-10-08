@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "What type of Doctor Should I Go To? Two of the most commonly asked questions regarding doctors and lymphedema is:1.) What type of doctor diagnosis lymphedema?2.) What type of doctor treats lymphedema? Unfortunately, because lymphology or lymphatic science is not a recognized or distinct medical subspecialty, there is no particular typ",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses doctors and lymphedema, not API integration or debugging.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "What type of Doctor Should I Go To? Two of the most commonly asked questions regarding doctors and lymphedema is:1.) What type of doctor diagnosis lymphedema?2.) What type of doctor treats lymphedema? Unfortunately, because lymphology or lymphatic science is not a recognized or distinct medical subspecialty, there is no particular typ",
+  "history": {
+    "url": "http://www.lymphedemapeople.com/wiki/doku.php?id=what_type_of_doctor_should_i_go_to",
+    "title": "What type of Doctor Should I Go To?",
+    "description": "Two of the most commonly asked questions regarding doctors and lymphedema is:1.) What type of doctor diagnosis lymphedema?2.) What type of doctor treats lymphedema? Unfortunately, because lymphology or lymphatic science is not a recognized or distinct medical subspecialty, there is no particular typ",
+    "frecency": 4610,
+    "url_hash": 45100405065212,
+    "last_visit_date": 1758203931696111
+  }
+}

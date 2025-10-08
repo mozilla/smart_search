@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Install java in a linux server without admin rights _Ask Ubuntu is a question and answer site for Ubuntu users and developers. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Install java in a linux server without admin rightsup vote3down",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns installing Java on a Linux server without admin rights, not debugging APIs or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Install java in a linux server without admin rights \"_Ask Ubuntu is a question and answer site for Ubuntu users and developers. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Install java in a linux server without admin rightsup vote3down",
+  "history": {
+    "url": "https://askubuntu.com/questions/831116/install-java-in-a-linux-server-without-admin-rights",
+    "title": "Install java in a linux server without admin rights",
+    "description": "\"_Ask Ubuntu is a question and answer site for Ubuntu users and developers. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Install java in a linux server without admin rightsup vote3down ",
+    "frecency": 2404,
+    "url_hash": 17146347375594,
+    "last_visit_date": 1758203928504200
+  }
+}

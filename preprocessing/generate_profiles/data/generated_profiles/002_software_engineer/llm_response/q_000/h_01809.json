@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Alejandro Rey \"Alejandro Rey From Wikipedia, the free encyclopedianavigation search Alejandro Rey Born February 8, 1930 Buenos Aires, Argentina Died May 21, 1987 (aged 57) Los Angeles, California, U. S. Cause of death Lung cancer Occupation Actor, director Years active 1953\u201386Spouse (s) Cristina Rudy (1966\u201368) Jo",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns the biography of actor Alejandro Rey and is unrelated to debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Alejandro Rey \"Alejandro Rey From Wikipedia, the free encyclopedianavigation search Alejandro Rey Born February 8, 1930 Buenos Aires, Argentina Died May 21, 1987 (aged 57) Los Angeles, California, U. S. Cause of death Lung cancer Occupation Actor, director Years active 1953\u201386Spouse (s) Cristina Rudy (1966\u201368) Jo",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Alejandro_Rey",
+    "title": "Alejandro Rey",
+    "description": "\"Alejandro Rey From Wikipedia, the free encyclopedianavigation search Alejandro Rey Born February 8, 1930 Buenos Aires, Argentina Died May 21, 1987 (aged 57) Los Angeles, California, U. S. Cause of death Lung cancer Occupation Actor, director Years active 1953\u201386Spouse (s) Cristina Rudy (1966\u201368) Jo",
+    "frecency": 1717,
+    "url_hash": 9611080561204,
+    "last_visit_date": 1758203931106111
+  }
+}

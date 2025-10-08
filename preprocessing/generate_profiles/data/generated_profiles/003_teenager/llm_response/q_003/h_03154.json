@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Research suggests that green tea, exercise boost weight loss, health UNIVERSITY PARK, Pa. -- Mice on a high-fat diet that consumed decaffeinated green tea extract and exercised regularly experienced sharp reductions in final body weight and significant improvements in health, according to researchers in Penn State's College of Agricultural Sciences, who suggest that",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses green tea and weight loss in mice, with no relation to study habits or applications for improving study performance.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Research suggests that green tea, exercise boost weight loss, health \"UNIVERSITY PARK, Pa. -- Mice on a high-fat diet that consumed decaffeinated green tea extract and exercised regularly experienced sharp reductions in final body weight and significant improvements in health, according to researchers in Penn State's College of Agricultural Sciences, who suggest that",
+  "history": {
+    "url": "http://news.psu.edu/story/310179/2014/04/02/research/research-suggests-green-tea-exercise-boost-weight-loss-health",
+    "title": "Research suggests that green tea, exercise boost weight loss, health",
+    "description": "\"UNIVERSITY PARK, Pa. -- Mice on a high-fat diet that consumed decaffeinated green tea extract and exercised regularly experienced sharp reductions in final body weight and significant improvements in health, according to researchers in Penn State's College of Agricultural Sciences, who suggest that",
+    "frecency": 1686,
+    "url_hash": 71884791347174,
+    "last_visit_date": 1758203930187228
+  }
+}

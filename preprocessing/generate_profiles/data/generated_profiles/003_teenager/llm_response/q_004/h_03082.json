@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "In pictures: Last Of The Summer Wine 2 June 2010 Last updated at 17:48In pictures: Last Of The Summer Wine After 37 years long-running comedy Last Of The Summer Wine is being axed. First broadcast on BBC One in 1973, the classic line-up of characters - Foggy, Compo and Norman Clegg - became a hit with audiences. Next image |Previous im",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about the TV show Last Of The Summer Wine, not about improving sports performance; it is unrelated to the query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "In pictures: Last Of The Summer Wine 2 June 2010 Last updated at 17:48In pictures: Last Of The Summer Wine After 37 years long-running comedy Last Of The Summer Wine is being axed. First broadcast on BBC One in 1973, the classic line-up of characters - Foggy, Compo and Norman Clegg - became a hit with audiences. Next image |Previous im",
+  "history": {
+    "url": "http://www.bbc.co.uk/news/10218857",
+    "title": "In pictures: Last Of The Summer Wine",
+    "description": "2 June 2010 Last updated at 17:48In pictures: Last Of The Summer Wine After 37 years long-running comedy Last Of The Summer Wine is being axed. First broadcast on BBC One in 1973, the classic line-up of characters - Foggy, Compo and Norman Clegg - became a hit with audiences. Next image |Previous im",
+    "frecency": 1757,
+    "url_hash": 2262868245754,
+    "last_visit_date": 1758203928184735
+  }
+}

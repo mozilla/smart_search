@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Kirk Whalum \"Kirk Whalum Photo by Jacob Morrow Background information Born July 11, 1958 (age 59)Memphis, Tennessee, U. S. Genres Smooth jazz, Pop, R&B, Gospel Occupation (s) Musician, Songwriter Instruments Tenor saxophone, alto saxophone, soprano saxophone, flute Years active 1985 \u2014 present Labels Rendezvous,",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about musician Kirk Whalum, not related to debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Kirk Whalum \"Kirk Whalum Photo by Jacob Morrow Background information Born July 11, 1958 (age 59)Memphis, Tennessee, U. S. Genres Smooth jazz, Pop, R&B, Gospel Occupation (s) Musician, Songwriter Instruments Tenor saxophone, alto saxophone, soprano saxophone, flute Years active 1985 \u2014 present Labels Rendezvous,",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Kirk_Whalum",
+    "title": "Kirk Whalum",
+    "description": "\"Kirk Whalum Photo by Jacob Morrow Background information Born July 11, 1958 (age 59)Memphis, Tennessee, U. S. Genres Smooth jazz, Pop, R&B, Gospel Occupation (s) Musician, Songwriter Instruments Tenor saxophone, alto saxophone, soprano saxophone, flute Years active 1985 \u2014 present Labels Rendezvous,",
+    "frecency": 4024,
+    "url_hash": 60869925742727,
+    "last_visit_date": 1758203928888111
+  }
+}

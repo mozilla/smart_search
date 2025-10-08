@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Q: change the decimal point to a comma \\\"GO gogopoppykk asked on September 15, 2010Q: change the decimal point to a comma Hi there,I would like to format my numbers using a comma instead of a period for the decimal place. I don't think custom formats allow me to do this. I might be wrong and I don't want to just use Find and Replace as it",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses decimal point formatting, not IDEs or software development environments; it is not relevant to the query about top IDEs.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Q: change the decimal point to a comma \"GO gogopoppykk asked on September 15, 2010Q: change the decimal point to a comma Hi there,I would like to format my numbers using a comma instead of a period for the decimal place. I don't think custom formats allow me to do this. I might be wrong and I don't want to just use Find and Replace as it",
+  "history": {
+    "url": "https://answers.microsoft.com/en-us/office/forum/office_2007-excel/change-the-decimal-point-to-a-comma/5f7fa663-cded-4d9d-9c91-4d744daa91fa",
+    "title": "Q: change the decimal point to a comma",
+    "description": "\"GO gogopoppykk asked on September 15, 2010Q: change the decimal point to a comma Hi there,I would like to format my numbers using a comma instead of a period for the decimal place. I don't think custom formats allow me to do this. I might be wrong and I don't want to just use Find and Replace as it",
+    "frecency": 726,
+    "url_hash": 31776593246262,
+    "last_visit_date": 1758203931202111
+  }
+}

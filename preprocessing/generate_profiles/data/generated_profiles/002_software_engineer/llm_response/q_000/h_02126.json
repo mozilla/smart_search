@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Welcome to APS Parking And Shuttle Services Welcome You\u2019ve discovered APS Parking And Shuttle Services! The company dedicated to making your traveling life easier. About Us Welcome to APS Parking And Shuttle Services You\u2019ve discovered APS Parking And Shuttle Services! The company dedicated to making your traveling life easier. We\u2019ve developed",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page is about parking and shuttle services, unrelated to API integration or debugging.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Welcome to APS Parking And Shuttle Services Welcome You\u2019ve discovered APS Parking And Shuttle Services! The company dedicated to making your traveling life easier. About Us Welcome to APS Parking And Shuttle Services You\u2019ve discovered APS Parking And Shuttle Services! The company dedicated to making your traveling life easier. We\u2019ve developed",
+  "history": {
+    "url": "http://www.airportparkingservices.co.za/",
+    "title": "Welcome to APS Parking And Shuttle Services",
+    "description": "Welcome You\u2019ve discovered APS Parking And Shuttle Services! The company dedicated to making your traveling life easier. About Us Welcome to APS Parking And Shuttle Services You\u2019ve discovered APS Parking And Shuttle Services! The company dedicated to making your traveling life easier. We\u2019ve developed",
+    "frecency": 1160,
+    "url_hash": 96055085331526,
+    "last_visit_date": 1758203929960111
+  }
+}

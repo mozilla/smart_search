@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Welcome to Canada Drugs Welcome to Canada Drugs The Global Leader in Online Prescription Drug Savings Since we opened our doors in 2001, Canada Drugs has filled over 7 million discount prescription orders through our Canadian pharmacy and our international pharmacy partners. We\u2019re a company that is dedicated to providing y",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The page is about a Canadian online pharmacy and contains no information related to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Welcome to Canada Drugs Welcome to Canada Drugs The Global Leader in Online Prescription Drug Savings Since we opened our doors in 2001, Canada Drugs has filled over 7 million discount prescription orders through our Canadian pharmacy and our international pharmacy partners. We\u2019re a company that is dedicated to providing y",
+  "history": {
+    "url": "https://www.canadadrugs.com/",
+    "title": "Welcome to Canada Drugs",
+    "description": "Welcome to Canada Drugs The Global Leader in Online Prescription Drug Savings Since we opened our doors in 2001, Canada Drugs has filled over 7 million discount prescription orders through our Canadian pharmacy and our international pharmacy partners. We\u2019re a company that is dedicated to providing y",
+    "frecency": 3404,
+    "url_hash": 87450921483934,
+    "last_visit_date": 1758203930050111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "ABAP ALV-GRID Export to Excel: multiline text output in cells \\\"Home / Information / SAP @en ABAP ALV-GRID Export to Excel: multiline text output in cells This is an example of how to fill several lines of data with ALV GRID and the Export to Excel cells. We can first define our text components as text symbols, but you can also use normal string variables. Text",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses ABAP ALV-GRID and Excel export rather than Docker or beginner setup; no Docker-related content.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "ABAP ALV-GRID Export to Excel: multiline text output in cells \"Home / Information / SAP @en ABAP ALV-GRID Export to Excel: multiline text output in cells This is an example of how to fill several lines of data with ALV GRID and the Export to Excel cells. We can first define our text components as text symbols, but you can also use normal string variables. Text",
+  "history": {
+    "url": "http://www.pso.de/en/information/sap-info/abap-alv-grid-export-to-excel-multiline/",
+    "title": "ABAP ALV-GRID Export to Excel: multiline text output in cells",
+    "description": "\"Home / Information / SAP @en ABAP ALV-GRID Export to Excel: multiline text output in cells This is an example of how to fill several lines of data with ALV GRID and the Export to Excel cells. We can first define our text components as text symbols, but you can also use normal string variables. Text",
+    "frecency": 4583,
+    "url_hash": 79197080467128,
+    "last_visit_date": 1758203930104111
+  }
+}

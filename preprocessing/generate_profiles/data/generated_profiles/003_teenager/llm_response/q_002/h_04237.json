@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "The Color Purple  (film) \\\"From Wikipedia, the free encyclopedianavigation search For Broadway and touring stage musical, see The Color Purple (musical). The Color Purple Theatrical release poster by John Alvin Directed by Steven Spielberg Produced by Quincy Jones Kathleen Kennedy Frank Marshall Steven Spielberg Screenplay b",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result pertains to the film The Color Purple, not to DIY room decoration ideas; it is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "The Color Purple  (film) \"From Wikipedia, the free encyclopedianavigation search For Broadway and touring stage musical, see The Color Purple (musical). The Color Purple Theatrical release poster by John Alvin Directed by Steven Spielberg Produced by Quincy Jones Kathleen Kennedy Frank Marshall Steven Spielberg Screenplay b",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/The_Color_Purple_%28film%29",
+    "title": "The Color Purple  (film)",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search For Broadway and touring stage musical, see The Color Purple (musical). The Color Purple Theatrical release poster by John Alvin Directed by Steven Spielberg Produced by Quincy Jones Kathleen Kennedy Frank Marshall Steven Spielberg Screenplay b",
+    "frecency": 611,
+    "url_hash": 4914723586682,
+    "last_visit_date": 1758203929276735
+  }
+}

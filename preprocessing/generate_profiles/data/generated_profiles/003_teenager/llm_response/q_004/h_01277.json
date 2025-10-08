@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "mobile Internet device (MID) \"The mobile Internet device (MID) is a small Internet communications unit designed to provide entertainment, information and location-based services for the consumer market (rather than the enterprise ). The MID is a larger form factor than a handheld device but smaller than the Ultra Mobile PC ( UM",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes mobile Internet devices (MID) hardware, not sports improvement or athletic training; unrelated to query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "mobile Internet device (MID) \"The mobile Internet device (MID) is a small Internet communications unit designed to provide entertainment, information and location-based services for the consumer market (rather than the enterprise ). The MID is a larger form factor than a handheld device but smaller than the Ultra Mobile PC ( UM",
+  "history": {
+    "url": "http://searchmobilecomputing.techtarget.com/definition/mobile-Internet-device",
+    "title": "mobile Internet device (MID)",
+    "description": "\"The mobile Internet device (MID) is a small Internet communications unit designed to provide entertainment, information and location-based services for the consumer market (rather than the enterprise ). The MID is a larger form factor than a handheld device but smaller than the Ultra Mobile PC ( UM",
+    "frecency": 3697,
+    "url_hash": 44610806076812,
+    "last_visit_date": 1758203933185228
+  }
+}

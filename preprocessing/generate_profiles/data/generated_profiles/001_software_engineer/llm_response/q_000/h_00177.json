@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "What causes plaque psoriasis? Douglas E. Severance, MDFamily Medicine At this time, it is not known what causes plaque psoriasis. What experts do know is there's a link between the immune system, genetics and plaque psoriasis. The majority of researchers conclude that with plaque psoriasis, the immune system is triggered in erro",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses the causes of plaque psoriasis and is unrelated to debugging API integration, which is the search query topic.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "What causes plaque psoriasis? Douglas E. Severance, MDFamily Medicine At this time, it is not known what causes plaque psoriasis. What experts do know is there's a link between the immune system, genetics and plaque psoriasis. The majority of researchers conclude that with plaque psoriasis, the immune system is triggered in erro",
+  "history": {
+    "url": "https://www.sharecare.com/health/psoriasis-skin/what-causes-plaque-psoriasis",
+    "title": "What causes plaque psoriasis?",
+    "description": "Douglas E. Severance, MDFamily Medicine At this time, it is not known what causes plaque psoriasis. What experts do know is there's a link between the immune system, genetics and plaque psoriasis. The majority of researchers conclude that with plaque psoriasis, the immune system is triggered in erro",
+    "frecency": 4395,
+    "url_hash": 96690057547240,
+    "last_visit_date": 1758203928918200
+  }
+}

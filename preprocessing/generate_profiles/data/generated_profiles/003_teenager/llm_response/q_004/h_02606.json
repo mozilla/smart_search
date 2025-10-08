@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Getting Started Rock Climbing - An article about rock climbing as a sport, fitness benefits, and starting guidance (equipment and instruction).",
+  "relevance_score": 0.4,
+  "binary_decision": 0,
+  "Decision_Reason": "The page discusses rock climbing as a sport and general fitness, but does not provide broad strategies for improving performance across sports. It is only moderately relevant to the query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Getting Started Rock Climbing \"If you\u2019re looking for fitness, fun and a healthy dose of adrenaline, then rock climbing is a worthy pursuit. Though it attracts its share of daredevils, rock climbing is also enjoyed by legions of everyday adventurers. If you\u2019re reasonably fit and get yourself proper equipment and instruction, you,",
+  "history": {
+    "url": "https://www.rei.com/learn/expert-advice/getting-started-rock-climbing.html",
+    "title": "Getting Started Rock Climbing",
+    "description": "\"If you\u2019re looking for fitness, fun and a healthy dose of adrenaline, then rock climbing is a worthy pursuit. Though it attracts its share of daredevils, rock climbing is also enjoyed by legions of everyday adventurers. If you\u2019re reasonably fit and get yourself proper equipment and instruction, you,",
+    "frecency": 2322,
+    "url_hash": 98354637480469,
+    "last_visit_date": 1758203928040735
+  }
+}

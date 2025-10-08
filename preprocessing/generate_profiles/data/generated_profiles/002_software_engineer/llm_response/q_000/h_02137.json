@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "U.S. Passenger Carrier Delay Costs U. S. Passenger Carrier Delay Costs In 2016, the average cost of aircraft block (taxi plus airborne) time for U. S. passenger airlines was $62.55 per minute, 4.4 percent less than in 2015. Crew costs, the largest line item, rose 8.7 percent to $21.24 per minute. Fuel costs declined 18.5 percent to $",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses airline costs and does not address debugging APIs or API integration, so it is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "U.S. Passenger Carrier Delay Costs U. S. Passenger Carrier Delay Costs In 2016, the average cost of aircraft block (taxi plus airborne) time for U. S. passenger airlines was $62.55 per minute, 4.4 percent less than in 2015. Crew costs, the largest line item, rose 8.7 percent to $21.24 per minute. Fuel costs declined 18.5 percent to $",
+  "history": {
+    "url": "http://airlines.org/dataset/per-minute-cost-of-delays-to-u-s-airlines/",
+    "title": "U.S. Passenger Carrier Delay Costs",
+    "description": "U. S. Passenger Carrier Delay Costs In 2016, the average cost of aircraft block (taxi plus airborne) time for U. S. passenger airlines was $62.55 per minute, 4.4 percent less than in 2015. Crew costs, the largest line item, rose 8.7 percent to $21.24 per minute. Fuel costs declined 18.5 percent to $",
+    "frecency": 1135,
+    "url_hash": 54651479755889,
+    "last_visit_date": 1758203932322111
+  }
+}

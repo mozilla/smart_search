@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "ABOUT EDUCATION; HOW DO CHILDREN LEARN TO WRITE? Archives | 1982ABOUT EDUCATION; HOW DO CHILDREN LEARN TO WRITE? By FRED M. HECHINGERView page in Times Machine, Page 00001 The New York Times Archives MOST children who enter first grade think they already know how to write, and many of them actually do. But many teachers who do not believe this fai",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about education and children's writing, not about debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "ABOUT EDUCATION; HOW DO CHILDREN LEARN TO WRITE? Archives | 1982ABOUT EDUCATION; HOW DO CHILDREN LEARN TO WRITE? By FRED M. HECHINGERView page in Times Machine, Page 00001 The New York Times Archives MOST children who enter first grade think they already know how to write, and many of them actually do. But many teachers who do not believe this fai",
+  "history": {
+    "url": "http://www.nytimes.com/1982/11/30/science/about-education-how-do-children-learn-to-write.html",
+    "title": "ABOUT EDUCATION; HOW DO CHILDREN LEARN TO WRITE?",
+    "description": "Archives | 1982ABOUT EDUCATION; HOW DO CHILDREN LEARN TO WRITE? By FRED M. HECHINGERView page in Times Machine, Page 00001 The New York Times Archives MOST children who enter first grade think they already know how to write, and many of them actually do. But many teachers who do not believe this fai",
+    "frecency": 1599,
+    "url_hash": 64530498602305,
+    "last_visit_date": 1758203929852111
+  }
+}

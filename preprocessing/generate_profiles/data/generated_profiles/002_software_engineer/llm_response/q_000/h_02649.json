@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Lloyd Bridges \\\"From Wikipedia, the free encyclopedianavigation search Lloyd Bridges Lloyd Bridges in 1966Born Lloyd Vernet Bridges Jr. January 15, 1913 San Leandro, California, United States Died March 10, 1998 (aged 85) Los Angeles, California, United States Alma mater University of California, Los Angeles Occup",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a biographical snippet about actor Lloyd Bridges and contains no content related to debugging APIs or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Lloyd Bridges \"From Wikipedia, the free encyclopedianavigation search Lloyd Bridges Lloyd Bridges in 1966Born Lloyd Vernet Bridges Jr. January 15, 1913 San Leandro, California, United States Died March 10, 1998 (aged 85) Los Angeles, California, United States Alma mater University of California, Los Angeles Occup",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Lloyd_Bridges",
+    "title": "Lloyd Bridges",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search Lloyd Bridges Lloyd Bridges in 1966Born Lloyd Vernet Bridges Jr. January 15, 1913 San Leandro, California, United States Died March 10, 1998 (aged 85) Los Angeles, California, United States Alma mater University of California, Los Angeles Occup",
+    "frecency": 176,
+    "url_hash": 34720109686644,
+    "last_visit_date": 1758203930114111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "How do I get a Windows application to start automatically on login, and start minimized? \"Helping people with computers... one answer at a time. Ask Leo!\" \u00bb Windows \u00bb Windows Configuration Windows has a convenient mechanism to set programs to start automatically when you login. We'll look at that, as well as customizations like minimize.by Leo A. Notenboom, \u00a9 2010I downloaded and activat",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page discusses Windows startup automation, not debugging APIs or API integration; not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "How do I get a Windows application to start automatically on login, and start minimized? \"Helping people with computers... one answer at a time. Ask Leo! \u00bb Windows \u00bb Windows Configuration Windows has a convenient mechanism to set programs to start automatically when you login. We'll look at that, as well as customizations like minimize.by Leo A. Notenboom, \u00a9 2010I downloaded and activat",
+  "history": {
+    "url": "http://ask-leo.com/how_do_i_get_a_windows_application_to_start_automatically_on_login_and_start_minimized.html",
+    "title": "How do I get a Windows application to start automatically on login, and start minimized?",
+    "description": "\"Helping people with computers... one answer at a time. Ask Leo! \u00bb Windows \u00bb Windows Configuration Windows has a convenient mechanism to set programs to start automatically when you login. We'll look at that, as well as customizations like minimize.by Leo A. Notenboom, \u00a9 2010I downloaded and activat",
+    "frecency": 1752,
+    "url_hash": 86189467852053,
+    "last_visit_date": 1758203930152111
+  }
+}

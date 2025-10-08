@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "CB Richard Ellis Reviews Company Overview CB Richard Ellis is a global real estate service provider. They offer exclusive service for clients in seizing opportunities, speeding up the entire process of business and even create a thorough and near-accurate trend related to commercial real estate service condition across the",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses a real estate services firm and is not related to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "CB Richard Ellis Reviews Company Overview CB Richard Ellis is a global real estate service provider. They offer exclusive service for clients in seizing opportunities, speeding up the entire process of business and even create a thorough and near-accurate trend related to commercial real estate service condition across the",
+  "history": {
+    "url": "http://www.corporateoffice.com/CB-Richard-Ellis.html",
+    "title": "CB Richard Ellis Reviews",
+    "description": "Company Overview CB Richard Ellis is a global real estate service provider. They offer exclusive service for clients in seizing opportunities, speeding up the entire process of business and even create a thorough and near-accurate trend related to commercial real estate service condition across the ",
+    "frecency": 3384,
+    "url_hash": 22674792129389,
+    "last_visit_date": 1758203928556111
+  }
+}

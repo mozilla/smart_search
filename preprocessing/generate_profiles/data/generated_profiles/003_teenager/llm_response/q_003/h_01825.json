@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Indiana Jones 5: Steven Spielberg and Harrison Ford announce new movie Lucasfilm just got the boulder rolling again \u2026Steven Spielberg and Harrison Ford will be reteaming for another Indiana Jones movie, set for release in summer of 2019. Here\u2019s the announcement: Indiana Jones will return to the big screen on July 19, 2019, for a fifth epic adventure in the blockbuster",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses a movie (Indiana Jones) and is unrelated to apps or study habit improvement.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Indiana Jones 5: Steven Spielberg and Harrison Ford announce new movie Lucasfilm just got the boulder rolling again \u2026Steven Spielberg and Harrison Ford will be reteaming for another Indiana Jones movie, set for release in summer of 2019. Here\u2019s the announcement: Indiana Jones will return to the big screen on July 19, 2019, for a fifth epic adventure in the blockbuster",
+  "history": {
+    "url": "http://ew.com/article/2016/03/15/steven-spielberg-and-harrison-ford-announce-new-indiana-jones-movie/",
+    "title": "Indiana Jones 5: Steven Spielberg and Harrison Ford announce new movie",
+    "description": "Lucasfilm just got the boulder rolling again \u2026Steven Spielberg and Harrison Ford will be reteaming for another Indiana Jones movie, set for release in summer of 2019. Here\u2019s the announcement: Indiana Jones will return to the big screen on July 19, 2019, for a fifth epic adventure in the blockbuster ",
+    "frecency": 3142,
+    "url_hash": 59234273636323,
+    "last_visit_date": 1758203927248735
+  }
+}

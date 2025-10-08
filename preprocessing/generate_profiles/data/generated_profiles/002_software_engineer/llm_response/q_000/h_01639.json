@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "World Football: Top 50 All-Time Goal Scorers \\\"FC Barcelona World Football: Top 50 All-Time Goal Scorers Manuel Traquete November 16, 2010As a Featured Columnist, I was asked by Bleacher Report to compile a list with the 50 best goalscorers of all-time. To be honest, I'm not exactly the biggest fan of top-50s of this nature, by two reasons: on",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page is about football goal scorers and unrelated to debugging APIs or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "World Football: Top 50 All-Time Goal Scorers \"FC Barcelona World Football: Top 50 All-Time Goal Scorers Manuel Traquete November 16, 2010As a Featured Columnist, I was asked by Bleacher Report to compile a list with the 50 best goalscorers of all-time. To be honest, I'm not exactly the biggest fan of top-50s of this nature, by two reasons: on",
+  "history": {
+    "url": "http://bleacherreport.com/articles/516726-world-football-top-50-all-time-goalscorers",
+    "title": "World Football: Top 50 All-Time Goal Scorers",
+    "description": "\"FC Barcelona World Football: Top 50 All-Time Goal Scorers Manuel Traquete November 16, 2010As a Featured Columnist, I was asked by Bleacher Report to compile a list with the 50 best goalscorers of all-time. To be honest, I'm not exactly the biggest fan of top-50s of this nature, by two reasons: on ",
+    "frecency": 2025,
+    "url_hash": 61734073389827,
+    "last_visit_date": 1758203930390111
+  }
+}

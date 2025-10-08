@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Bad Rabbits \"From Wikipedia, the free encyclopedianavigation search This article is about the band. For ransomware, see Bad Rabbit. This article relies too much on references to primary sources. Please improve this by adding secondary or tertiary sources. (November 2011) ( Learn how and when to remove this temp",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses a band/encyclopedia maintenance note, not Docker or beginner setup guidance.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Bad Rabbits \"From Wikipedia, the free encyclopedianavigation search This article is about the band. For ransomware, see Bad Rabbit. This article relies too much on references to primary sources. Please improve this by adding secondary or tertiary sources. (November 2011) ( Learn how and when to remove this temp",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Bad_Rabbits",
+    "title": "Bad Rabbits",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search This article is about the band. For ransomware, see Bad Rabbit. This article relies too much on references to primary sources. Please improve this by adding secondary or tertiary sources. (November 2011) ( Learn how and when to remove this temp",
+    "frecency": 3330,
+    "url_hash": 87928804968312,
+    "last_visit_date": 1758203928668111
+  }
+}

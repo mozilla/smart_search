@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "What Is It? In The News29 Oct 2015 | See how Virginia DOT used Aquaphalt to fix potholes on Route 29 after a rainstorm. What Is It? Quick road repairs used to require large crews, heavy equipment, perfect weather, and a hefty invoice to boot. Kind of like fishing with dynamite. Revolutionary Aquaphalt offers a",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about road repair materials and infrastructure, not guidance on improving athletic performance or sports skills.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "What Is It? In The News29 Oct 2015 | See how Virginia DOT used Aquaphalt to fix potholes on Route 29 after a rainstorm. What Is It? Quick road repairs used to require large crews, heavy equipment, perfect weather, and a hefty invoice to boot. Kind of like fishing with dynamite. Revolutionary Aquaphalt offers a",
+  "history": {
+    "url": "http://aquaphalt.com/what_is_aquaphalt.php",
+    "title": "What Is It?",
+    "description": "In The News29 Oct 2015 | See how Virginia DOT used Aquaphalt to fix potholes on Route 29 after a rainstorm. What Is It? Quick road repairs used to require large crews, heavy equipment, perfect weather, and a hefty invoice to boot. Kind of like fishing with dynamite. Revolutionary Aquaphalt offers a ",
+    "frecency": 806,
+    "url_hash": 34844963763607,
+    "last_visit_date": 1758203933051228
+  }
+}

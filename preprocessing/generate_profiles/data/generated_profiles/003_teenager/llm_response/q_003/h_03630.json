@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Sign In Sign In Email Password Forgot your email or password? Sign In Remember me Login with Facebook New to Netflix? Sign up now.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a Netflix login page and is unrelated to studying apps or improving study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Sign In Sign In Email Password Forgot your email or password? Sign In Remember me Login with Facebook New to Netflix? Sign up now.",
+  "history": {
+    "url": "https://www.netflix.com/browse",
+    "title": "Sign In",
+    "description": "Sign In Email Password Forgot your email or password? Sign In Remember me Login with Facebook New to Netflix? Sign up now. ",
+    "frecency": 1217,
+    "url_hash": 73132235280119,
+    "last_visit_date": 1758203930301228
+  }
+}

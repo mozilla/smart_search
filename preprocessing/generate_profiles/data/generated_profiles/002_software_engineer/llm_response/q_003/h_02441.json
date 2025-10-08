@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Stay connected On-The-Go Ready to discuss your Business Plan? We are here to help you achieve those goals - Give us a call so we can get started!Check out Business Loan Options Stay connected On-The-Go Download our mobile app today!Download App",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result content is unrelated to database query optimization; it discusses business loans and a mobile app, not database queries.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Stay connected On-The-Go Ready to discuss your Business Plan? We are here to help you achieve those goals - Give us a call so we can get started!Check out Business Loan Options Stay connected On-The-Go Download our mobile app today!Download App",
+  "history": {
+    "url": "https://www.bnkwest.com/",
+    "title": "Stay connected On-The-Go",
+    "description": "Ready to discuss your Business Plan? We are here to help you achieve those goals - Give us a call so we can get started!Check out Business Loan Options Stay connected On-The-Go Download our mobile app today!Download App ",
+    "frecency": 595,
+    "url_hash": 44787280513538,
+    "last_visit_date": 1758203928346111
+  }
+}

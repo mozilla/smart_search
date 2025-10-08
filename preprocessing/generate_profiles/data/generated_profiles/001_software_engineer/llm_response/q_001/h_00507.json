@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Physicians Regional Medical Center - Pine Ridge Skip to Search Form Skip to Navigation Skip to Page Content Yelp Find Near Cancel Search Sign Up Log In Login Sign Up About Me Talk Oops, we can't find your location First, try refreshing the page and clicking Current Location again. Make sure you click Allow or Grant Permissions if your browser ask",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a Yelp page about a medical center, not related to Python libraries or machine learning; content is unrelated to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Physicians Regional Medical Center - Pine Ridge Skip to Search Form Skip to Navigation Skip to Page Content Yelp Find Near Cancel Search Sign Up Log In Login Sign Up About Me Talk Oops, we can't find your location First, try refreshing the page and clicking Current Location again. Make sure you click Allow or Grant Permissions if your browser ask",
+  "history": {
+    "url": "https://www.yelp.com/biz/physicians-regional-medical-center-pine-ridge-naples",
+    "title": "Physicians Regional Medical Center - Pine Ridge",
+    "description": "Skip to Search Form Skip to Navigation Skip to Page Content Yelp Find Near Cancel Search Sign Up Log In Login Sign Up About Me Talk Oops, we can't find your location First, try refreshing the page and clicking Current Location again. Make sure you click Allow or Grant Permissions if your browser ask",
+    "frecency": 3242,
+    "url_hash": 431028623190,
+    "last_visit_date": 1758203928984200
+  }
+}

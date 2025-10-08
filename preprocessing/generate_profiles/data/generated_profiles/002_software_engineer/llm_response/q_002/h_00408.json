@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Vitamin D Ineffective for Preventing Osteoporosis Body Vitamin D Ineffective for Preventing Osteoporosis By Nicholas Bakalar October 17, 2013 4:08 pm In a large review of studies, researchers have found almost no evidence that taking vitamin D supplements has any effect in preventing osteoporosis in middle-aged adults. The analysis, published onlin",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns Vitamin D and osteoporosis, not integrated development environments (IDEs) or software development, so it is not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Vitamin D Ineffective for Preventing Osteoporosis Body Vitamin D Ineffective for Preventing Osteoporosis By Nicholas Bakalar October 17, 2013 4:08 pm In a large review of studies, researchers have found almost no evidence that taking vitamin D supplements has any effect in preventing osteoporosis in middle-aged adults. The analysis, published onlin",
+  "history": {
+    "url": "https://well.blogs.nytimes.com/2013/10/17/vitamin-d-ineffective-for-preventing-osteoporosis/",
+    "title": "Vitamin D Ineffective for Preventing Osteoporosis",
+    "description": "Body Vitamin D Ineffective for Preventing Osteoporosis By Nicholas Bakalar October 17, 2013 4:08 pm In a large review of studies, researchers have found almost no evidence that taking vitamin D supplements has any effect in preventing osteoporosis in middle-aged adults. The analysis, published onlin",
+    "frecency": 4304,
+    "url_hash": 42858505645013,
+    "last_visit_date": 1758203931848111
+  }
+}

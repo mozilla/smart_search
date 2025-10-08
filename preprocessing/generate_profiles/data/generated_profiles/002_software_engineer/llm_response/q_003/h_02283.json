@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "What Is CPE Accounting? What Is CPE Accounting? CPE accounting is continued professional education for accountants. Accounting is a highly specialized field. Since tax laws and regulations can change rapidly, accountants participate in continuing education programs to keep abreast of developments in laws and accounting pra",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about CPE accounting and professional education for accountants, not about database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "What Is CPE Accounting? What Is CPE Accounting? CPE accounting is continued professional education for accountants. Accounting is a highly specialized field. Since tax laws and regulations can change rapidly, accountants participate in continuing education programs to keep abreast of developments in laws and accounting pra",
+  "history": {
+    "url": "http://learn.org/articles/What_is_CPE_Accounting.html",
+    "title": "What Is CPE Accounting?",
+    "description": "What Is CPE Accounting? CPE accounting is continued professional education for accountants. Accounting is a highly specialized field. Since tax laws and regulations can change rapidly, accountants participate in continuing education programs to keep abreast of developments in laws and accounting pra",
+    "frecency": 879,
+    "url_hash": 86662051473927,
+    "last_visit_date": 1758203928156111
+  }
+}

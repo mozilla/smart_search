@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Mrs. Fields Cookies \"Browse the latest corporate news from Mrs. Fields Cookies . Mrs. Fields Introduces Chocolate-Dipped Strawberries Mrs. Fields, the worldwide brand known for warm, delectable, freshly baked cookies right out of the oven, has entered a new category of sweet treats - Chocolate-Dipped Strawberries. Jan",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns corporate news about a cookie brand, not about database query optimization; content is unrelated to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Mrs. Fields Cookies \"Browse the latest corporate news from Mrs. Fields Cookies . Mrs. Fields Introduces Chocolate-Dipped Strawberries Mrs. Fields, the worldwide brand known for warm, delectable, freshly baked cookies right out of the oven, has entered a new category of sweet treats - Chocolate-Dipped Strawberries. Jan",
+  "history": {
+    "url": "https://www.franchising.com/mrsfields/news/",
+    "title": "Mrs. Fields Cookies",
+    "description": "\"Browse the latest corporate news from Mrs. Fields Cookies . Mrs. Fields Introduces Chocolate-Dipped Strawberries Mrs. Fields, the worldwide brand known for warm, delectable, freshly baked cookies right out of the oven, has entered a new category of sweet treats - Chocolate-Dipped Strawberries. Jan ",
+    "frecency": 1400,
+    "url_hash": 58092461539127,
+    "last_visit_date": 1758203927568200
+  }
+}

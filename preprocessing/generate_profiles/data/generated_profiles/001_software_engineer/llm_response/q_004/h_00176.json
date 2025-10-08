@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Ralph\u00e2s Place \"Recommended Reviews for Ralph's Place Your trust is our top concern, so businesses can't pay to alter or remove their reviews. Learn more.\u00d7Sort by Yelp Sort Language English (21)Start your review of Ralph's Place . Linda C. Lake Worth, FL0 friends5 reviews3 photos Share review Embed review Complime",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a Yelp business page about a restaurant, with reviews and no content related to Docker, setup, or beginner guidance. Therefore, it is not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Ralph\u00e2s Place \"Recommended Reviews for Ralph's Place Your trust is our top concern, so businesses can't pay to alter or remove their reviews. Learn more.\u00d7Sort by Yelp Sort Language English (21)Start your review of Ralph's Place . Linda C. Lake Worth, FL0 friends5 reviews3 photos Share review Embed review Complime",
+  "history": {
+    "url": "https://www.yelp.com.au/biz/ralphs-place-palm-beach-gardens",
+    "title": "Ralph\u00e2s Place",
+    "description": "\"Recommended Reviews for Ralph's Place Your trust is our top concern, so businesses can't pay to alter or remove their reviews. Learn more.\u00d7Sort by Yelp Sort Language English (21)Start your review of Ralph's Place . Linda C. Lake Worth, FL0 friends5 reviews3 photos Share review Embed review Complime",
+    "frecency": 4396,
+    "url_hash": 97760081719782,
+    "last_visit_date": 1758203929332200
+  }
+}

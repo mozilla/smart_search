@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Food and Nutrition Information Center Home \u00bb Information Center \u00bb Food and Nutrition Information Center \u00bb Food and Nutrition Information Center Food and Nutrition Information Center Updated DRI Calculator for Health Professionals This tool will calculate daily nutrient recommendations based on the Dietary Reference Intakes.1 / 5Pause Po",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns a nutrition information center and a dietary reference intakes calculator, which is unrelated to debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Food and Nutrition Information Center Home \u00bb Information Center \u00bb Food and Nutrition Information Center \u00bb Food and Nutrition Information Center Food and Nutrition Information Center Updated DRI Calculator for Health Professionals This tool will calculate daily nutrient recommendations based on the Dietary Reference Intakes.1 / 5Pause Po",
+  "history": {
+    "url": "https://fnic.nal.usda.gov/",
+    "title": "Food and Nutrition Information Center",
+    "description": "Home \u00bb Information Center \u00bb Food and Nutrition Information Center \u00bb Food and Nutrition Information Center Food and Nutrition Information Center Updated DRI Calculator for Health Professionals This tool will calculate daily nutrient recommendations based on the Dietary Reference Intakes.1 / 5Pause Po",
+    "frecency": 697,
+    "url_hash": 96812383143779,
+    "last_visit_date": 1758203928392200
+  }
+}

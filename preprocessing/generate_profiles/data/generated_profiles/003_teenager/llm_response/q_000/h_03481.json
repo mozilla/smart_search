@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Eat more eggs for healthy weight loss Eat more eggs for healthy weight loss An egg diet is not a diet consisting of only eggs, however, it does involve eating a larger part of your protein allowance in the form of eggs. The egg diet has its origins in the induction phase of the Atkins Diet, as eggs are one of the healthiest ways to cons",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses an egg diet and weight loss, not information about starting a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Eat more eggs for healthy weight loss Eat more eggs for healthy weight loss An egg diet is not a diet consisting of only eggs, however, it does involve eating a larger part of your protein allowance in the form of eggs. The egg diet has its origins in the induction phase of the Atkins Diet, as eggs are one of the healthiest ways to cons",
+  "history": {
+    "url": "http://www.motleyhealth.com/diet-and-nutrition/the-egg-diet",
+    "title": "Eat more eggs for healthy weight loss",
+    "description": "Eat more eggs for healthy weight loss An egg diet is not a diet consisting of only eggs, however, it does involve eating a larger part of your protein allowance in the form of eggs. The egg diet has its origins in the induction phase of the Atkins Diet, as eggs are one of the healthiest ways to cons",
+    "frecency": 1361,
+    "url_hash": 50575556931420,
+    "last_visit_date": 1758203931003228
+  }
+}

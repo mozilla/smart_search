@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Grand Theft Auto \"From Wikipedia, the free encyclopedia navigation search For the crime, see Motor vehicle theft. For the first game in the series, see Grand Theft Auto (video game). For other uses, see Grand theft auto (disambiguation). Grand Theft Auto Series logo, used since Grand Theft Auto III (2001). Genres Act",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns the Grand Theft Auto video game series, not DIY room decoration ideas; it is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Grand Theft Auto \"From Wikipedia, the free encyclopedianavigation search For the crime, see Motor vehicle theft. For the first game in the series, see Grand Theft Auto (video game). For other uses, see Grand theft auto (disambiguation). Grand Theft Auto Series logo, used since Grand Theft Auto III (2001). Genres Act",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto",
+    "title": "Grand Theft Auto",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search For the crime, see Motor vehicle theft. For the first game in the series, see Grand Theft Auto (video game). For other uses, see Grand theft auto (disambiguation). Grand Theft Auto Series logo, used since Grand Theft Auto III (2001). Genres Act",
+    "frecency": 2832,
+    "url_hash": 18705484050264,
+    "last_visit_date": 1758203934227228
+  }
+}

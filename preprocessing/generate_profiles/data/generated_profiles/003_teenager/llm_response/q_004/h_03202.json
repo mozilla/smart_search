@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Culture media Home Dictionary Forum About us Contact usonline dictionary Search Advertisement",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result appears to be generic site navigation for a dictionary or related site, not content about improving performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Culture media Home Dictionary Forum About us Contact usonline dictionary Search Advertisement",
+  "history": {
+    "url": "http://www.biology-online.org/dictionary/Culture_media",
+    "title": "Culture media",
+    "description": "Home Dictionary Forum About us Contact usonline dictionary Search Advertisement ",
+    "frecency": 1646,
+    "url_hash": 49629512326289,
+    "last_visit_date": 1758203935769228
+  }
+}

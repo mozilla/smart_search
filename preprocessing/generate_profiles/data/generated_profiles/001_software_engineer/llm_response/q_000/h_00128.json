@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "How to time-align speaker drivers \"Time alignment basics How to time-align speaker drivers In this application note, we show you how to \\\"time align\\\" the drivers in your active DSP loudspeaker using the delay function of the mini DSP platforms. Why time-align? In a multi-way loudspeaker, the sound from different drivers will take s",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses time alignment of speaker drivers and DSP, not debugging API integrations; it does not address API integration debugging.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "How to time-align speaker drivers \"Time alignment basics How to time-align speaker drivers In this application note, we show you how to \"\"time align\"\" the drivers in your active DSP loudspeaker using the delay function of the mini DSP platforms. Why time-align? In a multi-way loudspeaker, the sound from different drivers will take s",
+  "history": {
+    "url": "https://www.minidsp.com/applications/dsp-basics/time-alignment",
+    "title": "How to time-align speaker drivers",
+    "description": "\"Time alignment basics How to time-align speaker drivers In this application note, we show you how to \"\"time align\"\" the drivers in your active DSP loudspeaker using the delay function of the mini DSP platforms. Why time-align? In a multi-way loudspeaker, the sound from different drivers will take s",
+    "frecency": 4550,
+    "url_hash": 78338255267400,
+    "last_visit_date": 1758203928916200
+  }
+}

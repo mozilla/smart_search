@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Bluestocking \"From Wikipedia, the free encyclopedianavigation search For other uses, see Bluestocking (disambiguation). Caricature of blue stockings by Rowlandson A bluestocking is an educated, intellectual woman, more specifically a member of the 18th-century Blue Stockings Society led by the hostess and critic",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Bluestocking, not Docker or setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Bluestocking \"From Wikipedia, the free encyclopedianavigation search For other uses, see Bluestocking (disambiguation). Caricature of blue stockings by Rowlandson A bluestocking is an educated, intellectual woman, more specifically a member of the 18th-century Blue Stockings Society led by the hostess and critic",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Bluestocking",
+    "title": "Bluestocking",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search For other uses, see Bluestocking (disambiguation). Caricature of blue stockings by Rowlandson A bluestocking is an educated, intellectual woman, more specifically a member of the 18th-century Blue Stockings Society led by the hostess and critic",
+    "frecency": 1824,
+    "url_hash": 78117434836660,
+    "last_visit_date": 1758203932072111
+  }
+}

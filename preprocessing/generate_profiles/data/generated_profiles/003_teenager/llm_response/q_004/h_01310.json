@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Accolade definition - dictionary entry about praise and honor; not related to sports.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses the definition of 'accolade' rather than strategies or guidance for improving performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Accolade definition \"Accolade definition March 2, 2018 AZ Dictionary Link to this pagenoun:a manifestation of approval; compliments. View Moreverb-transitive: To praise or honor: \"\"His works are invariably accoladed as definitive even as they sparkle and spark\u201d ( Malcolm S. Forbes).verb: To accept or kiss in salutation",
+  "history": {
+    "url": "https://www.azdictionary.com/definition/Accolade",
+    "title": "Accolade definition",
+    "description": "\"Accolade definition March 2, 2018 AZ Dictionary Link to this pagenoun:a manifestation of approval; compliments. View Moreverb-transitive: To praise or honor: \"\"His works are invariably accoladed as definitive even as they sparkle and spark\u201d ( Malcolm S. Forbes).verb: To accept or kiss in salutation",
+    "frecency": 3662,
+    "url_hash": 90820901916562,
+    "last_visit_date": 1758203936075228
+  }
+}

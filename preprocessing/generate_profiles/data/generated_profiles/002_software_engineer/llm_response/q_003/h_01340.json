@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Distracted Driving Distracted Driving United States Canada Alabama Texting while driving is prohibited. Drivers aged 16 and drivers age 17 with intermediate licenses for less than 6 months are prohibited from using a handheld communication device while driving. Handheld cell phone use is prohibited in Montgomery. Alas",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses distracted driving laws, not database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Distracted Driving Distracted Driving United States Canada Alabama Texting while driving is prohibited. Drivers aged 16 and drivers age 17 with intermediate licenses for less than 6 months are prohibited from using a handheld communication device while driving. Handheld cell phone use is prohibited in Montgomery. Alas",
+  "history": {
+    "url": "http://drivinglaws.aaa.com/tag/distracted-driving/",
+    "title": "Distracted Driving",
+    "description": "Distracted Driving United States Canada Alabama Texting while driving is prohibited. Drivers aged 16 and drivers age 17 with intermediate licenses for less than 6 months are prohibited from using a handheld communication device while driving. Handheld cell phone use is prohibited in Montgomery. Alas",
+    "frecency": 2580,
+    "url_hash": 43496545941784,
+    "last_visit_date": 1758203927530111
+  }
+}

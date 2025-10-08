@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "ARIN Lookup ARIN Lookup IP Address ABOUT ARIN LOOKUPThis test will query the American Registry for Internet Numbers (ARIN) database and tell you who an IP address is registered to. Generally speaking, you will input an IP address and find out what ISP or hosting provider uses that block for its customers. Very",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes ARIN IP address lookup and does not pertain to IDEs or software development environments, so it is not relevant to the query about top IDEs.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "ARIN Lookup ARIN Lookup IP Address ABOUT ARIN LOOKUPThis test will query the American Registry for Internet Numbers (ARIN) database and tell you who an IP address is registered to. Generally speaking, you will input an IP address and find out what ISP or hosting provider uses that block for its customers. Very",
+  "history": {
+    "url": "http://mxtoolbox.com/arin.aspx",
+    "title": "ARIN Lookup",
+    "description": "ARIN Lookup IP Address ABOUT ARIN LOOKUPThis test will query the American Registry for Internet Numbers (ARIN) database and tell you who an IP address is registered to. Generally speaking, you will input an IP address and find out what ISP or hosting provider uses that block for its customers. Very ",
+    "frecency": 160,
+    "url_hash": 15494552281119,
+    "last_visit_date": 1758203930908111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Agape Primary Care Physician Directory Hospital Directory Pharmacy Directory Insurance Directory Agape Primary Care15 Insurance Carriers3 Practicing Physicians1 Specialty1400 Main St Conway, SC 295261 Office Location Overview & Locations Physicians at this Practice Insurance Affiliations Get Directions About Agape Pri",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a medical directory listing for an Agape Primary Care practice and is unrelated to software development or IDEs.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Agape Primary Care Physician Directory Hospital Directory Pharmacy Directory Insurance Directory Agape Primary Care15 Insurance Carriers3 Practicing Physicians1 Specialty1400 Main St Conway, SC 295261 Office Location Overview & Locations Physicians at this Practice Insurance Affiliations Get Directions About Agape Pri",
+  "history": {
+    "url": "https://doctor.webmd.com/practice/agape-primary-care-7a4f03c6-5f33-e211-a42c-001f29e3eb44-overview",
+    "title": "Agape Primary Care",
+    "description": "Physician Directory Hospital Directory Pharmacy Directory Insurance Directory Agape Primary Care15 Insurance Carriers3 Practicing Physicians1 Specialty1400 Main St Conway, SC 295261 Office Location Overview & Locations Physicians at this Practice Insurance Affiliations Get Directions About Agape Pri",
+    "frecency": 1407,
+    "url_hash": 81605855060551,
+    "last_visit_date": 1758203928960111
+  }
+}

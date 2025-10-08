@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Orlando Bloom Movie List Orlando Bloom Movie List20 Aug, 2010 list 1Orlando Bloom is a English actor who joined the National Youth Theatre in London when he was 16. He spent two years here as well as performing some small roles in British television. He then joined the Guildhall School of Music and Drama where it was feared",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns Orlando Bloom's biography and filmography, not easy DIY room decoration ideas; it is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Orlando Bloom Movie List Orlando Bloom Movie List20 Aug, 2010 list 1Orlando Bloom is a English actor who joined the National Youth Theatre in London when he was 16. He spent two years here as well as performing some small roles in British television. He then joined the Guildhall School of Music and Drama where it was feared",
+  "history": {
+    "url": "http://wanttoknowit.com/orlando-bloom-movie-list/",
+    "title": "Orlando Bloom Movie List",
+    "description": "Orlando Bloom Movie List20 Aug, 2010 list 1Orlando Bloom is a English actor who joined the National Youth Theatre in London when he was 16. He spent two years here as well as performing some small roles in British television. He then joined the Guildhall School of Music and Drama where it was feared",
+    "frecency": 4675,
+    "url_hash": 62415618336413,
+    "last_visit_date": 1758203932239228
+  }
+}

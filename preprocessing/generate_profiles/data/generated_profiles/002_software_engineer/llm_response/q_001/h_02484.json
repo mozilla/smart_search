@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Drinking Water Standards: Federal drinking water standards are in force for public water systems. Private water supplies are not subject to these standards. Public Water Systems: The term 'public water system' means a system for the provision to the public of water for human consumption through pip",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses drinking water standards, unrelated to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Drinking Water Standards \"Drinking Water Standards Federal drinking water standards are in force for public water systems. Private water supplies are not subject to these standards. Public Water Systems The term \"\"public water system'' means a system for the provision to the public of water for human consumption through pip",
+  "history": {
+    "url": "http://extoxnet.orst.edu/faqs/safedrink/stan.htm",
+    "title": "Drinking Water Standards",
+    "description": "\"Drinking Water Standards Federal drinking water standards are in force for public water systems. Private water supplies are not subject to these standards. Public Water Systems The term \"\"public water system'' means a system for the provision to the public of water for human consumption through pip",
+    "frecency": 512,
+    "url_hash": 63296676447645,
+    "last_visit_date": 1758203930378111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "What is a qfx file and how do I open a qfx file? What is a qfx file and how do I open a qfx file? The content of a Quicken Financial Exchange File is stored in the QFX format and is appended with the QFX extension, and is used by the Quicken software. These QFX files are generally classified as proprietary data files that contain account balances,",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses QFX files (Quicken) and is unrelated to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "What is a qfx file and how do I open a qfx file? What is a qfx file and how do I open a qfx file? The content of a Quicken Financial Exchange File is stored in the QFX format and is appended with the QFX extension, and is used by the Quicken software. These QFX files are generally classified as proprietary data files that contain account balances,",
+  "history": {
+    "url": "http://www.openthefile.net/extension/qfx",
+    "title": "What is a qfx file and how do I open a qfx file?",
+    "description": "What is a qfx file and how do I open a qfx file? The content of a Quicken Financial Exchange File is stored in the QFX format and is appended with the QFX extension, and is used by the Quicken software. These QFX files are generally classified as proprietary data files that contain account balances,",
+    "frecency": 991,
+    "url_hash": 78525269358152,
+    "last_visit_date": 1758203931186111
+  }
+}

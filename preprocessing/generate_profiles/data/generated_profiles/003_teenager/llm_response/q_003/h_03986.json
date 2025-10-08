@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Comedians in Cars Getting Coffee Comedians in Cars Getting Coffee On Netflix",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a TV show (Comedians in Cars Getting Coffee) on Netflix and has no apparent relation to apps for improving study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Comedians in Cars Getting Coffee Comedians in Cars Getting Coffee On Netflix",
+  "history": {
+    "url": "http://comediansincarsgettingcoffee.com/",
+    "title": "Comedians in Cars Getting Coffee",
+    "description": "Comedians in Cars Getting Coffee On Netflix ",
+    "frecency": 862,
+    "url_hash": 87148215313060,
+    "last_visit_date": 1758203928600735
+  }
+}

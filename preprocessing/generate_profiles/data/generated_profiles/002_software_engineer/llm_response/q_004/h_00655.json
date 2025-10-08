@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "How Much Do Fighter Pilots Make? Related Articles1Fighter Pilot's Pay Salary2How Much Do Pilots in the Air Force Make a Year?3Path to Becoming a Fighter Pilot4Salaries of Military Pilot Officers In 1953, the Air Force created its pilot demonstration group, the Thunderbirds, just six years after the Department of Defense created the",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses fighter pilots' salaries and military aviation, not Docker or beginner setup. It is unrelated to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "How Much Do Fighter Pilots Make? Related Articles1Fighter Pilot's Pay Salary2How Much Do Pilots in the Air Force Make a Year?3Path to Becoming a Fighter Pilot4Salaries of Military Pilot Officers In 1953, the Air Force created its pilot demonstration group, the Thunderbirds, just six years after the Department of Defense created the",
+  "history": {
+    "url": "http://work.chron.com/much-fighter-pilots-make-2685.html",
+    "title": "How Much Do Fighter Pilots Make?",
+    "description": "Related Articles1Fighter Pilot's Pay Salary2How Much Do Pilots in the Air Force Make a Year?3Path to Becoming a Fighter Pilot4Salaries of Military Pilot Officers In 1953, the Air Force created its pilot demonstration group, the Thunderbirds, just six years after the Department of Defense created the",
+    "frecency": 3841,
+    "url_hash": 27953071912609,
+    "last_visit_date": 1758203930202111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "The Founding Fathers Were (Mostly) Entrepreneurs - We all know about Thomas Jefferson and Benjamin Franklin, true entrepreneurs before the word was even in use. But what about the other Founding Fathers? Curious about the paths the signatories followed, I found an 1829 book, Lives of the Signers to the Declaration of Independence by Rev. Charles A.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses historical entrepreneurship of founding fathers, not API debugging or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "The Founding Fathers Were (Mostly) Entrepreneurs \"We all know about Thomas Jefferson and Benjamin Franklin, true entrepreneurs before the word was even in use. But what about the other Founding Fathers? Curious about the paths the signatories followed, I found an 1829 book, Lives of the Signers to the Declaration of Independence by Rev. Charles A.",
+  "history": {
+    "url": "https://www.inc.com/bill-murphy-jr/before-they-founded-the-country-the-founding-fathers-were-mostly-entrepreneurs.html",
+    "title": "The Founding Fathers Were (Mostly) Entrepreneurs",
+    "description": "\"We all know about Thomas Jefferson and Benjamin Franklin, true entrepreneurs before the word was even in use. But what about the other Founding Fathers? Curious about the paths the signatories followed, I found an 1829 book, Lives of the Signers to the Declaration of Independence by Rev. Charles A.",
+    "frecency": 550,
+    "url_hash": 62518346962761,
+    "last_visit_date": 1758203928412111
+  }
+}

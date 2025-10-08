@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Police Academy  (film) \"Police Academy (film)From Wikipedia, the free encyclopedianavigation search Police Academy Theatrical release poster by Drew Struzan Directed by Hugh Wilson Produced by Paul Maslansky Screenplay by Neal Israel Pat Proft Hugh Wilson Story by Neal Israel Pat Proft Starring Steve Guttenberg Kim Cattra",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a film (Police Academy) and contains no information related to improving performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Police Academy  (film) \"Police Academy (film)From Wikipedia, the free encyclopedianavigation search Police Academy Theatrical release poster by Drew Struzan Directed by Hugh Wilson Produced by Paul Maslansky Screenplay by Neal Israel Pat Proft Hugh Wilson Story by Neal Israel Pat Proft Starring Steve Guttenberg Kim Cattra",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Police_Academy_(film)",
+    "title": "Police Academy  (film)",
+    "description": "\"Police Academy (film)From Wikipedia, the free encyclopedianavigation search Police Academy Theatrical release poster by Drew Struzan Directed by Hugh Wilson Produced by Paul Maslansky Screenplay by Neal Israel Pat Proft Hugh Wilson Story by Neal Israel Pat Proft Starring Steve Guttenberg Kim Cattra",
+    "frecency": 3323,
+    "url_hash": 44137313419753,
+    "last_visit_date": 1758203932227228
+  }
+}

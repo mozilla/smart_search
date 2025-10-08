@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "About R9 About R9Posted on By revolution9band See More... Media Posted on By revolution9band See More... Shows Posted on By revolution9band See More...",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The page appears to be about a music/band entity (revolution9band) with Media and Shows sections, not related to sports improvement.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "About R9 About R9Posted on By revolution9band See More... Media Posted on By revolution9band See More... Shows Posted on By revolution9band See More...",
+  "history": {
+    "url": "http://www.revolution9band.com/",
+    "title": "About R9",
+    "description": "About R9Posted on By revolution9band See More... Media Posted on By revolution9band See More... Shows Posted on By revolution9band See More... ",
+    "frecency": 2552,
+    "url_hash": 80403460278580,
+    "last_visit_date": 1758203928780735
+  }
+}

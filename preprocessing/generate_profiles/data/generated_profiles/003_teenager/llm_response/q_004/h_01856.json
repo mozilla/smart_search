@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Who invented reeses pieces? \\\"Anonymous Who invented reeses pieces? Topics: Food & Drink \u203a Candy \u203a Reese's Pieces, Hershey Company Answer Lee Hart1978: Reese's Pieces are a product extension of the Reese's Peanut Butter Cups line: they where made famous by the movie ET.0 4 months ago Do you know the answer? Login or Sign Up to",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Reese's Pieces candy, not sports or athletic improvement; unrelated to the query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Who invented reeses pieces? \"Anonymous Who invented reeses pieces? Topics: Food & Drink \u203a Candy \u203a Reese's Pieces, Hershey Company Answer Lee Hart1978: Reese's Pieces are a product extension of the Reese's Peanut Butter Cups line: they where made famous by the movie ET.0 4 months ago Do you know the answer? Login or Sign Up to",
+  "history": {
+    "url": "http://www.chacha.com/question/who-invented-reeses-pieces",
+    "title": "Who invented reeses pieces?",
+    "description": "\"Anonymous Who invented reeses pieces? Topics: Food & Drink \u203a Candy \u203a Reese's Pieces, Hershey Company Answer Lee Hart1978: Reese's Pieces are a product extension of the Reese's Peanut Butter Cups line: they where made famous by the movie ET.0 4 months ago Do you know the answer? Login or Sign Up to ",
+    "frecency": 3110,
+    "url_hash": 6933951862425,
+    "last_visit_date": 1758203932669228
+  }
+}

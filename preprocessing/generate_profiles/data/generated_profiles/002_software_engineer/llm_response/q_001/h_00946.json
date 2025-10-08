@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "How much is the hourly rate Night/day for Asda and Tesco workers in E.London? Local Businesses United Kingdom London How much is the hourly rate Night/day for Asda and Tesco workers in E. London? Follow 2 answers Answers Best Answer: Tesco night shift is 7.10 per hour plus night time premium which I think is 10.05. Asda pay is 6.50 per hour and about 7.85 night shift premium.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses hourly wages for supermarket workers, not about Python libraries or machine learning; has no relevance to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "How much is the hourly rate Night/day for Asda and Tesco workers in E.London? Local Businesses United Kingdom London How much is the hourly rate Night/day for Asda and Tesco workers in E. London? Follow 2 answers Answers Best Answer: Tesco night shift is 7.10 per hour plus night time premium which I think is 10.05. Asda pay is 6.50 per hour and about 7.85 night shift premium.",
+  "history": {
+    "url": "https://uk.answers.yahoo.com/question/index?qid=20080129134536AAa24WS",
+    "title": "How much is the hourly rate Night/day for Asda and Tesco workers in E.London?",
+    "description": "Local Businesses United Kingdom London How much is the hourly rate Night/day for Asda and Tesco workers in E. London? Follow 2 answers Answers Best Answer: Tesco night shift is 7.10 per hour plus night time premium which I think is 10.05. Asda pay is 6.50 per hour and about 7.85 night shift premium.",
+    "frecency": 3300,
+    "url_hash": 23150754583255,
+    "last_visit_date": 1758203928388111
+  }
+}

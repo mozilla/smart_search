@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "The Start-to-Finish Guide To Using Concrete By Merle Henkenius Sep 30, 2009Nearly 2000 years ago, the Romans constructed a temple of a size and design that engineers still look upon with awe. It was a massive circular building, 143 ft. in diameter, covered by a monolithic dome. The building still stands. It's called the Pantheon--and it's mad",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Roman architecture (Pantheon) and concrete, not Docker or any software setup. Therefore not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "The Start-to-Finish Guide To Using Concrete By Merle Henkenius Sep 30, 2009Nearly 2000 years ago, the Romans constructed a temple of a size and design that engineers still look upon with awe. It was a massive circular building, 143 ft. in diameter, covered by a monolithic dome. The building still stands. It's called the Pantheon--and it's mad",
+  "history": {
+    "url": "http://www.popularmechanics.com/home/how-to/a5638/2784971/",
+    "title": "The Start-to-Finish Guide To Using Concrete",
+    "description": "By Merle Henkenius Sep 30, 2009Nearly 2000 years ago, the Romans constructed a temple of a size and design that engineers still look upon with awe. It was a massive circular building, 143 ft. in diameter, covered by a monolithic dome. The building still stands. It's called the Pantheon--and it's mad",
+    "frecency": 2242,
+    "url_hash": 96651361070861,
+    "last_visit_date": 1758203929002200
+  }
+}

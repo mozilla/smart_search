@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "John Cage's genius an L.A. story \\\"ENTERTAINMENT ARTS & CULTURECULTURE MONSTERJohn Cage's genius an L. A. story Entertainment Music Arts and Culture Road Transportation Music Industry Concerts Musical Theater The composer is among the most innovative music figures of the 20th century. Yet his formative years in the cultural stew of",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The result concerns John Cage and arts/culture topics, not apps or study habits; thus it is not relevant to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "John Cage's genius an L.A. story \"ENTERTAINMENT ARTS & CULTURECULTURE MONSTERJohn Cage's genius an L. A. story Entertainment Music Arts and Culture Road Transportation Music Industry Concerts Musical Theater The composer is among the most innovative music figures of the 20th century. Yet his formative years in the cultural stew of",
+  "history": {
+    "url": "http://www.latimes.com/entertainment/arts/culture/la-et-cm-john-cage-htmlstory.html",
+    "title": "John Cage's genius an L.A. story",
+    "description": "\"ENTERTAINMENT ARTS & CULTURECULTURE MONSTERJohn Cage's genius an L. A. story Entertainment Music Arts and Culture Road Transportation Music Industry Concerts Musical Theater The composer is among the most innovative music figures of the 20th century. Yet his formative years in the cultural stew of ",
+    "frecency": 2435,
+    "url_hash": 10132402143759,
+    "last_visit_date": 1758203930207228
+  }
+}

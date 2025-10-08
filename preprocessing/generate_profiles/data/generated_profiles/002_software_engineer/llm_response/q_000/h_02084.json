@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "House Cleaning Services Checklist \"House Cleaning Services Checklist What types of cleaning services do cleaning company provide? Planning to hire a house cleaning company to do your part time cleaning work? A cleaning company is a valuable investment when it comes to home maintenance. With the experience of a company that you can b",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about house cleaning services, not about debugging API integrations.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "House Cleaning Services Checklist \"House Cleaning Services Checklist What types of cleaning services do cleaning company provide? Planning to hire a house cleaning company to do your part time cleaning work? A cleaning company is a valuable investment when it comes to home maintenance. With the experience of a company that you can b",
+  "history": {
+    "url": "http://www.housecleanersingapore.com/articles/what-services-does-a-singapore-cleaning-company-provides.html",
+    "title": "House Cleaning Services Checklist",
+    "description": "\"House Cleaning Services Checklist What types of cleaning services do cleaning company provide? Planning to hire a house cleaning company to do your part time cleaning work? A cleaning company is a valuable investment when it comes to home maintenance. With the experience of a company that you can b",
+    "frecency": 1223,
+    "url_hash": 42140771231254,
+    "last_visit_date": 1758203928208111
+  }
+}

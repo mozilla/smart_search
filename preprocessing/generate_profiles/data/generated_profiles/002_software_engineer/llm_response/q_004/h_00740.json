@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "How to Put Pictures on a Flash Drive \"Method1 On Mac1 Plug your flash drive into your Mac. Your computer most likely has rectangular holes, called USB ports, on the sides of its casing (for laptops) or behind the monitor, on the side of the keyboard, or on the CPU for a desktop. You'll insert your flash drive into a USB port. USB ports",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes how to transfer pictures to a flash drive on a Mac and has no relation to Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "How to Put Pictures on a Flash Drive \"Method1 On Mac1 Plug your flash drive into your Mac. Your computer most likely has rectangular holes, called USB ports, on the sides of its casing (for laptops) or behind the monitor, on the side of the keyboard, or on the CPU for a desktop. You'll insert your flash drive into a USB port. USB ports",
+  "history": {
+    "url": "http://www.wikihow.com/Put-Pictures-on-a-Flash-Drive",
+    "title": "How to Put Pictures on a Flash Drive",
+    "description": "\"Method1 On Mac1 Plug your flash drive into your Mac. Your computer most likely has rectangular holes, called USB ports, on the sides of its casing (for laptops) or behind the monitor, on the side of the keyboard, or on the CPU for a desktop. You'll insert your flash drive into a USB port. USB ports",
+    "frecency": 3680,
+    "url_hash": 44068354995169,
+    "last_visit_date": 1758203927256111
+  }
+}

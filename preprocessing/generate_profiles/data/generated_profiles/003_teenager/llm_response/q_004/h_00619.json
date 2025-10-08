@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Stripper \\\"From Wikipedia, the free encyclopedia (Redirected from Exotic dancer)navigation search This article is about the striptease performer. For the race horse called Exotic Dancer, see Exotic Dancer (horse). For other uses, see Stripper (disambiguation). Stripper Strippers at a strip club in Zona Rosa,",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns stripper/exotic dancer topics and a racehorse name, not content related to improving athletic performance or sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Stripper \"From Wikipedia, the free encyclopedia (Redirected from Exotic dancer)navigation search This article is about the striptease performer. For the race horse called Exotic Dancer, see Exotic Dancer (horse). For other uses, see Stripper (disambiguation). Stripper Strippers at a strip club in Zona Rosa,",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Exotic_dancer",
+    "title": "Stripper",
+    "description": "\"From Wikipedia, the free encyclopedia (Redirected from Exotic dancer)navigation search This article is about the striptease performer. For the race horse called Exotic Dancer, see Exotic Dancer (horse). For other uses, see Stripper (disambiguation). Stripper Strippers at a strip club in Zona Rosa, ",
+    "frecency": 4350,
+    "url_hash": 84789914453442,
+    "last_visit_date": 1758203934709228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Lenox Square \"From Wikipedia, the free encyclopedianavigation search Lenox Square The exterior sign of Lenox Square. Location Atlanta, Georgia, USAOpening date 1959Developer Noble Properties Management Simon Property Group Owner Simon Property Group No. of stores and services 248No. of anchor tenants 3Total reta",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Lenox Square mall, not about database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Lenox Square \"From Wikipedia, the free encyclopedianavigation search Lenox Square The exterior sign of Lenox Square. Location Atlanta, Georgia, USAOpening date 1959Developer Noble Properties Management Simon Property Group Owner Simon Property Group No. of stores and services 248No. of anchor tenants 3Total reta",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Lenox_Square",
+    "title": "Lenox Square",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search Lenox Square The exterior sign of Lenox Square. Location Atlanta, Georgia, USAOpening date 1959Developer Noble Properties Management Simon Property Group Owner Simon Property Group No. of stores and services 248No. of anchor tenants 3Total reta",
+    "frecency": 2037,
+    "url_hash": 54086266032935,
+    "last_visit_date": 1758203928986111
+  }
+}

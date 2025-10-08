@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "How to Remove Stuck or Hot Pixels from Video Footage \"One of the drawbacks to shooting movies with DSLRs is the problem of stuck pixels, also known as \\\"hot\\\" or \\\"dead\\\" pixels. If every pixel on a DSLR's large CMOS sensor is essentially a bucket for catching light, out of the tens of millions of buckets (21 million in the case of the 5D Mark II ), t",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses camera sensor pixel issues; it is unrelated to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "How to Remove Stuck or Hot Pixels from Video Footage \"One of the drawbacks to shooting movies with DSLRs is the problem of stuck pixels, also known as \"\"hot\"\" or \"\"dead\"\" pixels. If every pixel on a DSLR's large CMOS sensor is essentially a bucket for catching light, out of the tens of millions of buckets (21 million in the case of the 5D Mark II ), t",
+  "history": {
+    "url": "http://nofilmschool.com/2010/06/how-to-remove-stuck-pixels-from-video-footage",
+    "title": "How to Remove Stuck or Hot Pixels from Video Footage",
+    "description": "\"One of the drawbacks to shooting movies with DSLRs is the problem of stuck pixels, also known as \"\"hot\"\" or \"\"dead\"\" pixels. If every pixel on a DSLR's large CMOS sensor is essentially a bucket for catching light, out of the tens of millions of buckets (21 million in the case of the 5D Mark II ), t",
+    "frecency": 3356,
+    "url_hash": 61541262531471,
+    "last_visit_date": 1758203929326111
+  }
+}

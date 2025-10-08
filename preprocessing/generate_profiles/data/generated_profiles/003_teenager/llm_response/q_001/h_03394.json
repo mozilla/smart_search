@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "Top 100 Songs of 1962 - Billboard Year End Charts \"Top 100 Songs of the Year : Current Page Tweet Every December Billboard publishes a chart listing the year's top songs based on their cumulative chart performance in the United States. The number of songs listed on the char\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about 1962 Billboard top songs, not TikTok trends for 2024; topic and timeframe do not match.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "Top 100 Songs of 1962 - Billboard Year End Charts \"Top 100 Songs of 1962 - Billboard Year End Charts Home Page > Pop Culture > Top 100 Songs of the Year : Current Page Tweet Every December Billboard publishes a chart listing the year's top songs based on their cumulative chart performance in the United States. The number of songs listed on the char",
+  "history": {
+    "url": "http://www.bobborst.com/popculture/top-100-songs-of-the-year/?year=1962",
+    "title": "Top 100 Songs of 1962 - Billboard Year End Charts",
+    "description": "\"Top 100 Songs of 1962 - Billboard Year End Charts Home Page > Pop Culture > Top 100 Songs of the Year : Current Page Tweet Every December Billboard publishes a chart listing the year's top songs based on their cumulative chart performance in the United States. The number of songs listed on the char",
+    "frecency": 1459,
+    "url_hash": 33803116465554,
+    "last_visit_date": 1758203928814735
+  }
+}

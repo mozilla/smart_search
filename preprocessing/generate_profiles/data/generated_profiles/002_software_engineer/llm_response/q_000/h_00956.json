@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "How long should people exercise everyday? \\\"Arthur Kerins, Partner Answered Mar 6, 2017 \u00b7 Author has 97 answers and 48.5k answer views Originally Answered: How much time should I exercise everyday?30\u201360 minutes 5\u20137 days a week. Depending on your fitness level. That's a goal not a starting number. Start slow. I mean really slow. 15\u201330 minutes\\\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "Content is about exercise duration, not about debugging API integration; not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "How long should people exercise everyday? \"Arthur Kerins, Partner Answered Mar 6, 2017 \u00b7 Author has 97 answers and 48.5k answer views Originally Answered: How much time should I exercise everyday?30\u201360 minutes 5\u20137 days a week. Depending on your fitness level. That's a goal not a starting number. Start slow. I mean really slow. 15\u201330 minutes",
+  "history": {
+    "url": "https://www.quora.com/How-long-should-people-exercise-everyday",
+    "title": "How long should people exercise everyday?",
+    "description": "\"Arthur Kerins, Partner Answered Mar 6, 2017 \u00b7 Author has 97 answers and 48.5k answer views Originally Answered: How much time should I exercise everyday?30\u201360 minutes 5\u20137 days a week. Depending on your fitness level. That's a goal not a starting number. Start slow. I mean really slow. 15\u201330 minutes",
+    "frecency": 3281,
+    "url_hash": 95902338158627,
+    "last_visit_date": 1758203928978111
+  }
+}

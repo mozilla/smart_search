@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Products & Services HOSPITAL BEDSUnlike other companies, Hospice Express provides FULL ELECTRIC hospital beds to all your patients. This bed comes complete with either a foam or an innerspring mattress and bed rails. PRODUCT MANUALOVERBED TABLESWhile often part of a bed package, these bedside tables",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes hospital beds and related products, not integrated development environments or software development topics; thus it is not relevant to the query about IDEs.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Products & Services Products & Services HOSPITAL BEDSUnlike other companies, Hospice Express provides FULL ELECTRIC hospital beds to all your patients. This bed comes complete with either a foam or an innerspring mattress and bed rails. PRODUCT MANUALOVERBED TABLESWhile often part of a bed package, these bedside tables",
+  "history": {
+    "url": "http://www.hospiceexpress.com/main/products-services/",
+    "title": "Products & Services",
+    "description": "Products & Services HOSPITAL BEDSUnlike other companies, Hospice Express provides FULL ELECTRIC hospital beds to all your patients. This bed comes complete with either a foam or an innerspring mattress and bed rails. PRODUCT MANUALOVERBED TABLESWhile often part of a bed package, these bedside tables",
+    "frecency": 2255,
+    "url_hash": 129875509766,
+    "last_visit_date": 1758203931718111
+  }
+}

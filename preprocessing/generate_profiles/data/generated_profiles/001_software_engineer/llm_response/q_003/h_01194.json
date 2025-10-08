@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Acronyms \"Acronyms are abbreviations and a number of Acronyms float around in the World of Finance. In case, one does not know the meaning of the same, the entire issue, discussion, point of observation, etc. may not be understood correctly. Although it is often said that use of Acronyms should be restricted",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses acronyms in finance, not database queries or optimization; it is not relevant to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Acronyms \"Acronyms are abbreviations and a number of Acronyms float around in the World of Finance. In case, one does not know the meaning of the same, the entire issue, discussion, point of observation, etc. may not be understood correctly. Although it is often said that use of Acronyms should be restricted",
+  "history": {
+    "url": "http://finance.wikia.com/wiki/Acronyms",
+    "title": "Acronyms",
+    "description": "\"Acronyms are abbreviations and a number of Acronyms float around in the World of Finance. In case, one does not know the meaning of the same, the entire issue, discussion, point of observation, etc. may not be understood correctly. Although it is often said that use of Acronyms should be restricted",
+    "frecency": 770,
+    "url_hash": 10104013468590,
+    "last_visit_date": 1758203929058200
+  }
+}

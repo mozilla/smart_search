@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Who are the actors in the Ford Focus commercial? \\\"Who are the actors in the Ford Focus commercial? Luke Mc Kenzie on the left Gregg Anderton 2,181,451 Contributions Community Manager who loves to wrench on cars, grow plants in the garden, remodel my home, and observe nature. Who is the actor in the Capital One commercial? Alec baldwin Greg Scott 1\\\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses actors in commercials and has no relevance to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Who are the actors in the Ford Focus commercial? \"Who are the actors in the Ford Focus commercial? Luke Mc Kenzie on the left Gregg Anderton 2,181,451 Contributions Community Manager who loves to wrench on cars, grow plants in the garden, remodel my home, and observe nature. Who is the actor in the Capital One commercial? Alec baldwin Greg Scott 1",
+  "history": {
+    "url": "http://www.answers.com/Q/Who_is_the_actor_in_the_denny's_commercial",
+    "title": "Who are the actors in the Ford Focus commercial?",
+    "description": "\"Who are the actors in the Ford Focus commercial? Luke Mc Kenzie on the left Gregg Anderton 2,181,451 Contributions Community Manager who loves to wrench on cars, grow plants in the garden, remodel my home, and observe nature. Who is the actor in the Capital One commercial? Alec baldwin Greg Scott 1",
+    "frecency": 3180,
+    "url_hash": 95477117792819,
+    "last_visit_date": 1758203927490111
+  }
+}

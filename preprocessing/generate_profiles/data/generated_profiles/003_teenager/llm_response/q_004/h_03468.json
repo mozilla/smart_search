@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "The Beatles \\\"Last.fm Search Live Music Events Features Join Login Recommended next John Lennon The Beatles#8Overview Tracks Albums Photos Similar Artists More\u2026Scrobbles495.2MListeners3.6MPopular this week Here Comes The Sun - Remastered4,594 listeners Play album Latest release BBC Archives Vol. 11 - January 196",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about The Beatles on Last.fm, a music site, and has no relation to improving sports performance or the user's query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "The Beatles \"Last.fm Search Live Music Events Features Join Login Recommended next John Lennon The Beatles#8Overview Tracks Albums Photos Similar Artists More\u2026Scrobbles495.2MListeners3.6MPopular this week Here Comes The Sun - Remastered4,594 listeners Play album Latest release BBC Archives Vol. 11 - January 196",
+  "history": {
+    "url": "https://www.last.fm/music/The+Beatles",
+    "title": "The Beatles",
+    "description": "\"Last.fm Search Live Music Events Features Join Login Recommended next John Lennon The Beatles#8Overview Tracks Albums Photos Similar Artists More\u2026Scrobbles495.2MListeners3.6MPopular this week Here Comes The Sun - Remastered4,594 listeners Play album Latest release BBC Archives Vol. 11 - January 196",
+    "frecency": 1370,
+    "url_hash": 83532028567224,
+    "last_visit_date": 1758203932713228
+  }
+}

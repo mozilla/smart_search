@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "What is EPUB? \\\"What is EPUB? An EPUB book is a digital book, or ebook, which can be read on a wide variety of digital devices including Tablets, Smartphones, Laptops and dedicated e Readers. It's this wide adoption that has allowed it to become the most dominant book format across the world, second only to Amazon\\\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes EPUB format, not Docker or beginner Docker setup; it is not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "What is EPUB? \"What is EPUB? An EPUB book is a digital book, or ebook, which can be read on a wide variety of digital devices including Tablets, Smartphones, Laptops and dedicated e Readers. It's this wide adoption that has allowed it to become the most dominant book format across the world, second only to Amazon",
+  "history": {
+    "url": "https://www.epubbooks.com/epub",
+    "title": "What is EPUB?",
+    "description": "\"What is EPUB? An EPUB book is a digital book, or ebook, which can be read on a wide variety of digital devices including Tablets, Smartphones, Laptops and dedicated e Readers. It's this wide adoption that has allowed it to become the most dominant book format across the world, second only to Amazon",
+    "frecency": 2776,
+    "url_hash": 4959699929143,
+    "last_visit_date": 1758203926740200
+  }
+}

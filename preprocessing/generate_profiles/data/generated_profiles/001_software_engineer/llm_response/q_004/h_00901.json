@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Window Function Examples for SQL Server \\\"Window Function Examples for SQL Server Window (or Windowing) functions are a great way to get different perspectives on a set of data without having to make repeat calls to the server for that data. For example, we can gather the sum of a column and display it side-by-side with the detail-level da",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses SQL Server window functions, not Docker or container setup. Topic mismatch; no content about Docker for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Window Function Examples for SQL Server \"Window Function Examples for SQL Server Window (or Windowing) functions are a great way to get different perspectives on a set of data without having to make repeat calls to the server for that data. For example, we can gather the sum of a column and display it side-by-side with the detail-level da",
+  "history": {
+    "url": "https://www.brentozar.com/sql-syntax-examples/window-function-examples-sql-server/",
+    "title": "Window Function Examples for SQL Server",
+    "description": "\"Window Function Examples for SQL Server Window (or Windowing) functions are a great way to get different perspectives on a set of data without having to make repeat calls to the server for that data. For example, we can gather the sum of a column and display it side-by-side with the detail-level da",
+    "frecency": 1879,
+    "url_hash": 31633391414883,
+    "last_visit_date": 1758203926882200
+  }
+}

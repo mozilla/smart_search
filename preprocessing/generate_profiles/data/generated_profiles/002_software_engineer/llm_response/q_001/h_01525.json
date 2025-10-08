@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Blue Ridge Youth Soccer Association Links Recreation Soccer Winchester United Coaches Referees Sponsors High School Soccer View All Links Connect Like us on Facebook Follow us on Twitter Follow us on Flickr Sponsors< >NEW REFEREE Clinics The latest referee new & recertification schedule has been released for local clinics. Read More R",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result pertains to youth soccer, referees, and related local sports content, not Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Blue Ridge Youth Soccer Association Links Recreation Soccer Winchester United Coaches Referees Sponsors High School Soccer View All Links Connect Like us on Facebook Follow us on Twitter Follow us on Flickr Sponsors< >NEW REFEREE Clinics The latest referee new & recertification schedule has been released for local clinics. Read More R",
+  "history": {
+    "url": "http://www.brysa.org/",
+    "title": "Blue Ridge Youth Soccer Association",
+    "description": "Links Recreation Soccer Winchester United Coaches Referees Sponsors High School Soccer View All Links Connect Like us on Facebook Follow us on Twitter Follow us on Flickr Sponsors< >NEW REFEREE Clinics The latest referee new & recertification schedule has been released for local clinics. Read More R",
+    "frecency": 2243,
+    "url_hash": 12946079363850,
+    "last_visit_date": 1758203930316111
+  }
+}

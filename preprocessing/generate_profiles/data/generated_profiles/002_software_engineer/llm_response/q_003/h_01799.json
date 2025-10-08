@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Announcements Sixteen Scholars Announced for Second Fulbright Arctic Initiative Apr 3, 2018Sixteen outstanding scholars from Arctic Council nations will engage in collaborative, multi-disciplinary research over the next 18 months through the U. S. Department of State\u2019s Fulbright Arctic Initiative to advance Arcti",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about the Fulbright Arctic Initiative and scholars, not about database query optimization; content is unrelated to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Announcements Sixteen Scholars Announced for Second Fulbright Arctic Initiative Apr 3, 2018Sixteen outstanding scholars from Arctic Council nations will engage in collaborative, multi-disciplinary research over the next 18 months through the U. S. Department of State\u2019s Fulbright Arctic Initiative to advance Arcti",
+  "history": {
+    "url": "http://www.iie.org/Who-We-Are/News-and-Events/Press-Center/Press-Releases/2013/2013-11-11-Open-Doors-Data",
+    "title": "Announcements",
+    "description": "Sixteen Scholars Announced for Second Fulbright Arctic Initiative Apr 3, 2018Sixteen outstanding scholars from Arctic Council nations will engage in collaborative, multi-disciplinary research over the next 18 months through the U. S. Department of State\u2019s Fulbright Arctic Initiative to advance Arcti",
+    "frecency": 1736,
+    "url_hash": 26214881531480,
+    "last_visit_date": 1758203927502111
+  }
+}

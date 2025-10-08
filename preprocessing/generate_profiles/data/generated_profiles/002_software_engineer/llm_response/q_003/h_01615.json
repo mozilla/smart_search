@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Golden Nugget Skip to Search Form Skip to Navigation Skip to Page Content Yelp Find Near Cancel Search Sign Up Log In Login Sign Up About Me Talk Oops, we can't find your location First, try refreshing the page and clicking Current Location again. Make sure you click Allow or Grant Permissions if your browser ask",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result appears to be a Yelp-related page with location prompts and does not contain content about database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Golden Nugget Skip to Search Form Skip to Navigation Skip to Page Content Yelp Find Near Cancel Search Sign Up Log In Login Sign Up About Me Talk Oops, we can't find your location First, try refreshing the page and clicking Current Location again. Make sure you click Allow or Grant Permissions if your browser ask",
+  "history": {
+    "url": "https://www.yelp.com/biz/golden-nugget-las-vegas-4",
+    "title": "Golden Nugget",
+    "description": "Skip to Search Form Skip to Navigation Skip to Page Content Yelp Find Near Cancel Search Sign Up Log In Login Sign Up About Me Talk Oops, we can't find your location First, try refreshing the page and clicking Current Location again. Make sure you click Allow or Grant Permissions if your browser ask",
+    "frecency": 2081,
+    "url_hash": 68110408575988,
+    "last_visit_date": 1758203929652111
+  }
+}

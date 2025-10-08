@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "How Are Fiberglass Pools Installed? Pool Designs About Us Gallery Learning Hub VA / MD Residents Blog Become a Dealer | Contact |",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about fiberglass pool installation and pool design, which is unrelated to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "How Are Fiberglass Pools Installed? Pool Designs About Us Gallery Learning Hub VA / MD Residents Blog Become a Dealer | Contact |",
+  "history": {
+    "url": "http://www.riverpoolsandspas.com/fiberglass-pool-installation-process",
+    "title": "How Are Fiberglass Pools Installed?",
+    "description": "Pool Designs About Us Gallery Learning Hub VA / MD Residents Blog Become a Dealer | Contact | ",
+    "frecency": 2517,
+    "url_hash": 78130865389752,
+    "last_visit_date": 1758203926738200
+  }
+}

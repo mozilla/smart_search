@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Bollington Insurance Brokers Proud to be awarded feefo gold Trusted service award 2018Repairs & Servicing. Sales. Full & Part Time. Motor Trade Insurance Broker Awarded Goldfor Customer Service Award Winning Insurance Broker Specialist Products. Expert Knowledge. Superior Service. Care Insurance Broker EXCELLENCE. INNOVATION. P",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about an insurance broker and awards, not related to debugging APIs or API integration troubleshooting.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Bollington Insurance Brokers Proud to be awarded feefo gold Trusted service award 2018Repairs & Servicing. Sales. Full & Part Time. Motor Trade Insurance Broker Awarded Goldfor Customer Service Award Winning Insurance Broker Specialist Products. Expert Knowledge. Superior Service. Care Insurance Broker EXCELLENCE. INNOVATION. P",
+  "history": {
+    "url": "https://www.bollington.com/",
+    "title": "Bollington Insurance Brokers",
+    "description": "Proud to be awarded feefo gold Trusted service award 2018Repairs & Servicing. Sales. Full & Part Time. Motor Trade Insurance Broker Awarded Goldfor Customer Service Award Winning Insurance Broker Specialist Products. Expert Knowledge. Superior Service. Care Insurance Broker EXCELLENCE. INNOVATION. P",
+    "frecency": 911,
+    "url_hash": 99940320549288,
+    "last_visit_date": 1758203926870200
+  }
+}

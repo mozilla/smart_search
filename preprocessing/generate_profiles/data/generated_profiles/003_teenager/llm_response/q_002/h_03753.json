@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Richard Nixon is Born \"Jan 9 1913Richard Nixon is Born Richard Nixon was born on January 9, 1913, to Francis A. Nixon and Hannah Milhous Nixon in a house his father had built in Yorba Linda, California. His mother was a Quaker, and his upbringing was marked by conservative Quaker observances of the time, such as refraini",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Richard Nixon's birth and biography, not content related to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Richard Nixon is Born \"Jan 9 1913Richard Nixon is Born Richard Nixon was born on January 9, 1913, to Francis A. Nixon and Hannah Milhous Nixon in a house his father had built in Yorba Linda, California. His mother was a Quaker, and his upbringing was marked by conservative Quaker observances of the time, such as refraini",
+  "history": {
+    "url": "https://worldhistoryproject.org/1913/1/9/richard-nixon-is-born",
+    "title": "Richard Nixon is Born",
+    "description": "\"Jan 9 1913Richard Nixon is Born Richard Nixon was born on January 9, 1913, to Francis A. Nixon and Hannah Milhous Nixon in a house his father had built in Yorba Linda, California. His mother was a Quaker, and his upbringing was marked by conservative Quaker observances of the time, such as refraini",
+    "frecency": 1099,
+    "url_hash": 28117722416356,
+    "last_visit_date": 1758203932567228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Neptune Society Employee Reviews \"Find Companies Neptune Society3.4 34 reviews Follow Get job updates from Neptune Society About 34 Reviews930 Salaries Photos 15 Jobs6 Q&ANeptune Society Employee Reviews Job Title Location See reviews about: Work-Life Balance Pay & Benefits Job Security & Advancement Management Culture Showing all",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Neptune Society employee reviews and does not relate to debugging an API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Neptune Society Employee Reviews \"Find Companies Neptune Society3.4 34 reviews Follow Get job updates from Neptune Society About 34 Reviews930 Salaries Photos 15 Jobs6 Q&ANeptune Society Employee Reviews Job Title Location See reviews about: Work-Life Balance Pay & Benefits Job Security & Advancement Management Culture Showing all",
+  "history": {
+    "url": "https://www.indeed.com/cmp/Neptune-Society/reviews",
+    "title": "Neptune Society Employee Reviews",
+    "description": "\"Find Companies Neptune Society3.4 34 reviews Follow Get job updates from Neptune Society About 34 Reviews930 Salaries Photos 15 Jobs6 Q&ANeptune Society Employee Reviews Job Title Location See reviews about: Work-Life Balance Pay & Benefits Job Security & Advancement Management Culture Showing all ",
+    "frecency": 4964,
+    "url_hash": 18685997486801,
+    "last_visit_date": 1758203929758111
+  }
+}

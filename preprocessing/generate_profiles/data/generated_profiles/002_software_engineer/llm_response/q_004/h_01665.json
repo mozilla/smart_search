@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Q: how to Enable Logging for Performance Log Users Group Members for Vista Home Premium? \"AD Adalid87 asked on July 30, 2009Q: how to Enable Logging for Performance Log Users Group Members for Vista Home Premium?hello i need to Enable Logging for Performance Log Users Group Members, i tryed excecuting secpol.msc but the system cant find it. I have the Vista Home premium system, please i",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Windows Vista logging permissions, which is unrelated to Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Q: how to Enable Logging for Performance Log Users Group Members for Vista Home Premium? \"AD Adalid87 asked on July 30, 2009Q: how to Enable Logging for Performance Log Users Group Members for Vista Home Premium?hello i need to Enable Logging for Performance Log Users Group Members, i tryed excecuting secpol.msc but the system cant find it. I have the Vista Home premium system, please i",
+  "history": {
+    "url": "https://answers.microsoft.com/en-us/windows/forum/windows_vista-desktop/how-to-enable-logging-for-performance-log-users/d00d2ced-cfc1-4c36-a10a-0e468b926591",
+    "title": "Q: how to Enable Logging for Performance Log Users Group Members for Vista Home Premium?",
+    "description": "\"AD Adalid87 asked on July 30, 2009Q: how to Enable Logging for Performance Log Users Group Members for Vista Home Premium?hello i need to Enable Logging for Performance Log Users Group Members, i tryed excecuting secpol.msc but the system cant find it. I have the Vista Home premium system, please i",
+    "frecency": 1979,
+    "url_hash": 44298606665115,
+    "last_visit_date": 1758203931562111
+  }
+}

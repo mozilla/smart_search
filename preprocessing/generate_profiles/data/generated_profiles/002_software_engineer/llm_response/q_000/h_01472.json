@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Military Occupational Specialties (MOS) - Special Forces Home Military Occupational Specialties (MOS) - Special Forces Sort Careers & Jobs By: Or Or Looking for jobs in the US Army? Military Occupational Specialties (MOS) is the US Army's term for the various jobs available to those that enlist. Take a look at the job listing below and see if any of these",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses US Army military occupations and job listings, not APIs or debugging or integration-related content.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Military Occupational Specialties (MOS) - Special Forces Home Military Occupational Specialties (MOS) - Special Forces Sort Careers & Jobs By: Or Or Looking for jobs in the US Army? Military Occupational Specialties (MOS) is the US Army's term for the various jobs available to those that enlist. Take a look at the job listing below and see if any of these",
+  "history": {
+    "url": "http://army.com/info/mos/SpecialForces",
+    "title": "Military Occupational Specialties (MOS) - Special Forces",
+    "description": "Home Military Occupational Specialties (MOS) - Special Forces Sort Careers & Jobs By: Or Or Looking for jobs in the US Army? Military Occupational Specialties (MOS) is the US Army's term for the various jobs available to those that enlist. Take a look at the job listing below and see if any of these",
+    "frecency": 2331,
+    "url_hash": 67854068243670,
+    "last_visit_date": 1758203932344111
+  }
+}

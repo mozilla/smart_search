@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Falcon's Ledge Lodge \"Lowest prices for your stay Check In Check Out1 room, 2 adults, 0 children Our online travel partners don't provide prices for this accommodation but we can search other options in Altamont See available hotels All photos (28)Full view Traveler (6)Room & Suite (2)Pool & Beach (1)Overview5.0 10 revi",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns hotel listings and travel bookings, not content about debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Falcon's Ledge Lodge \"Lowest prices for your stay Check In Check Out1 room, 2 adults, 0 children Our online travel partners don't provide prices for this accommodation but we can search other options in Altamont See available hotels All photos (28)Full view Traveler (6)Room & Suite (2)Pool & Beach (1)Overview5.0 10 revi",
+  "history": {
+    "url": "https://www.tripadvisor.com/Hotel_Review-g30206-d116137-Reviews-Falcon_s_Ledge_Lodge-Altamont_Utah.html",
+    "title": "Falcon's Ledge Lodge",
+    "description": "\"Lowest prices for your stay Check In Check Out1 room, 2 adults, 0 children Our online travel partners don't provide prices for this accommodation but we can search other options in Altamont See available hotels All photos (28)Full view Traveler (6)Room & Suite (2)Pool & Beach (1)Overview5.0 10 revi",
+    "frecency": 4008,
+    "url_hash": 46967491535499,
+    "last_visit_date": 1758203931582111
+  }
+}

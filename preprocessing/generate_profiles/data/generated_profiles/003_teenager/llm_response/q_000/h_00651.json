@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Monuments & Memorials in Washington DC (Visitor's Guide) Washington, DC is a city of monuments and memorials. We honor the generals, politicians, poets and statesmen who helped shape our great nation. Although the most famous monuments and memorials are on the National Mall, you will find statues and plaques on many street corners around the city. Since W",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about monuments in Washington DC, not about starting a YouTube channel; it has no relevance to the query.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Monuments & Memorials in Washington DC (Visitor's Guide) Washington, DC is a city of monuments and memorials. We honor the generals, politicians, poets and statesmen who helped shape our great nation. Although the most famous monuments and memorials are on the National Mall, you will find statues and plaques on many street corners around the city. Since W",
+  "history": {
+    "url": "https://www.tripsavvy.com/monuments-and-memorials-in-washington-dc-1038232",
+    "title": "Monuments & Memorials in Washington DC (Visitor's Guide)",
+    "description": "Washington, DC is a city of monuments and memorials. We honor the generals, politicians, poets and statesmen who helped shape our great nation. Although the most famous monuments and memorials are on the National Mall, you will find statues and plaques on many street corners around the city. Since W",
+    "frecency": 4312,
+    "url_hash": 48058585361955,
+    "last_visit_date": 1758203931353228
+  }
+}

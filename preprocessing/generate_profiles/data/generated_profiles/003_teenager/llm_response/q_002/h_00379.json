@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "How do you fully define a sketch? \"How do you fully define a sketch? Kris Carlson Jul 26, 2010 11:55 AMFollowing a suggestion by Joe Kelchner, (\"\"I suggest breaking down each thing to it's absolute minimum and then model it in a two dimensional sketch and get that to work like it should and then use that as a layout sketch\"\"), I am",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses how to define a sketch, not easy DIY room decoration ideas; it is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "How do you fully define a sketch? \"How do you fully define a sketch? Kris Carlson Jul 26, 2010 11:55 AMFollowing a suggestion by Joe Kelchner, (\"\"I suggest breaking down each thing to it's absolute minimum and then model it in a two dimensional sketch and get that to work like it should and then use that as a layout sketch\"\"), I am",
+  "history": {
+    "url": "https://forum.solidworks.com/thread/35589",
+    "title": "How do you fully define a sketch?",
+    "description": "\"How do you fully define a sketch? Kris Carlson Jul 26, 2010 11:55 AMFollowing a suggestion by Joe Kelchner, (\"\"I suggest breaking down each thing to it's absolute minimum and then model it in a two dimensional sketch and get that to work like it should and then use that as a layout sketch\"\"), I am ",
+    "frecency": 4610,
+    "url_hash": 15156725590537,
+    "last_visit_date": 1758203934697228
+  }
+}

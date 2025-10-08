@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "AMC Tyler Galleria 16 Reserved Seating \u2022 Dolby Cinema at AMC \u2022 IMAX at AMC \u2022 Real D 3D \u2022 Mac Guffins Bar \u2022 Coca-Cola Freestyle AMC Tyler Galleria 163775 Tyler Avenue, Riverside, California 92503Get Tickets Add Favorite Nearby Theatres",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The result is a movie theater listing with showtimes and venue details, not content related to improving sports performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "AMC Tyler Galleria 16 Reserved Seating \u2022 Dolby Cinema at AMC \u2022 IMAX at AMC \u2022 Real D 3D \u2022 Mac Guffins Bar \u2022 Coca-Cola Freestyle AMC Tyler Galleria 163775 Tyler Avenue, Riverside, California 92503Get Tickets Add Favorite Nearby Theatres",
+  "history": {
+    "url": "https://www.amctheatres.com/movie-theatres/los-angeles/amc-tyler-galleria-16",
+    "title": "AMC Tyler Galleria 16",
+    "description": "Reserved Seating \u2022 Dolby Cinema at AMC \u2022 IMAX at AMC \u2022 Real D 3D \u2022 Mac Guffins Bar \u2022 Coca-Cola Freestyle AMC Tyler Galleria 163775 Tyler Avenue, Riverside, California 92503Get Tickets Add Favorite Nearby Theatres ",
+    "frecency": 294,
+    "url_hash": 90830195410198,
+    "last_visit_date": 1758203929715228
+  }
+}

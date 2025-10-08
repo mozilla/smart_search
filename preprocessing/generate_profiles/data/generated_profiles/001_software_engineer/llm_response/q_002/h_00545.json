@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Select your province Fran\u00e7ais Select your province Find information and services near you. Select province/territory The Canadian Cancer Society is a national, community-based organization of volunteers whose mission is the eradication of cancer and the enhancement of the quality of life of people living with cancer.\u00a9 2",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page content is about the Canadian Cancer Society and province selection, not about IDEs or software development.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Select your province Fran\u00e7ais Select your province Find information and services near you. Select province/territory The Canadian Cancer Society is a national, community-based organization of volunteers whose mission is the eradication of cancer and the enhancement of the quality of life of people living with cancer.\u00a9 2",
+  "history": {
+    "url": "http://www.cancer.ca/en/prevention-and-screening/live-well/smoking-and-tobacco/what-is-in-cigarette-smoke/?region=on",
+    "title": "Select your province",
+    "description": "Fran\u00e7ais Select your province Find information and services near you. Select province/territory The Canadian Cancer Society is a national, community-based organization of volunteers whose mission is the eradication of cancer and the enhancement of the quality of life of people living with cancer.\u00a9 2",
+    "frecency": 3122,
+    "url_hash": 45170569797740,
+    "last_visit_date": 1758203928240200
+  }
+}

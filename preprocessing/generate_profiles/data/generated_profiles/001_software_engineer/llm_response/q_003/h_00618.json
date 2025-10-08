@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Key Largo Clerk Office Key Largo Clerk Office Home Government Administration Offices Clerk Offices Florida Monroe County Key Largo Find Key Largo Florida clerk offices, including county, city, and circuit clerks, and clerks of court. Clerks provide information on public court records and legal documents, criminal, jail, a",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns government clerk offices and clerks of court rather than information about optimizing or tuning database queries; topic mismatch indicates non-relevance.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Key Largo Clerk Office Key Largo Clerk Office Home Government Administration Offices Clerk Offices Florida Monroe County Key Largo Find Key Largo Florida clerk offices, including county, city, and circuit clerks, and clerks of court. Clerks provide information on public court records and legal documents, criminal, jail, a",
+  "history": {
+    "url": "http://www.countyoffice.org/key-largo-fl-clerk/",
+    "title": "Key Largo Clerk Office",
+    "description": "Key Largo Clerk Office Home Government Administration Offices Clerk Offices Florida Monroe County Key Largo Find Key Largo Florida clerk offices, including county, city, and circuit clerks, and clerks of court. Clerks provide information on public court records and legal documents, criminal, jail, a",
+    "frecency": 2881,
+    "url_hash": 35156756692629,
+    "last_visit_date": 1758203927412200
+  }
+}

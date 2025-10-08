@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "What is Medical Assistant's responsibility in cardiologist office? \\\"Answers.com \u00ae Wiki Answers \u00ae Categories Health Medical Fields Doctors Cardiologists What is Medical Assistant's responsibility in cardiologist office? Flag What is Medical Assistant's responsibility in cardiologist office? Answered by The Wiki Answers \u00aeCommunity Answers.com \u00ae is making the world be",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns medical assistants in cardiology, not Python libraries or machine learning; it is not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "What is Medical Assistant's responsibility in cardiologist office? \"Answers.com \u00ae Wiki Answers \u00ae Categories Health Medical Fields Doctors Cardiologists What is Medical Assistant's responsibility in cardiologist office? Flag What is Medical Assistant's responsibility in cardiologist office? Answered by The Wiki Answers \u00aeCommunity Answers.com \u00ae is making the world be",
+  "history": {
+    "url": "http://www.answers.com/Q/What_is_Medical_Assistant's_responsibility_in_cardiologist_office",
+    "title": "What is Medical Assistant's responsibility in cardiologist office?",
+    "description": "\"Answers.com \u00ae Wiki Answers \u00ae Categories Health Medical Fields Doctors Cardiologists What is Medical Assistant's responsibility in cardiologist office? Flag What is Medical Assistant's responsibility in cardiologist office? Answered by The Wiki Answers \u00aeCommunity Answers.com \u00ae is making the world be",
+    "frecency": 4986,
+    "url_hash": 50742503996862,
+    "last_visit_date": 1758203931496111
+  }
+}

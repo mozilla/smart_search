@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "So, what is NMR anyway? Since then, NMR spectroscopy has become an indespensible tool for the determination of molecular structure, the study of molecular dynamics, and the characterization of materials at the molecular level by chemists, physicists, and molecular biologists. For the first several decades, researchers reli",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "Content is about NMR spectroscopy and molecular sciences, not about IDEs or software development.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "So, what is NMR anyway? Since then, NMR spectroscopy has become an indespensible tool for the determination of molecular structure, the study of molecular dynamics, and the characterization of materials at the molecular level by chemists, physicists, and molecular biologists. For the first several decades, researchers reli",
+  "history": {
+    "url": "http://chemnmr.colorado.edu/moreinfo/whatisnmr.html",
+    "title": "So, what is NMR anyway?",
+    "description": "Since then, NMR spectroscopy has become an indespensible tool for the determination of molecular structure, the study of molecular dynamics, and the characterization of materials at the molecular level by chemists, physicists, and molecular biologists. For the first several decades, researchers reli",
+    "frecency": 4254,
+    "url_hash": 44100867615099,
+    "last_visit_date": 1758203931208111
+  }
+}

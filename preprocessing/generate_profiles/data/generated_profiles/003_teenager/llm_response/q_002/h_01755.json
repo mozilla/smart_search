@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Divorce Rate Divorce Rate Divorce rates in the United States have been slowly increasing since 1970 and today some estimates claim the figure has reached nearly 50%, or half of all marriages. The numbers are debatable though, because different cultural, economic and social groups all have different divorce rates",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page discusses divorce rates and marriage statistics, not DIY room decoration ideas; it is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Divorce Rate Divorce Rate Divorce rates in the United States have been slowly increasing since 1970 and today some estimates claim the figure has reached nearly 50%, or half of all marriages. The numbers are debatable though, because different cultural, economic and social groups all have different divorce rates",
+  "history": {
+    "url": "http://divorce.com/divorce-rate/",
+    "title": "Divorce Rate",
+    "description": "Divorce Rate Divorce rates in the United States have been slowly increasing since 1970 and today some estimates claim the figure has reached nearly 50%, or half of all marriages. The numbers are debatable though, because different cultural, economic and social groups all have different divorce rates",
+    "frecency": 3209,
+    "url_hash": 92977509046649,
+    "last_visit_date": 1758203931347228
+  }
+}

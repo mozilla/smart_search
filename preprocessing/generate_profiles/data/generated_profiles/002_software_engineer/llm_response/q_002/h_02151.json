@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Data Types in Access Microsoft Access Tips for x Base developers Provided by Allen Browne, allen@allenbrowne.com Data Types in Access Field types in Access are somewhat different to those in x Base. Here are your choices. Text. Essentially the same as the Character type in x Base. 255 character maximum. You can and shou",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Microsoft Access data types and X Base, not IDEs or software development environments.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Data Types in Access Microsoft Access Tips for x Base developers Provided by Allen Browne, allen@allenbrowne.com Data Types in Access Field types in Access are somewhat different to those in x Base. Here are your choices. Text. Essentially the same as the Character type in x Base. 255 character maximum. You can and shou",
+  "history": {
+    "url": "http://allenbrowne.com/xbase-05.html",
+    "title": "Data Types in Access",
+    "description": "Microsoft Access Tips for x Base developers Provided by Allen Browne, allen@allenbrowne.com Data Types in Access Field types in Access are somewhat different to those in x Base. Here are your choices. Text. Essentially the same as the Character type in x Base. 255 character maximum. You can and shou",
+    "frecency": 1089,
+    "url_hash": 83050921994781,
+    "last_visit_date": 1758203930502111
+  }
+}

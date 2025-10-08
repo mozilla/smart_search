@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Salary and Career Info for a Bachelor of Psychology Degree Salary and Career Info for a Bachelor of Psychology Degree Degrees in psychology typically cover human services and behavior. Find out about the requirements of these programs, and learn about career options, job growth and salary info for Psychology graduates. Show Me Schools View 10 Popular School",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses psychology degrees and salaries, unrelated to debugging API integrations.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Salary and Career Info for a Bachelor of Psychology Degree Salary and Career Info for a Bachelor of Psychology Degree Degrees in psychology typically cover human services and behavior. Find out about the requirements of these programs, and learn about career options, job growth and salary info for Psychology graduates. Show Me Schools View 10 Popular School",
+  "history": {
+    "url": "https://study.com/articles/Salary_and_Career_Info_for_a_Bachelor_of_Psychology_Degree.html",
+    "title": "Salary and Career Info for a Bachelor of Psychology Degree",
+    "description": "Salary and Career Info for a Bachelor of Psychology Degree Degrees in psychology typically cover human services and behavior. Find out about the requirements of these programs, and learn about career options, job growth and salary info for Psychology graduates. Show Me Schools View 10 Popular School",
+    "frecency": 4362,
+    "url_hash": 72600916030200,
+    "last_visit_date": 1758203930122111
+  }
+}

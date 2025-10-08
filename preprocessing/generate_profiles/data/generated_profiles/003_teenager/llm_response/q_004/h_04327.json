@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Thundercat (musician) \"From Wikipedia, the free encyclopedianavigation search This biography of a living person needs additional citations for verification. Please help by adding reliable sources. Contentious material about living persons that is unsourced or poorly sourced must be removed immediately, especially if pote",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns a musician (Thundercat) and not sports improvement; it is not relevant to the query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Thundercat (musician) \"From Wikipedia, the free encyclopedianavigation search This biography of a living person needs additional citations for verification. Please help by adding reliable sources. Contentious material about living persons that is unsourced or poorly sourced must be removed immediately, especially if pote",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Thundercat_(musician)",
+    "title": "Thundercat (musician)",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search This biography of a living person needs additional citations for verification. Please help by adding reliable sources. Contentious material about living persons that is unsourced or poorly sourced must be removed immediately, especially if pote",
+    "frecency": 524,
+    "url_hash": 12631373493860,
+    "last_visit_date": 1758203933797228
+  }
+}

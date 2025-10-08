@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Why Danish students are paid to go to college \\\"The Danish government is paying its students to go to college. (Photo: Syddansk Universitet)When 23-year-old Danish engineering student Louis Moe Christoffersen arrived in Baltimore in late January for an exchange semester, he immediately noticed a difference: Everything was so much more expensive",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Danish government funding for higher education and college expenses, not about IDEs or software development tools.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Why Danish students are paid to go to college \"The Danish government is paying its students to go to college. (Photo: Syddansk Universitet)When 23-year-old Danish engineering student Louis Moe Christoffersen arrived in Baltimore in late January for an exchange semester, he immediately noticed a difference: Everything was so much more expensive",
+  "history": {
+    "url": "https://www.washingtonpost.com/news/worldviews/wp/2015/02/04/why-danish-students-are-paid-to-go-to-college/",
+    "title": "Why Danish students are paid to go to college",
+    "description": "\"The Danish government is paying its students to go to college. (Photo: Syddansk Universitet)When 23-year-old Danish engineering student Louis Moe Christoffersen arrived in Baltimore in late January for an exchange semester, he immediately noticed a difference: Everything was so much more expensive ",
+    "frecency": 4908,
+    "url_hash": 85092435255420,
+    "last_visit_date": 1758203927218111
+  }
+}

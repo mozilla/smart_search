@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Palazzo pants \"From Wikipedia, the free encyclopedia (Redirected from Palazzo trousers)navigation search A model wearing palazzo-leg trousers Palazzo pants ( British English: palazzo trousers, Indian English: pantada) are long women's trousers cut with a loose, extremely wide leg that flares out from the waist. P",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about fashion (palazzo pants) and not about Python libraries or machine learning, so it is not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Palazzo pants \"From Wikipedia, the free encyclopedia (Redirected from Palazzo trousers)navigation search A model wearing palazzo-leg trousers Palazzo pants ( British English: palazzo trousers, Indian English: pantada) are long women's trousers cut with a loose, extremely wide leg that flares out from the waist. P",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Palazzo_trousers",
+    "title": "Palazzo pants",
+    "description": "\"From Wikipedia, the free encyclopedia (Redirected from Palazzo trousers)navigation search A model wearing palazzo-leg trousers Palazzo pants ( British English: palazzo trousers, Indian English: pantada) are long women's trousers cut with a loose, extremely wide leg that flares out from the waist. P",
+    "frecency": 1489,
+    "url_hash": 84090216439159,
+    "last_visit_date": 1758203927390111
+  }
+}

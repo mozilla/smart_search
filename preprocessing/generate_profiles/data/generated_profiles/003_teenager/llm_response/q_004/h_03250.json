@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Poconos Weather page describing the Pocono Mountains climate and seasons with outdoor activities; not focused on sports improvement.",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The page is about weather and seasonal outdoor activities in the Pocono Mountains, not about improving sports performance or training methods.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Poconos Weather \"Poconos Weather The Pocono Mountains experiences four distinct seasons......white winters, crisp springs, balmy summers and colorful autumns - with a unique climate and corresponding outdoor activities for each. The average annual snowfall is about 50\"\" and the hottest day rarely exceeds 90 degrees",
+  "history": {
+    "url": "https://www.poconomountains.com/about-the-pocono-mountains/weather/",
+    "title": "Poconos Weather",
+    "description": "\"Poconos Weather The Pocono Mountains experiences four distinct seasons......white winters, crisp springs, balmy summers and colorful autumns - with a unique climate and corresponding outdoor activities for each. The average annual snowfall is about 50\"\" and the hottest day rarely exceeds 90 degrees",
+    "frecency": 1596,
+    "url_hash": 15780906982402,
+    "last_visit_date": 1758203933753228
+  }
+}

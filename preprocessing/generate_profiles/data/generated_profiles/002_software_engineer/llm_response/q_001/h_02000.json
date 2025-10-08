@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Application Requirements for International Applicants \"Application Requirements for International Applicants Main Navigation Home Prospective Graduate Students Application for Admission Requirements for US Citizens and Permanent Residents Requirements for International Applicants Required Academic Records Financial Verification and Visa Procedures Engl",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The page is about admission requirements for international applicants, not about Python libraries or machine learning; there is no relevance to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Application Requirements for International Applicants \"Application Requirements for International Applicants Main Navigation Home Prospective Graduate Students Application for Admission Requirements for US Citizens and Permanent Residents Requirements for International Applicants Required Academic Records Financial Verification and Visa Procedures Engl",
+  "history": {
+    "url": "http://graduate.ucr.edu/international.html",
+    "title": "Application Requirements for International Applicants",
+    "description": "\"Application Requirements for International Applicants Main Navigation Home Prospective Graduate Students Application for Admission Requirements for US Citizens and Permanent Residents Requirements for International Applicants Required Academic Records Financial Verification and Visa Procedures Engl",
+    "frecency": 1372,
+    "url_hash": 47826013830848,
+    "last_visit_date": 1758203932306111
+  }
+}

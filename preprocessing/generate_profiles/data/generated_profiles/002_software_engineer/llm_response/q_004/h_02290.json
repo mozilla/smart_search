@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Agricultural Products That Help Farmers Succeed Home > Industries > Agriculture Share Contact Us Agricultural Products That Help Farmers Succeed Du Pont Agriculture offerings bring innovative science and solutions to meet the challenges faced by farmers today and into the future. In agriculture, succeeding for our customers means growing a health",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page concerns agricultural products from Du Pont, not Docker or beginner-level setup topics, so it is not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Agricultural Products That Help Farmers Succeed Home > Industries > Agriculture Share Contact Us Agricultural Products That Help Farmers Succeed Du Pont Agriculture offerings bring innovative science and solutions to meet the challenges faced by farmers today and into the future. In agriculture, succeeding for our customers means growing a health",
+  "history": {
+    "url": "http://www.dupont.ca/en/industries/agriculture.html",
+    "title": "Agricultural Products That Help Farmers Succeed",
+    "description": "Home > Industries > Agriculture Share Contact Us Agricultural Products That Help Farmers Succeed Du Pont Agriculture offerings bring innovative science and solutions to meet the challenges faced by farmers today and into the future. In agriculture, succeeding for our customers means growing a health",
+    "frecency": 862,
+    "url_hash": 42174556375876,
+    "last_visit_date": 1758203928644111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "10 Example of find command in Unix and Linux \"10 Example of find command in Unix and Linux The find command is one of the versatile commands in UNIX and Linux and I used it a lot in my day to day work. I believe having good knowledge of find command in UNIX and understanding of its different options and usage will increase your productivity a",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses the Unix 'find' command, not database queries or their optimization; thus it is not relevant to the query 'how to optimize database queries'.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "10 Example of find command in Unix and Linux \"10 Example of find command in Unix and Linux The find command is one of the versatile commands in UNIX and Linux and I used it a lot in my day to day work. I believe having good knowledge of find command in UNIX and understanding of its different options and usage will increase your productivity a",
+  "history": {
+    "url": "http://javarevisited.blogspot.com/2011/03/10-find-command-in-unix-examples-basic.html",
+    "title": "10 Example of find command in Unix and Linux",
+    "description": "\"10 Example of find command in Unix and Linux The find command is one of the versatile commands in UNIX and Linux and I used it a lot in my day to day work. I believe having good knowledge of find command in UNIX and understanding of its different options and usage will increase your productivity a ",
+    "frecency": 4783,
+    "url_hash": 12628425522922,
+    "last_visit_date": 1758203927530200
+  }
+}

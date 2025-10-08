@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Class NullPointerException java.lang. Objectjava.lang. Throwablejava.lang. Exceptionjava.lang. Runtime Exceptionjava.lang. Null Pointer Exception All Implemented Interfaces: Serializablepublic class Null Pointer Exception extends Runtime Exception Thrown when an application attempts to use null in a case where an object is re",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses a Java NullPointerException, not content about debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Class NullPointerException java.lang. Objectjava.lang. Throwablejava.lang. Exceptionjava.lang. Runtime Exceptionjava.lang. Null Pointer Exception All Implemented Interfaces: Serializablepublic class Null Pointer Exception extends Runtime Exception Thrown when an application attempts to use null in a case where an object is re",
+  "history": {
+    "url": "http://docs.oracle.com/javase/7/docs/api/java/lang/NullPointerException.html",
+    "title": "Class NullPointerException",
+    "description": "java.lang. Objectjava.lang. Throwablejava.lang. Exceptionjava.lang. Runtime Exceptionjava.lang. Null Pointer Exception All Implemented Interfaces: Serializablepublic class Null Pointer Exception extends Runtime Exception Thrown when an application attempts to use null in a case where an object is re",
+    "frecency": 4518,
+    "url_hash": 40536973051703,
+    "last_visit_date": 1758203926750200
+  }
+}

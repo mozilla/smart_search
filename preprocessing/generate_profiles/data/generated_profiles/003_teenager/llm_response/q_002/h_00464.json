@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Asbestos-Related Lung Diseases Asbestos-Related Lung Diseases Also known as What Is Other Names Causes Risk Factors Screening and Prevention Signs, Symptoms, and Complications Diagnosis Treatment Living With Participate in NHLBI Clinical Trials More Information",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses asbestos-related lung diseases and is unrelated to DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Asbestos-Related Lung Diseases Asbestos-Related Lung Diseases Also known as What Is Other Names Causes Risk Factors Screening and Prevention Signs, Symptoms, and Complications Diagnosis Treatment Living With Participate in NHLBI Clinical Trials More Information",
+  "history": {
+    "url": "https://www.nhlbi.nih.gov/health-topics/asbestos-related-lung-diseases",
+    "title": "Asbestos-Related Lung Diseases",
+    "description": "Asbestos-Related Lung Diseases Also known as What Is Other Names Causes Risk Factors Screening and Prevention Signs, Symptoms, and Complications Diagnosis Treatment Living With Participate in NHLBI Clinical Trials More Information ",
+    "frecency": 4505,
+    "url_hash": 21181940673341,
+    "last_visit_date": 1758203935123228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Sziget 2018 Sziget 2018Aug 8-15, 2018 | Budapest, Hungary | Music102Photo: Sandor Csudai",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes the Sziget music festival and does not relate to starting or managing a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Sziget 2018 Sziget 2018Aug 8-15, 2018 | Budapest, Hungary | Music102Photo: Sandor Csudai",
+  "history": {
+    "url": "https://www.fest300.com/festivals/sziget",
+    "title": "Sziget 2018",
+    "description": "Sziget 2018Aug 8-15, 2018 | Budapest, Hungary | Music102Photo: Sandor Csudai ",
+    "frecency": 646,
+    "url_hash": 31583239546858,
+    "last_visit_date": 1758203935127228
+  }
+}

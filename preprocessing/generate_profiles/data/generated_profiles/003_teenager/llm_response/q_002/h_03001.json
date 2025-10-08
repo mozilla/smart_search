@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Bass jokes \"Bass jokes Q: Why did the bass player get mad at the timpanist? A: He turned a peg and wouldn't tell the bass player which one. Q: How many bass players does it take to change a light bulb? A: Only one - but the guitarist has to show him first. Q: How many bass players does it take to change a ligh",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result consists of bass jokes and is unrelated to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Bass jokes \"Bass jokes Q: Why did the bass player get mad at the timpanist? A: He turned a peg and wouldn't tell the bass player which one. Q: How many bass players does it take to change a light bulb? A: Only one - but the guitarist has to show him first. Q: How many bass players does it take to change a ligh",
+  "history": {
+    "url": "http://www.ahajokes.com/bass1.html",
+    "title": "Bass jokes",
+    "description": "\"Bass jokes Q: Why did the bass player get mad at the timpanist? A: He turned a peg and wouldn't tell the bass player which one. Q: How many bass players does it take to change a light bulb? A: Only one - but the guitarist has to show him first. Q: How many bass players does it take to change a ligh",
+    "frecency": 1835,
+    "url_hash": 28006884852735,
+    "last_visit_date": 1758203928004735
+  }
+}

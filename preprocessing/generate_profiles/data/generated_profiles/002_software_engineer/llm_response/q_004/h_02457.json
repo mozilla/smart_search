@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "UNNECESSARY RETURNS \\\"The onboard computer is the brains of the engine control system, so when the brain isn't functioning correctly neither is the engine or anything else that the microprocessor controls - which may include the charging system, transmission, various emission controls and communications with other onboa",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses automotive onboard computer and engine control, not Docker or container setup; unrelated to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "UNNECESSARY RETURNS \"The onboard computer is the brains of the engine control system, so when the brain isn't functioning correctly neither is the engine or anything else that the microprocessor controls - which may include the charging system, transmission, various emission controls and communications with other onboa",
+  "history": {
+    "url": "http://www.obdii.com/articles/When_To_Replace_PCM.html",
+    "title": "UNNECESSARY RETURNS",
+    "description": "\"The onboard computer is the brains of the engine control system, so when the brain isn't functioning correctly neither is the engine or anything else that the microprocessor controls - which may include the charging system, transmission, various emission controls and communications with other onboa",
+    "frecency": 560,
+    "url_hash": 37873842114937,
+    "last_visit_date": 1758203929596111
+  }
+}

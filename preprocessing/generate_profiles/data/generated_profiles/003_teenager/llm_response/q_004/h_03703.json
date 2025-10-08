@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "A Few Good Men \\\"From Wikipedia, the free encyclopedianavigation search For other uses, see A Few Good Men (disambiguation). A Few Good Men Original theatrical release poster Directed by Rob Reiner Produced by Rob Reiner David Brown Andrew Scheinman Screenplay by Aaron Sorkin Based on A Few Good Men by Aaron Sorkin",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about the film 'A Few Good Men', not about improving skills or performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "A Few Good Men \"From Wikipedia, the free encyclopedianavigation search For other uses, see A Few Good Men (disambiguation). A Few Good Men Original theatrical release poster Directed by Rob Reiner Produced by Rob Reiner David Brown Andrew Scheinman Screenplay by Aaron Sorkin Based on A Few Good Men by Aaron Sorkin",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/A_Few_Good_Men",
+    "title": "A Few Good Men",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search For other uses, see A Few Good Men (disambiguation). A Few Good Men Original theatrical release poster Directed by Rob Reiner Produced by Rob Reiner David Brown Andrew Scheinman Screenplay by Aaron Sorkin Based on A Few Good Men by Aaron Sorkin",
+    "frecency": 1143,
+    "url_hash": 41523835650257,
+    "last_visit_date": 1758203929114735
+  }
+}

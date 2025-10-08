@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "How to Become a Tattoo Artist",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses becoming a tattoo artist and contains no Docker-related or beginner Docker setup information; it is not relevant to the Docker query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "How to Become a Tattoo Artist \"Edit Article How to Become a Tattoo Artist Tattooing is an ancient art and does not require formal education. Rather, tattoo artists must demonstrate their abilities through their artistic talent, their commitment to the craft, and their experience as a certified apprentice. Read this article to le",
+  "history": {
+    "url": "http://www.wikihow.com/Become-a-Tattoo-Artist",
+    "title": "How to Become a Tattoo Artist",
+    "description": "\"Edit Article How to Become a Tattoo Artist Tattooing is an ancient art and does not require formal education. Rather, tattoo artists must demonstrate their abilities through their artistic talent, their commitment to the craft, and their experience as a certified apprentice. Read this article to le",
+    "frecency": 888,
+    "url_hash": 33905642607006,
+    "last_visit_date": 1758203931524111
+  }
+}

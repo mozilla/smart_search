@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "How to Find Saved Files on an External Hard Drive \"How to Find Saved Files on an External Hard Driveby C. Taylor Sometimes you save a file, but later realize you don't know where. This is where Windows 7's search feature comes in. You can specify that Windows 7 searc",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about finding saved files on an external hard drive using Windows 7 search, which is unrelated to Docker setup for beginners. It does not address Docker or container setup.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "How to Find Saved Files on an External Hard Drive \"How to Find Saved Files on an External Hard Driveby C. Taylor Sometimes you save a file, but later realize you don't know where. You might know you saved it on an external hard drive, but you just can't find it. This is where Windows 7's search feature comes in. You can specify that Windows 7 searc",
+  "history": {
+    "url": "http://www.ehow.com/how_8442000_exe-file.html",
+    "title": "How to Find Saved Files on an External Hard Drive",
+    "description": "\"How to Find Saved Files on an External Hard Driveby C. Taylor Sometimes you save a file, but later realize you don't know where. You might know you saved it on an external hard drive, but you just can't find it. This is where Windows 7's search feature comes in. You can specify that Windows 7 searc",
+    "frecency": 2422,
+    "url_hash": 19984429356717,
+    "last_visit_date": 1758203931462111
+  }
+}

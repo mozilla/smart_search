@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Walking problems Walking problems Must Reads in Health Protecting Your Skin During Winter Watch: My Personal Psoriasis Journey Are You Getting The Best Cancer Care? Keeping An Active Lifestyle With COPDLiver Disease? Find a Doc Who Treats PBCAre You Allergic To Your Clothes? Why Psoriasis Treatments Can Fail Content",
+  "relevance_score": 0.15,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result consists of health-related topics (walking problems, skin protection, psoriasis, cancer care, COPD, liver disease) and does not address improving sports performance. It only tangentially mentions staying active, not strategies to get better at sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Walking problems Walking problems Must Reads in Health Protecting Your Skin During Winter Watch: My Personal Psoriasis Journey Are You Getting The Best Cancer Care? Keeping An Active Lifestyle With COPDLiver Disease? Find a Doc Who Treats PBCAre You Allergic To Your Clothes? Why Psoriasis Treatments Can Fail Content",
+  "history": {
+    "url": "http://www.rightdiagnosis.com/symptom/walking-problems.htm",
+    "title": "Walking problems",
+    "description": "Walking problems Must Reads in Health Protecting Your Skin During Winter Watch: My Personal Psoriasis Journey Are You Getting The Best Cancer Care? Keeping An Active Lifestyle With COPDLiver Disease? Find a Doc Who Treats PBCAre You Allergic To Your Clothes? Why Psoriasis Treatments Can Fail Content",
+    "frecency": 4175,
+    "url_hash": 27459908496747,
+    "last_visit_date": 1758203934737228
+  }
+}

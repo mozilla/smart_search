@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Licensing Azure for the enterprise Azure is an open and flexible cloud platform that enables you to quickly build, deploy, and manage applications across a global network of Microsoft-managed datacenters. Build applications using any language, tool, or framework, and integrate your public cloud applications with your existing IT envi",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses licensing and cloud platform (Azure) rather than Python libraries or machine learning, so it is not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Licensing Azure for the enterprise Azure is an open and flexible cloud platform that enables you to quickly build, deploy, and manage applications across a global network of Microsoft-managed datacenters. Build applications using any language, tool, or framework, and integrate your public cloud applications with your existing IT envi",
+  "history": {
+    "url": "https://azure.microsoft.com/en-us/pricing/enterprise-agreement/",
+    "title": "Licensing Azure for the enterprise",
+    "description": "Azure is an open and flexible cloud platform that enables you to quickly build, deploy, and manage applications across a global network of Microsoft-managed datacenters. Build applications using any language, tool, or framework, and integrate your public cloud applications with your existing IT envi",
+    "frecency": 2805,
+    "url_hash": 10346876246245,
+    "last_visit_date": 1758203928844200
+  }
+}

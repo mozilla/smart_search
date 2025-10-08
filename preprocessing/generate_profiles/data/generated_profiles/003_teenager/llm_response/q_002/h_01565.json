@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Celine Dion Tickets No events found near Boydton, VA May 22 Tue 7:30 pm Celine Dion Caesars Palace Hotel and Casino \u2013 Las Vegas, NV From $145 May 23 Wed 7:30 pm Celine Dion Caesars Palace Hotel and Casino \u2013 Las Vegas, NV From $114 May 25 Fri 7:30 pm Celine Dion Caesars Palace Hotel and Casino \u2013 Las Vegas, NV From $114 May 26 Sat",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Celine Dion concert tickets, not about easy DIY room decoration ideas; it has no relevance to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Celine Dion Tickets No events found near Boydton, VAMay 22Tue 7:30 pm Celine Dion Caesars Palace Hotel and Casino \u2013 Las Vegas, NVFrom $145May 23Wed 7:30 pm Celine Dion Caesars Palace Hotel and Casino \u2013 Las Vegas, NVFrom $114May 25Fri 7:30 pm Celine Dion Caesars Palace Hotel and Casino \u2013 Las Vegas, NVFrom $114May 26Sat",
+  "history": {
+    "url": "https://seatgeek.com/celine-dion-tickets",
+    "title": "Celine Dion Tickets",
+    "description": "No events found near Boydton, VAMay 22Tue 7:30 pm Celine Dion Caesars Palace Hotel and Casino \u2013 Las Vegas, NVFrom $145May 23Wed 7:30 pm Celine Dion Caesars Palace Hotel and Casino \u2013 Las Vegas, NVFrom $114May 25Fri 7:30 pm Celine Dion Caesars Palace Hotel and Casino \u2013 Las Vegas, NVFrom $114May 26Sat ",
+    "frecency": 3393,
+    "url_hash": 91131463036011,
+    "last_visit_date": 1758203930043228
+  }
+}

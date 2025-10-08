@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "C - switch statement \"C - switch statement Advertisements Previous Page Next Page A switch statement allows a variable to be tested for equality against a list of values. Each value is called a case, and the variable being switched on is checked for each switch case. Syntax The syntax for a switch statement in C program\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses a C language switch statement, not Python libraries or machine learning topics, so it is not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "C - switch statement \"C - switch statement Advertisements Previous Page Next Page A switch statement allows a variable to be tested for equality against a list of values. Each value is called a case, and the variable being switched on is checked for each switch case. Syntax The syntax for a switch statement in C program",
+  "history": {
+    "url": "https://www.tutorialspoint.com/cprogramming/switch_statement_in_c.htm",
+    "title": "C - switch statement",
+    "description": "\"C - switch statement Advertisements Previous Page Next Page A switch statement allows a variable to be tested for equality against a list of values. Each value is called a case, and the variable being switched on is checked for each switch case. Syntax The syntax for a switch statement in C program",
+    "frecency": 2828,
+    "url_hash": 83392764758132,
+    "last_visit_date": 1758203928596200
+  }
+}

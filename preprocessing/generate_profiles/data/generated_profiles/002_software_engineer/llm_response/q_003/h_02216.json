@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Recovering Standby Database Using Incremental RMAN \\\"Recovering Standby Database Using Incremental RMANExpert Oracle Database Tips by Donald Burleson March 25, 2015Recovering Standby Database Using Incremental RMANThe standby database might be recovered using incremental backups taken from the primary database. For this, perform the following steps:",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The result discusses recovery of a standby database using incremental RMAN, not database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Recovering Standby Database Using Incremental RMAN \"Recovering Standby Database Using Incremental RMANExpert Oracle Database Tips by Donald Burleson March 25, 2015Recovering Standby Database Using Incremental RMANThe standby database might be recovered using incremental backups taken from the primary database. For this, perform the following steps:",
+  "history": {
+    "url": "http://www.dba-oracle.com/t_rman_86_recover_standby_incremental.htm",
+    "title": "Recovering Standby Database Using Incremental RMAN",
+    "description": "\"Recovering Standby Database Using Incremental RMANExpert Oracle Database Tips by Donald Burleson March 25, 2015Recovering Standby Database Using Incremental RMANThe standby database might be recovered using incremental backups taken from the primary database. For this, perform the following steps: ",
+    "frecency": 972,
+    "url_hash": 49190869927781,
+    "last_visit_date": 1758203927318111
+  }
+}

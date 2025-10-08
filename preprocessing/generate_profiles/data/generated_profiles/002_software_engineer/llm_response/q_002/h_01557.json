@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Frequently Asked Questions Frequently Asked Questions Who will have an HRA? Who funds the HRA? What expenses can I submit for reimbursement from my HRA? Do you have to substantiate eligible expenses? What happens to my HRA balance at the end of the year? What happens to my account when I leave employment? How do I file for re",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses health reimbursement arrangements (HRA) FAQs, which are unrelated to top IDEs for software development.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Frequently Asked Questions Frequently Asked Questions Who will have an HRA? Who funds the HRA? What expenses can I submit for reimbursement from my HRA? Do you have to substantiate eligible expenses? What happens to my HRA balance at the end of the year? What happens to my account when I leave employment? How do I file for re",
+  "history": {
+    "url": "https://www.bcbsal.org/web/plans/preferred/hra/faq.html",
+    "title": "Frequently Asked Questions",
+    "description": "Frequently Asked Questions Who will have an HRA? Who funds the HRA? What expenses can I submit for reimbursement from my HRA? Do you have to substantiate eligible expenses? What happens to my HRA balance at the end of the year? What happens to my account when I leave employment? How do I file for re",
+    "frecency": 2185,
+    "url_hash": 91529330371057,
+    "last_visit_date": 1758203931580111
+  }
+}

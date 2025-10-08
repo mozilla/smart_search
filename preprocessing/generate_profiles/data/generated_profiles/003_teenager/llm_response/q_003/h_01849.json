@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "The Adventures of Brer Rabbit \"A lot or a little? The parents' guide to what's in this movie. Educational value Positive messages Positive role models & representations Violence & scariness Sexy stuff Language Consumerism Drinking, drugs & smoking What parents need to know Parents need to know that The Adventures of Brer Rabbit",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page is a parental guide/review for a movie and does not pertain to apps or tools for improving study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "The Adventures of Brer Rabbit \"A lot or a little? The parents' guide to what's in this movie. Educational value Positive messages Positive role models & representations Violence & scariness Sexy stuff Language Consumerism Drinking, drugs & smoking What parents need to know Parents need to know that The Adventures of Brer Rabbit",
+  "history": {
+    "url": "https://www.commonsensemedia.org/movie-reviews/the-adventures-of-brer-rabbit",
+    "title": "The Adventures of Brer Rabbit",
+    "description": "\"A lot or a little? The parents' guide to what's in this movie. Educational value Positive messages Positive role models & representations Violence & scariness Sexy stuff Language Consumerism Drinking, drugs & smoking What parents need to know Parents need to know that The Adventures of Brer Rabbit ",
+    "frecency": 3116,
+    "url_hash": 63174270749913,
+    "last_visit_date": 1758203935717228
+  }
+}

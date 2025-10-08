@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "How long is a round in boxing? \\\"Answers.com \u00ae Wiki Answers \u00ae Categories Jobs & Education Education School Subjects How long is a round in boxing? Flag How long is a round in boxing? Answer by Isadora Duncan Confidence votes 67.2KThe length of a professional boxing round for men is 3 mins and women are 2 mins. The length of an ama",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about boxing rounds, not Docker setup for beginners; it has no relevance to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "How long is a round in boxing? \"Answers.com \u00ae Wiki Answers \u00ae Categories Jobs & Education Education School Subjects How long is a round in boxing? Flag How long is a round in boxing? Answer by Isadora Duncan Confidence votes 67.2KThe length of a professional boxing round for men is 3 mins and women are 2 mins. The length of an ama",
+  "history": {
+    "url": "http://www.answers.com/Q/How_long_is_a_round_in_boxing",
+    "title": "How long is a round in boxing?",
+    "description": "\"Answers.com \u00ae Wiki Answers \u00ae Categories Jobs & Education Education School Subjects How long is a round in boxing? Flag How long is a round in boxing? Answer by Isadora Duncan Confidence votes 67.2KThe length of a professional boxing round for men is 3 mins and women are 2 mins. The length of an ama",
+    "frecency": 2430,
+    "url_hash": 23597998323052,
+    "last_visit_date": 1758203931802111
+  }
+}

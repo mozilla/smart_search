@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Map & Directions Map & Directions The Grand Canal Hotel is located in a lovely picturesque area of the south side of Dublin city, just a short walk to the city centre or 3 minutes by Dart. We are loacted near the Bord Gais Energy Theatre, the Aviva Stadium, the 3 Arena and Grafton Street. Temple Bar is a 25 minute w",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The result describes a hotel location and directions, not about apps or study-habit improvement.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Map & Directions Map & Directions The Grand Canal Hotel is located in a lovely picturesque area of the south side of Dublin city, just a short walk to the city centre or 3 minutes by Dart. We are loacted near the Bord Gais Energy Theatre, the Aviva Stadium, the 3 Arena and Grafton Street. Temple Bar is a 25 minute w",
+  "history": {
+    "url": "http://www.grandcanalhotel.ie/en/hotel-dublin-city-centre/",
+    "title": "Map & Directions",
+    "description": "Map & Directions The Grand Canal Hotel is located in a lovely picturesque area of the south side of Dublin city, just a short walk to the city centre or 3 minutes by Dart. We are loacted near the Bord Gais Energy Theatre, the Aviva Stadium, the 3 Arena and Grafton Street. Temple Bar is a 25 minute w",
+    "frecency": 2451,
+    "url_hash": 12527006831459,
+    "last_visit_date": 1758203931903228
+  }
+}

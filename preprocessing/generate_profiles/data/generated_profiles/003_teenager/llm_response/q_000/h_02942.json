@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Virginia Beach Department of Public Health Virginia Beach Department of Public Health Vision: A community that lives well, plays well and stays well. Mission: Promoting health, preventing disease, and protecting the environment so that all in Virginia Beach are empowered to achieve optimal health and well-being. Community Health Assessment C",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is from a health department page and does not relate to creating or starting a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Virginia Beach Department of Public Health Virginia Beach Department of Public Health Vision: A community that lives well, plays well and stays well. Mission: Promoting health, preventing disease, and protecting the environment so that all in Virginia Beach are empowered to achieve optimal health and well-being. Community Health Assessment C",
+  "history": {
+    "url": "http://www.vdh.virginia.gov/LHD/vabeach/Clinic.htm",
+    "title": "Virginia Beach Department of Public Health",
+    "description": "Virginia Beach Department of Public Health Vision: A community that lives well, plays well and stays well. Mission: Promoting health, preventing disease, and protecting the environment so that all in Virginia Beach are empowered to achieve optimal health and well-being. Community Health Assessment C",
+    "frecency": 1907,
+    "url_hash": 63031892839389,
+    "last_visit_date": 1758203930275228
+  }
+}

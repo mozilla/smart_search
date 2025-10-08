@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Spring in Italy Spring in Italy There are plenty of people who can\u2019t quite stomach the idea of a winter trip to Italy \u2013 no matter how good the deals are \u2013 because they want at least a little bit of nice weather when they\u2019re on vacation. But those people would do well to avoid the knee-jerk reaction of assuming the",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes travel to Italy, not apps or study habits; it is not relevant to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Spring in Italy Spring in Italy There are plenty of people who can\u2019t quite stomach the idea of a winter trip to Italy \u2013 no matter how good the deals are \u2013 because they want at least a little bit of nice weather when they\u2019re on vacation. But those people would do well to avoid the knee-jerk reaction of assuming the",
+  "history": {
+    "url": "http://www.italylogue.com/planning-a-trip/spring-in-italy.html",
+    "title": "Spring in Italy",
+    "description": "Spring in Italy There are plenty of people who can\u2019t quite stomach the idea of a winter trip to Italy \u2013 no matter how good the deals are \u2013 because they want at least a little bit of nice weather when they\u2019re on vacation. But those people would do well to avoid the knee-jerk reaction of assuming the ",
+    "frecency": 1362,
+    "url_hash": 76452595383369,
+    "last_visit_date": 1758203932651228
+  }
+}

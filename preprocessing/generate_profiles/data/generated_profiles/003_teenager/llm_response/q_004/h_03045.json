@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Immigration Officer \\\"Immigration Officer\u0100piha Whakahaere Manene This job is sometimes referred to by alternative titles Immigration officers control the entry of people from other countries into New Zealand, assessing visa applications from people who wish to visit, study, work or reside in NZ. Pay Immigration officers",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "Content is about immigration officer job responsibilities; it has no relevance to improving sports performance or sports skills.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Immigration Officer \"Immigration Officer\u0100piha Whakahaere Manene This job is sometimes referred to by alternative titles Immigration officers control the entry of people from other countries into New Zealand, assessing visa applications from people who wish to visit, study, work or reside in NZ. Pay Immigration officers",
+  "history": {
+    "url": "https://www.careers.govt.nz/jobs-database/government-law-and-safety/public-order-safety/immigration-officer/",
+    "title": "Immigration Officer",
+    "description": "\"Immigration Officer\u0100piha Whakahaere Manene This job is sometimes referred to by alternative titles Immigration officers control the entry of people from other countries into New Zealand, assessing visa applications from people who wish to visit, study, work or reside in NZ. Pay Immigration officers",
+    "frecency": 1793,
+    "url_hash": 43165561301210,
+    "last_visit_date": 1758203928176735
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Elkhart Co. / Middlebury KOA \\\"Northern Indiana's Amish Country! Great for Groups and Family Reunions!Antique Campers!Our Registration Desk and Info Center Full Hookup Pull Throughs Beautiful Deluxe Kabins Water Electric Patio Sites Ride a Fun Cycle! Our Fully Stocked Store Beautiful Pool!Spring is almost here! Are you making yo",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a campground advertisement with no content related to improving sports skills; not relevant to the query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Elkhart Co. / Middlebury KOA \"Northern Indiana's Amish Country! Great for Groups and Family Reunions!Antique Campers!Our Registration Desk and Info Center Full Hookup Pull Throughs Beautiful Deluxe Kabins Water Electric Patio Sites Ride a Fun Cycle! Our Fully Stocked Store Beautiful Pool!Spring is almost here! Are you making yo",
+  "history": {
+    "url": "http://koa.com/campgrounds/elkhart-co/",
+    "title": "Elkhart Co. / Middlebury KOA",
+    "description": "\"Northern Indiana's Amish Country! Great for Groups and Family Reunions!Antique Campers!Our Registration Desk and Info Center Full Hookup Pull Throughs Beautiful Deluxe Kabins Water Electric Patio Sites Ride a Fun Cycle! Our Fully Stocked Store Beautiful Pool!Spring is almost here! Are you making yo",
+    "frecency": 1387,
+    "url_hash": 69683777853136,
+    "last_visit_date": 1758203934691228
+  }
+}

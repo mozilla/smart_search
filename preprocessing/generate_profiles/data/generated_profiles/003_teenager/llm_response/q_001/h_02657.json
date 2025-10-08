@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "Action and Inaction \"Action and Inaction Hamlet fits in a literary tradition called the revenge play, in which a man must take revenge against those who have in some way wronged him. Yet Hamlet turns the revenge play on its head in an ingenious way: Hamlet, the man seeking revenge, can't actually bring himself to take",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Hamlet and literary analysis, not TikTok trends. It is not relevant to the query about top TikTok trends for 2024.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "Action and Inaction \"Action and Inaction Hamlet fits in a literary tradition called the revenge play, in which a man must take revenge against those who have in some way wronged him. Yet Hamlet turns the revenge play on its head in an ingenious way: Hamlet, the man seeking revenge, can't actually bring himself to take",
+  "history": {
+    "url": "http://www.litcharts.com/lit/hamlet/themes",
+    "title": "Action and Inaction",
+    "description": "\"Action and Inaction Hamlet fits in a literary tradition called the revenge play, in which a man must take revenge against those who have in some way wronged him. Yet Hamlet turns the revenge play on its head in an ingenious way: Hamlet, the man seeking revenge, can't actually bring himself to take ",
+    "frecency": 2243,
+    "url_hash": 58769705630379,
+    "last_visit_date": 1758203931553228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "\"Which formula is used to calculate \\\"Mean Time Between Failure (MTBF)\\\"?\" Felix Chen, Materials scientist, engineer, avid violinist Answered May 11, 2017 \u00b7 Author has 232 answers and 142.2k answer views First I\u2019ll state what MTBF is. Contrary to popular belief, it is not average life. Rather, it\u2019s a statistical estimate of expected failure percentage for any given time pe",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Mean Time Between Failure (MTBF), not about starting a YouTube channel; it is not relevant to the query.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "\"Which formula is used to calculate \"\"Mean Time Between Failure (MTBF)\"\"?\" Felix Chen, Materials scientist, engineer, avid violinist Answered May 11, 2017 \u00b7 Author has 232 answers and 142.2k answer views First I\u2019ll state what MTBF is. Contrary to popular belief, it is not average life. Rather, it\u2019s a statistical estimate of expected failure percentage for any given time pe",
+  "history": {
+    "url": "https://www.quora.com/Which-formula-is-used-to-calculate-Mean-Time-Between-Failure-MTBF",
+    "title": "\"Which formula is used to calculate \"\"Mean Time Between Failure (MTBF)\"\"?\"",
+    "description": "Felix Chen, Materials scientist, engineer, avid violinist Answered May 11, 2017 \u00b7 Author has 232 answers and 142.2k answer views First I\u2019ll state what MTBF is. Contrary to popular belief, it is not average life. Rather, it\u2019s a statistical estimate of expected failure percentage for any given time pe",
+    "frecency": 1921,
+    "url_hash": 32749627910910,
+    "last_visit_date": 1758203931207228
+  }
+}

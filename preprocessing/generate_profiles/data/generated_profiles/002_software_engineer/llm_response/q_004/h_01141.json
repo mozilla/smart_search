@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Regions Bank on 4919 Main St in Zachary, LA \"Summary Corporate overview Financial data Routing numbers Jobs Regions Bank on 4919 Main St in Zachary, Louisiana. This bank is listed on Bank Map under Banks - Real Estate Financing - ATMs. You can reach us on pho",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns Regions Bank location and banking information, not related to Docker or beginner setup.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Regions Bank on 4919 Main St in Zachary, LA \"Summary Corporate overview Financial data Routing numbers Jobs Regions Bank on 4919 Main St in Zachary, LAWelcome to Regions Bank (Real Estate Financing - ATMs) on 4919 Main St in Zachary, Louisiana. This bank is listed on Bank Map under Banks - Real Estate Financing - ATMs. You can reach us on pho",
+  "history": {
+    "url": "http://www.bank-map.com/Regions_Bank_Real_Estate_Financing_-_ATMs_in_Zachary_Louisiana_65991",
+    "title": "Regions Bank on 4919 Main St in Zachary, LA",
+    "description": "\"Summary Corporate overview Financial data Routing numbers Jobs Regions Bank on 4919 Main St in Zachary, LAWelcome to Regions Bank (Real Estate Financing - ATMs) on 4919 Main St in Zachary, Louisiana. This bank is listed on Bank Map under Banks - Real Estate Financing - ATMs. You can reach us on pho",
+    "frecency": 2976,
+    "url_hash": 60365987972111,
+    "last_visit_date": 1758203932184111
+  }
+}

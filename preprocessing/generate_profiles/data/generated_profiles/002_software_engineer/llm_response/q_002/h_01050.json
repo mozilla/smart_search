@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Where can I find Bona products? \"Where can I find Bona products? Visit our Where to buy-page and enter your zip code to find a retailer in your area. Can I wash the pad? If so, how many times before I need to replace it? Yes, the pads can be washed up to 300 times. We recommend avoiding bleach, fabric softener, and dryer sheets wh",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Bona cleaning products and does not relate to IDEs or software development.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Where can I find Bona products? \"Where can I find Bona products? Visit our Where to buy-page and enter your zip code to find a retailer in your area. Can I wash the pad? If so, how many times before I need to replace it? Yes, the pads can be washed up to 300 times. We recommend avoiding bleach, fabric softener, and dryer sheets wh",
+  "history": {
+    "url": "https://www.bona.com/en/Consumer1/FAQ/",
+    "title": "Where can I find Bona products?",
+    "description": "\"Where can I find Bona products? Visit our Where to buy-page and enter your zip code to find a retailer in your area. Can I wash the pad? If so, how many times before I need to replace it? Yes, the pads can be washed up to 300 times. We recommend avoiding bleach, fabric softener, and dryer sheets wh",
+    "frecency": 3144,
+    "url_hash": 19352540940958,
+    "last_visit_date": 1758203929870111
+  }
+}

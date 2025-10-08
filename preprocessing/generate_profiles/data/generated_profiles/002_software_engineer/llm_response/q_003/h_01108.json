@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Internet Message Access Protocol \\\"From Wikipedia, the free encyclopedia (Redirected from IMAP)navigation search\\\"\\\"IMAP\\\"\\\" redirects here. For the antipsychotic, see Fluspirilene. Internet protocol suite Application layer BGP DHCP DNS FTP HTTP IMAPLDAP MGCP MQTT NNTP NTP POPONC/RPC RTP RTSP RIP SIP SMTPSNMP SSH Telnet TLS/SSL XMPPmore",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses IMAP and other internet protocols, not database queries or optimization techniques; topic mismatch.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Internet Message Access Protocol \"From Wikipedia, the free encyclopedia (Redirected from IMAP)navigation search\"\"IMAP\"\" redirects here. For the antipsychotic, see Fluspirilene. Internet protocol suite Application layer BGP DHCP DNS FTP HTTP IMAPLDAP MGCP MQTT NNTP NTP POPONC/RPC RTP RTSP RIP SIP SMTPSNMP SSH Telnet TLS/SSL XMPPmore",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/IMAP",
+    "title": "Internet Message Access Protocol",
+    "description": "\"From Wikipedia, the free encyclopedia (Redirected from IMAP)navigation search\"\"IMAP\"\" redirects here. For the antipsychotic, see Fluspirilene. Internet protocol suite Application layer BGP DHCP DNS FTP HTTP IMAPLDAP MGCP MQTT NNTP NTP POPONC/RPC RTP RTSP RIP SIP SMTPSNMP SSH Telnet TLS/SSL XMPPmore",
+    "frecency": 3037,
+    "url_hash": 78133797412357,
+    "last_visit_date": 1758203930296111
+  }
+}

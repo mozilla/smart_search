@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Will there be a ninth Harry Potter? \\\"Answers.com \u00ae Wiki Answers \u00ae Categories Literature & Language Books and Literature Fantasy Books Harry Potter Will there be a ninth Harry Potter? Flag Will there be a ninth Harry Potter? Expert answer by Imo Pop Confidence votes 17.3K\\\"\\\"All was well. \\\"\\\"No, there will be seven books and eight movies.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses a Harry Potter book question, which is not related to study apps or improving study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Will there be a ninth Harry Potter? \"Answers.com \u00ae Wiki Answers \u00ae Categories Literature & Language Books and Literature Fantasy Books Harry Potter Will there be a ninth Harry Potter? Flag Will there be a ninth Harry Potter? Expert answer by Imo Pop Confidence votes 17.3K\"\"All was well. \"\"No, there will be seven books and eight movies.",
+  "history": {
+    "url": "http://www.answers.com/Q/Will_there_be_a_ninth_harry_potter",
+    "title": "Will there be a ninth Harry Potter?",
+    "description": "\"Answers.com \u00ae Wiki Answers \u00ae Categories Literature & Language Books and Literature Fantasy Books Harry Potter Will there be a ninth Harry Potter? Flag Will there be a ninth Harry Potter? Expert answer by Imo Pop Confidence votes 17.3K\"\"All was well. \"\"No, there will be seven books and eight movies.",
+    "frecency": 3059,
+    "url_hash": 59877125076676,
+    "last_visit_date": 1758203935951228
+  }
+}

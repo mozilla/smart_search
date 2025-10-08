@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Couvade syndrome \"From Wikipedia, the free encyclopedianavigation search Couvade syndrome, also called sympathetic pregnancy, is a proposed condition in which a partner experiences some of the same symptoms and behavior as an expectant mother. [1] These most often include minor weight gain, altered hormone levels, m",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Couvade syndrome, a medical condition, and is unrelated to apps or study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Couvade syndrome \"From Wikipedia, the free encyclopedianavigation search Couvade syndrome, also called sympathetic pregnancy, is a proposed condition in which a partner experiences some of the same symptoms and behavior as an expectant mother. [1] These most often include minor weight gain, altered hormone levels, m",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Couvade_syndrome",
+    "title": "Couvade syndrome",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search Couvade syndrome, also called sympathetic pregnancy, is a proposed condition in which a partner experiences some of the same symptoms and behavior as an expectant mother. [1] These most often include minor weight gain, altered hormone levels, m",
+    "frecency": 3889,
+    "url_hash": 7203701871327,
+    "last_visit_date": 1758203926993139
+  }
+}

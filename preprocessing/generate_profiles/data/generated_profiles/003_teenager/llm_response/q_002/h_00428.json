@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Question: Main Article on Hemorrhoids (Causes, Symptoms, and Treatments)Question: What home remedies have been effective for your hemorrhoids? Submit Your Comment Comment from: RC, 55-64 Female (Patient) Published: November 28Nobody wants to talk about hemorrhoids, but they nearly destroyed my life for 3 mont",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses hemorrhoids and home remedies, unrelated to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Question: Main Article on Hemorrhoids (Causes, Symptoms, and Treatments)Question: What home remedies have been effective for your hemorrhoids? Submit Your Comment Comment from: RC, 55-64 Female (Patient) Published: November 28Nobody wants to talk about hemorrhoids, but they nearly destroyed my life for 3 mont",
+  "history": {
+    "url": "https://www.medicinenet.com/hemorrhoids_piles/patient-comments-3874.htm",
+    "title": "Question:",
+    "description": "Main Article on Hemorrhoids (Causes, Symptoms, and Treatments)Question: What home remedies have been effective for your hemorrhoids? Submit Your Comment Comment from: RC, 55-64 Female (Patient) Published: November 28Nobody wants to talk about hemorrhoids, but they nearly destroyed my life for 3 mont",
+    "frecency": 4538,
+    "url_hash": 56691742597807,
+    "last_visit_date": 1758203933745228
+  }
+}

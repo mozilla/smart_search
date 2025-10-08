@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Product and manufacturing information \"Product and manufacturing information, also abbreviated PMI, conveys non-geometric attributes in 3D computer-aided design (CAD) and Collaborative Product Development systems necessary for manufacturing product components and assemblies. PMI may include geometric dimensions and tolerances, 3D annota",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses product manufacturing information (PMI) in CAD, not API integration debugging; no relevance.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Product and manufacturing information \"Product and manufacturing information, also abbreviated PMI, conveys non-geometric attributes in 3D computer-aided design (CAD) and Collaborative Product Development systems necessary for manufacturing product components and assemblies. PMI may include geometric dimensions and tolerances, 3D annota",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Product_and_manufacturing_information",
+    "title": "Product and manufacturing information",
+    "description": "\"Product and manufacturing information, also abbreviated PMI, conveys non-geometric attributes in 3D computer-aided design (CAD) and Collaborative Product Development systems necessary for manufacturing product components and assemblies. PMI may include geometric dimensions and tolerances, 3D annota",
+    "frecency": 4699,
+    "url_hash": 13006617038238,
+    "last_visit_date": 1758203926818200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "The Industrial Revolution  (1750\u00e21900) The Industrial Revolution (1750\u20131900)The term Industrial Revolution, like similar historical concepts, is more convenient than precise. It is convenient because history requires division into periods for purposes of understanding and instruction and because there were sufficient innovations at the t",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses the Industrial Revolution, not IDEs or software development; thus not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "The Industrial Revolution  (1750\u00e21900) The Industrial Revolution (1750\u20131900)The term Industrial Revolution, like similar historical concepts, is more convenient than precise. It is convenient because history requires division into periods for purposes of understanding and instruction and because there were sufficient innovations at the t",
+  "history": {
+    "url": "https://www.britannica.com/technology/history-of-technology/The-Industrial-Revolution-1750-1900",
+    "title": "The Industrial Revolution  (1750\u00e21900)",
+    "description": "The Industrial Revolution (1750\u20131900)The term Industrial Revolution, like similar historical concepts, is more convenient than precise. It is convenient because history requires division into periods for purposes of understanding and instruction and because there were sufficient innovations at the t",
+    "frecency": 4830,
+    "url_hash": 10633364810021,
+    "last_visit_date": 1758203928028111
+  }
+}

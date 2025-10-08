@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Wildlife in Utah Wildlife in Utah Utah's diverse climate and terrain is home to over 600 species of mammals, birds, fish, reptiles and amphibians. Naturalists, pack your rucksacks with field journals and your best pair of binoculars. Settle in, and enjoy our other citizens. Read more... Discover Destinations Rare Si",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses wildlife in Utah and has no content related to improving sports skills; therefore not relevant to the query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Wildlife in Utah Wildlife in Utah Utah's diverse climate and terrain is home to over 600 species of mammals, birds, fish, reptiles and amphibians. Naturalists, pack your rucksacks with field journals and your best pair of binoculars. Settle in, and enjoy our other citizens. Read more... Discover Destinations Rare Si",
+  "history": {
+    "url": "https://utah.com/wildlife",
+    "title": "Wildlife in Utah",
+    "description": "Wildlife in Utah Utah's diverse climate and terrain is home to over 600 species of mammals, birds, fish, reptiles and amphibians. Naturalists, pack your rucksacks with field journals and your best pair of binoculars. Settle in, and enjoy our other citizens. Read more... Discover Destinations Rare Si",
+    "frecency": 4357,
+    "url_hash": 2251735050129,
+    "last_visit_date": 1758203931369228
+  }
+}

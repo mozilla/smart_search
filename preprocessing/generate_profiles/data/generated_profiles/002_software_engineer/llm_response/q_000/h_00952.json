@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Why do female doctors earn less money for doing the same job? Why do female doctors earn less money for doing the same job? Authors: Abi Rimmer Publication date: 15 Sep 2014Despite accounting for almost half of the medical profession, female doctors still earn less than their male counterparts. Abi Rimmer examines why this gender pay gap has continued for so l",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about gender pay gap among female doctors and has no relevance to debugging API integrations.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Why do female doctors earn less money for doing the same job? Why do female doctors earn less money for doing the same job? Authors: Abi Rimmer Publication date: 15 Sep 2014Despite accounting for almost half of the medical profession, female doctors still earn less than their male counterparts. Abi Rimmer examines why this gender pay gap has continued for so l",
+  "history": {
+    "url": "http://careers.bmj.com/careers/advice/view-article.html?id=20019204",
+    "title": "Why do female doctors earn less money for doing the same job?",
+    "description": "Why do female doctors earn less money for doing the same job? Authors: Abi Rimmer Publication date: 15 Sep 2014Despite accounting for almost half of the medical profession, female doctors still earn less than their male counterparts. Abi Rimmer examines why this gender pay gap has continued for so l",
+    "frecency": 3285,
+    "url_hash": 50177164693404,
+    "last_visit_date": 1758203930690111
+  }
+}

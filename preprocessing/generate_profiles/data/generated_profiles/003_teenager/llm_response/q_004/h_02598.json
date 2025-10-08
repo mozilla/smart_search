@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "What Your Dog's Name Says About You \u2014 a piece about dog names and personality.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses dog names and personality, not strategies, training, or advice for improving performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "What Your Dog's Name Says About You \"By Isabelle Schafer Dog owners are famously thought to look like their pooches, but what you decide to call your dog in the first place probably reveals more about your personality than you expect. According to the experts, the name you choose for your dog reveals your expectations, interests and y",
+  "history": {
+    "url": "https://www.forbes.com/2010/02/25/dog-name-owners-lifestyle-what-your-dogs-name-says-about-you.html",
+    "title": "What Your Dog's Name Says About You",
+    "description": "\"By Isabelle Schafer Dog owners are famously thought to look like their pooches, but what you decide to call your dog in the first place probably reveals more about your personality than you expect. According to the experts, the name you choose for your dog reveals your expectations, interests and y",
+    "frecency": 2333,
+    "url_hash": 44511597695614,
+    "last_visit_date": 1758203931079228
+  }
+}

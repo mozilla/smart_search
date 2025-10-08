@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Our work Our work The Big Issue offers people facing poverty and exclusion the opportunity to earn their own money; a livelihood. The Big Issue Foundation is an independent charity working alongside the magazine distribution network. We aim to maximize the success of each vendor\u2019s selling career and engage t",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes The Big Issue Foundation, a charity, with no mention of apps or study habits; thus it's not relevant to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Our work Our work The Big Issue offers people facing poverty and exclusion the opportunity to earn their own money; a livelihood. The Big Issue Foundation is an independent charity working alongside the magazine distribution network. We aim to maximize the success of each vendor\u2019s selling career and engage t",
+  "history": {
+    "url": "https://www.bigissue.org.uk/",
+    "title": "Our work",
+    "description": "Our work The Big Issue offers people facing poverty and exclusion the opportunity to earn their own money; a livelihood. The Big Issue Foundation is an independent charity working alongside the magazine distribution network. We aim to maximize the success of each vendor\u2019s selling career and engage t",
+    "frecency": 3713,
+    "url_hash": 64113661069241,
+    "last_visit_date": 1758203928954735
+  }
+}

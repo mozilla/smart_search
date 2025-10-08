@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "One benchmark for all your hardware One benchmark for all your hardware3DMark includes everything you need to benchmark your PC and mobile devices in one app. Whether you're gaming on a smartphone, tablet, notebook, or a desktop gaming PC, 3DMark includes a benchmark designed specifically for your hardware. With more tests added every",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a hardware benchmarking app (3DMark) and does not relate to apps for improving study habits; it is not relevant to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "One benchmark for all your hardware One benchmark for all your hardware3DMark includes everything you need to benchmark your PC and mobile devices in one app. Whether you're gaming on a smartphone, tablet, notebook, or a desktop gaming PC, 3DMark includes a benchmark designed specifically for your hardware. With more tests added every",
+  "history": {
+    "url": "https://www.futuremark.com/benchmarks/3dmark",
+    "title": "One benchmark for all your hardware",
+    "description": "One benchmark for all your hardware3DMark includes everything you need to benchmark your PC and mobile devices in one app. Whether you're gaming on a smartphone, tablet, notebook, or a desktop gaming PC, 3DMark includes a benchmark designed specifically for your hardware. With more tests added every",
+    "frecency": 2515,
+    "url_hash": 55981924646422,
+    "last_visit_date": 1758203934279228
+  }
+}

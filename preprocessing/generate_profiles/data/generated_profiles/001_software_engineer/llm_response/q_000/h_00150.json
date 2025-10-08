@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Who is Icarus? Who is Icarus? January 16, 2011 , cherran , Leave a comment Who is Icarus? Icarus is one famous character in Greek Mythology. He is the son of Nausicrates and Daedalus, the great inventor, architect, and artist. Icarus\u2019 life, and eventually his death, has a great connection to his father\u2019s own story",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses a Greek mythological figure (Icarus) and has no relevance to debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Who is Icarus? Who is Icarus? January 16, 2011 , cherran , Leave a comment Who is Icarus? Icarus is one famous character in Greek Mythology. He is the son of Nausicrates and Daedalus, the great inventor, architect, and artist. Icarus\u2019 life, and eventually his death, has a great connection to his father\u2019s own story",
+  "history": {
+    "url": "http://www.qwhatis.com/who-is-icarus/",
+    "title": "Who is Icarus?",
+    "description": "Who is Icarus? January 16, 2011 , cherran , Leave a comment Who is Icarus? Icarus is one famous character in Greek Mythology. He is the son of Nausicrates and Daedalus, the great inventor, architect, and artist. Icarus\u2019 life, and eventually his death, has a great connection to his father\u2019s own story",
+    "frecency": 4474,
+    "url_hash": 9783351155974,
+    "last_visit_date": 1758203927714200
+  }
+}

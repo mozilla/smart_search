@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Ptolemy I Soter,The First King of Ancient Egypt's Ptolemaic Dynasty \"Ptolemy I Soter,The First King of Ancient Egypt's Ptolemaic Dynastyby Jimmy Dunn In the ancient world, there is no surprise that military men often became rulers. These men, most of whom rose through the military ranks, usually had considerable administrative skills and had proved themselves to be",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Ptolemy I Soter, an ancient Egyptian king, and not about database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Ptolemy I Soter,The First King of Ancient Egypt's Ptolemaic Dynasty \"Ptolemy I Soter,The First King of Ancient Egypt's Ptolemaic Dynastyby Jimmy Dunn In the ancient world, there is no surprise that military men often became rulers. These men, most of whom rose through the military ranks, usually had considerable administrative skills and had proved themselves to be",
+  "history": {
+    "url": "http://www.touregypt.net/featurestories/ptolemy1.htm",
+    "title": "Ptolemy I Soter,The First King of Ancient Egypt's Ptolemaic Dynasty",
+    "description": "\"Ptolemy I Soter,The First King of Ancient Egypt's Ptolemaic Dynastyby Jimmy Dunn In the ancient world, there is no surprise that military men often became rulers. These men, most of whom rose through the military ranks, usually had considerable administrative skills and had proved themselves to be ",
+    "frecency": 1598,
+    "url_hash": 68909355003668,
+    "last_visit_date": 1758203930252111
+  }
+}

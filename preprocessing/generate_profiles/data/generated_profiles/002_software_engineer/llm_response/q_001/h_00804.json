@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Loni Love \"SEE RANKLoni Love Actress | Writer | Producer Loni Love is a Detroit native, born from Houston, Texas that went to Prairie View A&M University in the Lone Star State for about four years, and got her degree in engineering. Though Loni Love is a stand-up comedian, Loni worked as an engineer for IBM",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Loni Love (an actress/engineer) and not related to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Loni Love \"SEE RANKLoni Love Actress | Writer | Producer Loni Love is a Detroit native, born from Houston, Texas that went to Prairie View A&M University in the Lone Star State for about four years, and got her degree in engineering. Though Loni Love is a stand-up comedian, Loni worked as an engineer for IBM",
+  "history": {
+    "url": "http://www.imdb.com/name/nm1065902/",
+    "title": "Loni Love",
+    "description": "\"SEE RANKLoni Love Actress | Writer | Producer Loni Love is a Detroit native, born from Houston, Texas that went to Prairie View A&M University in the Lone Star State for about four years, and got her degree in engineering. Though Loni Love is a stand-up comedian, Loni worked as an engineer for IBM ",
+    "frecency": 3544,
+    "url_hash": 32611732716671,
+    "last_visit_date": 1758203929866111
+  }
+}

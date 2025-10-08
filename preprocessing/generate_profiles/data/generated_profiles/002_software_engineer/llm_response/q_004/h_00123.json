@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "What is a Forensic Light Source? What is a Forensic Light Source? A forensic light source is a crime scene investigator\u2019s and lab technician\u2019s tool for enhancing observation, photography and collection of evidence including latent fingerprints, body fluids, hair and fibers, bruises, bite marks, wound patterns, shoe and foot imprint",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses forensic light sources for crime scene investigation, which is unrelated to Docker or beginner setup.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "What is a Forensic Light Source? What is a Forensic Light Source? A forensic light source is a crime scene investigator\u2019s and lab technician\u2019s tool for enhancing observation, photography and collection of evidence including latent fingerprints, body fluids, hair and fibers, bruises, bite marks, wound patterns, shoe and foot imprint",
+  "history": {
+    "url": "https://spexforensics.com/products/forensic-light-sources",
+    "title": "What is a Forensic Light Source?",
+    "description": "What is a Forensic Light Source? A forensic light source is a crime scene investigator\u2019s and lab technician\u2019s tool for enhancing observation, photography and collection of evidence including latent fingerprints, body fluids, hair and fibers, bruises, bite marks, wound patterns, shoe and foot imprint",
+    "frecency": 4791,
+    "url_hash": 84119201428522,
+    "last_visit_date": 1758203930790111
+  }
+}

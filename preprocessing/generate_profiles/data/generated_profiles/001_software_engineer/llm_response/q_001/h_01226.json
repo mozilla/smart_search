@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Eric Dunn, CEO Do you have a question, concern or feedback about a Quicken product or service? Send an email to the Office of the President and we'll respond quickly and make sure it gets to the correct leader. Eric Dunn, CEOEric Dunn is the CEO of Quicken Inc. He has been an avid Quicken user since 1985 and conti",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Quicken's CEO and customer service; it has no relevance to Python libraries or machine learning topics.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Eric Dunn, CEO Do you have a question, concern or feedback about a Quicken product or service? Send an email to the Office of the President and we'll respond quickly and make sure it gets to the correct leader. Eric Dunn, CEOEric Dunn is the CEO of Quicken Inc. He has been an avid Quicken user since 1985 and conti",
+  "history": {
+    "url": "https://www.quicken.com/about-us/team",
+    "title": "Eric Dunn, CEO",
+    "description": "Do you have a question, concern or feedback about a Quicken product or service? Send an email to the Office of the President and we'll respond quickly and make sure it gets to the correct leader. Eric Dunn, CEOEric Dunn is the CEO of Quicken Inc. He has been an avid Quicken user since 1985 and conti",
+    "frecency": 690,
+    "url_hash": 40393987471450,
+    "last_visit_date": 1758203927348200
+  }
+}

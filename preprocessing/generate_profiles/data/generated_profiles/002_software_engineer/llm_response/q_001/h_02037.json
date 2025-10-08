@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "HIPAA Compliant Email Switching Is Easy Need help switching over from another email provider? No matter how big your company is, we will perform a complimentary data migration to get you moved over to us with no downtime! We also offer free onboarding over the phone with a dedicated technician to ensure your switch to us",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses HIPAA-compliant email switching and data migration services, unrelated to Python libraries or machine learning concepts.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "HIPAA Compliant Email Switching Is Easy Need help switching over from another email provider? No matter how big your company is, we will perform a complimentary data migration to get you moved over to us with no downtime! We also offer free onboarding over the phone with a dedicated technician to ensure your switch to us",
+  "history": {
+    "url": "https://emailpros.com/HIPAA-compliant-email",
+    "title": "HIPAA Compliant Email",
+    "description": "Switching Is Easy Need help switching over from another email provider? No matter how big your company is, we will perform a complimentary data migration to get you moved over to us with no downtime! We also offer free onboarding over the phone with a dedicated technician to ensure your switch to us",
+    "frecency": 1299,
+    "url_hash": 59831350987433,
+    "last_visit_date": 1758203930666111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Pay cheque deductions Pay cheque deductions What you get to keep For most jobs in Canada, your employer will remove some money from your pay cheque. This is called a deduction. Pay cheque deductions can reduce your pay by as much as 25% to 35%. The money from these deductions usually pays for: Income taxes Canada Pension",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses payroll deductions and taxes, not database queries or optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Pay cheque deductions Pay cheque deductions What you get to keep For most jobs in Canada, your employer will remove some money from your pay cheque. This is called a deduction. Pay cheque deductions can reduce your pay by as much as 25% to 35%. The money from these deductions usually pays for: Income taxes Canada Pension",
+  "history": {
+    "url": "http://www.cic.gc.ca/english/newcomers/before-cost-deductions.asp",
+    "title": "Pay cheque deductions",
+    "description": "Pay cheque deductions What you get to keep For most jobs in Canada, your employer will remove some money from your pay cheque. This is called a deduction. Pay cheque deductions can reduce your pay by as much as 25% to 35%. The money from these deductions usually pays for: Income taxes Canada Pension",
+    "frecency": 2247,
+    "url_hash": 56175926216507,
+    "last_visit_date": 1758203928340111
+  }
+}

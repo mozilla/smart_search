@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Ramblin' Gamblin' Man (song) \u2014 From Wikipedia, the free encyclopedia; navigation search; 'Ramblin' Gamblin' Man' \u2014 Single by Bob Seger System from the album Ramblin' Gamblin' Man; B-side 'Tales of Lucy Blue'; Released October 1968; Format 7-inch single; Recorded 1968; Genre Psychedelic rock, hard rock; Length 2:21; Label Capitol; Songwriter(s) B",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a 1960s song, not about easy DIY room decoration ideas; it does not address the query intent.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Ramblin' Gamblin' Man (song) \"From Wikipedia, the free encyclopedianavigation search\"\"Ramblin' Gamblin' Man\"\"Single by Bob Seger Systemfrom the album Ramblin' Gamblin' Man B-side \"\"Tales of Lucy Blue\"\"Released October 1968Format 7\"\" single Recorded 1968Genre Psychedelic rock, hard rock Length 2: 21Label Capitol Songwriter (s) B",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Ramblin%27_Gamblin%27_Man_(song)",
+    "title": "Ramblin' Gamblin' Man (song)",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search\"\"Ramblin' Gamblin' Man\"\"Single by Bob Seger Systemfrom the album Ramblin' Gamblin' Man B-side \"\"Tales of Lucy Blue\"\"Released October 1968Format 7\"\" single Recorded 1968Genre Psychedelic rock, hard rock Length 2: 21Label Capitol Songwriter (s) B",
+    "frecency": 1839,
+    "url_hash": 68205705464191,
+    "last_visit_date": 1758203928710735
+  }
+}

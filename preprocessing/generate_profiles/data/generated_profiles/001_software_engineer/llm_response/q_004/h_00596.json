@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Java IO: File \"Java IO: File Instantiating a java.io. File Check if File Exists Create a Directory if it Does Not Exist File Length Rename or Move File Delete File Check if Path is File or Directory Read List of Files in Directory Jakob Jenkov Last update: 2014-11-15The File class in the Java IO API gives you acc",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Java IO File operations and is unrelated to Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Java IO: File \"Java IO: File Instantiating a java.io. File Check if File Exists Create a Directory if it Does Not Exist File Length Rename or Move File Delete File Check if Path is File or Directory Read List of Files in Directory Jakob Jenkov Last update: 2014-11-15The File class in the Java IO API gives you acc",
+  "history": {
+    "url": "http://tutorials.jenkov.com/java-io/file.html",
+    "title": "Java IO: File",
+    "description": "\"Java IO: File Instantiating a java.io. File Check if File Exists Create a Directory if it Does Not Exist File Length Rename or Move File Delete File Check if Path is File or Directory Read List of Files in Directory Jakob Jenkov Last update: 2014-11-15The File class in the Java IO API gives you acc",
+    "frecency": 2965,
+    "url_hash": 93020223075906,
+    "last_visit_date": 1758203927612200
+  }
+}

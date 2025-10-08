@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Was captain kangaroo in the military? \"Answers.com \u00ae Wiki Answers \u00ae Categories Entertainment & Arts TV Programming and Commercials TV Shows and Series Children's TV Shows Was captain kangaroo in the military? Flag Was captain kangaroo in the military? Answered by The Wiki Answers \u00aeCommunity Answers.com \u00ae is making the world better one a",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Captain Kangaroo military trivia, not about debugging API integration; no relation.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Was captain kangaroo in the military? \"Answers.com \u00ae Wiki Answers \u00ae Categories Entertainment & Arts TV Programming and Commercials TV Shows and Series Children's TV Shows Was captain kangaroo in the military? Flag Was captain kangaroo in the military? Answered by The Wiki Answers \u00aeCommunity Answers.com \u00ae is making the world better one a",
+  "history": {
+    "url": "http://www.answers.com/Q/Was_captain_kangaroo_in_the_military",
+    "title": "Was captain kangaroo in the military?",
+    "description": "\"Answers.com \u00ae Wiki Answers \u00ae Categories Entertainment & Arts TV Programming and Commercials TV Shows and Series Children's TV Shows Was captain kangaroo in the military? Flag Was captain kangaroo in the military? Answered by The Wiki Answers \u00aeCommunity Answers.com \u00ae is making the world better one a",
+    "frecency": 307,
+    "url_hash": 36083977505756,
+    "last_visit_date": 1758203930646111
+  }
+}

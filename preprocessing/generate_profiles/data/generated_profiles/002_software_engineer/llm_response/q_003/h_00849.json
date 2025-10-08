@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "WATCH HOW ESTIMA SOFTWARE WORKS Estima empowers dealer sales reps to convert a take-off request to a sales opportunity by utilizing the take-off process to solve problems before they happen. The comprehensive output builds teamwork during the sales presentation as you collaborate and problem-solve with your customer on the project",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes Estima software for dealer sales processes, not database query optimization; it is not relevant to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "WATCH HOW ESTIMA SOFTWARE WORKS Estima empowers dealer sales reps to convert a take-off request to a sales opportunity by utilizing the take-off process to solve problems before they happen. The comprehensive output builds teamwork during the sales presentation as you collaborate and problem-solve with your customer on the project",
+  "history": {
+    "url": "https://www.weyerhaeuser.com/woodproducts/software-learning/estima-software/",
+    "title": "WATCH HOW ESTIMA SOFTWARE WORKS",
+    "description": "Estima empowers dealer sales reps to convert a take-off request to a sales opportunity by utilizing the take-off process to solve problems before they happen. The comprehensive output builds teamwork during the sales presentation as you collaborate and problem-solve with your customer on the project",
+    "frecency": 3469,
+    "url_hash": 7823313714960,
+    "last_visit_date": 1758203927090111
+  }
+}

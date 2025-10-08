@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Third-Party Material \\\"Instructions for Including Third-Party Material in your Paper\\\" discusses Third-Party Material that is non-textual in nature - e.g., figures, tables, graphs, photographs, simulations, music or audio/video clips. (Small text quotations borrowed from a third party are placed in quotes and cited.)",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns third-party material instructions for papers, not apps or study-habit tools; it is not relevant to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Third-Party Material \"Third-Party Material Instructions for Including Third-Party Material in your Paper Third Party Material is non-textual in nature - e.g., figures, tables, graphs, photographs, simulations, music or audio/video clips. (Small text quotations borrowed from a third party are placed in quotes and cited.",
+  "history": {
+    "url": "http://www.acm.org/publications/third-party-material",
+    "title": "Third-Party Material",
+    "description": "\"Third-Party Material Instructions for Including Third-Party Material in your Paper Third Party Material is non-textual in nature - e.g., figures, tables, graphs, photographs, simulations, music or audio/video clips. (Small text quotations borrowed from a third party are placed in quotes and cited. ",
+    "frecency": 4663,
+    "url_hash": 2143486135742,
+    "last_visit_date": 1758203933123228
+  }
+}

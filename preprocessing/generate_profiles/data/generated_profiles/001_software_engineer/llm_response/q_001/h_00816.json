@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Google Reader \\\"Google Reader From Wikipedia, the free encyclopedianavigation search Google Readerinterface in Google Reader's final version Developer (s) Google Initial release October 7, 2005Development status Discontinued since July 1, 2013 [1]Platform Web browsers, Android Type Web feed reader Website google .\\\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Google Reader, a web feed reader, and is not about Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Google Reader \"Google Reader From Wikipedia, the free encyclopedianavigation search Google Readerinterface in Google Reader's final version Developer (s) Google Initial release October 7, 2005Development status Discontinued since July 1, 2013 [1]Platform Web browsers, Android Type Web feed reader Website google .",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Google_Reader",
+    "title": "Google Reader",
+    "description": "\"Google Reader From Wikipedia, the free encyclopedianavigation search Google Readerinterface in Google Reader's final version Developer (s) Google Initial release October 7, 2005Development status Discontinued since July 1, 2013 [1]Platform Web browsers, Android Type Web feed reader Website google .",
+    "frecency": 2200,
+    "url_hash": 90559800161349,
+    "last_visit_date": 1758203928804200
+  }
+}

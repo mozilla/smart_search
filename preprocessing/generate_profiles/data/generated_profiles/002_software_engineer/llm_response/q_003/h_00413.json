@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Overview 'Overview Updated March 23, 2018Email me when this page is updated Washington students are tested regularly by the state to assess their progress as they move through school. State tests include the following, and may be taken with or without tools, supports, or accommodations*: Smarter Balanced: En'",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page content is about Washington state educational testing and has no relation to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Overview \"Overview Updated March 23, 2018Email me when this page is updated Washington students are tested regularly by the state to assess their progress as they move through school. State tests include the following, and may be taken with or without tools, supports, or accommodations*: Smarter Balanced: En",
+  "history": {
+    "url": "http://www.k12.wa.us/assessment/StateTesting/",
+    "title": "Overview",
+    "description": "\"Overview Updated March 23, 2018Email me when this page is updated Washington students are tested regularly by the state to assess their progress as they move through school. State tests include the following, and may be taken with or without tools, supports, or accommodations*: Smarter Balanced: En",
+    "frecency": 4291,
+    "url_hash": 23045227165034,
+    "last_visit_date": 1758203930192111
+  }
+}

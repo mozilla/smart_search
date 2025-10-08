@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Six Flags St. Louis hit with blackout on first day open \\\"Home / Top News / U. S. News Six Flags St. Louis hit with blackout on first day open Park goers who were stranded on rides and roller coasters were evacuated by park personnel. By Doug G. Ware | April 3, 2015 at 10:06 PM Follow @upi Comments Empty roller coaster cars at @SFSt Louis. Riders evacuate",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a news article about a Six Flags blackout, not about easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Six Flags St. Louis hit with blackout on first day open \"Home / Top News / U. S. News Six Flags St. Louis hit with blackout on first day open Park goers who were stranded on rides and roller coasters were evacuated by park personnel. By Doug G. Ware | April 3, 2015 at 10:06 PM Follow @upi Comments Empty roller coaster cars at @SFSt Louis. Riders evacuate",
+  "history": {
+    "url": "http://www.upi.com/Top_News/US/2015/04/03/Six-Flags-St-Louis-hit-with-blackout-on-first-day-open/8751428111695/",
+    "title": "Six Flags St. Louis hit with blackout on first day open",
+    "description": "\"Home / Top News / U. S. News Six Flags St. Louis hit with blackout on first day open Park goers who were stranded on rides and roller coasters were evacuated by park personnel. By Doug G. Ware | April 3, 2015 at 10:06 PM Follow @upi Comments Empty roller coaster cars at @SFSt Louis. Riders evacuate",
+    "frecency": 732,
+    "url_hash": 21236977396596,
+    "last_visit_date": 1758203927774735
+  }
+}

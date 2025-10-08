@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Michelangelo \"Michelangelo What does it mean to be a \\\"Renaissance Man\\\"? Get the history of the Renaissance as told by musician and artist Jeffrey Lewis. \"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is unrelated to studying or study apps; it discusses Michelangelo and the Renaissance.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Michelangelo \"Michelangelo What does it mean to be a \"\"Renaissance Man\"\"? Get the history of the Renaissance as told by musician and artist Jeffrey Lewis. \"",
+  "history": {
+    "url": "http://www.history.com/topics/michelangelo",
+    "title": "Michelangelo",
+    "description": "\"Michelangelo What does it mean to be a \"\"Renaissance Man\"\"? Get the history of the Renaissance as told by musician and artist Jeffrey Lewis. \"",
+    "frecency": 4790,
+    "url_hash": 27816593210318,
+    "last_visit_date": 1758203935797228
+  }
+}

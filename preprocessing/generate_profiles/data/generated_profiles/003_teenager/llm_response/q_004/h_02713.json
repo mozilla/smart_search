@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "The O.C. \"From Wikipedia, the free encyclopedia (Redirected from The OC)navigation search This article is about the FOX television series. For the location from which the series derives its name, see Orange County, California. For other uses, see OC (disambiguation). The O. C. Intertitle used in Seasons 3 an",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a TV series (The OC) and related disambiguation pages, not content about improving performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "The O.C. \"From Wikipedia, the free encyclopedia (Redirected from The OC)navigation search This article is about the FOX television series. For the location from which the series derives its name, see Orange County, California. For other uses, see OC (disambiguation). The O. C. Intertitle used in Seasons 3 an",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/The_OC",
+    "title": "The O.C.",
+    "description": "\"From Wikipedia, the free encyclopedia (Redirected from The OC)navigation search This article is about the FOX television series. For the location from which the series derives its name, see Orange County, California. For other uses, see OC (disambiguation). The O. C. Intertitle used in Seasons 3 an",
+    "frecency": 2177,
+    "url_hash": 99761145899510,
+    "last_visit_date": 1758203932383228
+  }
+}

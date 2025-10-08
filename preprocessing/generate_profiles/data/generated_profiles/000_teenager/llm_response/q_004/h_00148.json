@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Super Mario Bros. \"Super Mario Bros. Developer (s) Nintendo EADPublisher (s) Nintendo Platform (s) Famicom / NESDisk System Game Boy Advance Virtual Console ( Wii / 3DS / Wii U) NES Classic Edition / Nintendo Classic Mini: Family Computer Release date Famicom/NES September 13, 1985 October 18, 1985 May 15, 1987 July\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a video game (Super Mario Bros.) and does not address improving athletic performance or sports skills.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Super Mario Bros. \"Super Mario Bros. Developer (s) Nintendo EADPublisher (s) Nintendo Platform (s) Famicom / NESDisk System Game Boy Advance Virtual Console ( Wii / 3DS / Wii U) NES Classic Edition / Nintendo Classic Mini: Family Computer Release date Famicom/NES September 13, 1985 October 18, 1985 May 15, 1987 July",
+  "history": {
+    "url": "https://www.mariowiki.com/Super_Mario_Bros.",
+    "title": "Super Mario Bros.",
+    "description": "\"Super Mario Bros. Developer (s) Nintendo EADPublisher (s) Nintendo Platform (s) Famicom / NESDisk System Game Boy Advance Virtual Console ( Wii / 3DS / Wii U) NES Classic Edition / Nintendo Classic Mini: Family Computer Release date Famicom/NES September 13, 1985 October 18, 1985 May 15, 1987 July ",
+    "frecency": 4408,
+    "url_hash": 22572883828115,
+    "last_visit_date": 1758203928525139
+  }
+}

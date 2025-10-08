@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Audi Burlingame Audi Burlingame1010 Cadillac Way Burlingame , CA 94010650-348-0111Email this dealer Get directions Inventory About this Dealership Featured Inventory The car images are stock photos and are not exact representations of the vehicles offered for sale. Used See all inventory Audi Q56 Available Audi A42",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is unrelated to software development or IDEs; it appears to be a car dealership page, not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Audi Burlingame Audi Burlingame1010 Cadillac Way Burlingame , CA 94010650-348-0111Email this dealer Get directions Inventory About this Dealership Featured Inventory The car images are stock photos and are not exact representations of the vehicles offered for sale. Used See all inventory Audi Q56 Available Audi A42",
+  "history": {
+    "url": "https://www.autotrader.com/car-dealers/Burlingame+CA/595911/Audi+Burlingame",
+    "title": "Audi Burlingame",
+    "description": "Audi Burlingame1010 Cadillac Way Burlingame , CA 94010650-348-0111Email this dealer Get directions Inventory About this Dealership Featured Inventory The car images are stock photos and are not exact representations of the vehicles offered for sale. Used See all inventory Audi Q56 Available Audi A42",
+    "frecency": 4916,
+    "url_hash": 86872061665272,
+    "last_visit_date": 1758203929494111
+  }
+}

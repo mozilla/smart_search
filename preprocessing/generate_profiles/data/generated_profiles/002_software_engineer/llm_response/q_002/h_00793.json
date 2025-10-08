@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "mobile operating system A mobile operating system (OS) is software that allows smartphones, tablet PCs and other devices to run applications and programs. A mobile OS typically starts up when a device powers on, presenting a screen with icons or tiles that present information and provide application access. Mobile operatin",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses mobile operating systems, not integrated development environments (IDEs) or software development IDEs; therefore it is not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "mobile operating system A mobile operating system (OS) is software that allows smartphones, tablet PCs and other devices to run applications and programs. A mobile OS typically starts up when a device powers on, presenting a screen with icons or tiles that present information and provide application access. Mobile operatin",
+  "history": {
+    "url": "http://searchmobilecomputing.techtarget.com/definition/mobile-operating-system",
+    "title": "mobile operating system",
+    "description": "A mobile operating system (OS) is software that allows smartphones, tablet PCs and other devices to run applications and programs. A mobile OS typically starts up when a device powers on, presenting a screen with icons or tiles that present information and provide application access. Mobile operatin",
+    "frecency": 3566,
+    "url_hash": 60671916997057,
+    "last_visit_date": 1758203932006111
+  }
+}

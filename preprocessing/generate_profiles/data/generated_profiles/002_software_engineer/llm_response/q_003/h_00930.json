@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Registered Nurse RN Registered Nurse RNWelcome to Registered Nurse RN. Our mission is to help aspiring nurses, nursing students, and new nurses succeed. Aspiring nurses can learn about the different types of nurses, education requirements, and nurse salary statistics. Nursing students can access care plan examples, nur",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page is about nursing and healthcare education, not about database queries or query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Registered Nurse RN Registered Nurse RNWelcome to Registered Nurse RN. Our mission is to help aspiring nurses, nursing students, and new nurses succeed. Aspiring nurses can learn about the different types of nurses, education requirements, and nurse salary statistics. Nursing students can access care plan examples, nur",
+  "history": {
+    "url": "http://www.registerednursern.com/",
+    "title": "Registered Nurse RN",
+    "description": "Registered Nurse RNWelcome to Registered Nurse RN. Our mission is to help aspiring nurses, nursing students, and new nurses succeed. Aspiring nurses can learn about the different types of nurses, education requirements, and nurse salary statistics. Nursing students can access care plan examples, nur",
+    "frecency": 3335,
+    "url_hash": 35732474153168,
+    "last_visit_date": 1758203928850111
+  }
+}

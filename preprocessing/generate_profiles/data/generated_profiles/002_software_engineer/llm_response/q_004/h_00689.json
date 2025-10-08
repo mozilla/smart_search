@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Nail Technician  Salary Nail Technician Salary (United Kingdom)A Nail Technician earns an average wage of \u00a37.80 per hour. People in this job generally don't have more than 20 years' experience. Pay for this job does not change much by experience, with the most experienced earning only a bit more than the least.\u00a36 \u00a37 \u00a37 \u00a38",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "Irrelevant content: the page discusses nail technician salaries, not Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Nail Technician  Salary Nail Technician Salary (United Kingdom)A Nail Technician earns an average wage of \u00a37.80 per hour. People in this job generally don't have more than 20 years' experience. Pay for this job does not change much by experience, with the most experienced earning only a bit more than the least.\u00a36 \u00a37 \u00a37 \u00a38",
+  "history": {
+    "url": "https://www.payscale.com/research/UK/Job=Nail_Technician/Hourly_Rate",
+    "title": "Nail Technician  Salary",
+    "description": "Nail Technician Salary (United Kingdom)A Nail Technician earns an average wage of \u00a37.80 per hour. People in this job generally don't have more than 20 years' experience. Pay for this job does not change much by experience, with the most experienced earning only a bit more than the least.\u00a36 \u00a37 \u00a37 \u00a38 ",
+    "frecency": 3784,
+    "url_hash": 97421696114344,
+    "last_visit_date": 1758203927942111
+  }
+}

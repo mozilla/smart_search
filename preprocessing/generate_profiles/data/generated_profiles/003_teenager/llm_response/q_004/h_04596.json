@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Bees In The Winter \"Bees In The Winter H ere at Long Lane Honey Bee Farms, we are a family business working hard to help more people discover and enjoy keeping honey bees. We manufacture beehives and sell everything related to beekeeping. Our busiest season is from November-July. So if you are planning on purchasing h",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The content is about beekeeping and honey bees, not about sports or strategies to improve athletic performance; not relevant to the query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Bees In The Winter \"Bees In The Winter H ere at Long Lane Honey Bee Farms, we are a family business working hard to help more people discover and enjoy keeping honey bees. We manufacture beehives and sell everything related to beekeeping. Our busiest season is from November-July. So if you are planning on purchasing h",
+  "history": {
+    "url": "http://www.honeybeesonline.com/bee-in-the-winter/",
+    "title": "Bees In The Winter",
+    "description": "\"Bees In The Winter H ere at Long Lane Honey Bee Farms, we are a family business working hard to help more people discover and enjoy keeping honey bees. We manufacture beehives and sell everything related to beekeeping. Our busiest season is from November-July. So if you are planning on purchasing h",
+    "frecency": 233,
+    "url_hash": 89911797075322,
+    "last_visit_date": 1758203927704735
+  }
+}

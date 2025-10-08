@@ -1,0 +1,5 @@
+{
+  "url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ms685100(v=vs.85).aspx",
+  "search_query": "windows thread priority levels",
+  "combined_text": "Scheduling Priorities \"Scheduling Priorities Threads are scheduled to run based on their scheduling priority. Each thread is assigned a scheduling priority. The priority levels range from zero (lowest priority) to 31 (highest priority). Only the zero-page thread can have a priority of zero. (The zero-page thread is a sys"
+}

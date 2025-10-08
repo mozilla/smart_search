@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "The Joy Of Bacteria \\\"The Joy Of Bacteria April 13, 2011 | 37 Comments As a general principle I believe in cleanliness. I support the ubiquitous, \\u201c All employees must wash hands \\u201d sign (though I suspect it\u2019s more effective at pacifying diners than influencing behavior), I take my shoes off when I walk in the door and I",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page discusses bacteria and cleanliness, not sports improvement or related topics.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "The Joy Of Bacteria \"The Joy Of Bacteria April 13, 2011 | 37 Comments As a general principle I believe in cleanliness. I support the ubiquitous, \u201c All employees must wash hands \u201d sign (though I suspect it\u2019s more effective at pacifying diners than influencing behavior), I take my shoes off when I walk in the door and I",
+  "history": {
+    "url": "http://www.thesweetbeet.com/fermented-food/",
+    "title": "The Joy Of Bacteria",
+    "description": "\"The Joy Of Bacteria April 13, 2011 | 37 Comments As a general principle I believe in cleanliness. I support the ubiquitous, \u201c All employees must wash hands \u201d sign (though I suspect it\u2019s more effective at pacifying diners than influencing behavior), I take my shoes off when I walk in the door and I ",
+    "frecency": 3790,
+    "url_hash": 16439687061616,
+    "last_visit_date": 1758203928129139
+  }
+}

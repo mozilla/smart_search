@@ -1,0 +1,5 @@
+{
+  "url": "http://www.cisco.com/c/en/us/td/docs/security/asa/asa72/configuration/guide/conf_gd/intparam.html",
+  "search_query": "set interface names security levels asa",
+  "combined_text": "Cisco Security Appliance Command Line Configuration Guide, Version 7.2 \"This chapter describes how to configure each interface and subinterface for a name, security level, and IP address. For single context mode, the procedures in this chapter continue the interface configuration started in Chapter 5, \"\"Configuring Ethernet Settings and Subinterfaces.\"\" For multiple co"
+}

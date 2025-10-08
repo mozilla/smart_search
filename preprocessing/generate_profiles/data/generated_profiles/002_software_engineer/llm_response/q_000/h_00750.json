@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "See what California cities pay police, firefighters | The Sacramento Bee \\\"Ren\u00e9e C. Byer rbyer@sacbee.com Data Tracker See what California cities pay police, firefighters By Phillip Reese - preese@sacbee.com Linked In Google+Pinterest Reddit Print Order Reprint of this Story February 27, 2016 08:34 AMUpdated October 12, 2016 10:18 AMAverage pay for California's rank-and-r",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a news article about salaries for police and firefighters in California, not about debugging API integrations. Therefore it is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "See what California cities pay police, firefighters | The Sacramento Bee \"Ren\u00e9e C. Byer rbyer@sacbee.com Data Tracker See what California cities pay police, firefighters By Phillip Reese - preese@sacbee.com Linked In Google+Pinterest Reddit Print Order Reprint of this Story February 27, 2016 08:34 AMUpdated October 12, 2016 10:18 AMAverage pay for California's rank-and-f",
+  "history": {
+    "url": "http://www.sacbee.com/site-services/databases/article2573210.html",
+    "title": "See what California cities pay police, firefighters | The Sacramento Bee",
+    "description": "\"Ren\u00e9e C. Byer rbyer@sacbee.com Data Tracker See what California cities pay police, firefighters By Phillip Reese - preese@sacbee.com Linked In Google+Pinterest Reddit Print Order Reprint of this Story February 27, 2016 08:34 AMUpdated October 12, 2016 10:18 AMAverage pay for California's rank-and-f",
+    "frecency": 3656,
+    "url_hash": 35612708653575,
+    "last_visit_date": 1758203929250111
+  }
+}

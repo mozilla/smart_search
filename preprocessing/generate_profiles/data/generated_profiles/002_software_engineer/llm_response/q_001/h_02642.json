@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "The Oscar Nominations \u00e2 Will Lady Bird soar and Shape of Water Sink? Another list of Oscar nominees, and another story on me griping about it. I\u2019ll start with the people reading the nominations. Nice to see Andy Serkis up there with Tiffany Haddish, but would it have killed her to learn how to pronounce ALL the names of the possible nominees? I thought after John Tra",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Oscar nominations, not about Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "The Oscar Nominations \u00e2 Will Lady Bird soar and Shape of Water Sink? Another list of Oscar nominees, and another story on me griping about it. I\u2019ll start with the people reading the nominations. Nice to see Andy Serkis up there with Tiffany Haddish, but would it have killed her to learn how to pronounce ALL the names of the possible nominees? I thought after John Tra",
+  "history": {
+    "url": "http://fox5sandiego.com/2018/01/23/the-oscar-nominations-will-lady-bird-soar-and-shape-of-water-sink/",
+    "title": "The Oscar Nominations \u00e2 Will Lady Bird soar and Shape of Water Sink?",
+    "description": "Another list of Oscar nominees, and another story on me griping about it. I\u2019ll start with the people reading the nominations. Nice to see Andy Serkis up there with Tiffany Haddish, but would it have killed her to learn how to pronounce ALL the names of the possible nominees? I thought after John Tra",
+    "frecency": 179,
+    "url_hash": 78176802880876,
+    "last_visit_date": 1758203932116111
+  }
+}

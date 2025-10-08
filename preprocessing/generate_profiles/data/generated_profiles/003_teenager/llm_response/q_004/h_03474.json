@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Network Adapters \"Narrow By: Items in Your Store -Set store to pick up today Brand +Rating +Network Adapter Type +Network Platform +Gaming +Networking Accessory Type +Card Type +Host Interface +Connectivity Type +Cable Color +Cable Length (ft) +Wireless Technology +Computer Memory Type +Server Accessory Type +Adapte",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes network adapters and store filters, unrelated to sports improvement; thus not relevant to the query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Network Adapters \"Narrow By: Items in Your Store -Set store to pick up today Brand +Rating +Network Adapter Type +Network Platform +Gaming +Networking Accessory Type +Card Type +Host Interface +Connectivity Type +Cable Color +Cable Length (ft) +Wireless Technology +Computer Memory Type +Server Accessory Type +Adapte",
+  "history": {
+    "url": "http://www.staples.com/Network-Adapters/cat_CL167422",
+    "title": "Network Adapters",
+    "description": "\"Narrow By: Items in Your Store -Set store to pick up today Brand +Rating +Network Adapter Type +Network Platform +Gaming +Networking Accessory Type +Card Type +Host Interface +Connectivity Type +Cable Color +Cable Length (ft) +Wireless Technology +Computer Memory Type +Server Accessory Type +Adapte",
+    "frecency": 1363,
+    "url_hash": 28949297798612,
+    "last_visit_date": 1758203929334735
+  }
+}

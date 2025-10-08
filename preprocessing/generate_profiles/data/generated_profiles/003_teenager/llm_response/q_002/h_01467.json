@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "A page listing frequently asked-about poems and specific poem lines; not related to decoration ideas.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns poetry, which is irrelevant to the query about DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Frequently asked for poems \"Here are the details of poems we are often asked about. \"\"John was a tyrant, / John was a tartar\"\"\"\"Men who were boys when I was a boy\"\"\"\"Stop all the clocks...\"\"\"\"The life that I have is all that I have...\"\"\"\"What is this life if, full of care\"\"\"\"When I am an old woman I shall wear purple\"\"A Song",
+  "history": {
+    "url": "http://www.poetrylibrary.org.uk/queries/faps/",
+    "title": "Frequently asked for poems",
+    "description": "\"Here are the details of poems we are often asked about. \"\"John was a tyrant, / John was a tartar\"\"\"\"Men who were boys when I was a boy\"\"\"\"Stop all the clocks...\"\"\"\"The life that I have is all that I have...\"\"\"\"What is this life if, full of care\"\"\"\"When I am an old woman I shall wear purple\"\"A Song ",
+    "frecency": 3504,
+    "url_hash": 41579327114742,
+    "last_visit_date": 1758203930913228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Banking that's just your style Banking that's just your style Choose a checking account that fits with your life. Compare checking options Get a recommendation",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about banking (checking accounts) and does not address sports improvement; no topical relevance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Banking that's just your style Banking that's just your style Choose a checking account that fits with your life. Compare checking options Get a recommendation",
+  "history": {
+    "url": "https://www.usbank.com/index.html",
+    "title": "Banking that's just your style",
+    "description": "Banking that's just your style Choose a checking account that fits with your life. Compare checking options Get a recommendation ",
+    "frecency": 3580,
+    "url_hash": 20322562864098,
+    "last_visit_date": 1758203931225228
+  }
+}

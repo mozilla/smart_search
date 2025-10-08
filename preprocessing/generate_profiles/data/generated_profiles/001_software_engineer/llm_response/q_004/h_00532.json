@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Flatbed Truck Driver Salary & Pay Scale At TMC we believe people should be paid based on how well they perform, rather than just how long they have been with the company. That does not mean we do not value longevity. We do and we reward that as well. Our performance percentage pay option was designed by TMC drivers. They wanted their payc",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses truck driving salaries, not Docker or beginner setup topics.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Flatbed Truck Driver Salary & Pay Scale At TMC we believe people should be paid based on how well they perform, rather than just how long they have been with the company. That does not mean we do not value longevity. We do and we reward that as well. Our performance percentage pay option was designed by TMC drivers. They wanted their payc",
+  "history": {
+    "url": "http://www.tmctrans.com/drive-for-tmc/why-tmc/pay.aspx",
+    "title": "Flatbed Truck Driver Salary & Pay Scale",
+    "description": "At TMC we believe people should be paid based on how well they perform, rather than just how long they have been with the company. That does not mean we do not value longevity. We do and we reward that as well. Our performance percentage pay option was designed by TMC drivers. They wanted their payc",
+    "frecency": 3158,
+    "url_hash": 67985305977512,
+    "last_visit_date": 1758203927934200
+  }
+}

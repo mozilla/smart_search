@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Goldfinger (Shirley Bassey song) - Wikipedia page",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a song, not related to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Goldfinger (Shirley Bassey song) \"From Wikipedia, the free encyclopedia (Redirected from Goldfinger (song))navigation search For other uses, see Goldfinger (disambiguation). \"\"Goldfinger\"\"A-side label of UK vinyl single Single by Shirley Bassey B-side \"\"Strange How Love Can Be\"\"\u00a7Released 1964Genre Pop, orchestral pop, R&BLength 2:",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Goldfinger_(song)",
+    "title": "Goldfinger (Shirley Bassey song)",
+    "description": "\"From Wikipedia, the free encyclopedia (Redirected from Goldfinger (song))navigation search For other uses, see Goldfinger (disambiguation). \"\"Goldfinger\"\"A-side label of UK vinyl single Single by Shirley Bassey B-side \"\"Strange How Love Can Be\"\"\u00a7Released 1964Genre Pop, orchestral pop, R&BLength 2: ",
+    "frecency": 3251,
+    "url_hash": 26597193465179,
+    "last_visit_date": 1758203929378735
+  }
+}

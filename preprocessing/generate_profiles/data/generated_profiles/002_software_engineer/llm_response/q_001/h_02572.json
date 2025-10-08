@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Who Has The Cheapest Auto Insurance Quotes in Ohio? \\\"We studied auto insurance quotes in cities across Ohio to determine which companies were the most affordable (and most expensive). Car insurance rates in Ohio can cost $726 or $61 per month for our sample driver with a liability policy above the state minimum. Our study also found that the most exp",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses auto insurance quotes in Ohio, not Python libraries or machine learning libraries; thus it is not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Who Has The Cheapest Auto Insurance Quotes in Ohio? \"We studied auto insurance quotes in cities across Ohio to determine which companies were the most affordable (and most expensive). Car insurance rates in Ohio can cost $726 or $61 per month for our sample driver with a liability policy above the state minimum. Our study also found that the most exp",
+  "history": {
+    "url": "http://www.valuepenguin.com/best-cheap-car-insurance-ohio",
+    "title": "Who Has The Cheapest Auto Insurance Quotes in Ohio?",
+    "description": "\"We studied auto insurance quotes in cities across Ohio to determine which companies were the most affordable (and most expensive). Car insurance rates in Ohio can cost $726 or $61 per month for our sample driver with a liability policy above the state minimum. Our study also found that the most exp",
+    "frecency": 340,
+    "url_hash": 1100609892659,
+    "last_visit_date": 1758203928944111
+  }
+}

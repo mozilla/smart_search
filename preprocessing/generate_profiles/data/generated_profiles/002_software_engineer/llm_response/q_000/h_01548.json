@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Former PetSmart employee fights back after being fired for dubious reason MITSU YASUKAWA/THE STAR-LEDGER Eric Favetta brought his dog, Gizmo, to work during an overnight shift at Pet Smart in Secaucus and kept him in the store s empty doggie day care facility. Two weeks later, Favetta was fired for theft of service. Eric Favetta was in the doghouse. A Pet Smart employee",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a PetSmart employee firing and related dispute, not about debugging or API integration. No relevant content.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Former PetSmart employee fights back after being fired for dubious reason \"MITSU YASUKAWA/THE STAR-LEDGEREric Favetta brought his dog, Gizmo, to work during an overnight shift at Pet Smart in Secaucus and kept him in the store\u2019s empty doggie day care facility. Two weeks later, Favetta was fired for \u201ctheft of service.\u201dEric Favetta was in the doghouse. A Pet Smart employee",
+  "history": {
+    "url": "http://www.nj.com/business/index.ssf/2010/01/former_petsmart_employee_fight.html",
+    "title": "Former PetSmart employee fights back after being fired for dubious reason",
+    "description": "\"MITSU YASUKAWA/THE STAR-LEDGEREric Favetta brought his dog, Gizmo, to work during an overnight shift at Pet Smart in Secaucus and kept him in the store\u2019s empty doggie day care facility. Two weeks later, Favetta was fired for \u201ctheft of service.\u201dEric Favetta was in the doghouse. A Pet Smart employee ",
+    "frecency": 2211,
+    "url_hash": 15446925393308,
+    "last_visit_date": 1758203931850111
+  }
+}

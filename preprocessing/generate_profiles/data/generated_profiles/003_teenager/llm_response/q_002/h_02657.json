@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Action and Inaction \"Action and Inaction Hamlet fits in a literary tradition called the revenge play, in which a man must take revenge against those who have in some way wronged him. Yet Hamlet turns the revenge play on its head in an ingenious way: Hamlet, the man seeking revenge, can't actually bring himself to take\"",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Hamlet and literary analysis, not about easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Action and Inaction \"Action and Inaction Hamlet fits in a literary tradition called the revenge play, in which a man must take revenge against those who have in some way wronged him. Yet Hamlet turns the revenge play on its head in an ingenious way: Hamlet, the man seeking revenge, can't actually bring himself to take",
+  "history": {
+    "url": "http://www.litcharts.com/lit/hamlet/themes",
+    "title": "Action and Inaction",
+    "description": "\"Action and Inaction Hamlet fits in a literary tradition called the revenge play, in which a man must take revenge against those who have in some way wronged him. Yet Hamlet turns the revenge play on its head in an ingenious way: Hamlet, the man seeking revenge, can't actually bring himself to take ",
+    "frecency": 2243,
+    "url_hash": 58769705630379,
+    "last_visit_date": 1758203931553228
+  }
+}

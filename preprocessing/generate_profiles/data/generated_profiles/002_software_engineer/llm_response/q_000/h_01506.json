@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Hoover Dam Hoover Dam Built during the Great Depression, Hoover Dam was a marvel of engineering and labor.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Hoover Dam and its engineering history, not about API debugging or integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Hoover Dam Hoover Dam Built during the Great Depression, Hoover Dam was a marvel of engineering and labor.",
+  "history": {
+    "url": "http://www.history.com/topics/hoover-dam",
+    "title": "Hoover Dam",
+    "description": "Hoover Dam Built during the Great Depression, Hoover Dam was a marvel of engineering and labor. ",
+    "frecency": 2270,
+    "url_hash": 77903772612198,
+    "last_visit_date": 1758203928740111
+  }
+}

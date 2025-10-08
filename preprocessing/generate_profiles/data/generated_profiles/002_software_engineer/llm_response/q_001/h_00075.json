@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Are you charging the right price? Calculating the overhead percentage for your business is critical to pricing your goods and services profitably and operating your business successfully. Competitive pricing is always a hot-button issue with business owners. They know competitive prices will attract customers and that price is often",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved content discusses business pricing and overhead, not Python libraries or machine learning topics; it is not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Are you charging the right price? Calculating the overhead percentage for your business is critical to pricing your goods and services profitably and operating your business successfully. Competitive pricing is always a hot-button issue with business owners. They know competitive prices will attract customers and that price is often",
+  "history": {
+    "url": "https://missouribusiness.net/article/charging-the-right-price/",
+    "title": "Are you charging the right price?",
+    "description": "Calculating the overhead percentage for your business is critical to pricing your goods and services profitably and operating your business successfully. Competitive pricing is always a hot-button issue with business owners. They know competitive prices will attract customers and that price is often",
+    "frecency": 4876,
+    "url_hash": 14011379305831,
+    "last_visit_date": 1758203929814111
+  }
+}

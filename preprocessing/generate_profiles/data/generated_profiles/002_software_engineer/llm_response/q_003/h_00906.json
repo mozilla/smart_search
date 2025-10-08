@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "ICM File Format Image Color Matching profile ICM is a file extension for an Image Color Matching profile file format used by Windows 95 and other operating systems. An ICM file contains a color system profile for a particular application or device such as a color printer or scanner. This profile is matched to a com",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about ICM image color profiles and file formats, not about database queries or query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "ICM File Format Image Color Matching profile ICM is a file extension for an Image Color Matching profile file format used by Windows 95 and other operating systems. An ICM file contains a color system profile for a particular application or device such as a color printer or scanner. This profile is matched to a com",
+  "history": {
+    "url": "http://whatis.techtarget.com/fileformat/ICM-Image-Color-Matching-profile",
+    "title": "ICM File Format",
+    "description": "Image Color Matching profile ICM is a file extension for an Image Color Matching profile file format used by Windows 95 and other operating systems. An ICM file contains a color system profile for a particular application or device such as a color printer or scanner. This profile is matched to a com",
+    "frecency": 3361,
+    "url_hash": 5400633420263,
+    "last_visit_date": 1758203931674111
+  }
+}

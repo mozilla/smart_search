@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Calling Doctor Nurse! \"Perspective > Medscape Family Medicine > Physicians Are Talking About... COMMENTARYCalling Doctor Nurse!Physicians Are Talking Brandon Cohen Disclosures November 22, 2011The value and meaning of the title doctor came into question during a recent discussion on Medscape's Physician Connect, an all-p",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses doctors and Medscape commentary, not database query optimization; thus it is not relevant to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Calling Doctor Nurse! \"Perspective > Medscape Family Medicine > Physicians Are Talking About... COMMENTARYCalling Doctor Nurse!Physicians Are Talking Brandon Cohen Disclosures November 22, 2011The value and meaning of the title doctor came into question during a recent discussion on Medscape's Physician Connect, an all-p",
+  "history": {
+    "url": "http://www.medscape.com/viewarticle/753628",
+    "title": "Calling Doctor Nurse!",
+    "description": "\"Perspective > Medscape Family Medicine > Physicians Are Talking About... COMMENTARYCalling Doctor Nurse!Physicians Are Talking Brandon Cohen Disclosures November 22, 2011The value and meaning of the title doctor came into question during a recent discussion on Medscape's Physician Connect, an all-p",
+    "frecency": 195,
+    "url_hash": 85557922125174,
+    "last_visit_date": 1758203930354111
+  }
+}

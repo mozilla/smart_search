@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Follow Google Developers on WeChat \"Material design is a comprehensive guide for visual, motion, and interaction design across platforms and devices. To use material design in your Android apps, follow the guidelines defined in the material design specification and use the new components and styles available in the material design su",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Material Design guidelines for Android apps, which is unrelated to Python libraries for machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Follow Google Developers on WeChat \"Material design is a comprehensive guide for visual, motion, and interaction design across platforms and devices. To use material design in your Android apps, follow the guidelines defined in the material design specification and use the new components and styles available in the material design su",
+  "history": {
+    "url": "https://developer.android.com/training/material/drawables.html",
+    "title": "Follow Google Developers on WeChat",
+    "description": "\"Material design is a comprehensive guide for visual, motion, and interaction design across platforms and devices. To use material design in your Android apps, follow the guidelines defined in the material design specification and use the new components and styles available in the material design su",
+    "frecency": 274,
+    "url_hash": 8876835610700,
+    "last_visit_date": 1758203926918200
+  }
+}

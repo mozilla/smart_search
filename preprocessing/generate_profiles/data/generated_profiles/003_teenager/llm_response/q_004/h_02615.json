@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Cultural impact of Elvis Presley - From Wikipedia, the free encyclopedia. This result discusses Elvis Presley and his cultural impact, not sports or athletic improvement.",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Elvis Presley and his cultural impact, which is not related to improving at sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Cultural impact of Elvis Presley \"From Wikipedia, the free encyclopedianavigation search Elvis impersonators Folk rock musician Amy Ray wearing an Elvis shirt onstage Elvis Presley Avenue in Shreveport, Louisiana Since the beginning of his career, Elvis Presley has had an extensive cultural impact. According to Rolling Stone, \"\"it",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Cultural_impact_of_Elvis_Presley",
+    "title": "Cultural impact of Elvis Presley",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search Elvis impersonators Folk rock musician Amy Ray wearing an Elvis shirt onstage Elvis Presley Avenue in Shreveport, Louisiana Since the beginning of his career, Elvis Presley has had an extensive cultural impact. According to Rolling Stone, \"\"it ",
+    "frecency": 2305,
+    "url_hash": 6362309508339,
+    "last_visit_date": 1758203927220735
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Causes of Ascites Causes of Ascites Intro Symptoms Types Causes Tests Treatment Misdiagnosis Deaths Videos Doctors Must Reads in Health Protecting Your Skin During Winter Watch: My Personal Psoriasis Journey Are You Getting The Best Cancer Care? Keeping An Active Lifestyle With COPD Liver Disease? Find a Doc Who Treat",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result consists of health topics unrelated to improving athletic performance or sports training; only a tangential reference to staying active but no sports-specific guidance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Causes of Ascites Causes of Ascites Intro Symptoms Types Causes Tests Treatment Misdiagnosis Deaths Videos Doctors Must Reads in Health Protecting Your Skin During Winter Watch: My Personal Psoriasis Journey Are You Getting The Best Cancer Care? Keeping An Active Lifestyle With COPDLiver Disease? Find a Doc Who Treat",
+  "history": {
+    "url": "http://www.rightdiagnosis.com/a/ascites/causes.htm",
+    "title": "Causes of Ascites",
+    "description": "Causes of Ascites Intro Symptoms Types Causes Tests Treatment Misdiagnosis Deaths Videos Doctors Must Reads in Health Protecting Your Skin During Winter Watch: My Personal Psoriasis Journey Are You Getting The Best Cancer Care? Keeping An Active Lifestyle With COPDLiver Disease? Find a Doc Who Treat",
+    "frecency": 2151,
+    "url_hash": 75623931216253,
+    "last_visit_date": 1758203928257139
+  }
+}

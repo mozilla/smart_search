@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Levitation Charm \\\"in: Spells, Levitation, Spells of known incantation Levitation Charm English Edit Share Warning!Some content in this article is derived from information featured in Harry Potter and the Cursed Child, and, as such, spoilers will be present. Keep calm and keep the secrets! \\\"\\\"Point me! \\\"\\\"This article",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses a levitation spell from Harry Potter, not information about improving sports performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Levitation Charm \"in: Spells, Levitation, Spells of known incantation Levitation Charm English Edit Share Warning!Some content in this article is derived from information featured in Harry Potter and the Cursed Child, and, as such, spoilers will be present. Keep calm and keep the secrets! \"\"Point me! \"\"This article",
+  "history": {
+    "url": "http://harrypotter.wikia.com/wiki/Levitation_Charm",
+    "title": "Levitation Charm",
+    "description": "\"in: Spells, Levitation, Spells of known incantation Levitation Charm English Edit Share Warning!Some content in this article is derived from information featured in Harry Potter and the Cursed Child, and, as such, spoilers will be present. Keep calm and keep the secrets! \"\"Point me! \"\"This article ",
+    "frecency": 2613,
+    "url_hash": 1213153138204,
+    "last_visit_date": 1758203933761228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Basic Electronics \"Subsections What is Charge? Charge exists. Charge comes in two styles. Charge is conserved. Voltage Current Batteries Circuit Elements Resistors Ohm's Law Power Combinations of Resistors Capacitors Combinations of Capacitors Inductors Combinations of Inductors Semiconductor Devices The Truth About",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about basic electronics fundamentals and does not relate to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Basic Electronics \"Subsections What is Charge? Charge exists. Charge comes in two styles. Charge is conserved. Voltage Current Batteries Circuit Elements Resistors Ohm's Law Power Combinations of Resistors Capacitors Combinations of Capacitors Inductors Combinations of Inductors Semiconductor Devices The Truth About",
+  "history": {
+    "url": "https://www.clear.rice.edu/elec201/Book/basic_elec.html",
+    "title": "Basic Electronics",
+    "description": "\"Subsections What is Charge? Charge exists. Charge comes in two styles. Charge is conserved. Voltage Current Batteries Circuit Elements Resistors Ohm's Law Power Combinations of Resistors Capacitors Combinations of Capacitors Inductors Combinations of Inductors Semiconductor Devices The Truth About ",
+    "frecency": 3039,
+    "url_hash": 70958223448847,
+    "last_visit_date": 1758203928992111
+  }
+}

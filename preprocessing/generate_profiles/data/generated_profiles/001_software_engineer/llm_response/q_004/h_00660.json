@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Insteon LED Bulbs Insteon LED Bulbs Our brightest ideas yet: dimmable, remote-controlled energy-efficient light bulbs. Buy Now",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about LED bulbs, not Docker; it does not match or relate to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Insteon LED Bulbs Insteon LED Bulbs Our brightest ideas yet: dimmable, remote-controlled energy-efficient light bulbs. Buy Now",
+  "history": {
+    "url": "http://www.insteon.com/led-bulbs/",
+    "title": "Insteon LED Bulbs",
+    "description": "Insteon LED Bulbs Our brightest ideas yet: dimmable, remote-controlled energy-efficient light bulbs. Buy Now ",
+    "frecency": 2752,
+    "url_hash": 1304099449226,
+    "last_visit_date": 1758203926978200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "One benchmark for all your hardware One benchmark for all your hardware3DMark includes everything you need to benchmark your PC and mobile devices in one app. Whether you're gaming on a smartphone, tablet, notebook, or a desktop gaming PC, 3DMark includes a benchmark designed specifically for your hardware. With more tests added every",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses PC hardware benchmarking (3DMark) and is not related to improving performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "One benchmark for all your hardware One benchmark for all your hardware3DMark includes everything you need to benchmark your PC and mobile devices in one app. Whether you're gaming on a smartphone, tablet, notebook, or a desktop gaming PC, 3DMark includes a benchmark designed specifically for your hardware. With more tests added every",
+  "history": {
+    "url": "https://www.futuremark.com/benchmarks/3dmark",
+    "title": "One benchmark for all your hardware",
+    "description": "One benchmark for all your hardware3DMark includes everything you need to benchmark your PC and mobile devices in one app. Whether you're gaming on a smartphone, tablet, notebook, or a desktop gaming PC, 3DMark includes a benchmark designed specifically for your hardware. With more tests added every",
+    "frecency": 2515,
+    "url_hash": 55981924646422,
+    "last_visit_date": 1758203934279228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Highwayman (song) \"\"\" Highwayman \"\"\" is a song written by American singer-songwriter Jimmy Webb, about a soul with incarnations in four different places in time and history: as a highwayman, a sailor, a construction worker on the Hoover Dam, and finally as a captain of a starship. The song was influenced by the real-l",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a song, not about apps or study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Highwayman (song) \"\"\" Highwayman \"\" is a song written by American singer-songwriter Jimmy Webb, about a soul with incarnations in four different places in time and history: as a highwayman, a sailor, a construction worker on the Hoover Dam, and finally as a captain of a starship. The song was influenced by the real-l",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Highwayman_(song)",
+    "title": "Highwayman (song)",
+    "description": "\"\"\" Highwayman \"\" is a song written by American singer-songwriter Jimmy Webb, about a soul with incarnations in four different places in time and history: as a highwayman, a sailor, a construction worker on the Hoover Dam, and finally as a captain of a starship. The song was influenced by the real-l",
+    "frecency": 4533,
+    "url_hash": 61555007401715,
+    "last_visit_date": 1758203934373228
+  }
+}

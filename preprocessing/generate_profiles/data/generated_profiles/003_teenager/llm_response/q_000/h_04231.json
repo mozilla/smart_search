@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Does Whole-wheat Pasta Raise Cholesterol? \\\"Go whole wheat for healthy cholesterol levels. Spaghetti lovers rejoice -- whole-wheat pasta does not raise cholesterol levels but actually may help lower them. Whole grains, along with other high-fiber foods such as beans, fruits and prunes, are part of a healthy, cholesterol-busting diet. This is",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses diet and cholesterol, not related to starting a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Does Whole-wheat Pasta Raise Cholesterol? \"Go whole wheat for healthy cholesterol levels. Spaghetti lovers rejoice -- whole-wheat pasta does not raise cholesterol levels but actually may help lower them. Whole grains, along with other high-fiber foods such as beans, fruits and prunes, are part of a healthy, cholesterol-busting diet. This is",
+  "history": {
+    "url": "http://woman.thenest.com/wholewheat-pasta-raise-cholesterol-12807.html",
+    "title": "Does Whole-wheat Pasta Raise Cholesterol?",
+    "description": "\"Go whole wheat for healthy cholesterol levels. Spaghetti lovers rejoice -- whole-wheat pasta does not raise cholesterol levels but actually may help lower them. Whole grains, along with other high-fiber foods such as beans, fruits and prunes, are part of a healthy, cholesterol-busting diet. This is",
+    "frecency": 617,
+    "url_hash": 67326259048680,
+    "last_visit_date": 1758203930067228
+  }
+}

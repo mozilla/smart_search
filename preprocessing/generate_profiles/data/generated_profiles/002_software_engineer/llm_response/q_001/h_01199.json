@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Security Officer Average Salaries for Security Officer National$12.40 /hr WA$15.45 /hr Recent Job Postings Security Officer Securitas USA | Quincy, WA 2 weeks ago Security Officer Confidential | Richland, WA 3 weeks ago Security Officer - Regular Securitas USA | Spokane, WA 7 days ago Security Officer - Regular Secu",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns security officer salaries and job postings, not Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Security Officer Average Salaries for Security Officer National$12.40 /hr WA$15.45 /hr Recent Job Postings Security Officer Securitas USA | Quincy, WA 2 weeks ago Security Officer Confidential | Richland, WA 3 weeks ago Security Officer - Regular Securitas USA | Spokane, WA 7 days ago Security Officer - Regular Secu",
+  "history": {
+    "url": "http://www.careerbuilder.com/insights/security-officer",
+    "title": "Security Officer",
+    "description": "Average Salaries for Security Officer National$12.40 /hr WA$15.45 /hr Recent Job Postings Security Officer Securitas USA | Quincy, WA 2 weeks ago Security Officer Confidential | Richland, WA 3 weeks ago Security Officer - Regular Securitas USA | Spokane, WA 7 days ago Security Officer - Regular Secu",
+    "frecency": 2867,
+    "url_hash": 41796329956807,
+    "last_visit_date": 1758203929554111
+  }
+}

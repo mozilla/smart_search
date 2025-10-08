@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "What does the saying \\\"every train needs a caboose\\\" mean? Yan Wenjuan Answered May 11, 2015A caboose is a manned North American rail transport vehiclecoupled at the end of a freight train. Cabooses provided shelter for crew at the end of a train, who were required for switching and shunting, and to keep a lookout for load shifting, damage to equipment and",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The result concerns railway cabooses and a saying, not about debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "\"What does the saying \"\"every train needs a caboose\"\" mean?\" Yan Wenjuan Answered May 11, 2015A caboose is a manned North American rail transport vehiclecoupled at the end of a freight train. Cabooses provided shelter for crew at the end of a train, who were required for switching and shunting, and to keep a lookout for load shifting, damage to equipment and",
+  "history": {
+    "url": "https://www.quora.com/What-does-the-saying-every-train-needs-a-caboose-mean",
+    "title": "\"What does the saying \"\"every train needs a caboose\"\" mean?\"",
+    "description": "Yan Wenjuan Answered May 11, 2015A caboose is a manned North American rail transport vehiclecoupled at the end of a freight train. Cabooses provided shelter for crew at the end of a train, who were required for switching and shunting, and to keep a lookout for load shifting, damage to equipment and ",
+    "frecency": 708,
+    "url_hash": 15898069067101,
+    "last_visit_date": 1758203927050111
+  }
+}

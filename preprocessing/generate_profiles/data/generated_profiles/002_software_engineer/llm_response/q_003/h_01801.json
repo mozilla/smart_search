@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "What Is the Social Security Leveling Option? Social Security leveling is a feature offered by some private pension plans that can make it possible to take an early retirement. While its name refers to Social Security, leveling does not affect your Social Security retirement benefits in any way. It's simply a way to supplement your income with",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Social Security leveling in private pension plans, unrelated to database queries or optimization. It does not address database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "What Is the Social Security Leveling Option? Social Security leveling is a feature offered by some private pension plans that can make it possible to take an early retirement. While its name refers to Social Security, leveling does not affect your Social Security retirement benefits in any way. It's simply a way to supplement your income with",
+  "history": {
+    "url": "https://www.sapling.com/8508950/social-security-leveling-option",
+    "title": "What Is the Social Security Leveling Option?",
+    "description": "Social Security leveling is a feature offered by some private pension plans that can make it possible to take an early retirement. While its name refers to Social Security, leveling does not affect your Social Security retirement benefits in any way. It's simply a way to supplement your income with ",
+    "frecency": 1735,
+    "url_hash": 28916331977585,
+    "last_visit_date": 1758203931940111
+  }
+}

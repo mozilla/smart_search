@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Citizen Complaint HOMEPAGE > CITY SERVICES > Police Department > Complaint Citizen Complaint The Liberty Police Department recognizes that its employees are responsible for their conduct. It is",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is unrelated to Python, machine learning, or programming libraries; it concerns a police department complaint page.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Citizen Complaint HOMEPAGE > CITY SERVICES > Police Department > Complaint Citizen Complaint The Liberty Police Department recognizes that its employees are responsible for their conduct. The Department also acknowledges that at certain times, conflicts between citizens and the Department's employees can arise. It is",
+  "history": {
+    "url": "http://www.cityofliberty.org/Departments/PoliceDepartment/Complaint.aspx",
+    "title": "Citizen Complaint",
+    "description": "HOMEPAGE > CITY SERVICES > Police Department > Complaint Citizen Complaint The Liberty Police Department recognizes that its employees are responsible for their conduct. The Department also acknowledges that at certain times, conflicts between citizens and the Department's employees can arise. It is",
+    "frecency": 1645,
+    "url_hash": 3069010786310,
+    "last_visit_date": 1758203928282111
+  }
+}

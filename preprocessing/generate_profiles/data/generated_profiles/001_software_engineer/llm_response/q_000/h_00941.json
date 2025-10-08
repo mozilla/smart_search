@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "The Power of Prejudice \"The Power of Prejudice By Gad Nahshon The American Army, the American military leadership, the generals and the admirals of our time are liberal progressive people who believe in the best democratic values of this country. According to Dr. Joseph Bendersky, the director of graduate studies in histo",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses prejudice and military leadership rather than debugging APIs; it does not address API integration or debugging topics.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "The Power of Prejudice \"The Power of Prejudice By Gad Nahshon The American Army, the American military leadership, the generals and the admirals of our time are liberal progressive people who believe in the best democratic values of this country. According to Dr. Joseph Bendersky, the director of graduate studies in histo",
+  "history": {
+    "url": "http://www.jewishpost.com/archives/news/the-power-of-prejudice.html",
+    "title": "The Power of Prejudice",
+    "description": "\"The Power of Prejudice By Gad Nahshon The American Army, the American military leadership, the generals and the admirals of our time are liberal progressive people who believe in the best democratic values of this country. According to Dr. Joseph Bendersky, the director of graduate studies in histo",
+    "frecency": 1708,
+    "url_hash": 17750985007172,
+    "last_visit_date": 1758203928324200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Stripper \"From Wikipedia, the free encyclopedia (Redirected from Exotic dancer)navigation search This article is about the striptease performer. For the race horse called Exotic Dancer, see Exotic Dancer (horse). For other uses, see Stripper (disambiguation). Stripper Strippers at a strip club in Zona Rosa,",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a stripper/striptease performer, not related to DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Stripper \"From Wikipedia, the free encyclopedia (Redirected from Exotic dancer)navigation search This article is about the striptease performer. For the race horse called Exotic Dancer, see Exotic Dancer (horse). For other uses, see Stripper (disambiguation). Stripper Strippers at a strip club in Zona Rosa,",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Exotic_dancer",
+    "title": "Stripper",
+    "description": "\"From Wikipedia, the free encyclopedia (Redirected from Exotic dancer)navigation search This article is about the striptease performer. For the race horse called Exotic Dancer, see Exotic Dancer (horse). For other uses, see Stripper (disambiguation). Stripper Strippers at a strip club in Zona Rosa, ",
+    "frecency": 4350,
+    "url_hash": 84789914453442,
+    "last_visit_date": 1758203934709228
+  }
+}

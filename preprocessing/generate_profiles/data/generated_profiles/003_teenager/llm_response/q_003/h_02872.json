@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Festivals March: St. Patrick's Day on Main Visit Website Location: Old Town Rock Hill Phone: 1-803-802-1678 Contact: Frank Hart This Irish themed street festival features Irish music, dancers, arts & crafts, a large amusement area for the little leprechauns plus plenty of food and beverages. No admission fee.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a St. Patrick's Day festival and contains no information related to apps or study habit improvement.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Festivals March: St. Patrick's Day on Main Visit Website Location: Old Town Rock Hill Phone: 1-803-802-1678 Contact: Frank Hart This Irish themed street festival features Irish music, dancers, arts & crafts, a large amusement area for the little leprechauns plus plenty of food and beverages. No admission fee.",
+  "history": {
+    "url": "http://www.visityorkcounty.com/whats-happening/festivals/",
+    "title": "Festivals",
+    "description": "March: St. Patrick's Day on Main Visit Website Location: Old Town Rock Hill Phone: 1-803-802-1678 Contact: Frank Hart This Irish themed street festival features Irish music, dancers, arts & crafts, a large amusement area for the little leprechauns plus plenty of food and beverages. No admission fee.",
+    "frecency": 2006,
+    "url_hash": 13378669472722,
+    "last_visit_date": 1758203928680735
+  }
+}

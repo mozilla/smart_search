@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Buena Park, CA USA.com / California / Buena Park, CABuena Park, CABasic Info Population/Races Income/Careers Housing Education Crime/Crime Rate Others Buena Park is located in south California. Buena Park is between the Orange, Los Angeles county. Buena Park has 10.52 square miles of land area and 0.03 square mile",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Buena Park, California demographics and geography, not Docker or container setup. It is not relevant to the query 'Docker setup for beginners'.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Buena Park, CA USA.com / California / Buena Park, CABuena Park, CABasic Info Population/Races Income/Careers Housing Education Crime/Crime Rate Others Buena Park is located in south California. Buena Park is between the Orange, Los Angeles county. Buena Park has 10.52 square miles of land area and 0.03 square mile",
+  "history": {
+    "url": "http://www.usa.com/buena-park-ca.htm",
+    "title": "Buena Park, CA",
+    "description": "USA.com / California / Buena Park, CABuena Park, CABasic Info Population/Races Income/Careers Housing Education Crime/Crime Rate Others Buena Park is located in south California. Buena Park is between the Orange, Los Angeles county. Buena Park has 10.52 square miles of land area and 0.03 square mile",
+    "frecency": 4267,
+    "url_hash": 94769577240218,
+    "last_visit_date": 1758203930882111
+  }
+}

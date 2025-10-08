@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Jira (software) \"From Wikipedia, the free encyclopedia (Redirected from JIRA (software))navigation search [ hide]This article has multiple issues. Please help improve it or discuss these issues on the talk page. ( Learn how and when to remove these template messages)This article contains content that is written lik",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Jira software, a project management/issue-tracking tool, not about optimizing database queries.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Jira (software) \"From Wikipedia, the free encyclopedia (Redirected from JIRA (software))navigation search [ hide]This article has multiple issues. Please help improve it or discuss these issues on the talk page. ( Learn how and when to remove these template messages)This article contains content that is written lik",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/JIRA_%28software%29",
+    "title": "Jira (software)",
+    "description": "\"From Wikipedia, the free encyclopedia (Redirected from JIRA (software))navigation search [ hide]This article has multiple issues. Please help improve it or discuss these issues on the talk page. ( Learn how and when to remove these template messages)This article contains content that is written lik",
+    "frecency": 4548,
+    "url_hash": 7877910126393,
+    "last_visit_date": 1758203927204111
+  }
+}

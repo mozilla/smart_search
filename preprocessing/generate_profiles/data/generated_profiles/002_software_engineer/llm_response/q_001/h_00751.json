@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Ridley Scott \\\"Top 500Ridley Scott Producer | Director | Production Designer Described by film producer Michael Deeley as \\\"the very best eye in the business\\\", director Ridley Scott was born on November 30, 1937 in South Shields, Tyne and Wear (then County Durham). His father was an officer in the Royal Engineer",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Ridley Scott, a film director, and not about Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Ridley Scott \"Top 500Ridley Scott Producer | Director | Production Designer Described by film producer Michael Deeley as \"\"the very best eye in the business\"\", director Ridley Scott was born on November 30, 1937 in South Shields, Tyne and Wear (then County Durham). His father was an officer in the Royal Engineer",
+  "history": {
+    "url": "http://www.imdb.com/name/nm0000631/",
+    "title": "Ridley Scott",
+    "description": "\"Top 500Ridley Scott Producer | Director | Production Designer Described by film producer Michael Deeley as \"\"the very best eye in the business\"\", director Ridley Scott was born on November 30, 1937 in South Shields, Tyne and Wear (then County Durham). His father was an officer in the Royal Engineer",
+    "frecency": 3654,
+    "url_hash": 65856067238031,
+    "last_visit_date": 1758203927176111
+  }
+}

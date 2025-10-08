@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Christopher Meloni \"Top 5000Christopher Meloni Actor | Producer | Director Blessed with a piercing, blue-eyed glint, brawny looks, cocky \"\"tough guy\"\" stance and effortless charisma, TV's Christopher Meloni has grabbed audiences' attention, male and female alike, finding breakthrough small screen stardom playing both",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns actor Christopher Meloni and not easy DIY room decoration ideas; it is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Christopher Meloni \"Top 5000Christopher Meloni Actor | Producer | Director Blessed with a piercing, blue-eyed glint, brawny looks, cocky \"\"tough guy\"\" stance and effortless charisma, TV's Christopher Meloni has grabbed audiences' attention, male and female alike, finding breakthrough small screen stardom playing both",
+  "history": {
+    "url": "http://www.imdb.com/name/nm0005221/",
+    "title": "Christopher Meloni",
+    "description": "\"Top 5000Christopher Meloni Actor | Producer | Director Blessed with a piercing, blue-eyed glint, brawny looks, cocky \"\"tough guy\"\" stance and effortless charisma, TV's Christopher Meloni has grabbed audiences' attention, male and female alike, finding breakthrough small screen stardom playing both ",
+    "frecency": 3719,
+    "url_hash": 891273043181,
+    "last_visit_date": 1758203927086735
+  }
+}

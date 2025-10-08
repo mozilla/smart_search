@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "GPRS (General Packet Radio Services) General Packet Radio Services (GPRS) is a packet -based wireless communication service that promises data rates from 56 up to 114 Kbps and continuous connection to the Internet for mobile phone and computer users. The higher data rates allow users to take part in video conferences and interact with",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses mobile network technology (GPRS) and contains no information about Python libraries or machine learning; therefore it is not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "GPRS (General Packet Radio Services) General Packet Radio Services (GPRS) is a packet -based wireless communication service that promises data rates from 56 up to 114 Kbps and continuous connection to the Internet for mobile phone and computer users. The higher data rates allow users to take part in video conferences and interact with",
+  "history": {
+    "url": "http://searchmobilecomputing.techtarget.com/definition/GPRS",
+    "title": "GPRS (General Packet Radio Services)",
+    "description": "General Packet Radio Services (GPRS) is a packet -based wireless communication service that promises data rates from 56 up to 114 Kbps and continuous connection to the Internet for mobile phone and computer users. The higher data rates allow users to take part in video conferences and interact with ",
+    "frecency": 4929,
+    "url_hash": 70393960778107,
+    "last_visit_date": 1758203928248111
+  }
+}

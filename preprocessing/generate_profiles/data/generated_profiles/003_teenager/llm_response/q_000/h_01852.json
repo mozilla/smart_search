@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "John Experiences a Hypertensive Crisis Did you know that there are two types of hypertensive crises? Learn more about hypertensive crisis, its causes, symptoms, and treatment. Then test your knowledge with a quiz. John Experiences a Hypertensive Crisis John was a 35-year-old alcoholic. His alcoholism led to several health issues, includi",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns hypertensive crises and health topics, not related to starting or creating a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "John Experiences a Hypertensive Crisis Did you know that there are two types of hypertensive crises? Learn more about hypertensive crisis, its causes, symptoms, and treatment. Then test your knowledge with a quiz. John Experiences a Hypertensive Crisis John was a 35-year-old alcoholic. His alcoholism led to several health issues, includi",
+  "history": {
+    "url": "http://study.com/academy/lesson/hypertensive-crisis-causes-symptoms-treatment.html",
+    "title": "John Experiences a Hypertensive Crisis",
+    "description": "Did you know that there are two types of hypertensive crises? Learn more about hypertensive crisis, its causes, symptoms, and treatment. Then test your knowledge with a quiz. John Experiences a Hypertensive Crisis John was a 35-year-old alcoholic. His alcoholism led to several health issues, includi",
+    "frecency": 3112,
+    "url_hash": 80946875722757,
+    "last_visit_date": 1758203936147228
+  }
+}

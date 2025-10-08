@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Student Account Student Account By creating a Microsoft Imagine student profile, you can access developer tools, resources, contests and more. Create a Microsoft Imagine profile Why sign up for Microsoft Imagine? Create your student account and verify your student status to download the same tools and products used",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "Irrelevant to the query; the result discusses Microsoft Imagine student profiles, not Python libraries or machine learning tools.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Student Account Student Account By creating a Microsoft Imagine student profile, you can access developer tools, resources, contests and more. Create a Microsoft Imagine profile Why sign up for Microsoft Imagine? Create your student account and verify your student status to download the same tools and products used",
+  "history": {
+    "url": "https://imagine.microsoft.com/en-us/account",
+    "title": "Student Account",
+    "description": "Student Account By creating a Microsoft Imagine student profile, you can access developer tools, resources, contests and more. Create a Microsoft Imagine profile Why sign up for Microsoft Imagine? Create your student account and verify your student status to download the same tools and products used",
+    "frecency": 4583,
+    "url_hash": 20571656576367,
+    "last_visit_date": 1758203928088111
+  }
+}

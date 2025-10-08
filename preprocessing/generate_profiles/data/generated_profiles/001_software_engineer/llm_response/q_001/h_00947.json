@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "The Average Salary of Hospital Recruiter \"Related Articles1How to Become a Physician Recruiter2The Average Hourly Wage for Hospital Administrators3Navy Corpsman Vs. Navy Officer4How to Get Started in a Database Administrator Career Jobs in the health-care industry have grown twice as fast as the national economy, according to \"Business In",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses hospital recruiter salaries and healthcare careers, not Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "The Average Salary of Hospital Recruiter \"Related Articles1How to Become a Physician Recruiter2The Average Hourly Wage for Hospital Administrators3Navy Corpsman Vs. Navy Officer4How to Get Started in a Database Administrator Career Jobs in the health-care industry have grown twice as fast as the national economy, according to \"\"Business In",
+  "history": {
+    "url": "http://work.chron.com/average-salary-hospital-recruiter-19543.html",
+    "title": "The Average Salary of Hospital Recruiter",
+    "description": "\"Related Articles1How to Become a Physician Recruiter2The Average Hourly Wage for Hospital Administrators3Navy Corpsman Vs. Navy Officer4How to Get Started in a Database Administrator Career Jobs in the health-care industry have grown twice as fast as the national economy, according to \"\"Business In",
+    "frecency": 1675,
+    "url_hash": 38928598089460,
+    "last_visit_date": 1758203928746200
+  }
+}

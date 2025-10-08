@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Restaurant Marketing: Who is the Target Market for Your Restaurant? Restaurant Marketing: Who is the Target Market for Your Restaurant? This may be the most important question you can answer when designing a restaurant concept. It is definately the most important question to answer when creating a marketing plan. One of the biggest mistakes restaurants make is tryin",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses restaurant marketing and target market concepts, not API debugging or API integration; it is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Restaurant Marketing: Who is the Target Market for Your Restaurant? Restaurant Marketing: Who is the Target Market for Your Restaurant? This may be the most important question you can answer when designing a restaurant concept. It is definately the most important question to answer when creating a marketing plan. One of the biggest mistakes restaurants make is tryin",
+  "history": {
+    "url": "http://www.restaurantreport.com/departments/biz_target-market-for-your-restaurant.html",
+    "title": "Restaurant Marketing: Who is the Target Market for Your Restaurant?",
+    "description": "Restaurant Marketing: Who is the Target Market for Your Restaurant? This may be the most important question you can answer when designing a restaurant concept. It is definately the most important question to answer when creating a marketing plan. One of the biggest mistakes restaurants make is tryin",
+    "frecency": 4877,
+    "url_hash": 39859717900340,
+    "last_visit_date": 1758203929100200
+  }
+}

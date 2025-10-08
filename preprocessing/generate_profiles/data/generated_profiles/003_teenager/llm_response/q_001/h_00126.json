@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "Disney Princess \"Disney Princess is a media franchise owned by the Walt Disney Company. Created by Disney Consumer Products chairman Andy Mooney in the late 1990s, the franchise spotlights a line-up of fictional female heroines who have appeared in various Disney animated feature films . The franchise currently com",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses the Disney Princess franchise, not TikTok trends for 2024; it is not relevant to the query.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "Disney Princess \"Disney Princess is a media franchise owned by the Walt Disney Company. Created by Disney Consumer Products chairman Andy Mooney in the late 1990s, the franchise spotlights a line-up of fictional female heroines who have appeared in various Disney animated feature films . The franchise currently com",
+  "history": {
+    "url": "http://disney.wikia.com/wiki/Disney_Princess",
+    "title": "Disney Princess",
+    "description": "\"Disney Princess is a media franchise owned by the Walt Disney Company. Created by Disney Consumer Products chairman Andy Mooney in the late 1990s, the franchise spotlights a line-up of fictional female heroines who have appeared in various Disney animated feature films . The franchise currently com",
+    "frecency": 4871,
+    "url_hash": 85482241205798,
+    "last_visit_date": 1758203935915228
+  }
+}

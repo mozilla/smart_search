@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Garage Sale Mystery: The Novel Murders 120 mins N/AGarage Sale Mystery: The Novel Murders Drama, Sequel Jennifer Shannon is a garage sale shopping expert whose sharp observation skills allow her to uncover valuable antiques, as well as help her local police department investigate crimes and solve mysteries. When an ... more Director: Nor",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a garage sale mystery/novel film, not DIY room decoration ideas; content is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Garage Sale Mystery: The Novel Murders 120 mins N/AGarage Sale Mystery: The Novel Murders Drama, Sequel Jennifer Shannon is a garage sale shopping expert whose sharp observation skills allow her to uncover valuable antiques, as well as help her local police department investigate crimes and solve mysteries. When an ... more Director: Nor",
+  "history": {
+    "url": "http://www.hollywood.com/tv/garage-sale-mystery-a-novel-murder-60546822/",
+    "title": "Garage Sale Mystery: The Novel Murders",
+    "description": "120 mins N/AGarage Sale Mystery: The Novel Murders Drama, Sequel Jennifer Shannon is a garage sale shopping expert whose sharp observation skills allow her to uncover valuable antiques, as well as help her local police department investigate crimes and solve mysteries. When an ... more Director: Nor",
+    "frecency": 3116,
+    "url_hash": 87990957177307,
+    "last_visit_date": 1758203932693228
+  }
+}

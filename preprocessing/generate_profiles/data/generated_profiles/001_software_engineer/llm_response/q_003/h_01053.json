@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "News from the City of Biloxi News from the City of Biloxi\u2022 City reminds vendors, property owners to obtain permits 4/11/2018\u2022 City gauges interest in downtown sites 4/11/2018\u2022 Keesler closing main gate to avoid U. S. 90 traffic 4/10/2018\u2022 C Spire increases network capacity ahead of Spring Break 4/10/2018\u2022 Business owners, team",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is local government news unrelated to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "News from the City of Biloxi News from the City of Biloxi\u2022 City reminds vendors, property owners to obtain permits 4/11/2018\u2022 City gauges interest in downtown sites 4/11/2018\u2022 Keesler closing main gate to avoid U. S. 90 traffic 4/10/2018\u2022 C Spire increases network capacity ahead of Spring Break 4/10/2018\u2022 Business owners, team",
+  "history": {
+    "url": "https://www.biloxi.ms.us/",
+    "title": "News from the City of Biloxi",
+    "description": "News from the City of Biloxi\u2022 City reminds vendors, property owners to obtain permits 4/11/2018\u2022 City gauges interest in downtown sites 4/11/2018\u2022 Keesler closing main gate to avoid U. S. 90 traffic 4/10/2018\u2022 C Spire increases network capacity ahead of Spring Break 4/10/2018\u2022 Business owners, team ",
+    "frecency": 1254,
+    "url_hash": 60338864994243,
+    "last_visit_date": 1758203928444200
+  }
+}

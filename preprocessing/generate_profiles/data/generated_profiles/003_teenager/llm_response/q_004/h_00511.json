@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Harley Quinn \\\"From Wikipedia, the free encyclopedianavigation search This article is about the DC Comics antihero. For the Agatha Christie character, see Mr. Harley Quin. Harley Quinn Harley Quinn with the Joker on the cover of Batman: Harley Quinn. Art by Alex Ross. Publication information Publisher DC Comics F",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about the fictional character Harley Quinn from DC Comics, not related to improving sports or how to get better at sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Harley Quinn \"From Wikipedia, the free encyclopedianavigation search This article is about the DC Comics antihero. For the Agatha Christie character, see Mr. Harley Quin. Harley Quinn Harley Quinn with the Joker on the cover of Batman: Harley Quinn. Art by Alex Ross. Publication information Publisher DC Comics F",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Harley_Quinn",
+    "title": "Harley Quinn",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search This article is about the DC Comics antihero. For the Agatha Christie character, see Mr. Harley Quin. Harley Quinn Harley Quinn with the Joker on the cover of Batman: Harley Quinn. Art by Alex Ross. Publication information Publisher DC Comics F",
+    "frecency": 4462,
+    "url_hash": 47271143877468,
+    "last_visit_date": 1758203934581228
+  }
+}

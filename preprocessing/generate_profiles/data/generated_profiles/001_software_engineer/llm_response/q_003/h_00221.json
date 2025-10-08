@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Highlights and Happenings Highlights and Happenings VOLUNTEERS ARE NEEDED! Meet on Wed, Feb. 28 at 7 pm for committee meeting. Also, help is needed to stuff the eggs with candy on Tues, March 27 at 10 am. Both will be held at the Visitors Center located at 2600 Smith Station Rd., Hanover, PA. Any questions, call 717-451-3635",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is an events/volunteer notice unrelated to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Highlights and Happenings Highlights and Happenings VOLUNTEERS ARE NEEDED! Meet on Wed, Feb. 28 at 7 pm for committee meeting. Also, help is needed to stuff the eggs with candy on Tues, March 27 at 10 am. Both will be held at the Visitors Center located at 2600 Smith Station Rd., Hanover, PA. Any questions, call 717-451-3635",
+  "history": {
+    "url": "http://friendsofcodorus.org/",
+    "title": "Highlights and Happenings",
+    "description": "Highlights and Happenings VOLUNTEERS ARE NEEDED! Meet on Wed, Feb. 28 at 7 pm for committee meeting. Also, help is needed to stuff the eggs with candy on Tues, March 27 at 10 am. Both will be held at the Visitors Center located at 2600 Smith Station Rd., Hanover, PA. Any questions, call 717-451-3635",
+    "frecency": 4240,
+    "url_hash": 29127979614315,
+    "last_visit_date": 1758203929078200
+  }
+}

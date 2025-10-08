@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Bystrom, CA Bystrom, CAAdd Comparison Population3,889Median Age31.2Poverty Rate34.2%Median Household Income$25,402Number of Employees1,193-7.16% decline Median Property Value$93,60014.1% growth About Economy Health & Safety Diversity Education Housing & Living Read More About Bystrom, CA is a census place locat",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result contains demographic information about Bystrom, CA and does not address improving sports skills.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Bystrom, CA Bystrom, CAAdd Comparison Population3,889Median Age31.2Poverty Rate34.2%Median Household Income$25,402Number of Employees1,193-7.16% decline Median Property Value$93,60014.1% growth About Economy Health & Safety Diversity Education Housing & Living Read More About Bystrom, CA is a census place locat",
+  "history": {
+    "url": "https://datausa.io/profile/geo/bystrom-ca/",
+    "title": "Bystrom, CA",
+    "description": "Bystrom, CAAdd Comparison Population3,889Median Age31.2Poverty Rate34.2%Median Household Income$25,402Number of Employees1,193-7.16% decline Median Property Value$93,60014.1% growth About Economy Health & Safety Diversity Education Housing & Living Read More About Bystrom, CA is a census place locat",
+    "frecency": 2666,
+    "url_hash": 89821945345826,
+    "last_visit_date": 1758203931831228
+  }
+}

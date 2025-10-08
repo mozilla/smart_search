@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "I Feel Pretty \"Music by Leonard Bernstein Lyrics by Stephen Sondheim Date 1957Source West Side Story (musical)Publisher Chappell & Co. Inc.; The Leonard Bernstein Music Pub. Co. LLC\"\" I Feel Pretty ,\"\" the opening number of the second act of Leonard Bernstein and Stephen Sondheim's musical West Side Story, is an",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a song from West Side Story, not content about improving sports or athletic performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "I Feel Pretty \"Music by Leonard Bernstein Lyrics by Stephen Sondheim Date 1957Source West Side Story (musical)Publisher Chappell & Co. Inc.; The Leonard Bernstein Music Pub. Co. LLC\"\" I Feel Pretty ,\"\" the opening number of the second act of Leonard Bernstein and Stephen Sondheim's musical West Side Story, is an",
+  "history": {
+    "url": "http://muppet.wikia.com/wiki/I_Feel_Pretty",
+    "title": "I Feel Pretty",
+    "description": "\"Music by Leonard Bernstein Lyrics by Stephen Sondheim Date 1957Source West Side Story (musical)Publisher Chappell & Co. Inc.; The Leonard Bernstein Music Pub. Co. LLC\"\" I Feel Pretty ,\"\" the opening number of the second act of Leonard Bernstein and Stephen Sondheim's musical West Side Story, is an ",
+    "frecency": 2551,
+    "url_hash": 5914879125831,
+    "last_visit_date": 1758203933411228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Factor structure Assessment | Biopsychology | Comparative | Cognitive | Developmental | Language | Individual differences | Personality | Philosophy | Social | Methods | Statistics | Clinical | Educational | Industrial | Professional items | World psychology |Statistics: Scientific method \u00b7 Research methods \u00b7 Experi",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result pertains to psychology topics and does not address databases, query optimization, or database queries; therefore it is not relevant to the search query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Factor structure Assessment | Biopsychology | Comparative | Cognitive | Developmental | Language | Individual differences | Personality | Philosophy | Social | Methods | Statistics | Clinical | Educational | Industrial | Professional items | World psychology |Statistics: Scientific method \u00b7 Research methods \u00b7 Experi",
+  "history": {
+    "url": "http://psychology.wikia.com/wiki/Factor_structure",
+    "title": "Factor structure",
+    "description": "Assessment | Biopsychology | Comparative | Cognitive | Developmental | Language | Individual differences | Personality | Philosophy | Social | Methods | Statistics | Clinical | Educational | Industrial | Professional items | World psychology |Statistics: Scientific method \u00b7 Research methods \u00b7 Experi",
+    "frecency": 1757,
+    "url_hash": 75054249540076,
+    "last_visit_date": 1758203928122111
+  }
+}

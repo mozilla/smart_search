@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "What is the average salary for a UPS pilot? United Parcel Service (company) Pilots Salary Comparisons Salaries and Career Advice Salaries for Specific Jobs and Careers Salaries and Wages Jobs and Careers Career Advice What is the average salary for a UPS pilot?ad by Wharton Executive Education Learn business analytics online with Wharton Exec",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses UPS pilot salaries and general career salaries, not Docker or beginner Docker setup topics.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "What is the average salary for a UPS pilot? United Parcel Service (company) Pilots Salary Comparisons Salaries and Career Advice Salaries for Specific Jobs and Careers Salaries and Wages Jobs and Careers Career Advice What is the average salary for a UPS pilot?ad by Wharton Executive Education Learn business analytics online with Wharton Exec",
+  "history": {
+    "url": "https://www.quora.com/What-is-the-average-salary-for-a-UPS-pilot",
+    "title": "What is the average salary for a UPS pilot?",
+    "description": "United Parcel Service (company) Pilots Salary Comparisons Salaries and Career Advice Salaries for Specific Jobs and Careers Salaries and Wages Jobs and Careers Career Advice What is the average salary for a UPS pilot?ad by Wharton Executive Education Learn business analytics online with Wharton Exec",
+    "frecency": 777,
+    "url_hash": 25680604737967,
+    "last_visit_date": 1758203927172111
+  }
+}

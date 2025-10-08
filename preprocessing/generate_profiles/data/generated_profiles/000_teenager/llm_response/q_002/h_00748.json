@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Modern Art \"Ideas Modern Art Art Works Modern Art The Most Important Art in Modern Art - that both overview the major ideas of Modern Art, and highlight the greatest achievements by each artist. Don't forget to visit the artist overview pages of the artis",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page discusses Modern Art, not DIY room decoration ideas; topic mismatch; not relevant.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Modern Art \"Ideas Modern Art Art Works Modern Art The Most Important Art in Modern Art The below artworks are the most important in Modern Art - that both overview the major ideas of Modern Art, and highlight the greatest achievements by each artist. Don't forget to visit the artist overview pages of the artis",
+  "history": {
+    "url": "http://www.theartstory.org/definition-modern-art-artworks.htm",
+    "title": "Modern Art",
+    "description": "\"Ideas Modern Art Art Works Modern Art The Most Important Art in Modern Art The below artworks are the most important in Modern Art - that both overview the major ideas of Modern Art, and highlight the greatest achievements by each artist. Don't forget to visit the artist overview pages of the artis",
+    "frecency": 1820,
+    "url_hash": 43154289200054,
+    "last_visit_date": 1758203927285139
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "New request FAQg Here you can send a request My enquiry is about: Do you wish support for the former SCS-Products? Choose this Option, if you have a Problem with the following Programms: Vegas Pro, Movie Studio, DVD Architect, Sound Forge, ACID Pro Do you wish to contact Sales Team? Please select this option to con",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses general customer support and product-related inquiries for software (SCS products) and does not mention API, debugging, or integration issues.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "New request FAQg \"Here you can send a request My enquiry is about: Do you wish support for the former SCS-Products? Choose this Option, if you have a Problem with the following Programms: Vegas Pro, Movie Studio, DVD Architect, Sound Forge, ACID Pro Do you wish to contact Sales Team? Please select this option to con",
+  "history": {
+    "url": "https://support2.magix.com/customer/index.php",
+    "title": "New request FAQg",
+    "description": "\"Here you can send a request My enquiry is about: Do you wish support for the former SCS-Products? Choose this Option, if you have a Problem with the following Programms: Vegas Pro, Movie Studio, DVD Architect, Sound Forge, ACID Pro Do you wish to contact Sales Team? Please select this option to con",
+    "frecency": 4267,
+    "url_hash": 50708633651070,
+    "last_visit_date": 1758203928218200
+  }
+}

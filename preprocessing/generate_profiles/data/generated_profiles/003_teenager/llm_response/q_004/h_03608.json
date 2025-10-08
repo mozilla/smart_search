@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Trivia Quizzes, Games, and Facts \"The Longest Yard: The Originalwritten by: sanitation This was a great movie that starred Burt Reynolds. The movie is about a former professional football player who gets sent to jail and then puts a football team together that consists of inmates. The team is put together in order to play a game ag",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a movie description about The Longest Yard and does not address methods or guidance for improving performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Trivia Quizzes, Games, and Facts \"The Longest Yard: The Originalwritten by: sanitation This was a great movie that starred Burt Reynolds. The movie is about a former professional football player who gets sent to jail and then puts a football team together that consists of inmates. The team is put together in order to play a game ag",
+  "history": {
+    "url": "http://www.123facts.com/play-quiz/The-Longest-Yard-The-Original-3518.html",
+    "title": "Trivia Quizzes, Games, and Facts",
+    "description": "\"The Longest Yard: The Originalwritten by: sanitation This was a great movie that starred Burt Reynolds. The movie is about a former professional football player who gets sent to jail and then puts a football team together that consists of inmates. The team is put together in order to play a game ag",
+    "frecency": 1235,
+    "url_hash": 22090119667217,
+    "last_visit_date": 1758203930463228
+  }
+}

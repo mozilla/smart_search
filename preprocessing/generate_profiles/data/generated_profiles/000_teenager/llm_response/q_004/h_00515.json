@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Bologna \\\"Bologna Book a Hotel In Out Check Rates Understand History When to visit Get in By plane By train By car Parking Get around Layout of the city Plan your travel By bus By taxi On bike On foot See Museums and art galleries See [add listing] Landmarks Parks and Gardens Do Events and Festivals Motor Sh",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page is about travel planning in Bologna (hotels, transportation, sightseeing) and not about strategies or guidance to improve athletic performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Bologna \"Bologna Book a Hotel In Out Check Rates Understand History When to visit Get in By plane By train By car Parking Get around Layout of the city Plan your travel By bus By taxi On bike On foot See Museums and art galleries See [add listing] Landmarks Parks and Gardens Do Events and Festivals Motor Sh",
+  "history": {
+    "url": "http://wikitravel.org/en/Bologna",
+    "title": "Bologna",
+    "description": "\"Bologna Book a Hotel In Out Check Rates Understand History When to visit Get in By plane By train By car Parking Get around Layout of the city Plan your travel By bus By taxi On bike On foot See Museums and art galleries See [add listing] Landmarks Parks and Gardens Do Events and Festivals Motor Sh",
+    "frecency": 2684,
+    "url_hash": 54269062978499,
+    "last_visit_date": 1758203928007139
+  }
+}

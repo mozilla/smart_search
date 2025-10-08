@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Edible Mushroom Cultivation \"Just as the popularity of mushrooms in the American diet continues to increase, so has interest in growing gourmet mushrooms for a hobby or small business. Today, many stores carry a variety of wild mushrooms, specialty mushrooms, and several forms of the common button mushroom. The following is a\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about edible mushroom cultivation, unrelated to study habits or apps.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Edible Mushroom Cultivation \"Just as the popularity of mushrooms in the American diet continues to increase, so has interest in growing gourmet mushrooms for a hobby or small business. Today, many stores carry a variety of wild mushrooms, specialty mushrooms, and several forms of the common button mushroom. The following is a",
+  "history": {
+    "url": "http://www.somamushrooms.org/growing/davis/davis.php",
+    "title": "Edible Mushroom Cultivation",
+    "description": "\"Just as the popularity of mushrooms in the American diet continues to increase, so has interest in growing gourmet mushrooms for a hobby or small business. Today, many stores carry a variety of wild mushrooms, specialty mushrooms, and several forms of the common button mushroom. The following is a ",
+    "frecency": 324,
+    "url_hash": 12240750873786,
+    "last_visit_date": 1758203932161228
+  }
+}

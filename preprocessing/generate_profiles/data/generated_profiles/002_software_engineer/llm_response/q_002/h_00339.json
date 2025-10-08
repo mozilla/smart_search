@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "The Seven Stages of the Sales Cycle \"Most sales follow roughly the same pattern. It's a cycle of seven different steps, starting with prospecting and ending when you ask your new customer for referrals. Of course, there are exceptions to this rule. For example, if someone calls you because they're thinking about buying, you can skip t\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses the seven stages of the sales cycle, which is unrelated to IDEs or software development tools.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "The Seven Stages of the Sales Cycle \"Most sales follow roughly the same pattern. It's a cycle of seven different steps, starting with prospecting and ending when you ask your new customer for referrals. Of course, there are exceptions to this rule. For example, if someone calls you because they're thinking about buying, you can skip t",
+  "history": {
+    "url": "http://www.nasp.com/article/AE1B7061-3F39/the-seven-stages-of-the-sales-cycle.html",
+    "title": "The Seven Stages of the Sales Cycle",
+    "description": "\"Most sales follow roughly the same pattern. It's a cycle of seven different steps, starting with prospecting and ending when you ask your new customer for referrals. Of course, there are exceptions to this rule. For example, if someone calls you because they're thinking about buying, you can skip t",
+    "frecency": 4423,
+    "url_hash": 61822527893263,
+    "last_visit_date": 1758203927760111
+  }
+}

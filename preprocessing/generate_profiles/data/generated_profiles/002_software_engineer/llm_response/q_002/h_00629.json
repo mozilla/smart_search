@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Welcome to Long Beach Island.com Welcome to Long Beach Island.com Where the world has come for information on Long Beach Island since Jan. 1996. ACCOMMODATIONS GUIDERENTALS BY OWNERRESTAURANTS & LOUNGESAMUSEMENTS & ACTIVITIESCALENDER OF EVENTSCOMPLETE DIRECTORYADVERTISE WITH US",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page is a local tourism site about Long Beach Island and has no content related to software development IDEs.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Welcome to Long Beach Island.com Welcome to Long Beach Island.com Where the world has come for information on Long Beach Island since Jan. 1996. ACCOMMODATIONS GUIDERENTALS BY OWNERRESTAURANTS & LOUNGESAMUSEMENTS & ACTIVITIESCALENDER OF EVENTSCOMPLETE DIRECTORYADVERTISE WITH US",
+  "history": {
+    "url": "http://longbeachisland.com/",
+    "title": "Welcome to Long Beach Island.com",
+    "description": "Welcome to Long Beach Island.com Where the world has come for information on Long Beach Island since Jan. 1996. ACCOMMODATIONS GUIDERENTALS BY OWNERRESTAURANTS & LOUNGESAMUSEMENTS & ACTIVITIESCALENDER OF EVENTSCOMPLETE DIRECTORYADVERTISE WITH US ",
+    "frecency": 3885,
+    "url_hash": 53683628531740,
+    "last_visit_date": 1758203928790111
+  }
+}

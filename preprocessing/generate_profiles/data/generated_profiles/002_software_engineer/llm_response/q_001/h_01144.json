@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Dr. Carol Morcos, MD \"Search Search Search Near Search Find a doctor Find Doctors by Specialty Family Medicine Internal Medicine Obstetrics & Gynecology Dentistry Orthopedic Surgery See All Specialties Find Doctors by Condition Fibromyalgia Anxiety ADHDSleep Apnea Migraine Find Doctors by Procedure Pain Management Ortho",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a medical physician directory page, not about Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Dr. Carol Morcos, MD \"Search Search Search Near Search Find a doctor Find Doctors by Specialty Family Medicine Internal Medicine Obstetrics & Gynecology Dentistry Orthopedic Surgery See All Specialties Find Doctors by Condition Fibromyalgia Anxiety ADHDSleep Apnea Migraine Find Doctors by Procedure Pain Management Ortho",
+  "history": {
+    "url": "https://www.healthgrades.com/physician/dr-carol-morcos-2knkr",
+    "title": "Dr. Carol Morcos, MD",
+    "description": "\"Search Search Search Near Search Find a doctor Find Doctors by Specialty Family Medicine Internal Medicine Obstetrics & Gynecology Dentistry Orthopedic Surgery See All Specialties Find Doctors by Condition Fibromyalgia Anxiety ADHDSleep Apnea Migraine Find Doctors by Procedure Pain Management Ortho",
+    "frecency": 2972,
+    "url_hash": 13649997909269,
+    "last_visit_date": 1758203927960111
+  }
+}

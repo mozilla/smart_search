@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "New Tires and Wheel Alignment \"Do I Need To Get A Wheel Alignment And Tire Balance When I Have New Tires Installed? This question was addressed recently in an article by Tom Torbjornsen, Maintenance Editor for AOL Autos . There are multiple factors that affect the wear on your tires and the alignment and balance of them is cruci",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns automotive topics (tires and wheel alignment) and is unrelated to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "New Tires and Wheel Alignment \"Do I Need To Get A Wheel Alignment And Tire Balance When I Have New Tires Installed? This question was addressed recently in an article by Tom Torbjornsen, Maintenance Editor for AOL Autos . There are multiple factors that affect the wear on your tires and the alignment and balance of them is cruci",
+  "history": {
+    "url": "http://www.paulmilleraudi.com/new-tires-and-wheel-alignement.htm",
+    "title": "New Tires and Wheel Alignment",
+    "description": "\"Do I Need To Get A Wheel Alignment And Tire Balance When I Have New Tires Installed? This question was addressed recently in an article by Tom Torbjornsen, Maintenance Editor for AOL Autos . There are multiple factors that affect the wear on your tires and the alignment and balance of them is cruci",
+    "frecency": 4907,
+    "url_hash": 84323016943688,
+    "last_visit_date": 1758203929666111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Historical Information on Niagara Falls The War of 1812 was a turning point in Niagara Falls history, when the fledgling United States army fought British Loyalists for the new lands that would become Canada. Niagara historical sites, battlefields, museums and military re-creations are a memorable journey into the past. From Fort Erie, so",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Niagara Falls history and does not relate to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Historical Information on Niagara Falls The War of 1812 was a turning point in Niagara Falls history, when the fledgling United States army fought British Loyalists for the new lands that would become Canada. Niagara historical sites, battlefields, museums and military re-creations are a memorable journey into the past. From Fort Erie, so",
+  "history": {
+    "url": "https://www.niagarafallstourism.com/about/city-of-niagara-falls/history/",
+    "title": "Historical Information on Niagara Falls",
+    "description": "The War of 1812 was a turning point in Niagara Falls history, when the fledgling United States army fought British Loyalists for the new lands that would become Canada. Niagara historical sites, battlefields, museums and military re-creations are a memorable journey into the past. From Fort Erie, so",
+    "frecency": 1235,
+    "url_hash": 64328182808499,
+    "last_visit_date": 1758203928178735
+  }
+}

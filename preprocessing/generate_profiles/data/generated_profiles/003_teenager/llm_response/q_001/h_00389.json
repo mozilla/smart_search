@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "The offal truth about American haggis: Traditional Scottish haggis is banned in the United States. With Burns Night looming, how do fans satisfy their taste for oatmeal and offal? For aficionados, it is the 'great chieftain o' the pudding-race'. To sceptics, however, it is a gruesome mush of sheep's innards - and for decades American",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses haggis and offal, not TikTok trends; unrelated to the query.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "The offal truth about American haggis \"Traditional Scottish haggis is banned in the United States. With Burns Night looming, how do fans satisfy their taste for oatmeal and offal? For aficionados, it is the \"\"great chieftain o' the pudding-race\"\". To sceptics, however, it is a gruesome mush of sheep's innards - and for decades American",
+  "history": {
+    "url": "http://www.bbc.com/news/magazine-21128089",
+    "title": "The offal truth about American haggis",
+    "description": "\"Traditional Scottish haggis is banned in the United States. With Burns Night looming, how do fans satisfy their taste for oatmeal and offal? For aficionados, it is the \"\"great chieftain o' the pudding-race\"\". To sceptics, however, it is a gruesome mush of sheep's innards - and for decades American ",
+    "frecency": 4596,
+    "url_hash": 6722407878528,
+    "last_visit_date": 1758203929280735
+  }
+}

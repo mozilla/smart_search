@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "What is a CSV file and how do I save my spreadsheet as one? \"Big Commerce Support Documentation Running Your Store What is a CSV file and how do I save my spreadsheet as one? What We'll Cover Saving your spreadsheet as a CSVHow CSVs are used A CSV is a comma separated values file which allows data to be saved in a table structured format. CSVs look like a ga",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses CSV files and saving spreadsheets, not database query optimization; content is not relevant to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "What is a CSV file and how do I save my spreadsheet as one? \"Big Commerce Support Documentation Running Your Store What is a CSV file and how do I save my spreadsheet as one? What We'll Cover Saving your spreadsheet as a CSVHow CSVs are used A CSV is a comma separated values file which allows data to be saved in a table structured format. CSVs look like a ga",
+  "history": {
+    "url": "https://support.bigcommerce.com/articles/Public/What-is-a-CSV-file-and-how-do-I-save-my-spreadsheet-as-one",
+    "title": "What is a CSV file and how do I save my spreadsheet as one?",
+    "description": "\"Big Commerce Support Documentation Running Your Store What is a CSV file and how do I save my spreadsheet as one? What We'll Cover Saving your spreadsheet as a CSVHow CSVs are used A CSV is a comma separated values file which allows data to be saved in a table structured format. CSVs look like a ga",
+    "frecency": 4931,
+    "url_hash": 78461721201104,
+    "last_visit_date": 1758203929382111
+  }
+}

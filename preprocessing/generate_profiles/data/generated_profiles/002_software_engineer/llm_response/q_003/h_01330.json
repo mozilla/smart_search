@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "SaaS: Pros, cons and leading vendors 10Software as a Service (Saa S), the best-known branch of cloud computing, is a delivery model in which applications are hosted and managed in a service provider's datacenter, paid for on a subscription basis and accessed via a browser over an internet connection. As a mainstream business option it'",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses SaaS and cloud computing rather than database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "SaaS: Pros, cons and leading vendors 10Software as a Service (Saa S), the best-known branch of cloud computing, is a delivery model in which applications are hosted and managed in a service provider's datacenter, paid for on a subscription basis and accessed via a browser over an internet connection. As a mainstream business option it'",
+  "history": {
+    "url": "http://www.zdnet.com/article/saas-pros-cons-and-leading-vendors/",
+    "title": "SaaS: Pros, cons and leading vendors",
+    "description": "10Software as a Service (Saa S), the best-known branch of cloud computing, is a delivery model in which applications are hosted and managed in a service provider's datacenter, paid for on a subscription basis and accessed via a browser over an internet connection. As a mainstream business option it'",
+    "frecency": 2602,
+    "url_hash": 78850782091900,
+    "last_visit_date": 1758203929722111
+  }
+}

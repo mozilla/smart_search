@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "How much does an empty steel 55-gallon drum weigh? \"Answers.com \u00ae Wiki Answers \u00ae Categories Business & Finance Business and Industry Industries and Professions Companies Airbus How much does an empty steel 55-gallon drum weigh? Flag How much does an empty steel 55-gallon drum weigh? Answer by Spongebob sps Confidence votes 59Approximately 44 pounds.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns the weight of an empty steel drum and is unrelated to Python libraries for machine learning, thus not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "How much does an empty steel 55-gallon drum weigh? \"Answers.com \u00ae Wiki Answers \u00ae Categories Business & Finance Business and Industry Industries and Professions Companies Airbus How much does an empty steel 55-gallon drum weigh? Flag How much does an empty steel 55-gallon drum weigh? Answer by Spongebob sps Confidence votes 59Approximately 44 pounds.",
+  "history": {
+    "url": "http://www.answers.com/Q/How_much_does_an_empty_steel_55-gallon_drum_weigh",
+    "title": "How much does an empty steel 55-gallon drum weigh?",
+    "description": "\"Answers.com \u00ae Wiki Answers \u00ae Categories Business & Finance Business and Industry Industries and Professions Companies Airbus How much does an empty steel 55-gallon drum weigh? Flag How much does an empty steel 55-gallon drum weigh? Answer by Spongebob sps Confidence votes 59Approximately 44 pounds.",
+    "frecency": 3755,
+    "url_hash": 74080545199860,
+    "last_visit_date": 1758203931272111
+  }
+}

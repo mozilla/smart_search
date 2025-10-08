@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Friends of Seward Park Seward Park Environmental & Audubon Center Friends of Seward Park Learn about Hiking & Trails Contact Us Phone: (206) 684-4396Reserve A Picnic Site Learn about Lifeguarded Beaches Learn about Boating & Sailing",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a park and outdoor activities, not about apps for improving study habits; no relevant content indicating study apps or study improvement information.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Friends of Seward Park Seward Park Environmental & Audubon Center Friends of Seward Park Learn about Hiking & Trails Contact Us Phone: (206) 684-4396Reserve A Picnic Site Learn about Lifeguarded Beaches Learn about Boating & Sailing",
+  "history": {
+    "url": "http://www.seattle.gov/parks/find/parks/seward-park",
+    "title": "Friends of Seward Park",
+    "description": "Seward Park Environmental & Audubon Center Friends of Seward Park Learn about Hiking & Trails Contact Us Phone: (206) 684-4396Reserve A Picnic Site Learn about Lifeguarded Beaches Learn about Boating & Sailing ",
+    "frecency": 4538,
+    "url_hash": 24116901036724,
+    "last_visit_date": 1758203933669228
+  }
+}

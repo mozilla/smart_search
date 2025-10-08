@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "How Long Does a Dental Hygienist Have to Go School? \\\"A dental hygienist assists a dentist by cleaning a patient's teeth and providing advice on oral health. Cleaning a patient's teeth, providing advice on caring for teeth and gums, and checking for indicators of oral disease are all in a day's work for a dental hygienist. A career as a dental hygieni",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses dental hygienist education, not API debugging. No relevance to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "How Long Does a Dental Hygienist Have to Go School? \"A dental hygienist assists a dentist by cleaning a patient's teeth and providing advice on oral health. Cleaning a patient's teeth, providing advice on caring for teeth and gums, and checking for indicators of oral disease are all in a day's work for a dental hygienist. A career as a dental hygieni",
+  "history": {
+    "url": "http://woman.thenest.com/long-dental-hygienist-school-1684.html",
+    "title": "How Long Does a Dental Hygienist Have to Go School?",
+    "description": "\"A dental hygienist assists a dentist by cleaning a patient's teeth and providing advice on oral health. Cleaning a patient's teeth, providing advice on caring for teeth and gums, and checking for indicators of oral disease are all in a day's work for a dental hygienist. A career as a dental hygieni",
+    "frecency": 172,
+    "url_hash": 48110924341451,
+    "last_visit_date": 1758203930846111
+  }
+}

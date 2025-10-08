@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Can I have an identical iTunes library on two different computers? \\\"Consumer Electronics Music & Music Players Can I have an identical i Tunes library on two different computers? So I'm about to buy an i Pod. Let's say I download i Tunes for both my home computer and my laptop. On my home computer is where I put all my songs on my i Pod, so if I plug my i Pod into",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses iTunes libraries on multiple computers, not related to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Can I have an identical iTunes library on two different computers? \"Consumer Electronics Music & Music Players Can I have an identical i Tunes library on two different computers? So I'm about to buy an i Pod. Let's say I download i Tunes for both my home computer and my laptop. On my home computer is where I put all my songs on my i Pod, so if I plug my i Pod into",
+  "history": {
+    "url": "https://au.answers.yahoo.com/question/index?qid=20080621105216AA840Tn",
+    "title": "Can I have an identical iTunes library on two different computers?",
+    "description": "\"Consumer Electronics Music & Music Players Can I have an identical i Tunes library on two different computers? So I'm about to buy an i Pod. Let's say I download i Tunes for both my home computer and my laptop. On my home computer is where I put all my songs on my i Pod, so if I plug my i Pod into ",
+    "frecency": 3444,
+    "url_hash": 49381888930552,
+    "last_visit_date": 1758203929338200
+  }
+}

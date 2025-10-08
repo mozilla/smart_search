@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Emeryville Hotel to Keep Your Routines Rolling Emeryville Hotel to Keep Your Routines Rolling Hyatt Place Emeryville/San Francisco Bay Area is a different kind of hotel designed around the needs of the modern traveler. Situated on the Bay overlooking San Francisco and just across the San Francisco Bay Bridge, between Oakland and Berkeley, our ho",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses a hotel, not easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Emeryville Hotel to Keep Your Routines Rolling Emeryville Hotel to Keep Your Routines Rolling Hyatt Place Emeryville/San Francisco Bay Area is a different kind of hotel designed around the needs of the modern traveler. Situated on the Bay overlooking San Francisco and just across the San Francisco Bay Bridge, between Oakland and Berkeley, our ho",
+  "history": {
+    "url": "https://emeryvillesanfrancisco.place.hyatt.com/en/hotel/home.html",
+    "title": "Emeryville Hotel to Keep Your Routines Rolling",
+    "description": "Emeryville Hotel to Keep Your Routines Rolling Hyatt Place Emeryville/San Francisco Bay Area is a different kind of hotel designed around the needs of the modern traveler. Situated on the Bay overlooking San Francisco and just across the San Francisco Bay Bridge, between Oakland and Berkeley, our ho",
+    "frecency": 3119,
+    "url_hash": 40879050011057,
+    "last_visit_date": 1758203928606735
+  }
+}

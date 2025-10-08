@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Michael Riedel \"Entertainment After 14 years on Broadway, \u2018Mamma Mia!\u2019 to close By Michael Riedel April 9, 2015 | 6:26pm Modal Trigger Karen Mason (from left), Louise Pritre and Judy Kaye in a scene from \\\"Mamma Mia!\\\" in 2001. Joan Marcus More from: Michael Riedel How two seedy old bars inspired a Broadway classi",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns a Broadway show closure (Mamma Mia!) and is unrelated to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Michael Riedel \"Entertainment After 14 years on Broadway, \u2018Mamma Mia!\u2019 to close By Michael Riedel April 9, 2015 | 6:26pm Modal Trigger Karen Mason (from left), Louise Pritre and Judy Kaye in a scene from \"\"Mamma Mia!\"\" in 2001. Joan Marcus More from: Michael Riedel How two seedy old bars inspired a Broadway classi",
+  "history": {
+    "url": "http://nypost.com/2015/04/09/after-14-years-on-broadway-mamma-mia-to-close/",
+    "title": "Michael Riedel",
+    "description": "\"Entertainment After 14 years on Broadway, \u2018Mamma Mia!\u2019 to close By Michael Riedel April 9, 2015 | 6:26pm Modal Trigger Karen Mason (from left), Louise Pritre and Judy Kaye in a scene from \"\"Mamma Mia!\"\" in 2001. Joan Marcus More from: Michael Riedel How two seedy old bars inspired a Broadway classi",
+    "frecency": 3390,
+    "url_hash": 64932328349440,
+    "last_visit_date": 1758203934283228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Linking competencies in a connected world Reinsurance Insurance solutions for industrial firms and corporate clients Complex, financially sophisticated projects require tailored protection. Through its Risk Solutions service, Munich Re offers customised solutions for corporate clients and industrial firms. Risk Solutions Risk Solutions Muni",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about reinsurance and risk solutions; it does not relate to debugging or integrating APIs.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Linking competencies in a connected world Reinsurance Insurance solutions for industrial firms and corporate clients Complex, financially sophisticated projects require tailored protection. Through its Risk Solutions service, Munich Re offers customised solutions for corporate clients and industrial firms. Risk Solutions Risk Solutions Muni",
+  "history": {
+    "url": "https://www.munichre.com/en/homepage/index.html",
+    "title": "Linking competencies in a connected world",
+    "description": "Reinsurance Insurance solutions for industrial firms and corporate clients Complex, financially sophisticated projects require tailored protection. Through its Risk Solutions service, Munich Re offers customised solutions for corporate clients and industrial firms. Risk Solutions Risk Solutions Muni",
+    "frecency": 2915,
+    "url_hash": 30003257831291,
+    "last_visit_date": 1758203928098111
+  }
+}

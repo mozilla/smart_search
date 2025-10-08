@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "WLAN adhoc mode vs infrastructure mode-Difference between adhoc mode and infrastructure mode WLAN adhoc mode vs infrastructure mode-Difference between adhoc mode and infrastructure mode In Wireless LAN ( WLAN) there are two system entities viz. Access Point (AP) and Stations (STAs). Stations are nothing but simple NICs (network interface cards). Both of these devices are compliant to 802.11",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "Content discusses WLAN modes and general networking concepts, not debugging of API integrations; not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "WLAN adhoc mode vs infrastructure mode-Difference between adhoc mode and infrastructure mode WLAN adhoc mode vs infrastructure mode-Difference between adhoc mode and infrastructure mode In Wireless LAN ( WLAN) there are two system entities viz. Access Point (AP) and Stations (STAs). Stations are nothing but simple NICs (network interface cards). Both of these devices are compliant to 802.11",
+  "history": {
+    "url": "http://www.rfwireless-world.com/Terminology/WLAN-adhoc-mode-vs-infrastructure-mode.html",
+    "title": "WLAN adhoc mode vs infrastructure mode-Difference between adhoc mode and infrastructure mode",
+    "description": "WLAN adhoc mode vs infrastructure mode-Difference between adhoc mode and infrastructure mode In Wireless LAN ( WLAN) there are two system entities viz. Access Point (AP) and Stations (STAs). Stations are nothing but simple NICs (network interface cards). Both of these devices are compliant to 802.11",
+    "frecency": 1180,
+    "url_hash": 5020439178668,
+    "last_visit_date": 1758203928124111
+  }
+}

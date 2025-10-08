@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Travel e-log book Travel e-log book When can you claim for travel? If you receive a travel allowance from an employer or principal, you can claim a deduction on assessment of your annual income tax return for the use of a private motor vehicle for business purposes. What do I need to do? Firstly, record your motor ve",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses travel allowances and tax deductions for vehicle use, not database query optimization; it is unrelated to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Travel e-log book Travel e-log book When can you claim for travel? If you receive a travel allowance from an employer or principal, you can claim a deduction on assessment of your annual income tax return for the use of a private motor vehicle for business purposes. What do I need to do? Firstly, record your motor ve",
+  "history": {
+    "url": "http://www.sars.gov.za/TaxTypes/PIT/Pages/Travel-e-log-book.aspx",
+    "title": "Travel e-log book",
+    "description": "Travel e-log book When can you claim for travel? If you receive a travel allowance from an employer or principal, you can claim a deduction on assessment of your annual income tax return for the use of a private motor vehicle for business purposes. What do I need to do? Firstly, record your motor ve",
+    "frecency": 4590,
+    "url_hash": 72172913460354,
+    "last_visit_date": 1758203930164111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "lean startup Lean startup is an approach to business development that is based on the principles of lean production, a manufacturing methodology that values a business' ability to change quickly. Download this free guide What should be in a CIO\u2019s IT strategic plan? This complimentary document comprehensively det",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses lean startup and IT strategy guides, not Docker or beginner Docker setup; thus it is not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "lean startup Lean startup is an approach to business development that is based on the principles of lean production, a manufacturing methodology that values a business' ability to change quickly. Download this free guide What should be in a CIO\u2019s IT strategic plan? This complimentary document comprehensively det",
+  "history": {
+    "url": "http://searchcio.techtarget.com/definition/Lean-startup",
+    "title": "lean startup",
+    "description": "Lean startup is an approach to business development that is based on the principles of lean production, a manufacturing methodology that values a business' ability to change quickly. Download this free guide What should be in a CIO\u2019s IT strategic plan? This complimentary document comprehensively det",
+    "frecency": 4914,
+    "url_hash": 27708995356639,
+    "last_visit_date": 1758203931346111
+  }
+}

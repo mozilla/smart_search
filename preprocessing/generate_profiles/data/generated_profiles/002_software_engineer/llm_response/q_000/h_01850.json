@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Lin-Manuel Miranda Biography \"Quick Facts Name Lin-Manuel Miranda Occupation Playwright, Theater Actor, Songwriter Birth Date January 16, 1980 (age 38)Education Wesleyan University, Hunter College High School Place of Birth New York, New York Zodiac Sign Capricorn Cite This Page IN THESE GROUPSHispanic Musicians and Singers Fam",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a biography page about Lin-Manuel Miranda and contains no content related to debugging or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Lin-Manuel Miranda Biography \"Quick Facts Name Lin-Manuel Miranda Occupation Playwright, Theater Actor, Songwriter Birth Date January 16, 1980 (age 38)Education Wesleyan University, Hunter College High School Place of Birth New York, New York Zodiac Sign Capricorn Cite This Page IN THESE GROUPSHispanic Musicians and Singers Fam",
+  "history": {
+    "url": "https://www.biography.com/people/lin-manuel-miranda-041416",
+    "title": "Lin-Manuel Miranda Biography",
+    "description": "\"Quick Facts Name Lin-Manuel Miranda Occupation Playwright, Theater Actor, Songwriter Birth Date January 16, 1980 (age 38)Education Wesleyan University, Hunter College High School Place of Birth New York, New York Zodiac Sign Capricorn Cite This Page IN THESE GROUPSHispanic Musicians and Singers Fam",
+    "frecency": 1626,
+    "url_hash": 33150865088782,
+    "last_visit_date": 1758203927710111
+  }
+}

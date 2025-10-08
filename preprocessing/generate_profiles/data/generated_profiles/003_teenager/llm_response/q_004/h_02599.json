@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Salman Khan \"From Wikipedia, the free encyclopedianavigation search This article is about the Indian film actor. For other people with the same name, see Salman Khan (disambiguation). Salman Khan Khan in 2016 at the Filmfare Awards Born Abdul Rashid Salim Salman Khan 27 December 1965 (age 52)Indore, Madhya Prad",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a Bollywood actor and is not related to improving performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Salman Khan \"From Wikipedia, the free encyclopedianavigation search This article is about the Indian film actor. For other people with the same name, see Salman Khan (disambiguation). Salman Khan Khan in 2016 at the Filmfare Awards Born Abdul Rashid Salim Salman Khan 27 December 1965 (age 52)Indore, Madhya Prad",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Salman_Khan",
+    "title": "Salman Khan",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search This article is about the Indian film actor. For other people with the same name, see Salman Khan (disambiguation). Salman Khan Khan in 2016 at the Filmfare Awards Born Abdul Rashid Salim Salman Khan 27 December 1965 (age 52)Indore, Madhya Prad",
+    "frecency": 2333,
+    "url_hash": 54730202771604,
+    "last_visit_date": 1758203928958735
+  }
+}

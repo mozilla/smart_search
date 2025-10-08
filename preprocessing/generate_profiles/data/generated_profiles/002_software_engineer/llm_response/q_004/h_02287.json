@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "How fast does rain fall? Q&AHow fast does rain fall? Drip, drip, drop, little April shower\u20263rd September 2016Luis Villazon Science writer Receive Two Free Issues When You Subscribe to BBC Focus Magazine! *Planet Earth Asked by: Randall Barfield, USAThe terminal velocity of a raindrop depends on its size. The water droplets",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses rainfall physics (terminal velocity) and is unrelated to Docker or beginner setup for Docker.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "How fast does rain fall? Q&AHow fast does rain fall? Drip, drip, drop, little April shower\u20263rd September 2016Luis Villazon Science writer Receive Two Free Issues When You Subscribe to BBC Focus Magazine! *Planet Earth Asked by: Randall Barfield, USAThe terminal velocity of a raindrop depends on its size. The water droplets",
+  "history": {
+    "url": "http://www.sciencefocus.com/article/planet-earth/how-fast-does-rain-fall",
+    "title": "How fast does rain fall?",
+    "description": "Q&AHow fast does rain fall? Drip, drip, drop, little April shower\u20263rd September 2016Luis Villazon Science writer Receive Two Free Issues When You Subscribe to BBC Focus Magazine! *Planet Earth Asked by: Randall Barfield, USAThe terminal velocity of a raindrop depends on its size. The water droplets ",
+    "frecency": 864,
+    "url_hash": 71918948216115,
+    "last_visit_date": 1758203928132111
+  }
+}

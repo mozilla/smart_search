@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Object variable or With block variable not set \\\"Object variable or With block variable not set July 20, 2015 2 minutes to read Contributorsall In this article To correct this error See Also An invalid object variable is being referenced. This error can occur for several reasons: A variable was declared without specifying a type. If a variable was",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses a VB/VBA runtime error, not Docker setup or related to Docker tutorials. It is not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Object variable or With block variable not set \"Object variable or With block variable not set July 20, 2015 2 minutes to read Contributorsall In this article To correct this error See Also An invalid object variable is being referenced. This error can occur for several reasons: A variable was declared without specifying a type. If a variable is",
+  "history": {
+    "url": "https://msdn.microsoft.com/en-us/library/5szkzs17.aspx",
+    "title": "Object variable or With block variable not set",
+    "description": "\"Object variable or With block variable not set July 20, 2015 2 minutes to read Contributorsall In this article To correct this error See Also An invalid object variable is being referenced. This error can occur for several reasons: A variable was declared without specifying a type. If a variable is",
+    "frecency": 4027,
+    "url_hash": 49310308172863,
+    "last_visit_date": 1758203929198111
+  }
+}

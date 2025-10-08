@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Dr. Alan Smiy, MD Search Search Search Near Search Find a doctor Find Doctors by Specialty Family Medicine Internal Medicine Obstetrics & Gynecology Dentistry Orthopedic Surgery See All Specialties Find Doctors by Condition Fibromyalgia Anxiety ADHDSleep Apnea Migraine Find Doctors by Procedure Pain Management Orthop",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a medical directory page unrelated to software development IDEs; it contains no information about IDEs or software development.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Dr. Alan Smiy, MD Search Search Search Near Search Find a doctor Find Doctors by Specialty Family Medicine Internal Medicine Obstetrics & Gynecology Dentistry Orthopedic Surgery See All Specialties Find Doctors by Condition Fibromyalgia Anxiety ADHDSleep Apnea Migraine Find Doctors by Procedure Pain Management Orthop",
+  "history": {
+    "url": "https://www.healthgrades.com/physician/dr-alan-smiy-xgt7w",
+    "title": "Dr. Alan Smiy, MD",
+    "description": "Search Search Search Near Search Find a doctor Find Doctors by Specialty Family Medicine Internal Medicine Obstetrics & Gynecology Dentistry Orthopedic Surgery See All Specialties Find Doctors by Condition Fibromyalgia Anxiety ADHDSleep Apnea Migraine Find Doctors by Procedure Pain Management Orthop",
+    "frecency": 2320,
+    "url_hash": 51855764698860,
+    "last_visit_date": 1758203927196111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Beach & Water Sports Beach & Water Sports Dig your toes in deep to the sugar-white sands that line the 32 miles of coastline along Alabama\u2019s beaches. Whether you enjoy swimming, sunning, surfing or skim boarding on a typically bright summer day \u2013 we\u2019ve got a piece of beach just for you. While you\u2019re here, experience som",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses beaches and water sports, not DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Beach & Water Sports Beach & Water Sports Dig your toes in deep to the sugar-white sands that line the 32 miles of coastline along Alabama\u2019s beaches. Whether you enjoy swimming, sunning, surfing or skim boarding on a typically bright summer day \u2013 we\u2019ve got a piece of beach just for you. While you\u2019re here, experience som",
+  "history": {
+    "url": "https://www.gulfshores.com/things-to-do/beach-water.aspx",
+    "title": "Beach & Water Sports",
+    "description": "Beach & Water Sports Dig your toes in deep to the sugar-white sands that line the 32 miles of coastline along Alabama\u2019s beaches. Whether you enjoy swimming, sunning, surfing or skim boarding on a typically bright summer day \u2013 we\u2019ve got a piece of beach just for you. While you\u2019re here, experience som",
+    "frecency": 4879,
+    "url_hash": 19621119440272,
+    "last_visit_date": 1758203930845228
+  }
+}

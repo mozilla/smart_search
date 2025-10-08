@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "How to Make Your Own Home Canned Potatoes (complete directions with photos) Related topics Home canning, freezing, jam, preserving, etc. directions Canning Supplies Pumpkin patches Corn mazes Christmas Tree Farms & lots Easter egg hunts Consumer scams and frauds Environmental information This month'",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about home canning potatoes, which is unrelated to improving athletic performance or sports skills.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "How to Make Your Own Home Canned Potatoes (complete directions with photos) \"How to Make Your Own Home Canned Potatoes (complete directions with photos)Related topics Home canning, freezing, jam, preserving, etc. directions Canning Supplies Pumpkin patches Corn mazes Christmas Tree Farms & lots Easter egg hunts Consumer scams and frauds Environmental information This month'",
+  "history": {
+    "url": "http://www.pickyourown.org/canning_potatoes.htm",
+    "title": "How to Make Your Own Home Canned Potatoes (complete directions with photos)",
+    "description": "\"How to Make Your Own Home Canned Potatoes (complete directions with photos)Related topics Home canning, freezing, jam, preserving, etc. directions Canning Supplies Pumpkin patches Corn mazes Christmas Tree Farms & lots Easter egg hunts Consumer scams and frauds Environmental information This month'",
+    "frecency": 2048,
+    "url_hash": 78068543402035,
+    "last_visit_date": 1758203930729228
+  }
+}

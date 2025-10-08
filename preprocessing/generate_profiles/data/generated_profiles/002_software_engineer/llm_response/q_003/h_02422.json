@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Lithia Springs Lithia Springs City in Georgia, United States Explore local businesses on Facebook Sign up for Facebook today to discover local businesses near you. Sign Up",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns Lithia Springs and Facebook local businesses, with no content related to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Lithia Springs Lithia Springs City in Georgia, United States Explore local businesses on Facebook Sign up for Facebook today to discover local businesses near you. Sign Up",
+  "history": {
+    "url": "https://www.facebook.com/places/Things-to-do-in-Lithia-Springs-Georgia/112358032113088/",
+    "title": "Lithia Springs",
+    "description": "Lithia Springs City in Georgia, United States Explore local businesses on Facebook Sign up for Facebook today to discover local businesses near you. Sign Up ",
+    "frecency": 634,
+    "url_hash": 20400375076664,
+    "last_visit_date": 1758203930018111
+  }
+}

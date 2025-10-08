@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Walt Disney World-Orlando Disney World-Disney Orlando \"Walt Disney World-Orlando Disney World-Disney Orlando Walt Disney World. is home to four of the world's most famous Theme Parks. Magic Kingdom, Hollywood Studios, Epcot Center & Animal Kingdom. So if you are a kid at heart and looking for your fill of Mickey Mouse & Donald Duck or maybe you want yo",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Walt Disney World and theme parks, unrelated to apps for improving study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Walt Disney World-Orlando Disney World-Disney Orlando \"Walt Disney World-Orlando Disney World-Disney Orlando Walt Disney World. is home to four of the world's most famous Theme Parks. Magic Kingdom, Hollywood Studios, Epcot Center & Animal Kingdom. So if you are a kid at heart and looking for your fill of Mickey Mouse & Donald Duck or maybe you want yo",
+  "history": {
+    "url": "http://www.orlandodiscountticketsusa.com/walt_disney_world.html",
+    "title": "Walt Disney World-Orlando Disney World-Disney Orlando",
+    "description": "\"Walt Disney World-Orlando Disney World-Disney Orlando Walt Disney World. is home to four of the world's most famous Theme Parks. Magic Kingdom, Hollywood Studios, Epcot Center & Animal Kingdom. So if you are a kid at heart and looking for your fill of Mickey Mouse & Donald Duck or maybe you want yo",
+    "frecency": 992,
+    "url_hash": 18272794199658,
+    "last_visit_date": 1758203928574735
+  }
+}

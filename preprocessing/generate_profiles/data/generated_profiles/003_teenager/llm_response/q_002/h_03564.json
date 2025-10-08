@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "How does fafsa work? \\\"Education & Reference Financial Aid How does fafsa work? I have a few question about how fafsa works. 1. Do I have to file for fafsa every year? 2. Since I will be living on campus, and not with my parents, will I have to include my parents tax return information in fafsa? 3. If I decide to live of",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about FAFSA financial aid, not about easy DIY room decoration ideas; not relevant.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "How does fafsa work? \"Education & Reference Financial Aid How does fafsa work? I have a few question about how fafsa works. 1. Do I have to file for fafsa every year? 2. Since I will be living on campus, and not with my parents, will I have to include my parents tax return information in fafsa? 3. If I decide to live of",
+  "history": {
+    "url": "https://answers.yahoo.com/question/index?qid=20080505230421AAPqphQ",
+    "title": "How does fafsa work?",
+    "description": "\"Education & Reference Financial Aid How does fafsa work? I have a few question about how fafsa works. 1. Do I have to file for fafsa every year? 2. Since I will be living on campus, and not with my parents, will I have to include my parents tax return information in fafsa? 3. If I decide to live of",
+    "frecency": 1284,
+    "url_hash": 37918968411859,
+    "last_visit_date": 1758203928478735
+  }
+}

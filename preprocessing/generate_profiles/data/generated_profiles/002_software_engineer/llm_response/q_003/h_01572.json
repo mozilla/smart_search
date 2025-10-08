@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Advocacy journalism \"Advocacy journalism is a genre of journalism that, unlike propaganda, is fact-based, but supports a specific point of view on an issue. Advocacy journalists might be expected to focus on stories dealing with corporate business practices, government policies, political corruption, and social issues.\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses advocacy journalism and has no relation to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Advocacy journalism \"Advocacy journalism is a genre of journalism that, unlike propaganda, is fact-based, but supports a specific point of view on an issue. Advocacy journalists might be expected to focus on stories dealing with corporate business practices, government policies, political corruption, and social issues.",
+  "history": {
+    "url": "http://journalism.wikia.com/wiki/Advocacy_journalism",
+    "title": "Advocacy journalism",
+    "description": "\"Advocacy journalism is a genre of journalism that, unlike propaganda, is fact-based, but supports a specific point of view on an issue. Advocacy journalists might be expected to focus on stories dealing with corporate business practices, government policies, political corruption, and social issues.",
+    "frecency": 2158,
+    "url_hash": 86880888722614,
+    "last_visit_date": 1758203930714111
+  }
+}

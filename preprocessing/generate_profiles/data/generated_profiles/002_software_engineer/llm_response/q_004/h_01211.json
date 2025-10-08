@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Annual Salary for a Commercial Pilot Related Articles1How Much Does an Airplane Pilot Make Per Year?2Average Commercial Airline Pilots Salary3Salaries for Harbor Pilots4The Average Income for Airline Pilots Commercial pilots are pilots of planes and helicopters who are not employed by the airline industry. Examples of commercial pilots",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses pilot salaries, unrelated to Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Annual Salary for a Commercial Pilot Related Articles1How Much Does an Airplane Pilot Make Per Year?2Average Commercial Airline Pilots Salary3Salaries for Harbor Pilots4The Average Income for Airline Pilots Commercial pilots are pilots of planes and helicopters who are not employed by the airline industry. Examples of commercial pilots",
+  "history": {
+    "url": "http://work.chron.com/annual-salary-commercial-pilot-2162.html",
+    "title": "Annual Salary for a Commercial Pilot",
+    "description": "Related Articles1How Much Does an Airplane Pilot Make Per Year?2Average Commercial Airline Pilots Salary3Salaries for Harbor Pilots4The Average Income for Airline Pilots Commercial pilots are pilots of planes and helicopters who are not employed by the airline industry. Examples of commercial pilots",
+    "frecency": 2824,
+    "url_hash": 40183817387093,
+    "last_visit_date": 1758203929934111
+  }
+}

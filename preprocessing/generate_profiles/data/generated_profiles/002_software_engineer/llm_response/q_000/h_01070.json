@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Silicon Material This doping can be done by high temperature diffusion, where the wafers are placed in a furnace with the dopant introduced as a vapor. There are many other methods of doping silicon. In the manufacture of some thin film devices the introduction of dopants can occur during the deposition of the films",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses silicon doping and semiconductor fabrication, not API integration or debugging.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Silicon Material This doping can be done by high temperature diffusion, where the wafers are placed in a furnace with the dopant introduced as a vapor. There are many other methods of doping silicon. In the manufacture of some thin film devices the introduction of dopants can occur during the deposition of the films",
+  "history": {
+    "url": "http://www.corrosion-doctors.org/Solar/silicon.htm",
+    "title": "Silicon Material",
+    "description": "This doping can be done by high temperature diffusion, where the wafers are placed in a furnace with the dopant introduced as a vapor. There are many other methods of doping silicon. In the manufacture of some thin film devices the introduction of dopants can occur during the deposition of the films",
+    "frecency": 3095,
+    "url_hash": 24096741462909,
+    "last_visit_date": 1758203931640111
+  }
+}

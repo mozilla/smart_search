@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "How to Record Screen in Microsoft Windows 7 \"Method1 Using OBS Studio1 Open the OBS Studio site. Go to https://obsproject.com/ in your computer's web browser. OBS Studio is a free program that allows you to record your screen in high-definition and then save the recordings as playable video files on your computer.2 Click Windows. It's a green",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes OBS Studio screen recording on Windows, which is unrelated to Docker setup. It does not address Docker for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "How to Record Screen in Microsoft Windows 7 \"Method1 Using OBS Studio1 Open the OBS Studio site. Go to https://obsproject.com/ in your computer's web browser. OBS Studio is a free program that allows you to record your screen in high-definition and then save the recordings as playable video files on your computer.2 Click Windows. It's a green",
+  "history": {
+    "url": "http://www.wikihow.com/Record-Screen-in-Microsoft-Windows-7",
+    "title": "How to Record Screen in Microsoft Windows 7",
+    "description": "\"Method1 Using OBS Studio1 Open the OBS Studio site. Go to https://obsproject.com/ in your computer's web browser. OBS Studio is a free program that allows you to record your screen in high-definition and then save the recordings as playable video files on your computer.2 Click Windows. It's a green",
+    "frecency": 3140,
+    "url_hash": 68390460276991,
+    "last_visit_date": 1758203927754200
+  }
+}

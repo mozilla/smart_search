@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Is there a way I can see a list of all my YouTube comments over time? _Web Applications Stack Exchange is a question and answer site for power users of web applications. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Is there a way I can see a list of all",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses viewing YouTube comments on Web Applications Stack Exchange, which is not related to debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Is there a way I can see a list of all my YouTube comments over time? \"_Web Applications Stack Exchange is a question and answer site for power users of web applications. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Is there a way I can see a list of all",
+  "history": {
+    "url": "https://webapps.stackexchange.com/questions/25964/is-there-a-way-i-can-see-a-list-of-all-my-youtube-comments-over-time",
+    "title": "Is there a way I can see a list of all my YouTube comments over time?",
+    "description": "\"_Web Applications Stack Exchange is a question and answer site for power users of web applications. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Is there a way I can see a list of all ",
+    "frecency": 1444,
+    "url_hash": 93614390018221,
+    "last_visit_date": 1758203928224111
+  }
+}

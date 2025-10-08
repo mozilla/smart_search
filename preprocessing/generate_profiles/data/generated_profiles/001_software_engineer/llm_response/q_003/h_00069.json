@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "15 Email Etiquette Rules Every Professional Should Follow The Inc. Life15 Email Etiquette Rules Every Professional Should Follow Despite being glued to their reply buttons, plenty of managers still don't know how to use email appropriately. By Jacquelyn Smith Business Insider",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses email etiquette, not database query optimization; topic mismatch indicates the page is not relevant to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "15 Email Etiquette Rules Every Professional Should Follow The Inc. Life15 Email Etiquette Rules Every Professional Should Follow Despite being glued to their reply buttons, plenty of managers still don't know how to use email appropriately. By Jacquelyn Smith Business Insider",
+  "history": {
+    "url": "https://www.inc.com/business-insider/email-etiquette-rules.html",
+    "title": "15 Email Etiquette Rules Every Professional Should Follow",
+    "description": "The Inc. Life15 Email Etiquette Rules Every Professional Should Follow Despite being glued to their reply buttons, plenty of managers still don't know how to use email appropriately. By Jacquelyn Smith Business Insider ",
+    "frecency": 4746,
+    "url_hash": 6035079016270,
+    "last_visit_date": 1758203928122200
+  }
+}

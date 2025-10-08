@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Clarice Taylor Dies at 93; TV\u00e2s Cosby Called her Mom Television Clarice Taylor Dies at 93; TV\u2019s Cosby Called her Mom By DENNIS HEVESI JUNE 2, 2011Clarice Taylor, an actress who was best known as the endearing, self-possessed grandmother on \u201cThe Cosby Show\u201d and who also won an Obie Award for her Off Broadway portrayal of the vaudeville comedienne Moms",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is an obituary about actress Clarice Taylor and does not address improving sports performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Clarice Taylor Dies at 93; TV\u00e2s Cosby Called her Mom Television Clarice Taylor Dies at 93; TV\u2019s Cosby Called her Mom By DENNIS HEVESI JUNE 2, 2011Clarice Taylor, an actress who was best known as the endearing, self-possessed grandmother on \u201cThe Cosby Show\u201d and who also won an Obie Award for her Off Broadway portrayal of the vaudeville comedienne Moms",
+  "history": {
+    "url": "http://www.nytimes.com/2011/06/03/arts/television/clarice-taylor-dies-at-93-tvs-cosby-called-her-mom.html",
+    "title": "Clarice Taylor Dies at 93; TV\u00e2s Cosby Called her Mom",
+    "description": "Television Clarice Taylor Dies at 93; TV\u2019s Cosby Called her Mom By DENNIS HEVESI JUNE 2, 2011Clarice Taylor, an actress who was best known as the endearing, self-possessed grandmother on \u201cThe Cosby Show\u201d and who also won an Obie Award for her Off Broadway portrayal of the vaudeville comedienne Moms ",
+    "frecency": 4768,
+    "url_hash": 67071279993081,
+    "last_visit_date": 1758203927903139
+  }
+}

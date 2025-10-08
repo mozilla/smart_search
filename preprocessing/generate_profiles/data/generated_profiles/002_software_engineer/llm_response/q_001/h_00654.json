@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Patagonia (clothing) \"Patagonia (clothing)From Wikipedia, the free encyclopedianavigation search Patagonia, Inc. Type Private benefit corporation Industry Retail Founded 1973Headquarters Ventura, California, U. S. Key people Yvon Chouinard -Founder Rose Marcario -CEOProducts Outdoor apparel Revenue $209.09M (2017 estima",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Patagonia, a clothing company, which is unrelated to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Patagonia (clothing) \"Patagonia (clothing)From Wikipedia, the free encyclopedianavigation search Patagonia, Inc. Type Private benefit corporation Industry Retail Founded 1973Headquarters Ventura, California, U. S. Key people Yvon Chouinard -Founder Rose Marcario -CEOProducts Outdoor apparel Revenue $209.09M (2017 estima",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Patagonia_(clothing)",
+    "title": "Patagonia (clothing)",
+    "description": "\"Patagonia (clothing)From Wikipedia, the free encyclopedianavigation search Patagonia, Inc. Type Private benefit corporation Industry Retail Founded 1973Headquarters Ventura, California, U. S. Key people Yvon Chouinard -Founder Rose Marcario -CEOProducts Outdoor apparel Revenue $209.09M (2017 estima",
+    "frecency": 3841,
+    "url_hash": 3906160471192,
+    "last_visit_date": 1758203928572111
+  }
+}

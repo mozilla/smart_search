@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Ferry McFerryface renamed after political squabble News Ferry Mc Ferryface renamed after political squabble By Associated Press January 31, 2018 | 2:11am Modal Trigger Getty Images More On:ferries25 injured when ferry unloading passengers explodes Case of the sleeping ferry engineer shows just how rigged New York is Sleepy ferry engineer 'happy' to",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses ferries and political squabbles, with no relation to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Ferry McFerryface renamed after political squabble News Ferry Mc Ferryface renamed after political squabble By Associated Press January 31, 2018 | 2:11am Modal Trigger Getty Images More On:ferries25 injured when ferry unloading passengers explodes Case of the sleeping ferry engineer shows just how rigged New York is Sleepy ferry engineer 'happy' to",
+  "history": {
+    "url": "https://nypost.com/2018/01/31/ferry-mcferryface-renamed-after-political-squabble/",
+    "title": "Ferry McFerryface renamed after political squabble",
+    "description": "News Ferry Mc Ferryface renamed after political squabble By Associated Press January 31, 2018 | 2:11am Modal Trigger Getty Images More On:ferries25 injured when ferry unloading passengers explodes Case of the sleeping ferry engineer shows just how rigged New York is Sleepy ferry engineer 'happy' to ",
+    "frecency": 1290,
+    "url_hash": 85011305480804,
+    "last_visit_date": 1758203931708111
+  }
+}

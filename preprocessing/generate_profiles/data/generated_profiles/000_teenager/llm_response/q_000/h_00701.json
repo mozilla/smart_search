@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Montreal Tours, Tickets, Activities & Things To Do Quebec City and Montmorency Falls Day Trip from Montreal1344 Reviews Montreal, Canada 12 hours Top Insider's Pick From USD$ 88.03Montreal City Guided Sightseeing Tour1085 Reviews Montreal, Canada 3 hours 30 minutes Top Insider's Pick From USD$ 44.02Montreal Attraction Pass58 Reviews Montreal, Canada",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns Montreal tours and attractions, not information about starting a YouTube channel; it is not relevant to the query.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Montreal Tours, Tickets, Activities & Things To Do Quebec City and Montmorency Falls Day Trip from Montreal1344 Reviews Montreal, Canada 12 hours Top Insider's Pick From USD$ 88.03Montreal City Guided Sightseeing Tour1085 Reviews Montreal, Canada 3 hours 30 minutes Top Insider's Pick From USD$ 44.02Montreal Attraction Pass58 Reviews Montreal, Canada",
+  "history": {
+    "url": "https://www.viator.com/Montreal/d625-ttd",
+    "title": "Montreal Tours, Tickets, Activities & Things To Do",
+    "description": "Quebec City and Montmorency Falls Day Trip from Montreal1344 Reviews Montreal, Canada 12 hours Top Insider's Pick From USD$ 88.03Montreal City Guided Sightseeing Tour1085 Reviews Montreal, Canada 3 hours 30 minutes Top Insider's Pick From USD$ 44.02Montreal Attraction Pass58 Reviews Montreal, Canada",
+    "frecency": 1994,
+    "url_hash": 10897999219513,
+    "last_visit_date": 1758203927627139
+  }
+}

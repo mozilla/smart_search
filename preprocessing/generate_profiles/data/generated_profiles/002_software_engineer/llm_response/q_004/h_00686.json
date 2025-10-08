@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "French launch \"massive\" anti-ISIS airstrikes in Syria (unrelated to Docker).",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about military airstrikes in Syria, not about Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "\"French launch \"\"massive\"\" anti-ISIS airstrikes in Syria\" \"Last Updated Nov 15, 2015 10:58 PM ESTPARIS - - Two days after the deadly terror attacks in Paris that left at least 129 people dead and 352 injured, a French defense official says they have conducted \"\"massive\"\" airstrikes that have destroyed two jihadi sites in the Islamic State of Iraq and Syria",
+  "history": {
+    "url": "https://www.cbsnews.com/news/paris-attacks-french-official-massive-airstrikes-destroy-2-jihadi-sites-in-syria/",
+    "title": "\"French launch \"\"massive\"\" anti-ISIS airstrikes in Syria\"",
+    "description": "\"Last Updated Nov 15, 2015 10:58 PM ESTPARIS - - Two days after the deadly terror attacks in Paris that left at least 129 people dead and 352 injured, a French defense official says they have conducted \"\"massive\"\" airstrikes that have destroyed two jihadi sites in the Islamic State of Iraq and Syria",
+    "frecency": 3790,
+    "url_hash": 89651261262976,
+    "last_visit_date": 1758203930524111
+  }
+}

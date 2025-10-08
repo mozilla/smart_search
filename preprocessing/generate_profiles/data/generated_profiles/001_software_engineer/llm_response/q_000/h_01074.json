@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "What Is the Difference Between Net Pay and Gross Pay? \"Full Answer When an individual receives his or her initial paycheck from a job, that is the gross amount of pay. Gross pay is the individual's total earnings before the other deductions, which may include deductions at the federal level as well as state level. Gross pay includes the individual's ba",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses payroll concepts (net pay vs gross pay) and has no content about debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "What Is the Difference Between Net Pay and Gross Pay? \"Full Answer When an individual receives his or her initial paycheck from a job, that is the gross amount of pay. Gross pay is the individual's total earnings before the other deductions, which may include deductions at the federal level as well as state level. Gross pay includes the individual's ba",
+  "history": {
+    "url": "https://www.reference.com/business-finance/difference-between-net-pay-gross-pay-421e4547737628e4",
+    "title": "What Is the Difference Between Net Pay and Gross Pay?",
+    "description": "\"Full Answer When an individual receives his or her initial paycheck from a job, that is the gross amount of pay. Gross pay is the individual's total earnings before the other deductions, which may include deductions at the federal level as well as state level. Gross pay includes the individual's ba",
+    "frecency": 1199,
+    "url_hash": 73298131675748,
+    "last_visit_date": 1758203928922200
+  }
+}

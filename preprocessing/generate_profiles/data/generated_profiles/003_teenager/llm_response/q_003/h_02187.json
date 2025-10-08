@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Fact checking \u00e2The Assassination of Gianni Versace\u00e2: Did the fashion mogul date his killer? Fashion designer Gianni Versace, center, acknowledges the crowd with his sister Donatella, right, and singer Robbie Williams at the close of a 1996 Versace menswear show in Milan. (Ansa Reuters)In the age of the Internet, tales of \u201ctrue crime\u201d are often quickly revealed as less accurate than adverti",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses true crime and Gianni Versace, unrelated to apps for improving study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Fact checking \u00e2The Assassination of Gianni Versace\u00e2: Did the fashion mogul date his killer? Fashion designer Gianni Versace, center, acknowledges the crowd with his sister Donatella, right, and singer Robbie Williams at the close of a 1996 Versace menswear show in Milan. (Ansa Reuters)In the age of the Internet, tales of \u201ctrue crime\u201d are often quickly revealed as less accurate than adverti",
+  "history": {
+    "url": "https://www.washingtonpost.com/news/retropolis/wp/2018/01/17/fact-checking-the-assassination-of-gianni-versace-did-the-fashion-mogul-date-his-killer/",
+    "title": "Fact checking \u00e2The Assassination of Gianni Versace\u00e2: Did the fashion mogul date his killer?",
+    "description": "Fashion designer Gianni Versace, center, acknowledges the crowd with his sister Donatella, right, and singer Robbie Williams at the close of a 1996 Versace menswear show in Milan. (Ansa Reuters)In the age of the Internet, tales of \u201ctrue crime\u201d are often quickly revealed as less accurate than adverti",
+    "frecency": 2747,
+    "url_hash": 82840999106306,
+    "last_visit_date": 1758203932615228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Cycling cadence - target pedalling speeds Cycling cadence - target pedalling speeds Cadence in cycling is the speed at which your legs turn. It is measured in revs per minute / pedal rotations per minute. Much the easiest way to measure cadence is with an attachment to your bike computer, but it is also easy to calculate as you are cycling",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about cycling cadence and has no relation to Docker or setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Cycling cadence - target pedalling speeds Cycling cadence - target pedalling speeds Cadence in cycling is the speed at which your legs turn. It is measured in revs per minute / pedal rotations per minute. Much the easiest way to measure cadence is with an attachment to your bike computer, but it is also easy to calculate as you are cycling",
+  "history": {
+    "url": "http://www.road-bike.co.uk/articles/cyclingcadence.php",
+    "title": "Cycling cadence - target pedalling speeds",
+    "description": "Cycling cadence - target pedalling speeds Cadence in cycling is the speed at which your legs turn. It is measured in revs per minute / pedal rotations per minute. Much the easiest way to measure cadence is with an attachment to your bike computer, but it is also easy to calculate as you are cycling ",
+    "frecency": 3315,
+    "url_hash": 54075394497945,
+    "last_visit_date": 1758203927768111
+  }
+}

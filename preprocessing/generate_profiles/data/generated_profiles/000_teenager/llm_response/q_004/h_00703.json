@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Liverpool 'King of Bling' hairdresser Herbert Howe dies at 72. Article about a hairdresser, not about sports.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page is unrelated to improving sports performance; it discusses a hairdresser's death.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Liverpool 'King of Bling' hairdresser Herbert Howe dies at 72 \"Liverpool 'King of Bling' hairdresser Herbert Howe dies at 7220 October 2016Share Getty Images Herbert Howe stood for Mayor of Liverpool and featured in ITV docu-soap Shampoo A hairdresser and charity fundraiser dubbed \"\"The King of Bling\"\", Herbert Howe, has died at the age of 72. The owner and fo",
+  "history": {
+    "url": "http://www.bbc.co.uk/news/uk-england-merseyside-37713048",
+    "title": "Liverpool 'King of Bling' hairdresser Herbert Howe dies at 72",
+    "description": "\"Liverpool 'King of Bling' hairdresser Herbert Howe dies at 7220 October 2016Share Getty Images Herbert Howe stood for Mayor of Liverpool and featured in ITV docu-soap Shampoo A hairdresser and charity fundraiser dubbed \"\"The King of Bling\"\", Herbert Howe, has died at the age of 72. The owner and fo",
+    "frecency": 1985,
+    "url_hash": 69021487224607,
+    "last_visit_date": 1758203928705139
+  }
+}

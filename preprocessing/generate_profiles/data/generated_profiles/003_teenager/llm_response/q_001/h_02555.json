@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "WFSB: Map \"WFSB: Map Categories: Television stations in Hartford, Connecticut > Television stations in Connecticut > CBS network affiliates > Television channels and stations established in 1957 > Channel 33 digital TV stations in the United States Wikipedia article: Map showing all locations mentioned on Wik",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "Retrieved result concerns television stations and maps, not TikTok trends.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "WFSB: Map \"WFSB: Map Categories: Television stations in Hartford, Connecticut > Television stations in Connecticut > CBS network affiliates > Television channels and stations established in 1957 > Channel 33 digital TV stations in the United States Wikipedia article: Map showing all locations mentioned on Wik",
+  "history": {
+    "url": "http://maps.thefullwiki.org/WFSB",
+    "title": "WFSB: Map",
+    "description": "\"WFSB: Map Categories: Television stations in Hartford, Connecticut > Television stations in Connecticut > CBS network affiliates > Television channels and stations established in 1957 > Channel 33 digital TV stations in the United States Wikipedia article: Map showing all locations mentioned on Wik",
+    "frecency": 2375,
+    "url_hash": 1700542887737,
+    "last_visit_date": 1758203931951228
+  }
+}

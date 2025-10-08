@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Writers/Photographers Guidelines Writers/Photographers Guidelines The Boundary Waters Journal (BWJ) is a full color 106 page quarterly magazine featuring articles about wilderness recreation, nature and conservation within the Boundary Waters Canoe Area Wilderness (BWCAW), Quetico Provincial Park and Superior National Forest. SUBMI",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses writers/photographers guidelines for The Boundary Waters Journal, not about easy DIY room decoration ideas; unrelated content.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Writers/Photographers Guidelines Writers/Photographers Guidelines The Boundary Waters Journal (BWJ) is a full color 106 page quarterly magazine featuring articles about wilderness recreation, nature and conservation within the Boundary Waters Canoe Area Wilderness (BWCAW), Quetico Provincial Park and Superior National Forest. SUBMI",
+  "history": {
+    "url": "http://www.boundarywatersjournal.com/resources/writers-photographers-guidelines",
+    "title": "Writers/Photographers Guidelines",
+    "description": "Writers/Photographers Guidelines The Boundary Waters Journal (BWJ) is a full color 106 page quarterly magazine featuring articles about wilderness recreation, nature and conservation within the Boundary Waters Canoe Area Wilderness (BWCAW), Quetico Provincial Park and Superior National Forest. SUBMI",
+    "frecency": 2196,
+    "url_hash": 52204810059044,
+    "last_visit_date": 1758203927552735
+  }
+}

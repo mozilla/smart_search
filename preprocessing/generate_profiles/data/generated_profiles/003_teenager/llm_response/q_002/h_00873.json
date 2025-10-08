@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "List of The Jackson 5 band members: From Wikipedia, the band member history of American R&B and pop group The Jackson 5, showing how the band comprised different members of the Jackson family at various times.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses The Jackson 5 band members, not easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "List of The Jackson 5 band members \"List of The Jackson 5 band members From Wikipedia, the free encyclopedianavigation search The band member history of American R&B and pop group The Jackson 5 shows how the band has comprised different members of the Jackson family at various times during its chronology, with differing names as The",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/List_of_The_Jackson_5_band_members",
+    "title": "List of The Jackson 5 band members",
+    "description": "\"List of The Jackson 5 band members From Wikipedia, the free encyclopedianavigation search The band member history of American R&B and pop group The Jackson 5 shows how the band has comprised different members of the Jackson family at various times during its chronology, with differing names as The ",
+    "frecency": 4083,
+    "url_hash": 84766199657060,
+    "last_visit_date": 1758203930573228
+  }
+}

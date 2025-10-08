@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "New procedure safely opens blocked carotid arteries, experts say (Science News from research organizations; Source: UCLA Health Sciences). Summary: Doctors have become the first on the West Coast to perform a new, less-invasive procedure to h",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses a medical procedure for carotid arteries and is unrelated to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "New procedure safely opens blocked carotid arteries, experts say \"Science News from research organizations New procedure safely opens blocked carotid arteries, experts say Date: April 11, 2013Source: University of California, Los Angeles (UCLA), Health Sciences Summary: Doctors have become the first on the West Coast to perform a new, less-invasive procedure to h",
+  "history": {
+    "url": "https://www.sciencedaily.com/releases/2013/04/130411142755.htm",
+    "title": "New procedure safely opens blocked carotid arteries, experts say",
+    "description": "\"Science News from research organizations New procedure safely opens blocked carotid arteries, experts say Date: April 11, 2013Source: University of California, Los Angeles (UCLA), Health Sciences Summary: Doctors have become the first on the West Coast to perform a new, less-invasive procedure to h",
+    "frecency": 4173,
+    "url_hash": 35397502606919,
+    "last_visit_date": 1758203929464200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "FNAF World \"40 terms Tunnelof Doom FNAF World Learn Flashcards Write Spell Test Match Gravity Advertisement Upgrade to remove ads Like this study set? Create a free account to save it. Create a free account Maybe later Sort Freddy Fazbear The namesake of the FNAF franchise and the lead singer of his pizzeria.",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns FNAF World flashcards and Freddy Fazbear, unrelated to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "FNAF World \"40 terms Tunnelof Doom FNAF World Learn Flashcards Write Spell Test Match Gravity Advertisement Upgrade to remove ads Like this study set? Create a free account to save it. Create a free account Maybe later Sort Freddy Fazbear The namesake of the FNAF franchise and the lead singer of his pizzeria.",
+  "history": {
+    "url": "https://quizlet.com/108453255/fnaf-world-flash-cards/",
+    "title": "FNAF World",
+    "description": "\"40 terms Tunnelof Doom FNAF World Learn Flashcards Write Spell Test Match Gravity Advertisement Upgrade to remove ads Like this study set? Create a free account to save it. Create a free account Maybe later Sort Freddy Fazbear The namesake of the FNAF franchise and the lead singer of his pizzeria. ",
+    "frecency": 1905,
+    "url_hash": 88417012868433,
+    "last_visit_date": 1758203936087228
+  }
+}

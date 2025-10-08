@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Plastics Standards \"Products and Services / Standards & Publications / Standards Products Standards & Publications All Standards and Publications Standards Products Symposia Papers & STPs Manuals, Monographs, & Data Series Journals Reading Room Authors Book of Standards Reading Room Product Updates Catalogs Digital Li\"",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes plastics standards and publications, unrelated to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Plastics Standards \"Products and Services / Standards & Publications / Standards Products Standards & Publications All Standards and Publications Standards Products Symposia Papers & STPs Manuals, Monographs, & Data Series Journals Reading Room Authors Book of Standards Reading Room Product Updates Catalogs Digital Li",
+  "history": {
+    "url": "http://www.astm.org/Standards/plastics-standards.html",
+    "title": "Plastics Standards",
+    "description": "\"Products and Services / Standards & Publications / Standards Products Standards & Publications All Standards and Publications Standards Products Symposia Papers & STPs Manuals, Monographs, & Data Series Journals Reading Room Authors Book of Standards Reading Room Product Updates Catalogs Digital Li",
+    "frecency": 142,
+    "url_hash": 18235446958278,
+    "last_visit_date": 1758203927322111
+  }
+}

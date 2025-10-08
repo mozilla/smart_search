@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "ATP break down and energy release? _Chemistry Stack Exchange is a question and answer site for scientists, academics, teachers and students. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top ATP break down and energy release",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns ATP breakdown on a Chemistry Stack Exchange site and is not related to Docker setup or beginners' Docker tutorials.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "ATP break down and energy release? \"_Chemistry Stack Exchange is a question and answer site for scientists, academics, teachers and students. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top ATP break down and energy release",
+  "history": {
+    "url": "http://chemistry.stackexchange.com/questions/16395/atp-break-down-and-energy-release",
+    "title": "ATP break down and energy release?",
+    "description": "\"_Chemistry Stack Exchange is a question and answer site for scientists, academics, teachers and students. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top ATP break down and energy release",
+    "frecency": 808,
+    "url_hash": 85727713749255,
+    "last_visit_date": 1758203930998111
+  }
+}

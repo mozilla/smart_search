@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Q: How to copy a word document from one place to another using word starter \\\"DB David Black 1 asked on November 18, 2012Q: How to copy a word document from one place to another using word starter Original Title: \\\"\\\"copy/paste\\\"\\\"I am unable to figure out how to copy a word document from one place to another using word starter. Thank you in advance for your help. Reply I have t",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses copying a Word document, unrelated to debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Q: How to copy a word document from one place to another using word starter \"DB David Black 1 asked on November 18, 2012Q: How to copy a word document from one place to another using word starter Original Title: \"\"copy/paste\"\"I am unable to figure out how to copy a word document from one place to another using word starter. Thank you in advance for your help. Reply I have t",
+  "history": {
+    "url": "http://answers.microsoft.com/en-us/office/forum/office_2010se-word/how-to-copy-a-word-document-from-one-place-to/e83387bf-3bb0-4599-a942-f7f112cf298c",
+    "title": "Q: How to copy a word document from one place to another using word starter",
+    "description": "\"DB David Black 1 asked on November 18, 2012Q: How to copy a word document from one place to another using word starter Original Title: \"\"copy/paste\"\"I am unable to figure out how to copy a word document from one place to another using word starter. Thank you in advance for your help. Reply I have t",
+    "frecency": 286,
+    "url_hash": 28700424525449,
+    "last_visit_date": 1758203929208200
+  }
+}

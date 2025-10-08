@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Blue Springs, MO Population Home Blue Springs, MO Population Blue Springs, MO Population About Search Results Sort: Default BBB Rated A+/ACoupons All Filters1. Enterprise Rent-A-Car320 SW State Route 7Blue Springs, MO 64014 (816) 224-4949Car Rental Truck Rental Website From Business: Enjoy fast and easy car rental with Enterpr",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns Blue Springs, MO population and a car rental business; it is not related to debugging an API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Blue Springs, MO Population Home Blue Springs, MO Population Blue Springs, MO Population About Search Results Sort: Default BBB Rated A+/ACoupons All Filters1. Enterprise Rent-A-Car320 SW State Route 7Blue Springs, MO 64014 (816) 224-4949Car Rental Truck Rental Website From Business: Enjoy fast and easy car rental with Enterpr",
+  "history": {
+    "url": "https://www.yellowpages.com/blue-springs-mo/population",
+    "title": "Blue Springs, MO Population",
+    "description": "Home Blue Springs, MO Population Blue Springs, MO Population About Search Results Sort: Default BBB Rated A+/ACoupons All Filters1. Enterprise Rent-A-Car320 SW State Route 7Blue Springs, MO 64014 (816) 224-4949Car Rental Truck Rental Website From Business: Enjoy fast and easy car rental with Enterpr",
+    "frecency": 2738,
+    "url_hash": 15100512780374,
+    "last_visit_date": 1758203928018111
+  }
+}

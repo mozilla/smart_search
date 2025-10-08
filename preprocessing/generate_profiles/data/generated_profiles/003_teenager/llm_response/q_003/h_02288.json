@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "CMA Fest CMA Fest Downtown Nashville June 7-10, 2018Every summer, thousands of country music fans from all over the world move in to Nashville for four days to experience CMA Fest - four days of music from hundreds of artists including live concerts, meet & greets, autograph signings, celebrity sporting even",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a music festival in Nashville (CMA Fest) and contains no information about apps or study habits; it is not relevant to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "CMA Fest CMA Fest Downtown Nashville June 7-10, 2018Every summer, thousands of country music fans from all over the world move in to Nashville for four days to experience CMA Fest - four days of music from hundreds of artists including live concerts, meet & greets, autograph signings, celebrity sporting even",
+  "history": {
+    "url": "http://www.visitmusiccity.com/visitors/events/cmafest",
+    "title": "CMA Fest",
+    "description": "CMA Fest Downtown Nashville June 7-10, 2018Every summer, thousands of country music fans from all over the world move in to Nashville for four days to experience CMA Fest - four days of music from hundreds of artists including live concerts, meet & greets, autograph signings, celebrity sporting even",
+    "frecency": 2643,
+    "url_hash": 37559194962831,
+    "last_visit_date": 1758203931925228
+  }
+}

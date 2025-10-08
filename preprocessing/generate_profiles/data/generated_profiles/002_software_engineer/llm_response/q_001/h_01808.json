@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Nursing Jobs in Ambulatory Care \"Get new jobs for this search by email Email jobs Found 46 jobs Interested in Ambulatory nursing or outpatient, primary or home care? Check out these nursing opportunities on Nurse. Com RN, Contract, 13 Week Assign, Ambulatory OR, PACU, Varied Locations Atlanta, GACompetitive Emory Healthcare JOB DE",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a nursing job listing, unrelated to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Nursing Jobs in Ambulatory Care \"Get new jobs for this search by email Email jobs Found 46 jobs Interested in Ambulatory nursing or outpatient, primary or home care? Check out these nursing opportunities on Nurse. Com RN, Contract, 13 Week Assign, Ambulatory OR, PACU, Varied Locations Atlanta, GACompetitive Emory Healthcare JOB DE",
+  "history": {
+    "url": "https://www.nurse.com/jobs/browse/ambulatory-care/",
+    "title": "Nursing Jobs in Ambulatory Care",
+    "description": "\"Get new jobs for this search by email Email jobs Found 46 jobs Interested in Ambulatory nursing or outpatient, primary or home care? Check out these nursing opportunities on Nurse. Com RN, Contract, 13 Week Assign, Ambulatory OR, PACU, Varied Locations Atlanta, GACompetitive Emory Healthcare JOB DE",
+    "frecency": 1719,
+    "url_hash": 95788372629400,
+    "last_visit_date": 1758203928826111
+  }
+}

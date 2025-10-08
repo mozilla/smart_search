@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Creating an AutoRun-enabled CD-ROM Application Creating an Auto Run-enabled CD-ROM Application Auto Run is a feature of the Windows operating system. It automates the procedures for installing and configuring products designed for Windows-based platforms that are distributed on CD-ROMs. When users insert an Auto Run-enabled compact disc into the",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The page discusses AutoRun CD-ROM applications, not API integration debugging; no relevance.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Creating an AutoRun-enabled CD-ROM Application Creating an Auto Run-enabled CD-ROM Application Auto Run is a feature of the Windows operating system. It automates the procedures for installing and configuring products designed for Windows-based platforms that are distributed on CD-ROMs. When users insert an Auto Run-enabled compact disc into the",
+  "history": {
+    "url": "https://msdn.microsoft.com/en-us/library/windows/desktop/cc144202(v=vs.85).aspx",
+    "title": "Creating an AutoRun-enabled CD-ROM Application",
+    "description": "Creating an Auto Run-enabled CD-ROM Application Auto Run is a feature of the Windows operating system. It automates the procedures for installing and configuring products designed for Windows-based platforms that are distributed on CD-ROMs. When users insert an Auto Run-enabled compact disc into the",
+    "frecency": 1336,
+    "url_hash": 96354846382881,
+    "last_visit_date": 1758203927472200
+  }
+}

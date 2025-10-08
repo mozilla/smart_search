@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "5 Types of Wireless Technology For The IoT Various types of wireless technology and networks allow devices to speak (send data) to each other and to the web (TCP/IP Networks) without cables. There are a number of different wireless technologies out there that can be implemented in hardware products for the Internet of Things (Io T) and Machi",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses wireless technology for IoT, not Python libraries or machine learning; it is not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "5 Types of Wireless Technology For The IoT Various types of wireless technology and networks allow devices to speak (send data) to each other and to the web (TCP/IP Networks) without cables. There are a number of different wireless technologies out there that can be implemented in hardware products for the Internet of Things (Io T) and Machi",
+  "history": {
+    "url": "https://www.link-labs.com/blog/types-of-wireless-technology",
+    "title": "5 Types of Wireless Technology For The IoT",
+    "description": "Various types of wireless technology and networks allow devices to speak (send data) to each other and to the web (TCP/IP Networks) without cables. There are a number of different wireless technologies out there that can be implemented in hardware products for the Internet of Things (Io T) and Machi",
+    "frecency": 1462,
+    "url_hash": 75979606984138,
+    "last_visit_date": 1758203931448111
+  }
+}

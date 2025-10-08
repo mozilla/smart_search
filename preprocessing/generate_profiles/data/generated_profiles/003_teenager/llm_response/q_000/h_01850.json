@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "The Trigger Effect \"From Wikipedia, the free encyclopianavigation search The Trigger Effect Theatrical release poster Directed by David Koepp Produced by Michael Grillo Written by David Koepp Starring Kyle Mac Lachlan Elisabeth Shue Dermot Mulroney Music by James Newton Howard Cinematography Newton Thomas Sigel Edit",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a film titled The Trigger Effect, not content about starting a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "The Trigger Effect \"From Wikipedia, the free encyclopedianavigation search The Trigger Effect Theatrical release poster Directed by David Koepp Produced by Michael Grillo Written by David Koepp Starring Kyle Mac Lachlan Elisabeth Shue Dermot Mulroney Music by James Newton Howard Cinematography Newton Thomas Sigel Edit",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/The_Trigger_Effect",
+    "title": "The Trigger Effect",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search The Trigger Effect Theatrical release poster Directed by David Koepp Produced by Michael Grillo Written by David Koepp Starring Kyle Mac Lachlan Elisabeth Shue Dermot Mulroney Music by James Newton Howard Cinematography Newton Thomas Sigel Edit",
+    "frecency": 3115,
+    "url_hash": 85534714513916,
+    "last_visit_date": 1758203930591228
+  }
+}

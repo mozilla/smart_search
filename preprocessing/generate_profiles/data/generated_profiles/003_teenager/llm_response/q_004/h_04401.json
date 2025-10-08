@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "U RDUD ICTIONARY Home Urdu Dictionary U RDUD ICTIONARYFind meanings of Urdu words especially used in sher o shayari. Please type the word in search box to get its meaning.",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The page is an Urdu dictionary unrelated to improving sports; it does not address sports training, performance, or strategies.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "U RDUD ICTIONARY Home Urdu Dictionary U RDUD ICTIONARYFind meanings of Urdu words especially used in sher o shayari. Please type the word in search box to get its meaning.",
+  "history": {
+    "url": "https://rekhta.org/urdudictionary",
+    "title": "U RDUD ICTIONARY",
+    "description": "Home Urdu Dictionary U RDUD ICTIONARYFind meanings of Urdu words especially used in sher o shayari. Please type the word in search box to get its meaning. ",
+    "frecency": 437,
+    "url_hash": 72492762650996,
+    "last_visit_date": 1758203927824735
+  }
+}

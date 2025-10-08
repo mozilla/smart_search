@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "How Much do Carpenters Make? How Much do Carpenters Make? According to the BLS, carpenters earned a median salary of $43,600 in 2016, or $20.96 per hour. The highest-paid carpenters earned about $79,480, while the lowest-paid earned $27,070. The natural gas distribution industry pays the highest for carpentry work. Salary Outlo",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about carpenter salaries and does not relate to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "How Much do Carpenters Make? How Much do Carpenters Make? According to the BLS, carpenters earned a median salary of $43,600 in 2016, or $20.96 per hour. The highest-paid carpenters earned about $79,480, while the lowest-paid earned $27,070. The natural gas distribution industry pays the highest for carpentry work. Salary Outlo",
+  "history": {
+    "url": "http://money.usnews.com/careers/best-jobs/carpenter/salary",
+    "title": "How Much do Carpenters Make?",
+    "description": "How Much do Carpenters Make? According to the BLS, carpenters earned a median salary of $43,600 in 2016, or $20.96 per hour. The highest-paid carpenters earned about $79,480, while the lowest-paid earned $27,070. The natural gas distribution industry pays the highest for carpentry work. Salary Outlo",
+    "frecency": 1032,
+    "url_hash": 38665981630255,
+    "last_visit_date": 1758203930254111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Hip Hop Is Dead (song) \u2014 a song page about the Nas track from Wikipedia; not related to sports.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns a hip hop song, not information about improving athletic performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Hip Hop Is Dead (song) \"Hip Hop Is Dead (song)From Wikipedia, the free encyclopedianavigation search\"\"Hip Hop Is Dead\"\"Single by Nas featuring will.i.amfrom the album Hip Hop Is Dead Released November 5, 2006 (U. S.) January 29, 2007 (UK)Format12\"\" single CD single Recorded 2006Length 3: 45Label Def Jam Columbia Songwrite",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Hip_Hop_Is_Dead_(song)",
+    "title": "Hip Hop Is Dead (song)",
+    "description": "\"Hip Hop Is Dead (song)From Wikipedia, the free encyclopedianavigation search\"\"Hip Hop Is Dead\"\"Single by Nas featuring will.i.amfrom the album Hip Hop Is Dead Released November 5, 2006 (U. S.) January 29, 2007 (UK)Format12\"\" single CD single Recorded 2006Length 3: 45Label Def Jam Columbia Songwrite",
+    "frecency": 4148,
+    "url_hash": 45202781596535,
+    "last_visit_date": 1758203932281228
+  }
+}

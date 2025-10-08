@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Frankenstein (1931 film)",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a 1931 film and has no relation to improving sports performance or guidance on getting better at sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Frankenstein  (1931 film) \"From Wikipedia, the free encyclopedianavigation search This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (March 2018) ( Learn how and when to remove this template mess",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Frankenstein_(1931_film)",
+    "title": "Frankenstein  (1931 film)",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (March 2018) ( Learn how and when to remove this template mess",
+    "frecency": 4816,
+    "url_hash": 58108594533004,
+    "last_visit_date": 1758203927661139
+  }
+}

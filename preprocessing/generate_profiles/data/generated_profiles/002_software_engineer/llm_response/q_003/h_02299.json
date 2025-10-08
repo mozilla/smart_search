@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "How to use Repeater Control \"How to use Repeater Control One of important goals of any application development process is making data presentation richer. ASP. NET 2.0 provides many server controls which render data in different rich formats and styles. For example, Data Grid control is suitable in many scenarios where you wis",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses ASP.NET Repeater Control and data presentation, not database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "How to use Repeater Control \"How to use Repeater Control One of important goals of any application development process is making data presentation richer. ASP. NET 2.0 provides many server controls which render data in different rich formats and styles. For example, Data Grid control is suitable in many scenarios where you wis",
+  "history": {
+    "url": "http://www.beansoftware.com/ASP.NET-Tutorials/Repeater-Control.aspx",
+    "title": "How to use Repeater Control",
+    "description": "\"How to use Repeater Control One of important goals of any application development process is making data presentation richer. ASP. NET 2.0 provides many server controls which render data in different rich formats and styles. For example, Data Grid control is suitable in many scenarios where you wis",
+    "frecency": 847,
+    "url_hash": 23591353031034,
+    "last_visit_date": 1758203928758111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "News analysis: Controversial mental health guide DSM-5 \"Doctors in dispute: What exactly is normal human behaviour?\", wrote The Independent, while The Observer said: \"Psychiatrists under fire in mental health battle.\" These headlines focused on a new version of a major guide to mental health that was published in May 2013 amid a storm of controver",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses the DSM-5 mental health guide controversy, which is unrelated to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "News analysis: Controversial mental health guide DSM-5 \"\"\"Doctors in dispute: What exactly is normal human behaviour? \"\", wrote The Independent, while The Observer said: \"\"Psychiatrists under fire in mental health battle. \"\"These headlines focused on a new version of a major guide to mental health that was published in May 2013 amid a storm of controver",
+  "history": {
+    "url": "http://www.nhs.uk/news/2013/08August/Pages/controversy-mental-health-diagnosis-and-treatment-dsm5.aspx",
+    "title": "News analysis: Controversial mental health guide DSM-5",
+    "description": "\"\"\"Doctors in dispute: What exactly is normal human behaviour? \"\", wrote The Independent, while The Observer said: \"\"Psychiatrists under fire in mental health battle. \"\"These headlines focused on a new version of a major guide to mental health that was published in May 2013 amid a storm of controver",
+    "frecency": 607,
+    "url_hash": 37987510560018,
+    "last_visit_date": 1758203928126735
+  }
+}

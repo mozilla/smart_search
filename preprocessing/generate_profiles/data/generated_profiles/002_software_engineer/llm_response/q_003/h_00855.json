@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Care Right Where You Are Med Now Primary Care Med Now connects you to a board certified provider using technology to bridge the distance. You can use Med Now from any mobile device or computer with an internet connection to have a conversation with a medical professional through a video visit or online message. After your v",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about telemedicine/medical care, not about database query optimization; topic mismatch.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Care Right Where You Are Med Now Primary Care Med Now connects you to a board certified provider using technology to bridge the distance. You can use Med Now from any mobile device or computer with an internet connection to have a conversation with a medical professional through a video visit or online message. After your v",
+  "history": {
+    "url": "https://www.spectrumhealth.org/patient-care/services-and-treatment-detail-pages/mednow",
+    "title": "Care Right Where You Are",
+    "description": "Med Now Primary Care Med Now connects you to a board certified provider using technology to bridge the distance. You can use Med Now from any mobile device or computer with an internet connection to have a conversation with a medical professional through a video visit or online message. After your v",
+    "frecency": 3456,
+    "url_hash": 56664215235017,
+    "last_visit_date": 1758203930156111
+  }
+}

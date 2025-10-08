@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Buffalo, NY Buffalo, NY Would you like to add this location to your favourites? Yes, Save it No Thanks+Wind- - -Humidity-%Sunrise-Sunset-Pressure-UV 0 Low Buffalo Short Term Forecast Hourly 36 Hours Weekend 7 Days 14 Days DAY NIGHTFeels like: Night: POP:24 Hr Rain:24 Hr Snow: Wind: Hrs of Sun: Fri Apr 13Cloudy",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a Buffalo weather forecast snippet and does not pertain to apps for improving study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Buffalo, NY Buffalo, NY Would you like to add this location to your favourites? Yes, Save it No Thanks+Wind- - -Humidity-%Sunrise-Sunset-Pressure-UV 0 Low Buffalo Short Term Forecast Hourly 36 Hours Weekend 7 Days 14 Days DAY NIGHTFeels like: Night: POP:24 Hr Rain:24 Hr Snow: Wind: Hrs of Sun: Fri Apr 13Cloudy",
+  "history": {
+    "url": "https://www.theweathernetwork.com/us/weather/new-york/buffalo",
+    "title": "Buffalo, NY",
+    "description": "Buffalo, NY Would you like to add this location to your favourites? Yes, Save it No Thanks+Wind- - -Humidity-%Sunrise-Sunset-Pressure-UV 0 Low Buffalo Short Term Forecast Hourly 36 Hours Weekend 7 Days 14 Days DAY NIGHTFeels like: Night: POP:24 Hr Rain:24 Hr Snow: Wind: Hrs of Sun: Fri Apr 13Cloudy ",
+    "frecency": 4180,
+    "url_hash": 34352229746963,
+    "last_visit_date": 1758203931519228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Design a controller in minutes, not hours. \"Smart Ctrl gets your ideas to market quicker with it\u2019s rapid power electronics design capabilities. It seamlessly integrates with PSIM allowing you to expand the possibilities of your power electronics design. With a user friendly interface, simple workflow, easy-to-understand display of control lo",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses hardware design tools for power electronics (PSIM), not software development IDEs; it is not about or strongly relevant to top IDEs for software development.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Design a controller in minutes, not hours. \"Smart Ctrl gets your ideas to market quicker with it\u2019s rapid power electronics design capabilities. It seamlessly integrates with PSIM allowing you to expand the possibilities of your power electronics design. With a user friendly interface, simple workflow, easy-to-understand display of control lo",
+  "history": {
+    "url": "https://powersimtech.com/products/smartctrl/",
+    "title": "Design a controller in minutes, not hours.",
+    "description": "\"Smart Ctrl gets your ideas to market quicker with it\u2019s rapid power electronics design capabilities. It seamlessly integrates with PSIM allowing you to expand the possibilities of your power electronics design. With a user friendly interface, simple workflow, easy-to-understand display of control lo",
+    "frecency": 923,
+    "url_hash": 10025672095726,
+    "last_visit_date": 1758203928848200
+  }
+}

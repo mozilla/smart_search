@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Tango Musicality: Tango Musicality is based on the thoughts and words of Alex Krebs of Portland, OR and is written with permission from Alex Krebs. It is with great hope that this section will help all of us to better understand the music we dance to, help us feel and understand the tango orchestra",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses tango music, not easy DIY room decoration ideas; not relevant.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Tango Musicality \"Tango Musicality Tango Musicality is based on the thoughts and words of Alex Krebs of Portland, OR and is written with permission from Alex Krebs. It is with great hope that this section will help all of us to better understand the music we dance to, help us feel and understand the tango orchestra",
+  "history": {
+    "url": "http://in-tango.com/welcome10.html",
+    "title": "Tango Musicality",
+    "description": "\"Tango Musicality Tango Musicality is based on the thoughts and words of Alex Krebs of Portland, OR and is written with permission from Alex Krebs. It is with great hope that this section will help all of us to better understand the music we dance to, help us feel and understand the tango orchestra ",
+    "frecency": 632,
+    "url_hash": 9852023047673,
+    "last_visit_date": 1758203934255228
+  }
+}

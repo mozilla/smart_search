@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "Rudolf Abel: The Soviet spy who grew up in England \"Rudolf Abel: The Soviet spy who grew up in England By Simon Armstrong BBC News28 November 2015Share Rudolf Abel was arrested in Brooklyn after his cover was blown The arrest and trial of the \\\"most famous Soviet spy of all time\\\", Rudolf Abel, is the inspiration for the latest Steven Spielberg bloc",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a historical news article about Rudolf Abel, a Soviet spy, and does not relate to TikTok trends for 2024.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "Rudolf Abel: The Soviet spy who grew up in England \"Rudolf Abel: The Soviet spy who grew up in England By Simon Armstrong BBC News28 November 2015Share Rudolf Abel was arrested in Brooklyn after his cover was blown The arrest and trial of the \"\"most famous Soviet spy of all time\"\", Rudolf Abel, is the inspiration for the latest Steven Spielberg bloc",
+  "history": {
+    "url": "http://www.bbc.com/news/uk-england-tyne-34870934",
+    "title": "Rudolf Abel: The Soviet spy who grew up in England",
+    "description": "\"Rudolf Abel: The Soviet spy who grew up in England By Simon Armstrong BBC News28 November 2015Share Rudolf Abel was arrested in Brooklyn after his cover was blown The arrest and trial of the \"\"most famous Soviet spy of all time\"\", Rudolf Abel, is the inspiration for the latest Steven Spielberg bloc",
+    "frecency": 2928,
+    "url_hash": 32946167723925,
+    "last_visit_date": 1758203930569228
+  }
+}

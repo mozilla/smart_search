@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "C Language - Overview \\\"C Language - Overview Advertisements Previous Page Next Page C is a general-purpose, high-level language that was originally developed by Dennis M. Ritchie to develop the UNIX operating system at Bell Labs. C was originally first implemented on the DEC PDP-11 computer in 1972. In 1978, Brian Kernig",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses the C programming language, not Docker or Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "C Language - Overview \"C Language - Overview Advertisements Previous Page Next Page C is a general-purpose, high-level language that was originally developed by Dennis M. Ritchie to develop the UNIX operating system at Bell Labs. C was originally first implemented on the DEC PDP-11 computer in 1972. In 1978, Brian Kernig",
+  "history": {
+    "url": "https://www.tutorialspoint.com/cprogramming/c_overview.htm",
+    "title": "C Language - Overview",
+    "description": "\"C Language - Overview Advertisements Previous Page Next Page C is a general-purpose, high-level language that was originally developed by Dennis M. Ritchie to develop the UNIX operating system at Bell Labs. C was originally first implemented on the DEC PDP-11 computer in 1972. In 1978, Brian Kernig",
+    "frecency": 3361,
+    "url_hash": 99901979379229,
+    "last_visit_date": 1758203926902200
+  }
+}

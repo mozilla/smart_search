@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Twinkie diet helps nutrition professor lose 27 pounds \"STORY HIGHLIGHTSNutrition professor's \"\"convenience store diet\"\" helped him shed 27 pounds Haub limited himself to 1,800 calories and two-thirds come from junk food Haub said it's too early to draw any conclusions about diet (CNN) -- Twinkies. Nutty bars. Powdered donuts. For 10 weeks, Mark Haub, a",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a Twinkie diet, not about easy DIY room decoration ideas; topic is unrelated.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Twinkie diet helps nutrition professor lose 27 pounds \"STORY HIGHLIGHTSNutrition professor's \"\"convenience store diet\"\" helped him shed 27 pounds Haub limited himself to 1,800 calories and two-thirds come from junk food Haub said it's too early to draw any conclusions about diet (CNN) -- Twinkies. Nutty bars. Powdered donuts. For 10 weeks, Mark Haub, a",
+  "history": {
+    "url": "http://www.cnn.com/2010/HEALTH/11/08/twinkie.diet.professor/index.html",
+    "title": "Twinkie diet helps nutrition professor lose 27 pounds",
+    "description": "\"STORY HIGHLIGHTSNutrition professor's \"\"convenience store diet\"\" helped him shed 27 pounds Haub limited himself to 1,800 calories and two-thirds come from junk food Haub said it's too early to draw any conclusions about diet (CNN) -- Twinkies. Nutty bars. Powdered donuts. For 10 weeks, Mark Haub, a",
+    "frecency": 4974,
+    "url_hash": 28033406139569,
+    "last_visit_date": 1758203928221139
+  }
+}

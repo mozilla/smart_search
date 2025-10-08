@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "The internet \"The internet Contents What is the internet? How do kids use the internet? Keeping yourself safe on the internet Did you know? What kids said Dr Kim says Website to find out more What is the internet? An easy way to explain the internet is to think of your school computers all linked together into a",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses general internet concepts and safety for kids, not database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "The internet \"The internet Contents What is the internet? How do kids use the internet? Keeping yourself safe on the internet Did you know? What kids said Dr Kim says Website to find out more What is the internet? An easy way to explain the internet is to think of your school computers all linked together into a",
+  "history": {
+    "url": "http://www.cyh.com/HealthTopics/HealthTopicDetailsKids.aspx?p=335&np=288&id=1545",
+    "title": "The internet",
+    "description": "\"The internet Contents What is the internet? How do kids use the internet? Keeping yourself safe on the internet Did you know? What kids said Dr Kim says Website to find out more What is the internet? An easy way to explain the internet is to think of your school computers all linked together into a",
+    "frecency": 2709,
+    "url_hash": 85259139757404,
+    "last_visit_date": 1758203928612200
+  }
+}

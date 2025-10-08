@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Some interesting twists about Ethernet cabling 42In a recent post, Jack Wallen explained how to make Ethernet cable connections. In the ensuing comments, I noticed some interest in Ethernet cabling itself. That's understandable, Ethernet cabling does not look or act like normal wiring. Differential signaling To understand why Ethernet cable is b",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Ethernet cabling rather than Python libraries or machine learning topics; it is unrelated to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Some interesting twists about Ethernet cabling 42In a recent post, Jack Wallen explained how to make Ethernet cable connections. In the ensuing comments, I noticed some interest in Ethernet cabling itself. That's understandable, Ethernet cabling does not look or act like normal wiring. Differential signaling To understand why Ethernet cable is b",
+  "history": {
+    "url": "http://www.techrepublic.com/blog/data-center/some-interesting-twists-about-ethernet-cabling/",
+    "title": "Some interesting twists about Ethernet cabling",
+    "description": "42In a recent post, Jack Wallen explained how to make Ethernet cable connections. In the ensuing comments, I noticed some interest in Ethernet cabling itself. That's understandable, Ethernet cabling does not look or act like normal wiring. Differential signaling To understand why Ethernet cable is b",
+    "frecency": 1029,
+    "url_hash": 68050682051865,
+    "last_visit_date": 1758203928154200
+  }
+}

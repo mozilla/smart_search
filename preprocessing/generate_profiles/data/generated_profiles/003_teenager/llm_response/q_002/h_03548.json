@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "The Dog Song \\\"The Dog Songyozzup Subscribe 1.2KAdd to Share More554,627 views2,240292Published on Aug 17, 2009http://itunes.apple.com/Web Objects/MZ... \\\"\\\"You think your dog's the best?\\\"\\\" A funny hip-hop music video about 2 white guys battling over who's dog is better. Beat inspired by Rachmaninoff Prelude in C #",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a dog-themed music video, unrelated to easy DIY room decoration ideas; it does not address the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "The Dog Song \"The Dog Songyozzup Subscribe 1.2KAdd to Share More554,627 views2,240292Published on Aug 17, 2009http://itunes.apple.com/Web Objects/MZ... \"\"You think your dog's the best?\"\" A funny hip-hop music video about 2 white guys battling over who's dog is better. Beat inspired by Rachmaninoff Prelude in C #",
+  "history": {
+    "url": "http://www.youtube.com/watch?v=GyUnwJwnDC0",
+    "title": "The Dog Song",
+    "description": "\"The Dog Songyozzup Subscribe 1.2KAdd to Share More554,627 views2,240292Published on Aug 17, 2009http://itunes.apple.com/Web Objects/MZ... \"\"You think your dog's the best?\"\" A funny hip-hop music video about 2 white guys battling over who's dog is better. Beat inspired by Rachmaninoff Prelude in C #",
+    "frecency": 1294,
+    "url_hash": 65264902733907,
+    "last_visit_date": 1758203936211228
+  }
+}

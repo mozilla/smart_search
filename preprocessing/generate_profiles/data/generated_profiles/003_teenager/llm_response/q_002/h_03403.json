@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "'Colossal': Film Review | TIFF 2016 \"An unanticipated problem was encountered, check back soon and try again\" Error Code: MEDIA_ERR_UNKNOWNSession ID: 2018-04-08:1b5dbac0c019276decdff397 Player Element ID: video-js-5292637959001OK7:50 PM PDT 9/9/2016 by John De Fore FACEBOOK TWITTER EMAIL ME YOUTUBE C",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a film review page about the movie Colossal, not about easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "'Colossal': Film Review | TIFF 2016 \"'Colossal': Film Review | TIFF 2016An unanticipated problem was encountered, check back soon and try again Error Code: MEDIA_ERR_UNKNOWNSession ID: 2018-04-08:1b5dbac0c019276decdff397 Player Element ID: video-js-5292637959001OK7:50 PM PDT 9/9/2016 by John De Fore FACEBOOK TWITTER EMAIL ME YOUTUBE C",
+  "history": {
+    "url": "http://www.hollywoodreporter.com/review/colossal-review-926943",
+    "title": "'Colossal': Film Review | TIFF 2016",
+    "description": "\"'Colossal': Film Review | TIFF 2016An unanticipated problem was encountered, check back soon and try again Error Code: MEDIA_ERR_UNKNOWNSession ID: 2018-04-08:1b5dbac0c019276decdff397 Player Element ID: video-js-5292637959001OK7:50 PM PDT 9/9/2016 by John De Fore FACEBOOK TWITTER EMAIL ME YOUTUBE C",
+    "frecency": 1444,
+    "url_hash": 75876439288647,
+    "last_visit_date": 1758203935563228
+  }
+}

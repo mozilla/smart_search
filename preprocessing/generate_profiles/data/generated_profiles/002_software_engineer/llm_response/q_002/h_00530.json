@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Vivaldi DAC Vivaldi DACHover to zoom",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result content appears unrelated to IDEs or software development; mentions Vivaldi (a web browser) and DAC, not development environments.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Vivaldi DAC Vivaldi DACHover to zoom",
+  "history": {
+    "url": "https://www.dcsltd.co.uk/products/vivaldi-dac/",
+    "title": "Vivaldi DAC",
+    "description": "Vivaldi DACHover to zoom ",
+    "frecency": 4089,
+    "url_hash": 20302803948810,
+    "last_visit_date": 1758203931182111
+  }
+}

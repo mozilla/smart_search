@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "State taxes: Mississippi \"Print Subscribetaxes State taxes: Mississippi By Kay Bell \u2022 Bankrate.com Taxes \u00bb Income Taxes \u00bb State Taxes \u00bbMississippi has 3 state income tax rates: 3%, 4% and 5%. These rates are the same for all filing statuses, as well as for businesses. More on Mississippi taxes can be found in the tabbed pag",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Mississippi state taxes, not about debugging APIs or API integration. It is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "State taxes: Mississippi \"Print Subscribetaxes State taxes: Mississippi By Kay Bell \u2022 Bankrate.com Taxes \u00bb Income Taxes \u00bb State Taxes \u00bbMississippi has 3 state income tax rates: 3%, 4% and 5%. These rates are the same for all filing statuses, as well as for businesses. More on Mississippi taxes can be found in the tabbed pag",
+  "history": {
+    "url": "http://www.bankrate.com/finance/taxes/state-taxes-mississippi.aspx",
+    "title": "State taxes: Mississippi",
+    "description": "\"Print Subscribetaxes State taxes: Mississippi By Kay Bell \u2022 Bankrate.com Taxes \u00bb Income Taxes \u00bb State Taxes \u00bbMississippi has 3 state income tax rates: 3%, 4% and 5%. These rates are the same for all filing statuses, as well as for businesses. More on Mississippi taxes can be found in the tabbed pag",
+    "frecency": 3342,
+    "url_hash": 34598651992835,
+    "last_visit_date": 1758203927408200
+  }
+}

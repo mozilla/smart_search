@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Nursing Assistant Salaries in New Haven, CT Nursing Assistant Salaries in New Haven, CTNursing Job Title Location Sorry, we don\u2019t have enough salary data for Nursing Assistant in New Haven, CT. The average hourly salary for Nursing Assistant is approximately $12.18 in the United States. Below is some salary information in other locations and",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses nursing salaries, not database queries or optimization techniques; it is not relevant to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Nursing Assistant Salaries in New Haven, CT Nursing Assistant Salaries in New Haven, CTNursing Job Title Location Sorry, we don\u2019t have enough salary data for Nursing Assistant in New Haven, CT. The average hourly salary for Nursing Assistant is approximately $12.18 in the United States. Below is some salary information in other locations and",
+  "history": {
+    "url": "http://www.indeed.com/salary/q-CNA-l-New-Haven,-CT.html",
+    "title": "Nursing Assistant Salaries in New Haven, CT",
+    "description": "Nursing Assistant Salaries in New Haven, CTNursing Job Title Location Sorry, we don\u2019t have enough salary data for Nursing Assistant in New Haven, CT. The average hourly salary for Nursing Assistant is approximately $12.18 in the United States. Below is some salary information in other locations and ",
+    "frecency": 1391,
+    "url_hash": 54268264717894,
+    "last_visit_date": 1758203928746111
+  }
+}

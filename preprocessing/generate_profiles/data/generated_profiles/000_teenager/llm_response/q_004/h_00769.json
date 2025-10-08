@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Average Temperatures for New Mexico in February Average temperatures for February at cities, towns, parks and lakes throughout New Mexico are listed below in degrees Fahrenheit and Celsius. The tables give the normals for maximum and minimum temperatures based on weather data collected from 1981 to 2010 by the US National Climatic Data Center. Yo",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about weather data (average temperatures in New Mexico) and has no content related to improving sports performance or related topics.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Average Temperatures for New Mexico in February Average temperatures for February at cities, towns, parks and lakes throughout New Mexico are listed below in degrees Fahrenheit and Celsius. The tables give the normals for maximum and minimum temperatures based on weather data collected from 1981 to 2010 by the US National Climatic Data Center. Yo",
+  "history": {
+    "url": "http://www.currentresults.com/Weather/New-Mexico/temperature-february.php",
+    "title": "Average Temperatures for New Mexico in February",
+    "description": "Average temperatures for February at cities, towns, parks and lakes throughout New Mexico are listed below in degrees Fahrenheit and Celsius. The tables give the normals for maximum and minimum temperatures based on weather data collected from 1981 to 2010 by the US National Climatic Data Center. Yo",
+    "frecency": 1675,
+    "url_hash": 94867337698046,
+    "last_visit_date": 1758203926623139
+  }
+}

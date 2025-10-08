@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Obituary Jan van Os \\\"Obituary Jan van Os Jan van Os passed away on the 26th of July, 2016. His friends, with whom he played gypsy music for decades, will always remember the image of him sitting behind his cimbalom in the middle of the ensemble. During the farewell ceremony, one of the ensemble members - Rolf Schuursma",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is an obituary unrelated to starting a YouTube channel; it does not discuss or pertain to the query.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Obituary Jan van Os \"Obituary Jan van Os Jan van Os passed away on the 26th of July, 2016. His friends, with whom he played gypsy music for decades, will always remember the image of him sitting behind his cimbalom in the middle of the ensemble. During the farewell ceremony, one of the ensemble members - Rolf Schuursma",
+  "history": {
+    "url": "http://www.cimbalom.nl/",
+    "title": "Obituary Jan van Os",
+    "description": "\"Obituary Jan van Os Jan van Os passed away on the 26th of July, 2016. His friends, with whom he played gypsy music for decades, will always remember the image of him sitting behind his cimbalom in the middle of the ensemble. During the farewell ceremony, one of the ensemble members - Rolf Schuursma",
+    "frecency": 3646,
+    "url_hash": 19299514199695,
+    "last_visit_date": 1758203932425228
+  }
+}

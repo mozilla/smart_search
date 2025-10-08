@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Biography \\\"Biography Grows Up in Pennsylvania Born May 13, 1952 in Mc Kees Rock, Pennsylvania, John Kasich was the son of parents who worked for the post office. He spent his formative years in that community, taking an active role in his high school and local church. Majors in Political Science at OSUAfter h",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a political biography about John Kasich and has no relation to IDEs or software development.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Biography \"Biography Grows Up in Pennsylvania Born May 13, 1952 in Mc Kees Rock, Pennsylvania, John Kasich was the son of parents who worked for the post office. He spent his formative years in that community, taking an active role in his high school and local church. Majors in Political Science at OSUAfter h",
+  "history": {
+    "url": "http://www.westervillelibrary.org/kasich-bio",
+    "title": "Biography",
+    "description": "\"Biography Grows Up in Pennsylvania Born May 13, 1952 in Mc Kees Rock, Pennsylvania, John Kasich was the son of parents who worked for the post office. He spent his formative years in that community, taking an active role in his high school and local church. Majors in Political Science at OSUAfter h",
+    "frecency": 3529,
+    "url_hash": 35928480449543,
+    "last_visit_date": 1758203929394111
+  }
+}

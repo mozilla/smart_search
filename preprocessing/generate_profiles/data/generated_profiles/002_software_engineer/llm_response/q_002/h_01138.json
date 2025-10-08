@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Oxford Clerk Office Oxford Clerk Office Home Government Administration Offices Clerk Offices Michigan Oakland County Oxford Find Oxford Michigan clerk offices, including county, city, and circuit clerks, and clerks of court. Clerks provide information on public court records and legal documents, criminal, jail, and arr",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes clerk offices in Oxford, Michigan, not anything related to IDEs or software development tools.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Oxford Clerk Office Oxford Clerk Office Home Government Administration Offices Clerk Offices Michigan Oakland County Oxford Find Oxford Michigan clerk offices, including county, city, and circuit clerks, and clerks of court. Clerks provide information on public court records and legal documents, criminal, jail, and arr",
+  "history": {
+    "url": "http://www.countyoffice.org/oxford-mi-clerk/",
+    "title": "Oxford Clerk Office",
+    "description": "Oxford Clerk Office Home Government Administration Offices Clerk Offices Michigan Oakland County Oxford Find Oxford Michigan clerk offices, including county, city, and circuit clerks, and clerks of court. Clerks provide information on public court records and legal documents, criminal, jail, and arr",
+    "frecency": 2980,
+    "url_hash": 58558452887512,
+    "last_visit_date": 1758203928998111
+  }
+}

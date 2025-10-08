@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Depression and Diet \"Depression and Diet In this Article Antioxidants Prevent Cell Damange\"\"Smart\"\" Carbs Can Have a Calming Effect Protein-Rich Foods Boost Alertness Try a Mediterranean Diet for B Vitamins Get Enough Vitamin DSelect Selenium-Rich Foods Include Omega-3 Fatty Acids Your Weight and Lifestyle Matter, Too",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The result discusses depression and diet, not easy DIY room decoration ideas; it is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Depression and Diet \"Depression and Diet In this Article Antioxidants Prevent Cell Damange\"\"Smart\"\" Carbs Can Have a Calming Effect Protein-Rich Foods Boost Alertness Try a Mediterranean Diet for B Vitamins Get Enough Vitamin DSelect Selenium-Rich Foods Include Omega-3 Fatty Acids Your Weight and Lifestyle Matter, Too",
+  "history": {
+    "url": "http://www.webmd.com/depression/guide/diet-recovery",
+    "title": "Depression and Diet",
+    "description": "\"Depression and Diet In this Article Antioxidants Prevent Cell Damange\"\"Smart\"\" Carbs Can Have a Calming Effect Protein-Rich Foods Boost Alertness Try a Mediterranean Diet for B Vitamins Get Enough Vitamin DSelect Selenium-Rich Foods Include Omega-3 Fatty Acids Your Weight and Lifestyle Matter, Too ",
+    "frecency": 3612,
+    "url_hash": 82307045331624,
+    "last_visit_date": 1758203934861228
+  }
+}

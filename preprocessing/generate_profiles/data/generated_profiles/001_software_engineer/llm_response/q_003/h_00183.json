@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Want to know how to join the Navy? Want to know how to join the Navy? Whether you\u2019re looking to join as an Enlisted Sailor or Officer, the process is simple. Below, the steps are laid out for you \u2013 from talking to a recruiter to getting mom and dad on board to taking the Oath of Enlistment and moving on to your initial training. Step",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses joining the Navy and recruitment steps; it is unrelated to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Want to know how to join the Navy? Want to know how to join the Navy? Whether you\u2019re looking to join as an Enlisted Sailor or Officer, the process is simple. Below, the steps are laid out for you \u2013 from talking to a recruiter to getting mom and dad on board to taking the Oath of Enlistment and moving on to your initial training. Step",
+  "history": {
+    "url": "https://www.navy.com/joining/getting-started.html",
+    "title": "Want to know how to join the Navy?",
+    "description": "Want to know how to join the Navy? Whether you\u2019re looking to join as an Enlisted Sailor or Officer, the process is simple. Below, the steps are laid out for you \u2013 from talking to a recruiter to getting mom and dad on board to taking the Oath of Enlistment and moving on to your initial training. Step",
+    "frecency": 4371,
+    "url_hash": 69829518329708,
+    "last_visit_date": 1758203927018200
+  }
+}

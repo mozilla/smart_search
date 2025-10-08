@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "perlrun \"perlrun NAMESYNOPSISDESCRIPTION#! and quoting on non-Unix systems Location of Perl Command Switches ENVIRONMENTNAMEperlrun - how to execute the Perl interpreter SYNOPSISperl [ -s Ttu UWX ] [ -hv ] [ -V [: configvar] ] [ -cw ] [ -d [ t ] [: debugger] ] [ -D [ number/list] ] [ -pna ] [ -F pattern ] [",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about the Perl interpreter command-line interface (perlrun), not about IDEs or software development IDE recommendations.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "perlrun \"perlrun NAMESYNOPSISDESCRIPTION#! and quoting on non-Unix systems Location of Perl Command Switches ENVIRONMENTNAMEperlrun - how to execute the Perl interpreter SYNOPSISperl [ -s Ttu UWX ] [ -hv ] [ -V [: configvar] ] [ -cw ] [ -d [ t ] [: debugger] ] [ -D [ number/list] ] [ -pna ] [ -F pattern ] [",
+  "history": {
+    "url": "http://perldoc.perl.org/perlrun.html",
+    "title": "perlrun",
+    "description": "\"perlrun NAMESYNOPSISDESCRIPTION#! and quoting on non-Unix systems Location of Perl Command Switches ENVIRONMENTNAMEperlrun - how to execute the Perl interpreter SYNOPSISperl [ -s Ttu UWX ] [ -hv ] [ -V [: configvar] ] [ -cw ] [ -d [ t ] [: debugger] ] [ -D [ number/list] ] [ -pna ] [ -F pattern ] [",
+    "frecency": 2703,
+    "url_hash": 99174462101238,
+    "last_visit_date": 1758203931128111
+  }
+}

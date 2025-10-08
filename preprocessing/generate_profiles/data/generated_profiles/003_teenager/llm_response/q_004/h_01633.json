@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Bob Bullock Texas State History Museum Tickets Bob Bullock Texas State History Museum Tickets1800 Congress St., Austin , TX 78701Get Ticket Alerts Tweet Tweet Like Sign Up to see what your friends like. Bob Bullock Texas State History Museum Tickets and Event Dates There are no events currently scheduled at this venue. Venue Information Hotels W",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about purchasing tickets for a history museum, not about improving athletic performance or sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Bob Bullock Texas State History Museum Tickets Bob Bullock Texas State History Museum Tickets1800 Congress St., Austin , TX 78701Get Ticket Alerts Tweet Tweet Like Sign Up to see what your friends like. Bob Bullock Texas State History Museum Tickets and Event Dates There are no events currently scheduled at this venue. Venue Information Hotels W",
+  "history": {
+    "url": "http://www.ticketmaster.com/Bob-Bullock-Texas-State-History-Museum-tickets-Austin/venue/475935#!",
+    "title": "Bob Bullock Texas State History Museum Tickets",
+    "description": "Bob Bullock Texas State History Museum Tickets1800 Congress St., Austin , TX 78701Get Ticket Alerts Tweet Tweet Like Sign Up to see what your friends like. Bob Bullock Texas State History Museum Tickets and Event Dates There are no events currently scheduled at this venue. Venue Information Hotels W",
+    "frecency": 3321,
+    "url_hash": 25106940126554,
+    "last_visit_date": 1758203933263228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "How to Reupholster a Chair How to Reupholster a Chair Furnishings with good bones but bad skin can be easily updated with fresh fabric. This chair reupholstery project shows you basic techniques to get your furniture looking fashionable.",
+  "relevance_score": 0.3,
+  "binary_decision": 0,
+  "Decision_Reason": "The page focuses on reupholstering a chair (a DIY furniture project) rather than providing general easy DIY room decoration ideas; it is only tangentially related to room decor.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "How to Reupholster a Chair How to Reupholster a Chair Furnishings with good bones but bad skin can be easily updated with fresh fabric. This chair reupholstery project shows you basic techniques to get your furniture looking fashionable.",
+  "history": {
+    "url": "http://www.bhg.com/decorating/do-it-yourself/fabric-paper-projects/diy-chair-upholstery-guide/",
+    "title": "How to Reupholster a Chair",
+    "description": "How to Reupholster a Chair Furnishings with good bones but bad skin can be easily updated with fresh fabric. This chair reupholstery project shows you basic techniques to get your furniture looking fashionable. ",
+    "frecency": 1212,
+    "url_hash": 94974733698226,
+    "last_visit_date": 1758203936095228
+  }
+}

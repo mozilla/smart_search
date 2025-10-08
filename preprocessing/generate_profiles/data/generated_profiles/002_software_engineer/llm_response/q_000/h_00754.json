@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Course Library I am a Practicing in Showing All Courses Total Courses: 0 Total Hours: 0Course Title Course Credits No Courses Found List of All Active Courses List of All Course Topics",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The page appears to be a course library with no courses listed; no mention of API debugging or integration topics; therefore not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Course Library I am a Practicing in Showing All Courses Total Courses: 0 Total Hours: 0Course Title Course Credits No Courses Found List of All Active Courses List of All Course Topics",
+  "history": {
+    "url": "https://ceufast.com/courses/",
+    "title": "Course Library",
+    "description": "I am a Practicing in Showing All Courses Total Courses: 0 Total Hours: 0Course Title Course Credits No Courses Found List of All Active Courses List of All Course Topics ",
+    "frecency": 3648,
+    "url_hash": 64903532627797,
+    "last_visit_date": 1758203928848111
+  }
+}

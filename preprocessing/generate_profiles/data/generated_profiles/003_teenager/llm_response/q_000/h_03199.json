@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Stoney End Lyrics I was born from love and my poor mother worked the mines I was raised on the good book Jesus Till I read between the lines Now I don't believe, I want to see the whole morning Going down the stoney end I never wanted to go down the stoney end Mama let me start all over Cradle me, Mama, cradle me aga",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is lyrics to a song ('Stoney End') and has no connection to starting a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Stoney End Lyrics I was born from love and my poor mother worked the mines I was raised on the good book Jesus Till I read between the lines Now I don't believe, I want to see the whole morning Going down the stoney end I never wanted to go down the stoney end Mama let me start all over Cradle me, Mama, cradle me aga",
+  "history": {
+    "url": "http://www.metrolyrics.com/stoney-end-lyrics-barbra-streisand.html",
+    "title": "Stoney End Lyrics",
+    "description": "I was born from love and my poor mother worked the mines I was raised on the good book Jesus Till I read between the lines Now I don't believe, I want to see the whole morning Going down the stoney end I never wanted to go down the stoney end Mama let me start all over Cradle me, Mama, cradle me aga",
+    "frecency": 1648,
+    "url_hash": 23219090545317,
+    "last_visit_date": 1758203930651228
+  }
+}

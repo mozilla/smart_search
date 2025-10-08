@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Job shadow \"This article does not cite any sources. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (October 2014) ( Learn how and when to remove this template message)Job shadowing (or work shadowing) is a popular on-the-job learning,",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses job shadowing, not API integration or debugging; it is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Job shadow \"This article does not cite any sources. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (October 2014) ( Learn how and when to remove this template message)Job shadowing (or work shadowing) is a popular on-the-job learning,",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Job_shadowing",
+    "title": "Job shadow",
+    "description": "\"This article does not cite any sources. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (October 2014) ( Learn how and when to remove this template message)Job shadowing (or work shadowing) is a popular on-the-job learning,",
+    "frecency": 948,
+    "url_hash": 17362190652101,
+    "last_visit_date": 1758203927158200
+  }
+}

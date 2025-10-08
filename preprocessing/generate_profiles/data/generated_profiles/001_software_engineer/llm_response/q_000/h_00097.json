@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Waylon Jennings \\\"Waylon Jennings From Wikipedia, the free encyclopedia (Redirected from Walon Jennings)navigation search Waylon Jennings Jennings c. 1974Born Waylon Arnold Jennings June 15, 1937 Littlefield, Texas, U. S. Died February 13, 2002 (aged 64) Chandler, Arizona, U. S. Cause of death Diabetes Occupation Si",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a Wikipedia page about Waylon Jennings, unrelated to debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Waylon Jennings \"Waylon Jennings From Wikipedia, the free encyclopedia (Redirected from Walon Jennings)navigation search Waylon Jennings Jennings c. 1974Born Waylon Arnold Jennings June 15, 1937 Littlefield, Texas, U. S. Died February 13, 2002 (aged 64) Chandler, Arizona, U. S. Cause of death Diabetes Occupation Si",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Walon_Jennings",
+    "title": "Waylon Jennings",
+    "description": "\"Waylon Jennings From Wikipedia, the free encyclopedia (Redirected from Walon Jennings)navigation search Waylon Jennings Jennings c. 1974Born Waylon Arnold Jennings June 15, 1937 Littlefield, Texas, U. S. Died February 13, 2002 (aged 64) Chandler, Arizona, U. S. Cause of death Diabetes Occupation Si",
+    "frecency": 4665,
+    "url_hash": 11428863685568,
+    "last_visit_date": 1758203926782200
+  }
+}

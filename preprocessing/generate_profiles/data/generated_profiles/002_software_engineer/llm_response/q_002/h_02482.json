@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Town of Madison Home \u2192 Certified Business-Friendly Community Program \u2192 Madison Town of Madison Established in 1804 Madison, Maine is a community with rich history, beautiful scenery and a relaxed way of life. Retailers like Renys and Campbells True Value highlight downtown area with shopping, eateries, beauty salon",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a town in Maine and local commerce, not anything about software development or IDEs.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Town of Madison Home \u2192 Certified Business-Friendly Community Program \u2192 Madison Town of Madison Established in 1804 Madison, Maine is a community with rich history, beautiful scenery and a relaxed way of life. Retailers like Renys and Campbells True Value highlight downtown area with shopping, eateries, beauty salon",
+  "history": {
+    "url": "http://www.maine.gov/decd/cbfc/certified/profiles/madison.shtml",
+    "title": "Town of Madison",
+    "description": "Home \u2192 Certified Business-Friendly Community Program \u2192 Madison Town of Madison Established in 1804 Madison, Maine is a community with rich history, beautiful scenery and a relaxed way of life. Retailers like Renys and Campbells True Value highlight downtown area with shopping, eateries, beauty salon",
+    "frecency": 514,
+    "url_hash": 72691849953647,
+    "last_visit_date": 1758203929632111
+  }
+}

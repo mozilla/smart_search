@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "This video is no longer available because the YouTube account associated with this video has been terminated. This video is no longer available because the You Tube account associated with this video has been terminated. Sorry about that.",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a terminated YouTube video notice and does not pertain to 'best apps for improving study habits'.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "This video is no longer available because the YouTube account associated with this video has been terminated. This video is no longer available because the You Tube account associated with this video has been terminated. Sorry about that.",
+  "history": {
+    "url": "http://www.youtube.com/watch?v=s1oBCV-Y914",
+    "title": "This video is no longer available because the YouTube account associated with this video has been terminated.",
+    "description": "This video is no longer available because the You Tube account associated with this video has been terminated. Sorry about that. ",
+    "frecency": 2096,
+    "url_hash": 98683995716382,
+    "last_visit_date": 1758203928421139
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Deception Pass State Park - Headlands / Rosario Head / Lighthouse Point Deception Pass State Park - Headlands / Rosario Head / Lighthouse Point Puget Sound and Islands Location Puget Sound and Islands -- Bellingham Area View map below Length5.0 miles, roundtrip Elevation Gain: 350 ft. Highest Point: 110 ft. Rating4.12 out of 5 (26 votes) Log in to rate WTA worked here:",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a hiking trail in Deception Pass State Park and has no content related to Docker or setup instructions; it is not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Deception Pass State Park - Headlands / Rosario Head / Lighthouse Point Deception Pass State Park - Headlands / Rosario Head / Lighthouse Point Puget Sound and Islands Location Puget Sound and Islands -- Bellingham Area View map below Length5.0 miles, roundtrip Elevation Gain: 350 ft. Highest Point: 110 ft. Rating4.12 out of 5 (26 votes) Log in to rate WTA worked here:",
+  "history": {
+    "url": "http://www.wta.org/go-hiking/hikes/deception-pass-headlands",
+    "title": "Deception Pass State Park - Headlands / Rosario Head / Lighthouse Point",
+    "description": "Deception Pass State Park - Headlands / Rosario Head / Lighthouse Point Puget Sound and Islands Location Puget Sound and Islands -- Bellingham Area View map below Length5.0 miles, roundtrip Elevation Gain: 350 ft. Highest Point: 110 ft. Rating4.12 out of 5 (26 votes) Log in to rate WTA worked here: ",
+    "frecency": 3478,
+    "url_hash": 81725472675084,
+    "last_visit_date": 1758203931894111
+  }
+}

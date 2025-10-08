@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Does negative zero exist? [closed] \\\"_Mathematics Stack Exchange is a question and answer site for people studying math at any level and professionals in related fields. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Does n",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is from Mathematics Stack Exchange and discusses a math-related question, not topics about database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Does negative zero exist? [closed] \"_Mathematics Stack Exchange is a question and answer site for people studying math at any level and professionals in related fields. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Does n",
+  "history": {
+    "url": "https://math.stackexchange.com/questions/667577/does-negative-zero-exist",
+    "title": "Does negative zero exist? [closed]",
+    "description": "\"_Mathematics Stack Exchange is a question and answer site for people studying math at any level and professionals in related fields. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Does n",
+    "frecency": 364,
+    "url_hash": 2863242588732,
+    "last_visit_date": 1758203930676111
+  }
+}

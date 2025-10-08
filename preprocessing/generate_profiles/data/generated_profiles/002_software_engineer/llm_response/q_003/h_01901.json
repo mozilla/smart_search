@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "change the static IP address to domain name \"_Webmasters Stack Exchange is a question and answer site for pro webmasters. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the topchange the static IP address to domain nameup vote4down vote fav",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Webmasters Stack Exchange and how the Q&A site works, not about optimizing database queries.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "change the static IP address to domain name \"_Webmasters Stack Exchange is a question and answer site for pro webmasters. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the topchange the static IP address to domain nameup vote4down votefav",
+  "history": {
+    "url": "http://webmasters.stackexchange.com/questions/44936/change-the-static-ip-address-to-domain-name",
+    "title": "change the static IP address to domain name",
+    "description": "\"_Webmasters Stack Exchange is a question and answer site for pro webmasters. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the topchange the static IP address to domain nameup vote4down votefav",
+    "frecency": 1531,
+    "url_hash": 26416064258117,
+    "last_visit_date": 1758203932020111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Work From Home? This Tax Deduction May Be for You (tax article about home office deduction) - Matthew Frankel (TMFMath Guy) Feb 5, 2017",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses tax deductions for a home office, not API debugging or integration, thus not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Work From Home? This Tax Deduction May Be for You \"Matthew Frankel ( TMFMath Guy)Feb 5, 2017 at 12:03PMIf you work from your home and have a dedicated home office you use, then you may be entitled to the home office deduction, which could save you hundreds or even thousands of dollars on your tax return. Here's what the IRS considers to be a \"\"home",
+  "history": {
+    "url": "https://www.fool.com/retirement/2017/02/05/work-from-home-this-tax-deduction-may-be-for-you.aspx",
+    "title": "Work From Home? This Tax Deduction May Be for You",
+    "description": "\"Matthew Frankel ( TMFMath Guy)Feb 5, 2017 at 12:03PMIf you work from your home and have a dedicated home office you use, then you may be entitled to the home office deduction, which could save you hundreds or even thousands of dollars on your tax return. Here's what the IRS considers to be a \"\"home",
+    "frecency": 598,
+    "url_hash": 34216859472448,
+    "last_visit_date": 1758203927026200
+  }
+}

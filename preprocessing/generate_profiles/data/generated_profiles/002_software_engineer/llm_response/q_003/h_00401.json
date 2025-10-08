@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Seamus O'Regan faces lifelong struggle to stay sober, says political strategist \"A political strategist in Ottawa is praising St. John's South-Mount Pearl MP Seamus O'Regan for going public about his battle with the bottle, but Tim Powers says staying sober will be a lifelong challenge. \"\"It's a very brave thing to do, and we all wish him luck as he begins this battle, which do",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses a politician's sobriety, not anything related to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Seamus O'Regan faces lifelong struggle to stay sober, says political strategist \"A political strategist in Ottawa is praising St. John's South-Mount Pearl MP Seamus O'Regan for going public about his battle with the bottle, but Tim Powers says staying sober will be a lifelong challenge. \"\"It's a very brave thing to do, and we all wish him luck as he begins this battle, which do",
+  "history": {
+    "url": "http://www.cbc.ca/news/canada/newfoundland-labrador/seamus-o-regan-alcohol-treatment-support-tim-powers-1.3388669",
+    "title": "Seamus O'Regan faces lifelong struggle to stay sober, says political strategist",
+    "description": "\"A political strategist in Ottawa is praising St. John's South-Mount Pearl MP Seamus O'Regan for going public about his battle with the bottle, but Tim Powers says staying sober will be a lifelong challenge. \"\"It's a very brave thing to do, and we all wish him luck as he begins this battle, which do",
+    "frecency": 4314,
+    "url_hash": 17034568016841,
+    "last_visit_date": 1758203927998111
+  }
+}

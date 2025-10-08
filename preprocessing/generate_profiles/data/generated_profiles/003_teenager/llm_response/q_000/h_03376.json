@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Stress and your health Stress and your health Stress is a feeling you get when faced with a challenge. Feeling stressed for a long time can take a toll on your mental and physical health. Even though it may seem hard to find ways to de-stress with all the things you have to do, it's important to find those ways. Your heal",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses stress and health, not content related to starting a YouTube channel; it is not relevant to the query.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Stress and your health Stress and your health Stress is a feeling you get when faced with a challenge. Feeling stressed for a long time can take a toll on your mental and physical health. Even though it may seem hard to find ways to de-stress with all the things you have to do, it's important to find those ways. Your heal",
+  "history": {
+    "url": "https://www.womenshealth.gov/publications/our-publications/fact-sheet/stress-your-health.html",
+    "title": "Stress and your health",
+    "description": "Stress and your health Stress is a feeling you get when faced with a challenge. Feeling stressed for a long time can take a toll on your mental and physical health. Even though it may seem hard to find ways to de-stress with all the things you have to do, it's important to find those ways. Your heal",
+    "frecency": 1476,
+    "url_hash": 75770527332271,
+    "last_visit_date": 1758203930077228
+  }
+}

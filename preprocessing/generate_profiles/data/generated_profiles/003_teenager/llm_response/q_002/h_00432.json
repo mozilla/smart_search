@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "How Do You Sew Elastic on Fabric? \"Hobbies & Games Crafting Sewing Q: How Do You Sew Elastic on Fabric? A: Quick Answer Sew elastic on fabric using a narrow zigzag stitch or the stretch stitch. Ensure that you use the correct amount of elastic. The dimensions of the fabric should equal that of the stretched elastic tape after stitch\"",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The result focuses on sewing elastic on fabric rather than on easy DIY room decoration ideas; not directly relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "How Do You Sew Elastic on Fabric? \"Hobbies & Games Crafting Sewing Q: How Do You Sew Elastic on Fabric? A: Quick Answer Sew elastic on fabric using a narrow zigzag stitch or the stretch stitch. Ensure that you use the correct amount of elastic. The dimensions of the fabric should equal that of the stretched elastic tape after stitch",
+  "history": {
+    "url": "https://www.reference.com/hobbies-games/sew-elastic-fabric-158f9876867ba71d",
+    "title": "How Do You Sew Elastic on Fabric?",
+    "description": "\"Hobbies & Games Crafting Sewing Q: How Do You Sew Elastic on Fabric? A: Quick Answer Sew elastic on fabric using a narrow zigzag stitch or the stretch stitch. Ensure that you use the correct amount of elastic. The dimensions of the fabric should equal that of the stretched elastic tape after stitch",
+    "frecency": 4535,
+    "url_hash": 22289620550239,
+    "last_visit_date": 1758203930635228
+  }
+}

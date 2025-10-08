@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Error! Patients & Families Education Research Community Referring Physicians Find a Physician Departments & Centers About URMCLibraries Alumni Giving Error!Response Type 404: Not Found The file requested does not exist. It may have been moved or deleted. Please send questions to: webmaster@urmc.rochester.e",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page is a 404 error with unrelated content; it does not discuss debugging API integration or related topics.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Error! Patients & Families Education Research Community Referring Physicians Find a Physician Departments & Centers About URMCLibraries Alumni Giving Error!Response Type 404: Not Found The file requested does not exist. It may have been moved or deleted. Please send questions to: webmaster@urmc.rochester.e",
+  "history": {
+    "url": "http://knowyourbones.com/surgerypostop-care/elbow-surgery-what-to-expect/ulnar-nerve-decompression/",
+    "title": "Error!",
+    "description": "Patients & Families Education Research Community Referring Physicians Find a Physician Departments & Centers About URMCLibraries Alumni Giving Error!Response Type 404: Not Found The file requested does not exist. It may have been moved or deleted. Please send questions to: webmaster@urmc.rochester.e",
+    "frecency": 1370,
+    "url_hash": 66702637671379,
+    "last_visit_date": 1758203929230200
+  }
+}

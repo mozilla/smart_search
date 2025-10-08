@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Windows previous versions documentation Docs Previous Versions Windows Windows previous versions documentation Need content for older products or services, such as release notes, deployment guides, or how-to articles? See the links below. If you're looking for specific information (like Windows 8.1 release notes or how to repair a Windows",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Windows documentation and older Windows versions, not Docker setup; therefore not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Windows previous versions documentation Docs Previous Versions Windows Windows previous versions documentation Need content for older products or services, such as release notes, deployment guides, or how-to articles? See the links below. If you're looking for specific information (like Windows 8.1 release notes or how to repair a Windows",
+  "history": {
+    "url": "https://technet.microsoft.com/en-us/windows/dn858566.aspx",
+    "title": "Windows previous versions documentation",
+    "description": "Docs Previous Versions Windows Windows previous versions documentation Need content for older products or services, such as release notes, deployment guides, or how-to articles? See the links below. If you're looking for specific information (like Windows 8.1 release notes or how to repair a Windows",
+    "frecency": 4994,
+    "url_hash": 81790335231227,
+    "last_visit_date": 1758203931736111
+  }
+}

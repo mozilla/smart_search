@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Will & Grace \\\"From Wikipedia, the free encyclopedianavigation search Will & Grace The intertitle used in the show's 2017 revival Genre Sitcom Created by David Kohan Max Mutchnick Directed by James Burrows Starring Eric Mc Cormack Debra Messing Megan Mullally Sean Hayes Gary Grubbs Shelley Morrison Michael Angara\\\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about the TV show Will & Grace, not about starting a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Will & Grace \"From Wikipedia, the free encyclopedianavigation search Will & Grace The intertitle used in the show's 2017 revival Genre Sitcom Created by David Kohan Max Mutchnick Directed by James Burrows Starring Eric Mc Cormack Debra Messing Megan Mullally Sean Hayes Gary Grubbs Shelley Morrison Michael Angara",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Will_%26_Grace",
+    "title": "Will & Grace",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search Will & Grace The intertitle used in the show's 2017 revival Genre Sitcom Created by David Kohan Max Mutchnick Directed by James Burrows Starring Eric Mc Cormack Debra Messing Megan Mullally Sean Hayes Gary Grubbs Shelley Morrison Michael Angara",
+    "frecency": 222,
+    "url_hash": 33147489596734,
+    "last_visit_date": 1758203935353228
+  }
+}

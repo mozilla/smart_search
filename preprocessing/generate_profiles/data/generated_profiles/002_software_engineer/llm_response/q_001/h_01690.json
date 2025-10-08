@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "License Denial License Denial What happens when my request for a license is denied? All applicants will receive notice in writing regarding the denial of their application. Applicants who are denied a concealed weapons license will be advised of the reason for the denial. Applicants may appeal if their application",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses license denial and concealed weapons licenses, which is unrelated to Python libraries or machine learning topics.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "License Denial License Denial What happens when my request for a license is denied? All applicants will receive notice in writing regarding the denial of their application. Applicants who are denied a concealed weapons license will be advised of the reason for the denial. Applicants may appeal if their application",
+  "history": {
+    "url": "http://www.placer.ca.gov/departments/sheriff/concealed-weapon-permits/permit-denial",
+    "title": "License Denial",
+    "description": "License Denial What happens when my request for a license is denied? All applicants will receive notice in writing regarding the denial of their application. Applicants who are denied a concealed weapons license will be advised of the reason for the denial. Applicants may appeal if their application",
+    "frecency": 1933,
+    "url_hash": 57614338389884,
+    "last_visit_date": 1758203929718111
+  }
+}

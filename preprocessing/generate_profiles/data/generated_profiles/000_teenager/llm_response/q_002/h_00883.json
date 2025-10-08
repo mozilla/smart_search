@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Nostalgia Critic \"This article's content is marked as Mature The page Nostalgia Critic contains mature content that may include coarse language, sexual references, and/or graphic violent images which may be disturbing to some. Mature pages are recommended for those who are 18 years of age and older. If you are 18 ye",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result pertains to a Nostalgia Critic page with mature content, not to easy DIY room decoration ideas; thus it is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Nostalgia Critic \"This article's content is marked as Mature The page Nostalgia Critic contains mature content that may include coarse language, sexual references, and/or graphic violent images which may be disturbing to some. Mature pages are recommended for those who are 18 years of age and older. If you are 18 ye",
+  "history": {
+    "url": "http://villains.wikia.com/wiki/Nostalgia_Critic",
+    "title": "Nostalgia Critic",
+    "description": "\"This article's content is marked as Mature The page Nostalgia Critic contains mature content that may include coarse language, sexual references, and/or graphic violent images which may be disturbing to some. Mature pages are recommended for those who are 18 years of age and older. If you are 18 ye",
+    "frecency": 1094,
+    "url_hash": 66382697869228,
+    "last_visit_date": 1758203928377139
+  }
+}

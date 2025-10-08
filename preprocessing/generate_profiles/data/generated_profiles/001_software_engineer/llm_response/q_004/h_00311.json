@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "View Products Windows XP Embedded is the embedded operating system delivering the power of Windows in componentized form, helping embedded developers to rapidly build reliable and advanced embedded devices. Based on the same binaries as Windows XP Professional, Windows XP Embedded enables embedded developers to c",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Windows XP Embedded, not Docker or Docker setup for beginners; it is unrelated to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "View Products Windows XP Embedded is the embedded operating system delivering the power of Windows in componentized form, helping embedded developers to rapidly build reliable and advanced embedded devices. Based on the same binaries as Windows XP Professional, Windows XP Embedded enables embedded developers to c",
+  "history": {
+    "url": "http://www.avnetmssolutions.com/products/158/title/Windows+XP+Embedded+-+WES+XP",
+    "title": "View Products",
+    "description": "Windows XP Embedded is the embedded operating system delivering the power of Windows in componentized form, helping embedded developers to rapidly build reliable and advanced embedded devices. Based on the same binaries as Windows XP Professional, Windows XP Embedded enables embedded developers to c",
+    "frecency": 3912,
+    "url_hash": 96426251323916,
+    "last_visit_date": 1758203929012200
+  }
+}

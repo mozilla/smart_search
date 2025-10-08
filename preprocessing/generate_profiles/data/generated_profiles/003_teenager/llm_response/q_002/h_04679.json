@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Buck Taylor \"Buck Taylor From Wikipedia, the free encyclopedianavigation search Buck Taylor Taylor at the 2011 Dallas International Film Festival Born Walter Clarence Taylor, III May 13, 1938 (age 79)Hollywood, Los Angeles California, U. S. Residence Near Fort Worth, Texas Occupation Actor, artist Years active",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The result is about Buck Taylor, an actor, and not related to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Buck Taylor \"Buck Taylor From Wikipedia, the free encyclopedianavigation search Buck Taylor Taylor at the 2011 Dallas International Film Festival Born Walter Clarence Taylor, III May 13, 1938 (age 79)Hollywood, Los Angeles California, U. S. Residence Near Fort Worth, Texas Occupation Actor, artist Years active",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Buck_Taylor",
+    "title": "Buck Taylor",
+    "description": "\"Buck Taylor From Wikipedia, the free encyclopedianavigation search Buck Taylor Taylor at the 2011 Dallas International Film Festival Born Walter Clarence Taylor, III May 13, 1938 (age 79)Hollywood, Los Angeles California, U. S. Residence Near Fort Worth, Texas Occupation Actor, artist Years active ",
+    "frecency": 152,
+    "url_hash": 51946168444027,
+    "last_visit_date": 1758203935811228
+  }
+}

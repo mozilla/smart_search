@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "IFS function \"The IFS function checks whether one or more conditions are met and returns a value that corresponds to the first TRUE condition. IFS can take the place of multiple nested IF statements, and is much easier to read with multiple conditions. Note: This feature is only available if you have an Office 3",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Excel's IFS function, not Docker or container setup; it is not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "IFS function \"The IFS function checks whether one or more conditions are met and returns a value that corresponds to the first TRUE condition. IFS can take the place of multiple nested IF statements, and is much easier to read with multiple conditions. Note: This feature is only available if you have an Office 3",
+  "history": {
+    "url": "https://support.office.com/en-us/article/IFS-function-36329a26-37b2-467c-972b-4a39bd951d45",
+    "title": "IFS function",
+    "description": "\"The IFS function checks whether one or more conditions are met and returns a value that corresponds to the first TRUE condition. IFS can take the place of multiple nested IF statements, and is much easier to read with multiple conditions. Note: This feature is only available if you have an Office 3",
+    "frecency": 3703,
+    "url_hash": 11905361412748,
+    "last_visit_date": 1758203931376111
+  }
+}

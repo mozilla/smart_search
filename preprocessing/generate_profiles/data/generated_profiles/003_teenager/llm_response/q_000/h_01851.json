@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "MichaelMiller CBSSPORTS. COM247SPORTSMAXPREPSSPORTSLINEFOLLOW MAXPREPSFootball Baseball Basketball G. Basketball... Apps SIGN IN",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a sports site (CBS Sports / MaxPreps) not about starting a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "MichaelMiller CBSSPORTS. COM247SPORTSMAXPREPSSPORTSLINEFOLLOW MAXPREPSFootball Baseball Basketball G. Basketball... Apps SIGN IN",
+  "history": {
+    "url": "http://www.maxpreps.com/athlete/michael-miller/0fmtO_TtEeKZ5AAmVebBJg/default.htm",
+    "title": "MichaelMiller",
+    "description": "CBSSPORTS. COM247SPORTSMAXPREPSSPORTSLINEFOLLOW MAXPREPSFootball Baseball Basketball G. Basketball... Apps SIGN IN ",
+    "frecency": 3114,
+    "url_hash": 3802173821465,
+    "last_visit_date": 1758203932265228
+  }
+}

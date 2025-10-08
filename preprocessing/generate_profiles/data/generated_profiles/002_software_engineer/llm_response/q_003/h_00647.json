@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Unix / Linux Shell: Get Third Field Separated by Forward Slash (/) Delimiter \\\"Unix / Linux Shell: Get Third Field Separated by Forward Slash (/) Delimiterin BASH Shell last updated April 29, 2012I \u2018m writing a shell script for automation purpose. The output the path of the current working directory is stored in $PWD or it can be obtained using the pwd command. How do I find",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Unix/Linux shell scripting and field parsing, not database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Unix / Linux Shell: Get Third Field Separated by Forward Slash (/) Delimiter \"Unix / Linux Shell: Get Third Field Separated by Forward Slash (/) Delimiterin BASH Shell last updated April 29, 2012I \u2018m writing a shell script for automation purpose. The output the path of the current working directory is stored in $PWD or it can be obtained using the pwd command. How do I find",
+  "history": {
+    "url": "https://www.cyberciti.biz/faq/unix-linux-shell-get-third-field-separated-by-forward-slash-delimiter/",
+    "title": "Unix / Linux Shell: Get Third Field Separated by Forward Slash (/) Delimiter",
+    "description": "\"Unix / Linux Shell: Get Third Field Separated by Forward Slash (/) Delimiterin BASH Shell last updated April 29, 2012I \u2018m writing a shell script for automation purpose. The output the path of the current working directory is stored in $PWD or it can be obtained using the pwd command. How do I find ",
+    "frecency": 3850,
+    "url_hash": 84978328568861,
+    "last_visit_date": 1758203927436111
+  }
+}

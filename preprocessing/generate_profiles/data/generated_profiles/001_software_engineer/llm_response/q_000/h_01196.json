@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "How to wipe the Cache Partition on your phone or tablet \\\"How to wipe the Cache Partition on your phone or tablet [ Edited ]Deleting Cache partition will not erase any personal data or settings on the device, just the temporary cache files. Clearing cache partition is a good maintenance tool. At least you should do it after finishing a System update or ev",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns wiping a phone's cache partition and has no relevance to debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "How to wipe the Cache Partition on your phone or tablet \"How to wipe the Cache Partition on your phone or tablet [ Edited ]Deleting Cache partition will not erase any personal data or settings on the device, just the temporary cache files. Clearing cache partition is a good maintenance tool. At least you should do it after finishing a System update or ev",
+  "history": {
+    "url": "https://us.community.samsung.com/t5/Phones/How-to-wipe-the-Cache-Partition-on-your-phone-or-tablet/td-p/12662",
+    "title": "How to wipe the Cache Partition on your phone or tablet",
+    "description": "\"How to wipe the Cache Partition on your phone or tablet [ Edited ]Deleting Cache partition will not erase any personal data or settings on the device, just the temporary cache files. Clearing cache partition is a good maintenance tool. At least you should do it after finishing a System update or ev",
+    "frecency": 768,
+    "url_hash": 59877834224291,
+    "last_visit_date": 1758203927804200
+  }
+}

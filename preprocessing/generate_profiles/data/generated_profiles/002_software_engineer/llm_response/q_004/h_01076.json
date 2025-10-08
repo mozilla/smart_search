@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Our apologies... \"Suggested actions If you typed the address, make sure the spelling is correct. Note: Most addresses are also case sensitive. If you clicked on a link, there may be a problem with that link. You can use \\\"Get assistance\\\" below. For information on IBM offerings, start from the IBM homepage. For info",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result appears to be an IBM error/help page snippet unrelated to Docker or beginners' Docker setup.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Our apologies... \"Suggested actions If you typed the address, make sure the spelling is correct. Note: Most addresses are also case sensitive. If you clicked on a link, there may be a problem with that link. You can use \"\"Get assistance\"\" below. For information on IBM offerings, start from the IBM homepage. For info",
+  "history": {
+    "url": "https://www.ibm.com/support/knowledgecenter/SSULQD_7.1.0/com.ibm.nz.dbu.doc/r_dbuser_alter_table.html",
+    "title": "Our apologies...",
+    "description": "\"Suggested actions If you typed the address, make sure the spelling is correct. Note: Most addresses are also case sensitive. If you clicked on a link, there may be a problem with that link. You can use \"\"Get assistance\"\" below. For information on IBM offerings, start from the IBM homepage. For info",
+    "frecency": 3085,
+    "url_hash": 98666426241265,
+    "last_visit_date": 1758203931146111
+  }
+}

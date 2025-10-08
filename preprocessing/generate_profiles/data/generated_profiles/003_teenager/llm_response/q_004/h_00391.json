@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "10 Famous Japanese Artists And Their Masterpieces \"Top Ten Lists Posted February 9, 2014 by Anirudh in Top Ten Lists 6129210 Famous Japanese Artists And Their Masterpieces Painting has been the preferred form of artistic expression in Japan and Japanese artists have developed various styles along the years, including the sumi-e (ink wash painting)",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns famous Japanese artists and their masterpieces, not sports or athletic improvement.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "10 Famous Japanese Artists And Their Masterpieces \"Top Ten Lists Posted February 9, 2014 by Anirudh in Top Ten Lists 6129210 Famous Japanese Artists And Their Masterpieces Painting has been the preferred form of artistic expression in Japan and Japanese artists have developed various styles along the years, including the sumi-e (ink wash painting)",
+  "history": {
+    "url": "https://learnodo-newtonic.com/famous-japanese-artists-and-paintings",
+    "title": "10 Famous Japanese Artists And Their Masterpieces",
+    "description": "\"Top Ten Lists Posted February 9, 2014 by Anirudh in Top Ten Lists 6129210 Famous Japanese Artists And Their Masterpieces Painting has been the preferred form of artistic expression in Japan and Japanese artists have developed various styles along the years, including the sumi-e (ink wash painting) ",
+    "frecency": 4595,
+    "url_hash": 10915343256167,
+    "last_visit_date": 1758203936049228
+  }
+}

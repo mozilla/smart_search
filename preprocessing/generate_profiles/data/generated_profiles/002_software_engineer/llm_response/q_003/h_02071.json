@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Disaster Relief Disaster Relief If you are in a declared disaster area and have experienced damage to your business, you may be eligible for financial assistance from the United States Government\u2019s Small Business Administration (SBA). The Small Business Administration provides low-interest, long-term loans for phys",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses disaster relief and SBA loans, not database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Disaster Relief Disaster Relief If you are in a declared disaster area and have experienced damage to your business, you may be eligible for financial assistance from the United States Government\u2019s Small Business Administration (SBA). The Small Business Administration provides low-interest, long-term loans for phys",
+  "history": {
+    "url": "http://www.nsba.net/disaster-relief/",
+    "title": "Disaster Relief",
+    "description": "Disaster Relief If you are in a declared disaster area and have experienced damage to your business, you may be eligible for financial assistance from the United States Government\u2019s Small Business Administration (SBA). The Small Business Administration provides low-interest, long-term loans for phys",
+    "frecency": 1240,
+    "url_hash": 13755555423672,
+    "last_visit_date": 1758203927528111
+  }
+}

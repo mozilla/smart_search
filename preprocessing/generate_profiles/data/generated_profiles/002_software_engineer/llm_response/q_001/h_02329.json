@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "How to Ping or do a Trace Route - Windows 7 How to Ping or do a Trace Route - Windows 7",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about ping/trace route commands for Windows 7, which is unrelated to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "How to Ping or do a Trace Route - Windows 7 How to Ping or do a Trace Route - Windows 7",
+  "history": {
+    "url": "http://www.chasms.com/chasms1/howdoi/ping_tracert/ping_tracertW7.htm",
+    "title": "How to Ping or do a Trace Route - Windows 7",
+    "description": "How to Ping or do a Trace Route - Windows 7 ",
+    "frecency": 806,
+    "url_hash": 90818976728860,
+    "last_visit_date": 1758203928404111
+  }
+}

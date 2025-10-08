@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Easy Grilled Tri Tip recipe",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a cooking recipe (grilled tri-tip) and is not related to room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Easy Grilled Tri Tip \"Home Recipes Everyday Cooking Easy Grilled Tri Tip130 made it | 89 reviews1Recipe by: Erika\"\"A great way to quickly grill large cuts of tri-tip beef. You can even make it on a busy weeknight! I've also made this for BBQ parties. It's better than buying a bunch of steaks! \"\"Save I Made It Print Pin",
+  "history": {
+    "url": "http://allrecipes.com/recipe/39374/easy-grilled-tri-tip/",
+    "title": "Easy Grilled Tri Tip",
+    "description": "\"Home Recipes Everyday Cooking Easy Grilled Tri Tip130 made it | 89 reviews1Recipe by: Erika\"\"A great way to quickly grill large cuts of tri-tip beef. You can even make it on a busy weeknight! I've also made this for BBQ parties. It's better than buying a bunch of steaks! \"\"Save I Made It Print Pin ",
+    "frecency": 761,
+    "url_hash": 1487132917576,
+    "last_visit_date": 1758203930105228
+  }
+}

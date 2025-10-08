@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "City Park City Park The Transit Center will feature \u201cCity Park,\u201d a public 5.4-acre rooftop park. The 1,400 foot long elevated park will feature a wide range of activities and amenities, including an outdoor amphitheater, gardens, trails, open grass areas, and children\u2019s play space, as well as a restaurant and",
+  "relevance_score": 0.15,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a city park and its amenities, not information or guidance on improving athletic performance or getting better at sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "City Park City Park The Transit Center will feature \u201cCity Park,\u201d a public 5.4-acre rooftop park. The 1,400 foot long elevated park will feature a wide range of activities and amenities, including an outdoor amphitheater, gardens, trails, open grass areas, and children\u2019s play space, as well as a restaurant and",
+  "history": {
+    "url": "http://www.transbaycenter.org/project/transit-center/transit-center-level/city-park",
+    "title": "City Park",
+    "description": "City Park The Transit Center will feature \u201cCity Park,\u201d a public 5.4-acre rooftop park. The 1,400 foot long elevated park will feature a wide range of activities and amenities, including an outdoor amphitheater, gardens, trails, open grass areas, and children\u2019s play space, as well as a restaurant and",
+    "frecency": 1284,
+    "url_hash": 61128498497067,
+    "last_visit_date": 1758203934395228
+  }
+}

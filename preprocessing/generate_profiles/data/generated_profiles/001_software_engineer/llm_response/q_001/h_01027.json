@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Bianca Lawson \\\"From Wikipedia, the free encyclopedianavigation search Bianca Lawson Born Bianca Jasmine Lawson March 20, 1979 (age 39)Los Angeles, California, U. S. Education Stella Adler Studio of Acting Marymount High School Alma mater University of Southern California Occupation Actress Years active 1988\u2013prese\\\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes an actress and contains no content related to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Bianca Lawson \"From Wikipedia, the free encyclopedianavigation search Bianca Lawson Born Bianca Jasmine Lawson March 20, 1979 (age 39)Los Angeles, California, U. S. Education Stella Adler Studio of Acting Marymount High School Alma mater University of Southern California Occupation Actress Years active 1988\u2013prese",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Bianca_Lawson",
+    "title": "Bianca Lawson",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search Bianca Lawson Born Bianca Jasmine Lawson March 20, 1979 (age 39)Los Angeles, California, U. S. Education Stella Adler Studio of Acting Marymount High School Alma mater University of Southern California Occupation Actress Years active 1988\u2013prese",
+    "frecency": 1340,
+    "url_hash": 37487822386523,
+    "last_visit_date": 1758203928698200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Karen's Story Karen Willis Holmes is a renowned Australian designer, widely acclaimed in today's fashion marketplace for offering trend conscious women their perfect wedding gown. The KAREN WILLIS HOLMES brand has established a reputation for constantly exceeding customers' expectations both with the product and",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a fashion designer (Karen Willis Holmes) and does not pertain to software development IDEs or IDE recommendations. No relevant content about IDEs or software development.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Karen's Story Karen Willis Holmes is a renowned Australian designer, widely acclaimed in today's fashion marketplace for offering trend conscious women their perfect wedding gown. The KAREN WILLIS HOLMES brand has established a reputation for constantly exceeding customers' expectations both with the product and",
+  "history": {
+    "url": "https://www.karenwillisholmes.com/wedding-dress-designer",
+    "title": "Karen's Story",
+    "description": "Karen Willis Holmes is a renowned Australian designer, widely acclaimed in today's fashion marketplace for offering trend conscious women their perfect wedding gown. The KAREN WILLIS HOLMES brand has established a reputation for constantly exceeding customers' expectations both with the product and ",
+    "frecency": 4049,
+    "url_hash": 80381061690675,
+    "last_visit_date": 1758203931368111
+  }
+}

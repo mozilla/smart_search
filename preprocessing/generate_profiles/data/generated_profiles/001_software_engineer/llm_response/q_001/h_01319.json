@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "David Shulkin tapped as Trump\u00e2s VA secretary 1:58Trump's Transition: Who is David Shulkin? President-elect Donald Trump announced Wednesday that he has tapped David Shulkin, a physician who is currently serving in the Obama administration as VA undersecretary, to lead the Department of Veterans Affairs. The decision ends a protracted search fo",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses the appointment of David Shulkin as VA secretary, which is unrelated to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "David Shulkin tapped as Trump\u00e2s VA secretary 1:58Trump's Transition: Who is David Shulkin? President-elect Donald Trump announced Wednesday that he has tapped David Shulkin, a physician who is currently serving in the Obama administration as VA undersecretary, to lead the Department of Veterans Affairs. The decision ends a protracted search fo",
+  "history": {
+    "url": "https://www.washingtonpost.com/news/powerpost/wp/2017/01/11/david-shulkin-tapped-as-trumps-va-secretary/",
+    "title": "David Shulkin tapped as Trump\u00e2s VA secretary",
+    "description": "1:58Trump's Transition: Who is David Shulkin? President-elect Donald Trump announced Wednesday that he has tapped David Shulkin, a physician who is currently serving in the Obama administration as VA undersecretary, to lead the Department of Veterans Affairs. The decision ends a protracted search fo",
+    "frecency": 365,
+    "url_hash": 21550103190730,
+    "last_visit_date": 1758203928124200
+  }
+}

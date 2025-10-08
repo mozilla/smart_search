@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Issues related to MTU size, PMTUD and packet fragmentation Home Cisco Subnet Core Networking By Scott Hogg , Network World |May 18, 2013 2:07 PM PTAbout |Scott Hogg is the CTO for Global Technology Resources, Inc. (GTRI). Scott provides network engineering, security consulting, and training services to his clients. MTU Size Issues Issues related to MTU size",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses MTU size, PMTUD, and packet fragmentation, which are unrelated to debugging an API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Issues related to MTU size, PMTUD and packet fragmentation Home Cisco Subnet Core Networking By Scott Hogg , Network World |May 18, 2013 2:07 PM PTAbout |Scott Hogg is the CTO for Global Technology Resources, Inc. (GTRI). Scott provides network engineering, security consulting, and training services to his clients. MTU Size Issues Issues related to MTU size",
+  "history": {
+    "url": "http://www.networkworld.com/article/2224654/cisco-subnet/mtu-size-issues.html",
+    "title": "Issues related to MTU size, PMTUD and packet fragmentation",
+    "description": "Home Cisco Subnet Core Networking By Scott Hogg , Network World |May 18, 2013 2:07 PM PTAbout |Scott Hogg is the CTO for Global Technology Resources, Inc. (GTRI). Scott provides network engineering, security consulting, and training services to his clients. MTU Size Issues Issues related to MTU size",
+    "frecency": 4462,
+    "url_hash": 22210080153030,
+    "last_visit_date": 1758203927338200
+  }
+}

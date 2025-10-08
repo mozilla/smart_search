@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "How to Grow Watermelon - article about growing watermelons",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about growing watermelons and not related to starting a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "How to Grow Watermelon \"How to Grow Watermelon Watermelon is a favorite summer treat. Mouth watering and thirst quenching, watermelons are perfect for hot summer days, parties, picnics, and much more. Don't forget to have a pit spitting contest when you serve watermelon....outdoors, please. Laugh if you will, \"\"Pit Spitti",
+  "history": {
+    "url": "http://www.gardenersnet.com/vegetable/watermel.htm",
+    "title": "How to Grow Watermelon",
+    "description": "\"How to Grow Watermelon Watermelon is a favorite summer treat. Mouth watering and thirst quenching, watermelons are perfect for hot summer days, parties, picnics, and much more. Don't forget to have a pit spitting contest when you serve watermelon....outdoors, please. Laugh if you will, \"\"Pit Spitti",
+    "frecency": 3558,
+    "url_hash": 84618873436902,
+    "last_visit_date": 1758203927164735
+  }
+}

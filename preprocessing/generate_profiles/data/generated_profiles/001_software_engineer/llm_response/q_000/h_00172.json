@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Susan Ross \"Susan Biddle Ross Gender Female Family Father: Henry Ross Mother: Mrs. Ross Brother: Ricky Cousin: Vinnie Unnamed Grandmother Unnamed Grandfather Aunt: Sarah First Appearance \"\" The Pitch \"\"Last Appearance \"\" The Betrayal \"\"Former Occupations Executive at NBCPortrayed By Heidi Swedberg [Source]Susa",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a fictional character and does not relate to debugging or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Susan Ross \"Susan Biddle Ross Gender Female Family Father: Henry Ross Mother: Mrs. Ross Brother: Ricky Cousin: Vinnie Unnamed Grandmother Unnamed Grandfather Aunt: Sarah First Appearance \"\" The Pitch \"\"Last Appearance \"\" The Betrayal \"\"Former Occupations Executive at NBCPortrayed By Heidi Swedberg [Source]Susa",
+  "history": {
+    "url": "http://seinfeld.wikia.com/wiki/Susan_Ross",
+    "title": "Susan Ross",
+    "description": "\"Susan Biddle Ross Gender Female Family Father: Henry Ross Mother: Mrs. Ross Brother: Ricky Cousin: Vinnie Unnamed Grandmother Unnamed Grandfather Aunt: Sarah First Appearance \"\" The Pitch \"\"Last Appearance \"\" The Betrayal \"\"Former Occupations Executive at NBCPortrayed By Heidi Swedberg [Source]Susa",
+    "frecency": 4409,
+    "url_hash": 53818647808490,
+    "last_visit_date": 1758203926992200
+  }
+}

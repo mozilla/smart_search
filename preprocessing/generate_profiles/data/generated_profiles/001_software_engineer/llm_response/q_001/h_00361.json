@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Formatting Text in Silverlight XAML using StringFormat: In my latest two tips, we have seen that we can customize the string using Run, Span tags as well as String Format in the XAML page. What about if I want to format it for proper Date Time, Currency or Numeric style? As I told you in my last post, we can achieve the same using the String Format para",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Silverlight XAML formatting using StringFormat, which is unrelated to Python libraries for machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Formatting Text in Silverlight XAML using StringFormat \"In my latest two tips, we have seen that we can customize the string using Run, Span tags as well as String Format in the XAML page. What about if I want to format it for proper Date Time, Currency or Numeric style? As I told you in my last post, we can achieve the same using the String Format para",
+  "history": {
+    "url": "http://www.codeproject.com/Articles/195436/Formatting-text-in-Silverlight-XAML-using-StringFo",
+    "title": "Formatting Text in Silverlight XAML using StringFormat",
+    "description": "\"In my latest two tips, we have seen that we can customize the string using Run, Span tags as well as String Format in the XAML page. What about if I want to format it for proper Date Time, Currency or Numeric style? As I told you in my last post, we can achieve the same using the String Format para",
+    "frecency": 3762,
+    "url_hash": 27347888541404,
+    "last_visit_date": 1758203928080200
+  }
+}

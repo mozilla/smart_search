@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Free Online Literature Courses Free Online Literature Courses6k SHARESAdvertisement Get free Literature courses online from the world's leading universities. You can download these audio & video courses straight to your computer or mp3 player. For more online courses, visit our complete collection, 1,300 Free Online Courses from",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses free online literature courses; it has no relation to debugging APIs or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Free Online Literature Courses Free Online Literature Courses6k SHARESAdvertisement Get free Literature courses online from the world's leading universities. You can download these audio & video courses straight to your computer or mp3 player. For more online courses, visit our complete collection, 1,300 Free Online Courses from",
+  "history": {
+    "url": "http://www.openculture.com/literature_free_courses",
+    "title": "Free Online Literature Courses",
+    "description": "Free Online Literature Courses6k SHARESAdvertisement Get free Literature courses online from the world's leading universities. You can download these audio & video courses straight to your computer or mp3 player. For more online courses, visit our complete collection, 1,300 Free Online Courses from ",
+    "frecency": 480,
+    "url_hash": 97839318731093,
+    "last_visit_date": 1758203930518111
+  }
+}

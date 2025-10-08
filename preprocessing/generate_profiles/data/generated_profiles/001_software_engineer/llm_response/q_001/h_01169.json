@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "WiFi: Why, Yes! Wi Fi: Why, Yes!We\u2019ve added free onboard Wi Fi to a lot of our trains, including the Acela Express, Amtrak Cascades and eight (8!) Midwest corridors. You can check if your favorite train or nearest station has Wi Fi here. If you\u2019re reading this while on one of our trains, wait before setting off to",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses train WiFi and is unrelated to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "WiFi: Why, Yes! Wi Fi: Why, Yes!We\u2019ve added free onboard Wi Fi to a lot of our trains, including the Acela Express, Amtrak Cascades and eight (8!) Midwest corridors. You can check if your favorite train or nearest station has Wi Fi here. If you\u2019re reading this while on one of our trains, wait before setting off to",
+  "history": {
+    "url": "http://blog.amtrak.com/2013/03/wifi-why-yes/",
+    "title": "WiFi: Why, Yes!",
+    "description": "Wi Fi: Why, Yes!We\u2019ve added free onboard Wi Fi to a lot of our trains, including the Acela Express, Amtrak Cascades and eight (8!) Midwest corridors. You can check if your favorite train or nearest station has Wi Fi here. If you\u2019re reading this while on one of our trains, wait before setting off to ",
+    "frecency": 874,
+    "url_hash": 64084392094807,
+    "last_visit_date": 1758203927592200
+  }
+}

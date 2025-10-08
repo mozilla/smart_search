@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Chocolate Fudge Sundae Food database and calorie counter Source: Member Burger King Chocolate Fudge Sundae Nutrition Facts Serving Size: 1 serving (141g)Amount Per Serving Calories from Fat 63Calories 280% Daily Values*Total Fat 7g 11 %Saturated Fat 5g 25 %Cholesterol 15mg 5 %Sodium -Total Carbohydrate 50g 17 %Dietary Fib",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a nutrition facts page about a chocolate fudge sundae, not related to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Chocolate Fudge Sundae Food database and calorie counter Source: Member Burger King Chocolate Fudge Sundae Nutrition Facts Serving Size: 1 serving (141g)Amount Per Serving Calories from Fat 63Calories 280% Daily Values*Total Fat 7g 11 %Saturated Fat 5g 25 %Cholesterol 15mg 5 %Sodium -Total Carbohydrate 50g 17 %Dietary Fib",
+  "history": {
+    "url": "https://www.fatsecret.com/calories-nutrition/burger-king/chocolate-fudge-sundae",
+    "title": "Chocolate Fudge Sundae",
+    "description": "Food database and calorie counter Source: Member Burger King Chocolate Fudge Sundae Nutrition Facts Serving Size: 1 serving (141g)Amount Per Serving Calories from Fat 63Calories 280% Daily Values*Total Fat 7g 11 %Saturated Fat 5g 25 %Cholesterol 15mg 5 %Sodium -Total Carbohydrate 50g 17 %Dietary Fib",
+    "frecency": 2461,
+    "url_hash": 4798179889196,
+    "last_visit_date": 1758203928317139
+  }
+}

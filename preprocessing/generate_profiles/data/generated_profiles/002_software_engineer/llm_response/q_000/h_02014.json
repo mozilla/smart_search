@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Genome: Macaca fascicularis Cynomolgus Macaque Category Primates Taxonomy Mammal Scientific Name Macaca fascicularis Common Name Cynomolgus Macaque Biology Cynomolgus macaques ( Macaca fascicularis) are a critically important nonhuman primate in biomedical research, used in large numbers by investigators in pharmacology, breas",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses macaque primates, not API integration or debugging, so it is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Genome: Macaca fascicularis Cynomolgus Macaque Category Primates Taxonomy Mammal Scientific Name Macaca fascicularis Common Name Cynomolgus Macaque Biology Cynomolgus macaques ( Macaca fascicularis) are a critically important nonhuman primate in biomedical research, used in large numbers by investigators in pharmacology, breas",
+  "history": {
+    "url": "http://genome.wustl.edu/genomes/detail/macaca-fascicularis/",
+    "title": "Genome: Macaca fascicularis",
+    "description": "Cynomolgus Macaque Category Primates Taxonomy Mammal Scientific Name Macaca fascicularis Common Name Cynomolgus Macaque Biology Cynomolgus macaques ( Macaca fascicularis) are a critically important nonhuman primate in biomedical research, used in large numbers by investigators in pharmacology, breas",
+    "frecency": 1340,
+    "url_hash": 55968731722973,
+    "last_visit_date": 1758203928232111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "How to Become a Tattoo Artist \"Edit Article How to Become a Tattoo Artist Tattooing is an ancient art and does not require formal education. Rather, tattoo artists must demonstrate their abilities through their artistic talent, their commitment to the craft, and their experience as a certified apprentice. Read this article to le",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page is about becoming a tattoo artist and has no relevance to debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "How to Become a Tattoo Artist \"Edit Article How to Become a Tattoo Artist Tattooing is an ancient art and does not require formal education. Rather, tattoo artists must demonstrate their abilities through their artistic talent, their commitment to the craft, and their experience as a certified apprentice. Read this article to le",
+  "history": {
+    "url": "http://www.wikihow.com/Become-a-Tattoo-Artist",
+    "title": "How to Become a Tattoo Artist",
+    "description": "\"Edit Article How to Become a Tattoo Artist Tattooing is an ancient art and does not require formal education. Rather, tattoo artists must demonstrate their abilities through their artistic talent, their commitment to the craft, and their experience as a certified apprentice. Read this article to le",
+    "frecency": 888,
+    "url_hash": 33905642607006,
+    "last_visit_date": 1758203931524111
+  }
+}

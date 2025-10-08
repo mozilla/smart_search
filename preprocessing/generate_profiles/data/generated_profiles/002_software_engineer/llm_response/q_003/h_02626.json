@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Router Configuration for FTP \"Router Configuration for FTPThis page describes step by step, what to be aware of when setting up FTP where routers/firewalls are involved. If you are looking for a more theoretical explanation of the TCP activity in FTP, look here. It starts at the server, and works it's way out to the client. It\"",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The result discusses FTP router configuration and TCP activity, not database query optimization; it is not relevant to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Router Configuration for FTP \"Router Configuration for FTPThis page describes step by step, what to be aware of when setting up FTP where routers/firewalls are involved. If you are looking for a more theoretical explanation of the TCP activity in FTP, look here. It starts at the server, and works it's way out to the client. It",
+  "history": {
+    "url": "http://www.mdjnet.dk/router.html",
+    "title": "Router Configuration for FTP",
+    "description": "\"Router Configuration for FTPThis page describes step by step, what to be aware of when setting up FTP where routers/firewalls are involved. If you are looking for a more theoretical explanation of the TCP activity in FTP, look here. It starts at the server, and works it's way out to the client. It ",
+    "frecency": 203,
+    "url_hash": 66136826271444,
+    "last_visit_date": 1758203928420111
+  }
+}

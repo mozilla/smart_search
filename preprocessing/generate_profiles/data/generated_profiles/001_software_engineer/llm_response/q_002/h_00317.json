@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "11 Surprising Facts About Benjamin Franklin Print Cite Founding father Benjamin Franklin was born on January 17, 1706 in Boston. Along with serving as one of the architects of American independence, he was also a scientist, inventor, printer, writer, newspaper owner and philosopher who became a celebrity on both sides of the Atlantic. Check o",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Benjamin Franklin, a historical figure, and has no relation to IDEs or software development.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "11 Surprising Facts About Benjamin Franklin Print Cite Founding father Benjamin Franklin was born on January 17, 1706 in Boston. Along with serving as one of the architects of American independence, he was also a scientist, inventor, printer, writer, newspaper owner and philosopher who became a celebrity on both sides of the Atlantic. Check o",
+  "history": {
+    "url": "http://www.history.com/news/11-surprising-facts-about-benjamin-franklin",
+    "title": "11 Surprising Facts About Benjamin Franklin",
+    "description": "Print Cite Founding father Benjamin Franklin was born on January 17, 1706 in Boston. Along with serving as one of the architects of American independence, he was also a scientist, inventor, printer, writer, newspaper owner and philosopher who became a celebrity on both sides of the Atlantic. Check o",
+    "frecency": 3892,
+    "url_hash": 8077404312479,
+    "last_visit_date": 1758203929212200
+  }
+}

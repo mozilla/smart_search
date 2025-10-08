@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Hoover Dam Hoover Dam Built during the Great Depression, Hoover Dam was a marvel of engineering and labor.",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Hoover Dam, not any aspect of database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Hoover Dam Hoover Dam Built during the Great Depression, Hoover Dam was a marvel of engineering and labor.",
+  "history": {
+    "url": "http://www.history.com/topics/hoover-dam",
+    "title": "Hoover Dam",
+    "description": "Hoover Dam Built during the Great Depression, Hoover Dam was a marvel of engineering and labor. ",
+    "frecency": 2270,
+    "url_hash": 77903772612198,
+    "last_visit_date": 1758203928740111
+  }
+}

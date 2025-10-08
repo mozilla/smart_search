@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "ZyXEL US Support Document Zy XEL US Support Document Search Support Document Website by:1 | 2 | 3 | 4 Next SD-10237: How do I connect the NBG-416N with my Cable Modem so I can get on-line? Synopsis: When you first set up a new wireless router with a cable modem, some steps must be followed so that the cable modem will connec",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses configuring a ZyXEL router with a cable modem, not Docker or beginner Docker setup; thus not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "ZyXEL US Support Document Zy XEL US Support Document Search Support Document Website by:1 | 2 | 3 | 4 Next SD-10237: How do I connect the NBG-416N with my Cable Modem so I can get on-line? Synopsis: When you first set up a new wireless router with a cable modem, some steps must be followed so that the cable modem will connec",
+  "history": {
+    "url": "http://faq.us.zyxel.com/Support/Faq.aspx",
+    "title": "ZyXEL US Support Document",
+    "description": "Zy XEL US Support Document Search Support Document Website by:1 | 2 | 3 | 4 Next SD-10237: How do I connect the NBG-416N with my Cable Modem so I can get on-line? Synopsis: When you first set up a new wireless router with a cable modem, some steps must be followed so that the cable modem will connec",
+    "frecency": 4368,
+    "url_hash": 10103477817123,
+    "last_visit_date": 1758203927388111
+  }
+}

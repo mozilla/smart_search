@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Irrelevant result about horror movie villains; unrelated to apps or study habits.",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses horror movie villains and contains no content about study apps or study habit improvement; it is not relevant.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Which horror movie villain killed the most people? \"Ma2941 400 Contributions Which horror movie villain killed the most people? ANSWER . that has to be \"\"leatherface\"\" it was 52 massacre`s in all, and two survivors and one of them shot herself! . ANSWER . That would be Friday the 13th's Jason Voorhe \u2026Chharrise 87 Contributions Is John carpenter's Ha",
+  "history": {
+    "url": "http://www.answers.com/Q/Who_is_the_villain_of_the_Halloween_horror_movies",
+    "title": "Which horror movie villain killed the most people?",
+    "description": "\"Ma2941 400 Contributions Which horror movie villain killed the most people? ANSWER . that has to be \"\"leatherface\"\" it was 52 massacre`s in all, and two survivors and one of them shot herself! . ANSWER . That would be Friday the 13th's Jason Voorhe \u2026Chharrise 87 Contributions Is John carpenter's Ha",
+    "frecency": 802,
+    "url_hash": 39624496702171,
+    "last_visit_date": 1758203927972735
+  }
+}

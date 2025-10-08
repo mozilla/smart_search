@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Product Activation \"Product Activation Definition - What does Product Activationmean? Product activation is the act of verifying protected electronic data and involves the required activation by the consumer shortly or directly after purchasing the software or service. Activation verifies licensure and protects the co",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses product activation and licensing, not database query optimization; it does not address optimization techniques for database queries.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Product Activation \"Product Activation Definition - What does Product Activationmean? Product activation is the act of verifying protected electronic data and involves the required activation by the consumer shortly or directly after purchasing the software or service. Activation verifies licensure and protects the co",
+  "history": {
+    "url": "https://www.techopedia.com/definition/4065/product-activation",
+    "title": "Product Activation",
+    "description": "\"Product Activation Definition - What does Product Activationmean? Product activation is the act of verifying protected electronic data and involves the required activation by the consumer shortly or directly after purchasing the software or service. Activation verifies licensure and protects the co",
+    "frecency": 767,
+    "url_hash": 72732353247875,
+    "last_visit_date": 1758203927606200
+  }
+}

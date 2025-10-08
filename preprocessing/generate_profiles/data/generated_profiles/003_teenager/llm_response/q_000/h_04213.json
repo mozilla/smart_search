@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Average Temperatures for Oregon in September Average temperatures for September at cities, towns, parks and lakes throughout Oregon are listed below in degrees Fahrenheit and Celsius. The tables give the normals for maximum and minimum temperatures based on weather data collected from 1981 to 2010 by the US National Climatic Data Center. You c",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns weather data (temperatures in Oregon) and does not pertain to starting or creating a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Average Temperatures for Oregon in September Average temperatures for September at cities, towns, parks and lakes throughout Oregon are listed below in degrees Fahrenheit and Celsius. The tables give the normals for maximum and minimum temperatures based on weather data collected from 1981 to 2010 by the US National Climatic Data Center. You c",
+  "history": {
+    "url": "http://www.currentresults.com/Weather/Oregon/temperature-september.php",
+    "title": "Average Temperatures for Oregon in September",
+    "description": "Average temperatures for September at cities, towns, parks and lakes throughout Oregon are listed below in degrees Fahrenheit and Celsius. The tables give the normals for maximum and minimum temperatures based on weather data collected from 1981 to 2010 by the US National Climatic Data Center. You c",
+    "frecency": 631,
+    "url_hash": 38118565057283,
+    "last_visit_date": 1758203934627228
+  }
+}

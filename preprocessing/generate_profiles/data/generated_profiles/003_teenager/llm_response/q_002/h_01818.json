@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "List of The Tudors characters \"List of The Tudors characters From Wikipedia, the free encyclopedia (Redirected from Jane Seymour (The Tudors))navigation search The following is a list of character from the Showtime television series The Tudors. Contents [ hide ]1 Characters2 Recurring3 Notes4 See also5 External links Characters",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about The Tudors characters, not DIY room decoration ideas; it is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "List of The Tudors characters \"List of The Tudors characters From Wikipedia, the free encyclopedia (Redirected from Jane Seymour (The Tudors))navigation search The following is a list of character from the Showtime television series The Tudors. Contents [ hide ]1 Characters2 Recurring3 Notes4 See also5 External links Characters",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Jane_Seymour_(The_Tudors)",
+    "title": "List of The Tudors characters",
+    "description": "\"List of The Tudors characters From Wikipedia, the free encyclopedia (Redirected from Jane Seymour (The Tudors))navigation search The following is a list of character from the Showtime television series The Tudors. Contents [ hide ]1 Characters2 Recurring3 Notes4 See also5 External links Characters ",
+    "frecency": 3150,
+    "url_hash": 34518062366118,
+    "last_visit_date": 1758203934561228
+  }
+}

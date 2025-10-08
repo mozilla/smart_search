@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "How do I issue a full or partial refund? Personal Business You can issue a full or partial refund up to 180 days after you receive a payment as long as its status is \"Completed,\" \"Pending,\" or \"Cleared.\" Here's how to refund a payment: Click Activity near the top of the page. Click the payment",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses refunds/payments, unrelated to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "How do I issue a full or partial refund? \"How do I issue a full or partial refund? Personal Business You can issue a full or partial refund up to 180 days after you receive a payment as long as its status is \"\"Completed,\"\" \"\"Pending,\"\" or \"\"Cleared. \"\"Here's how to refund a payment: Click Activity near the top of the page. Click the paymen",
+  "history": {
+    "url": "https://www.paypal.com/us/selfhelp/article/How-do-I-issue-a-full-or-partial-refund-FAQ780",
+    "title": "How do I issue a full or partial refund?",
+    "description": "\"How do I issue a full or partial refund? Personal Business You can issue a full or partial refund up to 180 days after you receive a payment as long as its status is \"\"Completed,\"\" \"\"Pending,\"\" or \"\"Cleared. \"\"Here's how to refund a payment: Click Activity near the top of the page. Click the paymen",
+    "frecency": 1117,
+    "url_hash": 66962912269309,
+    "last_visit_date": 1758203931011228
+  }
+}

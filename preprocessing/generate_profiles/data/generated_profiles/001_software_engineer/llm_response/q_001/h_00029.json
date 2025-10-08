@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Oracle Identity Manager Connector Downloads Oracle Identity Manager Connector Downloads You must accept the OTN License Agreement to download this software. Accept License Agreement | Decline License Agreement Learn More\u00b7 Oracle Identity Manager\u00b7 Oracle Identity Manager Connector Documentation\u00b7 Oracle Identity Manager Connector Certification",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes Oracle Identity Manager connectors and documentation, not Python libraries or machine learning topics; therefore it is not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Oracle Identity Manager Connector Downloads Oracle Identity Manager Connector Downloads You must accept the OTN License Agreement to download this software. Accept License Agreement | Decline License Agreement Learn More\u00b7 Oracle Identity Manager\u00b7 Oracle Identity Manager Connector Documentation\u00b7 Oracle Identity Manager Connector Certification",
+  "history": {
+    "url": "http://www.oracle.com/technetwork/middleware/id-mgmt/downloads/connectors-101674.html",
+    "title": "Oracle Identity Manager Connector Downloads",
+    "description": "Oracle Identity Manager Connector Downloads You must accept the OTN License Agreement to download this software. Accept License Agreement | Decline License Agreement Learn More\u00b7 Oracle Identity Manager\u00b7 Oracle Identity Manager Connector Documentation\u00b7 Oracle Identity Manager Connector Certification ",
+    "frecency": 4895,
+    "url_hash": 18659693693650,
+    "last_visit_date": 1758203927054200
+  }
+}

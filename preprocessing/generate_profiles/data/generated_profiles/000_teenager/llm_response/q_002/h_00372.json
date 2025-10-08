@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Alcohol and Depression Some students who struggle with depression may turn to alcohol for relief. But drinking is deceptive at first, your mood seems to improve, and you think you\u2019re starting to feel better. However, alcohol can trigger and worsen depression symptoms and lead to permanent devastating consequences. Here\u2019s",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses alcohol and depression, not DIY room decoration ideas; it is unrelated to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Alcohol and Depression Some students who struggle with depression may turn to alcohol for relief. But drinking is deceptive at first, your mood seems to improve, and you think you\u2019re starting to feel better. However, alcohol can trigger and worsen depression symptoms and lead to permanent devastating consequences. Here\u2019s",
+  "history": {
+    "url": "http://www.ulifeline.org/articles/460-alcohol-and-depression",
+    "title": "Alcohol and Depression",
+    "description": "Some students who struggle with depression may turn to alcohol for relief. But drinking is deceptive at first, your mood seems to improve, and you think you\u2019re starting to feel better. However, alcohol can trigger and worsen depression symptoms and lead to permanent devastating consequences. Here\u2019s ",
+    "frecency": 3426,
+    "url_hash": 84953760040980,
+    "last_visit_date": 1758203927459139
+  }
+}

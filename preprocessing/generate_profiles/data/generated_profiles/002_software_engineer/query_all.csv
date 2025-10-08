@@ -1,0 +1,6 @@
+search_query,url,relevance_score,binary_decision,combined_text_for_llm
+how to debug API integration,http://archive.oreilly.com/pub/post/unraveling_the_mystery_of_soap.html,0.3,0,q_000/h_00942.json
+latest Python libraries for machine learning,http://www.statistics.com/programming-for-data-science,0.2,0,q_001/h_01284.json
+top IDEs for software development,https://imagine.microsoft.com/en-us/account,0.2,0,q_002/h_00257.json
+how to optimize database queries,https://docs.microsoft.com/en-us/sql/relational-databases/views/create-indexed-views,0.85,1,q_003/h_02379.json
+Docker setup for beginners,https://blogs.uw.edu/hcde/2015/03/04/lynda-com-access-with-spl-library-card/,0.15,0,q_004/h_01790.json

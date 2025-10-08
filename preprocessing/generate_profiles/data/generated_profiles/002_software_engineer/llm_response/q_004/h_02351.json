@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Cartier Cartier Established 1847As retailers to aristocracy and royalty, Cartier has garnered a reputation as high-end purveyors of jewellery and luxury goods. No longer the exclusive reserve of the social elite, Cartier has become known as a watch brand with a rich history, that includes the invention of t",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns Cartier jewelry and luxury goods, not Docker or computing; it is not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Cartier Cartier Established 1847As retailers to aristocracy and royalty, Cartier has garnered a reputation as high-end purveyors of jewellery and luxury goods. No longer the exclusive reserve of the social elite, Cartier has become known as a watch brand with a rich history, that includes the invention of t",
+  "history": {
+    "url": "http://www.watchfinder.co.uk/Cartier/Watches",
+    "title": "Cartier",
+    "description": "Cartier Established 1847As retailers to aristocracy and royalty, Cartier has garnered a reputation as high-end purveyors of jewellery and luxury goods. No longer the exclusive reserve of the social elite, Cartier has become known as a watch brand with a rich history, that includes the invention of t",
+    "frecency": 771,
+    "url_hash": 58810351102689,
+    "last_visit_date": 1758203929318111
+  }
+}

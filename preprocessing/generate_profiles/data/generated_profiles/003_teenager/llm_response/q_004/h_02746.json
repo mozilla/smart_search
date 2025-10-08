@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Favourite Superhero and why?? \\\"magpiemaggie Follow Forum Posts: 8 Wiki Points: 0Followed by: 0 Reviews: 0 Lists: 0#1 Edited by magpiemaggie (8 posts) - 4 years, 6 months ago - Show Bio Still go back to the classic Superman....childhood memories!! !The_Centurion Follow Forum Posts: 2 Wiki Points: 0Followed by: 0 Reviews: 0 Lists:\\n\\n# Evaluation \\nBased on your reasoning, determine a relevance score between 0 and 1 (where 0 is not relevant, and 1 is highly relevant). Then, based on this score, assign a binary rating of 0 = not relevant or 1 = relevant. \\n\\n# Output format as a Dictionary\\n search_query: <search query>,\\n retrieved_result: <retrieved result>,\\n relevance_score: <score>,\\n binary_decision: 0 or 1,\\n Decision_Reason: <reason for decision>",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses favourite superheroes and does not address strategies to improve athletic performance or sports skills.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Favourite Superhero and why?? \"magpiemaggie Follow Forum Posts: 8 Wiki Points: 0Followed by: 0 Reviews: 0 Lists: 0#1 Edited by magpiemaggie (8 posts) - 4 years, 6 months ago - Show Bio Still go back to the classic Superman....childhood memories!! !The_Centurion Follow Forum Posts: 2 Wiki Points: 0Followed by: 0 Reviews: 0 Lists:",
+  "history": {
+    "url": "https://comicvine.gamespot.com/forums/gen-discussion-1/favourite-superhero-and-why-1501305/",
+    "title": "Favourite Superhero and why??",
+    "description": "\"magpiemaggie Follow Forum Posts: 8 Wiki Points: 0Followed by: 0 Reviews: 0 Lists: 0#1 Edited by magpiemaggie (8 posts) - 4 years, 6 months ago - Show Bio Still go back to the classic Superman....childhood memories!! !The_Centurion Follow Forum Posts: 2 Wiki Points: 0Followed by: 0 Reviews: 0 Lists:",
+    "frecency": 2137,
+    "url_hash": 69700004819145,
+    "last_visit_date": 1758203927374735
+  }
+}

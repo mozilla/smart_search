@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Buck Taylor \"Buck Taylor From Wikipedia, the free encyclopedianavigation search Buck Taylor Taylor at the 2011 Dallas International Film Festival Born Walter Clarence Taylor, III May 13, 1938 (age 79)Hollywood, Los Angeles California, U. S. Residence Near Fort Worth, Texas Occupation Actor, artist Years active",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a biography of Buck Taylor, an actor, and does not relate to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Buck Taylor \"Buck Taylor From Wikipedia, the free encyclopedianavigation search Buck Taylor Taylor at the 2011 Dallas International Film Festival Born Walter Clarence Taylor, III May 13, 1938 (age 79)Hollywood, Los Angeles California, U. S. Residence Near Fort Worth, Texas Occupation Actor, artist Years active",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Buck_Taylor",
+    "title": "Buck Taylor",
+    "description": "\"Buck Taylor From Wikipedia, the free encyclopedianavigation search Buck Taylor Taylor at the 2011 Dallas International Film Festival Born Walter Clarence Taylor, III May 13, 1938 (age 79)Hollywood, Los Angeles California, U. S. Residence Near Fort Worth, Texas Occupation Actor, artist Years active ",
+    "frecency": 1282,
+    "url_hash": 51946168444027,
+    "last_visit_date": 1758203929358200
+  }
+}

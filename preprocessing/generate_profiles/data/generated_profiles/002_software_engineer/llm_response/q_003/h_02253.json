@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "About DSAC About DSACThe Domestic Security Alliance Council (DSAC) is a strategic partnership between the U. S. government and the U. S. private industry that enhances communication and promotes the timely and effective exchange of security and intelligence information between the federal government and the pr",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The page content discusses DSAC (Domestic Security Alliance Council) and security information, not database query optimization. It has no relevance to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "About DSAC About DSACThe Domestic Security Alliance Council (DSAC) is a strategic partnership between the U. S. government and the U. S. private industry that enhances communication and promotes the timely and effective exchange of security and intelligence information between the federal government and the pr",
+  "history": {
+    "url": "https://www.dsac.gov/about",
+    "title": "About DSAC",
+    "description": "About DSACThe Domestic Security Alliance Council (DSAC) is a strategic partnership between the U. S. government and the U. S. private industry that enhances communication and promotes the timely and effective exchange of security and intelligence information between the federal government and the pr",
+    "frecency": 925,
+    "url_hash": 83956957280964,
+    "last_visit_date": 1758203932042111
+  }
+}

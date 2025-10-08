@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Exchange 2010 Send limits \\\"Exchange 2010 Send limits Previous Versions of Exchange > Exchange Server 2010Question0Sign in to vote Here's my story: I've got Exchange 2010 (running on SBS 2011, if it's relevant). The other day one of my users somehow managed to attach a 2 GB (not a typo-- 2 GIGABYTES) video file to an e-mail a",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Exchange 2010 email send limits, not database queries or optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Exchange 2010 Send limits \"Exchange 2010 Send limits Previous Versions of Exchange > Exchange Server 2010Question0Sign in to vote Here's my story: I've got Exchange 2010 (running on SBS 2011, if it's relevant). The other day one of my users somehow managed to attach a 2 GB (not a typo-- 2 GIGABYTES) video file to an e-mail a",
+  "history": {
+    "url": "https://social.technet.microsoft.com/Forums/exchange/en-US/7f3761b8-1913-4fbd-9f5f-ef72037352d2/exchange-2010-send-limits?forum=exchange2010",
+    "title": "Exchange 2010 Send limits",
+    "description": "\"Exchange 2010 Send limits Previous Versions of Exchange > Exchange Server 2010Question0Sign in to vote Here's my story: I've got Exchange 2010 (running on SBS 2011, if it's relevant). The other day one of my users somehow managed to attach a 2 GB (not a typo-- 2 GIGABYTES) video file to an e-mail a",
+    "frecency": 2357,
+    "url_hash": 11322550587995,
+    "last_visit_date": 1758203931642111
+  }
+}

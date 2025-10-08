@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Czech presidential election, 2003 \"Save The 2003 Czech presidential election took place in January and February 2003 to elect a new President of the Czech Republic. The Parliament of the Czech Republic failed to elect a candidate on the first 2 ballots on the 15 and 24 January. However on the third round of the third ballot on the 2",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about the Czech presidential election and not related to IDEs or software development; it does not address the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Czech presidential election, 2003 \"Save The 2003 Czech presidential election took place in January and February 2003 to elect a new President of the Czech Republic. The Parliament of the Czech Republic failed to elect a candidate on the first 2 ballots on the 15 and 24 January. However on the third round of the third ballot on the 2",
+  "history": {
+    "url": "https://www.revolvy.com/topic/Czech%20presidential%20election,%202003",
+    "title": "Czech presidential election, 2003",
+    "description": "\"Save The 2003 Czech presidential election took place in January and February 2003 to elect a new President of the Czech Republic. The Parliament of the Czech Republic failed to elect a candidate on the first 2 ballots on the 15 and 24 January. However on the third round of the third ballot on the 2",
+    "frecency": 1389,
+    "url_hash": 83969429289797,
+    "last_visit_date": 1758203927258200
+  }
+}

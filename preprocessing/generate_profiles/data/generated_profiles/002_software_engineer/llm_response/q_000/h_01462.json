@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Welcome to Moe's! \"Welcome to Moe's!From the second you walk into a Moe's, you'll notice there's something different. You actually feel welcomed. Ever since our employees at the first location in Atlanta, GA in the year 2000 shouted \\\"Welcome to Moe's!\\\" \\u2013 which probably scared the bejesus out of those first guests \\u2013",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page is about Moe's restaurant branding and does not contain any information about API debugging or integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Welcome to Moe's! \"Welcome to Moe's!From the second you walk into a Moe's, you'll notice there's something different. You actually feel welcomed. Ever since our employees at the first location in Atlanta, GA in the year 2000 shouted \"\"Welcome to Moe's!\"\" \u2013 which probably scared the bejesus out of those first guests \u2013",
+  "history": {
+    "url": "https://www.moes.com/about-moes/",
+    "title": "Welcome to Moe's!",
+    "description": "\"Welcome to Moe's!From the second you walk into a Moe's, you'll notice there's something different. You actually feel welcomed. Ever since our employees at the first location in Atlanta, GA in the year 2000 shouted \"\"Welcome to Moe's!\"\" \u2013 which probably scared the bejesus out of those first guests \u2013",
+    "frecency": 2352,
+    "url_hash": 96198162335398,
+    "last_visit_date": 1758203928868111
+  }
+}

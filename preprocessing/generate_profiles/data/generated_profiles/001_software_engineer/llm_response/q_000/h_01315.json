@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "What Does Bank Account Name mean? \"Answers.com \u00ae Wiki Answers \u00ae Categories Business & Finance Personal Finance Money Management Banking What Does Bank Account Name mean? Flag What Does Bank Account Name mean? Answered by The Wiki Answers \u00aeCommunity Answers.com \u00ae is making the world better one answer at a time. It is the name of the",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses the meaning of 'Bank Account Name' and is unrelated to debugging APIs or API integration, so it is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "What Does Bank Account Name mean? \"Answers.com \u00ae Wiki Answers \u00ae Categories Business & Finance Personal Finance Money Management Banking What Does Bank Account Name mean? Flag What Does Bank Account Name mean? Answered by The Wiki Answers \u00aeCommunity Answers.com \u00ae is making the world better one answer at a time. It is the name of the",
+  "history": {
+    "url": "http://www.answers.com/Q/What_Does_Bank_Account_Name_mean",
+    "title": "What Does Bank Account Name mean?",
+    "description": "\"Answers.com \u00ae Wiki Answers \u00ae Categories Business & Finance Personal Finance Money Management Banking What Does Bank Account Name mean? Flag What Does Bank Account Name mean? Answered by The Wiki Answers \u00aeCommunity Answers.com \u00ae is making the world better one answer at a time. It is the name of the ",
+    "frecency": 397,
+    "url_hash": 12626806514217,
+    "last_visit_date": 1758203928890200
+  }
+}

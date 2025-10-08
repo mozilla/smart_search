@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "THE BASICS \"Q: What is Mystery Science Theater 3000? A: It was a unique comedy television program. Q: Was? Isn't it still being shown on TV? A: No. The only way you can enjoy the series now is on home video and DVD. Q: What is its broadcast history? A: It first aired as a local program on KTMA-TV, a local UHF\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Mystery Science Theater 3000, not about improving sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "THE BASICS \"Q: What is Mystery Science Theater 3000? A: It was a unique comedy television program. Q: Was? Isn't it still being shown on TV? A: No. The only way you can enjoy the series now is on home video and DVD. Q: What is its broadcast history? A: It first aired as a local program on KTMA-TV, a local UHF",
+  "history": {
+    "url": "http://www.mst3kinfo.com/mstfaq/basics.html",
+    "title": "THE BASICS",
+    "description": "\"Q: What is Mystery Science Theater 3000? A: It was a unique comedy television program. Q: Was? Isn't it still being shown on TV? A: No. The only way you can enjoy the series now is on home video and DVD. Q: What is its broadcast history? A: It first aired as a local program on KTMA-TV, a local UHF ",
+    "frecency": 3643,
+    "url_hash": 13553392170647,
+    "last_visit_date": 1758203934133228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Apple unveils iPhone 6, iPhone 6 Plus, Apple Watch \"Last Updated Sep 9, 2014 8:26 PM EDTApple ( AAPL) on Tuesday introduced two new i Phones, its long-awaited Apple Watch and a mobile payment system as part of a marketing blitz aimed at drumming up consumer excitement. Now the question is whether the new gear will live up to the hype. Speaking from",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns consumer electronics news and product marketing rather than debugging APIs or API integration guidance.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Apple unveils iPhone 6, iPhone 6 Plus, Apple Watch \"Last Updated Sep 9, 2014 8:26 PM EDTApple ( AAPL) on Tuesday introduced two new i Phones, its long-awaited Apple Watch and a mobile payment system as part of a marketing blitz aimed at drumming up consumer excitement. Now the question is whether the new gear will live up to the hype. Speaking from",
+  "history": {
+    "url": "http://www.cbsnews.com/news/iphone-6-unveiled-at-apple-2014-event/",
+    "title": "Apple unveils iPhone 6, iPhone 6 Plus, Apple Watch",
+    "description": "\"Last Updated Sep 9, 2014 8:26 PM EDTApple ( AAPL) on Tuesday introduced two new i Phones, its long-awaited Apple Watch and a mobile payment system as part of a marketing blitz aimed at drumming up consumer excitement. Now the question is whether the new gear will live up to the hype. Speaking from ",
+    "frecency": 1196,
+    "url_hash": 71461574947502,
+    "last_visit_date": 1758203931578111
+  }
+}

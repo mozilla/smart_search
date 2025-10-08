@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Contact Hotel Travel.com \"Contact Hotel Travel.com If you would like to amend, cancel or check the status of your booking Hotel Travel.com is also available to assist you by telephone and live chat. While our English speaking Customer Service Agents are available to assist you 24 hours 7 days a week, please refer to the inf",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The result pertains to hotel booking customer service, not to debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Contact Hotel Travel.com \"Contact Hotel Travel.com If you would like to amend, cancel or check the status of your booking Hotel Travel.com is also available to assist you by telephone and live chat. While our English speaking Customer Service Agents are available to assist you 24 hours 7 days a week, please refer to the inf",
+  "history": {
+    "url": "http://www.hoteltravel.com/japan/guides/overview.htm",
+    "title": "Contact Hotel Travel.com",
+    "description": "\"Contact Hotel Travel.com If you would like to amend, cancel or check the status of your booking Hotel Travel.com is also available to assist you by telephone and live chat. While our English speaking Customer Service Agents are available to assist you 24 hours 7 days a week, please refer to the inf",
+    "frecency": 3955,
+    "url_hash": 43334607042121,
+    "last_visit_date": 1758203928510200
+  }
+}

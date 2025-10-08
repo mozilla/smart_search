@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "(SP:) Franz Kafka\u00e2s personal life reflected in the Metamorphosis \\\"2018/04/12 - 17:53 (SP:) Franz Kafka\u2019s personal life reflected in the Metamorphosisby J. Stephens The Metamorphosis is said to be one of Franz Kafka\u2019s best works of literature. It shows the difficulties of living in a modern society and the struggle for acceptance of others when in a time of need.\\\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Franz Kafka and The Metamorphosis, not related to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "(SP:) Franz Kafka\u00e2s personal life reflected in the Metamorphosis \"2018/04/12 - 17:53 (SP:) Franz Kafka\u2019s personal life reflected in the Metamorphosisby J. Stephens The Metamorphosis is said to be one of Franz Kafka\u2019s best works of literature. It shows the difficulties of living in a modern society and the struggle for acceptance of others when in a time of need.",
+  "history": {
+    "url": "http://www.kafka.org/index.php?aid=218",
+    "title": " (SP:) Franz Kafka\u00e2s personal life reflected in the Metamorphosis",
+    "description": "\"2018/04/12 - 17:53 (SP:) Franz Kafka\u2019s personal life reflected in the Metamorphosisby J. Stephens The Metamorphosis is said to be one of Franz Kafka\u2019s best works of literature. It shows the difficulties of living in a modern society and the struggle for acceptance of others when in a time of need. ",
+    "frecency": 2898,
+    "url_hash": 64729710789537,
+    "last_visit_date": 1758203933967228
+  }
+}

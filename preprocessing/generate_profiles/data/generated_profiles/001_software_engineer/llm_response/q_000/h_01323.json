@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Unraveling the Mystery of SOAPAction \"Unraveling the Mystery of SOAPActionby Mark Baker The SOAPAction header in SOAP 1.1 has given many developers and implementors fits about understanding its purpose. I suggest that this is because of the two very different ways in which SOAP can be used, and that SOAPAction exists primarily to suppo",
+  "relevance_score": 0.25,
+  "binary_decision": 0,
+  "Decision_Reason": "The result discusses SOAPAction header concepts rather than providing guidance on debugging API integration; only tangential relevance.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Unraveling the Mystery of SOAPAction \"Unraveling the Mystery of SOAPActionby Mark Baker The SOAPAction header in SOAP 1.1 has given many developers and implementors fits about understanding its purpose. I suggest that this is because of the two very different ways in which SOAP can be used, and that SOAPAction exists primarily to suppo",
+  "history": {
+    "url": "http://archive.oreilly.com/pub/post/unraveling_the_mystery_of_soap.html",
+    "title": "Unraveling the Mystery of SOAPAction",
+    "description": "\"Unraveling the Mystery of SOAPActionby Mark Baker The SOAPAction header in SOAP 1.1 has given many developers and implementors fits about understanding its purpose. I suggest that this is because of the two very different ways in which SOAP can be used, and that SOAPAction exists primarily to suppo",
+    "frecency": 355,
+    "url_hash": 29281652361914,
+    "last_visit_date": 1758203927024200
+  }
+}

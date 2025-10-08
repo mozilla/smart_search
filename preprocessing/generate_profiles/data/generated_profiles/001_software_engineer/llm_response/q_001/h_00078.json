@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "HUMBLE POLICE DEPARTMENT WELCOME TO THE HUMBLE POLICE DEPARTMENTChief Delbert C. Dawes On behalf of the department, I am pleased to welcome you to our website. Humble Police Department is a department of 64 law enforcement officers, a civilian group of 22, and eight part-time staff. Our hiring standards are held high so as",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result appears to be a police department homepage; there is no content about Python libraries or machine learning, so it is not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "HUMBLE POLICE DEPARTMENT WELCOME TO THE HUMBLE POLICE DEPARTMENTChief Delbert C. Dawes On behalf of the department, I am pleased to welcome you to our website. Humble Police Department is a department of 64 law enforcement officers, a civilian group of 22, and eight part-time staff. Our hiring standards are held high so as",
+  "history": {
+    "url": "http://www.humblepolice.com/",
+    "title": "HUMBLE POLICE DEPARTMENT",
+    "description": "WELCOME TO THE HUMBLE POLICE DEPARTMENTChief Delbert C. Dawes On behalf of the department, I am pleased to welcome you to our website. Humble Police Department is a department of 64 law enforcement officers, a civilian group of 22, and eight part-time staff. Our hiring standards are held high so as ",
+    "frecency": 4707,
+    "url_hash": 32054719578773,
+    "last_visit_date": 1758203929364200
+  }
+}

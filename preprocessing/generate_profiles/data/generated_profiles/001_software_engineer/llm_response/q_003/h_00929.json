@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Jim Casey Youth Opportunities Initiative Jim Casey Youth Opportunities Initiative A national and state-based effort that believes every young person leaving foster care should have the family connections, opportunities and support needed for a successful transition to adulthood. In communities across the United States, thousands of young p",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes youth opportunities and foster care programs, not database query optimization; it's not relevant to the search query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Jim Casey Youth Opportunities Initiative Jim Casey Youth Opportunities Initiative A national and state-based effort that believes every young person leaving foster care should have the family connections, opportunities and support needed for a successful transition to adulthood. In communities across the United States, thousands of young p",
+  "history": {
+    "url": "http://www.jimcaseyyouth.org/foster-care-to-21",
+    "title": "Jim Casey Youth Opportunities Initiative",
+    "description": "Jim Casey Youth Opportunities Initiative A national and state-based effort that believes every young person leaving foster care should have the family connections, opportunities and support needed for a successful transition to adulthood. In communities across the United States, thousands of young p",
+    "frecency": 1764,
+    "url_hash": 16083454927647,
+    "last_visit_date": 1758203929474200
+  }
+}

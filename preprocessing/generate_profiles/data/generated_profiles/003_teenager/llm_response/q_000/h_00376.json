@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "'How To Get Away With Murder': TV Review",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The result is unrelated to starting a YouTube channel; it's a TV show review.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "'How To Get Away With Murder': TV Review \"'How To Get Away With Murder': TV Review An unanticipated problem was encountered, check back soon and try again Error Code: MEDIA_ERR_UNKNOWNSession ID: 2018-04-06:ccb27f699a9c810136d0cfed Player Element ID: video-js-3657944987001OK4:08 PM PDT 9/25/2014 by Tim Goodman FACEBOOK TWITTER EMAIL ME YOU",
+  "history": {
+    "url": "http://www.hollywoodreporter.com/review/how-get-away-murder-tv-735817",
+    "title": "'How To Get Away With Murder': TV Review",
+    "description": "\"'How To Get Away With Murder': TV Review An unanticipated problem was encountered, check back soon and try again Error Code: MEDIA_ERR_UNKNOWNSession ID: 2018-04-06:ccb27f699a9c810136d0cfed Player Element ID: video-js-3657944987001OK4:08 PM PDT 9/25/2014 by Tim Goodman FACEBOOK TWITTER EMAIL ME YOU",
+    "frecency": 4613,
+    "url_hash": 42155801253824,
+    "last_visit_date": 1758203932753228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Silicon dioxide \"Silicon dioxide Related subjects: Chemical compounds Background Information SOS Children has tried to make Wikipedia content more accessible by this schools selection. Before you decide about sponsoring a child, why not learn about different sponsorship charities first? Silicon dioxide Other names",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about silicon dioxide (a chemical compound) and unrelated to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Silicon dioxide \"Silicon dioxide Related subjects: Chemical compounds Background Information SOS Children has tried to make Wikipedia content more accessible by this schools selection. Before you decide about sponsoring a child, why not learn about different sponsorship charities first? Silicon dioxide Other names",
+  "history": {
+    "url": "http://schools-wikipedia.org/wp/s/Silicon_dioxide.htm",
+    "title": "Silicon dioxide",
+    "description": "\"Silicon dioxide Related subjects: Chemical compounds Background Information SOS Children has tried to make Wikipedia content more accessible by this schools selection. Before you decide about sponsoring a child, why not learn about different sponsorship charities first? Silicon dioxide Other names ",
+    "frecency": 2400,
+    "url_hash": 58688396570217,
+    "last_visit_date": 1758203931386111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "IMEI calculator The Check Digit is a function of all other digits in the IMEI. The purpose of the Check Digit is to help guard against the possibility of incorrect entries to the CEIR and EIR equipment. The check digit is validated in three steps:1. Starting from the right, double a digit every two digits (e.g., 5",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses IMEI check digit calculation, not debugging API integrations.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "IMEI calculator The Check Digit is a function of all other digits in the IMEI. The purpose of the Check Digit is to help guard against the possibility of incorrect entries to the CEIR and EIR equipment. The check digit is validated in three steps:1. Starting from the right, double a digit every two digits (e.g., 5",
+  "history": {
+    "url": "http://www.imei.info/calc",
+    "title": "IMEI calculator",
+    "description": "The Check Digit is a function of all other digits in the IMEI. The purpose of the Check Digit is to help guard against the possibility of incorrect entries to the CEIR and EIR equipment. The check digit is validated in three steps:1. Starting from the right, double a digit every two digits (e.g., 5 ",
+    "frecency": 605,
+    "url_hash": 58119155457582,
+    "last_visit_date": 1758203928800111
+  }
+}

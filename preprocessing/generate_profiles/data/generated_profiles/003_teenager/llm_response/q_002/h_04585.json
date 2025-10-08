@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Motown: The Musical vs. the Literary Like millions of native Detroiters who remember the city\u2019s glory years of Motown music, muscle cars, and the MC5, I was stung though hardly surprised by the recent news that my hometown has filed for the largest municipal bankruptcy in American history. After decades of relentless decline, the unthi",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Motown, Detroit bankruptcy, and literature, not any aspect of easy DIY room decoration ideas; thus not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Motown: The Musical vs. the Literary Like millions of native Detroiters who remember the city\u2019s glory years of Motown music, muscle cars, and the MC5, I was stung though hardly surprised by the recent news that my hometown has filed for the largest municipal bankruptcy in American history. After decades of relentless decline, the unthi",
+  "history": {
+    "url": "http://www.themillions.com/2013/07/motown-the-musical-vs-the-literary.html",
+    "title": "Motown: The Musical vs. the Literary",
+    "description": "Like millions of native Detroiters who remember the city\u2019s glory years of Motown music, muscle cars, and the MC5, I was stung though hardly surprised by the recent news that my hometown has filed for the largest municipal bankruptcy in American history. After decades of relentless decline, the unthi",
+    "frecency": 250,
+    "url_hash": 28536211550862,
+    "last_visit_date": 1758203928110735
+  }
+}

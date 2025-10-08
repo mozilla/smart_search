@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Powerful Technology - Workflow Control\u00e2\u00a2 \\\"Powerful Technology - Workflow Control\u2122Healthcare Control Systems builds software and mobile apps that transform the way healthcare organizations run. Our systems combine real-time, workflow control technologies with best practices used in manufacturing and transportation to better manage hospitals\\\"",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses healthcare workflow control systems, not Python libraries or machine learning, so it is not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Powerful Technology - Workflow Control\u00e2\u00a2 \"Powerful Technology - Workflow Control\u2122Healthcare Control Systems builds software and mobile apps that transform the way healthcare organizations run. Our systems combine real-time, workflow control technologies with best practices used in manufacturing and transportation to better manage hospitals",
+  "history": {
+    "url": "http://hcs.us.com/",
+    "title": "Powerful Technology - Workflow Control\u00e2\u00a2",
+    "description": "\"Powerful Technology - Workflow Control\u2122Healthcare Control Systems builds software and mobile apps that transform the way healthcare organizations run. Our systems combine real-time, workflow control technologies with best practices used in manufacturing and transportation to better manage hospitals",
+    "frecency": 426,
+    "url_hash": 5254942010510,
+    "last_visit_date": 1758203930858111
+  }
+}

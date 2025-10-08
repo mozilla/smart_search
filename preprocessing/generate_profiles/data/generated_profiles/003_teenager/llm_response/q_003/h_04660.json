@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "ELVIS PRESLEY lyrics - Surrender Elvis Presley - Surrender w/lyrics",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is Elvis Presley lyrics and not related to study apps or improving study habits; thus not relevant to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "ELVIS PRESLEY lyrics - Surrender Elvis Presley - Surrender w/lyrics",
+  "history": {
+    "url": "http://www.oldielyrics.com/lyrics/elvis_presley/surrender.html",
+    "title": "ELVIS PRESLEY lyrics - Surrender",
+    "description": "Elvis Presley - Surrender w/lyrics ",
+    "frecency": 168,
+    "url_hash": 54001199902637,
+    "last_visit_date": 1758203927116735
+  }
+}

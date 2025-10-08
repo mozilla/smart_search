@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Q: start up computer without password \\\"MA Mairi G asked on May 11, 2010Q: start up computer without passwordi have totally forgotten my user account's password and i am the only user so i can't start my computer at all. is it still at all possible to get onto my PC ever again? Reply I have the same question (180)K M JHA replied on May 1",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns booting a computer without a password, not Docker setup; not relevant to 'Docker setup for beginners'.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Q: start up computer without password \"MA Mairi G asked on May 11, 2010Q: start up computer without passwordi have totally forgotten my user account's password and i am the only user so i can't start my computer at all. is it still at all possible to get onto my PC ever again? Reply I have the same question (180)K M JHA replied on May 1",
+  "history": {
+    "url": "http://answers.microsoft.com/en-us/windows/forum/windows_xp-security/start-up-computer-without-password/2db3331f-1551-41d8-9474-ad91f178ddf8",
+    "title": "Q: start up computer without password",
+    "description": "\"MA Mairi G asked on May 11, 2010Q: start up computer without passwordi have totally forgotten my user account's password and i am the only user so i can't start my computer at all. is it still at all possible to get onto my PC ever again? Reply I have the same question (180)K M JHA replied on May 1",
+    "frecency": 2219,
+    "url_hash": 90458121327435,
+    "last_visit_date": 1758203927596111
+  }
+}

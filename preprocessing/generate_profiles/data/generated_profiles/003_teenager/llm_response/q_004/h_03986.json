@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Comedians in Cars Getting Coffee Comedians in Cars Getting Coffee On Netflix",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a TV show about comedians and cars, with no content related to improving sports performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Comedians in Cars Getting Coffee Comedians in Cars Getting Coffee On Netflix",
+  "history": {
+    "url": "http://comediansincarsgettingcoffee.com/",
+    "title": "Comedians in Cars Getting Coffee",
+    "description": "Comedians in Cars Getting Coffee On Netflix ",
+    "frecency": 862,
+    "url_hash": 87148215313060,
+    "last_visit_date": 1758203928600735
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Binary data \"From Wikipedia, the free encyclopedianavigation search This article does not cite any sources. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (June 2012) ( Learn how and when to remove this template message)Binary data is",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result appears to be binary data and Wikipedia template text, not about Python libraries or machine learning; it is not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Binary data \"From Wikipedia, the free encyclopedianavigation search This article does not cite any sources. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (June 2012) ( Learn how and when to remove this template message)Binary data is",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Binary_data",
+    "title": "Binary data",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search This article does not cite any sources. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (June 2012) ( Learn how and when to remove this template message)Binary data is ",
+    "frecency": 4701,
+    "url_hash": 46717433373345,
+    "last_visit_date": 1758203927138200
+  }
+}

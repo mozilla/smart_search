@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Eldon, MO Weather USA.com / Missouri / Eldon, MO / Weather Eldon, MO Weather Basic Info Population/Races Income/Careers Housing Education Crime/Crime Rate Others Weather | Natural Extremes | Air Quality | Environmental Watch | Government Hot Rankings Fastest / Slowest Growing Cities Nearby Best / Worst Cities by Crim",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a weather/demographics page for Eldon, MO and does not address database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Eldon, MO Weather USA.com / Missouri / Eldon, MO / Weather Eldon, MO Weather Basic Info Population/Races Income/Careers Housing Education Crime/Crime Rate Others Weather | Natural Extremes | Air Quality | Environmental Watch | Government Hot Rankings Fastest / Slowest Growing Cities Nearby Best / Worst Cities by Crim",
+  "history": {
+    "url": "http://www.usa.com/eldon-mo-weather.htm",
+    "title": "Eldon, MO Weather",
+    "description": "USA.com / Missouri / Eldon, MO / Weather Eldon, MO Weather Basic Info Population/Races Income/Careers Housing Education Crime/Crime Rate Others Weather | Natural Extremes | Air Quality | Environmental Watch | Government Hot Rankings Fastest / Slowest Growing Cities Nearby Best / Worst Cities by Crim",
+    "frecency": 1677,
+    "url_hash": 40374877469054,
+    "last_visit_date": 1758203930892111
+  }
+}

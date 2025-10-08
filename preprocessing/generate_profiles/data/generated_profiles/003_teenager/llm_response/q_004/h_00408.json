@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Disarm - metadata about a song (not related to sports) from Wikipedia: The Smashing Pumpkins - Disarm.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The result is a music article about a song, not related to improving sports performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Disarm \"Disarm From Wikipedia, the free encyclopedianavigation search For other uses, see Disarm (disambiguation). \"\"Disarm\"\"\"\"Heart\"\" cover Single by The Smashing Pumpkinsfrom the album Siamese Dream Released March 22, 1994Format Vinyl record (7\"\", 12\"\") and CDRecorded 1992Genre Alternative rock [1]Length",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Disarm",
+    "title": "Disarm",
+    "description": "\"Disarm From Wikipedia, the free encyclopedianavigation search For other uses, see Disarm (disambiguation). \"\"Disarm\"\"\"\"Heart\"\" cover Single by The Smashing Pumpkinsfrom the album Siamese Dream Released March 22, 1994Format Vinyl record (7\"\", 12\"\") and CDRecorded 1992Genre Alternative rock [1]Length",
+    "frecency": 4576,
+    "url_hash": 30955839557203,
+    "last_visit_date": 1758203928408735
+  }
+}

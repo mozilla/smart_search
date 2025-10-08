@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Cowboys & Aliens \"From Wikipedia, the free encyclopedia (Redirected from Cowboys and Aliens (film))navigation search This article is about the film. For other uses, see Cowboys and Aliens. Cowboys & Aliens Theatrical release poster Directed by Jon Favreau Produced by Brian Grazer Ron Howard Alex Kurtzman Roberto Orc",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a film article unrelated to starting a YouTube channel, so it is not relevant to the query.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Cowboys & Aliens \"From Wikipedia, the free encyclopedia (Redirected from Cowboys and Aliens (film))navigation search This article is about the film. For other uses, see Cowboys and Aliens. Cowboys & Aliens Theatrical release poster Directed by Jon Favreau Produced by Brian Grazer Ron Howard Alex Kurtzman Roberto Orc",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Cowboys_and_Aliens_(film)",
+    "title": "Cowboys & Aliens",
+    "description": "\"From Wikipedia, the free encyclopedia (Redirected from Cowboys and Aliens (film))navigation search This article is about the film. For other uses, see Cowboys and Aliens. Cowboys & Aliens Theatrical release poster Directed by Jon Favreau Produced by Brian Grazer Ron Howard Alex Kurtzman Roberto Orc",
+    "frecency": 4234,
+    "url_hash": 67983110744390,
+    "last_visit_date": 1758203927852735
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Hello! \"Hello!Lagoona bar and restaurant I. F. S. C Dublin is a modern and spacious pub, restaurant and venue located in the heart of Dublin's Financial Services Centre. This stylish and welcoming bar is the perfect venue for a quick lunch, leisurely afternoon pint or lively after work session. Since openi",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a pub/restaurant, not Python libraries or machine learning; it does not match the user query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Hello! \"Hello!Lagoona bar and restaurant I. F. S. C Dublin is a modern and spacious pub, restaurant and venue located in the heart of Dublin's Financial Services Centre. This stylish and welcoming bar is the perfect venue for a quick lunch, leisurely afternoon pint or lively after work session. Since openi",
+  "history": {
+    "url": "http://www.lagoona.ie/",
+    "title": "Hello!",
+    "description": "\"Hello!Lagoona bar and restaurant I. F. S. C Dublin is a modern and spacious pub, restaurant and venue located in the heart of Dublin's Financial Services Centre. This stylish and welcoming bar is the perfect venue for a quick lunch, leisurely afternoon pint or lively after work session. Since openi",
+    "frecency": 2274,
+    "url_hash": 14957185402209,
+    "last_visit_date": 1758203931946111
+  }
+}

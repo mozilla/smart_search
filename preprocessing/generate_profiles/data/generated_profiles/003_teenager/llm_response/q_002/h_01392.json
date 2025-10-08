@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Udon Thani, Thailand travel page with hotel and review listings (not related to DIY or room decoration).",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about travel/hotels in an unrelated location and not about easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Udon Thani, Thailand \"8,858 reviews and opinions Udon Thani, Thailand (malsol, Aug 2013)Hotels (58)3,891 Reviews Vacation Rentals (8)20 Reviews Flightsfrom $1,446Things to Do (45)1,838 Reviews Restaurants (141)2,956 Reviews Forum147 Posts Overview Places to Stay Location Things to Do Want to save up to 30% on your Udon",
+  "history": {
+    "url": "https://www.tripadvisor.com/Tourism-g297939-Udon_Thani_Udon_Thani_Province-Vacations.html",
+    "title": "Udon Thani, Thailand",
+    "description": "\"8,858 reviews and opinions Udon Thani, Thailand (malsol, Aug 2013)Hotels (58)3,891 Reviews Vacation Rentals (8)20 Reviews Flightsfrom $1,446Things to Do (45)1,838 Reviews Restaurants (141)2,956 Reviews Forum147 Posts Overview Places to Stay Location Things to Do Want to save up to 30% on your Udon ",
+    "frecency": 3579,
+    "url_hash": 4816123364625,
+    "last_visit_date": 1758203931467228
+  }
+}

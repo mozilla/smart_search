@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Comparison between Egyptian and Kibbutz farmers Comparison between Egyptian and Kibbutz farmers Criteria Egyptian Farmers Kibbutz Farmers Images Role in society - The luxurious life of the Pharaoh and the nobles was made possible by the continual labor of the peasant farmers, - The diminutive rich upper class ruled with the help of a small scriba",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses ancient Egypt and farming, not sports or ways to improve athletic performance; not relevant to the query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Comparison between Egyptian and Kibbutz farmers Comparison between Egyptian and Kibbutz farmers Criteria Egyptian Farmers Kibbutz Farmers Images Role in society - The luxurious life of the Pharaoh and the nobles was made possible by the continual labor of the peasant farmers, - The diminutive rich upper class ruled with the help of a small scriba",
+  "history": {
+    "url": "http://www.aldokkan.com/society/farmer.htm",
+    "title": "Comparison between Egyptian and Kibbutz farmers",
+    "description": "Comparison between Egyptian and Kibbutz farmers Criteria Egyptian Farmers Kibbutz Farmers Images Role in society - The luxurious life of the Pharaoh and the nobles was made possible by the continual labor of the peasant farmers, - The diminutive rich upper class ruled with the help of a small scriba",
+    "frecency": 1784,
+    "url_hash": 1588881878051,
+    "last_visit_date": 1758203929248735
+  }
+}

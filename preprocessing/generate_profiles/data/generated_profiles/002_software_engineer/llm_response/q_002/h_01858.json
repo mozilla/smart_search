@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Campus Locations Campus Locations About Campus Locations Here in the beautiful city of North Bay, just 180 minutes north of Toronto, you\u2019ll discover three easily accessible campuses - the Aviation Campus, Commerce Court and the Education Centre, which is situated on a stunning 650-acre wooded escarpment overlooking",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page discusses campus locations and facilities, not integrated development environments or software development tools; it is not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Campus Locations Campus Locations About Campus Locations Here in the beautiful city of North Bay, just 180 minutes north of Toronto, you\u2019ll discover three easily accessible campuses - the Aviation Campus, Commerce Court and the Education Centre, which is situated on a stunning 650-acre wooded escarpment overlooking",
+  "history": {
+    "url": "http://www.canadorecollege.ca/about-us/campus-locations",
+    "title": "Campus Locations",
+    "description": "Campus Locations About Campus Locations Here in the beautiful city of North Bay, just 180 minutes north of Toronto, you\u2019ll discover three easily accessible campuses - the Aviation Campus, Commerce Court and the Education Centre, which is situated on a stunning 650-acre wooded escarpment overlooking ",
+    "frecency": 1606,
+    "url_hash": 40331387634475,
+    "last_visit_date": 1758203932264111
+  }
+}

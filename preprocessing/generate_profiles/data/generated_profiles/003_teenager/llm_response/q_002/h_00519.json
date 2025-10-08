@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Emilia Clarke \"From Wikipedia, the free encyclopedianavigation search Emilia Clarke Emilia Clarke speaking in 2013 at San Diego Comic-Con, for Game of Thrones Born Emilia Isabelle Euphemia Rose Clarke 23 October 1986 (age 31)London, United Kingdom Residence Hampstead, London, England, UK Venice Beach, California,",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Emilia Clarke, an actress, and does not relate to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Emilia Clarke \"From Wikipedia, the free encyclopedianavigation search Emilia Clarke Emilia Clarke speaking in 2013 at San Diego Comic-Con, for Game of Thrones Born Emilia Isabelle Euphemia Rose Clarke 23 October 1986 (age 31)London, United Kingdom Residence Hampstead, London, England, UK Venice Beach, California,",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Emilia_Clarke",
+    "title": "Emilia Clarke",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search Emilia Clarke Emilia Clarke speaking in 2013 at San Diego Comic-Con, for Game of Thrones Born Emilia Isabelle Euphemia Rose Clarke 23 October 1986 (age 31)London, United Kingdom Residence Hampstead, London, England, UK Venice Beach, California,",
+    "frecency": 4455,
+    "url_hash": 6542938530047,
+    "last_visit_date": 1758203927606735
+  }
+}

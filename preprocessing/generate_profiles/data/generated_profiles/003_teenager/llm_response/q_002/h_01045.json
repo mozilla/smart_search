@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Chef John's Barbecue Chicken \\\"Home Recipes Everyday Cooking Watch Chef John's Barbecue Chicken461 made it | 76 reviews53KRecipe by: Chef John\\\"\\\"When it comes to barbecued chicken, everyone wants that nice thick glaze of sauce attached to the skin, and the only way to do it, is brush it on as it cooks. Therein lies the problem. B",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page is a barbecue chicken recipe, not related to DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Chef John's Barbecue Chicken \"Home Recipes Everyday Cooking Watch Chef John's Barbecue Chicken461 made it | 76 reviews53KRecipe by: Chef John\"\"When it comes to barbecued chicken, everyone wants that nice thick glaze of sauce attached to the skin, and the only way to do it, is brush it on as it cooks. Therein lies the problem. B",
+  "history": {
+    "url": "http://allrecipes.com/recipe/236990/chef-johns-barbecue-chicken/",
+    "title": "Chef John's Barbecue Chicken",
+    "description": "\"Home Recipes Everyday Cooking Watch Chef John's Barbecue Chicken461 made it | 76 reviews53KRecipe by: Chef John\"\"When it comes to barbecued chicken, everyone wants that nice thick glaze of sauce attached to the skin, and the only way to do it, is brush it on as it cooks. Therein lies the problem. B",
+    "frecency": 3912,
+    "url_hash": 67692325161790,
+    "last_visit_date": 1758203929066735
+  }
+}

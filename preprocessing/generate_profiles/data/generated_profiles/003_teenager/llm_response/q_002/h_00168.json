@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Are Potatoes Healthy? The Good, Bad, and Bottom Line \\\"A nutrition expert lays out potatoes benefits and risks to your diet. Cynthia Sass, MPH, RDTopics: antioxidants, nutrients, nutrition studies, potatoes I have to admit that potatoes are my No. 1 \\\\\"can\u2019t live without\\\\\" splurge food. As much as I love coffee and wine (both help your microbiome ! ), I",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns nutrition and potatoes, not DIY room decoration ideas; not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Are Potatoes Healthy? The Good, Bad, and Bottom Line \"A nutrition expert lays out potatoes benefits and risks to your diet. Cynthia Sass, MPH, RDTopics: antioxidants, nutrients, nutrition studies, potatoes I have to admit that potatoes are my No. 1 \"\"can\u2019t live without\"\" splurge food. As much as I love coffee and wine (both help your microbiome ! ), I",
+  "history": {
+    "url": "http://www.shape.com/blogs/weight-loss-coach/potatoes-good-bad-and-bottom-line",
+    "title": "Are Potatoes Healthy? The Good, Bad, and Bottom Line",
+    "description": "\"A nutrition expert lays out potatoes benefits and risks to your diet. Cynthia Sass, MPH, RDTopics: antioxidants, nutrients, nutrition studies, potatoes I have to admit that potatoes are my No. 1 \"\"can\u2019t live without\"\" splurge food. As much as I love coffee and wine (both help your microbiome ! ), I",
+    "frecency": 4828,
+    "url_hash": 62461692145298,
+    "last_visit_date": 1758203936307228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "msmpeng.exe msmpeng.exe Click here to run a scan if you are experiencing issues with this process. Process name: Microsoft Windows Defender Antispyware Application using this process: Microsoft Internet Security Recommended: Scan your system for invalid registry entries. What is msmpeng.exe doing on my computer",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes the Windows Defender msmpeng.exe process and antivirus scanning behavior, not anything about IDEs or software development environments.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "msmpeng.exe msmpeng.exe Click here to run a scan if you are experiencing issues with this process. Process name: Microsoft Windows Defender Antispyware Application using this process: Microsoft Internet Security Recommended: Scan your system for invalid registry entries. What is msmpeng.exe doing on my computer",
+  "history": {
+    "url": "http://www.processlibrary.com/en/directory/files/msmpeng/27074/",
+    "title": "msmpeng.exe",
+    "description": "msmpeng.exe Click here to run a scan if you are experiencing issues with this process. Process name: Microsoft Windows Defender Antispyware Application using this process: Microsoft Internet Security Recommended: Scan your system for invalid registry entries. What is msmpeng.exe doing on my computer",
+    "frecency": 3319,
+    "url_hash": 66920149951128,
+    "last_visit_date": 1758203928616200
+  }
+}

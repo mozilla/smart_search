@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Channel Lineup Channel Lineup What channel is that on? From music to movies, sports to soaps, and everything in between \u2014 find each and every channel right here.",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The result appears to be about TV channel lineups and channel availability, not about improving skills or performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Channel Lineup Channel Lineup What channel is that on? From music to movies, sports to soaps, and everything in between \u2014 find each and every channel right here.",
+  "history": {
+    "url": "http://brighthouse.com/shop/tv/channel-lineup.html",
+    "title": "Channel Lineup",
+    "description": "Channel Lineup What channel is that on? From music to movies, sports to soaps, and everything in between \u2014 find each and every channel right here. ",
+    "frecency": 2834,
+    "url_hash": 68945039193953,
+    "last_visit_date": 1758203928704735
+  }
+}

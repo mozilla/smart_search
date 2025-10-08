@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Connecticut State Department of Public Health Home Department of Public Health Services and Programs Regulation & Licensure Vital Records News Room Topics A-ZStatistics and Research Publications Forms Search Department of Public Health Most Popular Order a copy of a Birth, Marriage, or Death Vital Record Practitioner Licensing Verify a License",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a Connecticut Department of Public Health page about vital records and licensing, not related to IDEs or software development.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Connecticut State Department of Public Health Home Department of Public Health Services and Programs Regulation & Licensure Vital Records News Room Topics A-ZStatistics and Research Publications Forms Search Department of Public Health Most Popular Order a copy of a Birth, Marriage, or Death Vital Record Practitioner Licensing Verify a License",
+  "history": {
+    "url": "http://www.ct.gov/dph/cwp/view.asp?a=3136&q=395976",
+    "title": "Connecticut State Department of Public Health",
+    "description": "Home Department of Public Health Services and Programs Regulation & Licensure Vital Records News Room Topics A-ZStatistics and Research Publications Forms Search Department of Public Health Most Popular Order a copy of a Birth, Marriage, or Death Vital Record Practitioner Licensing Verify a License ",
+    "frecency": 432,
+    "url_hash": 29485806645306,
+    "last_visit_date": 1758203930750111
+  }
+}

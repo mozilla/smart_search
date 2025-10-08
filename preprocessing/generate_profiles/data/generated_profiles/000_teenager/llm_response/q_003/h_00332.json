@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Michael Jackson Personal Belongings \"One of the \\\"must-see\\\" sections of the MJJCollectors.com web site is the impressive virtual collection of Michael Jackson Personal Belongings where you will find nearly 1,000 HIS toric memorabilia items owned and worn by Michael Jackson himself! Browse our online showcase and you will find artwork",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns Michael Jackson memorabilia and is unrelated to study apps or learning strategies, so it is not relevant to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Michael Jackson Personal Belongings \"One of the \"\"must-see\"\" sections of the MJJCollectors.com web site is the impressive virtual collection of Michael Jackson Personal Belongings where you will find nearly 1,000 HIS toric memorabilia items owned and worn by Michael Jackson himself! Browse our online showcase and you will find artwork",
+  "history": {
+    "url": "http://www.mjjcollectors.com/index.php?option=com_content&view=article&id=273:michael-jackson-personal-belongings&catid=60:memorabilia-spotlight&Itemid=151",
+    "title": "Michael Jackson Personal Belongings",
+    "description": "\"One of the \"\"must-see\"\" sections of the MJJCollectors.com web site is the impressive virtual collection of Michael Jackson Personal Belongings where you will find nearly 1,000 HIS toric memorabilia items owned and worn by Michael Jackson himself! Browse our online showcase and you will find artwork",
+    "frecency": 3582,
+    "url_hash": 47867907849,
+    "last_visit_date": 1758203928199139
+  }
+}

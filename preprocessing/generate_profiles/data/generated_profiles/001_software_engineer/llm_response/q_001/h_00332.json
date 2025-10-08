@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Moraine Mayor's Court Menu Contact this court Find lawyers Get directions Nearby courts Corrections Moraine Mayor's Court Phone Reach Susan or Bonnie at: 937-535-1010Map Google Map Mailing Address 4200 Dryden Road, Moraine, OH 45439Street Address 4200 Dryden Rd, Moraine, OH 45439Email ssiroki@moraineoh.org Fax 535-1275WW",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a local court contact page and is unrelated to Python libraries or machine learning; it does not address the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Moraine Mayor's Court Menu Contact this court Find lawyers Get directions Nearby courts Corrections Moraine Mayor's Court Phone Reach Susan or Bonnie at: 937-535-1010Map Google Map Mailing Address 4200 Dryden Road, Moraine, OH 45439Street Address 4200 Dryden Rd, Moraine, OH 45439Email ssiroki@moraineoh.org Fax 535-1275WW",
+  "history": {
+    "url": "http://www.town-court.com/OH/montgomery-county/moraine-mayors-court",
+    "title": "Moraine Mayor's Court",
+    "description": "Menu Contact this court Find lawyers Get directions Nearby courts Corrections Moraine Mayor's Court Phone Reach Susan or Bonnie at: 937-535-1010Map Google Map Mailing Address 4200 Dryden Road, Moraine, OH 45439Street Address 4200 Dryden Rd, Moraine, OH 45439Email ssiroki@moraineoh.org Fax 535-1275WW",
+    "frecency": 3842,
+    "url_hash": 22992850658097,
+    "last_visit_date": 1758203929120200
+  }
+}

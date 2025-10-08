@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "What are the most important things to learn as a CS major? \\\"Quora User, works at Microsoft Answered Apr 17, 2013I would say pick up a book like \\\"cracking the coding interview\\\" and \\\"programming interview exposed\\\" and start solving the problems. For CS major I cannot think of any ot",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses CS major topics and programming interviews, not Docker setup; thus not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "What are the most important things to learn as a CS major? \"Quora User, works at Microsoft Answered Apr 17, 2013I would say pick up a book like \"\"cracking the coding interview\"\" and \"\"programming interview exposed\"\" and start solving the problems. Your first aim should be to devise correct algorithm for a given problem. For CS major I cannot think of any ot",
+  "history": {
+    "url": "https://www.quora.com/What-are-the-most-important-things-to-learn-as-a-CS-major",
+    "title": "What are the most important things to learn as a CS major?",
+    "description": "\"Quora User, works at Microsoft Answered Apr 17, 2013I would say pick up a book like \"\"cracking the coding interview\"\" and \"\"programming interview exposed\"\" and start solving the problems. Your first aim should be to devise correct algorithm for a given problem. For CS major I cannot think of any ot",
+    "frecency": 4878,
+    "url_hash": 35593800148683,
+    "last_visit_date": 1758203928496200
+  }
+}

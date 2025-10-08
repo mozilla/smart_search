@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Search hotels near Gulf Shores Beach in Gulf Shores Pay now or later on most rooms Free cancellation on most rooms Price Guarantee Map of hotels near Gulf Shores Beach Landmarks Schafberg Railway Mozart Memorial House Hochseilpark Teufelsgraben High Ropes Park Trumer Lakes Marina Musikinstrument Museum Hallstatt Central Square Hallstatt Salt Mines Ha",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about hotels and travel near Gulf Shores Beach, not about improving performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Search hotels near Gulf Shores Beach in Gulf Shores Pay now or later on most rooms Free cancellation on most rooms Price Guarantee Map of hotels near Gulf Shores Beach Landmarks Schafberg Railway Mozart Memorial House Hochseilpark Teufelsgraben High Ropes Park Trumer Lakes Marina Musikinstrument Museum Hallstatt Central Square Hallstatt Salt Mines Ha",
+  "history": {
+    "url": "https://www.hotels.com/de1680407/hotels-near-gulf-shores-beach-gulf-shores-united-states-of-america/",
+    "title": "Search hotels near Gulf Shores Beach in Gulf Shores",
+    "description": "Pay now or later on most rooms Free cancellation on most rooms Price Guarantee Map of hotels near Gulf Shores Beach Landmarks Schafberg Railway Mozart Memorial House Hochseilpark Teufelsgraben High Ropes Park Trumer Lakes Marina Musikinstrument Museum Hallstatt Central Square Hallstatt Salt Mines Ha",
+    "frecency": 4502,
+    "url_hash": 37462475416756,
+    "last_visit_date": 1758203930225228
+  }
+}

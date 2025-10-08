@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Ear infection \\\"Ear infection Intro Symptoms Types Causes Tests Treatment Misdiagnosis Videos Doctors Must Reads in Health Protecting Your Skin During Winter Watch: My Personal Psoriasis Journey Are You Getting The Best Cancer Care? Keeping An Active Lifestyle With COPD Liver Disease? Find a Doc Who Treats PBC Are Y",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result appears to be a general health/medical information page with topics like ear infections, psoriasis, cancer care, COPD, liver disease, etc., none of which align with strategies or information about improving athletic performance or getting better at sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Ear infection \"Ear infection Intro Symptoms Types Causes Tests Treatment Misdiagnosis Videos Doctors Must Reads in Health Protecting Your Skin During Winter Watch: My Personal Psoriasis Journey Are You Getting The Best Cancer Care? Keeping An Active Lifestyle With COPDLiver Disease? Find a Doc Who Treats PBCAre Y",
+  "history": {
+    "url": "http://www.rightdiagnosis.com/e/ear_infections/intro.htm",
+    "title": "Ear infection",
+    "description": "\"Ear infection Intro Symptoms Types Causes Tests Treatment Misdiagnosis Videos Doctors Must Reads in Health Protecting Your Skin During Winter Watch: My Personal Psoriasis Journey Are You Getting The Best Cancer Care? Keeping An Active Lifestyle With COPDLiver Disease? Find a Doc Who Treats PBCAre Y",
+    "frecency": 3914,
+    "url_hash": 97711645333901,
+    "last_visit_date": 1758203929050735
+  }
+}

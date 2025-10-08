@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "Madeleine Atkinson The Renaissance was an era of cultural rebirth and achievement that occurred in Italy during the fourteenth, fifteenth, and sixteenth centuries. The period can be best described as the rise of humanism, which was an intellectual movement that emphasized secular ideas found in literature from Ancient",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses the Renaissance era, not TikTok trends; it is not relevant to the query.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "Madeleine Atkinson The Renaissance was an era of cultural rebirth and achievement that occurred in Italy during the fourteenth, fifteenth, and sixteenth centuries. The period can be best described as the rise of humanism, which was an intellectual movement that emphasized secular ideas found in literature from Ancient",
+  "history": {
+    "url": "http://blogs.bu.edu/guidedhistory/moderneurope/madeleine-atkinson/",
+    "title": "Madeleine Atkinson",
+    "description": "The Renaissance was an era of cultural rebirth and achievement that occurred in Italy during the fourteenth, fifteenth, and sixteenth centuries. The period can be best described as the rise of humanism, which was an intellectual movement that emphasized secular ideas found in literature from Ancient",
+    "frecency": 4286,
+    "url_hash": 32967180777447,
+    "last_visit_date": 1758203935425228
+  }
+}

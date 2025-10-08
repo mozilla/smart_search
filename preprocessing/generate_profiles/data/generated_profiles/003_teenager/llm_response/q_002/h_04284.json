@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Stanley Discover things to do, places to stay, and where to dine in Stanley. Use the links above to find area events, an interactive map of what's nearby and great deals and packages. What's Nearby5Dining Things To Do Places To Stay Refresh Hawksbill Recreation Park205 Pool Drive Stanley, VA 22851High Ridge",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a travel/tourism page about Stanley, VA, not related to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Stanley Discover things to do, places to stay, and where to dine in Stanley. Use the links above to find area events, an interactive map of what's nearby and great deals and packages. What's Nearby5Dining Things To Do Places To Stay Refresh Hawksbill Recreation Park205 Pool Drive Stanley, VA 22851High Ridge",
+  "history": {
+    "url": "http://www.virginia.org/Cities/Stanley/",
+    "title": "Stanley",
+    "description": "Discover things to do, places to stay, and where to dine in Stanley. Use the links above to find area events, an interactive map of what's nearby and great deals and packages. What's Nearby5Dining Things To Do Places To Stay Refresh Hawksbill Recreation Park205 Pool Drive Stanley, VA 22851High Ridge",
+    "frecency": 557,
+    "url_hash": 68205145859385,
+    "last_visit_date": 1758203934273228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Average Teacher Salary in Perris Elementary School District TEACHERS: Boost your earning potential with a Master's Degree!Master's Degree Masters of Science in Education Request Information Bachelor's Degree Science in Education Elementary Teacher Education Request Information Certificate Certificate/Teacher Aide Request Information Sponsored Schools",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses teacher salaries and education degrees unrelated to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Average Teacher Salary in Perris Elementary School District TEACHERS: Boost your earning potential with a Master's Degree!Master's Degree Masters of Science in Education Request Information Bachelor's Degree Science in Education Elementary Teacher Education Request Information Certificate Certificate/Teacher Aide Request Information Sponsored Schools",
+  "history": {
+    "url": "http://www.teachersalaryinfo.com/california/teacher-salary-in-perris-elementary-school-district/",
+    "title": "Average Teacher Salary in Perris Elementary School District",
+    "description": "TEACHERS: Boost your earning potential with a Master's Degree!Master's Degree Masters of Science in Education Request Information Bachelor's Degree Science in Education Elementary Teacher Education Request Information Certificate Certificate/Teacher Aide Request Information Sponsored Schools ",
+    "frecency": 3220,
+    "url_hash": 66133886197274,
+    "last_visit_date": 1758203927060200
+  }
+}

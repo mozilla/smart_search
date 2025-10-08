@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Residents fear tiki bar on Lake Fairview would be horrible neighbor \"Martin E. Comas Contact Reporter Staff Writer Orlando residents say no to bar with outdoor entertainment Privacy Policy Joe Fontana moved into his condominium on the western shore of Lake Fairview about three years ago because he enjoyed the scenery and quiet nights. \"\"One of the few things we hear",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a local tiki bar and residents' concerns, not about improving at sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Residents fear tiki bar on Lake Fairview would be horrible neighbor \"Martin E. Comas Contact Reporter Staff Writer Orlando residents say no to bar with outdoor entertainment Privacy Policy Joe Fontana moved into his condominium on the western shore of Lake Fairview about three years ago because he enjoyed the scenery and quiet nights. \"\"One of the few things we hear",
+  "history": {
+    "url": "http://www.orlandosentinel.com/news/breaking-news/os-college-park-protest-waterfront-bar-20150828-story.html",
+    "title": "Residents fear tiki bar on Lake Fairview would be horrible neighbor",
+    "description": "\"Martin E. Comas Contact Reporter Staff Writer Orlando residents say no to bar with outdoor entertainment Privacy Policy Joe Fontana moved into his condominium on the western shore of Lake Fairview about three years ago because he enjoyed the scenery and quiet nights. \"\"One of the few things we hear",
+    "frecency": 3993,
+    "url_hash": 57669048937502,
+    "last_visit_date": 1758203932067228
+  }
+}

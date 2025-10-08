@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "CE Courses Anywhere Helping Professionals Help Others We offer continuing education for Psychologists, Social Workers, Mental Health Counselors, Marriage and Family Therapists and others in the mental health disciplines. Licensed mental health and social work professionals need continuing education. We help those profe",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes continuing education for mental health professionals, not content related to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "CE Courses Anywhere Helping Professionals Help Others We offer continuing education for Psychologists, Social Workers, Mental Health Counselors, Marriage and Family Therapists and others in the mental health disciplines. Licensed mental health and social work professionals need continuing education. We help those profe",
+  "history": {
+    "url": "http://www.ce-credit.com/",
+    "title": "CE Courses Anywhere",
+    "description": "Helping Professionals Help Others We offer continuing education for Psychologists, Social Workers, Mental Health Counselors, Marriage and Family Therapists and others in the mental health disciplines. Licensed mental health and social work professionals need continuing education. We help those profe",
+    "frecency": 4258,
+    "url_hash": 4158926376098,
+    "last_visit_date": 1758203927920200
+  }
+}

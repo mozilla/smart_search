@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Buzz Aldrin \"Buzz Aldrin Aldrin in July 1969NASA Astronaut Nationality American Status Retired Born Edwin Eugene Aldrin Jr. January 20, 1930 (age 88)Glen Ridge, New Jersey, U. S. Other names Dr. Rendezvous [1] [2]Other occupation Fighter pilot Alma mater United States Military Academy, B. S. 1951 Massachusetts",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a biography of Buzz Aldrin with no content related to debugging API integration or APIs; thus not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Buzz Aldrin \"Buzz Aldrin Aldrin in July 1969NASA Astronaut Nationality American Status Retired Born Edwin Eugene Aldrin Jr. January 20, 1930 (age 88)Glen Ridge, New Jersey, U. S. Other names Dr. Rendezvous [1] [2]Other occupation Fighter pilot Alma mater United States Military Academy, B. S. 1951 Massachusetts",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Buzz_Aldrin",
+    "title": "Buzz Aldrin",
+    "description": "\"Buzz Aldrin Aldrin in July 1969NASA Astronaut Nationality American Status Retired Born Edwin Eugene Aldrin Jr. January 20, 1930 (age 88)Glen Ridge, New Jersey, U. S. Other names Dr. Rendezvous [1] [2]Other occupation Fighter pilot Alma mater United States Military Academy, B. S. 1951 Massachusetts ",
+    "frecency": 3968,
+    "url_hash": 77897069661548,
+    "last_visit_date": 1758203929892111
+  }
+}

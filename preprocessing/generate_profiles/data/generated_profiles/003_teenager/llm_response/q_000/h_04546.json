@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Student Credit Cards Build a credit history. Learn financial responsibility. Enjoy cashback rewards. With Discover \u00ae student credit cards, college students can learn good credit habits and set themselves on a path toward financial responsibility after graduation. And beyond that, students also earn cash back rewards, ca",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about student credit cards, not about starting a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Student Credit Cards Build a credit history. Learn financial responsibility. Enjoy cashback rewards. With Discover \u00ae student credit cards, college students can learn good credit habits and set themselves on a path toward financial responsibility after graduation. And beyond that, students also earn cash back rewards, ca",
+  "history": {
+    "url": "https://www.discover.com/credit-cards/student/",
+    "title": "Student Credit Cards",
+    "description": "Build a credit history. Learn financial responsibility. Enjoy cashback rewards. With Discover \u00ae student credit cards, college students can learn good credit habits and set themselves on a path toward financial responsibility after graduation. And beyond that, students also earn cash back rewards, ca",
+    "frecency": 286,
+    "url_hash": 53233460891336,
+    "last_visit_date": 1758203927996735
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "Culture media Home Dictionary Forum About us Contact usonline dictionary Search Advertisement",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result shows generic navigation items and unrelated terms (culture media, dictionary, forum, about/contact, online dictionary, advertisement) with no reference to TikTok or trends for 2024, so it is not relevant.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "Culture media Home Dictionary Forum About us Contact usonline dictionary Search Advertisement",
+  "history": {
+    "url": "http://www.biology-online.org/dictionary/Culture_media",
+    "title": "Culture media",
+    "description": "Home Dictionary Forum About us Contact usonline dictionary Search Advertisement ",
+    "frecency": 1646,
+    "url_hash": 49629512326289,
+    "last_visit_date": 1758203935769228
+  }
+}

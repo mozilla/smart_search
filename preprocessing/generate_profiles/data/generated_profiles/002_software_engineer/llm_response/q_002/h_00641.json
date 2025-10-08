@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Chillicothe Chamber:The Greatest Thing for Business Chillicothe Chamber: The Greatest Thing for Business Join Today!",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a chamber of commerce for Chillicothe and business marketing, not about IDEs or software development tools.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Chillicothe Chamber:The Greatest Thing for Business Chillicothe Chamber: The Greatest Thing for Business Join Today!",
+  "history": {
+    "url": "http://www.chillicothemo.com/",
+    "title": "Chillicothe Chamber:The Greatest Thing for Business",
+    "description": "Chillicothe Chamber: The Greatest Thing for Business Join Today! ",
+    "frecency": 3860,
+    "url_hash": 33706117944761,
+    "last_visit_date": 1758203927140111
+  }
+}

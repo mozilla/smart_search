@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "How to Use this Guide: How to Use this Guide:1. Find your patient group2. Match the level of involvement3. Choose a suggested brace style",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The result discusses medical braces and patient grouping, not advice or content about improving performance in sports; thus not relevant.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "How to Use this Guide: How to Use this Guide:1. Find your patient group2. Match the level of involvement3. Choose a suggested brace style",
+  "history": {
+    "url": "http://cascadedafo.com/dafo-guide",
+    "title": "How to Use this Guide:",
+    "description": "How to Use this Guide:1. Find your patient group2. Match the level of involvement3. Choose a suggested brace style ",
+    "frecency": 4102,
+    "url_hash": 90861589153486,
+    "last_visit_date": 1758203935715228
+  }
+}

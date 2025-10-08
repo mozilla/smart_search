@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Who is the father of computers? \\\"Kajal Saini Answered Dec 29, 2017 \u00b7 Author has 135 answers and 199.2k answer views Originally Answered: Who is the father of the computer? Father of computing: Charles Babbage was considered to be the father of computing after his invention and concept of the Analytical Engine in 1837. The Analytic",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses the father of computing rather than database query optimization, making it not relevant to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Who is the father of computers? \"Kajal Saini Answered Dec 29, 2017 \u00b7 Author has 135 answers and 199.2k answer views Originally Answered: Who is the father of the computer? Father of computing: Charles Babbage was considered to be the father of computing after his invention and concept of the Analytical Engine in 1837. The Analytic",
+  "history": {
+    "url": "https://www.quora.com/Who-is-the-father-of-computers-1",
+    "title": "Who is the father of computers?",
+    "description": "\"Kajal Saini Answered Dec 29, 2017 \u00b7 Author has 135 answers and 199.2k answer views Originally Answered: Who is the father of the computer? Father of computing: Charles Babbage was considered to be the father of computing after his invention and concept of the Analytical Engine in 1837. The Analytic",
+    "frecency": 1402,
+    "url_hash": 8703991666954,
+    "last_visit_date": 1758203928128111
+  }
+}

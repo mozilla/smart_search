@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Edna Braithwaite \\\"Edna Braithwaite Biographical information Marital status Single Residence Downton Abbey (formerly)Title (s) manipulative little witch (by Thomas Barrow)Physical information Gender Female Height 5'2\\\" (1,57 m)Hair colour Blonde (first) / Brown (later)Eye colour Blue Family information Family Sick Au",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page is about a Downton Abbey character, not about easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Edna Braithwaite \"Edna Braithwaite Biographical information Marital status Single Residence Downton Abbey (formerly)Title (s) manipulative little witch (by Thomas Barrow)Physical information Gender Female Height 5'2\"\" (1,57 m)Hair colour Blonde (first) / Brown (later)Eye colour Blue Family information Family Sick Au",
+  "history": {
+    "url": "http://downtonabbey.wikia.com/wiki/Edna_Braithwaite",
+    "title": "Edna Braithwaite",
+    "description": "\"Edna Braithwaite Biographical information Marital status Single Residence Downton Abbey (formerly)Title (s) manipulative little witch (by Thomas Barrow)Physical information Gender Female Height 5'2\"\" (1,57 m)Hair colour Blonde (first) / Brown (later)Eye colour Blue Family information Family Sick Au",
+    "frecency": 3924,
+    "url_hash": 2185788162763,
+    "last_visit_date": 1758203928922735
+  }
+}

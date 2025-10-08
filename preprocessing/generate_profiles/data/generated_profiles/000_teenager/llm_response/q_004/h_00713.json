@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Mona Lisa Mona Lisa, oil painting on a poplar wood panel by the Italian painter, draftsman, sculptor, architect, and engineer Leonardo da Vinci, probably the world\u2019s most-famous painting. It was painted sometime between 1503 and 1519, when Leonardo was living in Florence, and it now hangs in the Louvre, in Pa",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses a painting (Mona Lisa) and is not related to improving performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Mona Lisa Mona Lisa, oil painting on a poplar wood panel by the Italian painter, draftsman, sculptor, architect, and engineer Leonardo da Vinci, probably the world\u2019s most-famous painting. It was painted sometime between 1503 and 1519, when Leonardo was living in Florence, and it now hangs in the Louvre, in Pa",
+  "history": {
+    "url": "https://www.britannica.com/topic/Mona-Lisa-painting",
+    "title": "Mona Lisa",
+    "description": "Mona Lisa, oil painting on a poplar wood panel by the Italian painter, draftsman, sculptor, architect, and engineer Leonardo da Vinci, probably the world\u2019s most-famous painting. It was painted sometime between 1503 and 1519, when Leonardo was living in Florence, and it now hangs in the Louvre, in Pa",
+    "frecency": 1941,
+    "url_hash": 92575709448782,
+    "last_visit_date": 1758203928205139
+  }
+}

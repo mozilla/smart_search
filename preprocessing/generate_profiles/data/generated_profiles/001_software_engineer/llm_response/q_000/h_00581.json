@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Python Functions Tutorial \"04848Karlijn Willems August 8th, 2017python + 2Python Functions Tutorial A tutorial on functions in Python that covers how to write functions, how to call them, and more!Functions are an essential part of the Python programming language: you might have already encountered and used some of the many",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Python functions rather than debugging or API integration; it does not address API debugging techniques.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Python Functions Tutorial \"04848Karlijn Willems August 8th, 2017python + 2Python Functions Tutorial A tutorial on functions in Python that covers how to write functions, how to call them, and more!Functions are an essential part of the Python programming language: you might have already encountered and used some of the many",
+  "history": {
+    "url": "https://www.datacamp.com/community/tutorials/functions-python-tutorial",
+    "title": "Python Functions Tutorial",
+    "description": "\"04848Karlijn Willems August 8th, 2017python + 2Python Functions Tutorial A tutorial on functions in Python that covers how to write functions, how to call them, and more!Functions are an essential part of the Python programming language: you might have already encountered and used some of the many ",
+    "frecency": 3025,
+    "url_hash": 79093230485401,
+    "last_visit_date": 1758203927940200
+  }
+}

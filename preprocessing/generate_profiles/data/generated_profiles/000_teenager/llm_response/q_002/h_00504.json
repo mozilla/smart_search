@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "About CPRA \\\"About CPRAHome Resources Allocation Calculators About CPRAPatient Safety Allocation Calculators CPRA Calculator EPTS Calculator KDPI Calculator LAS Calculator MELD Calculator PELD Calculator By Organ Kidney & Pancreas Liver & Intestine Heart & Lung Vascular Composite Allograft Organ Transport Livin",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result appears to be about CPRA calculators and transplant resources, not about DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "About CPRA \"About CPRAHome Resources Allocation Calculators About CPRAPatient Safety Allocation Calculators CPRA Calculator EPTS Calculator KDPI Calculator LAS Calculator MELD Calculator PELD Calculator By Organ Kidney & Pancreas Liver & Intestine Heart & Lung Vascular Composite Allograft Organ Transport Livin",
+  "history": {
+    "url": "https://optn.transplant.hrsa.gov/resources/allocation-calculators/about-cpra/",
+    "title": "About CPRA",
+    "description": "\"About CPRAHome Resources Allocation Calculators About CPRAPatient Safety Allocation Calculators CPRA Calculator EPTS Calculator KDPI Calculator LAS Calculator MELD Calculator PELD Calculator By Organ Kidney & Pancreas Liver & Intestine Heart & Lung Vascular Composite Allograft Organ Transport Livin",
+    "frecency": 2740,
+    "url_hash": 68355213273465,
+    "last_visit_date": 1758203928255139
+  }
+}

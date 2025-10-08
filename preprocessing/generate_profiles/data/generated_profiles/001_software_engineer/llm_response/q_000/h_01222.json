@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "How can you tell if an egg has gone bad? \\\"James Dawe 216,095 Contributions Started career as professional chef then a district sales manager for a wine & spirits company. Retired in 2005, breeding Araucana chickens. How can you tell if an egg has gone bad? There are several ways but the easiest way is to put the egg into a dish of water, i",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns eggs and food safety, not API integration debugging; it is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "How can you tell if an egg has gone bad? \"James Dawe 216,095 Contributions Started career as professional chef then a district sales manager for a wine & spirits company. Retired in 2005, breeding Araucana chickens. How can you tell if an egg has gone bad? There are several ways but the easiest way is to put the egg into a dish of water, i",
+  "history": {
+    "url": "http://www.answers.com/Q/How_do_you_tell_if_a_potato_has_gone_bad",
+    "title": "How can you tell if an egg has gone bad?",
+    "description": "\"James Dawe 216,095 Contributions Started career as professional chef then a district sales manager for a wine & spirits company. Retired in 2005, breeding Araucana chickens. How can you tell if an egg has gone bad? There are several ways but the easiest way is to put the egg into a dish of water, i",
+    "frecency": 702,
+    "url_hash": 46467083724710,
+    "last_visit_date": 1758203927040200
+  }
+}

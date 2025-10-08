@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Poconos Weather - The Pocono Mountains experiences four distinct seasons... white winters, crisp springs, balmy summers and colorful autumns - with a unique climate and corresponding outdoor activities for each. The average annual snowfall is about 50 inches and the hottest day rarely exceeds 90 degrees",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses weather in the Poconos, not easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Poconos Weather \"Poconos Weather The Pocono Mountains experiences four distinct seasons......white winters, crisp springs, balmy summers and colorful autumns - with a unique climate and corresponding outdoor activities for each. The average annual snowfall is about 50\"\" and the hottest day rarely exceeds 90 degrees",
+  "history": {
+    "url": "https://www.poconomountains.com/about-the-pocono-mountains/weather/",
+    "title": "Poconos Weather",
+    "description": "\"Poconos Weather The Pocono Mountains experiences four distinct seasons......white winters, crisp springs, balmy summers and colorful autumns - with a unique climate and corresponding outdoor activities for each. The average annual snowfall is about 50\"\" and the hottest day rarely exceeds 90 degrees",
+    "frecency": 1596,
+    "url_hash": 15780906982402,
+    "last_visit_date": 1758203933753228
+  }
+}

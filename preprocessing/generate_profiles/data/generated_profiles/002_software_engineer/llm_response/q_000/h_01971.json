@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "What is the globe theatre? \\\"Prayer Bee 17 Contributions What is the globe theatre? Chamberlains men were the actors, so they would play the nomal plays Shakespeare suggested. Shakespeare also sort of ushered in the Globe theatre with his writings. Edit Insurgo 21 Contributions The globe theatre? One of the theatre's of Shakes",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses the Globe Theatre (a historical topic) and is not related to debugging or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "What is the globe theatre? \"Prayer Bee 17 Contributions What is the globe theatre? Chamberlains men were the actors, so they would play the nomal plays Shakespeare suggested. Shakespeare also sort of ushered in the Globe theatre with his writings. Edit Insurgo 21 Contributions The globe theatre? One of the theatre's of Shakes",
+  "history": {
+    "url": "http://www.answers.com/Q/What_river_was_the_Globe_Theatre_near",
+    "title": "What is the globe theatre?",
+    "description": "\"Prayer Bee 17 Contributions What is the globe theatre? Chamberlains men were the actors, so they would play the nomal plays Shakespeare suggested. Shakespeare also sort of ushered in the Globe theatre with his writings. Edit Insurgo 21 Contributions The globe theatre? One of the theatre's of Shakes",
+    "frecency": 1427,
+    "url_hash": 60206006250529,
+    "last_visit_date": 1758203932232111
+  }
+}

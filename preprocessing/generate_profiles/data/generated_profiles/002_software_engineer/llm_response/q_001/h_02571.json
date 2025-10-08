@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Welcome to the Town Of Hillsboro Beach Welcome to the Town Of Hillsboro Beach On behalf of Mayor Deb Tarrant, Vice-Mayor Irene Kirdahy, Commissioner/Treasurer Vicky Feaman and Commissioners Barbara Baldasarre and Andrew Brown, the Town of Hillsboro Beach Welcomes You. Job Announcement Hillsboro Beach Is Seeking Qualified Applicants For P",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a municipal town page about Hillsboro Beach and job announcements, which has no relation to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Welcome to the Town Of Hillsboro Beach Welcome to the Town Of Hillsboro Beach On behalf of Mayor Deb Tarrant, Vice-Mayor Irene Kirdahy, Commissioner/Treasurer Vicky Feaman and Commissioners Barbara Baldasarre and Andrew Brown, the Town of Hillsboro Beach Welcomes You. Job Announcement Hillsboro Beach Is Seeking Qualified Applicants For P",
+  "history": {
+    "url": "http://www.townofhillsborobeach.com/",
+    "title": "Welcome to the Town Of Hillsboro Beach",
+    "description": "Welcome to the Town Of Hillsboro Beach On behalf of Mayor Deb Tarrant, Vice-Mayor Irene Kirdahy, Commissioner/Treasurer Vicky Feaman and Commissioners Barbara Baldasarre and Andrew Brown, the Town of Hillsboro Beach Welcomes You. Job Announcement Hillsboro Beach Is Seeking Qualified Applicants For P",
+    "frecency": 341,
+    "url_hash": 83652885221847,
+    "last_visit_date": 1758203928854111
+  }
+}

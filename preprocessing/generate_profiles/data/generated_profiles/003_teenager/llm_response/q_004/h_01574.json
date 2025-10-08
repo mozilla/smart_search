@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Licenses - Frequently Asked Questions \\\"Licenses - Frequently Asked Questions When do new-year licenses go on sale? August 15. Most recreational hunting and fishing type license packages are valid from date of purchase in August (August 15 and later) through August 31 of the following year. Most commercial type licenses may be purchased",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns licenses and purchasing terms for hunting/fishing licenses, which is not related to techniques, training, or guidance on improving performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Licenses - Frequently Asked Questions \"Licenses - Frequently Asked Questions When do new-year licenses go on sale? August 15. Most recreational hunting and fishing type license packages are valid from date of purchase in August (August 15 and later) through August 31 of the following year. Most commercial type licenses may be purchased",
+  "history": {
+    "url": "https://tpwd.texas.gov/faq/business/license/",
+    "title": "Licenses - Frequently Asked Questions",
+    "description": "\"Licenses - Frequently Asked Questions When do new-year licenses go on sale? August 15. Most recreational hunting and fishing type license packages are valid from date of purchase in August (August 15 and later) through August 31 of the following year. Most commercial type licenses may be purchased ",
+    "frecency": 3385,
+    "url_hash": 39658078693511,
+    "last_visit_date": 1758203932255228
+  }
+}

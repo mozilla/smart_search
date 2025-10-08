@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Arizona Utilities and Services Arizona Utilities and Services Arizona Entertainment Arizona Golf Arizona Resorts Arizona Schools Arizona Sports Arizona Weather Best Home Builders Jobs & Employment Relocation Process Utilities and Services Why Arizona? The cost of utilities and services in Arizona is relative to most communities i",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The page appears to center on Arizona utilities/services and related categories; only a generic 'Arizona Sports' category is present, with no content about improving sports performance or training. Therefore not relevant to 'how to get better at sports'.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Arizona Utilities and Services Arizona Utilities and Services Arizona Entertainment Arizona Golf Arizona Resorts Arizona Schools Arizona Sports Arizona Weather Best Home Builders Jobs & Employment Relocation Process Utilities and Services Why Arizona? The cost of utilities and services in Arizona is relative to most communities i",
+  "history": {
+    "url": "http://www.movetoarizonahomes.com/utilities-and-services.php",
+    "title": "Arizona Utilities and Services",
+    "description": "Arizona Utilities and Services Arizona Entertainment Arizona Golf Arizona Resorts Arizona Schools Arizona Sports Arizona Weather Best Home Builders Jobs & Employment Relocation Process Utilities and Services Why Arizona? The cost of utilities and services in Arizona is relative to most communities i",
+    "frecency": 4175,
+    "url_hash": 90772239031622,
+    "last_visit_date": 1758203930195228
+  }
+}

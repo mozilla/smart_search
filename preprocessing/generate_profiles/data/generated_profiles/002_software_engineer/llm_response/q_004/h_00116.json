@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Choir (music) \"For other uses, see Choir (disambiguation). The Vienna Boys' Choir A choir is a group of people who sing together. They rehearse together and sing at concerts or for religious services. Some choirs are professional (the singers are paid for their work in the choir). Other choirs are amateur choirs.\"",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Choir (music), not Docker or computing; it is not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Choir (music) \"For other uses, see Choir (disambiguation). The Vienna Boys' Choir A choir is a group of people who sing together. They rehearse together and sing at concerts or for religious services. Some choirs are professional (the singers are paid for their work in the choir). Other choirs are amateur choirs.",
+  "history": {
+    "url": "https://simple.wikipedia.org/wiki/Choir_(music)",
+    "title": "Choir (music)",
+    "description": "\"For other uses, see Choir (disambiguation). The Vienna Boys' Choir A choir is a group of people who sing together. They rehearse together and sing at concerts or for religious services. Some choirs are professional (the singers are paid for their work in the choir). Other choirs are amateur choirs.",
+    "frecency": 4801,
+    "url_hash": 93618295019608,
+    "last_visit_date": 1758203928846111
+  }
+}

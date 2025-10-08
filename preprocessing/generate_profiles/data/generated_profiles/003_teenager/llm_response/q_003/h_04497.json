@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "When I Look Into Your Eyes Lyrics I see forever when I look in your eyes You're all I ever wanted I always want you to be mine Let's make a promise till the end of time We'll always be together And our love will never die So here we are face to face And heart to heart I want you to know we will Never be apart Now I believe that wish",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result contains song lyrics and is unrelated to apps or study habits; it does not satisfy the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "When I Look Into Your Eyes Lyrics I see forever when I look in your eyes You're all I ever wanted I always want you to be mine Let's make a promise till the end of time We'll always be together And our love will never die So here we are face to face And heart to heart I want you to know we will Never be apart Now I believe that wish",
+  "history": {
+    "url": "http://www.metrolyrics.com/when-i-look-into-your-eyes-lyrics-firehouse.html",
+    "title": "When I Look Into Your Eyes Lyrics",
+    "description": "I see forever when I look in your eyes You're all I ever wanted I always want you to be mine Let's make a promise till the end of time We'll always be together And our love will never die So here we are face to face And heart to heart I want you to know we will Never be apart Now I believe that wish",
+    "frecency": 338,
+    "url_hash": 99473727307708,
+    "last_visit_date": 1758203928744735
+  }
+}

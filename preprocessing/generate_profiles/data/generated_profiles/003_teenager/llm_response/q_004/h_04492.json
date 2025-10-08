@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "What are the main types of stories and narratives? \"What are the main types of stories and narratives? There are many different types of stories, with different labels. Let's start with the simplest. Story: the telling of a happening or connected series of happenings, whether true or fictitious; account; narration Narrative: the broadest sense is: a",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses storytelling and narratives, not sports or improvement strategies; thus not relevant to the query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "What are the main types of stories and narratives? \"What are the main types of stories and narratives? There are many different types of stories, with different labels. Let's start with the simplest. Story: the telling of a happening or connected series of happenings, whether true or fictitious; account; narration Narrative: the broadest sense is: a",
+  "history": {
+    "url": "http://stevedenning.com/Business-Narrative/types-of-story.aspx",
+    "title": "What are the main types of stories and narratives?",
+    "description": "\"What are the main types of stories and narratives? There are many different types of stories, with different labels. Let's start with the simplest. Story: the telling of a happening or connected series of happenings, whether true or fictitious; account; narration Narrative: the broadest sense is: a",
+    "frecency": 341,
+    "url_hash": 64815416241267,
+    "last_visit_date": 1758203928218735
+  }
+}

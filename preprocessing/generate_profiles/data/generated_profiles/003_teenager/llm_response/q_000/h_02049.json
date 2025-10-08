@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Saturday Night Live Update: Harry Caray Ad Choices Saturday Night Live Update: Harry Caray",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result references Saturday Night Live and Harry Caray and does not pertain to starting a YouTube channel or related guidance.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Saturday Night Live Update: Harry Caray Ad Choices Saturday Night Live Update: Harry Caray",
+  "history": {
+    "url": "https://www.hulu.com/watch/73359",
+    "title": "Saturday Night Live Update: Harry Caray",
+    "description": "Ad Choices Saturday Night Live Update: Harry Caray ",
+    "frecency": 2879,
+    "url_hash": 91060490403095,
+    "last_visit_date": 1758203929963228
+  }
+}

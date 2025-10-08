@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "The Island \\\"The Island| Roger Ebert July 21, 2005 | 2Print Page Tweet\\\"\\\"The Island\\\"\\\" runs 136 minutes, but that's not long for a double feature. The first half of Michael Bay's new film is a spare, creepy science fiction parable, and then it shifts into a high-tech action picture. Both halves work. Whether they",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a film review about The Island, unrelated to TikTok trends; it does not address the query.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "The Island \"The Island| Roger Ebert July 21, 2005 | 2Print Page Tweet\"\"The Island\"\" runs 136 minutes, but that's not long for a double feature. The first half of Michael Bay's new film is a spare, creepy science fiction parable, and then it shifts into a high-tech action picture. Both halves work. Whether they",
+  "history": {
+    "url": "http://www.rogerebert.com/reviews/the-island-2005",
+    "title": "The Island",
+    "description": "\"The Island| Roger Ebert July 21, 2005 | 2Print Page Tweet\"\"The Island\"\" runs 136 minutes, but that's not long for a double feature. The first half of Michael Bay's new film is a spare, creepy science fiction parable, and then it shifts into a high-tech action picture. Both halves work. Whether they",
+    "frecency": 2199,
+    "url_hash": 85824421775790,
+    "last_visit_date": 1758203932357228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "How to Become a Certified Apartment Leasing Agent \"Related Articles1How to Make a Resume for a Leasing Agent2The Requirements for a Leasing Agent3Leasing Agent Pay Scale4How to Become a Certified Data Entry Specialist As an apartment leasing agent, you're responsible for finding qualified tenants for rental units. An agent with poor leasing skills",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns apartment leasing careers, not API integration debugging; it has no relevance to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "How to Become a Certified Apartment Leasing Agent \"Related Articles1How to Make a Resume for a Leasing Agent2The Requirements for a Leasing Agent3Leasing Agent Pay Scale4How to Become a Certified Data Entry Specialist As an apartment leasing agent, you're responsible for finding qualified tenants for rental units. An agent with poor leasing skills",
+  "history": {
+    "url": "http://work.chron.com/become-certified-apartment-leasing-agent-11050.html",
+    "title": "How to Become a Certified Apartment Leasing Agent",
+    "description": "\"Related Articles1How to Make a Resume for a Leasing Agent2The Requirements for a Leasing Agent3Leasing Agent Pay Scale4How to Become a Certified Data Entry Specialist As an apartment leasing agent, you're responsible for finding qualified tenants for rental units. An agent with poor leasing skills ",
+    "frecency": 929,
+    "url_hash": 25752076537028,
+    "last_visit_date": 1758203929256111
+  }
+}

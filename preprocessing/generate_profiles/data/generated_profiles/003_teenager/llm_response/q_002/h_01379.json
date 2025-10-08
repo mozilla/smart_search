@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "How to Learn Martial Arts \"Edit Article How to Learn Martial Arts Have you ever watched those amazing martial arts action films and thought, \"\"What if I could do that?\"\" Well, anybody who is dedicated and willing to learn can! All it takes is an open mind and some hard work before you're on your way to becoming a martial art",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about learning martial arts, not about easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "How to Learn Martial Arts \"Edit Article How to Learn Martial Arts Have you ever watched those amazing martial arts action films and thought, \"\"What if I could do that?\"\" Well, anybody who is dedicated and willing to learn can! All it takes is an open mind and some hard work before you're on your way to becoming a martial art",
+  "history": {
+    "url": "http://www.wikihow.com/Learn-Martial-Arts",
+    "title": "How to Learn Martial Arts",
+    "description": "\"Edit Article How to Learn Martial Arts Have you ever watched those amazing martial arts action films and thought, \"\"What if I could do that?\"\" Well, anybody who is dedicated and willing to learn can! All it takes is an open mind and some hard work before you're on your way to becoming a martial art",
+    "frecency": 3591,
+    "url_hash": 58534332137476,
+    "last_visit_date": 1758203930039228
+  }
+}

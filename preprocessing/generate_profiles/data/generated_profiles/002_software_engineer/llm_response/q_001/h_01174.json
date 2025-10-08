@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Linking competencies in a connected world Reinsurance Insurance solutions for industrial firms and corporate clients Complex, financially sophisticated projects require tailored protection. Through its Risk Solutions service, Munich Re offers customised solutions for corporate clients and industrial firms. Risk Solutions Muni",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses reinsurance and risk solutions for corporate clients; it contains no content about Python libraries or machine learning, so it is not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Linking competencies in a connected world Reinsurance Insurance solutions for industrial firms and corporate clients Complex, financially sophisticated projects require tailored protection. Through its Risk Solutions service, Munich Re offers customised solutions for corporate clients and industrial firms. Risk Solutions Risk Solutions Muni",
+  "history": {
+    "url": "https://www.munichre.com/en/homepage/index.html",
+    "title": "Linking competencies in a connected world",
+    "description": "Reinsurance Insurance solutions for industrial firms and corporate clients Complex, financially sophisticated projects require tailored protection. Through its Risk Solutions service, Munich Re offers customised solutions for corporate clients and industrial firms. Risk Solutions Risk Solutions Muni",
+    "frecency": 2915,
+    "url_hash": 30003257831291,
+    "last_visit_date": 1758203928098111
+  }
+}

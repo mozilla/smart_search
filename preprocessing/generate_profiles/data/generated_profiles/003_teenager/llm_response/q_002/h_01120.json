@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "10 Secrets to Cooking Healthier 10 Secrets to Cooking Healthier Looking to eat healthier? Let our 10 principles of healthy cooking help get you started. If your eating habits are anything like those of most Americans and you are looking for the simplest advice possible we would tell you to eat more vegetables, fruits and whole gra",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about cooking healthier and food choices, not about DIY room decoration ideas; it is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "10 Secrets to Cooking Healthier 10 Secrets to Cooking Healthier Looking to eat healthier? Let our 10 principles of healthy cooking help get you started. If your eating habits are anything like those of most Americans and you are looking for the simplest advice possible we would tell you to eat more vegetables, fruits and whole gra",
+  "history": {
+    "url": "http://www.eatingwell.com/healthy_cooking/healthy_cooking_101_basics_techniques/healthy_cooking_basics/10_secrets_to_cooking_healthier",
+    "title": "10 Secrets to Cooking Healthier",
+    "description": "10 Secrets to Cooking Healthier Looking to eat healthier? Let our 10 principles of healthy cooking help get you started. If your eating habits are anything like those of most Americans and you are looking for the simplest advice possible we would tell you to eat more vegetables, fruits and whole gra",
+    "frecency": 3844,
+    "url_hash": 5273984103262,
+    "last_visit_date": 1758203933137228
+  }
+}

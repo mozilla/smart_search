@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "In British parlance, what is a \"jobbing actor\"? \"Society & Culture Languages In British parlance, what is a \"jobbing actor\"? I've seen the term \"jobbing actor\" and \"jobbing actress\" used by/about British actors/actresses (most recently used to refer to a contestant on the reality show \"I'd Do Anything\") and I'm not sure exactly what it me",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses the meaning of the term 'jobbing actor' in British English, not database query optimization; topic is unrelated.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "\"In British parlance, what is a \"\"jobbing actor\"\"?\" \"Society & Culture Languages In British parlance, what is a \"\"jobbing actor\"\"? I've seen the term \"\"jobbing actor\"\" and \"\"jobbing actress\"\" used by/about British actors/actresses (most recently used to refer to a contestant on the reality show \"\"I'd Do Anything\"\") and I'm not sure exactly what it me",
+  "history": {
+    "url": "https://answers.yahoo.com/question/index?qid=20101110165708AA2zVs8",
+    "title": "\"In British parlance, what is a \"\"jobbing actor\"\"?\"",
+    "description": "\"Society & Culture Languages In British parlance, what is a \"\"jobbing actor\"\"? I've seen the term \"\"jobbing actor\"\" and \"\"jobbing actress\"\" used by/about British actors/actresses (most recently used to refer to a contestant on the reality show \"\"I'd Do Anything\"\") and I'm not sure exactly what it me",
+    "frecency": 2841,
+    "url_hash": 65282312713902,
+    "last_visit_date": 1758203927586200
+  }
+}

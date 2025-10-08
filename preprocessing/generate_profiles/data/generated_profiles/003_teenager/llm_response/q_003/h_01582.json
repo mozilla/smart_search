@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Broadway Guide NYC is made up of five boroughs The Bronx Brooklyn Manhattan Queens Staten Island The Bronx People all around the world know the Bronx as the home of the New York Yankees, the Bronx Zoo and the New York Botanical Garden\u2014not to mention as the birthplace of hip-hop. Learn moreback to map Brooklyn No m",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Broadway/NYC boroughs and a Broadway guide, unrelated to apps or study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Broadway Guide NYC is made up of five boroughs The Bronx Brooklyn Manhattan Queens Staten Island The Bronx People all around the world know the Bronx as the home of the New York Yankees, the Bronx Zoo and the New York Botanical Garden\u2014not to mention as the birthplace of hip-hop. Learn moreback to map Brooklyn No m",
+  "history": {
+    "url": "https://www.nycgo.com/",
+    "title": "Broadway Guide",
+    "description": "NYC is made up of five boroughs The Bronx Brooklyn Manhattan Queens Staten Island The Bronx People all around the world know the Bronx as the home of the New York Yankees, the Bronx Zoo and the New York Botanical Garden\u2014not to mention as the birthplace of hip-hop. Learn moreback to map Brooklyn No m",
+    "frecency": 3378,
+    "url_hash": 65766247064824,
+    "last_visit_date": 1758203936013228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "HP DesignJet printers HP Design Jet printers Products Workflow solutions Support services Ink and media HP Design Jet large-format printers",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page focuses on HP DesignJet printers and related products, not on API integration or debugging.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "HP DesignJet printers HP Design Jet printers Products Workflow solutions Support services Ink and media HP Design Jet large-format printers",
+  "history": {
+    "url": "http://www8.hp.com/us/en/large-format-printers/designjet-printers/products.html",
+    "title": "HP DesignJet printers",
+    "description": "HP Design Jet printers Products Workflow solutions Support services Ink and media HP Design Jet large-format printers ",
+    "frecency": 141,
+    "url_hash": 48839578362609,
+    "last_visit_date": 1758203931044111
+  }
+}

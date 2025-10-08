@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Chronic Anxiety - Causes and Options for Treatment \\\"Chronic\\\" anxiety affects millions of Americans and millions more around the world. Chronic anxiety is a serious problem - anxiety makes it difficult to focus and find happiness in the world around you, leading to a less than high-quality life. \\\"\\\"Chronic\\\"\\\" anxiety is more of an informal term to descr",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses chronic anxiety and treatment, not sports performance, training, or improvement strategies related to getting better at sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Chronic Anxiety - Causes and Options for Treatment \"Chronic anxiety affects millions of Americans and millions more around the world. Chronic anxiety is a serious problem - anxiety makes it difficult to focus and find happiness in the world around you, leading to a less than high-quality life. \"\"Chronic\"\" anxiety is more of an informal term to descr",
+  "history": {
+    "url": "http://www.calmclinic.com/anxiety/types/chronic-anxiety",
+    "title": "Chronic Anxiety - Causes and Options for Treatment",
+    "description": "\"Chronic anxiety affects millions of Americans and millions more around the world. Chronic anxiety is a serious problem - anxiety makes it difficult to focus and find happiness in the world around you, leading to a less than high-quality life. \"\"Chronic\"\" anxiety is more of an informal term to descr",
+    "frecency": 3917,
+    "url_hash": 89320901236474,
+    "last_visit_date": 1758203931541228
+  }
+}

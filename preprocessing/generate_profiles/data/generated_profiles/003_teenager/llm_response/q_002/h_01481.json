@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "The Insider  (film) \\\"From Wikipedia, the free encyclopedianavigation search Not to be confused with The Inside (film) or Inside Man. The Insider Theatrical release poster Directed by Michael Mann Produced by Michael Mann Pieter Jan Brugge Written by Eric Roth Michael Mann Based on \\\"\\\" The Man Who Knew Too Much \\\"\\\" by Mar",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about The Insider (film) and not related to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "The Insider  (film) \"From Wikipedia, the free encyclopedianavigation search Not to be confused with The Inside (film) or Inside Man. The Insider Theatrical release poster Directed by Michael Mann Produced by Michael Mann Pieter Jan Brugge Written by Eric Roth Michael Mann Based on \"\" The Man Who Knew Too Much \"\" by Mar",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/The_Insider_(film)",
+    "title": "The Insider  (film)",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search Not to be confused with The Inside (film) or Inside Man. The Insider Theatrical release poster Directed by Michael Mann Produced by Michael Mann Pieter Jan Brugge Written by Eric Roth Michael Mann Based on \"\" The Man Who Knew Too Much \"\" by Mar",
+    "frecency": 3491,
+    "url_hash": 22124891821448,
+    "last_visit_date": 1758203928774735
+  }
+}

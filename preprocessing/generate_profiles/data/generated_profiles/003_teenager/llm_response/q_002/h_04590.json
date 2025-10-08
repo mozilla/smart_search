@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Can Infections Lead to Autoimmune Disorders? \\\"Everyday Health Autoimmune Diseases Autoimmune Diseases Can Infections Lead to Autoimmune Disorders? Some evidence suggests that bacterial and viral infections may play a part in the development of autoimmune diseases. By Krisha Mc Coy Medically Reviewed by Lindsey Marcellin, MD, MPHDon't Miss This\\\"",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses autoimmune diseases and infections, not topics related to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Can Infections Lead to Autoimmune Disorders? \"Everyday Health Autoimmune Diseases Autoimmune Diseases Can Infections Lead to Autoimmune Disorders? Some evidence suggests that bacterial and viral infections may play a part in the development of autoimmune diseases. By Krisha Mc Coy Medically Reviewed by Lindsey Marcellin, MD, MPHDon't Miss This",
+  "history": {
+    "url": "http://www.everydayhealth.com/autoimmune-disorders/understanding/are-autoimmune-diseases-caused-by-infections.aspx",
+    "title": "Can Infections Lead to Autoimmune Disorders?",
+    "description": "\"Everyday Health Autoimmune Diseases Autoimmune Diseases Can Infections Lead to Autoimmune Disorders? Some evidence suggests that bacterial and viral infections may play a part in the development of autoimmune diseases. By Krisha Mc Coy Medically Reviewed by Lindsey Marcellin, MD, MPHDon't Miss This",
+    "frecency": 244,
+    "url_hash": 79003238489384,
+    "last_visit_date": 1758203935417228
+  }
+}

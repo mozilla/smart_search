@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "How are the release dates for US movies determined? Anthony Ferreri, made movies professionally, watched movies, still sort of like movies Answered Aug 12, 2012 \u00b7 Author has 2.8k answers and 2.9m answer views The time of the year, past performance and subject matter tend to dictate the release of films. The biggest seasons are Summer and Winter. Summ",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses film release dates, not how to start a YouTube channel; topic is off-topic for the query.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "How are the release dates for US movies determined? Anthony Ferreri, made movies professionally, watched movies, still sort of like movies Answered Aug 12, 2012 \u00b7 Author has 2.8k answers and 2.9m answer views The time of the year, past performance and subject matter tend to dictate the release of films. The biggest seasons are Summer and Winter. Summ",
+  "history": {
+    "url": "https://www.quora.com/How-are-the-release-dates-for-US-movies-determined",
+    "title": "How are the release dates for US movies determined?",
+    "description": "Anthony Ferreri, made movies professionally, watched movies, still sort of like movies Answered Aug 12, 2012 \u00b7 Author has 2.8k answers and 2.9m answer views The time of the year, past performance and subject matter tend to dictate the release of films. The biggest seasons are Summer and Winter. Summ",
+    "frecency": 3517,
+    "url_hash": 59629657578993,
+    "last_visit_date": 1758203929332735
+  }
+}

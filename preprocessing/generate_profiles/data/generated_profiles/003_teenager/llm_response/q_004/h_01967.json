@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Lara Croft \\\"From Wikipedia, the free encyclopedianavigation search Not to be confused with Laura Croft. Lara Croft Tomb Raider character Lara Croft, as she appears in a promotional render from Tomb Raider (2013)First game Tomb Raider (1996)Created by Toby Gard Voiced by Shelley Blond (1996) [1]Judith Gibbins (",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about the fictional character Lara Croft, not about improving athletic performance or sports skills; it is not relevant to the query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Lara Croft \"From Wikipedia, the free encyclopedianavigation search Not to be confused with Laura Croft. Lara Croft Tomb Raider character Lara Croft, as she appears in a promotional render from Tomb Raider (2013)First game Tomb Raider (1996)Created by Toby Gard Voiced by Shelley Blond (1996) [1]Judith Gibbins (",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Lara_Croft",
+    "title": "Lara Croft",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search Not to be confused with Laura Croft. Lara Croft Tomb Raider character Lara Croft, as she appears in a promotional render from Tomb Raider (2013)First game Tomb Raider (1996)Created by Toby Gard Voiced by Shelley Blond (1996) [1]Judith Gibbins (",
+    "frecency": 2979,
+    "url_hash": 59107607839947,
+    "last_visit_date": 1758203929703228
+  }
+}

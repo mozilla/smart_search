@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "openstack / puppet-ironic \"Watch 9 Star 45 Fork 17openstack / puppet-ironic Code Pull requests 0Insights Dismiss Join Git Hub today Git Hub is home to over 20 million developers working together to host and review code, manage projects, and build software together. Sign up Open Stack Ironic Puppet Module http://openstack.org",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a GitHub page for the OpenStack puppet-ironic project, which is not related to Python libraries for machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "openstack / puppet-ironic \"Watch 9 Star 45 Fork 17openstack / puppet-ironic Code Pull requests 0Insights Dismiss Join Git Hub today Git Hub is home to over 20 million developers working together to host and review code, manage projects, and build software together. Sign up Open Stack Ironic Puppet Module http://openstack.org",
+  "history": {
+    "url": "https://github.com/openstack/puppet-ironic",
+    "title": "openstack / puppet-ironic",
+    "description": "\"Watch 9 Star 45 Fork 17openstack / puppet-ironic Code Pull requests 0Insights Dismiss Join Git Hub today Git Hub is home to over 20 million developers working together to host and review code, manage projects, and build software together. Sign up Open Stack Ironic Puppet Module http://openstack.org",
+    "frecency": 4760,
+    "url_hash": 95498699608153,
+    "last_visit_date": 1758203930288111
+  }
+}

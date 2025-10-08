@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Made in L.A. 2016: a, the, though, only The third iteration of the Hammer\u2019s biennial exhibition continues to highlight the practices of artists working throughout Los Angeles and the surrounding areas. Made in L. A. 2016: a, the, though, only is the third iteration of the Hammer\u2019s biennial exhibition highlighting the practices of artists",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes an art exhibition and is not related to improving sports or sports performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Made in L.A. 2016: a, the, though, only The third iteration of the Hammer\u2019s biennial exhibition continues to highlight the practices of artists working throughout Los Angeles and the surrounding areas. Made in L. A. 2016: a, the, though, only is the third iteration of the Hammer\u2019s biennial exhibition highlighting the practices of artists",
+  "history": {
+    "url": "https://hammer.ucla.edu/made-in-la-2016/",
+    "title": "Made in L.A. 2016: a, the, though, only",
+    "description": "The third iteration of the Hammer\u2019s biennial exhibition continues to highlight the practices of artists working throughout Los Angeles and the surrounding areas. Made in L. A. 2016: a, the, though, only is the third iteration of the Hammer\u2019s biennial exhibition highlighting the practices of artists ",
+    "frecency": 3883,
+    "url_hash": 85328066671296,
+    "last_visit_date": 1758203935169228
+  }
+}

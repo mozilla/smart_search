@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Oil Painting \\\"Oil Painting History, Styles, Famous Paintings in Oils. MAIN A-Z INDEXBoy With Pipe - One of Picasso's greatest 20th century paintings. GREATEST OIL PAINTINGS For a list of masterpieces by famous artists, see: Greatest Paintings Ever MOST VALUABLE ART For details of the world's costliest canvases,",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about oil painting and art history, not sports or strategies to improve at sports; therefore it is not relevant to the query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Oil Painting \"Oil Painting History, Styles, Famous Paintings in Oils. MAIN A-Z INDEXBoy With Pipe - One of Picasso's greatest 20th century paintings. GREATEST OIL PAINTINGS For a list of masterpieces by famous artists, see: Greatest Paintings Ever MOST VALUABLE ART For details of the world's costliest canvases,",
+  "history": {
+    "url": "http://www.visual-arts-cork.com/oil-painting.htm",
+    "title": "Oil Painting",
+    "description": "\"Oil Painting History, Styles, Famous Paintings in Oils. MAIN A-Z INDEXBoy With Pipe - One of Picasso's greatest 20th century paintings. GREATEST OIL PAINTINGS For a list of masterpieces by famous artists, see: Greatest Paintings Ever MOST VALUABLE ART For details of the world's costliest canvases, ",
+    "frecency": 2623,
+    "url_hash": 25592264128614,
+    "last_visit_date": 1758203930825228
+  }
+}

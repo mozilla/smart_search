@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "January Jones (I) \"Top 5000January Jones (I)Actress | Soundtrack January Jones was born on January 5, 1978 in Sioux Falls, South Dakota. She is the daughter of Karen Sue (n\u00e9e Cox), a sporting goods store manager, and Marvin Roger Jones, a gym teacher and fitness director. She is of Czech, Danish, English, Welsh, and",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about actress January Jones and is not related to Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "January Jones (I) \"Top 5000January Jones (I)Actress | Soundtrack January Jones was born on January 5, 1978 in Sioux Falls, South Dakota. She is the daughter of Karen Sue (n\u00e9e Cox), a sporting goods store manager, and Marvin Roger Jones, a gym teacher and fitness director. She is of Czech, Danish, English, Welsh, and",
+  "history": {
+    "url": "http://www.imdb.com/name/nm0005064/",
+    "title": "January Jones (I)",
+    "description": "\"Top 5000January Jones (I)Actress | Soundtrack January Jones was born on January 5, 1978 in Sioux Falls, South Dakota. She is the daughter of Karen Sue (n\u00e9e Cox), a sporting goods store manager, and Marvin Roger Jones, a gym teacher and fitness director. She is of Czech, Danish, English, Welsh, and ",
+    "frecency": 4915,
+    "url_hash": 26540690398467,
+    "last_visit_date": 1758203928286200
+  }
+}

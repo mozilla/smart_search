@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Native Audio in the browser \"Native Audio in the browser Wednesday, July 29th, 2009 by Mark Boas. Tweet This article was last updated on 28 May 2014 to reflect changes in the spec. Until recently, the ability to play any type of audio within a browser involved using Adobe Flash or other browser plugins. Although Adobe's Flash",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses native audio in the browser and Flash, not database query optimization; it is not relevant to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Native Audio in the browser \"Native Audio in the browser Wednesday, July 29th, 2009 by Mark Boas. Tweet This article was last updated on 28 May 2014 to reflect changes in the spec. Until recently, the ability to play any type of audio within a browser involved using Adobe Flash or other browser plugins. Although Adobe's Flash",
+  "history": {
+    "url": "http://html5doctor.com/native-audio-in-the-browser/",
+    "title": "Native Audio in the browser",
+    "description": "\"Native Audio in the browser Wednesday, July 29th, 2009 by Mark Boas. Tweet This article was last updated on 28 May 2014 to reflect changes in the spec. Until recently, the ability to play any type of audio within a browser involved using Adobe Flash or other browser plugins. Although Adobe's Flash ",
+    "frecency": 972,
+    "url_hash": 32442603687043,
+    "last_visit_date": 1758203930644111
+  }
+}

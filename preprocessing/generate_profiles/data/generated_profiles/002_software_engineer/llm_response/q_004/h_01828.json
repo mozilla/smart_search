@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Eldon, MO Weather USA.com / Missouri / Eldon, MO / Weather Eldon, MO Weather Basic Info Population/Races Income/Careers Housing Education Crime/Crime Rate Others Weather | Natural Extremes | Air Quality | Environmental Watch | Government Hot Rankings Fastest / Slowest Growing Cities Nearby Best / Worst Cities by Crim",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page appears to be weather-related content about Eldon, Missouri, and not about Docker or beginner setup guidance.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Eldon, MO Weather USA.com / Missouri / Eldon, MO / Weather Eldon, MO Weather Basic Info Population/Races Income/Careers Housing Education Crime/Crime Rate Others Weather | Natural Extremes | Air Quality | Environmental Watch | Government Hot Rankings Fastest / Slowest Growing Cities Nearby Best / Worst Cities by Crim",
+  "history": {
+    "url": "http://www.usa.com/eldon-mo-weather.htm",
+    "title": "Eldon, MO Weather",
+    "description": "USA.com / Missouri / Eldon, MO / Weather Eldon, MO Weather Basic Info Population/Races Income/Careers Housing Education Crime/Crime Rate Others Weather | Natural Extremes | Air Quality | Environmental Watch | Government Hot Rankings Fastest / Slowest Growing Cities Nearby Best / Worst Cities by Crim",
+    "frecency": 1677,
+    "url_hash": 40374877469054,
+    "last_visit_date": 1758203930892111
+  }
+}

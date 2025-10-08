@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "What is the average length? \"What is the average length? As the question is answered on the on the popular Czech television show Ovocn\u00c3\u00bd kol\u00c3\u00a1\u00c4, the answer to \"\"What is the length\"\" is simply \"\"the sum of all frenchmen wearing s \u2026Erik R 5 Contributions How much does the average bicycle weigh? The average adult bicycle weighs r",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is unrelated to improving athletic performance; it discusses average length and bicycle weight with garbled text and does not address sports training, skills, or strategies.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "What is the average length? \"What is the average length? As the question is answered on the on the popular Czech television show Ovocn\u00c3\u00bd kol\u00c3\u00a1\u00c4, the answer to \"\"What is the length\"\" is simply \"\"the sum of all frenchmen wearing s \u2026Erik R 5 Contributions How much does the average bicycle weigh? The average adult bicycle weighs r",
+  "history": {
+    "url": "http://www.answers.com/Q/What_is_average_bicycle_length",
+    "title": "What is the average length?",
+    "description": "\"What is the average length? As the question is answered on the on the popular Czech television show Ovocn\u00c3\u00bd kol\u00c3\u00a1\u00c4, the answer to \"\"What is the length\"\" is simply \"\"the sum of all frenchmen wearing s \u2026Erik R 5 Contributions How much does the average bicycle weigh? The average adult bicycle weighs r",
+    "frecency": 1391,
+    "url_hash": 29609744093674,
+    "last_visit_date": 1758203927376735
+  }
+}

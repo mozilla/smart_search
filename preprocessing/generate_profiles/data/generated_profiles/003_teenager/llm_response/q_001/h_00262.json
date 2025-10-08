@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "The Percy Jackson Problem About a year ago, the novelist Neil Gaiman delivered a lecture at the Barbican, in London, on behalf of the Reading Agency, a not-for-profit organization that promotes literacy and reading for pleasure among children and adults. In the lecture, which was reprinted in the Guardian, Gaiman came out in",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Neil Gaiman and a lecture, unrelated to TikTok trends.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "The Percy Jackson Problem About a year ago, the novelist Neil Gaiman delivered a lecture at the Barbican, in London, on behalf of the Reading Agency, a not-for-profit organization that promotes literacy and reading for pleasure among children and adults. In the lecture, which was reprinted in the Guardian, Gaiman came out in",
+  "history": {
+    "url": "https://www.newyorker.com/culture/cultural-comment/percy-jackson-problem",
+    "title": "The Percy Jackson Problem",
+    "description": "About a year ago, the novelist Neil Gaiman delivered a lecture at the Barbican, in London, on behalf of the Reading Agency, a not-for-profit organization that promotes literacy and reading for pleasure among children and adults. In the lecture, which was reprinted in the Guardian, Gaiman came out in",
+    "frecency": 4746,
+    "url_hash": 42677845834046,
+    "last_visit_date": 1758203929166735
+  }
+}

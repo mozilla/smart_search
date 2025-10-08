@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "The Turtles \\\"From Wikipedia, the free encyclopedianavigation search Not to be confused with Turtles (South Korean band). This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (January",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a Wikipedia article about a band (The Turtles) and not about DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "The Turtles \"From Wikipedia, the free encyclopedianavigation search Not to be confused with Turtles (South Korean band). This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (January",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/The_Turtles",
+    "title": "The Turtles",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search Not to be confused with Turtles (South Korean band). This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (January ",
+    "frecency": 399,
+    "url_hash": 18084508885779,
+    "last_visit_date": 1758203928900735
+  }
+}

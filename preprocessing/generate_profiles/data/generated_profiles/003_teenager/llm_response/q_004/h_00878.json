@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Exercise: 7 benefits of regular physical activity \"Exercise: 7 benefits of regular physical activity You know exercise is good for you, but do you know how good? From boosting your mood to improving your sex life, find out how exercise can improve your life. By Mayo Clinic Staff Want to feel better, have more energy and even add years to your life?\"",
+  "relevance_score": 0.4,
+  "binary_decision": 1,
+  "Decision_Reason": "The page discusses regular physical activity and its benefits, which relates to improving fitness for sports. It is not specifically about strategies to get better at sports, but it provides general exercise guidance that could support athletic performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Exercise: 7 benefits of regular physical activity \"Exercise: 7 benefits of regular physical activity You know exercise is good for you, but do you know how good? From boosting your mood to improving your sex life, find out how exercise can improve your life. By Mayo Clinic Staff Want to feel better, have more energy and even add years to your life?",
+  "history": {
+    "url": "http://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/exercise/art-20048389?pg=2",
+    "title": "Exercise: 7 benefits of regular physical activity",
+    "description": "\"Exercise: 7 benefits of regular physical activity You know exercise is good for you, but do you know how good? From boosting your mood to improving your sex life, find out how exercise can improve your life. By Mayo Clinic Staff Want to feel better, have more energy and even add years to your life?",
+    "frecency": 4080,
+    "url_hash": 90517207406154,
+    "last_visit_date": 1758203931959228
+  }
+}

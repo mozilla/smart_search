@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Walmart To Kick Off Black Friday At 6 P.M. On Thanksgiving Day (CORRECTION) Walmart is kicking off Black Friday 6 p.m. on Thanksgiving Day \u2014 two hours earlier than last year, the company announced Tuesday. The retailer joins 9 others, including Target, Kmart and Best Buy, in opening its doors and starting Black Friday deals on Thanksgiving. It continues a recent industry tr",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Walmart's Black Friday sale and is unrelated to software development IDEs; therefore it is not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Walmart To Kick Off Black Friday At 6 P.M. On Thanksgiving Day (CORRECTION) Walmart is kicking off Black Friday 6 p.m. on Thanksgiving Day \u2014 two hours earlier than last year, the company announced Tuesday. The retailer joins 9 others, including Target, Kmart and Best Buy, in opening its doors and starting Black Friday deals on Thanksgiving. It continues a recent industry tr",
+  "history": {
+    "url": "http://www.huffingtonpost.com/2013/11/12/walmart-thanksgiving-hours-2013_n_4256542.html",
+    "title": "Walmart To Kick Off Black Friday At 6 P.M. On Thanksgiving Day (CORRECTION)",
+    "description": "Walmart is kicking off Black Friday 6 p.m. on Thanksgiving Day \u2014 two hours earlier than last year, the company announced Tuesday. The retailer joins 9 others, including Target, Kmart and Best Buy, in opening its doors and starting Black Friday deals on Thanksgiving. It continues a recent industry tr",
+    "frecency": 1231,
+    "url_hash": 66397721241649,
+    "last_visit_date": 1758203928712200
+  }
+}

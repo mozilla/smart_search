@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Amazon starts UK fresh food delivery Amazon is stepping up its battle against British supermarkets with the launch of fresh food deliveries on Thursday. Amazon Fresh food deliveries 'to start this month in UK'Read more The online specialist\u2019s Amazon Fresh service will offer more than 130,000 groceries to homes in north and east London,",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Amazon Fresh grocery delivery, not API integration or debugging.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Amazon starts UK fresh food delivery Amazon is stepping up its battle against British supermarkets with the launch of fresh food deliveries on Thursday. Amazon Fresh food deliveries 'to start this month in UK'Read more The online specialist\u2019s Amazon Fresh service will offer more than 130,000 groceries to homes in north and east London,",
+  "history": {
+    "url": "https://www.theguardian.com/technology/2016/jun/09/amazon-starts-uk-fresh-food-delivery",
+    "title": "Amazon starts UK fresh food delivery",
+    "description": "Amazon is stepping up its battle against British supermarkets with the launch of fresh food deliveries on Thursday. Amazon Fresh food deliveries 'to start this month in UK'Read more The online specialist\u2019s Amazon Fresh service will offer more than 130,000 groceries to homes in north and east London,",
+    "frecency": 1995,
+    "url_hash": 40244597473006,
+    "last_visit_date": 1758203927060111
+  }
+}

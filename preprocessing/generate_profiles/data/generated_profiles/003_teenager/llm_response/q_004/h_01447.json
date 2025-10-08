@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Balto (film) - Wikipedia article about the Balto animated film",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns a Balto animated film, not content related to improving performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Balto  (film) \"Balto (film)From Wikipedia, the free encyclopedianavigation search Balto Theatrical release poster by John Alvin. Directed by Simon Wells Produced by Steve Hickner Screenplay by Cliff Ruby & Elana Lesser David Steven Cohen Roger S. H. Schulman Story by Cliff Ruby & Elana Lesser Starring Kevin Bacon",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Balto_(film)",
+    "title": "Balto  (film)",
+    "description": "\"Balto (film)From Wikipedia, the free encyclopedianavigation search Balto Theatrical release poster by John Alvin. Directed by Simon Wells Produced by Steve Hickner Screenplay by Cliff Ruby & Elana Lesser David Steven Cohen Roger S. H. Schulman Story by Cliff Ruby & Elana Lesser Starring Kevin Bacon",
+    "frecency": 3518,
+    "url_hash": 25135526697615,
+    "last_visit_date": 1758203928156735
+  }
+}

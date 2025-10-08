@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "ROCKOUT WORKOUT ROCKOUT WORKOUTChannel your inner rockstar with this full body cardio-jam session inspired by the infectious, energizing, and sweat-dripping fun of playing the drums FIND A CLASSTHE WORKOUTInstead of listening to music, you become the music in this exhilarating full-body workout that combines cardio",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a workout program page unrelated to study apps or improving study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "ROCKOUT WORKOUT ROCKOUT WORKOUTChannel your inner rockstar with this full body cardio-jam session inspired by the infectious, energizing, and sweat-dripping fun of playing the drums FIND A CLASSTHE WORKOUTInstead of listening to music, you become the music in this exhilarating full-body workout that combines cardio",
+  "history": {
+    "url": "https://poundfit.com/about/",
+    "title": "ROCKOUT WORKOUT",
+    "description": "ROCKOUT WORKOUTChannel your inner rockstar with this full body cardio-jam session inspired by the infectious, energizing, and sweat-dripping fun of playing the drums FIND A CLASSTHE WORKOUTInstead of listening to music, you become the music in this exhilarating full-body workout that combines cardio",
+    "frecency": 4145,
+    "url_hash": 63071147120552,
+    "last_visit_date": 1758203934053228
+  }
+}

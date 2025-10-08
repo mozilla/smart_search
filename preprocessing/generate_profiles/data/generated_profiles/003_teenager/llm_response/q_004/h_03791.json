@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Orange Is the New Black \"From Wikipedia, the free encyclopedianavigation search Orange Is the New Black Genre Comedy-drama Created by Jenji Kohan Based on Orange Is the New Black: My Year in a Women's Prison by Piper Kerman Starring Taylor Schilling Laura Prepon Michael Harney Michelle Hurst Kate Mulgrew Jason Biggs Uzo Ad\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a page about a TV show, not about improving performance in sports; there is no relevance to the query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Orange Is the New Black \"From Wikipedia, the free encyclopedianavigation search Orange Is the New Black Genre Comedy-drama Created by Jenji Kohan Based on Orange Is the New Black: My Year in a Women's Prison by Piper Kerman Starring Taylor Schilling Laura Prepon Michael Harney Michelle Hurst Kate Mulgrew Jason Biggs Uzo Ad",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Orange_Is_the_New_Black",
+    "title": "Orange Is the New Black",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search Orange Is the New Black Genre Comedy-drama Created by Jenji Kohan Based on Orange Is the New Black: My Year in a Women's Prison by Piper Kerman Starring Taylor Schilling Laura Prepon Michael Harney Michelle Hurst Kate Mulgrew Jason Biggs Uzo Ad",
+    "frecency": 1064,
+    "url_hash": 48566838793800,
+    "last_visit_date": 1758203933547228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "GI Bill\u00c2\u00ae for Dependents Chapter 33 Benefits for Dependents of Veterans Eligible service members may transfer their eligibility to their dependents, but the Department of Defense (Do D) has established very strict requirements to do so. After the Do D approves benefits for transfer, the new beneficiaries must apply for them",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses GI Bill benefits for dependents, which is unrelated to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "GI Bill\u00c2\u00ae for Dependents Chapter 33 Benefits for Dependents of Veterans Eligible service members may transfer their eligibility to their dependents, but the Department of Defense (Do D) has established very strict requirements to do so. After the Do D approves benefits for transfer, the new beneficiaries must apply for them",
+  "history": {
+    "url": "http://www.va.txstate.edu/benefits/gi-bill-dependents.html",
+    "title": "GI Bill\u00c2\u00ae for Dependents",
+    "description": "Chapter 33 Benefits for Dependents of Veterans Eligible service members may transfer their eligibility to their dependents, but the Department of Defense (Do D) has established very strict requirements to do so. After the Do D approves benefits for transfer, the new beneficiaries must apply for them",
+    "frecency": 1033,
+    "url_hash": 42371864607148,
+    "last_visit_date": 1758203930138111
+  }
+}

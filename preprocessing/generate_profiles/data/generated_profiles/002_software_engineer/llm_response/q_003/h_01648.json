@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "The Graham Norton Show \\\"FULL CAST AND CREW | TRIVIA | USER REVIEWS | IMDb Pro | MORESHARE8.3/ 107,494Rate This The Graham Norton Show1h | Comedy, Music, Talk-Show | TV Series (2007\u2013 )Episode Guide361 episodes Irish comedian Graham Norton hosts his very own chat show, which includes chatting to A-list celebrities, the very",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a TV show page and is not related to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "The Graham Norton Show \"FULL CAST AND CREW | TRIVIA | USER REVIEWS | IMDb Pro | MORESHARE8.3/ 107,494Rate This The Graham Norton Show1h | Comedy, Music, Talk-Show | TV Series (2007\u2013 )Episode Guide361 episodes Irish comedian Graham Norton hosts his very own chat show, which includes chatting to A-list celebrities, the very",
+  "history": {
+    "url": "http://www.imdb.com/title/tt0924651/",
+    "title": "The Graham Norton Show",
+    "description": "\"FULL CAST AND CREW | TRIVIA | USER REVIEWS | IMDb Pro | MORESHARE8.3/ 107,494Rate This The Graham Norton Show1h | Comedy, Music, Talk-Show | TV Series (2007\u2013 )Episode Guide361 episodes Irish comedian Graham Norton hosts his very own chat show, which includes chatting to A-list celebrities, the very",
+    "frecency": 2006,
+    "url_hash": 52578843441922,
+    "last_visit_date": 1758203928958111
+  }
+}

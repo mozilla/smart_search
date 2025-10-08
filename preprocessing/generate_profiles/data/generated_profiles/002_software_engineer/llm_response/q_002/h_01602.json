@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "The largest showcase of advanced battery technology in North America \\\"The largest showcase of advanced battery technology in North America Save the Date: September 11 - 13, 2018The Battery Show Exhibition & Conference is a showcase of advanced battery technology for electric & hybrid vehicles, utility & renewable energy support, portable electronics, medical technolo",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a battery technology exhibition, not IDEs or software development tools, so it is not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "The largest showcase of advanced battery technology in North America \"The largest showcase of advanced battery technology in North America Save the Date: September 11 - 13, 2018The Battery Show Exhibition & Conference is a showcase of advanced battery technology for electric & hybrid vehicles, utility & renewable energy support, portable electronics, medical technolo",
+  "history": {
+    "url": "http://www.thebatteryshow.com/",
+    "title": "The largest showcase of advanced battery technology in North America",
+    "description": "\"The largest showcase of advanced battery technology in North America Save the Date: September 11 - 13, 2018The Battery Show Exhibition & Conference is a showcase of advanced battery technology for electric & hybrid vehicles, utility & renewable energy support, portable electronics, medical technolo",
+    "frecency": 2108,
+    "url_hash": 76889761421841,
+    "last_visit_date": 1758203928600111
+  }
+}

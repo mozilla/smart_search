@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "About REPu We Empower Schools REPu partners with schools across the US to enable them to bring their community together. A closely connected community of students, parents, teachers, coaches, fans, local businesses and organizations all unified through a simple digital platform enhancing the school\u2019s presence",
+  "relevance_score": 0.15,
+  "binary_decision": 0,
+  "Decision_Reason": "The page describes a school community platform and partnerships; it does not discuss strategies or resources for improving athletic performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "About REPu We Empower Schools REPu partners with schools across the US to enable them to bring their community together. A closely connected community of students, parents, teachers, coaches, fans, local businesses and organizations all unified through a simple digital platform enhancing the school\u2019s presence",
+  "history": {
+    "url": "https://www.repusports.com/about-us/",
+    "title": "About REPu",
+    "description": "We Empower Schools REPu partners with schools across the US to enable them to bring their community together. A closely connected community of students, parents, teachers, coaches, fans, local businesses and organizations all unified through a simple digital platform enhancing the school\u2019s presence ",
+    "frecency": 1219,
+    "url_hash": 29102835217827,
+    "last_visit_date": 1758203927186735
+  }
+}

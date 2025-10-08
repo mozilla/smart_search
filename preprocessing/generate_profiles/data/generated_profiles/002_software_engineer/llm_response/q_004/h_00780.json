@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "2018 Holiday Hours 2018 Holiday Hours Here are the dates this year that our teams will be enjoying the holidays with friends and family. If you need anything while we're closed, be sure to use online banking or our mobile banking app to keep watch of your balances and transactions. Martin Luther King Jr Day Monday, Ja",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about holiday hours and banking holidays, not about Docker or beginner setup guidance.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "2018 Holiday Hours 2018 Holiday Hours Here are the dates this year that our teams will be enjoying the holidays with friends and family. If you need anything while we're closed, be sure to use online banking or our mobile banking app to keep watch of your balances and transactions. Martin Luther King Jr Day Monday, Ja",
+  "history": {
+    "url": "http://www.fcbanking.com/about-us/holidayhours.html",
+    "title": "2018 Holiday Hours",
+    "description": "2018 Holiday Hours Here are the dates this year that our teams will be enjoying the holidays with friends and family. If you need anything while we're closed, be sure to use online banking or our mobile banking app to keep watch of your balances and transactions. Martin Luther King Jr Day Monday, Ja",
+    "frecency": 3595,
+    "url_hash": 59615320323844,
+    "last_visit_date": 1758203928858111
+  }
+}

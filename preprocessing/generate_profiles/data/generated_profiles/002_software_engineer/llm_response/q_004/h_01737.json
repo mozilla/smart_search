@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Elvis Costello \\\"SEE RANKElvis Costello Soundtrack | Actor | Producer Elvis Costello was born Declan Patrick Mac Manus in London, England and raised in Liverpool. The son of British band leader Ross Mac Manus, Costello took his pseudonym from Elvis Presley and his father's stage name (Day Costello). He began perfor",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns Elvis Costello, a musician, and has no relevance to Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Elvis Costello \"SEE RANKElvis Costello Soundtrack | Actor | Producer Elvis Costello was born Declan Patrick Mac Manus in London, England and raised in Liverpool. The son of British band leader Ross Mac Manus, Costello took his pseudonym from Elvis Presley and his father's stage name (Day Costello). He began perfor",
+  "history": {
+    "url": "http://www.imdb.com/name/nm0004845/",
+    "title": "Elvis Costello",
+    "description": "\"SEE RANKElvis Costello Soundtrack | Actor | Producer Elvis Costello was born Declan Patrick Mac Manus in London, England and raised in Liverpool. The son of British band leader Ross Mac Manus, Costello took his pseudonym from Elvis Presley and his father's stage name (Day Costello). He began perfor",
+    "frecency": 1855,
+    "url_hash": 43577855360246,
+    "last_visit_date": 1758203929692111
+  }
+}

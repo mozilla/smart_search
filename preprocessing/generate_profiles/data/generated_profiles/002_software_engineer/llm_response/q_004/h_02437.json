@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Fractional dimensions 5 \"paulyg (Mechanical) (OP) 4 Oct 07 09:50My company has a long history of designing all in fractional or architectural dimensions, except the rare case where you need a tolerance to the thousandth. We deal with mostly castings (sand castings) and fabricated (welded) items. Being a younger engineer I",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page content discusses mechanical engineering topics (fractional dimensions, tolerances, castings) and is not about Docker or container setup.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Fractional dimensions 5 \"paulyg (Mechanical) (OP) 4 Oct 07 09:50My company has a long history of designing all in fractional or architectural dimensions, except the rare case where you need a tolerance to the thousandth. We deal with mostly castings (sand castings) and fabricated (welded) items. Being a younger engineer I",
+  "history": {
+    "url": "http://www.eng-tips.com/viewthread.cfm?qid=199111",
+    "title": "Fractional dimensions 5",
+    "description": "\"paulyg (Mechanical) (OP) 4 Oct 07 09:50My company has a long history of designing all in fractional or architectural dimensions, except the rare case where you need a tolerance to the thousandth. We deal with mostly castings (sand castings) and fabricated (welded) items. Being a younger engineer I ",
+    "frecency": 604,
+    "url_hash": 72788276706231,
+    "last_visit_date": 1758203929368111
+  }
+}

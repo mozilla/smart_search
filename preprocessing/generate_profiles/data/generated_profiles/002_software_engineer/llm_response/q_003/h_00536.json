@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "SQL Server Integration Services SQL Server Integration Services March 14, 2017 2 minutes to read Contributors In this article Try SQL Server and SQL Server Integration Services Resources For content related to previous versions of SQL Server, see SQL Server Integration Services. Microsoft Integration Services is a platform for bui",
+  "relevance_score": 0.2,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about SQL Server Integration Services (SSIS), a data integration/ETL platform, not about techniques to optimize database queries.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "SQL Server Integration Services SQL Server Integration Services March 14, 2017 2 minutes to read Contributors In this article Try SQL Server and SQL Server Integration Services Resources For content related to previous versions of SQL Server, see SQL Server Integration Services. Microsoft Integration Services is a platform for bui",
+  "history": {
+    "url": "https://docs.microsoft.com/en-us/sql/integration-services/sql-server-integration-services",
+    "title": "SQL Server Integration Services",
+    "description": "SQL Server Integration Services March 14, 2017 2 minutes to read Contributors In this article Try SQL Server and SQL Server Integration Services Resources For content related to previous versions of SQL Server, see SQL Server Integration Services. Microsoft Integration Services is a platform for bui",
+    "frecency": 4077,
+    "url_hash": 4676642543157,
+    "last_visit_date": 1758203929518111
+  }
+}

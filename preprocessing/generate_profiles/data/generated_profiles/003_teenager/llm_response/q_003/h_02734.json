@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Prison Is Living Hell for Pedophiles \u2014 article about prison conditions; unrelated to study apps.",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses prison life for pedophiles, which is unrelated to apps for improving study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Prison Is 'Living Hell' for Pedophiles \"Prison Is 'Living Hell' for Pedophiles By MICHAEL S. JAMESAug. 26, 2003Email In prison, fellow inmates derisively call pedophiles \"\"chesters,\"\" \"\"tree jumpers\"\" and \"\"short eyes. \"\"Prison can be a menacing place for child molesters like the former Roman Catholic priest John Geoghan, who was killed",
+  "history": {
+    "url": "http://abcnews.go.com/US/prison-living-hell-pedophiles/story?id=90004",
+    "title": "Prison Is 'Living Hell' for Pedophiles",
+    "description": "\"Prison Is 'Living Hell' for Pedophiles By MICHAEL S. JAMESAug. 26, 2003Email In prison, fellow inmates derisively call pedophiles \"\"chesters,\"\" \"\"tree jumpers\"\" and \"\"short eyes. \"\"Prison can be a menacing place for child molesters like the former Roman Catholic priest John Geoghan, who was killed ",
+    "frecency": 2151,
+    "url_hash": 77689232933090,
+    "last_visit_date": 1758203934213228
+  }
+}

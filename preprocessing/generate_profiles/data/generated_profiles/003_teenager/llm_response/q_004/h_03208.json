@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Parking \"Parking From Wikipedia, the free encyclopedianavigation search For other uses, see Parking (disambiguation). \\\"\\\"Free parking\\\"\\\" redirects here. For the card game inspired by the Monopoly board, see Free Parking. Cars parked at the side of the street Parking is the act of stopping and disengaging a ve",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses parking, not sports or improving athletic performance; it is unrelated to the query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Parking \"Parking From Wikipedia, the free encyclopedianavigation search For other uses, see Parking (disambiguation). \"\"Free parking\"\" redirects here. For the card game inspired by the Monopoly board, see Free Parking. Cars parked at the side of the street Parking is the act of stopping and disengaging a ve",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Parking",
+    "title": "Parking",
+    "description": "\"Parking From Wikipedia, the free encyclopedianavigation search For other uses, see Parking (disambiguation). \"\"Free parking\"\" redirects here. For the card game inspired by the Monopoly board, see Free Parking. Cars parked at the side of the street Parking is the act of stopping and disengaging a ve",
+    "frecency": 1641,
+    "url_hash": 80253646921449,
+    "last_visit_date": 1758203936141228
+  }
+}

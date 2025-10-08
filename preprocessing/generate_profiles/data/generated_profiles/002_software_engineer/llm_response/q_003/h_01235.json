@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Ron Perlman \\\"Ron Perlman From Wikipedia, the free encyclopedianavigation search For the American businessman, see Ronald Perelman. Ron Perlman Perlman in December 2016Born Ronald Francis [ citation needed]Perlman April 13, 1950 (age 67)Washington Heights, New York, U. S. Occupation Actor, voice actor Years acti",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about the actor Ron Perlman, not about database query optimization; thus not relevant to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Ron Perlman \"Ron Perlman From Wikipedia, the free encyclopedianavigation search For the American businessman, see Ronald Perelman. Ron Perlman Perlman in December 2016Born Ronald Francis [ citation needed]Perlman April 13, 1950 (age 67)Washington Heights, New York, U. S. Occupation Actor, voice actor Years acti",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Ron_Perlman",
+    "title": "Ron Perlman",
+    "description": "\"Ron Perlman From Wikipedia, the free encyclopedianavigation search For the American businessman, see Ronald Perelman. Ron Perlman Perlman in December 2016Born Ronald Francis [ citation needed]Perlman April 13, 1950 (age 67)Washington Heights, New York, U. S. Occupation Actor, voice actor Years acti",
+    "frecency": 2792,
+    "url_hash": 14587529045712,
+    "last_visit_date": 1758203930238111
+  }
+}

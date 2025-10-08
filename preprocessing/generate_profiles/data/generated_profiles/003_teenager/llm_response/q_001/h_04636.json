@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "Mental Health Courts What are Mental Health Courts? Mental health courts are a type of problem solving court that combine judicial supervision with community mental health treatment and other support services in order to reduce criminal activity and improve the quality of life of participants. The first mental health co",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses mental health courts, not TikTok trends, indicating no relevance to the query.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "Mental Health Courts What are Mental Health Courts? Mental health courts are a type of problem solving court that combine judicial supervision with community mental health treatment and other support services in order to reduce criminal activity and improve the quality of life of participants. The first mental health co",
+  "history": {
+    "url": "http://www.courts.ca.gov/5982.htm",
+    "title": "Mental Health Courts",
+    "description": "What are Mental Health Courts? Mental health courts are a type of problem solving court that combine judicial supervision with community mental health treatment and other support services in order to reduce criminal activity and improve the quality of life of participants. The first mental health co",
+    "frecency": 192,
+    "url_hash": 8813595507360,
+    "last_visit_date": 1758203928712735
+  }
+}

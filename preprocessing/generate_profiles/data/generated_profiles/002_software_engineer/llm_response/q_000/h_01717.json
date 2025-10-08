@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Production Production What is the difference between domestic and commercially produced Goose Fat? Essentially, it is the same product. When you cook a farmed goose at home, you will notice that a large amount of fat will drain off. You can collect and store this fat by pouring it through a fine sieve into a s",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns goose fat and cooking, not API integration debugging; it is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Production Production What is the difference between domestic and commercially produced Goose Fat? Essentially, it is the same product. When you cook a farmed goose at home, you will notice that a large amount of fat will drain off. You can collect and store this fat by pouring it through a fine sieve into a s",
+  "history": {
+    "url": "http://www.goosefat.co.uk/page/production",
+    "title": "Production",
+    "description": "Production What is the difference between domestic and commercially produced Goose Fat? Essentially, it is the same product. When you cook a farmed goose at home, you will notice that a large amount of fat will drain off. You can collect and store this fat by pouring it through a fine sieve into a s",
+    "frecency": 1897,
+    "url_hash": 83638368181835,
+    "last_visit_date": 1758203928974111
+  }
+}

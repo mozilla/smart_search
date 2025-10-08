@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Contact Select a station\u00d7,Customer Service Organisation\u00d7Lima (Callao) (LIM)Astana (TSE)Papeete (PPT)Lima (Callao) (LIM)Astana (TSE)Papeete (PPT)9742844921242259810912 BESbswy",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result contains airport contact information and random characters; it does not relate to Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Contact Select a station\u00d7,Customer Service Organisation\u00d7Lima (Callao) (LIM)Astana (TSE)Papeete (PPT)Lima (Callao) (LIM)Astana (TSE)Papeete (PPT)9742844921242259810912 BESbswy",
+  "history": {
+    "url": "https://www.afklcargo.com/WW/en/local/contact/contact.jsp",
+    "title": "Contact",
+    "description": "Select a station\u00d7,Customer Service Organisation\u00d7Lima (Callao) (LIM)Astana (TSE)Papeete (PPT)Lima (Callao) (LIM)Astana (TSE)Papeete (PPT)9742844921242259810912 BESbswy ",
+    "frecency": 739,
+    "url_hash": 64842435818849,
+    "last_visit_date": 1758203929068200
+  }
+}

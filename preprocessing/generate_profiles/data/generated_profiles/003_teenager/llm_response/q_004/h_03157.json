@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Peanut \"This article is about the nut. For comic strip, see Peanuts. The English used in this article or section may not be easy for everybody to understand. You can help Wikipedia by reading Wikipedia: How to write Simple English pages, then simplifying the article. (May 2012)Peanut Peanut ( Arachis hypog",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses peanuts, not sports or ways to improve athletic performance; it is not relevant to the query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Peanut \"This article is about the nut. For comic strip, see Peanuts. The English used in this article or section may not be easy for everybody to understand. You can help Wikipedia by reading Wikipedia: How to write Simple English pages, then simplifying the article. (May 2012)Peanut Peanut ( Arachis hypog",
+  "history": {
+    "url": "https://simple.wikipedia.org/wiki/Peanut",
+    "title": "Peanut",
+    "description": "\"This article is about the nut. For comic strip, see Peanuts. The English used in this article or section may not be easy for everybody to understand. You can help Wikipedia by reading Wikipedia: How to write Simple English pages, then simplifying the article. (May 2012)Peanut Peanut ( Arachis hypog",
+    "frecency": 1683,
+    "url_hash": 1369867666358,
+    "last_visit_date": 1758203928284735
+  }
+}

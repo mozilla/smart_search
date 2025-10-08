@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Led Zeppelin \"From Wikipedia, the free encyclopedia (Redirected from Zeppelin, Led)navigation search This article is about the band. For their eponymous first album, see Led Zeppelin (album). For other uses, see Led Zeppelin (disambiguation). Led Zeppelin Clockwise, from top left: Jimmy Page, John Bonham, Robert",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns a rock band (Led Zeppelin) and contains no information about improving athletic performance; it is not relevant to the query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Led Zeppelin \"From Wikipedia, the free encyclopedia (Redirected from Zeppelin, Led)navigation search This article is about the band. For their eponymous first album, see Led Zeppelin (album). For other uses, see Led Zeppelin (disambiguation). Led Zeppelin Clockwise, from top left: Jimmy Page, John Bonham, Robert",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Zeppelin,_Led",
+    "title": "Led Zeppelin",
+    "description": "\"From Wikipedia, the free encyclopedia (Redirected from Zeppelin, Led)navigation search This article is about the band. For their eponymous first album, see Led Zeppelin (album). For other uses, see Led Zeppelin (disambiguation). Led Zeppelin Clockwise, from top left: Jimmy Page, John Bonham, Robert",
+    "frecency": 4144,
+    "url_hash": 88990160659285,
+    "last_visit_date": 1758203933069228
+  }
+}

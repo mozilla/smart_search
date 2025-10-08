@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Bubba Gump Shrimp Co. \u00c2\u00ae Bubba Gump Shrimp Co. \u00aeSince 1996, Bubba Gump Shrimp Co. \u00ae has been entertaining guests with a charming down-home style that\u2019s a hit with eaters around the globe. Our menu offers a number of items for the shrimp lover in all of us, boasting creative seafood dishes inspired straight from the movie Fo",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a restaurant homepage and unrelated to apps or study habits; it does not address the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Bubba Gump Shrimp Co. \u00c2\u00ae Bubba Gump Shrimp Co. \u00aeSince 1996, Bubba Gump Shrimp Co. \u00ae has been entertaining guests with a charming down-home style that\u2019s a hit with eaters around the globe. Our menu offers a number of items for the shrimp lover in all of us, boasting creative seafood dishes inspired straight from the movie Fo",
+  "history": {
+    "url": "http://www.landrysinc.com/concepts/restaurants/bubbagump.asp",
+    "title": "Bubba Gump Shrimp Co. \u00c2\u00ae",
+    "description": "Bubba Gump Shrimp Co. \u00aeSince 1996, Bubba Gump Shrimp Co. \u00ae has been entertaining guests with a charming down-home style that\u2019s a hit with eaters around the globe. Our menu offers a number of items for the shrimp lover in all of us, boasting creative seafood dishes inspired straight from the movie Fo",
+    "frecency": 4674,
+    "url_hash": 44129625084718,
+    "last_visit_date": 1758203927622735
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Is NASCAR really that bad for the environment? NEXTCars speed through the NASCAR Sprint Cup Series. Chris Graythen/ Getty Images for NASCAR In the United States, more people watch NASCAR racing than baseball, supposedly America's pastime. It's second only to football, with 75 million dedicated fans who tune in (or show up) almost every week.",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page discusses NASCAR and environmental concerns, not about starting a YouTube channel; thus it is not relevant to the query.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Is NASCAR really that bad for the environment? \"NEXTCars speed through the NASCAR Sprint Cup Series. Chris Graythen/ Getty Images for NASCARIn the United States, more people watch NASCAR racing than baseball, supposedly \"\"America's pastime.\"\" It's second only to football, with 75 million dedicated fans who tune in (or show up) almost every weeke",
+  "history": {
+    "url": "http://science.howstuffworks.com/environmental/green-science/nascar-environment.htm",
+    "title": "Is NASCAR really that bad for the environment?",
+    "description": "\"NEXTCars speed through the NASCAR Sprint Cup Series. Chris Graythen/ Getty Images for NASCARIn the United States, more people watch NASCAR racing than baseball, supposedly \"\"America's pastime.\"\" It's second only to football, with 75 million dedicated fans who tune in (or show up) almost every weeke",
+    "frecency": 4230,
+    "url_hash": 50521506165198,
+    "last_visit_date": 1758203931329228
+  }
+}

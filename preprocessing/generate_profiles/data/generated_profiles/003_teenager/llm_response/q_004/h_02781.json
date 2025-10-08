@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "How Much Does a Horse Weigh? How Much Does a Horse Weigh? Article \u2022 Monday 23 May 2016Share: In the Swedish cult classic, Pippi Longstocking, a small freckled girl lifts and twirls her closest companion, a spotted white horse round and round with ease. Some little girls may have trained their horse/pony to walk on its hind legs",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The result is about horse weight and unrelated to improving human performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "How Much Does a Horse Weigh? How Much Does a Horse Weigh? Article \u2022 Monday 23 May 2016Share: In the Swedish cult classic, Pippi Longstocking, a small freckled girl lifts and twirls her closest companion, a spotted white horse round and round with ease. Some little girls may have trained their horse/pony to walk on its hind legs",
+  "history": {
+    "url": "https://www.horseclicks.com/horse_advice/how-much-does-a-horse-weigh-/282",
+    "title": "How Much Does a Horse Weigh?",
+    "description": "How Much Does a Horse Weigh? Article \u2022 Monday 23 May 2016Share: In the Swedish cult classic, Pippi Longstocking, a small freckled girl lifts and twirls her closest companion, a spotted white horse round and round with ease. Some little girls may have trained their horse/pony to walk on its hind legs",
+    "frecency": 2104,
+    "url_hash": 40354214675793,
+    "last_visit_date": 1758203928538735
+  }
+}

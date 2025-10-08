@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "intent \"intent Also found in: Dictionary, Thesaurus, Medical, Idioms, Encyclopedia, Wikipedia. Related to intent: letter of intent, General Intent Intent A determination to perform a particular act or to act in a particular manner for a specific reason; an aim or design; a resolution to use a certain means",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes 'intent' and related dictionary terms, not content about starting a YouTube channel; it is not relevant to the query.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "intent \"intent Also found in: Dictionary, Thesaurus, Medical, Idioms, Encyclopedia, Wikipedia. Related to intent: letter of intent, General Intent Intent A determination to perform a particular act or to act in a particular manner for a specific reason; an aim or design; a resolution to use a certain means",
+  "history": {
+    "url": "http://legal-dictionary.thefreedictionary.com/Intent",
+    "title": "intent",
+    "description": "\"intent Also found in: Dictionary, Thesaurus, Medical, Idioms, Encyclopedia, Wikipedia. Related to intent: letter of intent, General Intent Intent A determination to perform a particular act or to act in a particular manner for a specific reason; an aim or design; a resolution to use a certain means",
+    "frecency": 2676,
+    "url_hash": 55653298214685,
+    "last_visit_date": 1758203931575228
+  }
+}

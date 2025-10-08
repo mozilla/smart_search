@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Octave An octave is the distance between two musical notes that have the same letter name. If a musician sings or plays a scale (\u2018do-re-mi-fa-sol-la-ti-do\u2019) the first and last \u2018doh\u2019 are an octave apart. It is called an \u2018octave\u2019 because there are eight notes in a scale (\u2018octo\u2019 is Latin for \u2018eight\u2019). If a mu",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses music theory (octaves) and is unrelated to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Octave An octave is the distance between two musical notes that have the same letter name. If a musician sings or plays a scale (\u2018do-re-mi-fa-sol-la-ti-do\u2019) the first and last \u2018doh\u2019 are an octave apart. It is called an \u2018octave\u2019 because there are eight notes in a scale (\u2018octo\u2019 is Latin for \u2018eight\u2019). If a mu",
+  "history": {
+    "url": "https://simple.wikipedia.org/wiki/Octave",
+    "title": "Octave",
+    "description": "An octave is the distance between two musical notes that have the same letter name. If a musician sings or plays a scale (\u2018do-re-mi-fa-sol-la-ti-do\u2019) the first and last \u2018doh\u2019 are an octave apart. It is called an \u2018octave\u2019 because there are eight notes in a scale (\u2018octo\u2019 is Latin for \u2018eight\u2019). If a mu",
+    "frecency": 1047,
+    "url_hash": 87967263615872,
+    "last_visit_date": 1758203936057228
+  }
+}

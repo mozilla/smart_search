@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Disney's Port Orleans Resort - Riverside Disney's Port Orleans Resort - Riverside251 Riverside Drive Lake Buena Vista, FL, 32830 Phone: 407-934-6000 Fax: 407-934-5777 Check In: 3:00pm Check Out: 11:00am Number of Rooms: 2048Rates: $149 - $248Walt Disney World Resorts Port Orleans Riverside Main | Rooms | Dining | Recreation | Resort Map Po",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns a Disney resort and does not relate to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Disney's Port Orleans Resort - Riverside Disney's Port Orleans Resort - Riverside251 Riverside Drive Lake Buena Vista, FL, 32830 Phone: 407-934-6000 Fax: 407-934-5777 Check In: 3:00pm Check Out: 11:00am Number of Rooms: 2048Rates: $149 - $248Walt Disney World Resorts Port Orleans Riverside Main | Rooms | Dining | Recreation | Resort Map Po",
+  "history": {
+    "url": "https://www.dreamsunlimitedtravel.com/resorts/Port_Orleans_river/riversidemainpage.htm",
+    "title": "Disney's Port Orleans Resort - Riverside",
+    "description": "Disney's Port Orleans Resort - Riverside251 Riverside Drive Lake Buena Vista, FL, 32830 Phone: 407-934-6000 Fax: 407-934-5777 Check In: 3:00pm Check Out: 11:00am Number of Rooms: 2048Rates: $149 - $248Walt Disney World Resorts Port Orleans Riverside Main | Rooms | Dining | Recreation | Resort Map Po",
+    "frecency": 3351,
+    "url_hash": 1165564679252,
+    "last_visit_date": 1758203931979228
+  }
+}

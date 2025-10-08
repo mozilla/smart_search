@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Manila \"From Wikipedia, the free encyclopedia (Redirected from Manila, Philippines)navigation search\"\"Maynila\" and \"Maynilad\" redirect here. For the Philippine TV series produced by the GMA Network, see Maynila (TV series). For related water companies, see Maynilad Water Services and Manila Water. This",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Manila and disambiguation terms, not about improving athletic performance or sports training.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Manila \"From Wikipedia, the free encyclopedia (Redirected from Manila, Philippines)navigation search\"\"Maynila\"\" and \"\"Maynilad\"\" redirect here. For the Philippine TV series produced by the GMA Network, see Maynila (TV series). For related water companies, see Maynilad Water Services and Manila Water. This",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Manila,_Philippines",
+    "title": "Manila",
+    "description": "\"From Wikipedia, the free encyclopedia (Redirected from Manila, Philippines)navigation search\"\"Maynila\"\" and \"\"Maynilad\"\" redirect here. For the Philippine TV series produced by the GMA Network, see Maynila (TV series). For related water companies, see Maynilad Water Services and Manila Water. This ",
+    "frecency": 611,
+    "url_hash": 15790076021197,
+    "last_visit_date": 1758203929767228
+  }
+}

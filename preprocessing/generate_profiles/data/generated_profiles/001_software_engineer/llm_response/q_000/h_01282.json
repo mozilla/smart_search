@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Summary Summary Quick Facts: Purchasing Managers, Buyers, and Purchasing Agents2016 Median Pay$64,850 per year $31.18 per hour Typical Entry-Level Education Bachelor's degree Work Experience in a Related Occupation See How to Become One On-the-job Training See How to Become One Number of Jobs, 2016 520,400J",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses occupations and pay data for purchasing managers, not about debugging APIs or API integration. It is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Summary Summary Quick Facts: Purchasing Managers, Buyers, and Purchasing Agents2016 Median Pay$64,850 per year $31.18 per hour Typical Entry-Level Education Bachelor's degree Work Experience in a Related Occupation See How to Become One On-the-job Training See How to Become One Number of Jobs, 2016 520,400J",
+  "history": {
+    "url": "https://www.bls.gov/ooh/business-and-financial/purchasing-managers-buyers-and-purchasing-agents.htm",
+    "title": "Summary",
+    "description": "Summary Quick Facts: Purchasing Managers, Buyers, and Purchasing Agents2016 Median Pay$64,850 per year $31.18 per hour Typical Entry-Level Education Bachelor's degree Work Experience in a Related Occupation See How to Become One On-the-job Training See How to Become One Number of Jobs, 2016 520,400J",
+    "frecency": 491,
+    "url_hash": 32210448209148,
+    "last_visit_date": 1758203928012200
+  }
+}

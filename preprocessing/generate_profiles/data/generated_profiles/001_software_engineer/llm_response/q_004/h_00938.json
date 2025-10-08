@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "How to Troubleshoot Connecting to the SQL Server Database Engine \\\"How to Troubleshoot Connecting to the SQL Server Database Engine Abstract This topic was updated and moved into SQL Server Books Online in June. 2016. See https://msdn.microsoft.com/library/mt750266.aspx Original topic follows: This is an exhaustive list of troubleshooting techniques to use when yo",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns SQL Server troubleshooting and is unrelated to Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "How to Troubleshoot Connecting to the SQL Server Database Engine \"How to Troubleshoot Connecting to the SQL Server Database Engine Abstract This topic was updated and moved into SQL Server Books Online in June. 2016. See https://msdn.microsoft.com/library/mt750266.aspx Original topic follows: This is an exhaustive list of troubleshooting techniques to use when yo",
+  "history": {
+    "url": "https://social.technet.microsoft.com/wiki/contents/articles/2102.how-to-troubleshoot-connecting-to-the-sql-server-database-engine.aspx",
+    "title": "How to Troubleshoot Connecting to the SQL Server Database Engine",
+    "description": "\"How to Troubleshoot Connecting to the SQL Server Database Engine Abstract This topic was updated and moved into SQL Server Books Online in June. 2016. See https://msdn.microsoft.com/library/mt750266.aspx Original topic follows: This is an exhaustive list of troubleshooting techniques to use when yo",
+    "frecency": 1733,
+    "url_hash": 5026659672758,
+    "last_visit_date": 1758203928864200
+  }
+}

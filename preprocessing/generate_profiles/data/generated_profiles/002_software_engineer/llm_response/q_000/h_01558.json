@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "SOFTBALL SOFTBALLGrab your friends and co-workers and swing for the fences in a Dallas Sport & Social adult softball league. We offer multiple nights of play and are one of the biggest adult leagues in Dallas! This is the perfect league for adults and young professionals who want to get active and be social.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns a softball league and has no content related to API debugging; not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "SOFTBALL SOFTBALLGrab your friends and co-workers and swing for the fences in a Dallas Sport & Social adult softball league. We offer multiple nights of play and are one of the biggest adult leagues in Dallas! This is the perfect league for adults and young professionals who want to get active and be social.",
+  "history": {
+    "url": "http://www.dallassocialclub.com/softball/",
+    "title": "SOFTBALL",
+    "description": "SOFTBALLGrab your friends and co-workers and swing for the fences in a Dallas Sport & Social adult softball league. We offer multiple nights of play and are one of the biggest adult leagues in Dallas! This is the perfect league for adults and young professionals who want to get active and be social.",
+    "frecency": 2183,
+    "url_hash": 93871376375135,
+    "last_visit_date": 1758203930496111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Acn Inc. company \"Acn Inc. company ACN Inc. is a private company, founded in 1992 and based in Concord, North Carolina, United States, that sell telecommunication services in MLM (multi-level marketing). It began in 1993 under the name of American Communications Network, which was later changed to ACN . It is also p",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Acn Inc., a telecommunications MLM company, which is unrelated to debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Acn Inc. company \"Acn Inc. company ACN Inc. is a private company, founded in 1992 and based in Concord, North Carolina, United States, that sell telecommunication services in MLM (multi-level marketing). It began in 1993 under the name of American Communications Network, which was later changed to ACN . It is also p",
+  "history": {
+    "url": "http://www.mlmeo.com/acn/",
+    "title": "Acn Inc. company",
+    "description": "\"Acn Inc. company ACN Inc. is a private company, founded in 1992 and based in Concord, North Carolina, United States, that sell telecommunication services in MLM (multi-level marketing). It began in 1993 under the name of American Communications Network, which was later changed to ACN . It is also p",
+    "frecency": 3909,
+    "url_hash": 95239820251952,
+    "last_visit_date": 1758203929358111
+  }
+}

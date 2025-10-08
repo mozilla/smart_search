@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "How to Diagnose a Computer Problem 1 Check the POST. POST stands for Power On Self Test. This is generally the first or second thing that appears on a computer after turning on the power. This appears before the operating system begins to load. The POST will display any problems found with hardware that makes the computer unable to b",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses diagnosing a computer hardware issue (POST), not database queries or optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "How to Diagnose a Computer Problem 1 Check the POST. POST stands for Power On Self Test. This is generally the first or second thing that appears on a computer after turning on the power. This appears before the operating system begins to load. The POST will display any problems found with hardware that makes the computer unable to b",
+  "history": {
+    "url": "http://www.wikihow.com/Diagnose-a-Computer-Problem",
+    "title": "How to Diagnose a Computer Problem",
+    "description": "1 Check the POST. POST stands for Power On Self Test. This is generally the first or second thing that appears on a computer after turning on the power. This appears before the operating system begins to load. The POST will display any problems found with hardware that makes the computer unable to b",
+    "frecency": 1914,
+    "url_hash": 34803420535881,
+    "last_visit_date": 1758203927014200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Delete files from a mobile device Delete files from a mobile device Show instructions for: Android There are two ways to remove a file from your phone or tablet. You can either remove them from your local memory or you can choose to delete the file from your Dropbox. Removing files from your phone's memory Local copies of your files",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about deleting files from a mobile device/Dropbox, with no content related to debugging API integrations, APIs, or the process of debugging API calls.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Delete files from a mobile device Delete files from a mobile device Show instructions for: Android There are two ways to remove a file from your phone or tablet. You can either remove them from your local memory or you can choose to delete the file from your Dropbox. Removing files from your phone's memory Local copies of your files",
+  "history": {
+    "url": "https://www.dropbox.com/help/81",
+    "title": "Delete files from a mobile device",
+    "description": "Delete files from a mobile device Show instructions for: Android There are two ways to remove a file from your phone or tablet. You can either remove them from your local memory or you can choose to delete the file from your Dropbox. Removing files from your phone's memory Local copies of your files",
+    "frecency": 318,
+    "url_hash": 56989049116971,
+    "last_visit_date": 1758203927788200
+  }
+}

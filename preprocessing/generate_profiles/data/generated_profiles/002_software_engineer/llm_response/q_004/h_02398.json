@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Brant Daugherty Wikipedia page about an actor; not related to Docker.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns an actor's biography and has no Docker-related content; it is not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Brant Daugherty \"Brant Daugherty From Wikipedia, the free encyclopedianavigation search Brant Daugherty Born August 20, 1985 (age 32)Mason, Ohio, U. S. Nationality American Occupation Actor Years active 2008\u2013present Home town Mason, Ohio Height 6 ft 1 in ( 1.85m )Brant David Daugherty (born August 20, 1985) is an A",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Brant_Daugherty",
+    "title": "Brant Daugherty",
+    "description": "\"Brant Daugherty From Wikipedia, the free encyclopedianavigation search Brant Daugherty Born August 20, 1985 (age 32)Mason, Ohio, U. S. Nationality American Occupation Actor Years active 2008\u2013present Home town Mason, Ohio Height 6 ft 1 in ( 1.85m )Brant David Daugherty (born August 20, 1985) is an A",
+    "frecency": 692,
+    "url_hash": 52418096089247,
+    "last_visit_date": 1758203931838111
+  }
+}

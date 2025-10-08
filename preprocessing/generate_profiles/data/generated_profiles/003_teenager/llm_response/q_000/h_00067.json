@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Small Fry Club  (television program) \\\"Small Fry Club is a children's television program that was broadcast on\\\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns a 1947\u20131951 children's television program, not information about starting or running a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Small Fry Club  (television program) \"Small Fry Club Genre Children's program Presented by Bob Emery Country of origin USAProduction Running time 30 minutes Release Picture format Black-and-white Audio format Monaural Original release March 11, 1947 \u2013 June 15, 1951Small Fry Club is a children's television program that was broadcast on",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Small_Fry_Club",
+    "title": "Small Fry Club  (television program)",
+    "description": "\"Small Fry Club Genre Children's program Presented by Bob Emery Country of origin USAProduction Running time 30 minutes Release Picture format Black-and-white Audio format Monaural Original release March 11, 1947 \u2013 June 15, 1951Small Fry Club is a children's television program that was broadcast on ",
+    "frecency": 4937,
+    "url_hash": 35792941723596,
+    "last_visit_date": 1758203929138735
+  }
+}

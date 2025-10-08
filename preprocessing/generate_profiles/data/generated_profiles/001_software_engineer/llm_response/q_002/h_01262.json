@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Version Class \\\"Version Class. NET Framework (current version) Other Versions Note The . NET API Reference documentation has a new home. Visit the . NET API Browser on docs.microsoft.com to see the new experience. This Represents the version number of an assembly, operating system, or the common language runtime. This",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses the .NET Version Class API reference, not IDEs or software development environments.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Version Class \"Version Class. NET Framework (current version) Other Versions Note The . NET API Reference documentation has a new home. Visit the . NET API Browser on docs.microsoft.com to see the new experience. Represents the version number of an assembly, operating system, or the common language runtime. This",
+  "history": {
+    "url": "https://msdn.microsoft.com/en-us/library/system.version(v=vs.110).aspx",
+    "title": "Version Class",
+    "description": "\"Version Class. NET Framework (current version) Other Versions Note The . NET API Reference documentation has a new home. Visit the . NET API Browser on docs.microsoft.com to see the new experience. Represents the version number of an assembly, operating system, or the common language runtime. This ",
+    "frecency": 555,
+    "url_hash": 94208109385148,
+    "last_visit_date": 1758203929110200
+  }
+}

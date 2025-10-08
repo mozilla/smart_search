@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Lancaster Clerk Office Lancaster Clerk Office Home Government Administration Offices Clerk Offices New York Erie County Lancaster Find Lancaster New York clerk offices, including county, city, and circuit clerks, and clerks of court. Clerks provide information on public court records and legal documents, criminal, jail, a",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns government clerk offices and court records, not software development or integrated development environments.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Lancaster Clerk Office Lancaster Clerk Office Home Government Administration Offices Clerk Offices New York Erie County Lancaster Find Lancaster New York clerk offices, including county, city, and circuit clerks, and clerks of court. Clerks provide information on public court records and legal documents, criminal, jail, a",
+  "history": {
+    "url": "http://www.countyoffice.org/lancaster-ny-clerk/",
+    "title": "Lancaster Clerk Office",
+    "description": "Lancaster Clerk Office Home Government Administration Offices Clerk Offices New York Erie County Lancaster Find Lancaster New York clerk offices, including county, city, and circuit clerks, and clerks of court. Clerks provide information on public court records and legal documents, criminal, jail, a",
+    "frecency": 4939,
+    "url_hash": 7004531576883,
+    "last_visit_date": 1758203930284111
+  }
+}

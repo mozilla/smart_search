@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Restaurant.com Restaurant.com The nation's largest dining deals site with thousands of restaurants, merchants and online providers nationwide",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Restaurant.com, a dining deals site, which has no relation to IDEs or software development.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Restaurant.com Restaurant.com The nation's largest dining deals site with thousands of restaurants, merchants and online providers nationwide",
+  "history": {
+    "url": "http://incentives.restaurant.com/how-it-works",
+    "title": "Restaurant.com",
+    "description": "Restaurant.com The nation's largest dining deals site with thousands of restaurants, merchants and online providers nationwide ",
+    "frecency": 1593,
+    "url_hash": 10601804183919,
+    "last_visit_date": 1758203927970200
+  }
+}

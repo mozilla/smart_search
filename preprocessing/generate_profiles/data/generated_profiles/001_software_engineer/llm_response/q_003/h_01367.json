@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "What is atypical depression? \\\"NEXTPeople with atypical depression who exhibit the symptom of rejection sensitivity may have work and social troubles because they overreact to any hint of criticism or rejection. Hemera/ Thinkstock For most people experiencing odd medical symptoms that don't seem to go together, getting a diagnos",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses atypical depression, not database query optimization; it is not relevant to the search query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "What is atypical depression? \"NEXTPeople with atypical depression who exhibit the symptom of rejection sensitivity may have work and social troubles because they overreact to any hint of criticism or rejection. Hemera/ Thinkstock For most people experiencing odd medical symptoms that don't seem to go together, getting a diagnos",
+  "history": {
+    "url": "https://health.howstuffworks.com/mental-health/depression/questions/atypical-depression.htm",
+    "title": "What is atypical depression?",
+    "description": "\"NEXTPeople with atypical depression who exhibit the symptom of rejection sensitivity may have work and social troubles because they overreact to any hint of criticism or rejection. Hemera/ Thinkstock For most people experiencing odd medical symptoms that don't seem to go together, getting a diagnos",
+    "frecency": 123,
+    "url_hash": 25874540068260,
+    "last_visit_date": 1758203926950200
+  }
+}

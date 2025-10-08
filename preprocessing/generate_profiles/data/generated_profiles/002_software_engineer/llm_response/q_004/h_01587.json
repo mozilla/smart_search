@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Employee Benefits Law and Legal Definition \"Employee Benefits Law and Legal Definition The phrase \\\"employee benefits\\\" is an umbrella term that includes insurance programs, fully compensated absences (vacations, holidays, sick leave), pensions, stock ownership plans, and employer-provided services (such as child care) offered by employers t",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses employee benefits law, not Docker setup for beginners; not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Employee Benefits Law and Legal Definition \"Employee Benefits Law and Legal Definition The phrase \"\"employee benefits\"\" is an umbrella term that includes insurance programs, fully compensated absences (vacations, holidays, sick leave), pensions, stock ownership plans, and employer-provided services (such as child care) offered by employers t",
+  "history": {
+    "url": "https://definitions.uslegal.com/e/employee-benefits/",
+    "title": "Employee Benefits Law and Legal Definition",
+    "description": "\"Employee Benefits Law and Legal Definition The phrase \"\"employee benefits\"\" is an umbrella term that includes insurance programs, fully compensated absences (vacations, holidays, sick leave), pensions, stock ownership plans, and employer-provided services (such as child care) offered by employers t",
+    "frecency": 2133,
+    "url_hash": 28737341323211,
+    "last_visit_date": 1758203930572111
+  }
+}

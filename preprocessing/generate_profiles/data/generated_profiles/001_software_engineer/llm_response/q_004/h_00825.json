@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Use a 'Visible' Column in Formulas to Ignore Hidden Rows in Filtered Tables \"Home > Formulas, Data, & VBA >Managing Data Use a 'Visible' Column in Formulas to Ignore Hidden Rows in Filtered Tables Although Excel provides two worksheet functions that ignore filtered rows in a Table, nearly any function can ignore those hidden rows if you use this new trick.by Charley Kyd, MB",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Excel formulas and hiding rows, not Docker or beginner Docker setup; unrelated to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Use a 'Visible' Column in Formulas to Ignore Hidden Rows in Filtered Tables \"Home > Formulas, Data, & VBA >Managing Data Use a 'Visible' Column in Formulas to Ignore Hidden Rows in Filtered Tables Although Excel provides two worksheet functions that ignore filtered rows in a Table, nearly any function can ignore those hidden rows if you use this new trick.by Charley Kyd, MB",
+  "history": {
+    "url": "http://www.exceluser.com/formulas/visible-column-in-excel-tables.htm",
+    "title": "Use a 'Visible' Column in Formulas to Ignore Hidden Rows in Filtered Tables",
+    "description": "\"Home > Formulas, Data, & VBA >Managing Data Use a 'Visible' Column in Formulas to Ignore Hidden Rows in Filtered Tables Although Excel provides two worksheet functions that ignore filtered rows in a Table, nearly any function can ignore those hidden rows if you use this new trick.by Charley Kyd, MB",
+    "frecency": 2164,
+    "url_hash": 9769145330734,
+    "last_visit_date": 1758203927600200
+  }
+}

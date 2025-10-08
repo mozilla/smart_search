@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Five Moons \\\"Five Moons From Wikipedia, the free encyclopedianavigation search The Five Moons are five Native American ballerinas from the U. S. state of Oklahoma who achieved international prominence during the 20th century. They are Yvonne Chouteau, Rosella Hightower, Moscelyne Larkin, and sisters Maria Tallc",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "Retrieved result concerns Native American ballerinas (Five Moons), unrelated to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Five Moons \"Five Moons From Wikipedia, the free encyclopedianavigation search The Five Moons are five Native American ballerinas from the U. S. state of Oklahoma who achieved international prominence during the 20th century. They are Yvonne Chouteau, Rosella Hightower, Moscelyne Larkin, and sisters Maria Tallc",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Five_Moons",
+    "title": "Five Moons",
+    "description": "\"Five Moons From Wikipedia, the free encyclopedianavigation search The Five Moons are five Native American ballerinas from the U. S. state of Oklahoma who achieved international prominence during the 20th century. They are Yvonne Chouteau, Rosella Hightower, Moscelyne Larkin, and sisters Maria Tallc",
+    "frecency": 1089,
+    "url_hash": 14674571713599,
+    "last_visit_date": 1758203930047228
+  }
+}

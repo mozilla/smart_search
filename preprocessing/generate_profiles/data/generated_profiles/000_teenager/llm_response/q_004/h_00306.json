@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Gene Hackman Main Biography Movies Photos Awards Photos All Gene Hackman photos Movies Loose Cannons as Mac Stern Welcome to Mooseport as Monroe Cole Runaway Jury as Rankin Fitch Behind Enemy Lines as Reigart Heist as Joe Moore All Gene Hackman films NEWSToday in Movie Culture: 'Ant-Man and the Wasp' Easter Eggs",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes actor Gene Hackman and his films, not content related to improving athletic performance or sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Gene Hackman Main Biography Movies Photos Awards Photos All Gene Hackman photos Movies Loose Cannons as Mac Stern Welcome to Mooseport as Monroe Cole Runaway Jury as Rankin Fitch Behind Enemy Lines as Reigart Heist as Joe Moore All Gene Hackman films NEWSToday in Movie Culture: 'Ant-Man and the Wasp' Easter Eggs",
+  "history": {
+    "url": "http://www.movies.com/actors/gene-hackman/p282189",
+    "title": "Gene Hackman",
+    "description": "Main Biography Movies Photos Awards Photos All Gene Hackman photos Movies Loose Cannons as Mac Stern Welcome to Mooseport as Monroe Cole Runaway Jury as Rankin Fitch Behind Enemy Lines as Reigart Heist as Joe Moore All Gene Hackman films NEWSToday in Movie Culture: 'Ant-Man and the Wasp' Easter Eggs",
+    "frecency": 3688,
+    "url_hash": 83831755039284,
+    "last_visit_date": 1758203926877139
+  }
+}

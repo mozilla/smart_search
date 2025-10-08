@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "How to Start a Small Business in Hawaii \"How to Start a Small Business in Hawaiiby Joshua Duvauchelle; Updated September 26, 2017Hawaii is the westernmost state in the U. S., joining the nation in 1959. Its temperate climate, ethnically diverse population, and connection to both the U. S. mainland and various Asian economies presents uniq",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about starting a small business in Hawaii, not related to debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "How to Start a Small Business in Hawaii \"How to Start a Small Business in Hawaiiby Joshua Duvauchelle; Updated September 26, 2017Hawaii is the westernmost state in the U. S., joining the nation in 1959. Its temperate climate, ethnically diverse population, and connection to both the U. S. mainland and various Asian economies presents uniq",
+  "history": {
+    "url": "http://www.ehow.com/info_7809029_average-salary-nurses-hawaii.html",
+    "title": "How to Start a Small Business in Hawaii",
+    "description": "\"How to Start a Small Business in Hawaiiby Joshua Duvauchelle; Updated September 26, 2017Hawaii is the westernmost state in the U. S., joining the nation in 1959. Its temperate climate, ethnically diverse population, and connection to both the U. S. mainland and various Asian economies presents uniq",
+    "frecency": 937,
+    "url_hash": 69718306402951,
+    "last_visit_date": 1758203927332111
+  }
+}

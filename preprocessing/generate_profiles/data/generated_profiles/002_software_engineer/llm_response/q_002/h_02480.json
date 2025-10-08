@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Louisville, KY Waffle House Home Louisville, KY Waffle House Louisville, KY Waffle House About Search Results Sort: Default BBB Rated A+/AAll Filters Huber Joe Family Farm Orchard Restaurant Serving the Louisville area. (812) 923-5255Show Banner Restaurants Farms Caterers Menus Website Learn More More Info Long Horn Steakhouse",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about local restaurants in Louisville and has no relevance to IDEs or software development.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Louisville, KY Waffle House Home Louisville, KY Waffle House Louisville, KY Waffle House About Search Results Sort: Default BBB Rated A+/AAll Filters Huber Joe Family Farm Orchard Restaurant Serving the Louisville area. (812) 923-5255Show Banner Restaurants Farms Caterers Menus Website Learn More More Info Long Horn Steakhouse",
+  "history": {
+    "url": "https://www.yellowpages.com/louisville-ky/waffle-house",
+    "title": "Louisville, KY Waffle House",
+    "description": "Home Louisville, KY Waffle House Louisville, KY Waffle House About Search Results Sort: Default BBB Rated A+/AAll Filters Huber Joe Family Farm Orchard Restaurant Serving the Louisville area. (812) 923-5255Show Banner Restaurants Farms Caterers Menus Website Learn More More Info Long Horn Steakhouse",
+    "frecency": 524,
+    "url_hash": 57889488123949,
+    "last_visit_date": 1758203928144111
+  }
+}

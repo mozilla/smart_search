@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Profile: 10th Special Forces Group (Airborne) \\\"Special Operations Profile: 10th Special Forces Group (Airborne)Army.mil/News The 10th SFG (A) has a long, proud history that dates back to 1952 when the Group was activated in Fort Bragg, North Carolina. They maintain high standards in physical fitness, training, daily performance, and personal ap",
+  "relevance_score": 0.2,
+  "binary_decision": 0,
+  "Decision_Reason": "The result is about a military special forces profile and general fitness standards, not about strategies or guidance to improve sports performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Profile: 10th Special Forces Group (Airborne) \"Special Operations Profile: 10th Special Forces Group (Airborne)Army.mil/News The 10th SFG (A) has a long, proud history that dates back to 1952 when the Group was activated in Fort Bragg, North Carolina. They maintain high standards in physical fitness, training, daily performance, and personal ap",
+  "history": {
+    "url": "http://www.military.com/special-operations/profile-10th-special-forces-group-airborne.html",
+    "title": "Profile: 10th Special Forces Group (Airborne)",
+    "description": "\"Special Operations Profile: 10th Special Forces Group (Airborne)Army.mil/News The 10th SFG (A) has a long, proud history that dates back to 1952 when the Group was activated in Fort Bragg, North Carolina. They maintain high standards in physical fitness, training, daily performance, and personal ap",
+    "frecency": 2714,
+    "url_hash": 95982206217718,
+    "last_visit_date": 1758203928952735
+  }
+}

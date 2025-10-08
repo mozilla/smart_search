@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Centrica low cost dealing Centrica low cost dealing A low cost dealing service has been arranged with Stocktrade which provides a simple way of buying or selling Centrica shares. Stocktrade, based in Edinburgh, is an execution only stockbroker, providing trading services to individuals, companies and market professionals sin",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Centrica stock trading services, not Docker or beginner-friendly Docker setup.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Centrica low cost dealing Centrica low cost dealing A low cost dealing service has been arranged with Stocktrade which provides a simple way of buying or selling Centrica shares. Stocktrade, based in Edinburgh, is an execution only stockbroker, providing trading services to individuals, companies and market professionals sin",
+  "history": {
+    "url": "http://www.stocktrade.co.uk/centrica/",
+    "title": "Centrica low cost dealing",
+    "description": "Centrica low cost dealing A low cost dealing service has been arranged with Stocktrade which provides a simple way of buying or selling Centrica shares. Stocktrade, based in Edinburgh, is an execution only stockbroker, providing trading services to individuals, companies and market professionals sin",
+    "frecency": 4602,
+    "url_hash": 18866991326194,
+    "last_visit_date": 1758203931094111
+  }
+}

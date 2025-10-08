@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Evidence-Based Treatment The term \u201cevidence-based\u201d has become quite a buzzword in healthcare in recent years. Evidence-based treatment, evidence-based medicine, evidence-based practice \u2013 these terms all refer to a treatment approach that is rooted in science and in which providers look to the research literature to guide tr",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses evidence-based treatment in healthcare, which is unrelated to software development or IDEs; therefore it is not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Evidence-Based Treatment The term \u201cevidence-based\u201d has become quite a buzzword in healthcare in recent years. Evidence-based treatment, evidence-based medicine, evidence-based practice \u2013 these terms all refer to a treatment approach that is rooted in science and in which providers look to the research literature to guide tr",
+  "history": {
+    "url": "http://ebtseattle.com/introduction.html",
+    "title": "Evidence-Based Treatment",
+    "description": "The term \u201cevidence-based\u201d has become quite a buzzword in healthcare in recent years. Evidence-based treatment, evidence-based medicine, evidence-based practice \u2013 these terms all refer to a treatment approach that is rooted in science and in which providers look to the research literature to guide tr",
+    "frecency": 565,
+    "url_hash": 41020248986335,
+    "last_visit_date": 1758203929790111
+  }
+}

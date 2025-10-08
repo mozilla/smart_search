@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Explore Bar Cart, Cocktail Recipes, and more!",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result mentions bar cart and cocktails, which are unrelated to study apps or study habits; no relevance to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Explore Bar Cart, Cocktail Recipes, and more!",
+  "history": {
+    "url": "https://www.pinterest.com/pin/60587557459141420/",
+    "title": "Explore Bar Cart, Cocktail Recipes, and more!",
+    "description": "",
+    "frecency": 3262,
+    "url_hash": 39905851280213,
+    "last_visit_date": 1758203928503139
+  }
+}

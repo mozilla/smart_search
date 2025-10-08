@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Nocturnal Wonderland Tickets \"All Tickets > Music Tickets > Dance/Electronic > Nocturnal Wonderland Dance/Electronic Nocturnal Wonderland Tickets Get Ticket Alerts Tweet Nocturnal Wonderland Tickets and Concert Dates Show events near me: We currently do not have any tickets on-sale for Nocturnal Wonderland. Click \"\"Get Ticket A\"\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Nocturnal Wonderland concert tickets and events, not about improving sports or athletic performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Nocturnal Wonderland Tickets \"All Tickets > Music Tickets > Dance/Electronic > Nocturnal Wonderland Dance/Electronic Nocturnal Wonderland Tickets Get Ticket Alerts Tweet Nocturnal Wonderland Tickets and Concert Dates Show events near me: We currently do not have any tickets on-sale for Nocturnal Wonderland. Click \"\"Get Ticket A",
+  "history": {
+    "url": "http://www.ticketmaster.com/Nocturnal-Wonderland-tickets/artist/1886822",
+    "title": "Nocturnal Wonderland Tickets",
+    "description": "\"All Tickets > Music Tickets > Dance/Electronic > Nocturnal Wonderland Dance/Electronic Nocturnal Wonderland Tickets Get Ticket Alerts Tweet Nocturnal Wonderland Tickets and Concert Dates Show events near me: We currently do not have any tickets on-sale for Nocturnal Wonderland. Click \"\"Get Ticket A",
+    "frecency": 4117,
+    "url_hash": 859856289884,
+    "last_visit_date": 1758203930871228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "Weather in Egypt in March About us Tour Egypt aims to offer the ultimate Egyptian adventure and intimate knowledge about the country. We offer this unique experience in two ways to expe",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns Egyptian tourism and weather, not TikTok trends for 2024.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "Weather in Egypt in March About us Tour Egypt aims to offer the ultimate Egyptian adventure and intimate knowledge about the country. We offer this unique experience in two ways, the first one is by organizing a tour and coming to Egypt for a visit, whether alone or in a group, and living it firsthand. The second way to expe",
+  "history": {
+    "url": "http://www.touregypt.net/egypt-weather-march.htm",
+    "title": "Weather in Egypt in March",
+    "description": "About us Tour Egypt aims to offer the ultimate Egyptian adventure and intimate knowledge about the country. We offer this unique experience in two ways, the first one is by organizing a tour and coming to Egypt for a visit, whether alone or in a group, and living it firsthand. The second way to expe",
+    "frecency": 4482,
+    "url_hash": 19981604040948,
+    "last_visit_date": 1758203927210735
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "America's Children: Key National Indicators of Well-Being, 2017 Behavior The well-being of young people can be affected by aspects of their behavior and social environments. The indicators in this section focus on illegal and high-risk behaviors. Substance use behaviors are shown for regular cigarette smoking, alcohol use, and illicit drug use. Other indicators",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses general well-being indicators for children and behaviors, not apps or study habits; no relevance to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "America's Children: Key National Indicators of Well-Being, 2017 Behavior The well-being of young people can be affected by aspects of their behavior and social environments. The indicators in this section focus on illegal and high-risk behaviors. Substance use behaviors are shown for regular cigarette smoking, alcohol use, and illicit drug use. Other indicators",
+  "history": {
+    "url": "http://www.childstats.gov/americaschildren/beh.asp",
+    "title": "America's Children: Key National Indicators of Well-Being, 2017",
+    "description": "Behavior The well-being of young people can be affected by aspects of their behavior and social environments. The indicators in this section focus on illegal and high-risk behaviors. Substance use behaviors are shown for regular cigarette smoking, alcohol use, and illicit drug use. Other indicators ",
+    "frecency": 4987,
+    "url_hash": 26414155772916,
+    "last_visit_date": 1758203927383139
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "RV Sales Manager Salaries RV Sales Manager Salaries About This Data39,273 Salaries Updated Jun 23, 2013All Industries Accounting & Legal Aerospace & Defense Architecture & Civil Engineering Arts & Entertainment Automotive Banking & Financial Services Beauty & Fitness Biotech & Pharmaceuticals Business Services Computer Softw",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result mentions RV Sales Manager Salaries and categories unrelated to Docker, so it is not relevant to the query about Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "RV Sales Manager Salaries RV Sales Manager Salaries About This Data39,273 Salaries Updated Jun 23, 2013All Industries Accounting & Legal Aerospace & Defense Architecture & Civil Engineering Arts & Entertainment Automotive Banking & Financial Services Beauty & Fitness Biotech & Pharmaceuticals Business Services Computer Softw",
+  "history": {
+    "url": "https://www.glassdoor.com/Salaries/rv-sales-manager-salary-SRCH_KO0,16.htm",
+    "title": "RV Sales Manager Salaries",
+    "description": "RV Sales Manager Salaries About This Data39,273 Salaries Updated Jun 23, 2013All Industries Accounting & Legal Aerospace & Defense Architecture & Civil Engineering Arts & Entertainment Automotive Banking & Financial Services Beauty & Fitness Biotech & Pharmaceuticals Business Services Computer Softw",
+    "frecency": 2087,
+    "url_hash": 3481385221417,
+    "last_visit_date": 1758203929434200
+  }
+}

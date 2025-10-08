@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Error messages about deleting registry keys and Laplink Software; unrelated to database query optimization.",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "Content discusses registry key deletion errors, not database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "\"Error Message: \"\"Cannot delete \u00e2\u00a6. Error while deleting key.\"\"\" \"Error Message: \"\"Cannot delete \u2026. Error while deleting key. \"\"Document relates to: All Laplink Software SUMMARYWhen attempting to modify or delete registry keys as noted in some of our articles, you may receive an error message. \"\"Cannot delete ... Error while deleting key. \"\"CAUSEWhen dealing with",
+  "history": {
+    "url": "http://kb.laplink.com/index.php/article/printer/1055",
+    "title": "\"Error Message: \"\"Cannot delete \u00e2\u00a6. Error while deleting key.\"\"\"",
+    "description": "\"Error Message: \"\"Cannot delete \u2026. Error while deleting key. \"\"Document relates to: All Laplink Software SUMMARYWhen attempting to modify or delete registry keys as noted in some of our articles, you may receive an error message. \"\"Cannot delete ... Error while deleting key. \"\"CAUSEWhen dealing with",
+    "frecency": 2685,
+    "url_hash": 41204292259527,
+    "last_visit_date": 1758203927990200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Morgan Earp \"Morgan Seth Earp Morgan Earp, about 1881, in Tombstone Born April 24, 1851 Pella, Iowa Died March 18, 1882 (aged 30) Tombstone, Arizona Occupation Lawman Known for Gunfight at the O. K. Corral Opponent (s) William Brocius, Frank Mc Laury, Frank Stillwell Spouse (s) Louisa A. Houston Parent (s) Nich",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a historical figure (Morgan Earp) and not related to software development IDEs.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Morgan Earp \"Morgan Seth Earp Morgan Earp, about 1881, in Tombstone Born April 24, 1851 Pella, Iowa Died March 18, 1882 (aged 30) Tombstone, Arizona Occupation Lawman Known for Gunfight at the O. K. Corral Opponent (s) William Brocius, Frank Mc Laury, Frank Stillwell Spouse (s) Louisa A. Houston Parent (s) Nich",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Morgan_Earp",
+    "title": "Morgan Earp",
+    "description": "\"Morgan Seth Earp Morgan Earp, about 1881, in Tombstone Born April 24, 1851 Pella, Iowa Died March 18, 1882 (aged 30) Tombstone, Arizona Occupation Lawman Known for Gunfight at the O. K. Corral Opponent (s) William Brocius, Frank Mc Laury, Frank Stillwell Spouse (s) Louisa A. Houston Parent (s) Nich",
+    "frecency": 4916,
+    "url_hash": 12208897565102,
+    "last_visit_date": 1758203927958111
+  }
+}

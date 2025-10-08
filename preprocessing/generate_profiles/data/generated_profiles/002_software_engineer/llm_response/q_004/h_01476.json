@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "DIGITAL CAMERA SENSORS \"DIGITAL CAMERA SENSORSA digital camera uses an array of millions of tiny light cavities or \\\"photosites\\\" to record an image. When you press your camera's shutter button and the exposure begins, each of these is uncovered to collect photons and store those as an electrical signal. Once the exposure",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses digital camera sensors, not Docker setup for beginners; content is unrelated to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "DIGITAL CAMERA SENSORS \"DIGITAL CAMERA SENSORSA digital camera uses an array of millions of tiny light cavities or \"\"photosites\"\" to record an image. When you press your camera's shutter button and the exposure begins, each of these is uncovered to collect photons and store those as an electrical signal. Once the exposure",
+  "history": {
+    "url": "https://www.cambridgeincolour.com/tutorials/camera-sensors.htm",
+    "title": "DIGITAL CAMERA SENSORS",
+    "description": "\"DIGITAL CAMERA SENSORSA digital camera uses an array of millions of tiny light cavities or \"\"photosites\"\" to record an image. When you press your camera's shutter button and the exposure begins, each of these is uncovered to collect photons and store those as an electrical signal. Once the exposure",
+    "frecency": 2322,
+    "url_hash": 33887319703318,
+    "last_visit_date": 1758203932248111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Don't Close Your Eyes (album) - Studio album by Keith Whitley; released 1988; unrelated to study apps",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a music album page about Don't Close Your Eyes by Keith Whitley, not about apps or study habit improvement.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Don't Close Your Eyes  (album) \"From Wikipedia, the free encyclopedianavigation search Don't Close Your Eyes Studio album by Keith Whitley Released May 31, 1988Recorded 1987Genre Country Length 39: 31Label RCAProducer Garth Fundis Blake Mevis Keith Whitley Keith Whitley chronology L. A. to Miami (1985) Don't Close Your Eyes (1987",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Don%27t_Close_Your_Eyes_(album)",
+    "title": "Don't Close Your Eyes  (album)",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search Don't Close Your Eyes Studio album by Keith Whitley Released May 31, 1988Recorded 1987Genre Country Length 39: 31Label RCAProducer Garth Fundis Blake Mevis Keith Whitley Keith Whitley chronology L. A. to Miami (1985) Don't Close Your Eyes (1987",
+    "frecency": 3077,
+    "url_hash": 94365262735513,
+    "last_visit_date": 1758203931975228
+  }
+}

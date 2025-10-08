@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Style Resource Get the latest Android developer news and tips that will help you find success on Google Play. * Required Fields Hooray!Full name*Email address*Company / developer name One of your Play Store app URLs What are you interested in? *What's new Games updates Android development Receive newsletter in Add",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page is about Android development/news, not about sports or improving athletic performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Style Resource Get the latest Android developer news and tips that will help you find success on Google Play. * Required Fields Hooray!Full name*Email address*Company / developer name One of your Play Store app URLs What are you interested in? *What's new Games updates Android development Receive newsletter in Add",
+  "history": {
+    "url": "https://developer.android.com/guide/topics/resources/style-resource.html",
+    "title": "Style Resource",
+    "description": "Get the latest Android developer news and tips that will help you find success on Google Play. * Required Fields Hooray!Full name*Email address*Company / developer name One of your Play Store app URLs What are you interested in? *What's new Games updates Android development Receive newsletter in Add",
+    "frecency": 2212,
+    "url_hash": 41398785945312,
+    "last_visit_date": 1758203933791228
+  }
+}

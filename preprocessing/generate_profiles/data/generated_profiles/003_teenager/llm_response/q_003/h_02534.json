@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "About Anxiolytics Anxiolytics, or anti-anxiety drugs, are a category of drugs used to prevent anxiety and treat anxiety related to several anxiety disorders. These drugs tend to work quickly and can be habit-forming. Because of this, they\u2019re usually only prescribed for short-term use. They aren\u2019t recommended f",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses anxiolytics (anti-anxiety drugs) and does not pertain to apps or study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "About Anxiolytics Anxiolytics, or anti-anxiety drugs, are a category of drugs used to prevent anxiety and treat anxiety related to several anxiety disorders. These drugs tend to work rather quickly and can be habit-forming. Because of this, they\u2019re usually only prescribed for short-term use. They aren\u2019t recommended f",
+  "history": {
+    "url": "https://www.healthline.com/health/anxiolytics",
+    "title": "About Anxiolytics",
+    "description": "Anxiolytics, or anti-anxiety drugs, are a category of drugs used to prevent anxiety and treat anxiety related to several anxiety disorders. These drugs tend to work rather quickly and can be habit-forming. Because of this, they\u2019re usually only prescribed for short-term use. They aren\u2019t recommended f",
+    "frecency": 2399,
+    "url_hash": 31395145247839,
+    "last_visit_date": 1758203934059228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "What is the 'Profit and Loss Statement (P&L)' \\\"Error loading player: Flash plugin failed to load What is the 'Profit and Loss Statement (P&L)'A profit and loss statement (P&L) is a financial statement that summarizes the revenues, costs and expenses incurred during a specific period of time, usually a fiscal quarter or year. These records provi",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Profit and Loss statements, a financial topic, not IDEs or software development environments; not relevant to the query about top IDEs.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "What is the 'Profit and Loss Statement (P&L)' \"Error loading player: Flash plugin failed to load What is the 'Profit and Loss Statement (P&L)'A profit and loss statement (P&L) is a financial statement that summarizes the revenues, costs and expenses incurred during a specific period of time, usually a fiscal quarter or year. These records provi",
+  "history": {
+    "url": "https://www.investopedia.com/terms/p/plstatement.asp",
+    "title": "What is the 'Profit and Loss Statement (P&L)'",
+    "description": "\"Error loading player: Flash plugin failed to load What is the 'Profit and Loss Statement (P&L)'A profit and loss statement (P&L) is a financial statement that summarizes the revenues, costs and expenses incurred during a specific period of time, usually a fiscal quarter or year. These records provi",
+    "frecency": 4480,
+    "url_hash": 78141137404551,
+    "last_visit_date": 1758203930080111
+  }
+}

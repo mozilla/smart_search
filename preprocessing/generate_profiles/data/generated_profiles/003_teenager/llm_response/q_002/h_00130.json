@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Welcome to the Official City of Mora Web Site! Welcome to the Official City of Mora Web Site!This website is here to provide the public with information about services, current events and other important information regarding activities in the city. We hope you find the information on this website valuable. If you have any suggestions for additi",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a city government homepage with information about services and events, not related to DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Welcome to the Official City of Mora Web Site! Welcome to the Official City of Mora Web Site!This website is here to provide the public with information about services, current events and other important information regarding activities in the city. We hope you find the information on this website valuable. If you have any suggestions for additi",
+  "history": {
+    "url": "http://www.ci.mora.mn.us/",
+    "title": "Welcome to the Official City of Mora Web Site!",
+    "description": "Welcome to the Official City of Mora Web Site!This website is here to provide the public with information about services, current events and other important information regarding activities in the city. We hope you find the information on this website valuable. If you have any suggestions for additi",
+    "frecency": 4867,
+    "url_hash": 92041107217739,
+    "last_visit_date": 1758203930089228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "How does IP address work? \\\"Computers & Internet Computer Networking How does IP address work? How does an IP address for any computer on internet works. I mean how a unique address is generated and by whom? ?1 following 4 answers Answers Relevance Rating Newest Oldest Best Answer: Manoj Ji, An Internet Protocol (IP) address",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses IP addresses and networking, not Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "How does IP address work? \"Computers & Internet Computer Networking How does IP address work? How does an IP address for any computer on internet works. I mean how a unique address is generated and by whom? ?1 following 4 answers Answers Relevance Rating Newest Oldest Best Answer: Manoj Ji, An Internet Protocol (IP) address",
+  "history": {
+    "url": "https://answers.yahoo.com/question/index?qid=20080926012327AAu70m9",
+    "title": "How does IP address work?",
+    "description": "\"Computers & Internet Computer Networking How does IP address work? How does an IP address for any computer on internet works. I mean how a unique address is generated and by whom? ?1 following 4 answers Answers Relevance Rating Newest Oldest Best Answer: Manoj Ji, An Internet Protocol (IP) address ",
+    "frecency": 1168,
+    "url_hash": 27744468034336,
+    "last_visit_date": 1758203929042111
+  }
+}

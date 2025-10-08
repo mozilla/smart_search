@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "What is Smart Growth? What is Smart Growth? March 16, 2015 MDP Smart Growth Manager Smart growth is development that supports economic growth, strong communities and environmental health.\u201cSmart growth\u201d covers a range of development and conservation strategies that help protect our health and natural environment and make",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Smart Growth, not Docker or related to the query; thus not relevant.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "What is Smart Growth? What is Smart Growth? March 16, 2015 MDP Smart Growth Manager Smart growth is development that supports economic growth, strong communities and environmental health.\u201cSmart growth\u201d covers a range of development and conservation strategies that help protect our health and natural environment and make",
+  "history": {
+    "url": "http://smartgrowth.org/what-is-smart-growth/",
+    "title": "What is Smart Growth?",
+    "description": "What is Smart Growth? March 16, 2015 MDP Smart Growth Manager Smart growth is development that supports economic growth, strong communities and environmental health.\u201cSmart growth\u201d covers a range of development and conservation strategies that help protect our health and natural environment and make ",
+    "frecency": 3890,
+    "url_hash": 37205909190493,
+    "last_visit_date": 1758203927520200
+  }
+}

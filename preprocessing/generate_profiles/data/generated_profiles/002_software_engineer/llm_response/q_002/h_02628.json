@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Visit a Western Union\u00ae agent location near Cairo, Egypt to send or receive money fast. Visit a Western Union\u00ae agent location near Cairo, Egypt to send or receive money fast. Western Union\u00ae is a quick and reliable way to send or receive money in worldwide locations such as supermarkets, check cashers, and convenience stores. Search By: Address Agent Name Country/ territory Egypt Enter",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns Western Union agent locations and money transfer in Cairo, which has no relation to IDEs or software development. It is not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Visit a Western Union\u00c2\u00ae agent location near Cairo, Egypt to send or receive money fast. Visit a Western Union\u00ae agent location near Cairo, Egypt to send or receive money fast. Western Union\u00ae is a quick and reliable way to send or receive money in worldwide locations such as supermarkets, check cashers, and convenience stores. Search By: Address Agent Name Country/ territory Egypt Enter",
+  "history": {
+    "url": "http://locations.westernunion.com/search/egypt/cairo+governorate/cairo",
+    "title": "Visit a Western Union\u00c2\u00ae agent location near Cairo, Egypt to send or receive money fast.",
+    "description": "Visit a Western Union\u00ae agent location near Cairo, Egypt to send or receive money fast. Western Union\u00ae is a quick and reliable way to send or receive money in worldwide locations such as supermarkets, check cashers, and convenience stores. Search By: Address Agent Name Country/ territory Egypt Enter ",
+    "frecency": 201,
+    "url_hash": 64157602661423,
+    "last_visit_date": 1758203929476111
+  }
+}

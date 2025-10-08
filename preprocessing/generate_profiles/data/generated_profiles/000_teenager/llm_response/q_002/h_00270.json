@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "What Is the Average Bowling Score? \\\"Sports & Active Lifestyle Classic Sports Q: What Is the Average Bowling Score? A: Quick Answer The average bowling score when looking at all of the possibilities in the game is a 77-79 score. All average scores, however, are dependent upon the skill of the players playing as the average changes dep",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about bowling scores and not related to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "What Is the Average Bowling Score? \"Sports & Active Lifestyle Classic Sports Q: What Is the Average Bowling Score? A: Quick Answer The average bowling score when looking at all of the possibilities in the game is a 77-79 score. All average scores, however, are dependent upon the skill of the players playing as the average changes dep",
+  "history": {
+    "url": "https://www.reference.com/sports-active-lifestyle/average-bowling-score-403a6d6b532bf467",
+    "title": "What Is the Average Bowling Score?",
+    "description": "\"Sports & Active Lifestyle Classic Sports Q: What Is the Average Bowling Score? A: Quick Answer The average bowling score when looking at all of the possibilities in the game is a 77-79 score. All average scores, however, are dependent upon the skill of the players playing as the average changes dep",
+    "frecency": 3830,
+    "url_hash": 43942100658728,
+    "last_visit_date": 1758203928479139
+  }
+}

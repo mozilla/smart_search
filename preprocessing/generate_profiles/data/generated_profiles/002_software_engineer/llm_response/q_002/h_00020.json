@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "How many legs do butterflies have? What are they used for? \"Christian Brown, Research Assistant at Thomas Jefferson University (2018-present)Answered Mar 22, 2018 \u00b7 Author has 449 answers and 580.3k answer views Originally Answered: How many legs does a butterfly have? All butterflies have six legs. However, one of the largest families of butterflies is Nym",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns butterflies, not integrated development environments or software development topics.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "How many legs do butterflies have? What are they used for? \"Christian Brown, Research Assistant at Thomas Jefferson University (2018-present)Answered Mar 22, 2018 \u00b7 Author has 449 answers and 580.3k answer views Originally Answered: How many legs does a butterfly have? All butterflies have six legs. However, one of the largest families of butterflies is Nym",
+  "history": {
+    "url": "https://www.quora.com/How-many-legs-does-a-butterfly-have",
+    "title": "How many legs do butterflies have? What are they used for?",
+    "description": "\"Christian Brown, Research Assistant at Thomas Jefferson University (2018-present)Answered Mar 22, 2018 \u00b7 Author has 449 answers and 580.3k answer views Originally Answered: How many legs does a butterfly have? All butterflies have six legs. However, one of the largest families of butterflies is Nym",
+    "frecency": 4964,
+    "url_hash": 87599789077207,
+    "last_visit_date": 1758203927568111
+  }
+}

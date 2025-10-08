@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "WIRELESS ROUTERS WIRELESS ROUTERSEnabling a powerful Wi-Fi network for all your online activities. LEARN MORE",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about wireless routers, which is unrelated to TikTok trends for 2024.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "WIRELESS ROUTERS WIRELESS ROUTERSEnabling a powerful Wi-Fi network for all your online activities. LEARN MORE",
+  "history": {
+    "url": "http://www.linksys.com/us/c/wireless-routers/",
+    "title": "WIRELESS ROUTERS",
+    "description": "WIRELESS ROUTERSEnabling a powerful Wi-Fi network for all your online activities. LEARN MORE ",
+    "frecency": 4755,
+    "url_hash": 82765709154892,
+    "last_visit_date": 1758203933859228
+  }
+}

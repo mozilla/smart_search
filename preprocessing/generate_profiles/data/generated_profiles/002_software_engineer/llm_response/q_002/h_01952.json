@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Who was the oldest US President? J. P. Helm 124,843 Contributions Retired professor of math and computer science having taught for 36 years at a state supported university in Virginia Who was the oldest US President? Ronald Wilson Reagan (1911-2004) was 69 years old whenelected US President in 1980, and turned 70 less than a month",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses the oldest US President, not IDEs or software development; it is irrelevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Who was the oldest US President? J. P. Helm 124,843 Contributions Retired professor of math and computer science having taught for 36 years at a state supported university in Virginia Who was the oldest US President? Ronald Wilson Reagan (1911-2004) was 69 years old whenelected US President in 1980, and turned 70 less than a month",
+  "history": {
+    "url": "http://www.answers.com/Q/Who_is_oldest_first_term_president_of_the_US",
+    "title": "Who was the oldest US President?",
+    "description": "J. P. Helm 124,843 Contributions Retired professor of math and computer science having taught for 36 years at a state supported university in Virginia Who was the oldest US President? Ronald Wilson Reagan (1911-2004) was 69 years old whenelected US President in 1980, and turned 70 less than a month ",
+    "frecency": 1462,
+    "url_hash": 7480275216138,
+    "last_visit_date": 1758203927578111
+  }
+}

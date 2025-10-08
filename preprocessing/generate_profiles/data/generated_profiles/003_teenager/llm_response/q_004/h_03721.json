@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Proper Use Proper Use Drug information provided by: Micromedex Use this medicine exactly as directed by your doctor. Do not use more of it, do not use it more often, and do not use it for a longer time than your doctor ordered. This medicine is to be used only in the vagina. Use it at bedtime, unless your doct",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes drug administration rather than sports performance improvement, so it is not relevant to the query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Proper Use Proper Use Drug information provided by: Micromedex Use this medicine exactly as directed by your doctor. Do not use more of it, do not use it more often, and do not use it for a longer time than your doctor ordered. This medicine is to be used only in the vagina. Use it at bedtime, unless your doct",
+  "history": {
+    "url": "http://www.mayoclinic.org/drugs-supplements/metronidazole-vaginal-route/proper-use/DRG-20064738",
+    "title": "Proper Use",
+    "description": "Proper Use Drug information provided by: Micromedex Use this medicine exactly as directed by your doctor. Do not use more of it, do not use it more often, and do not use it for a longer time than your doctor ordered. This medicine is to be used only in the vagina. Use it at bedtime, unless your doct",
+    "frecency": 1124,
+    "url_hash": 65589292084510,
+    "last_visit_date": 1758203932865228
+  }
+}

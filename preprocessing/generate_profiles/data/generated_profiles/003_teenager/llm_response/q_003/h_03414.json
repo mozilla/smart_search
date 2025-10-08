@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Five Things You Might Not Know About <i> It's A Wonderful Life </i> It's a Wonderful Life has become a holiday tradition in America as much as Christmas trees, Mistletoe and TV Specials with Charlie Brown. The 1946 motion picture is shown on TV every single year during the Christmas season, and remains one of the most popular (and acclaimed) movies of all time. Here",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses a classic film, not apps or study habits; no relevance to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Five Things You Might Not Know About <i> It's A Wonderful Life </i> It's a Wonderful Life has become a holiday tradition in America as much as Christmas trees, Mistletoe and TV Specials with Charlie Brown. The 1946 motion picture is shown on TV every single year during the Christmas season, and remains one of the most popular (and acclaimed) movies of all time. Here",
+  "history": {
+    "url": "http://www.huffingtonpost.ca/ward-anderson/its-a-wonderful-life_b_6298004.html",
+    "title": "Five Things You Might Not Know About <i> It's A Wonderful Life </i>",
+    "description": "It's a Wonderful Life has become a holiday tradition in America as much as Christmas trees, Mistletoe and TV Specials with Charlie Brown. The 1946 motion picture is shown on TV every single year during the Christmas season, and remains one of the most popular (and acclaimed) movies of all time. Here",
+    "frecency": 1434,
+    "url_hash": 75778843654345,
+    "last_visit_date": 1758203932643228
+  }
+}

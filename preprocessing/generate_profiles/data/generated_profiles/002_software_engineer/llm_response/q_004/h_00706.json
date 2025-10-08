@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Satchel Paige, Black Pitching Star, Is Dead at 75 June 9, 1982OBITUARYSatchel Paige, Black Pitching Star, Is Dead at 75By JOSEPH DURSOLeroy (Satchel) Paige, one of the folk heroes of baseball's old Negro leagues who became a rookie pitcher in the major leagues at the age of 42, died yesterday at his home in Kansas City, Mo. He was believed to be 75",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is an obituary about a historical baseball player (Satchel Paige) and has no relation to Docker or setup guidance; therefore not relevant.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Satchel Paige, Black Pitching Star, Is Dead at 75 June 9, 1982OBITUARYSatchel Paige, Black Pitching Star, Is Dead at 75By JOSEPH DURSOLeroy (Satchel) Paige, one of the folk heroes of baseball's old Negro leagues who became a rookie pitcher in the major leagues at the age of 42, died yesterday at his home in Kansas City, Mo. He was believed to be 75",
+  "history": {
+    "url": "http://www.nytimes.com/learning/general/onthisday/bday/0707.html",
+    "title": "Satchel Paige, Black Pitching Star, Is Dead at 75",
+    "description": "June 9, 1982OBITUARYSatchel Paige, Black Pitching Star, Is Dead at 75By JOSEPH DURSOLeroy (Satchel) Paige, one of the folk heroes of baseball's old Negro leagues who became a rookie pitcher in the major leagues at the age of 42, died yesterday at his home in Kansas City, Mo. He was believed to be 75",
+    "frecency": 3751,
+    "url_hash": 86730901203046,
+    "last_visit_date": 1758203927612111
+  }
+}

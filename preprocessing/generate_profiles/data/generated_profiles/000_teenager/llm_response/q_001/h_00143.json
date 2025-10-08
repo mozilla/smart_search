@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "Select your province Fran\u00e7ais Select your province Find information and services near you. Select province/territory The Canadian Cancer Society is a national, community-based organization of volunteers whose mission is the eradication of cancer and the enhancement of the quality of life of people living with cancer.\u00a9 2",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses the Canadian Cancer Society and provincial navigation, unrelated to TikTok trends.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "Select your province Fran\u00e7ais Select your province Find information and services near you. Select province/territory The Canadian Cancer Society is a national, community-based organization of volunteers whose mission is the eradication of cancer and the enhancement of the quality of life of people living with cancer.\u00a9 2",
+  "history": {
+    "url": "http://www.cancer.ca/en/cancer-information/cancer-type/cervical/screening/pap-test/abnormal-pap-test-results/?region=on",
+    "title": "Select your province",
+    "description": "Fran\u00e7ais Select your province Find information and services near you. Select province/territory The Canadian Cancer Society is a national, community-based organization of volunteers whose mission is the eradication of cancer and the enhancement of the quality of life of people living with cancer.\u00a9 2",
+    "frecency": 4449,
+    "url_hash": 68364264020446,
+    "last_visit_date": 1758203927981139
+  }
+}

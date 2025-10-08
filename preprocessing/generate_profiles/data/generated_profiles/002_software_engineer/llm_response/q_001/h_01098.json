@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Department of Labor Regulating Your 401K April 16th, 2017 The financial services industry is undergoing its greatest upheaval perhaps in more than 35 years because the government came up with a brilliant new idea to pretend there is a crisis that they need to step in to save you. I have warned that there has been talk about taking over 401K funds which are",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is unrelated to Python libraries or machine learning; it discusses Department of Labor regulation and 401K topics, not the requested technology topics.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Department of Labor Regulating Your 401K April 16th, 2017 The financial services industry is undergoing its greatest upheaval perhaps in more than 35 years because the government came up with a brilliant new idea to pretend there is a crisis that they need to step in to save you. I have warned that there has been talk about taking over 401K funds which are",
+  "history": {
+    "url": "https://www.armstrongeconomics.com/world-news/taxes/department-of-labor-regulating-your-401k-april-16th-2017/",
+    "title": "Department of Labor Regulating Your 401K April 16th, 2017",
+    "description": "The financial services industry is undergoing its greatest upheaval perhaps in more than 35 years because the government came up with a brilliant new idea to pretend there is a crisis that they need to step in to save you. I have warned that there has been talk about taking over 401K funds which are",
+    "frecency": 3046,
+    "url_hash": 85559445779874,
+    "last_visit_date": 1758203931768111
+  }
+}

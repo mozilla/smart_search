@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Office Documents Viewer \\\"Office Documents Viewer Joerg Jahnke Business Everyone23,386Contains Ads \u00b7 Offers in-app purchases Add to Wishlist Install (formerly Mobile Document Viewer) Small and fast document viewing application for Open Document Format (Open Office, Libre Office), OOXML (Microsoft Office) and other productiv",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is an Office documents viewer app, not related to Python libraries or machine learning; thus it is not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Office Documents Viewer \"Office Documents Viewer Joerg Jahnke Business Everyone23,386Contains Ads \u00b7 Offers in-app purchases Add to Wishlist Install (formerly Mobile Document Viewer) Small and fast document viewing application for Open Document Format (Open Office, Libre Office), OOXML (Microsoft Office) and other productiv",
+  "history": {
+    "url": "https://play.google.com/store/apps/details?id=de.joergjahnke.documentviewer.android.free",
+    "title": "Office Documents Viewer",
+    "description": "\"Office Documents Viewer Joerg Jahnke Business Everyone23,386Contains Ads \u00b7 Offers in-app purchases Add to Wishlist Install (formerly Mobile Document Viewer) Small and fast document viewing application for Open Document Format (Open Office, Libre Office), OOXML (Microsoft Office) and other productiv",
+    "frecency": 3621,
+    "url_hash": 83993084516133,
+    "last_visit_date": 1758203927286200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "WIRELESS ROUTERS WIRELESS ROUTERSEnabling a powerful Wi-Fi network for all your online activities. LEARN MORE",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns wireless routers and Wi-Fi networks, not apps or strategies for improving study habits; it is not relevant.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "WIRELESS ROUTERS WIRELESS ROUTERSEnabling a powerful Wi-Fi network for all your online activities. LEARN MORE",
+  "history": {
+    "url": "http://www.linksys.com/us/c/wireless-routers/",
+    "title": "WIRELESS ROUTERS",
+    "description": "WIRELESS ROUTERSEnabling a powerful Wi-Fi network for all your online activities. LEARN MORE ",
+    "frecency": 2348,
+    "url_hash": 82765709154892,
+    "last_visit_date": 1758203928693139
+  }
+}

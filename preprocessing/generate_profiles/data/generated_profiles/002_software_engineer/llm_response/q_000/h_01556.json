@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Department of Labor Consumer Price Index The Consumer Price Index (CPI), produced monthly by the US Department of Labor Bureau of Labor Statistics through an extensive, nationwide survey of businesses, is a measure of the average change over time in the prices paid by urban consumers for a market basket of consumer goo",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page describes the Consumer Price Index (CPI) and does not relate to debugging APIs or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Department of Labor Consumer Price Index The Consumer Price Index (CPI), produced monthly by the US Department of Labor Bureau of Labor Statistics through an extensive, nationwide survey of businesses, is a measure of the average change over time in the prices paid by urban consumers for a market basket of consumer goo",
+  "history": {
+    "url": "https://labor.ny.gov/stats/lon/cpiLI.shtm",
+    "title": "Department of Labor",
+    "description": "Consumer Price Index The Consumer Price Index (CPI), produced monthly by the US Department of Labor Bureau of Labor Statistics through an extensive, nationwide survey of businesses, is a measure of the average change over time in the prices paid by urban consumers for a market basket of consumer goo",
+    "frecency": 2189,
+    "url_hash": 41393902848624,
+    "last_visit_date": 1758203928486111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "East Point Academy East Point Academy @ East Point_SC Feb 23This is our beautiful African Dance Troupe that performed this afternoon at the # Black History Month assembly.0 replies 1 retweet 4 likes14",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "Content about an African Dance Troupe and Black History Month event; no sports topics or guidance on improving athletic performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "East Point Academy East Point Academy @ East Point_SC Feb 23This is our beautiful African Dance Troupe that performed this afternoon at the # Black History Month assembly.0 replies 1 retweet 4 likes14",
+  "history": {
+    "url": "https://twitter.com/EastPoint_SC",
+    "title": "East Point Academy",
+    "description": "East Point Academy @ East Point_SC Feb 23This is our beautiful African Dance Troupe that performed this afternoon at the # Black History Month assembly.0 replies 1 retweet 4 likes14 ",
+    "frecency": 2494,
+    "url_hash": 27098576496912,
+    "last_visit_date": 1758203930587228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "The truth about the sinking of the Titanic The truth about the sinking of the Titanic Louise Patten, whose grandfather was the only surviving officer on the Titanic, reveals the truth about how it sank. Louise Patten, whose grandfather was the only surviving officer on Titanic, has revealed the truth about its sinking Photo: JEFF GILBERTBy P",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about the Titanic, not Docker or any Docker setup content; thus it is not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "The truth about the sinking of the Titanic The truth about the sinking of the Titanic Louise Patten, whose grandfather was the only surviving officer on the Titanic, reveals the truth about how it sank. Louise Patten, whose grandfather was the only surviving officer on Titanic, has revealed the truth about its sinking Photo: JEFF GILBERTBy P",
+  "history": {
+    "url": "http://www.telegraph.co.uk/culture/books/booknews/8016751/The-truth-about-the-sinking-of-the-Titanic.html",
+    "title": "The truth about the sinking of the Titanic",
+    "description": "The truth about the sinking of the Titanic Louise Patten, whose grandfather was the only surviving officer on the Titanic, reveals the truth about how it sank. Louise Patten, whose grandfather was the only surviving officer on Titanic, has revealed the truth about its sinking Photo: JEFF GILBERTBy P",
+    "frecency": 1209,
+    "url_hash": 75299971634632,
+    "last_visit_date": 1758203927440111
+  }
+}

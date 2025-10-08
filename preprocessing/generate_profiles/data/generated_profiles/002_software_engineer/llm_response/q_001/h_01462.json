@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Welcome to Moe's! \\\"Welcome to Moe's!From the second you walk into a Moe's, you'll notice there's something different. You actually feel welcomed. Ever since our employees at the first location in Atlanta, GA in the year 2000 shouted \\\\\"Welcome to Moe's!\\\\\" \u2013 which probably scared the bejesus out of those first guests \u2013",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a Moe's restaurant and contains no information related to Python libraries or machine learning; thus it is not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Welcome to Moe's! \"Welcome to Moe's!From the second you walk into a Moe's, you'll notice there's something different. You actually feel welcomed. Ever since our employees at the first location in Atlanta, GA in the year 2000 shouted \"\"Welcome to Moe's!\"\" \u2013 which probably scared the bejesus out of those first guests \u2013",
+  "history": {
+    "url": "https://www.moes.com/about-moes/",
+    "title": "Welcome to Moe's!",
+    "description": "\"Welcome to Moe's!From the second you walk into a Moe's, you'll notice there's something different. You actually feel welcomed. Ever since our employees at the first location in Atlanta, GA in the year 2000 shouted \"\"Welcome to Moe's!\"\" \u2013 which probably scared the bejesus out of those first guests \u2013",
+    "frecency": 2352,
+    "url_hash": 96198162335398,
+    "last_visit_date": 1758203928868111
+  }
+}

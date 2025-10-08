@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Burger King Hours And Locations for St Louis, Missouri All Stores Burger King Missouri St Louis Burger King Hours And Locations for St Louis, Missouri Restaurants Current Specials: Latest Offer Quality & Freshness Sesame Seed Buns Every day, BURGER KING\u00aerestaurants receive their signature sesame seed buns from their local bakery. Restaurant team members",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page concerns Burger King restaurant hours/locations, not Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Burger King Hours And Locations for St Louis, Missouri All Stores Burger King Missouri St Louis Burger King Hours And Locations for St Louis, Missouri Restaurants Current Specials: Latest Offer Quality & Freshness Sesame Seed Buns Every day, BURGER KING\u00aerestaurants receive their signature sesame seed buns from their local bakery. Restaurant team members",
+  "history": {
+    "url": "http://www.hoursmap.com/c/st+louis-mo/burger+king-hours-locations-s1261337",
+    "title": "Burger King Hours And Locations for St Louis, Missouri",
+    "description": "All Stores Burger King Missouri St Louis Burger King Hours And Locations for St Louis, Missouri Restaurants Current Specials: Latest Offer Quality & Freshness Sesame Seed Buns Every day, BURGER KING\u00aerestaurants receive their signature sesame seed buns from their local bakery. Restaurant team members",
+    "frecency": 1043,
+    "url_hash": 77686783781866,
+    "last_visit_date": 1758203927376200
+  }
+}

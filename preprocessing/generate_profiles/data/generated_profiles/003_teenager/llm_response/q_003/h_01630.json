@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "What's Your Perfect Nail Polish Color? 1 How to Make Your Own Bullet Journal From Scratch 2 How To Register To Vote Online 3 Seventeen Has a March For Our Lives Print Issue 4 Everything We Know About Riverdale Season 3 5 How I Coped With My Sexual Assault at 14What's Your Perfect Nail Polish Color? Experimenting with the latest",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result content is about nail polish and unrelated topics; no mention of study apps or study habits; therefore not relevant to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "What's Your Perfect Nail Polish Color? \"1 How to Make Your Own Bullet Journal From Scratch 2 How To Register To Vote Online 3 Seventeen Has a \"\"March For Our Lives\"\" Print Issue 4 Everything We Know About \"\"Riverdale\"\" Season 3 5 How I Coped With My Sexual Assault at 14What's Your Perfect Nail Polish Color? Experimenting with the latest",
+  "history": {
+    "url": "http://www.seventeen.com/beauty/beauty-quizzes/a22568/nail-polish-color-quiz/",
+    "title": "What's Your Perfect Nail Polish Color?",
+    "description": "\"1 How to Make Your Own Bullet Journal From Scratch 2 How To Register To Vote Online 3 Seventeen Has a \"\"March For Our Lives\"\" Print Issue 4 Everything We Know About \"\"Riverdale\"\" Season 3 5 How I Coped With My Sexual Assault at 14What's Your Perfect Nail Polish Color? Experimenting with the latest ",
+    "frecency": 3323,
+    "url_hash": 65047098317260,
+    "last_visit_date": 1758203935113228
+  }
+}

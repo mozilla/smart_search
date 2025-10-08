@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Who was Jim Carey's mother? \"USCitizen 477,196 Contributions Who was Jim Carey's mother? Kathleen Oram Kelly. Minniesexpot 1 Contribution What was Jim carrey's first movie? Rubber Face was Jim Carrey's film debut. His first major starring role was Once Bitten. What is Jim Carrey's first movie? Rubber Face Quintonium 191 Contri",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Jim Carrey and his mother, not Docker or beginner setup; not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Who was Jim Carey's mother? \"USCitizen 477,196 Contributions Who was Jim Carey's mother? Kathleen Oram Kelly. Minniesexpot 1 Contribution What was Jim carrey's first movie? Rubber Face was Jim Carrey's film debut. His first major starring role was Once Bitten. What is Jim Carrey's first movie? Rubber Face Quintonium 191 Contri",
+  "history": {
+    "url": "http://www.answers.com/Q/What_was_Jim_Carey%27s_first_movie",
+    "title": "Who was Jim Carey's mother?",
+    "description": "\"USCitizen 477,196 Contributions Who was Jim Carey's mother? Kathleen Oram Kelly. Minniesexpot 1 Contribution What was Jim carrey's first movie? Rubber Face was Jim Carrey's film debut. His first major starring role was Once Bitten. What is Jim Carrey's first movie? Rubber Face Quintonium 191 Contri",
+    "frecency": 3724,
+    "url_hash": 2266958500452,
+    "last_visit_date": 1758203928236111
+  }
+}

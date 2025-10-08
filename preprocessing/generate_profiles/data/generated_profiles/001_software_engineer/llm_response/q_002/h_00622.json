@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Why Investors Should Avoid Load Funds \"Adam Bold If there were two gasoline stations across the street from each other that both charged the same price per gallon, but one charged an extra 10 cents per gallon for paying with a credit card, would you go to that station? No. The same is true for mutual funds. That's why investors have to",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses mutual funds and investing, not IDEs or software development; thus it is not relevant to the query about top IDEs.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Why Investors Should Avoid Load Funds \"Adam Bold If there were two gasoline stations across the street from each other that both charged the same price per gallon, but one charged an extra 10 cents per gallon for paying with a credit card, would you go to that station? No. The same is true for mutual funds. That's why investors have to",
+  "history": {
+    "url": "https://money.usnews.com/money/blogs/the-smarter-mutual-fund-investor/2011/03/01/why-investors-should-avoid-load-funds",
+    "title": "Why Investors Should Avoid Load Funds",
+    "description": "\"Adam Bold If there were two gasoline stations across the street from each other that both charged the same price per gallon, but one charged an extra 10 cents per gallon for paying with a credit card, would you go to that station? No. The same is true for mutual funds. That's why investors have to ",
+    "frecency": 2874,
+    "url_hash": 90226151200229,
+    "last_visit_date": 1758203926768200
+  }
+}

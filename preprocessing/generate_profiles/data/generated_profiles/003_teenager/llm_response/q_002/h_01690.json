@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "How can I build a long lasting low maintenance fence? \"_Home Improvement Stack Exchange is a question and answer site for contractors and serious DIYers. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top How can I build a long lasting low maint",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses building a fence and home improvement, not room decoration ideas, hence irrelevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "How can I build a long lasting low maintenance fence? \"_Home Improvement Stack Exchange is a question and answer site for contractors and serious DIYers. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top How can I build a long lasting low maint",
+  "history": {
+    "url": "https://diy.stackexchange.com/questions/14055/how-can-i-build-a-long-lasting-low-maintenance-fence",
+    "title": "How can I build a long lasting low maintenance fence?",
+    "description": "\"_Home Improvement Stack Exchange is a question and answer site for contractors and serious DIYers. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top How can I build a long lasting low maint",
+    "frecency": 3272,
+    "url_hash": 27546759274719,
+    "last_visit_date": 1758203933633228
+  }
+}

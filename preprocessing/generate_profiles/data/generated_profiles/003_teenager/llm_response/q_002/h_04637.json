@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Newberry College Newberry College Home > College Directory > Newberry College Newberry College Newberry College, located in Newberry, South Carolina, was founded in 1828. It is a coeducational, undergraduate institution focused on liberal arts and science education. Newberry is supported by the Evangelical Lutheran",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Newberry College and does not pertain to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Newberry College Newberry College Home > College Directory > Newberry College Newberry College Newberry College, located in Newberry, South Carolina, was founded in 1828. It is a coeducational, undergraduate institution focused on liberal arts and science education. Newberry is supported by the Evangelical Lutheran",
+  "history": {
+    "url": "http://www.citytowninfo.com/school-profiles/newberry-college",
+    "title": "Newberry College",
+    "description": "Newberry College Home > College Directory > Newberry College Newberry College Newberry College, located in Newberry, South Carolina, was founded in 1828. It is a coeducational, undergraduate institution focused on liberal arts and science education. Newberry is supported by the Evangelical Lutheran ",
+    "frecency": 191,
+    "url_hash": 24926856614860,
+    "last_visit_date": 1758203935237228
+  }
+}

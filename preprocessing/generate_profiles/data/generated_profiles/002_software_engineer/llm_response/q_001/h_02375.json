@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "BETTER DELIVERIES, HAPPIER CUSTOMERS \"Features Industries Blog Contact Sections Features Industries About us Resources Blog Contact us More content API Docs Support center Terms & conditions Privacy policy Home Features Industries About us Resources Blog Contact us Customer log in BETTER DELIVERIES, HAPPIER CUSTOMERSBoost your logistic",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result appears to be a logistics company page with no mention of Python libraries or machine learning; not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "BETTER DELIVERIES, HAPPIER CUSTOMERS \"Features Industries Blog Contact Sections Features Industries About us Resources Blog Contact us More content API Docs Support center Terms & conditions Privacy policy Home Features Industries About us Resources Blog Contact us Customer log in BETTER DELIVERIES, HAPPIER CUSTOMERSBoost your logistic",
+  "history": {
+    "url": "https://www.beetrack.com/en/",
+    "title": "BETTER DELIVERIES, HAPPIER CUSTOMERS",
+    "description": "\"Features Industries Blog Contact Sections Features Industries About us Resources Blog Contact us More content API Docs Support center Terms & conditions Privacy policy Home Features Industries About us Resources Blog Contact us Customer log in BETTER DELIVERIES, HAPPIER CUSTOMERSBoost your logistic",
+    "frecency": 722,
+    "url_hash": 218898575380,
+    "last_visit_date": 1758203931916111
+  }
+}

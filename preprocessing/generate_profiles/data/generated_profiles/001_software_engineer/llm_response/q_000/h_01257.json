@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Department of Sociology WELCOME to the Department of Sociology at Florida State University! Our faculty and students are engaged in fascinating studies of the social inequalities that define our times, as seen in relationships, health outcomes, educational and professional careers, and interactions. We are also committed t",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page is about a sociology department with no content related to APIs, debugging, or software integration; not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Department of Sociology WELCOME to the Department of Sociology at Florida State University! Our faculty and students are engaged in fascinating studies of the social inequalities that define our times, as seen in relationships, health outcomes, educational and professional careers, and interactions. We are also committed t",
+  "history": {
+    "url": "http://coss.fsu.edu/sociology/",
+    "title": "Department of Sociology",
+    "description": "WELCOME to the Department of Sociology at Florida State University! Our faculty and students are engaged in fascinating studies of the social inequalities that define our times, as seen in relationships, health outcomes, educational and professional careers, and interactions. We are also committed t",
+    "frecency": 572,
+    "url_hash": 25515521164611,
+    "last_visit_date": 1758203929124200
+  }
+}

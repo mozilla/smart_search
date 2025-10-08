@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Flight Attendants Pay About this section Flight Attendants Median annual wages, May 2016Air transportation workers$71,510Flight attendants$48,500Total, all occupations$37,040Note: All Occupations includes all occupations in the U. S. Economy. Source: U. S. Bureau of Labor Statistics, Occupational Employment Statistic",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses flight attendants wages and occupation statistics, not IDEs or software development.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Flight Attendants Pay About this section Flight Attendants Median annual wages, May 2016Air transportation workers$71,510Flight attendants$48,500Total, all occupations$37,040Note: All Occupations includes all occupations in the U. S. Economy. Source: U. S. Bureau of Labor Statistics, Occupational Employment Statistic",
+  "history": {
+    "url": "https://www.bls.gov/ooh/transportation-and-material-moving/flight-attendants.htm",
+    "title": "Flight Attendants",
+    "description": "Pay About this section Flight Attendants Median annual wages, May 2016Air transportation workers$71,510Flight attendants$48,500Total, all occupations$37,040Note: All Occupations includes all occupations in the U. S. Economy. Source: U. S. Bureau of Labor Statistics, Occupational Employment Statistic",
+    "frecency": 900,
+    "url_hash": 32775983913214,
+    "last_visit_date": 1758203927254111
+  }
+}

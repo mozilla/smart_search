@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Township Clerk Township Clerk The Township Clerk is the Secretary of the Township, the Secretary to the Township Council and the Election Official. Secretary to the Township & Township Council The Clerk attends all official meetings the Township Council and is responsible for the keeping of the minutes, the offici",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns a township clerk and government administrative duties, not Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Township Clerk Township Clerk The Township Clerk is the Secretary of the Township, the Secretary to the Township Council and the Election Official. Secretary to the Township & Township Council The Clerk attends all official meetings the Township Council and is responsible for the keeping of the minutes, the offici",
+  "history": {
+    "url": "http://www.evesham-nj.org/index.php/departments/clerk",
+    "title": "Township Clerk",
+    "description": "Township Clerk The Township Clerk is the Secretary of the Township, the Secretary to the Township Council and the Election Official. Secretary to the Township & Township Council The Clerk attends all official meetings the Township Council and is responsible for the keeping of the minutes, the offici",
+    "frecency": 1792,
+    "url_hash": 37014609460887,
+    "last_visit_date": 1758203927968111
+  }
+}

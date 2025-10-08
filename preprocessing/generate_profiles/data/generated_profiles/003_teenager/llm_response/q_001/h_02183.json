@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "Does Eating Late at Night Really Lead to Weight Gain? \\\"The answer: \\\"\\\"A calorie is a calorie,\\\"\\\" says Mass. \\\"\\\"If your total calorie intake for the day is greater than what you are burning, this can lead to weight gain regardless of what time it is.\\\"\\\" But if you eat healthy, regular meals throughout the day and typically have dinner around 8 p.m., there's",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses weight gain and eating times, not TikTok trends or 2024 trends, so it is not relevant to the query.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "Does Eating Late at Night Really Lead to Weight Gain? \"The answer: \"\"A calorie is a calorie,\"\" says Mass. \"\"If your total calorie intake for the day is greater than what you are burning, this can lead to weight gain regardless of what time it is.\"\" But if you eat healthy, regular meals throughout the day and typically have dinner around 8 p.m., there's",
+  "history": {
+    "url": "http://www.womenshealthmag.com/weight-loss/does-eating-late-cause-weight-gain",
+    "title": "Does Eating Late at Night Really Lead to Weight Gain?",
+    "description": "\"The answer: \"\"A calorie is a calorie,\"\" says Mass. \"\"If your total calorie intake for the day is greater than what you are burning, this can lead to weight gain regardless of what time it is.\"\" But if you eat healthy, regular meals throughout the day and typically have dinner around 8 p.m., there's",
+    "frecency": 2749,
+    "url_hash": 11720347375929,
+    "last_visit_date": 1758203928416735
+  }
+}

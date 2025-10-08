@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "What is Data link layer? The abhijeet 608 Contributions What is Data link layer?\\n The Data Link Layer of OSI reference model provides the service of error detection and control to higher layers. It accomplishes this task by having the sender break inp \u2026What is a function of the data link layer?\u00e2\u00a2 provides for the exchange",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses the Data Link Layer/OSI model, not Docker setup, so it is not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "What is Data link layer? The abhijeet 608 Contributions What is Data link layer?\\n The Data Link Layer of OSI reference model provides the service of error detection and control to higher layers. It accomplishes this task by having the sender break inp \u2026What is a function of the data link layer?\u00e2\u00a2 provides for the exchange",
+  "history": {
+    "url": "http://www.answers.com/Q/What_is_data_layering",
+    "title": "What is Data link layer?",
+    "description": "The abhijeet 608 Contributions What is Data link layer?\\n The Data Link Layer of OSI reference model provides the service of error detection and control to higher layers. It accomplishes this task by having the sender break inp \u2026What is a function of the data link layer?\u00e2\u00a2 provides for the exchange ",
+    "frecency": 3182,
+    "url_hash": 99110829999955,
+    "last_visit_date": 1758203931354111
+  }
+}

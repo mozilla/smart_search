@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Topgolf \"Topgolf From Wikipedia, the free encyclopedianavigation search Topgolf Formerly called Golf Entertainment International (now called Top Golf)Type Private Industry Sports Entertainment Founded 2000 in Watford, United Kingdom Founder Technology was developed by Steve & Dave Jolliffe of World Golf Sys",
+  "relevance_score": 0.2,
+  "binary_decision": 0,
+  "Decision_Reason": "The result is about Topgolf as a company and sports entertainment, not about methods or resources to improve athletic performance across sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Topgolf \"Topgolf From Wikipedia, the free encyclopedianavigation search Topgolf Formerly called Golf Entertainment International (now called Top Golf)Type Private Industry Sports Entertainment Founded 2000 in Watford, United Kingdom Founder Technology was developed by Steve & Dave Jolliffe of World Golf Sys",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Topgolf",
+    "title": "Topgolf",
+    "description": "\"Topgolf From Wikipedia, the free encyclopedianavigation search Topgolf Formerly called Golf Entertainment International (now called Top Golf)Type Private Industry Sports Entertainment Founded 2000 in Watford, United Kingdom Founder Technology was developed by Steve & Dave Jolliffe of World Golf Sys",
+    "frecency": 2623,
+    "url_hash": 23644991602483,
+    "last_visit_date": 1758203928486735
+  }
+}

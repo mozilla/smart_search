@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Is Splash Mountain at Disney World scary? What about Big Thunder Mountain Railroad? \\\"Games & Recreation Amusement Parks Is Splash Mountain at Disney World scary? What about Big Thunder Mountain Railroad? I really don't like roller coasters but i want to try them? Do you get that wet? What row do you suggest sitting in if you dont want to get soaked? What about Big Thunder Mountain",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses amusement park rides and Disney attractions, which is not related to improving skills or performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Is Splash Mountain at Disney World scary? What about Big Thunder Mountain Railroad? \"Games & Recreation Amusement Parks Is Splash Mountain at Disney World scary? What about Big Thunder Mountain Railroad? I really don't like roller coasters but i want to try them? Do you get that wet? What row do you suggest sitting in if you dont want to get soaked? What about Big Thunder Mountain",
+  "history": {
+    "url": "https://answers.yahoo.com/question/index?qid=20090617225340AAHRDbN",
+    "title": "Is Splash Mountain at Disney World scary? What about Big Thunder Mountain Railroad?",
+    "description": "\"Games & Recreation Amusement Parks Is Splash Mountain at Disney World scary? What about Big Thunder Mountain Railroad? I really don't like roller coasters but i want to try them? Do you get that wet? What row do you suggest sitting in if you dont want to get soaked? What about Big Thunder Mountain ",
+    "frecency": 2126,
+    "url_hash": 48962416917515,
+    "last_visit_date": 1758203928096735
+  }
+}

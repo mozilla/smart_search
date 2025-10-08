@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Biarritz, France \"Biarritz, France After gaining popularity as a resort town favored by French royalty, Biarritz grew more cosmopolitan, attracting jet setters and gaining a reputation as \"\"the queen of beaches and beach of kings. \"\"Pinterest Facebook Twitter Email By: Valerie Conners Related To: Beaches After gaini",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes Biarritz, France and beaches, not DIY room decoration ideas; it does not address the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Biarritz, France \"Biarritz, France After gaining popularity as a resort town favored by French royalty, Biarritz grew more cosmopolitan, attracting jet setters and gaining a reputation as \"\"the queen of beaches and beach of kings. \"\"Pinterest Facebook Twitter Email By: Valerie Conners Related To: Beaches After gaini",
+  "history": {
+    "url": "http://www.travelchannel.com/interests/beaches/articles/biarritz-france",
+    "title": "Biarritz, France",
+    "description": "\"Biarritz, France After gaining popularity as a resort town favored by French royalty, Biarritz grew more cosmopolitan, attracting jet setters and gaining a reputation as \"\"the queen of beaches and beach of kings. \"\"Pinterest Facebook Twitter Email By: Valerie Conners Related To: Beaches After gaini",
+    "frecency": 2707,
+    "url_hash": 80824722485252,
+    "last_visit_date": 1758203933953228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Cutting and Self-Harm: Warning Signs and Treatment \\\"Cutting and Self-Harm: Warning Signs and Treatment Parents should watch for symptoms and encourage kids to get help. By Jeanie Lerche Davis From the Web MD Archives Cutting. It's a practice that is foreign, frightening, to parents. It is not a suicide attempt, though it may look and seem that way.\\\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses self-harm, not apps or study habits; not relevant to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Cutting and Self-Harm: Warning Signs and Treatment \"Cutting and Self-Harm: Warning Signs and Treatment Parents should watch for symptoms and encourage kids to get help. By Jeanie Lerche Davis From the Web MD Archives Cutting. It's a practice that is foreign, frightening, to parents. It is not a suicide attempt, though it may look and seem that way.",
+  "history": {
+    "url": "http://www.webmd.com/mental-health/features/cutting-self-harm-signs-treatment",
+    "title": "Cutting and Self-Harm: Warning Signs and Treatment",
+    "description": "\"Cutting and Self-Harm: Warning Signs and Treatment Parents should watch for symptoms and encourage kids to get help. By Jeanie Lerche Davis From the Web MD Archives Cutting. It's a practice that is foreign, frightening, to parents. It is not a suicide attempt, though it may look and seem that way. ",
+    "frecency": 241,
+    "url_hash": 77977308339416,
+    "last_visit_date": 1758203927959139
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Cortana: Is Microsoft's voice assistant better than Siri? \"Windows Phone Cortana: Is Microsoft's voice assistant better than Siri? The forthcoming Windows Phone 8.1's voice assistant combines Siri's personality with Google Now's knack for anticipation Anick Jesdanun Tue 15 Apr 2014 05.38 EDT12.18 EDTThis article is over 3 years old87 23A command prompt fro",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Cortana and Siri, not Docker or beginner setup; thus it is not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Cortana: Is Microsoft's voice assistant better than Siri? \"Windows Phone Cortana: Is Microsoft's voice assistant better than Siri? The forthcoming Windows Phone 8.1's voice assistant combines Siri's personality with Google Now's knack for anticipation Anick Jesdanun Tue 15 Apr 2014 05.38 EDT12.18 EDTThis article is over 3 years old87 23A command prompt fro",
+  "history": {
+    "url": "https://www.theguardian.com/technology/2014/apr/14/cortana-microsofts-siri-like-assistant-fills-a-windows-phone-gap",
+    "title": "Cortana: Is Microsoft's voice assistant better than Siri?",
+    "description": "\"Windows Phone Cortana: Is Microsoft's voice assistant better than Siri? The forthcoming Windows Phone 8.1's voice assistant combines Siri's personality with Google Now's knack for anticipation Anick Jesdanun Tue 15 Apr 2014 05.38 EDT12.18 EDTThis article is over 3 years old87 23A command prompt fro",
+    "frecency": 3185,
+    "url_hash": 89521711150840,
+    "last_visit_date": 1758203931340111
+  }
+}

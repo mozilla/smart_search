@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Camping World Holdings, Inc. Stock Research - Analyst Summary \"Summary Recommendations EPS Earnings Surprise Forecast Momentum P/E Ratio Earnings Growth P/E & Growth Rates PEG Ratio Wall Street employs a veritable army of stock analysts who spend all of their time analyzing companies, issuing earnings guidance and providing \\\"Buy\\\" and \\\"Sell\\\" recommendations",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The result concerns stock analysis and investment recommendations, not database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Camping World Holdings, Inc. Stock Research - Analyst Summary \"Summary Recommendations EPS Earnings Surprise Forecast Momentum P/E Ratio Earnings Growth P/E & Growth Rates PEG Ratio Wall Street employs a veritable army of stock analysts who spend all of their time analyzing companies, issuing earnings guidance and providing \"\"Buy\"\" and \"\"Sell\"\" recommendations",
+  "history": {
+    "url": "https://www.nasdaq.com/symbol/cwh/analyst-research",
+    "title": "Camping World Holdings, Inc. Stock Research - Analyst Summary",
+    "description": "\"Summary Recommendations EPS Earnings Surprise Forecast Momentum P/E Ratio Earnings Growth P/E & Growth Rates PEG Ratio Wall Street employs a veritable army of stock analysts who spend all of their time analyzing companies, issuing earnings guidance and providing \"\"Buy\"\" and \"\"Sell\"\" recommendations",
+    "frecency": 2545,
+    "url_hash": 22770500143453,
+    "last_visit_date": 1758203929762111
+  }
+}

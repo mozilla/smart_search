@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Learning Lenape \\\"The native people of the Skylands region had no written history. In fact, they had no writing except for the use of pictographs, some of which were carved on stone. Much of what we do know about New Jersey's prehistory is a result of work done by archaeologists working with other scholars to recons\\\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Lenape history and archaeology, not API debugging or integration, hence not relevant.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Learning Lenape \"The native people of the Skylands region had no written history. In fact, they had no writing except for the use of pictographs, some of which were carved on stone. Much of what we do know about New Jersey's prehistory is a result of work done by archaeologists working with other scholars to recons",
+  "history": {
+    "url": "http://www.njskylands.com/hs_lenape_083",
+    "title": "Learning Lenape",
+    "description": "\"The native people of the Skylands region had no written history. In fact, they had no writing except for the use of pictographs, some of which were carved on stone. Much of what we do know about New Jersey's prehistory is a result of work done by archaeologists working with other scholars to recons",
+    "frecency": 2633,
+    "url_hash": 74150468813727,
+    "last_visit_date": 1758203928414111
+  }
+}

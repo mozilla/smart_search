@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Freestyle double electric breast pump Freestyle double electric breast pump An innovative pump that fits in the palm of your hand, the Medela Freestyle breast pump is a double electric pump with the high level of performance you can expect from Medela. It includes thoughtful features and provides true mobility, freedom and flexibility.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a breast pump and has no relevance to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Freestyle double electric breast pump Freestyle double electric breast pump An innovative pump that fits in the palm of your hand, the Medela Freestyle breast pump is a double electric pump with the high level of performance you can expect from Medela. It includes thoughtful features and provides true mobility, freedom and flexibility.",
+  "history": {
+    "url": "https://www.medela.com/breastfeeding/products/breast-pumps/freestyle",
+    "title": "Freestyle double electric breast pump",
+    "description": "Freestyle double electric breast pump An innovative pump that fits in the palm of your hand, the Medela Freestyle breast pump is a double electric pump with the high level of performance you can expect from Medela. It includes thoughtful features and provides true mobility, freedom and flexibility. ",
+    "frecency": 1200,
+    "url_hash": 52675686083918,
+    "last_visit_date": 1758203929340735
+  }
+}

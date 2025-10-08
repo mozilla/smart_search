@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "A Song of Ice and Fire \"From Wikipedia, the free encyclopedianavigation search This article is about the series of novels. For the television adaptation, see Game of Thrones. A Song of Ice and Fire A Song of Ice and Fire book collection box set cover A Game of Thrones (1996)A Clash of Kings (1998)A Storm of Swords (2000)A",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a fantasy novel series and Wikipedia navigation, not related to starting or managing a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "A Song of Ice and Fire \"From Wikipedia, the free encyclopedianavigation search This article is about the series of novels. For the television adaptation, see Game of Thrones. A Song of Ice and Fire A Song of Ice and Fire book collection box set cover A Game of Thrones (1996)A Clash of Kings (1998)A Storm of Swords (2000)A",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/A_Song_of_Ice_and_Fire",
+    "title": "A Song of Ice and Fire",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search This article is about the series of novels. For the television adaptation, see Game of Thrones. A Song of Ice and Fire A Song of Ice and Fire book collection box set cover A Game of Thrones (1996)A Clash of Kings (1998)A Storm of Swords (2000)A",
+    "frecency": 3928,
+    "url_hash": 83310306827186,
+    "last_visit_date": 1758203927703139
+  }
+}

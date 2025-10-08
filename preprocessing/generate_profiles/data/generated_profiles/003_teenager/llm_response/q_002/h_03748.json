@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Dog agility \"From Wikipedia, the free encyclopedianavigation search A hairless Chinese Crested taking part in an agility competition. Dog agility is a dog sport in which a handler directs a dog through an obstacle course in a race for both time and accuracy. Dogs run off leash with no food or toys as incentives",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about dog agility, not about easy DIY room decoration ideas; it is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Dog agility \"From Wikipedia, the free encyclopedianavigation search A hairless Chinese Crested taking part in an agility competition. Dog agility is a dog sport in which a handler directs a dog through an obstacle course in a race for both time and accuracy. Dogs run off leash with no food or toys as incentives",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Dog_agility",
+    "title": "Dog agility",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search A hairless Chinese Crested taking part in an agility competition. Dog agility is a dog sport in which a handler directs a dog through an obstacle course in a race for both time and accuracy. Dogs run off leash with no food or toys as incentives",
+    "frecency": 1101,
+    "url_hash": 21050085819556,
+    "last_visit_date": 1758203932007228
+  }
+}

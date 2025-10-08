@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Software Download Information Software Download Information The Following Software Packages are available from Network Software for all undergraduate engineering students: Autodesk Student Products Chem Sketch Dy Know Vision End Note JMPMathematica Matlab Microsoft Office Microsoft Project Pro Microsoft Visio Microsoft Windows P",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result lists general software downloads unrelated to Docker or Docker setup; no mention of Docker, containers, or setup guidance.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Software Download Information Software Download Information The Following Software Packages are available from Network Software for all undergraduate engineering students: Autodesk Student Products Chem Sketch Dy Know Vision End Note JMPMathematica Matlab Microsoft Office Microsoft Project Pro Microsoft Visio Microsoft Windows P",
+  "history": {
+    "url": "https://www.swat.eng.vt.edu/software-download-information",
+    "title": "Software Download Information",
+    "description": "Software Download Information The Following Software Packages are available from Network Software for all undergraduate engineering students: Autodesk Student Products Chem Sketch Dy Know Vision End Note JMPMathematica Matlab Microsoft Office Microsoft Project Pro Microsoft Visio Microsoft Windows P",
+    "frecency": 1534,
+    "url_hash": 94676406334323,
+    "last_visit_date": 1758203927964200
+  }
+}

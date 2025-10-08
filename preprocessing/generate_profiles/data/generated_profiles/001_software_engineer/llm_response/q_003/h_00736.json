@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Asotin County Profile Overview | Geographic facts | Outlook | Labor force and unemployment | Industry employment | Wages and Income | Population Overview Regional context Asotin County, established in 1883, is in the farthest southeastern corner of Washington, bounded on the east by Idaho and on the south by Oregon. Garf",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page describes Asotin County demographics and geography, not database query optimization; thus not relevant to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Asotin County Profile Overview | Geographic facts | Outlook | Labor force and unemployment | Industry employment | Wages and Income | Population Overview Regional context Asotin County, established in 1883, is in the farthest southeastern corner of Washington, bounded on the east by Idaho and on the south by Oregon. Garf",
+  "history": {
+    "url": "https://fortress.wa.gov/esd/employmentdata/reports-publications/regional-reports/county-profiles/asotin-county-profile",
+    "title": "Asotin County Profile",
+    "description": "Overview | Geographic facts | Outlook | Labor force and unemployment | Industry employment | Wages and Income | Population Overview Regional context Asotin County, established in 1883, is in the farthest southeastern corner of Washington, bounded on the east by Idaho and on the south by Oregon. Garf",
+    "frecency": 2516,
+    "url_hash": 34106863029463,
+    "last_visit_date": 1758203928948200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Hospitality industry article text; includes a notice about citations and a template message, and discusses the hospitality industry as a broad category.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about the hospitality industry and contains generic boilerplate, not related to IDEs or software development.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Hospitality industry \"This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (September 2017) ( Learn how and when to remove this template message)The hospitality industry is a broad category of",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Hospitality_industry",
+    "title": "Hospitality industry",
+    "description": "\"This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (September 2017) ( Learn how and when to remove this template message)The hospitality industry is a broad category of",
+    "frecency": 3777,
+    "url_hash": 19378149043037,
+    "last_visit_date": 1758203927464200
+  }
+}

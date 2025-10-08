@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Tigers Football \\\"About On-Air DJ Profiles News Feature CD Review Underwriting CCFAHome WUMR News Tigers Football Tigers Football University of Memphis Releases Tigers Football 2017 Schedule For Release: August 23, 2017 For more information, visit: Go Tigers Go College football season is coming up fast and WUMR will",
+  "relevance_score": 0.2,
+  "binary_decision": 0,
+  "Decision_Reason": "The page centers on a college football team and schedule rather than providing guidance or resources on improving general sports performance or athletic skills.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Tigers Football \"About On-Air DJ Profiles News Feature CD Review Underwriting CCFAHome WUMR News Tigers Football Tigers Football University of Memphis Releases Tigers Football 2017 Schedule For Release: August 23, 2017 For more information, visit: Go Tigers Go College football season is coming up fast and WUMR will",
+  "history": {
+    "url": "http://www.memphis.edu/wumr/features/feature_football.php",
+    "title": "Tigers Football",
+    "description": "\"About On-Air DJ Profiles News Feature CD Review Underwriting CCFAHome WUMR News Tigers Football Tigers Football University of Memphis Releases Tigers Football 2017 Schedule For Release: August 23, 2017 For more information, visit: Go Tigers Go College football season is coming up fast and WUMR will",
+    "frecency": 4784,
+    "url_hash": 16462919962415,
+    "last_visit_date": 1758203934177228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Job Description of a Medical Data Analyst Job Description of a Medical Data Analyst Learn about the education and preparation needed to become a medical data analyst. Get a quick view of the requirements as well as details about degree, job duties and certifications to find out if this is the career for you. Show Me Schools View 10 Popular",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a medical data analyst career/education, not content about optimizing or improving database queries.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Job Description of a Medical Data Analyst Job Description of a Medical Data Analyst Learn about the education and preparation needed to become a medical data analyst. Get a quick view of the requirements as well as details about degree, job duties and certifications to find out if this is the career for you. Show Me Schools View 10 Popular",
+  "history": {
+    "url": "http://study.com/articles/Job_Description_of_a_Medical_Data_Analyst.html",
+    "title": "Job Description of a Medical Data Analyst",
+    "description": "Job Description of a Medical Data Analyst Learn about the education and preparation needed to become a medical data analyst. Get a quick view of the requirements as well as details about degree, job duties and certifications to find out if this is the career for you. Show Me Schools View 10 Popular ",
+    "frecency": 2726,
+    "url_hash": 3198952047528,
+    "last_visit_date": 1758203927466111
+  }
+}

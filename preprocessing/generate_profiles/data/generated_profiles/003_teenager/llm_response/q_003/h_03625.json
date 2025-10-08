@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Watch It! 4th of July LINEUP ANNOUNCED! Lady Antebellum, Chris Janson, Lucie Silvas, Shannon Sanders, and the Nashville Symphony will play Nashville's July 4th celebration this summer! It's the best in the country with incredible live music, tons of family fun, and one of the largest fireworks shows in the US",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a July 4th concert lineup, not related to apps or study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Watch It! 4th of July LINEUP ANNOUNCED! Lady Antebellum, Chris Janson, Lucie Silvas, Shannon Sanders, and the Nashville Symphony will play Nashville's July 4th celebration this summer! It's the best in the country with incredible live music, tons of family fun, and one of the largest fireworks shows in the US",
+  "history": {
+    "url": "http://www.visitmusiccity.com/",
+    "title": "Watch It!",
+    "description": "4th of July LINEUP ANNOUNCED! Lady Antebellum, Chris Janson, Lucie Silvas, Shannon Sanders, and the Nashville Symphony will play Nashville's July 4th celebration this summer! It's the best in the country with incredible live music, tons of family fun, and one of the largest fireworks shows in the US",
+    "frecency": 1221,
+    "url_hash": 33412498675989,
+    "last_visit_date": 1758203930969228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Nicole: how I begged Tom not to leave me Nicole: how I begged Tom not to leave meby ALISON BOSHOFF, Daily Mail Nicole Kidman says she begged Tom Cruise not to end their marriage, but he stormed out and she lost the baby they had recently conceived. The actress contests Cruise's claim that their marriage ended early in December - saying the",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a celebrity gossip article and not about debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Nicole: how I begged Tom not to leave me Nicole: how I begged Tom not to leave meby ALISON BOSHOFF, Daily Mail Nicole Kidman says she begged Tom Cruise not to end their marriage, but he stormed out and she lost the baby they had recently conceived. The actress contests Cruise's claim that their marriage ended early in December - saying the",
+  "history": {
+    "url": "http://www.dailymail.co.uk/news/article-43768/Nicole-I-begged-Tom-leave-me.html",
+    "title": "Nicole: how I begged Tom not to leave me",
+    "description": "Nicole: how I begged Tom not to leave meby ALISON BOSHOFF, Daily Mail Nicole Kidman says she begged Tom Cruise not to end their marriage, but he stormed out and she lost the baby they had recently conceived. The actress contests Cruise's claim that their marriage ended early in December - saying the",
+    "frecency": 4965,
+    "url_hash": 58167048113569,
+    "last_visit_date": 1758203928302111
+  }
+}

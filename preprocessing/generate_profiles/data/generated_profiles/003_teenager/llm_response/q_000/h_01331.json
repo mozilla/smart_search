@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Scuba Diving: Barotrauma and Decompression Sickness \"Barotrauma/Decompression Sickness Overview Barotrauma/Decompression Sickness Causes Barotrauma/Decompression Sickness Symptoms When to Seek Medical Care Exams and Tests Barotrauma/Decompression Si",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page is about scuba diving medical conditions (barotrauma/decompression sickness) and is not related to starting a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Scuba Diving: Barotrauma and Decompression Sickness \"Barotrauma/Decompression Sickness Overview Barotrauma/Decompression Sickness Causes Barotrauma/Decompression Sickness Symptoms When to Seek Medical Care Exams and Tests Barotrauma/Decompression Sickness Treatment Self-Care at Home Medications Follow-up Prevention Outlook Barotrauma/Decompression Si",
+  "history": {
+    "url": "https://www.emedicinehealth.com/barotraumadecompression_sickness/article_em.htm",
+    "title": "Scuba Diving: Barotrauma and Decompression Sickness",
+    "description": "\"Barotrauma/Decompression Sickness Overview Barotrauma/Decompression Sickness Causes Barotrauma/Decompression Sickness Symptoms When to Seek Medical Care Exams and Tests Barotrauma/Decompression Sickness Treatment Self-Care at Home Medications Follow-up Prevention Outlook Barotrauma/Decompression Si",
+    "frecency": 3640,
+    "url_hash": 89552338066147,
+    "last_visit_date": 1758203935031228
+  }
+}

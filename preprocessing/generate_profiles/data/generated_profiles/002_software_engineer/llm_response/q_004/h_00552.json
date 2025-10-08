@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "1. Introduction \\\"SSC home Using Excel for Statistics - Tips and Warnings On-line version 2 - March 2001This is one in a series of guides for research and support staff involved in natural resources projects. The subject-matter here is using Excel for statistics. Other guides give information on allied topics. Conte",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Excel for statistics, not Docker. It is unrelated to the query about Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "1. Introduction \"SSC home Using Excel for Statistics - Tips and Warnings On-line version 2 - March 2001This is one in a series of guides for research and support staff involved in natural resources projects. The subject-matter here is using Excel for statistics. Other guides give information on allied topics. Conte",
+  "history": {
+    "url": "https://www.jic.ac.uk/services/statistics/readingadvice/booklets/topxfs.html",
+    "title": "1. Introduction",
+    "description": "\"SSC home Using Excel for Statistics - Tips and Warnings On-line version 2 - March 2001This is one in a series of guides for research and support staff involved in natural resources projects. The subject-matter here is using Excel for statistics. Other guides give information on allied topics. Conte",
+    "frecency": 4052,
+    "url_hash": 3579065838119,
+    "last_visit_date": 1758203931654111
+  }
+}

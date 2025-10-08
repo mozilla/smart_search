@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "TIFF - Tag Image File Format TIFF supports most color spaces, RGB, CMYK, YCb Cr, etc. TIFF is a flexible format with many options. The data contains tags to declare what type of data follows. New types are easy to invent, and this versatility can cause incompatibly, but about any program anywhere will handle the standard TIFF t",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses the TIFF image file format, not API integration or debugging; it is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "TIFF - Tag Image File Format TIFF supports most color spaces, RGB, CMYK, YCb Cr, etc. TIFF is a flexible format with many options. The data contains tags to declare what type of data follows. New types are easy to invent, and this versatility can cause incompatibly, but about any program anywhere will handle the standard TIFF t",
+  "history": {
+    "url": "http://www.scantips.com/basics9t.html",
+    "title": "TIFF - Tag Image File Format",
+    "description": "TIFF supports most color spaces, RGB, CMYK, YCb Cr, etc. TIFF is a flexible format with many options. The data contains tags to declare what type of data follows. New types are easy to invent, and this versatility can cause incompatibly, but about any program anywhere will handle the standard TIFF t",
+    "frecency": 1469,
+    "url_hash": 34450562835846,
+    "last_visit_date": 1758203929430111
+  }
+}

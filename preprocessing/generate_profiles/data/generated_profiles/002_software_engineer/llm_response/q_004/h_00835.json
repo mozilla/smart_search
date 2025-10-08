@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Peyton Manning Biography.com \"Peyton Manning Biography.com Athlete, Football Player (1976\u2013)534SHARESQuick Facts Name Peyton Manning Occupation Athlete, Football Player Birth Date March 24, 1976 (age 41)Education University of Tennessee, Isidore Newman High School Place of Birth New Orleans, Louisiana Full Name Peyton Williams M",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a biography of Peyton Manning and unrelated to Docker or beginner setup topics.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Peyton Manning Biography.com \"Peyton Manning Biography.com Athlete, Football Player (1976\u2013)534SHARESQuick Facts Name Peyton Manning Occupation Athlete, Football Player Birth Date March 24, 1976 (age 41)Education University of Tennessee, Isidore Newman High School Place of Birth New Orleans, Louisiana Full Name Peyton Williams M",
+  "history": {
+    "url": "http://www.biography.com/people/peyton-manning-37880",
+    "title": "Peyton Manning Biography.com",
+    "description": "\"Peyton Manning Biography.com Athlete, Football Player (1976\u2013)534SHARESQuick Facts Name Peyton Manning Occupation Athlete, Football Player Birth Date March 24, 1976 (age 41)Education University of Tennessee, Isidore Newman High School Place of Birth New Orleans, Louisiana Full Name Peyton Williams M",
+    "frecency": 3491,
+    "url_hash": 5028204506176,
+    "last_visit_date": 1758203929380111
+  }
+}

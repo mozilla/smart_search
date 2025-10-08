@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Prime Lenses Prime Lenses Explore Canon's range of prime lenses. Shoot quality professional portraits with maximum aperture and advanced optics.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Canon prime lenses for photography, not about DIY room decoration ideas; not relevant.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Prime Lenses Prime Lenses Explore Canon's range of prime lenses. Shoot quality professional portraits with maximum aperture and advanced optics.",
+  "history": {
+    "url": "https://www.canon.com.au/prime-lenses",
+    "title": "Prime Lenses",
+    "description": "Prime Lenses Explore Canon's range of prime lenses. Shoot quality professional portraits with maximum aperture and advanced optics. ",
+    "frecency": 4847,
+    "url_hash": 30692933837477,
+    "last_visit_date": 1758203933701228
+  }
+}

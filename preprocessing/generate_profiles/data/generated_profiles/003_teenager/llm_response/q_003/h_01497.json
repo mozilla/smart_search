@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "2018 Yosemite National Park Travel Guide \\\"2018 Yosemite National Park Travel Guide Yosemite National Park is filled with outdoor adventures. Hiking, backpacking, rock climbing, river rafting \u2014 even just enjoying the stunning alpine scenery. But without proper travel planning, you\u2019ll miss out on the best the park has to offer. Don\u2019t overloo",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a Yosemite travel guide, not related to apps or study habits; it does not address improving study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "2018 Yosemite National Park Travel Guide \"2018 Yosemite National Park Travel Guide Yosemite National Park is filled with outdoor adventures. Hiking, backpacking, rock climbing, river rafting \u2014 even just enjoying the stunning alpine scenery. But without proper travel planning, you\u2019ll miss out on the best the park has to offer. Don\u2019t overloo",
+  "history": {
+    "url": "https://jameskaiser.com/yosemite-guide/",
+    "title": "2018 Yosemite National Park Travel Guide",
+    "description": "\"2018 Yosemite National Park Travel Guide Yosemite National Park is filled with outdoor adventures. Hiking, backpacking, rock climbing, river rafting \u2014 even just enjoying the stunning alpine scenery. But without proper travel planning, you\u2019ll miss out on the best the park has to offer. Don\u2019t overloo",
+    "frecency": 3478,
+    "url_hash": 82295452337009,
+    "last_visit_date": 1758203931899228
+  }
+}

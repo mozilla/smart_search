@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "chrome.extension \"chrome.extension Description: The chrome.extension API has utilities that can be used by any extension page. It includes support for exchanging messages between an extension and its content scripts or between extensions, as described in detail in Message Passing . Availability: Since Chrome 23. Con",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes the Chrome extension API and inter-extension messaging, which is unrelated to optimizing database queries.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "chrome.extension \"chrome.extension Description: The chrome.extension API has utilities that can be used by any extension page. It includes support for exchanging messages between an extension and its content scripts or between extensions, as described in detail in Message Passing . Availability: Since Chrome 23. Con",
+  "history": {
+    "url": "https://developer.chrome.com/extensions/extension.html",
+    "title": "chrome.extension",
+    "description": "\"chrome.extension Description: The chrome.extension API has utilities that can be used by any extension page. It includes support for exchanging messages between an extension and its content scripts or between extensions, as described in detail in Message Passing . Availability: Since Chrome 23. Con",
+    "frecency": 3663,
+    "url_hash": 35888703467036,
+    "last_visit_date": 1758203932364111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "\u00e2Largest urban park\u00e2Review of Forest Park Reviewed March 29, 2008Largest urban park Overview: This is a large forest track that has been set aside by the city of Portland to be used as a recreation, and a wildlife coridor area. It is located to the west and north of the city and goes out further to the north and west in it's distance. There",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a park in Portland and is unrelated to starting a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "\u00e2Largest urban park\u00e2Review of Forest Park Reviewed March 29, 2008Largest urban park Overview: This is a large forest track that has been set aside by the city of Portland to be used as a recreation, and a wildlife coridor area. It is located to the west and north of the city and goes out further to the north and west in it's distance. There",
+  "history": {
+    "url": "https://www.tripadvisor.com/ShowUserReviews-g52024-d532090-r14636170-Forest_Park-Portland_Oregon.html",
+    "title": "\u00e2Largest urban park\u00e2Review of Forest Park",
+    "description": "Reviewed March 29, 2008Largest urban park Overview: This is a large forest track that has been set aside by the city of Portland to be used as a recreation, and a wildlife coridor area. It is located to the west and north of the city and goes out further to the north and west in it's distance. There",
+    "frecency": 888,
+    "url_hash": 45026447845705,
+    "last_visit_date": 1758203927516735
+  }
+}

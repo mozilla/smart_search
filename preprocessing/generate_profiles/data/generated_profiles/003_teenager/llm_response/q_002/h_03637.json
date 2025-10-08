@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Daylight (Maroon 5 song) - Wikipedia entry for the song Daylight by Maroon 5",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns a Maroon 5 song, not DIY room decoration ideas; it is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Daylight (Maroon 5 song) \"From Wikipedia, the free encyclopedianavigation search\"\"Daylight\"\"Single by Maroon 5from the album Overexposed Released November 27, 2012 [1]Format Digital download Studio Conway Studios, ( Los Angeles, California)Genre Soft rock Length 3: 46Label A&M/Octone Songwriter (s)Adam Levine Max Martin Sam",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Daylight_%28Maroon_5_song%29",
+    "title": "Daylight (Maroon 5 song)",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search\"\"Daylight\"\"Single by Maroon 5from the album Overexposed Released November 27, 2012 [1]Format Digital download Studio Conway Studios, ( Los Angeles, California)Genre Soft rock Length 3: 46Label A&M/Octone Songwriter (s)Adam Levine Max Martin Sam",
+    "frecency": 1212,
+    "url_hash": 30424592637814,
+    "last_visit_date": 1758203929354735
+  }
+}

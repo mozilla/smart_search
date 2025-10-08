@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Who's still using Internet Explorer? And why won't they upgrade? 158Next month, Microsoft will officially stop delivering updates for all but the latest Internet Explorer version on each Windows version it supports. Although the company provided almost two years' warning, the population still using older versions of Internet Explorer appears to be uncomfortably h",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Internet Explorer usage and upgrade behavior, not IDEs or software development environments, so it is not relevant to the query about top IDEs.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Who's still using Internet Explorer? And why won't they upgrade? 158Next month, Microsoft will officially stop delivering updates for all but the latest Internet Explorer version on each Windows version it supports. Although the company provided almost two years' warning, the population still using older versions of Internet Explorer appears to be uncomfortably h",
+  "history": {
+    "url": "http://www.zdnet.com/article/whos-still-using-internet-explorer-and-why-wont-they-upgrade/",
+    "title": "Who's still using Internet Explorer? And why won't they upgrade?",
+    "description": "158Next month, Microsoft will officially stop delivering updates for all but the latest Internet Explorer version on each Windows version it supports. Although the company provided almost two years' warning, the population still using older versions of Internet Explorer appears to be uncomfortably h",
+    "frecency": 2059,
+    "url_hash": 8243625317844,
+    "last_visit_date": 1758203931770111
+  }
+}

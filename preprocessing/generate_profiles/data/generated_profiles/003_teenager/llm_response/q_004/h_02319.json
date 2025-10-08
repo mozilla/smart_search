@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Medical Assistant Salaries Medical Assistant Salaries About This Data8,069 Salaries Updated Apr 10, 2018All Industries Accounting & Legal Aerospace & Defense Architecture & Civil Engineering Arts & Entertainment Automotive Banking & Financial Services Beauty & Fitness Biotech & Pharmaceuticals Business Services Computer Softw",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about medical assistant salaries and general industry data; it does not relate to improving performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Medical Assistant Salaries Medical Assistant Salaries About This Data8,069 Salaries Updated Apr 10, 2018All Industries Accounting & Legal Aerospace & Defense Architecture & Civil Engineering Arts & Entertainment Automotive Banking & Financial Services Beauty & Fitness Biotech & Pharmaceuticals Business Services Computer Softw",
+  "history": {
+    "url": "https://www.glassdoor.com/Salaries/medical-assistant-salary-SRCH_KO0,17.htm",
+    "title": "Medical Assistant Salaries",
+    "description": "Medical Assistant Salaries About This Data8,069 Salaries Updated Apr 10, 2018All Industries Accounting & Legal Aerospace & Defense Architecture & Civil Engineering Arts & Entertainment Automotive Banking & Financial Services Beauty & Fitness Biotech & Pharmaceuticals Business Services Computer Softw",
+    "frecency": 2606,
+    "url_hash": 16346119134782,
+    "last_visit_date": 1758203934683228
+  }
+}

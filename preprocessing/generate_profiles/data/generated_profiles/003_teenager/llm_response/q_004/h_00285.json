@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Fallout 4 \"From Wikipedia, the free encyclopedianavigation search Fallout 4Developer (s) Bethesda Game Studios Publisher (s) Bethesda Softworks Director (s) Todd Howard Producer (s) Jeff Gardiner Designer (s) Emil Pagliarulo Programmer (s) Guy Carver Artist (s) Istvan Pely Writer (s) Emil Pagliarulo Composer",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about the video game Fallout 4 and is unrelated to improving skills in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Fallout 4 \"From Wikipedia, the free encyclopedianavigation search Fallout 4Developer (s) Bethesda Game Studios Publisher (s) Bethesda Softworks Director (s) Todd Howard Producer (s) Jeff Gardiner Designer (s) Emil Pagliarulo Programmer (s) Guy Carver Artist (s) Istvan Pely Writer (s) Emil Pagliarulo Composer",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Fallout_4",
+    "title": "Fallout 4",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search Fallout 4Developer (s) Bethesda Game Studios Publisher (s) Bethesda Softworks Director (s) Todd Howard Producer (s) Jeff Gardiner Designer (s) Emil Pagliarulo Programmer (s) Guy Carver Artist (s) Istvan Pely Writer (s) Emil Pagliarulo Composer ",
+    "frecency": 4713,
+    "url_hash": 17880785103172,
+    "last_visit_date": 1758203927676735
+  }
+}

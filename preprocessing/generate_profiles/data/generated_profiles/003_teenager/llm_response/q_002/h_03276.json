@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Carpal Tunnel Syndrome Conditions Carpal Tunnel Syndrome Carpel Tunnel Syndrome (CTS) is an illness that first manifests its symptoms as a minor pain in the wrist and eventually works its way up to the hands. With the use of computers and typing skills becoming more routine in everyday events, the risk for CTS is much hig",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Carpal Tunnel Syndrome, not DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Carpal Tunnel Syndrome Conditions Carpal Tunnel Syndrome Carpel Tunnel Syndrome (CTS) is an illness that first manifests its symptoms as a minor pain in the wrist and eventually works its way up to the hands. With the use of computers and typing skills becoming more routine in everyday events, the risk for CTS is much hig",
+  "history": {
+    "url": "http://www.naturalremedies.org/carpal-tunnel-syndrome/",
+    "title": "Carpal Tunnel Syndrome",
+    "description": "Conditions Carpal Tunnel Syndrome Carpel Tunnel Syndrome (CTS) is an illness that first manifests its symptoms as a minor pain in the wrist and eventually works its way up to the hands. With the use of computers and typing skills becoming more routine in everyday events, the risk for CTS is much hig",
+    "frecency": 1571,
+    "url_hash": 29384048530586,
+    "last_visit_date": 1758203936349228
+  }
+}

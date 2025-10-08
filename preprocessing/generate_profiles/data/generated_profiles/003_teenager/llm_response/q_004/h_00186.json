@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "\u00e2Peg O' My Heart\u00e2 Sheet Music \u201cPeg O' My Heart\u201d Sheet Music Description (Brief)The sheet music for the song, \u201cPeg of My Heart,\u201d was written by Alfred Bryan and composed by Fred Fisher. The sheet music was published by Leo Feist Inc., of New York, New York in 1913. The song was \u201cwritten around J. Hartley Manners wonderful charact",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about sheet music for a song, not related to improving performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "\u00e2Peg O' My Heart\u00e2 Sheet Music \u201cPeg O' My Heart\u201d Sheet Music Description (Brief)The sheet music for the song, \u201cPeg of My Heart,\u201d was written by Alfred Bryan and composed by Fred Fisher. The sheet music was published by Leo Feist Inc., of New York, New York in 1913. The song was \u201cwritten around J. Hartley Manners wonderful charact",
+  "history": {
+    "url": "http://americanhistory.si.edu/collections/search/object/nmah_663775",
+    "title": "\u00e2Peg O' My Heart\u00e2 Sheet Music",
+    "description": "\u201cPeg O' My Heart\u201d Sheet Music Description (Brief)The sheet music for the song, \u201cPeg of My Heart,\u201d was written by Alfred Bryan and composed by Fred Fisher. The sheet music was published by Leo Feist Inc., of New York, New York in 1913. The song was \u201cwritten around J. Hartley Manners wonderful charact",
+    "frecency": 4812,
+    "url_hash": 63497014542819,
+    "last_visit_date": 1758203930493228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "What States Don't Have Income or Sales Tax? Throughout the United States, income and sales taxes vary dramatically from state to state. Some have no taxes at all and some states charge very high tax rates. Cost of living is a concern for most people and whether you are relocating for work, family, or to retire, taxes are often a key considera",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses state tax policies, taxes and cost of living, and has no relation to Python, libraries, or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "What States Don't Have Income or Sales Tax? Throughout the United States, income and sales taxes vary dramatically from state to state. Some have no taxes at all and some states charge very high tax rates. Cost of living is a concern for most people and whether you are relocating for work, family, or to retire, taxes are often a key considera",
+  "history": {
+    "url": "https://www.sapling.com/6116873/states-dont-income-sales-tax",
+    "title": "What States Don't Have Income or Sales Tax?",
+    "description": "Throughout the United States, income and sales taxes vary dramatically from state to state. Some have no taxes at all and some states charge very high tax rates. Cost of living is a concern for most people and whether you are relocating for work, family, or to retire, taxes are often a key considera",
+    "frecency": 2344,
+    "url_hash": 26943598670315,
+    "last_visit_date": 1758203928130111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Piqua Fire Department Piqua Fire Department Home Public Works & Utilities Fire Departments Kansas Woodson County Piqua Find Piqua Kansas fire departments, city fire stations, firefighters, brigades, chiefs, inspectors, marshals, and local volunteers. Fire departments provide information on fire risk assessment, permits,",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns a fire department in Piqua, Kansas, unrelated to software development or integrated development environments (IDEs). No relevance to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Piqua Fire Department Piqua Fire Department Home Public Works & Utilities Fire Departments Kansas Woodson County Piqua Find Piqua Kansas fire departments, city fire stations, firefighters, brigades, chiefs, inspectors, marshals, and local volunteers. Fire departments provide information on fire risk assessment, permits,",
+  "history": {
+    "url": "http://www.countyoffice.org/piqua-ks-fire-departments/",
+    "title": "Piqua Fire Department",
+    "description": "Piqua Fire Department Home Public Works & Utilities Fire Departments Kansas Woodson County Piqua Find Piqua Kansas fire departments, city fire stations, firefighters, brigades, chiefs, inspectors, marshals, and local volunteers. Fire departments provide information on fire risk assessment, permits, ",
+    "frecency": 553,
+    "url_hash": 19014279240890,
+    "last_visit_date": 1758203928296200
+  }
+}

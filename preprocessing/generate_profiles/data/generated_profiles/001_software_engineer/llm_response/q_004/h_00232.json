@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Hicksville Assessor Office Hicksville Assessor Office Home Business, Finance, & Real Estate Offices Assessor Offices Ohio Defiance County Hicksville Find Hicksville Ohio assessor, assessment, auditor's, and appraiser's offices, revenue commissions, GIS, and tax equalization departments. Assessors provide information on proper",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a local government assessor's office and real estate information, which is not related to Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Hicksville Assessor Office Hicksville Assessor Office Home Business, Finance, & Real Estate Offices Assessor Offices Ohio Defiance County Hicksville Find Hicksville Ohio assessor, assessment, auditor's, and appraiser's offices, revenue commissions, GIS, and tax equalization departments. Assessors provide information on proper",
+  "history": {
+    "url": "http://www.countyoffice.org/hicksville-oh-assessor/",
+    "title": "Hicksville Assessor Office",
+    "description": "Hicksville Assessor Office Home Business, Finance, & Real Estate Offices Assessor Offices Ohio Defiance County Hicksville Find Hicksville Ohio assessor, assessment, auditor's, and appraiser's offices, revenue commissions, GIS, and tax equalization departments. Assessors provide information on proper",
+    "frecency": 4212,
+    "url_hash": 36372374554506,
+    "last_visit_date": 1758203927796200
+  }
+}

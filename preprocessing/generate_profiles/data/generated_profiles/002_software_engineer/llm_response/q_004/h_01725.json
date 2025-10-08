@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Express.js: A Server-Side JavaScript Framework Express.js: A Server-Side Java Script Framework Hiring Headquarters Home Web Development Express.js: A Server-Side Java Script Framework You\u2019re probably aware that Java Script is the programming language most often used to add interactivity to the front end of a website, but its capabilities go far",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Express.js, a server-side JavaScript framework, not Docker or container setup; therefore it is not relevant to 'Docker setup for beginners'.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Express.js: A Server-Side JavaScript Framework Express.js: A Server-Side Java Script Framework Hiring Headquarters Home Web Development Express.js: A Server-Side Java Script Framework You\u2019re probably aware that Java Script is the programming language most often used to add interactivity to the front end of a website, but its capabilities go far",
+  "history": {
+    "url": "https://www.upwork.com/hiring/development/express-js-a-server-side-javascript-framework/",
+    "title": "Express.js: A Server-Side JavaScript Framework",
+    "description": "Express.js: A Server-Side Java Script Framework Hiring Headquarters Home Web Development Express.js: A Server-Side Java Script Framework You\u2019re probably aware that Java Script is the programming language most often used to add interactivity to the front end of a website, but its capabilities go far ",
+    "frecency": 1887,
+    "url_hash": 6416328951439,
+    "last_visit_date": 1758203929736111
+  }
+}

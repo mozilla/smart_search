@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Care. Discover. Teach. \"Care. Discover. Teach. Weill Cornell Medicine is a global healthcare leader known for world-class patient care, cutting-edge research, and top-ranked education. Build your career with us. Search Jobs Explore Weill Cornell Nadeige\"\"We\u2019re at the forefront of healthcare in New York City, and that\u2019s so",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes Weill Cornell Medicine careers and does not relate to Docker or beginner setup.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Care. Discover. Teach. \"Care. Discover. Teach. Weill Cornell Medicine is a global healthcare leader known for world-class patient care, cutting-edge research, and top-ranked education. Build your career with us. Search Jobs Explore Weill Cornell Nadeige\"\"We\u2019re at the forefront of healthcare in New York City, and that\u2019s so",
+  "history": {
+    "url": "http://careers.weill.cornell.edu/",
+    "title": "Care. Discover. Teach.",
+    "description": "\"Care. Discover. Teach. Weill Cornell Medicine is a global healthcare leader known for world-class patient care, cutting-edge research, and top-ranked education. Build your career with us. Search Jobs Explore Weill Cornell Nadeige\"\"We\u2019re at the forefront of healthcare in New York City, and that\u2019s so",
+    "frecency": 4834,
+    "url_hash": 23910415058547,
+    "last_visit_date": 1758203927160200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Donald Trump Lost All of These Business Deals Since June By Daniel Bukszpan December 17, 2015The final Republican presidential debate of 2015 was held last night at the Venetian Hotel and Casino in Las Vegas. Despite the best efforts of former Florida Governor Jeb Bush and others, no one was able to mortally wound the ascendant candidacy of Donald Trump.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Donald Trump and 2015 politics, with no content related to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Donald Trump Lost All of These Business Deals Since June By Daniel Bukszpan December 17, 2015The final Republican presidential debate of 2015 was held last night at the Venetian Hotel and Casino in Las Vegas. Despite the best efforts of former Florida Governor Jeb Bush and others, no one was able to mortally wound the ascendant candidacy of Donald Trump.",
+  "history": {
+    "url": "http://fortune.com/2015/12/17/donald-trump-deals-lost/",
+    "title": "Donald Trump Lost All of These Business Deals Since June",
+    "description": "By Daniel Bukszpan December 17, 2015The final Republican presidential debate of 2015 was held last night at the Venetian Hotel and Casino in Las Vegas. Despite the best efforts of former Florida Governor Jeb Bush and others, no one was able to mortally wound the ascendant candidacy of Donald Trump. ",
+    "frecency": 2256,
+    "url_hash": 93285168563504,
+    "last_visit_date": 1758203929354111
+  }
+}

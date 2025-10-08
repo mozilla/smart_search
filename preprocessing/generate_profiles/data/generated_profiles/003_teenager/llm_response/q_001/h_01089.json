@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "Cologne in one day \\\"You only have one day to discover the Cathedral City on the Rhine and to immerse yourself in Cologne\u2019s zest for life? We have some suggestions that will allow you to discover the most important and interesting sides of the city and at the end of the day to be able to say in your best impression of",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses tourism in Cologne rather than TikTok trends for 2024; it is not relevant to the query.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "Cologne in one day \"You only have one day to discover the Cathedral City on the Rhine and to immerse yourself in Cologne\u2019s zest for life? We have some suggestions that will allow you to discover the most important and interesting sides of the city and at the end of the day to be able to say in your best impression of",
+  "history": {
+    "url": "http://www.cologne.de/cologne-in-one-day.html",
+    "title": "Cologne in one day",
+    "description": "\"You only have one day to discover the Cathedral City on the Rhine and to immerse yourself in Cologne\u2019s zest for life? We have some suggestions that will allow you to discover the most important and interesting sides of the city and at the end of the day to be able to say in your best impression of ",
+    "frecency": 3875,
+    "url_hash": 48104066687476,
+    "last_visit_date": 1758203933619228
+  }
+}

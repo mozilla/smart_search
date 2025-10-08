@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Rupert Boneham \\\"From Wikipedia, the free encyclopedianavigation search Rupert Boneham Born January 27, 1964 (age 54)Residence Indianapolis, Indiana, U. S. Occupation Reality television personality Troubled-youth mentor Organization Rupert's Kids Height 5 ft 11 in (1.80 m)Weight 220 lb (99.7 kg)Television Survivor:",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns a reality TV personality, not related to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Rupert Boneham \"From Wikipedia, the free encyclopedianavigation search Rupert Boneham Born January 27, 1964 (age 54)Residence Indianapolis, Indiana, U. S. Occupation Reality television personality Troubled-youth mentor Organization Rupert's Kids Height 5 ft 11 in (1.80 m)Weight 220 lb (99.7 kg)Television Survivor:",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Rupert_Boneham",
+    "title": "Rupert Boneham",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search Rupert Boneham Born January 27, 1964 (age 54)Residence Indianapolis, Indiana, U. S. Occupation Reality television personality Troubled-youth mentor Organization Rupert's Kids Height 5 ft 11 in (1.80 m)Weight 220 lb (99.7 kg)Television Survivor:",
+    "frecency": 4553,
+    "url_hash": 4122275413133,
+    "last_visit_date": 1758203927560111
+  }
+}

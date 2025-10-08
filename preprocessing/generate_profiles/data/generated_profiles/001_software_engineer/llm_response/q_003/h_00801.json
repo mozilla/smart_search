@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Why Do People Cut Down Rain Forest Trees? Full Answer Deforestation often occurs from a number of either simultaneous or sequential factors. Roads are built to create infrastructure in under-developed areas or sometimes to provide access points for loggers. Once transportation is possible, loggers harvest wood for construction, fuel and cha",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses deforestation and rainforest logging, not database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Why Do People Cut Down Rain Forest Trees? Full Answer Deforestation often occurs from a number of either simultaneous or sequential factors. Roads are built to create infrastructure in under-developed areas or sometimes to provide access points for loggers. Once transportation is possible, loggers harvest wood for construction, fuel and cha",
+  "history": {
+    "url": "https://www.reference.com/science/people-cut-down-rain-forest-trees-30f2d451917ac156",
+    "title": "Why Do People Cut Down Rain Forest Trees?",
+    "description": "Full Answer Deforestation often occurs from a number of either simultaneous or sequential factors. Roads are built to create infrastructure in under-developed areas or sometimes to provide access points for loggers. Once transportation is possible, loggers harvest wood for construction, fuel and cha",
+    "frecency": 2284,
+    "url_hash": 95255503074738,
+    "last_visit_date": 1758203928042200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "What are Laxatives? \"Laxatives are substances or drugs that stimulate the intestines, causing the body to eliminate waste. They are most often taken for constipation that may result from too little roughage in the diet, too little water, inactivity, anxiety, or even certain medications. There are five main types of lax\"",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses laxatives and is unrelated to TikTok trends; it does not address the query.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "What are Laxatives? \"Laxatives are substances or drugs that stimulate the intestines, causing the body to eliminate waste. They are most often taken for constipation that may result from too little roughage in the diet, too little water, inactivity, anxiety, or even certain medications. There are five main types of lax",
+  "history": {
+    "url": "http://www.wisegeekhealth.com/what-are-laxatives.htm",
+    "title": "What are Laxatives?",
+    "description": "\"Laxatives are substances or drugs that stimulate the intestines, causing the body to eliminate waste. They are most often taken for constipation that may result from too little roughage in the diet, too little water, inactivity, anxiety, or even certain medications. There are five main types of lax",
+    "frecency": 3875,
+    "url_hash": 8597730157148,
+    "last_visit_date": 1758203927296735
+  }
+}

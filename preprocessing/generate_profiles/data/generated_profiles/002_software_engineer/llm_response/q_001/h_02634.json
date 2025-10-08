@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Social Security Benefits for Chronic Obstructive Pulmonary Disease (COPD) If you suffer from chronic bronchitis or emphysema, called COPD (Chronic Obstructive Pulmonary Disease), you may be eligible to receive Social Security Disability benefits if the condition impacts your ability to work. The Social Security Administration (SSA) oversees the Social Security Disability",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Social Security Disability benefits for COPD, not Python libraries or machine learning; thus not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Social Security Benefits for Chronic Obstructive Pulmonary Disease (COPD) If you suffer from chronic bronchitis or emphysema, called COPD (Chronic Obstructive Pulmonary Disease), you may be eligible to receive Social Security Disability benefits if the condition impacts your ability to work. The Social Security Administration (SSA) oversees the Social Security Disability",
+  "history": {
+    "url": "http://www.disabilitybenefitscenter.org/social-security-disabling-conditions/copd",
+    "title": "Social Security Benefits for Chronic Obstructive Pulmonary Disease (COPD)",
+    "description": "If you suffer from chronic bronchitis or emphysema, called COPD (Chronic Obstructive Pulmonary Disease), you may be eligible to receive Social Security Disability benefits if the condition impacts your ability to work. The Social Security Administration (SSA) oversees the Social Security Disability ",
+    "frecency": 196,
+    "url_hash": 73386529380451,
+    "last_visit_date": 1758203932034111
+  }
+}

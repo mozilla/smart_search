@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "What are browser hijackers? What are browser hijackers? Authored by a Symantec employee A browser hijacker is defined as a \u201cform of unwanted software that modifies a web browser\u2019s settings without the user\u2019s permission.\u201d The result is the placement of unwanted advertising into the browser, and possibly the replacement of an ex\"",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The result discusses browser hijackers and browser malware, not API integration debugging; no relevance to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "What are browser hijackers? What are browser hijackers? Authored by a Symantec employee A browser hijacker is defined as a \u201cform of unwanted software that modifies a web browser\u2019s settings without the user\u2019s permission.\u201d The result is the placement of unwanted advertising into the browser, and possibly the replacement of an ex",
+  "history": {
+    "url": "https://us.norton.com/internetsecurity-malware-what-are-browser-hijackers.html",
+    "title": "What are browser hijackers?",
+    "description": "What are browser hijackers? Authored by a Symantec employee A browser hijacker is defined as a \u201cform of unwanted software that modifies a web browser\u2019s settings without the user\u2019s permission.\u201d The result is the placement of unwanted advertising into the browser, and possibly the replacement of an ex",
+    "frecency": 2060,
+    "url_hash": 23704247162422,
+    "last_visit_date": 1758203929440200
+  }
+}

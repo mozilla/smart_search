@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Dementia's youngest victims defy stereotypes (unrelated to software development and IDEs).",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns dementia, not software development or IDEs; thus it is not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Dementia's youngest victims defy stereotypes \"LEESBURG, Fla. \u2014 Doreen Watson-Beard cared for more people with dementia than she could count. The nurse was so moved by her patients that she led Alzheimer's support groups. She knew the warning signs and understood there was no cure. But the 49-year-old never thought the disease would affect some",
+  "history": {
+    "url": "http://www.nbcnews.com/id/46838410/ns/health-alzheimers_disease/t/dementias-youngest-victims-defy-stereotypes/",
+    "title": "Dementia's youngest victims defy stereotypes",
+    "description": "\"LEESBURG, Fla. \u2014 Doreen Watson-Beard cared for more people with dementia than she could count. The nurse was so moved by her patients that she led Alzheimer's support groups. She knew the warning signs and understood there was no cure. But the 49-year-old never thought the disease would affect some",
+    "frecency": 1082,
+    "url_hash": 47983348992047,
+    "last_visit_date": 1758203931962111
+  }
+}

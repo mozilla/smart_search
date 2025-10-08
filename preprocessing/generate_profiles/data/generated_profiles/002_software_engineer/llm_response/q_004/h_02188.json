@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "My Photo Stream My Photo Stream With My Photo Stream, you can access recent photos that you took with your i Phone, i Pad, or i Pod touch, or that you uploaded from your Mac or PC. What you need You can use My Photo Stream with these devices after you set up i Cloud on them:i Phone, i Pad, or i Pod touch with i OS",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Apple iCloud Photo Stream, not Docker or container setup; content is unrelated to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "My Photo Stream My Photo Stream With My Photo Stream, you can access recent photos that you took with your i Phone, i Pad, or i Pod touch, or that you uploaded from your Mac or PC. What you need You can use My Photo Stream with these devices after you set up i Cloud on them:i Phone, i Pad, or i Pod touch with i OS",
+  "history": {
+    "url": "https://www.apple.com/uk/support/icloud/photos/",
+    "title": "My Photo Stream",
+    "description": "My Photo Stream With My Photo Stream, you can access recent photos that you took with your i Phone, i Pad, or i Pod touch, or that you uploaded from your Mac or PC. What you need You can use My Photo Stream with these devices after you set up i Cloud on them:i Phone, i Pad, or i Pod touch with i OS ",
+    "frecency": 1033,
+    "url_hash": 22103420702830,
+    "last_visit_date": 1758203927754111
+  }
+}

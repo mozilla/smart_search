@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Does New Mountain AVL require a membership? How do I become a member? Does New Mountain AVL require a membership? How do I become a member? How do I get there? Where do I park? Do you have a box office? Are you wheelchair accessible? Is seating provided during shows at New Mountain AVL? How do I get booked at New Mountain AVL? Do you rent the venue to outside promoter",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses venue membership, accessibility, and booking for New Mountain AVL, which is unrelated to starting a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Does New Mountain AVL require a membership? How do I become a member? Does New Mountain AVL require a membership? How do I become a member? How do I get there? Where do I park? Do you have a box office? Are you wheelchair accessible? Is seating provided during shows at New Mountain AVL? How do I get booked at New Mountain AVL? Do you rent the venue to outside promoter",
+  "history": {
+    "url": "http://www.newmountainavl.com/about/faq",
+    "title": "Does New Mountain AVL require a membership? How do I become a member?",
+    "description": "Does New Mountain AVL require a membership? How do I become a member? How do I get there? Where do I park? Do you have a box office? Are you wheelchair accessible? Is seating provided during shows at New Mountain AVL? How do I get booked at New Mountain AVL? Do you rent the venue to outside promoter",
+    "frecency": 635,
+    "url_hash": 12163570710255,
+    "last_visit_date": 1758203929094735
+  }
+}

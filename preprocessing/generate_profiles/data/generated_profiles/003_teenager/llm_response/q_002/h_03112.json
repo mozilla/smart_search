@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "The Rise of Corporations 'The Rise of Corporationsby Anup Shah This Page Last Updated Thursday, December 05, 2002Today we know that corporations, for good or bad, are major influences on our lives. For example, of the 100 largest economies in the world, 51 are corporations while only 49 are countries, based on a comparison",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses corporations and economics, not DIY room decoration ideas; content not related to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "The Rise of Corporations \"The Rise of Corporationsby Anup Shah This Page Last Updated Thursday, December 05, 2002Today we know that corporations, for good or bad, are major influences on our lives. For example, of the 100 largest economies in the world, 51 are corporations while only 49 are countries, based on a comparison",
+  "history": {
+    "url": "http://www.globalissues.org/article/234/the-rise-of-corporations",
+    "title": "The Rise of Corporations",
+    "description": "\"The Rise of Corporationsby Anup Shah This Page Last Updated Thursday, December 05, 2002Today we know that corporations, for good or bad, are major influences on our lives. For example, of the 100 largest economies in the world, 51 are corporations while only 49 are countries, based on a comparison ",
+    "frecency": 1735,
+    "url_hash": 16644468768346,
+    "last_visit_date": 1758203927966735
+  }
+}

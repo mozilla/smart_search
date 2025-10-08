@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Northwest Hills Neighborhood Guide Northwest Hills Neighborhood Guide Northwest Hills is another Austin neighborhood with a combination of large lots, proximity to many of Austin\u2019s major employers and Downtown and a beautiful Hill Country setting without being out in the boonies. Residents enjoy the Northwest Hills retail space that",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a neighborhood guide in Austin and is not related to debugging or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Northwest Hills Neighborhood Guide Northwest Hills Neighborhood Guide Northwest Hills is another Austin neighborhood with a combination of large lots, proximity to many of Austin\u2019s major employers and Downtown and a beautiful Hill Country setting without being out in the boonies. Residents enjoy the Northwest Hills retail space that",
+  "history": {
+    "url": "http://www.austinrealestatehomesblog.com/northwest_austin/northwest_hills/",
+    "title": "Northwest Hills Neighborhood Guide",
+    "description": "Northwest Hills Neighborhood Guide Northwest Hills is another Austin neighborhood with a combination of large lots, proximity to many of Austin\u2019s major employers and Downtown and a beautiful Hill Country setting without being out in the boonies. Residents enjoy the Northwest Hills retail space that ",
+    "frecency": 795,
+    "url_hash": 20629155272882,
+    "last_visit_date": 1758203928658111
+  }
+}

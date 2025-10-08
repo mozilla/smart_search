@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Winter Recreation \\\"Winter Recreation Winter Camping Food Storage Snowplay - Sledding & Sliding Ranger-guided Snowshoe Walks Skiing & Snowboarding Snowmobiling NPS Photo Mount Rainier National Park is a popular place to enjoy winter activities. The mountain receives abundant snowfall and the scenery is spectacular. In",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The page discusses winter recreation at Mount Rainier National Park and is not related to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Winter Recreation \"Winter Recreation Winter Camping Food Storage Snowplay - Sledding & Sliding Ranger-guided Snowshoe Walks Skiing & Snowboarding Snowmobiling NPS Photo Mount Rainier National Park is a popular place to enjoy winter activities. The mountain receives abundant snowfall and the scenery is spectacular. In",
+  "history": {
+    "url": "https://www.nps.gov/mora/planyourvisit/winter-recreation.htm",
+    "title": "Winter Recreation",
+    "description": "\"Winter Recreation Winter Camping Food Storage Snowplay - Sledding & Sliding Ranger-guided Snowshoe Walks Skiing & Snowboarding Snowmobiling NPS Photo Mount Rainier National Park is a popular place to enjoy winter activities. The mountain receives abundant snowfall and the scenery is spectacular. In",
+    "frecency": 805,
+    "url_hash": 38506559639535,
+    "last_visit_date": 1758203932895228
+  }
+}

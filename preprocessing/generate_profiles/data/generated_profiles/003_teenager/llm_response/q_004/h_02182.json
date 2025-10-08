@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Welcome to Signature Salon Spa & Yoga Welcome to Signature Salon Spa & Yoga At Signature Salon and Spa we've created an extraordinary experience in beauty and elegance, intimately designed to exceed most discriminating expectations. We offer a full complement of exceptional professional hair, nail, spa and yoga services to make you look",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The page focuses on beauty, spa, hair, nails, and yoga services, not on improving performance or skills in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Welcome to Signature Salon Spa & Yoga Welcome to Signature Salon Spa & Yoga At Signature Salon and Spa we've created an extraordinary experience in beauty and elegance, intimately designed to exceed most discriminating expectations. We offer a full complement of exceptional professional hair, nail, spa and yoga services to make you look",
+  "history": {
+    "url": "http://signaturesalonspa.com/",
+    "title": "Welcome to Signature Salon Spa & Yoga",
+    "description": "Welcome to Signature Salon Spa & Yoga At Signature Salon and Spa we've created an extraordinary experience in beauty and elegance, intimately designed to exceed most discriminating expectations. We offer a full complement of exceptional professional hair, nail, spa and yoga services to make you look",
+    "frecency": 2749,
+    "url_hash": 73653423567071,
+    "last_visit_date": 1758203927924735
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Per Diem Allowances \"Related Terms: Expense Accounts The term \\\"per diem\\\" means \\\"daily.\\\" In a business setting, the term has come to mean the daily rates employees use for expenses incurred while traveling on business-related activities. These rates are likely to differ based on whether the employee travels in his o",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses per diem allowances and business travel expenses, unrelated to sports training or improvement.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Per Diem Allowances \"Related Terms: Expense Accounts The term \"\"per diem\"\" means \"\"daily.\"\" In a business setting, the term has come to mean the daily rates employees use for expenses incurred while traveling on business-related activities. These rates are likely to differ based on whether the employee travels in his o",
+  "history": {
+    "url": "https://www.inc.com/encyclopedia/per-diem-allowances.html",
+    "title": "Per Diem Allowances",
+    "description": "\"Related Terms: Expense Accounts The term \"\"per diem\"\" means \"\"daily.\"\" In a business setting, the term has come to mean the daily rates employees use for expenses incurred while traveling on business-related activities. These rates are likely to differ based on whether the employee travels in his o",
+    "frecency": 4118,
+    "url_hash": 42825567476800,
+    "last_visit_date": 1758203930981228
+  }
+}

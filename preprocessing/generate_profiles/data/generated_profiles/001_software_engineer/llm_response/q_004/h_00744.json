@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Auditory localization \"Assessment | Biopsychology | Comparative | Cognitive | Developmental | Language | Individual differences | Personality | Philosophy | Social | Methods | Statistics | Clinical | Educational | Industrial | Professional items | World psychology |Language: Linguistics \u00b7 Semiotics \u00b7 Speech Hearing Audit\"",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns auditory localization and psychology topics, not Docker or setup instructions; thus not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Auditory localization \"Assessment | Biopsychology | Comparative | Cognitive | Developmental | Language | Individual differences | Personality | Philosophy | Social | Methods | Statistics | Clinical | Educational | Industrial | Professional items | World psychology |Language: Linguistics \u00b7 Semiotics \u00b7 Speech Hearing Audit",
+  "history": {
+    "url": "http://psychology.wikia.com/wiki/Auditory_localization",
+    "title": "Auditory localization",
+    "description": "\"Assessment | Biopsychology | Comparative | Cognitive | Developmental | Language | Individual differences | Personality | Philosophy | Social | Methods | Statistics | Clinical | Educational | Industrial | Professional items | World psychology |Language: Linguistics \u00b7 Semiotics \u00b7 Speech Hearing Audit",
+    "frecency": 2477,
+    "url_hash": 71299022738090,
+    "last_visit_date": 1758203928450200
+  }
+}

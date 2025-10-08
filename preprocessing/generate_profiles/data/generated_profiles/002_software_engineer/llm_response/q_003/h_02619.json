@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "eFoodcard offers easy-to-use online training for food safety handling e Foodcard offers easy-to-use online training for food safety handling America's official food handlers card Sign up now!or Login to your existing account. Do you need a Corporate Account? It's easy to get started. Pay only when you pass!Don't see your state? Click here. Get Started ANSI-approved Fo",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses food safety training and food handler certification, which is unrelated to database queries or optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "eFoodcard offers easy-to-use online training for food safety handling e Foodcard offers easy-to-use online training for food safety handling America's official food handlers card Sign up now!or Login to your existing account. Do you need a Corporate Account? It's easy to get started. Pay only when you pass!Don't see your state? Click here. Get Started ANSI-approved Fo",
+  "history": {
+    "url": "https://www.efoodcard.com/",
+    "title": "eFoodcard offers easy-to-use online training for food safety handling",
+    "description": "e Foodcard offers easy-to-use online training for food safety handling America's official food handlers card Sign up now!or Login to your existing account. Do you need a Corporate Account? It's easy to get started. Pay only when you pass!Don't see your state? Click here. Get Started ANSI-approved Fo",
+    "frecency": 228,
+    "url_hash": 87430782104998,
+    "last_visit_date": 1758203927082111
+  }
+}

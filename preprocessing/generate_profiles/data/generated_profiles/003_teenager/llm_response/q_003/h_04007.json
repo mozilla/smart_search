@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Honeoye Lake Honeoye Lake The second smallest of the Finger Lakes at just 4.5 miles long, the shores of Honeoye Lake are bordered by the towns of Richmond, Canadice, and Honeoye. On the north end of the lake is Sandy Bottom Park, which includes a life-guarded beach, two playgrounds, and multiple pavilions. There",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Honeoye Lake, a geographical location, with no relation to study apps or improving study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Honeoye Lake Honeoye Lake The second smallest of the Finger Lakes at just 4.5 miles long, the shores of Honeoye Lake are bordered by the towns of Richmond, Canadice, and Honeoye. On the north end of the lake is Sandy Bottom Park, which includes a life-guarded beach, two playgrounds, and multiple pavilions. There",
+  "history": {
+    "url": "http://www.fingerlakes.com/honeoye",
+    "title": "Honeoye Lake",
+    "description": "Honeoye Lake The second smallest of the Finger Lakes at just 4.5 miles long, the shores of Honeoye Lake are bordered by the towns of Richmond, Canadice, and Honeoye. On the north end of the lake is Sandy Bottom Park, which includes a life-guarded beach, two playgrounds, and multiple pavilions. There",
+    "frecency": 841,
+    "url_hash": 7364129615268,
+    "last_visit_date": 1758203929220735
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "How much does Apple charge to repair broken iPhone screen? Consumer Electronics PDAs & Handhelds How much does Apple charge to repair broken i Phone screen? Please help. I have the picture of my cracked screen on my i Phone 3GS. How do I know if it's the screen that is cracked or the digitizer? Actually I don't even know if there's a difference in both. How",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns iPhone screen repair costs and issues, not IDEs or software development topics. Therefore it is not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "How much does Apple charge to repair broken iPhone screen? Consumer Electronics PDAs & Handhelds How much does Apple charge to repair broken i Phone screen? Please help. I have the picture of my cracked screen on my i Phone 3GS. How do I know if it's the screen that is cracked or the digitizer? Actually I don't even know if there's a difference in both. How",
+  "history": {
+    "url": "https://answers.yahoo.com/question/index?qid=20120317231617AASrMku",
+    "title": "How much does Apple charge to repair broken iPhone screen?",
+    "description": "Consumer Electronics PDAs & Handhelds How much does Apple charge to repair broken i Phone screen? Please help. I have the picture of my cracked screen on my i Phone 3GS. How do I know if it's the screen that is cracked or the digitizer? Actually I don't even know if there's a difference in both. How",
+    "frecency": 670,
+    "url_hash": 72579170323664,
+    "last_visit_date": 1758203927220200
+  }
+}

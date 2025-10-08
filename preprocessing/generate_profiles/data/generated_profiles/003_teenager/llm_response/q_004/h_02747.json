@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "The Book Thief \"The Book Thief From Wikipedia, the free encyclopianavigation search This article is about the novel. For the film adaptation, see The Book Thief (film). For other uses, see The Book Thief (disambiguation). The Book Thief First edition cover Author Markus Zusak Illustrator Trudy White Cover artist",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page is about the novel The Book Thief and is unrelated to improving sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "The Book Thief \"The Book Thief From Wikipedia, the free encyclopedianavigation search This article is about the novel. For the film adaptation, see The Book Thief (film). For other uses, see The Book Thief (disambiguation). The Book Thief First edition cover Author Markus Zusak Illustrator Trudy White Cover artist",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/The_Book_Thief",
+    "title": "The Book Thief",
+    "description": "\"The Book Thief From Wikipedia, the free encyclopedianavigation search This article is about the novel. For the film adaptation, see The Book Thief (film). For other uses, see The Book Thief (disambiguation). The Book Thief First edition cover Author Markus Zusak Illustrator Trudy White Cover artist",
+    "frecency": 2137,
+    "url_hash": 55624062827718,
+    "last_visit_date": 1758203927616735
+  }
+}

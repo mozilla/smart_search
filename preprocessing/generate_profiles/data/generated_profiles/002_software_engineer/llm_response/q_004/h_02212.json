@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "[Fixed] Temporary Profile Windows 8 and Windows 8.1 Problem  [Fixed] Temporary Profile Windows 8 and Windows 8.1 Problem By Dinesh When Windows Operating System doesn\u2019t read particular user profile settings and files properly during the booting process, it will load with temporary new user profile. That will look like a brand new user profile and have the de",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Windows temporary profile issues, not Docker or Docker setup; therefore it is not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "[Fixed] Temporary Profile Windows 8 and Windows 8.1 Problem  [Fixed] Temporary Profile Windows 8 and Windows 8.1 Problem By Dinesh When Windows Operating System doesn\u2019t read particular user profile settings and files properly during the booting process, it will load with temporary new user profile. That will look like a brand new user profile and have the de",
+  "history": {
+    "url": "http://www.sysprobs.com/fixed-temporary-profile-windows-8-and-8-1-problem",
+    "title": " [Fixed] Temporary Profile Windows 8 and Windows 8.1 Problem",
+    "description": " [Fixed] Temporary Profile Windows 8 and Windows 8.1 Problem By Dinesh When Windows Operating System doesn\u2019t read particular user profile settings and files properly during the booting process, it will load with temporary new user profile. That will look like a brand new user profile and have the de",
+    "frecency": 976,
+    "url_hash": 23722266454237,
+    "last_visit_date": 1758203927438111
+  }
+}

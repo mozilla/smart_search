@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "IT consultant Job profile IT consultant View all information technology vacancies Add to favourites IT consultants are great communicators and have excellent organisational skills as well as sound knowledge and understanding of IT systems Your role as an IT consultant will be to work in partnership with clients,",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes an IT consultant job profile, unrelated to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "IT consultant Job profile IT consultant View all information technology vacancies Add to favourites IT consultants are great communicators and have excellent organisational skills as well as sound knowledge and understanding of IT systems Your role as an IT consultant will be to work in partnership with clients,",
+  "history": {
+    "url": "https://www.prospects.ac.uk/job-profiles/it-consultant",
+    "title": "IT consultant",
+    "description": "Job profile IT consultant View all information technology vacancies Add to favourites IT consultants are great communicators and have excellent organisational skills as well as sound knowledge and understanding of IT systems Your role as an IT consultant will be to work in partnership with clients, ",
+    "frecency": 3328,
+    "url_hash": 77243724073319,
+    "last_visit_date": 1758203931050111
+  }
+}

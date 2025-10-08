@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Driver License Renewal Options: If you have received a post card asking you to renew in person, you must do so. The only exception to this is made for active-duty military members. Review the Real ID information below if you have not already upgraded to a Real ID. See also Driver License Fees. It is your responsibility to renew y",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses driver license renewal/Real ID, not API integration debugging; topic is unrelated.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Driver License Renewal Options \"If you have received a post card asking you to renew in person, you must do so. The only exception to this is made for active-duty military members. Review the Real ID information below if you have not already upgraded to a Real ID. See also Driver License Fees. It is your responsibility to renew y",
+  "history": {
+    "url": "http://www.dmvnv.com/dlrenewal.htm",
+    "title": "Driver License Renewal Options",
+    "description": "\"If you have received a post card asking you to renew in person, you must do so. The only exception to this is made for active-duty military members. Review the Real ID information below if you have not already upgraded to a Real ID. See also Driver License Fees. It is your responsibility to renew y",
+    "frecency": 4985,
+    "url_hash": 94982948654266,
+    "last_visit_date": 1758203930030111
+  }
+}

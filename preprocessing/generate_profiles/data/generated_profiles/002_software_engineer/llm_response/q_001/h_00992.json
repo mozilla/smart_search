@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "FASB grants variable interest entities reporting exception for private company leases April 23, 2014Articles FASB grants variable interest entities reporting exception for private company leases As part of continuing efforts to ease the burden on private companies that prepare their financial statements in accordance with Generally Accepted Accounting Principles (GAAP), the Financial",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses accounting standards (FASB) and lease reporting, not Python libraries or machine learning. No relevance to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "FASB grants variable interest entities reporting exception for private company leases April 23, 2014Articles FASB grants variable interest entities reporting exception for private company leases As part of continuing efforts to ease the burden on private companies that prepare their financial statements in accordance with Generally Accepted Accounting Principles (GAAP), the Financial",
+  "history": {
+    "url": "http://www.bakertilly.com/insights/fasb-grants-variable-interest-entities-reporting-exception-for-private-comp",
+    "title": "FASB grants variable interest entities reporting exception for private company leases",
+    "description": "April 23, 2014Articles FASB grants variable interest entities reporting exception for private company leases As part of continuing efforts to ease the burden on private companies that prepare their financial statements in accordance with Generally Accepted Accounting Principles (GAAP), the Financial",
+    "frecency": 3226,
+    "url_hash": 92594749443432,
+    "last_visit_date": 1758203929900111
+  }
+}

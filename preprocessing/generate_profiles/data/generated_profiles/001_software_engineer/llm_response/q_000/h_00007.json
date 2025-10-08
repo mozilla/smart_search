@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Choose A City In Ohio Find a Business Near: Ohio Home ::: Ohio Choose A City In Ohio You can add a business for just $49.95 per year. To add a business please submit your business info here . Below is a list of all cities within the State of Ohio in which we have business listings. Population for Ohio: 11,533,561Total Ma",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page is about Ohio city listings and business listings, not about debugging API integrations.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Choose A City In Ohio Find a Business Near: Ohio Home ::: Ohio Choose A City In Ohio You can add a business for just $49.95 per year. To add a business please submit your business info here . Below is a list of all cities within the State of Ohio in which we have business listings. Population for Ohio: 11,533,561Total Ma",
+  "history": {
+    "url": "https://www.yellowpagesgoesgreen.org/states/OH",
+    "title": "Choose A City In Ohio",
+    "description": "Find a Business Near: Ohio Home ::: Ohio Choose A City In Ohio You can add a business for just $49.95 per year. To add a business please submit your business info here . Below is a list of all cities within the State of Ohio in which we have business listings. Population for Ohio: 11,533,561Total Ma",
+    "frecency": 4989,
+    "url_hash": 17250585076612,
+    "last_visit_date": 1758203928654200
+  }
+}

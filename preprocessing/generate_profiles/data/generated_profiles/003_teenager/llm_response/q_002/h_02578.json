@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Tourist attraction \"Tourist attraction From Wikipedia, the free encyclopedia (Redirected from Tourist destination)navigation search For the Outer Limits episode, see Tourist Attraction (The Outer Limits). The Eiffel Tower in Paris, France, a popular tourist attraction. Almost 7 million visit the tower each year. The C",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses tourist attractions, not DIY room decoration ideas; contains no content related to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Tourist attraction \"Tourist attraction From Wikipedia, the free encyclopedia (Redirected from Tourist destination)navigation search For the Outer Limits episode, see Tourist Attraction (The Outer Limits). The Eiffel Tower in Paris, France, a popular tourist attraction. Almost 7 million visit the tower each year. The C",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Tourist_destination",
+    "title": "Tourist attraction",
+    "description": "\"Tourist attraction From Wikipedia, the free encyclopedia (Redirected from Tourist destination)navigation search For the Outer Limits episode, see Tourist Attraction (The Outer Limits). The Eiffel Tower in Paris, France, a popular tourist attraction. Almost 7 million visit the tower each year. The C",
+    "frecency": 2348,
+    "url_hash": 19732713740218,
+    "last_visit_date": 1758203928626735
+  }
+}

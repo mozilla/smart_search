@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "\"Doctor Faustus - FULL Audio...\" The YouTube account associated with this video has been terminated due to multiple third-party notifications of copyright infringement. Sorry about that.",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses a Doctor Faustus audio video and YouTube copyright termination, unrelated to TikTok trends for 2024.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "\"\"\"Doctor Faustus - FULL Audio...\"\" The YouTube account associated with this video has been terminated due to multiple third-party notifications of copyright infringement.\" \"\"\"Doctor Faustus - FULL Audio...\"\" The You Tube account associated with this video has been terminated due to multiple third-party notifications of copyright infringement. Sorry about that. \"",
+  "history": {
+    "url": "http://www.youtube.com/watch?v=ZF3o-svLH5o",
+    "title": "\"\"\"Doctor Faustus - FULL Audio...\"\" The YouTube account associated with this video has been terminated due to multiple third-party notifications of copyright infringement.\"",
+    "description": "\"\"\"Doctor Faustus - FULL Audio...\"\" The You Tube account associated with this video has been terminated due to multiple third-party notifications of copyright infringement. Sorry about that. \"",
+    "frecency": 3420,
+    "url_hash": 21891273830042,
+    "last_visit_date": 1758203930465228
+  }
+}

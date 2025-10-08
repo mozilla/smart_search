@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Duchesne County GIS Click on link below to access map. Disclaimer Duchesne County presents the information on this web site as a service to the public. We have tried to ensure that the information contained is accurate. The GIS office makes no warranty or guarantee concerning the accuracy or reliability of the content",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Duchesne County GIS maps and disclaimers, not Docker or setup guidance; therefore not relevant to 'Docker setup for beginners'.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Duchesne County GIS Click on link below to access map. Disclaimer Duchesne County presents the information on this web site as a service to the public. We have tried to ensure that the information contained is accurate. The GIS office makes no warranty or guarantee concerning the accuracy or reliability of the content",
+  "history": {
+    "url": "http://maps.duchesne.utah.gov/Maps.aspx",
+    "title": "Duchesne County GIS",
+    "description": "Click on link below to access map. Disclaimer Duchesne County presents the information on this web site as a service to the public. We have tried to ensure that the information contained is accurate. The GIS office makes no warranty or guarantee concerning the accuracy or reliability of the content ",
+    "frecency": 1331,
+    "url_hash": 23265898237638,
+    "last_visit_date": 1758203927602200
+  }
+}

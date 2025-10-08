@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Will Hurricane Maria hit the U.S. mainland? It's unlikely, but not impossible \"Video of damage after Hurricane Maria. Time (Photo: NOAA)CONNECT TWEET LINKEDIN1COMMENT EMAIL MOREWe're not out of the woods yet. A direct hit on the U. S. mainland from Hurricane Maria is unlikely, but not completely impossible, forecasters said Thursday. A complex dance among Maria, the remnants\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Hurricane Maria, not related to Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Will Hurricane Maria hit the U.S. mainland? It's unlikely, but not impossible \"Video of damage after Hurricane Maria. Time (Photo: NOAA)CONNECT TWEET LINKEDIN1COMMENT EMAIL MOREWe're not out of the woods yet. A direct hit on the U. S. mainland from Hurricane Maria is unlikely, but not completely impossible, forecasters said Thursday. A complex dance among Maria, the remnants",
+  "history": {
+    "url": "https://www.usatoday.com/story/weather/2017/09/21/hurricane-maria-hit-u-s-mainland-its-unlikely-but-not-impossible/688679001/",
+    "title": "Will Hurricane Maria hit the U.S. mainland? It's unlikely, but not impossible",
+    "description": "\"Video of damage after Hurricane Maria. Time (Photo: NOAA)CONNECT TWEET LINKEDIN1COMMENT EMAIL MOREWe're not out of the woods yet. A direct hit on the U. S. mainland from Hurricane Maria is unlikely, but not completely impossible, forecasters said Thursday. A complex dance among Maria, the remnants ",
+    "frecency": 4116,
+    "url_hash": 27737897913994,
+    "last_visit_date": 1758203927036200
+  }
+}

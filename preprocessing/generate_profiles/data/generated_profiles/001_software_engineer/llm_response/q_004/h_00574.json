@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Baker HughesBHI Updates from The Motley Fool Latest updates on Baker Hughes from Fool.com. The Fool has written over 300 articles on Baker Hughes.4 Things Baker Hughes' Management Thinks You Should Know Baker Hughes' management sees some better times ahead for one market, but another is still headed... Jun 8 2017 \u2022",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns Baker Hughes and Motley Fool articles, not Docker or setup for Docker. No relevance to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Baker HughesBHI Updates from The Motley Fool Latest updates on Baker Hughes from Fool.com. The Fool has written over 300 articles on Baker Hughes.4 Things Baker Hughes' Management Thinks You Should Know Baker Hughes' management sees some better times ahead for one market, but another is still headed... Jun 8 2017 \u2022",
+  "history": {
+    "url": "https://www.fool.com/quote/nyse/baker-hughes/bhi",
+    "title": "Baker HughesBHI",
+    "description": "Updates from The Motley Fool Latest updates on Baker Hughes from Fool.com. The Fool has written over 300 articles on Baker Hughes.4 Things Baker Hughes' Management Thinks You Should Know Baker Hughes' management sees some better times ahead for one market, but another is still headed... Jun 8 2017 \u2022",
+    "frecency": 3056,
+    "url_hash": 83756595006944,
+    "last_visit_date": 1758203928234200
+  }
+}

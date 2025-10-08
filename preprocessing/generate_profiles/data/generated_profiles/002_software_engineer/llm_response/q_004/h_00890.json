@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "SystemdForUpstartUsers \\\"Systemd For Upstart Users Contents Introduction Support status System Init Daemon Switching init systems Switch to upstart for a single boot Permanent switch back to upstart High-level startup concept Job vs. unit keywords Shell scripts Automatic starting Invalid configurations Override Files Behav",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses systemd and Upstart init systems, not Docker, so it is not relevant to the query about Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "SystemdForUpstartUsers \"Systemd For Upstart Users Contents Introduction Support status System Init Daemon Switching init systems Switch to upstart for a single boot Permanent switch back to upstart High-level startup concept Job vs. unit keywords Shell scripts Automatic starting Invalid configurations Override Files Behav",
+  "history": {
+    "url": "https://wiki.ubuntu.com/SystemdForUpstartUsers",
+    "title": "SystemdForUpstartUsers",
+    "description": "\"Systemd For Upstart Users Contents Introduction Support status System Init Daemon Switching init systems Switch to upstart for a single boot Permanent switch back to upstart High-level startup concept Job vs. unit keywords Shell scripts Automatic starting Invalid configurations Override Files Behav",
+    "frecency": 3395,
+    "url_hash": 7279171213567,
+    "last_visit_date": 1758203928360111
+  }
+}

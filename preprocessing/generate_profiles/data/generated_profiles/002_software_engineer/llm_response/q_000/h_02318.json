@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "2.2.1.10.4 Internet Explorer 10 and Internet Explorer 11 Registry Keys 2.2.1.10.4 Internet Explorer 10 and Internet Explorer 11 Registry Keys Attribute Registry type Registry key Enable Tabbed Browsing REG_DWORDHKEY_CURRENT_USER\\\\Software\\\\Microsoft\\\\Internet Explorer\\\\Tabbed Browsing\\\\Enable Tabbed Browsing Warn When Closing Multiple Tabs REG_DWORDHKEY_CURRENT_USER\\\\Softwar",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Internet Explorer registry keys and tabbed browsing, unrelated to debugging API integrations.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "2.2.1.10.4 Internet Explorer 10 and Internet Explorer 11 Registry Keys 2.2.1.10.4 Internet Explorer 10 and Internet Explorer 11 Registry Keys Attribute Registry type Registry key Enable Tabbed Browsing REG_DWORDHKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Tabbed Browsing\\Enable Tabbed Browsing Warn When Closing Multiple Tabs REG_DWORDHKEY_CURRENT_USER\\Softwar",
+  "history": {
+    "url": "https://msdn.microsoft.com/en-us/library/dn479870.aspx",
+    "title": "2.2.1.10.4 Internet Explorer 10 and Internet Explorer 11 Registry Keys",
+    "description": "2.2.1.10.4 Internet Explorer 10 and Internet Explorer 11 Registry Keys Attribute Registry type Registry key Enable Tabbed Browsing REG_DWORDHKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Tabbed Browsing\\Enable Tabbed Browsing Warn When Closing Multiple Tabs REG_DWORDHKEY_CURRENT_USER\\Softwar",
+    "frecency": 821,
+    "url_hash": 46925733966644,
+    "last_visit_date": 1758203929958111
+  }
+}

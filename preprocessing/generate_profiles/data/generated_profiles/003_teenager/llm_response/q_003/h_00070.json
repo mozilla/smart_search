@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "The Ball family -- coming to a basketball court (and TV) near you \"The Ball family -- coming to a basketball court (and TV) near you La Var and Tina Ball have three children -- all of whom are elite basketball prospects. The oldest two are already committed to UCLA. The youngest will likely join them. It's a unique family with a unique story soon to be featured in",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses a sports/entertainment news item about the Ball family, not about study habits, apps, or productivity. It doesn't match the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "The Ball family -- coming to a basketball court (and TV) near you \"The Ball family -- coming to a basketball court (and TV) near you La Var and Tina Ball have three children -- all of whom are elite basketball prospects. The oldest two are already committed to UCLA. The youngest will likely join them. It's a unique family with a unique story soon to be featured in",
+  "history": {
+    "url": "http://www.cbssports.com/college-basketball/news/the-ball-family-coming-to-a-basketball-court-and-tv-near-you/",
+    "title": "The Ball family -- coming to a basketball court (and TV) near you",
+    "description": "\"The Ball family -- coming to a basketball court (and TV) near you La Var and Tina Ball have three children -- all of whom are elite basketball prospects. The oldest two are already committed to UCLA. The youngest will likely join them. It's a unique family with a unique story soon to be featured in",
+    "frecency": 4935,
+    "url_hash": 32592691034677,
+    "last_visit_date": 1758203927550735
+  }
+}

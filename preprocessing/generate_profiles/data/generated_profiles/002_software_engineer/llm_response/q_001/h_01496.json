@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "SPECIES EVOLUTION \"Evolution Encyclopedia Vol. 2CHAPTER 15SPECIES EVOLUTION\"\"Throughout the past century there has always existed a significant minority of first-rate biologists who have never been able to accept the validity of Darwinian claims. In fact, the member of biologists who have expresse",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses species evolution and Darwinian biology, with no mention of Python, libraries, or machine learning; not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "SPECIES EVOLUTION \"Evolution Encyclopedia Vol. 2CHAPTER 15SPECIES EVOLUTION\"\"Throughout the past century there has always existed a significant minority of first-rate biologists who have never been able to bring themselves to accept the validity of Darwinian claims. In fact, the member of biologists who have expresse",
+  "history": {
+    "url": "http://evolutionfacts.com/Ev-V2/2evlch15.htm",
+    "title": "SPECIES EVOLUTION",
+    "description": "\"Evolution Encyclopedia Vol. 2CHAPTER 15SPECIES EVOLUTION\"\"Throughout the past century there has always existed a significant minority of first-rate biologists who have never been able to bring themselves to accept the validity of Darwinian claims. In fact, the member of biologists who have expresse",
+    "frecency": 2294,
+    "url_hash": 69872466976257,
+    "last_visit_date": 1758203927916111
+  }
+}

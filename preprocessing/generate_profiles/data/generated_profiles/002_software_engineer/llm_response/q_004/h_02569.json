@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Arizona-Sonora Desert Museum Photos About Amenities Pricing Reviews Contact Arizona-Sonora Desert Museum ( 12)2021 N. Kinney Road, Tucson, AZCall Share About This Vendor We don\u2018t know Arizona-Sonora Desert Museum \u2018s story by heart, but we can assure you it\u2018s pretty awesome. Message them to get to know more about their business.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a desert museum and contains no mentions of Docker or setup for beginners; not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Arizona-Sonora Desert Museum Photos About Amenities Pricing Reviews Contact Arizona-Sonora Desert Museum ( 12)2021 N. Kinney Road, Tucson, AZCall Share About This Vendor We don\u2018t know Arizona-Sonora Desert Museum \u2018s story by heart, but we can assure you it\u2018s pretty awesome. Message them to get to know more about their business.",
+  "history": {
+    "url": "https://www.theknot.com/marketplace/arizonasonora-desert-museum-tucson-az-512318",
+    "title": "Arizona-Sonora Desert Museum",
+    "description": "Photos About Amenities Pricing Reviews Contact Arizona-Sonora Desert Museum ( 12)2021 N. Kinney Road, Tucson, AZCall Share About This Vendor We don\u2018t know Arizona-Sonora Desert Museum \u2018s story by heart, but we can assure you it\u2018s pretty awesome. Message them to get to know more about their business.",
+    "frecency": 350,
+    "url_hash": 29823632647438,
+    "last_visit_date": 1758203929650111
+  }
+}

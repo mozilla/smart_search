@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Osnaburg Local School District USA.com / Ohio / Osnaburg Local School District Osnaburg Local School District Basic Info Population/Races Income/Careers Housing Education Others Osnaburg Local School District is located in east Ohio. Osnaburg Local School District has 34.56 square miles of land area and 0.01 square miles of water",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a local school district and lacks any content related to debugging API integrations.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Osnaburg Local School District USA.com / Ohio / Osnaburg Local School District Osnaburg Local School District Basic Info Population/Races Income/Careers Housing Education Others Osnaburg Local School District is located in east Ohio. Osnaburg Local School District has 34.56 square miles of land area and 0.01 square miles of water",
+  "history": {
+    "url": "http://www.usa.com/school-district-3904991.htm",
+    "title": "Osnaburg Local School District",
+    "description": "USA.com / Ohio / Osnaburg Local School District Osnaburg Local School District Basic Info Population/Races Income/Careers Housing Education Others Osnaburg Local School District is located in east Ohio. Osnaburg Local School District has 34.56 square miles of land area and 0.01 square miles of water",
+    "frecency": 4510,
+    "url_hash": 82978623687711,
+    "last_visit_date": 1758203932192111
+  }
+}

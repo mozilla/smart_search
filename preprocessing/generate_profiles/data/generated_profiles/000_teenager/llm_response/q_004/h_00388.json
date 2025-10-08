@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Cincinnati Music FESTIVAL 2018 WE HAVE FUN TOGETHERBuying Cincinnati Festival tickets, you will have the exclusive chance to become a participant of such a grandiose event as the second largest R&B music festival held every year! First, when it was founded in 1962, the fest was named Ohio Valley Jazz Festival. As years passed, th",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a Cincinnati music festival, not related to improving sports performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Cincinnati Music FESTIVAL 2018 WE HAVE FUN TOGETHERBuying Cincinnati Festival tickets, you will have the exclusive chance to become a participant of such a grandiose event as the second largest R&B music festival held every year! First, when it was founded in 1962, the fest was named Ohio Valley Jazz Festival. As years passed, th",
+  "history": {
+    "url": "https://cincinnati-festival-tickets.com/",
+    "title": "Cincinnati Music FESTIVAL 2018",
+    "description": "WE HAVE FUN TOGETHERBuying Cincinnati Festival tickets, you will have the exclusive chance to become a participant of such a grandiose event as the second largest R&B music festival held every year! First, when it was founded in 1962, the fest was named Ohio Valley Jazz Festival. As years passed, th",
+    "frecency": 3364,
+    "url_hash": 58370046630336,
+    "last_visit_date": 1758203927347139
+  }
+}

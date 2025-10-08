@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Glee Cory Monteith tribute article about The Quarterback, unrelated to sports.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a TV show tribute and actor, not about improving athletic performance or sports skills.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "'Glee's' Cory Monteith Tribute Bids an Emotional Farewell to Finn \"October 10, 2013 7:24pm PT by Lesley Goldberg'Glee's' Cory Monteith Tribute Bids an Emotional Farewell to Finn\"\"Glee's\"\" Cory Monteith\"\"The Quarterback\"\" picks up three weeks after the death of Mc Kinley's star and makes no mention of how the character died. [Warning: This story contains spoilers f",
+  "history": {
+    "url": "http://www.hollywoodreporter.com/live-feed/glees-cory-monteith-tribute-bids-647330",
+    "title": "'Glee's' Cory Monteith Tribute Bids an Emotional Farewell to Finn",
+    "description": "\"October 10, 2013 7:24pm PT by Lesley Goldberg'Glee's' Cory Monteith Tribute Bids an Emotional Farewell to Finn\"\"Glee's\"\" Cory Monteith\"\"The Quarterback\"\" picks up three weeks after the death of Mc Kinley's star and makes no mention of how the character died. [Warning: This story contains spoilers f",
+    "frecency": 4758,
+    "url_hash": 12087268740322,
+    "last_visit_date": 1758203930319228
+  }
+}

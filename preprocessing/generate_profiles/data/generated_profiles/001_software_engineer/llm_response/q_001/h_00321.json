@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "DNKN $60.28 * 0.06 0.1% \"Stock Report Details Issue Sub Type Common Stock Exchange NASDAQ-GS52 Week High 68.45 52 Week Low 50.89Dividend Yield 2.31 % Annual Dividend $ 1.39P/E Ratio 15.82 Shares Outstanding 82,710,000News for DNKNMc Donald's to expand Nordic business with new restaurants, home delivery4/10/2018 10:42:00 AM",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is stock market data and a McDonald's news item; it has no relation to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "DNKN $60.28 * 0.06 0.1% \"Stock Report Details Issue Sub Type Common Stock Exchange NASDAQ-GS52 Week High 68.45 52 Week Low 50.89Dividend Yield 2.31 % Annual Dividend $ 1.39P/E Ratio 15.82 Shares Outstanding 82,710,000News for DNKNMc Donald's to expand Nordic business with new restaurants, home delivery4/10/2018 10:42:00 AM",
+  "history": {
+    "url": "http://www.nasdaq.com/symbol/dnkn/stock-report",
+    "title": "DNKN $60.28 * 0.06 0.1%",
+    "description": "\"Stock Report Details Issue Sub Type Common Stock Exchange NASDAQ-GS52 Week High 68.45 52 Week Low 50.89Dividend Yield 2.31 % Annual Dividend $ 1.39P/E Ratio 15.82 Shares Outstanding 82,710,000News for DNKNMc Donald's to expand Nordic business with new restaurants, home delivery4/10/2018 10:42:00 AM",
+    "frecency": 3882,
+    "url_hash": 62459043578952,
+    "last_visit_date": 1758203927730200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Networking Best Practices - Connecting Two Switches Connecting two switches together is an easy task, which makes it so frustrating when it doesn\u2019t work. Here we will outline a basic scenario of connecting two switches and achieving connectivity. In these scenarios we will be using commands and settings that will work for most modern Power Connect sw",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses networking switches/hardware rather than Docker or containerization, so it is not relevant to the Docker setup for beginners query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Networking Best Practices - Connecting Two Switches Connecting two switches together is an easy task, which makes it so frustrating when it doesn\u2019t work. Here we will outline a basic scenario of connecting two switches and achieving connectivity. In these scenarios we will be using commands and settings that will work for most modern Power Connect sw",
+  "history": {
+    "url": "http://en.community.dell.com/support-forums/network-switches/f/866/t/19506015",
+    "title": "Networking Best Practices - Connecting Two Switches",
+    "description": "Connecting two switches together is an easy task, which makes it so frustrating when it doesn\u2019t work. Here we will outline a basic scenario of connecting two switches and achieving connectivity. In these scenarios we will be using commands and settings that will work for most modern Power Connect sw",
+    "frecency": 1094,
+    "url_hash": 63627079071863,
+    "last_visit_date": 1758203928796111
+  }
+}

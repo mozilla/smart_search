@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Income Protection Insurance \"Life & Income Protection Income Protection Trusted by 2.8 Million Australians 1Income Protection Insurance Now with optional redundancy benefit. Keep your life on track if you are unable to work due to sickness, injury or redundancy. Get a quote Retrieve a previous quote Make a Payment Update your",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about income protection insurance, which is unrelated to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Income Protection Insurance \"Life & Income Protection Income Protection Trusted by 2.8 Million Australians 1Income Protection Insurance Now with optional redundancy benefit. Keep your life on track if you are unable to work due to sickness, injury or redundancy. Get a quote Retrieve a previous quote Make a Payment Update your",
+  "history": {
+    "url": "https://www.aami.com.au/life-insurance/income-protection.html",
+    "title": "Income Protection Insurance",
+    "description": "\"Life & Income Protection Income Protection Trusted by 2.8 Million Australians 1Income Protection Insurance Now with optional redundancy benefit. Keep your life on track if you are unable to work due to sickness, injury or redundancy. Get a quote Retrieve a previous quote Make a Payment Update your ",
+    "frecency": 3527,
+    "url_hash": 14227035755060,
+    "last_visit_date": 1758203935015228
+  }
+}

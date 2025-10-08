@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "How stocks fare in rising interest rates Ever since the Federal Reserve effectively dropped the federal funds rate to zero in December 2008, investors have lived in apprehension of the day rates will go up. Bond prices move in the opposite direction from interest rates, so most experts recommend that investors avoid long-term bonds like th",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses finance topics (stocks, bonds, interest rates) and has no connection to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "How stocks fare in rising interest rates Ever since the Federal Reserve effectively dropped the federal funds rate to zero in December 2008, investors have lived in apprehension of the day rates will go up. Bond prices move in the opposite direction from interest rates, so most experts recommend that investors avoid long-term bonds like th",
+  "history": {
+    "url": "http://www.bankrate.com/finance/investing/stocks-and-rising-interest-rates.aspx",
+    "title": "How stocks fare in rising interest rates",
+    "description": "Ever since the Federal Reserve effectively dropped the federal funds rate to zero in December 2008, investors have lived in apprehension of the day rates will go up. Bond prices move in the opposite direction from interest rates, so most experts recommend that investors avoid long-term bonds like th",
+    "frecency": 2093,
+    "url_hash": 88083819344329,
+    "last_visit_date": 1758203927396200
+  }
+}

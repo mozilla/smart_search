@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Secretary General \\\"Ministry Minister Deputy Ministers Secretary General Division for Public Communication Office on the Copyright and Related Rights Organisation Contact Access to Public Documents Culture and Cultural Heritage Institutions Reports Publications Newsletter Secretary General Veton Firzi Permanent Secret",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result references government roles and public communication, with no content related to database queries or optimization; thus it is not relevant to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Secretary General \"Ministry Minister Deputy Ministers Secretary General Division for Public Communication Office on the Copyright and Related Rights Organisation Contact Access to Public Documents Culture and Cultural Heritage Institutions Reports Publications Newsletter Secretary General Veton Firzi Permanent Secret",
+  "history": {
+    "url": "http://www.mkrs-ks.org/?page=2,23,43",
+    "title": "Secretary General",
+    "description": "\"Ministry Minister Deputy Ministers Secretary General Division for Public Communication Office on the Copyright and Related Rights Organisation Contact Access to Public Documents Culture and Cultural Heritage Institutions Reports Publications Newsletter Secretary General Veton Firzi Permanent Secret",
+    "frecency": 2355,
+    "url_hash": 73226455394844,
+    "last_visit_date": 1758203929724111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Life Expectancy of a USB Flash Drive Life Expectancy of a USB Flash Drive USB flash drives are great to use for storing digital files and are replacing CDs & DVDs as the preferred storage media of choice. The advantages of flash drives is that they are portable, durable, and have incredible storage capacity (ranges from 64MB to 256GB a",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses USB flash drives and their life expectancy, which is unrelated to Python libraries or machine learning topics.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Life Expectancy of a USB Flash Drive Life Expectancy of a USB Flash Drive USB flash drives are great to use for storing digital files and are replacing CDs & DVDs as the preferred storage media of choice. The advantages of flash drives is that they are portable, durable, and have incredible storage capacity (ranges from 64MB to 256GB a",
+  "history": {
+    "url": "http://www.flashbay.com/blog/usb-life-expectancy",
+    "title": "Life Expectancy of a USB Flash Drive",
+    "description": "Life Expectancy of a USB Flash Drive USB flash drives are great to use for storing digital files and are replacing CDs & DVDs as the preferred storage media of choice. The advantages of flash drives is that they are portable, durable, and have incredible storage capacity (ranges from 64MB to 256GB a",
+    "frecency": 2691,
+    "url_hash": 5077411393863,
+    "last_visit_date": 1758203929926111
+  }
+}

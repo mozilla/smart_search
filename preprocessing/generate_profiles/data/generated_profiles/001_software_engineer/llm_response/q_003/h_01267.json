@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Robin Williams hanged himself in bedroom with a belt, sheriff says \"Actor and comedian Robin Williams committed suicide by hanging himself after first apparently trying to to slash one of his wrists, authorities said Tuesday. Marin County sheriff's Lt. Keith Boyd said Williams hanged himself with a belt in his bedroom, where he was found by his personal assistant s",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Robin Williams' suicide and is not related to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Robin Williams hanged himself in bedroom with a belt, sheriff says \"Actor and comedian Robin Williams committed suicide by hanging himself after first apparently trying to to slash one of his wrists, authorities said Tuesday. Marin County sheriff's Lt. Keith Boyd said Williams hanged himself with a belt in his bedroom, where he was found by his personal assistant s",
+  "history": {
+    "url": "http://www.latimes.com/local/lanow/la-me-ln-robin-williams-death-hanging-20140812-story.html",
+    "title": "Robin Williams hanged himself in bedroom with a belt, sheriff says",
+    "description": "\"Actor and comedian Robin Williams committed suicide by hanging himself after first apparently trying to to slash one of his wrists, authorities said Tuesday. Marin County sheriff's Lt. Keith Boyd said Williams hanged himself with a belt in his bedroom, where he was found by his personal assistant s",
+    "frecency": 530,
+    "url_hash": 84965418247824,
+    "last_visit_date": 1758203928838200
+  }
+}

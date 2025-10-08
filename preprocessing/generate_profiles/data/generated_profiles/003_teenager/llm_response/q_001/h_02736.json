@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "Salon TVNewsPoliticsEntertainmentLifeInnovationPodcastsAboutNews Politics Entertainment Life Innovation Salon TVNews Politics Entertainment Life Innovation Podcasts About",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result appears to be a generic list of site sections/categories and does not indicate content about TikTok trends or 2024 trends; thus it is not relevant to the query.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "Salon TVNewsPoliticsEntertainmentLifeInnovationPodcastsAboutNews Politics Entertainment Life Innovation Salon TVNews Politics Entertainment Life Innovation Podcasts About",
+  "history": {
+    "url": "http://www.salon.com/2013/04/15/psst_tax_deadline_not_much_of_a_deadline_for_most_ap/",
+    "title": "Salon TVNewsPoliticsEntertainmentLifeInnovationPodcastsAboutNews Politics Entertainment Life Innovation",
+    "description": "Salon TVNews Politics Entertainment Life Innovation Podcasts About ",
+    "frecency": 2148,
+    "url_hash": 42012218936423,
+    "last_visit_date": 1758203934795228
+  }
+}

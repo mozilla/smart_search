@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Latest News Latest News November 7, 2017The Institute for Population Health, Healthy Start, C. A. N screening of the movie \u201cResilience: The Biology of Stress & the Science of Hope\u201dThe Institute for Population Health through our Healthy Start program would like to invite the community to watch the movie \u201cResilie",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses population health and screening a movie, not content related to improving performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Latest News Latest News November 7, 2017The Institute for Population Health, Healthy Start, C. A. N screening of the movie \u201cResilience: The Biology of Stress & the Science of Hope\u201dThe Institute for Population Health through our Healthy Start program would like to invite the community to watch the movie \u201cResilie",
+  "history": {
+    "url": "http://ipophealth.org/",
+    "title": "Latest News",
+    "description": "Latest News November 7, 2017The Institute for Population Health, Healthy Start, C. A. N screening of the movie \u201cResilience: The Biology of Stress & the Science of Hope\u201dThe Institute for Population Health through our Healthy Start program would like to invite the community to watch the movie \u201cResilie",
+    "frecency": 4328,
+    "url_hash": 75833122833093,
+    "last_visit_date": 1758203928364735
+  }
+}

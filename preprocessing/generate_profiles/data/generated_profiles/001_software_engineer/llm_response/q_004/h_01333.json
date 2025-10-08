@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Computer Abbreviations \\\"Home Reference Abbreviations and Acronyms Computer Abbreviations Computer Abbreviations6th grade 7th grade 8th grade 9th grade 10th grade 11th grade 12th grade Middle School High School There are literally thousands of computer abbreviations out there. Many are concerned with the technical aspects",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about computer abbreviations and acronyms, not Docker or container setup; no relevant content to Docker for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Computer Abbreviations \"Home Reference Abbreviations and Acronyms Computer Abbreviations Computer Abbreviations6th grade 7th grade 8th grade 9th grade 10th grade 11th grade 12th grade Middle School High School There are literally thousands of computer abbreviations out there. Many are concerned with the technical aspects",
+  "history": {
+    "url": "http://abbreviations.yourdictionary.com/articles/computer-abbreviations.html",
+    "title": "Computer Abbreviations",
+    "description": "\"Home Reference Abbreviations and Acronyms Computer Abbreviations Computer Abbreviations6th grade 7th grade 8th grade 9th grade 10th grade 11th grade 12th grade Middle School High School There are literally thousands of computer abbreviations out there. Many are concerned with the technical aspects ",
+    "frecency": 315,
+    "url_hash": 7031561325869,
+    "last_visit_date": 1758203927194200
+  }
+}

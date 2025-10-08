@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Rate Insignia of Navy Enlisted Personnel Pay Grade Rate Abbreviation Upper Sleeve Collar and Cap E-1 Seaman Recruit SR none none E-2 Seaman Apprentice SA none E-3 Seaman SN none E-4 Petty Officer Third Class PO3E-5 Petty Officer Second Class PO2E-6 Petty Officer First Class PO1E-7 Chief Petty Officer CPOE-8 Senior Chief Petty Officer SCPOE",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result content is about naval ranks and insignia, not about database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Rate Insignia of Navy Enlisted Personnel Pay Grade Rate Abbreviation Upper Sleeve Collar and Cap E-1 Seaman Recruit SR none none E-2 Seaman Apprentice SA none E-3 Seaman SN none E-4 Petty Officer Third Class PO3E-5 Petty Officer Second Class PO2E-6 Petty Officer First Class PO1E-7 Chief Petty Officer CPOE-8 Senior Chief Petty Officer SCPOE",
+  "history": {
+    "url": "http://www.navy.mil/navydata/ranks/rates/rates.html",
+    "title": "Rate Insignia of Navy Enlisted Personnel",
+    "description": "Pay Grade Rate Abbreviation Upper Sleeve Collar and Cap E-1 Seaman Recruit SR none none E-2 Seaman Apprentice SA none E-3 Seaman SN none E-4 Petty Officer Third Class PO3E-5 Petty Officer Second Class PO2E-6 Petty Officer First Class PO1E-7 Chief Petty Officer CPOE-8 Senior Chief Petty Officer SCPOE",
+    "frecency": 2178,
+    "url_hash": 34492503877310,
+    "last_visit_date": 1758203931666111
+  }
+}

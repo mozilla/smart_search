@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Greek Food Greek Food Finding a great meal in ancient Greece would have been very easy. They ate a variety of delicious dishes, some of which are still around today. Most Greeks were farmers and they ate the food that they grew. Since Greece had a mild climate, they were able to grow many different fruits and",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Greek food and ancient Greece, not related to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Greek Food Greek Food Finding a great meal in ancient Greece would have been very easy. They ate a variety of delicious dishes, some of which are still around today. Most Greeks were farmers and they ate the food that they grew. Since Greece had a mild climate, they were able to grow many different fruits and",
+  "history": {
+    "url": "http://www.historyforkids.net/greek-food.html",
+    "title": "Greek Food",
+    "description": "Greek Food Finding a great meal in ancient Greece would have been very easy. They ate a variety of delicious dishes, some of which are still around today. Most Greeks were farmers and they ate the food that they grew. Since Greece had a mild climate, they were able to grow many different fruits and ",
+    "frecency": 4786,
+    "url_hash": 97568545591970,
+    "last_visit_date": 1758203928368200
+  }
+}

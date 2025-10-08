@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Exercise for a Healthy Heart \"Exercise for a Healthy Heart In this Article How to Start Exercising Types of Exercise How Much Should You Exercise and How Often? Exercise Precautions Your heart is a muscle, and it gets stronger and healthier if you lead an active life. It's never too late to start exercising, and you don't have",
+  "relevance_score": 0.6,
+  "binary_decision": 1,
+  "Decision_Reason": "The page covers general exercise and heart health, which can improve fitness for sports, but it is not sport-specific.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Exercise for a Healthy Heart \"Exercise for a Healthy Heart In this Article How to Start Exercising Types of Exercise How Much Should You Exercise and How Often? Exercise Precautions Your heart is a muscle, and it gets stronger and healthier if you lead an active life. It's never too late to start exercising, and you don't have",
+  "history": {
+    "url": "https://www.webmd.com/fitness-exercise/guide/exercise-healthy-heart",
+    "title": "Exercise for a Healthy Heart",
+    "description": "\"Exercise for a Healthy Heart In this Article How to Start Exercising Types of Exercise How Much Should You Exercise and How Often? Exercise Precautions Your heart is a muscle, and it gets stronger and healthier if you lead an active life. It's never too late to start exercising, and you don't have ",
+    "frecency": 659,
+    "url_hash": 93304203999069,
+    "last_visit_date": 1758203931303228
+  }
+}

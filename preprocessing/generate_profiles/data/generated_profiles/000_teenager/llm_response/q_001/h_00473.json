@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "The Surprising History of Emojis Visual Design The Surprising History of Emojis By Marc Schenker | Oct. 11, 2016",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about emoji history, not TikTok trends or 2024 trends; it is unrelated to the query.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "The Surprising History of Emojis Visual Design The Surprising History of Emojis By Marc Schenker | Oct. 11, 2016",
+  "history": {
+    "url": "https://www.webdesignerdepot.com/2016/10/the-surprising-history-of-emojis/",
+    "title": "The Surprising History of Emojis",
+    "description": "Visual Design The Surprising History of Emojis By Marc Schenker | Oct. 11, 2016 ",
+    "frecency": 2879,
+    "url_hash": 93592930965382,
+    "last_visit_date": 1758203926971139
+  }
+}

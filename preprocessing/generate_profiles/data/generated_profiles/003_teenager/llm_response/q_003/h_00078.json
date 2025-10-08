@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Alice Ghostley, 81; Tony Award-winning actress who starred in 'Bewitched' \"Obituaries Alice Ghostley, 81; Tony Award-winning actress who starred in 'Bewitched'September 22, 2007 | Dennis Mc Lellan | Times Staff Writer Alice Ghostley, the Tony Award-winning comedic actress and singer who specialized in playing ditsy ladies and was best known on television for her supportin",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is an obituary about actress Alice Ghostley and contains no information about study apps or studying habits; thus not relevant to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Alice Ghostley, 81; Tony Award-winning actress who starred in 'Bewitched' \"Obituaries Alice Ghostley, 81; Tony Award-winning actress who starred in 'Bewitched'September 22, 2007 | Dennis Mc Lellan | Times Staff Writer Alice Ghostley, the Tony Award-winning comedic actress and singer who specialized in playing ditsy ladies and was best known on television for her supportin",
+  "history": {
+    "url": "http://articles.latimes.com/2007/sep/22/local/me-ghostley22",
+    "title": "Alice Ghostley, 81; Tony Award-winning actress who starred in 'Bewitched'",
+    "description": "\"Obituaries Alice Ghostley, 81; Tony Award-winning actress who starred in 'Bewitched'September 22, 2007 | Dennis Mc Lellan | Times Staff Writer Alice Ghostley, the Tony Award-winning comedic actress and singer who specialized in playing ditsy ladies and was best known on television for her supportin",
+    "frecency": 4922,
+    "url_hash": 86374125478832,
+    "last_visit_date": 1758203929671228
+  }
+}

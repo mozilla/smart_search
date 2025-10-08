@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "How to Fix a Chipped Tooth How to Fix a Chipped Tooth You can break, chip, or fracture a tooth in both dramatic and mundane ways. The damage may be the result of an extreme sports mishap, or it could just as easily happen while crunching contentedly on ice. Spectators and athletes are both at risk. Fortunately, modern dentist",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses dental care, not Docker or software setup; not relevant to 'Docker setup for beginners'.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "How to Fix a Chipped Tooth How to Fix a Chipped Tooth You can break, chip, or fracture a tooth in both dramatic and mundane ways. The damage may be the result of an extreme sports mishap, or it could just as easily happen while crunching contentedly on ice. Spectators and athletes are both at risk. Fortunately, modern dentist",
+  "history": {
+    "url": "https://www.dentalinsurance.com/blog/2014/09/restorative-dentistry/how-to-fix-a-chipped-tooth",
+    "title": "How to Fix a Chipped Tooth",
+    "description": "How to Fix a Chipped Tooth You can break, chip, or fracture a tooth in both dramatic and mundane ways. The damage may be the result of an extreme sports mishap, or it could just as easily happen while crunching contentedly on ice. Spectators and athletes are both at risk. Fortunately, modern dentist",
+    "frecency": 1837,
+    "url_hash": 5601711185118,
+    "last_visit_date": 1758203926914200
+  }
+}

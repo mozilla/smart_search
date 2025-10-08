@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "What kind of education did Abraham Lincoln have? \"What kind of education did Abraham Lincoln have?he went to law school J. P. Helm 124,843 Contributions Retired professor of math and computer science having taught for 36 years at a state supported university in Virginia What kind of personality did Abraham Lincoln have? Lincoln was unpretentious a",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Abraham Lincoln's education and personality, not any aspect of debugging API integration; it is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "What kind of education did Abraham Lincoln have? \"What kind of education did Abraham Lincoln have?he went to law school J. P. Helm 124,843 Contributions Retired professor of math and computer science having taught for 36 years at a state supported university in Virginia What kind of personality did Abraham Lincoln have? Lincoln was unpretentious a",
+  "history": {
+    "url": "http://www.answers.com/Q/What_kind_of_person_was_Abraham_Lincoln",
+    "title": "What kind of education did Abraham Lincoln have?",
+    "description": "\"What kind of education did Abraham Lincoln have?he went to law school J. P. Helm 124,843 Contributions Retired professor of math and computer science having taught for 36 years at a state supported university in Virginia What kind of personality did Abraham Lincoln have? Lincoln was unpretentious a",
+    "frecency": 4993,
+    "url_hash": 23595353722084,
+    "last_visit_date": 1758203927062200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Map of Hotels near Colonial Beach \\\"Colonial Beach is located in northern Virginia along the Potomac River. Map of Hotels near Colonial Beach Zoom in (+) to see restaurants and other attractions near hotels. Hotels closest to Colonial Beach VAAvailability and rates shown are estimates for tonight only. Change Dates8 miles Hampton Inn",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The result pertains to hotel listings/maps near Colonial Beach, not to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Map of Hotels near Colonial Beach \"Colonial Beach is located in northern Virginia along the Potomac River. Map of Hotels near Colonial Beach Zoom in (+) to see restaurants and other attractions near hotels. Hotels closest to Colonial Beach VAAvailability and rates shown are estimates for tonight only. Change Dates8 miles Hampton Inn",
+  "history": {
+    "url": "http://hotelguides.com/virginia/colonial-beach-va-hotels.html",
+    "title": "Map of Hotels near Colonial Beach",
+    "description": "\"Colonial Beach is located in northern Virginia along the Potomac River. Map of Hotels near Colonial Beach Zoom in (+) to see restaurants and other attractions near hotels. Hotels closest to Colonial Beach VAAvailability and rates shown are estimates for tonight only. Change Dates8 miles Hampton Inn",
+    "frecency": 152,
+    "url_hash": 51522622427585,
+    "last_visit_date": 1758203930107228
+  }
+}

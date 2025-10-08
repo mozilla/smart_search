@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Madeleine Atkinson The Renaissance was an era of cultural rebirth and achievement that occurred in Italy during the fourteenth, fifteenth, and sixteenth centuries. The period can be best described as the rise of humanism, which was an intellectual movement that emphasized secular ideas found in literature from Ancient",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Renaissance history and does not relate to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Madeleine Atkinson The Renaissance was an era of cultural rebirth and achievement that occurred in Italy during the fourteenth, fifteenth, and sixteenth centuries. The period can be best described as the rise of humanism, which was an intellectual movement that emphasized secular ideas found in literature from Ancient",
+  "history": {
+    "url": "http://blogs.bu.edu/guidedhistory/moderneurope/madeleine-atkinson/",
+    "title": "Madeleine Atkinson",
+    "description": "The Renaissance was an era of cultural rebirth and achievement that occurred in Italy during the fourteenth, fifteenth, and sixteenth centuries. The period can be best described as the rise of humanism, which was an intellectual movement that emphasized secular ideas found in literature from Ancient",
+    "frecency": 4286,
+    "url_hash": 32967180777447,
+    "last_visit_date": 1758203935425228
+  }
+}

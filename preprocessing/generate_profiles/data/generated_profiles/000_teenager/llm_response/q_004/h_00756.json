@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "The World's Wildest Water Slides: Pictures",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses water slides and does not relate to improving athletic performance or sports skills.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "The World's Wildest Water Slides: Pictures \"By Meredith Kennedy Jul 12, 2010As summer temperatures rise, the best piece of equipment to beat the heat is your air conditioner. That is, unless you make your way to an even more noteworthy piece of cool-inducing engineering: the water slide. The primary purpose of a water slide is to keep up the",
+  "history": {
+    "url": "http://www.popularmechanics.com/technology/design/g191/worlds-wildest-water-slides/",
+    "title": "The World's Wildest Water Slides: Pictures",
+    "description": "\"By Meredith Kennedy Jul 12, 2010As summer temperatures rise, the best piece of equipment to beat the heat is your air conditioner. That is, unless you make your way to an even more noteworthy piece of cool-inducing engineering: the water slide. The primary purpose of a water slide is to keep up the",
+    "frecency": 1734,
+    "url_hash": 39207139778981,
+    "last_visit_date": 1758203927331139
+  }
+}

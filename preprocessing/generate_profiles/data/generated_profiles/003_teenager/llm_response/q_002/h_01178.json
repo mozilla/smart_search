@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Abstract photography \"From Wikipedia, the free encyclopedianavigation search This macroscopic photograph distinguishes little information about the nature of its object Reflection and motion combine as a stage for lighting to become abstract The type of this structure is not depicted Abstract photography, sometimes call",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses abstract photography and does not relate to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Abstract photography \"From Wikipedia, the free encyclopedianavigation search This macroscopic photograph distinguishes little information about the nature of its object Reflection and motion combine as a stage for lighting to become abstract The type of this structure is not depicted Abstract photography, sometimes call",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Abstract_photography",
+    "title": "Abstract photography",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search This macroscopic photograph distinguishes little information about the nature of its object Reflection and motion combine as a stage for lighting to become abstract The type of this structure is not depicted Abstract photography, sometimes call",
+    "frecency": 3794,
+    "url_hash": 45095115435423,
+    "last_visit_date": 1758203935151228
+  }
+}

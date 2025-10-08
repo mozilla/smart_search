@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Classroom Observations Classroom Observations Under our teacher evaluation system, teachers have a choice between four options for classroom observation: Observation Option 1: A minimum of one formal classroom observation and three informal observations is required. Observation Option 2: A minimum of six informal classroo",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses classroom observations in a teacher evaluation system, not database query optimization; it is not relevant to the search query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Classroom Observations Classroom Observations Under our teacher evaluation system, teachers have a choice between four options for classroom observation: Observation Option 1: A minimum of one formal classroom observation and three informal observations is required. Observation Option 2: A minimum of six informal classroo",
+  "history": {
+    "url": "http://www.uft.org/our-rights/know-your-rights/classroom-observations",
+    "title": "Classroom Observations",
+    "description": "Classroom Observations Under our teacher evaluation system, teachers have a choice between four options for classroom observation: Observation Option 1: A minimum of one formal classroom observation and three informal observations is required. Observation Option 2: A minimum of six informal classroo",
+    "frecency": 3390,
+    "url_hash": 33136961470626,
+    "last_visit_date": 1758203929534111
+  }
+}

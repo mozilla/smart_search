@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Terminator Genisys \\\"From Wikipedia, the free encyclopedia (Redirected from Terminator: Genisys)navigation search Terminator Genisys Theatrical release poster Directed by Alan Taylor Produced by David Ellison Dana Goldberg Written by Laeta Kalogridis Patrick Lussier Based on Characters by James Cameron and Gale Anne Hu",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about the Terminator Genisys film, not about starting a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Terminator Genisys \"From Wikipedia, the free encyclopedia (Redirected from Terminator: Genisys)navigation search Terminator Genisys Theatrical release poster Directed by Alan Taylor Produced by David Ellison Dana Goldberg Written by Laeta Kalogridis Patrick Lussier Based on Characters by James Cameron and Gale Anne Hu",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Terminator:_Genisys",
+    "title": "Terminator Genisys",
+    "description": "\"From Wikipedia, the free encyclopedia (Redirected from Terminator: Genisys)navigation search Terminator Genisys Theatrical release poster Directed by Alan Taylor Produced by David Ellison Dana Goldberg Written by Laeta Kalogridis Patrick Lussier Based on Characters by James Cameron and Gale Anne Hu",
+    "frecency": 1754,
+    "url_hash": 63410793998191,
+    "last_visit_date": 1758203931939228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Follow the Rules When Rolling Over Your Pension to an IRA Many companies are closing out their pension plans, giving workers the opportunity to roll them over to an IRA or another plan. This situation was created by the high cost of maintaining these pensions due mainly to our longer life expectancy. Done correctly, rollovers are tax neutral; done incorrec",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses pension rollovers to an IRA and tax considerations; it has no content about database queries or optimization, and thus is not relevant to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Follow the Rules When Rolling Over Your Pension to an IRA Many companies are closing out their pension plans, giving workers the opportunity to roll them over to an IRA or another plan. This situation was created by the high cost of maintaining these pensions due mainly to our longer life expectancy. Done correctly, rollovers are tax neutral; done incorrec",
+  "history": {
+    "url": "https://rodgers-associates.com/newsletters/follow-rules-when-rolling-over-pension-to-ira/",
+    "title": "Follow the Rules When Rolling Over Your Pension to an IRA",
+    "description": "Many companies are closing out their pension plans, giving workers the opportunity to roll them over to an IRA or another plan. This situation was created by the high cost of maintaining these pensions due mainly to our longer life expectancy. Done correctly, rollovers are tax neutral; done incorrec",
+    "frecency": 1281,
+    "url_hash": 52984767150067,
+    "last_visit_date": 1758203928578200
+  }
+}

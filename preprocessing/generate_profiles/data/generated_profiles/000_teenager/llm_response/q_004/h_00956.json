@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Theni district \"From Wikipedia, the free encyclopedianavigation search This article may require cleanup to meet Wikipedia's quality standards. The specific problem is: Entire sections are only partially and badly translated into English. See: so many moovies taken by tamilnadu film industry the moovies are list ou",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Theni district and film industry, which is unrelated to improving athletic performance or sports expertise.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Theni district \"From Wikipedia, the free encyclopedianavigation search This article may require cleanup to meet Wikipedia's quality standards. The specific problem is: Entire sections are only partially and badly translated into English. See: so many moovies taken by tamilnadu film industry the moovies are list ou",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Theni_district",
+    "title": "Theni district",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search This article may require cleanup to meet Wikipedia's quality standards. The specific problem is: Entire sections are only partially and badly translated into English. See: so many moovies taken by tamilnadu film industry the moovies are list ou",
+    "frecency": 770,
+    "url_hash": 73478021137451,
+    "last_visit_date": 1758203927753139
+  }
+}

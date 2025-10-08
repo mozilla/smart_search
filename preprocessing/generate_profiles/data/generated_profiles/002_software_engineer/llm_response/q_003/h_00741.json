@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "How to Make Your Laptop a Hotspot \"How to Make Your Laptop a Hotspot By Michael Elkins Share Turning your laptop into a wireless hotspot is easy. With a wired Internet connection, you can make a password-enabled Wi-Fi hotspot for your friends and neighbors to connect to without a wireless router. There is no limit to the number of d",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses turning a laptop into a hotspot, not about database query optimization or SQL performance.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "How to Make Your Laptop a Hotspot \"How to Make Your Laptop a Hotspot By Michael Elkins Share Turning your laptop into a wireless hotspot is easy. With a wired Internet connection, you can make a password-enabled Wi-Fi hotspot for your friends and neighbors to connect to without a wireless router. There is no limit to the number of d",
+  "history": {
+    "url": "http://www.ehow.com/how_8313949_make-laptop-hotspot.html",
+    "title": "How to Make Your Laptop a Hotspot",
+    "description": "\"How to Make Your Laptop a Hotspot By Michael Elkins Share Turning your laptop into a wireless hotspot is easy. With a wired Internet connection, you can make a password-enabled Wi-Fi hotspot for your friends and neighbors to connect to without a wireless router. There is no limit to the number of d",
+    "frecency": 3678,
+    "url_hash": 83060466443874,
+    "last_visit_date": 1758203929086111
+  }
+}

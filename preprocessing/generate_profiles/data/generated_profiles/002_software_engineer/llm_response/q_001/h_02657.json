@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "KernType a kerning game To get started drag or use your \u2190 \u2192 keys Instructions Your mission is simple: achieve pleasant and readable text by distributing the space between letters. Typographers call this activity kerning. Your solution will be compared to a typographer's solution, and you will be given a score depending on",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about kerning/typography, not Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "KernType a kerning game To get started drag or use your \u2190 \u2192 keys Instructions Your mission is simple: achieve pleasant and readable text by distributing the space between letters. Typographers call this activity kerning. Your solution will be compared to a typographer's solution, and you will be given a score depending on",
+  "history": {
+    "url": "http://type.method.ac/",
+    "title": "KernType a kerning game",
+    "description": "To get started drag or use your \u2190 \u2192 keys Instructions Your mission is simple: achieve pleasant and readable text by distributing the space between letters. Typographers call this activity kerning. Your solution will be compared to a typographer's solution, and you will be given a score depending on ",
+    "frecency": 165,
+    "url_hash": 19013011620445,
+    "last_visit_date": 1758203928574111
+  }
+}

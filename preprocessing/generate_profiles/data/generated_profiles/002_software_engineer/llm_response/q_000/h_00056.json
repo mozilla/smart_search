@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "INCUMBENT Audio English.org \u00bb Dictionary \u00bb I \u00bb Incubus ... Independence Hall INCUMBENTPronunciation (US): Dictionary entry overview: What does incumbent mean? INCUMBENT (noun) The noun INCUMBENT has 1 sense: 1. the official who holds an office Familiarity information: INCUMBENT used as a noun is very rare.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a dictionary/word entry about 'incumbent', not related to debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "INCUMBENT \"Audio English.org \u00bb Dictionary \u00bb I \u00bb Incubus ... Independence Hall INCUMBENTPronunciation (US): Dictionary entry overview: What does incumbent mean?\u2022 INCUMBENT (noun) The noun INCUMBENT has 1 sense:1. the official who holds an office Familiarity information: INCUMBENT used as a noun is very rare.\u2022",
+  "history": {
+    "url": "https://www.audioenglish.org/dictionary/incumbent.htm",
+    "title": "INCUMBENT",
+    "description": "\"Audio English.org \u00bb Dictionary \u00bb I \u00bb Incubus ... Independence Hall INCUMBENTPronunciation (US): Dictionary entry overview: What does incumbent mean?\u2022 INCUMBENT (noun) The noun INCUMBENT has 1 sense:1. the official who holds an office Familiarity information: INCUMBENT used as a noun is very rare.\u2022 ",
+    "frecency": 4907,
+    "url_hash": 94989633894009,
+    "last_visit_date": 1758203931874111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Get DDL \"Oracle Get DDL2 0 0 Share\"\" Hi, Any one has some idea on generating a DDL of a table or for all the defined indexes on a table into a file using abinitio. I understand that this can be done in oracle using DBMS_METADATA. GET_DDL but looking for same kind of functionality in the abinitio world. Any",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses DDL generation in Oracle/Ab Initio, not about top IDEs for software development; it is unrelated to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Get DDL \"Oracle Get DDL2 0 0 Share\"\" Hi, Any one has some idea on generating a DDL of a table or for all the defined indexes on a table into a file using abinitio. I understand that this can be done in oracle using DBMS_METADATA. GET_DDL but looking for same kind of functionality in the abinitio world. Any",
+  "history": {
+    "url": "http://datawarehouse.ittoolbox.com/groups/technical-functional/abinitio-l/get-ddl-1989389",
+    "title": "Get DDL",
+    "description": "\"Oracle Get DDL2 0 0 Share\"\" Hi, Any one has some idea on generating a DDL of a table or for all the defined indexes on a table into a file using abinitio. I understand that this can be done in oracle using DBMS_METADATA. GET_DDL but looking for same kind of functionality in the abinitio world. Any ",
+    "frecency": 4098,
+    "url_hash": 56551612211150,
+    "last_visit_date": 1758203928052111
+  }
+}

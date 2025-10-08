@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Nitric Oxide: The New Hero of Human Biology \"Nitric Oxide: The New Hero of Human Biology A few extra minutes on the stairmaster might be more beneficial than you thought. A longer workout means more production of nitric oxide -- an enzyme that could save you from heart disease and other problems. By Marissa Kantor, published February 8, 2005\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses nitric oxide and exercise, not content about starting or running a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Nitric Oxide: The New Hero of Human Biology \"Nitric Oxide: The New Hero of Human Biology A few extra minutes on the stairmaster might be more beneficial than you thought. A longer workout means more production of nitric oxide -- an enzyme that could save you from heart disease and other problems. By Marissa Kantor, published February 8, 2005",
+  "history": {
+    "url": "https://www.psychologytoday.com/articles/200502/nitric-oxide-the-new-hero-human-biology",
+    "title": "Nitric Oxide: The New Hero of Human Biology",
+    "description": "\"Nitric Oxide: The New Hero of Human Biology A few extra minutes on the stairmaster might be more beneficial than you thought. A longer workout means more production of nitric oxide -- an enzyme that could save you from heart disease and other problems. By Marissa Kantor, published February 8, 2005 ",
+    "frecency": 1272,
+    "url_hash": 53739129331452,
+    "last_visit_date": 1758203936031228
+  }
+}

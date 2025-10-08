@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Georgia's congressional districts \"From Wikipedia, the free encyclopedianavigation search Georgia's Congressional districts since 2013. [1]Georgia is represented in the United States House of Representatives by 14 elected congressmen, each campaigning and receiving votes in only one district of the 14. After the 2000 Census, the Sta",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Georgia's congressional districts and political representation, not about debugging APIs or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Georgia's congressional districts \"From Wikipedia, the free encyclopedianavigation search Georgia's Congressional districts since 2013. [1]Georgia is represented in the United States House of Representatives by 14 elected congressmen, each campaigning and receiving votes in only one district of the 14. After the 2000 Census, the Sta",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Georgia%27s_congressional_districts",
+    "title": "Georgia's congressional districts",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search Georgia's Congressional districts since 2013. [1]Georgia is represented in the United States House of Representatives by 14 elected congressmen, each campaigning and receiving votes in only one district of the 14. After the 2000 Census, the Sta",
+    "frecency": 817,
+    "url_hash": 64246983122426,
+    "last_visit_date": 1758203929300111
+  }
+}

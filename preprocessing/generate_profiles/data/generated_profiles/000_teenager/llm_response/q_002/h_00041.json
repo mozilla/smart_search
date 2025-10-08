@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Things To Do in Wisconsin Dells Things To Do in Wisconsin Dells Wisconsin Dells has many activities to enjoy for the perfect Winter getaway. We offer a wide variety of attractions to keep your entire group entertained. There are a many ski hills, snow-tubing opportunities, and snowmobile trails surrounding the Dells area. Stay war",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses travel activities in Wisconsin Dells and does not pertain to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Things To Do in Wisconsin Dells Things To Do in Wisconsin Dells Wisconsin Dells has many activities to enjoy for the perfect Winter getaway. We offer a wide variety of attractions to keep your entire group entertained. There are a many ski hills, snow-tubing opportunities, and snowmobile trails surrounding the Dells area. Stay war",
+  "history": {
+    "url": "https://www.dells.com/activities/",
+    "title": "Things To Do in Wisconsin Dells",
+    "description": "Things To Do in Wisconsin Dells Wisconsin Dells has many activities to enjoy for the perfect Winter getaway. We offer a wide variety of attractions to keep your entire group entertained. There are a many ski hills, snow-tubing opportunities, and snowmobile trails surrounding the Dells area. Stay war",
+    "frecency": 4840,
+    "url_hash": 51341849118456,
+    "last_visit_date": 1758203927809139
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "How to Make Your Own Potting Soil Frost Dates Last Spring Frost Apr 6First Fall Frost Nov 1Growing Season208 days Getting ready for gardening season? Use what the Pros use!Learn more about ECHO",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result pertains to gardening (potting soil, frost dates, growing season) and is not related to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "How to Make Your Own Potting Soil Frost Dates Last Spring Frost Apr 6First Fall Frost Nov 1Growing Season208 days Getting ready for gardening season? Use what the Pros use!Learn more about ECHO",
+  "history": {
+    "url": "http://www.almanac.com/blog/gardening-blog/make-your-own-potting-mixes",
+    "title": "How to Make Your Own Potting Soil",
+    "description": "Frost Dates Last Spring Frost Apr 6First Fall Frost Nov 1Growing Season208 days Getting ready for gardening season? Use what the Pros use!Learn more about ECHO ",
+    "frecency": 1921,
+    "url_hash": 78482009265840,
+    "last_visit_date": 1758203929822111
+  }
+}

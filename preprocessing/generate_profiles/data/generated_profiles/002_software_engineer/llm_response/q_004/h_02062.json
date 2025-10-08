@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Crab Orchard Lake \"Welcome to Williamson County Fast growing Williamson County in Southern Illinois beckons travelers and visitors as a regional destination for high quality outdoor recreation, sports events, cultural attractions, family entertainment and hospitality. Long known as the 'Goose Capital' of the world fo",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Crab Orchard Lake travel destination in Williamson County, unrelated to Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Crab Orchard Lake \"Welcome to Williamson County Fast growing Williamson County in Southern Illinois beckons travelers and visitors as a regional destination for high quality outdoor recreation, sports events, cultural attractions, family entertainment and hospitality. Long known as the 'Goose Capital' of the world fo",
+  "history": {
+    "url": "http://www.williamsoncountyil.gov/",
+    "title": "Crab Orchard Lake",
+    "description": "\"Welcome to Williamson County Fast growing Williamson County in Southern Illinois beckons travelers and visitors as a regional destination for high quality outdoor recreation, sports events, cultural attractions, family entertainment and hospitality. Long known as the 'Goose Capital' of the world fo",
+    "frecency": 1249,
+    "url_hash": 19615649384491,
+    "last_visit_date": 1758203927838111
+  }
+}

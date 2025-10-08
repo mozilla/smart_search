@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "WLAN adhoc mode vs infrastructure mode-Difference between adhoc mode and infrastructure mode WLAN adhoc mode vs infrastructure mode-Difference between adhoc mode and infrastructure mode In Wireless LAN ( WLAN) there are two system entities viz. Access Point (AP) and Stations (STAs). Stations are nothing but simple NICs (network interface cards). Both of these devices are compliant to 802.11",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The result discusses WLAN networking concepts (adhoc vs infrastructure modes) and is unrelated to Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "WLAN adhoc mode vs infrastructure mode-Difference between adhoc mode and infrastructure mode WLAN adhoc mode vs infrastructure mode-Difference between adhoc mode and infrastructure mode In Wireless LAN ( WLAN) there are two system entities viz. Access Point (AP) and Stations (STAs). Stations are nothing but simple NICs (network interface cards). Both of these devices are compliant to 802.11",
+  "history": {
+    "url": "http://www.rfwireless-world.com/Terminology/WLAN-adhoc-mode-vs-infrastructure-mode.html",
+    "title": "WLAN adhoc mode vs infrastructure mode-Difference between adhoc mode and infrastructure mode",
+    "description": "WLAN adhoc mode vs infrastructure mode-Difference between adhoc mode and infrastructure mode In Wireless LAN ( WLAN) there are two system entities viz. Access Point (AP) and Stations (STAs). Stations are nothing but simple NICs (network interface cards). Both of these devices are compliant to 802.11",
+    "frecency": 1180,
+    "url_hash": 5020439178668,
+    "last_visit_date": 1758203928124111
+  }
+}

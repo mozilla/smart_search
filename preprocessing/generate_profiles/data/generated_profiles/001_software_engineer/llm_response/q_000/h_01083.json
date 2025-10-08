@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "404: Page Not Found Request an Appointment 1.877.606.1555 | Online Form Share This Page Connect With Us Share Your Back in the Game Story Read our Blog: The Playbook Subscribe to our e Newsletters Quick Links HSS Home Find a Physician Get a Second Opinion Conditions and Treatments Why Choose HSSMy HSSCareer Opportuniti",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a generic healthcare site navigation page and contains no content related to debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "404: Page Not Found Request an Appointment 1.877.606.1555 | Online Form Share This Page Connect With Us Share Your Back in the Game Story Read our Blog: The Playbook Subscribe to our e Newsletters Quick Links HSS Home Find a Physician Get a Second Opinion Conditions and Treatments Why Choose HSSMy HSSCareer Opportuniti",
+  "history": {
+    "url": "https://www.hss.edu/conditions_14292.asp",
+    "title": "404: Page Not Found",
+    "description": "Request an Appointment 1.877.606.1555 | Online Form Share This Page Connect With Us Share Your Back in the Game Story Read our Blog: The Playbook Subscribe to our e Newsletters Quick Links HSS Home Find a Physician Get a Second Opinion Conditions and Treatments Why Choose HSSMy HSSCareer Opportuniti",
+    "frecency": 1173,
+    "url_hash": 63013466297080,
+    "last_visit_date": 1758203927682200
+  }
+}

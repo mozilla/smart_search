@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Threat (computer) \"From Wikipedia, the free encyclopedianavigation search This article's accessibility is in question. Relevant discussion may be found on the talk page. Information on making articles more accessible can be found at Wiki Project Accessibility. (20161006)In computer security, a threat is a possible da",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns 'Threat (computer)' and does not mention Docker or any setup guidance; thus it is not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Threat (computer) \"From Wikipedia, the free encyclopedianavigation search This article's accessibility is in question. Relevant discussion may be found on the talk page. Information on making articles more accessible can be found at Wiki Project Accessibility. (20161006)In computer security, a threat is a possible da",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Threat_%28computer%29",
+    "title": "Threat (computer)",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search This article's accessibility is in question. Relevant discussion may be found on the talk page. Information on making articles more accessible can be found at Wiki Project Accessibility. (20161006)In computer security, a threat is a possible da",
+    "frecency": 2873,
+    "url_hash": 18384086172557,
+    "last_visit_date": 1758203927962200
+  }
+}

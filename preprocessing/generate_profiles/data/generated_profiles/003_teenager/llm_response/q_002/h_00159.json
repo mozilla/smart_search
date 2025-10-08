@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Medicine \"Home Home Working With Us Pre-Health Advising Medicine Medicine To be \"\"pre-med\"\" means you are embarking on a course of study aimed at preparing you to apply to a medical school (or other post-graduate health profession). It means you are taking the classes and gaining the experiences that these s",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about pre-med/medical education, not about DIY room decoration ideas; it is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Medicine \"Home Home Working With Us Pre-Health Advising Medicine Medicine To be \"\"pre-med\"\" means you are embarking on a course of study aimed at preparing you to apply to a medical school (or other post-graduate health profession). It means you are taking the classes and gaining the experiences that these s",
+  "history": {
+    "url": "http://www.washington.edu/uaa/advising/at-the-uw/pre-health-advising/fields/medicine/",
+    "title": "Medicine",
+    "description": "\"Home Home Working With Us Pre-Health Advising Medicine Medicine To be \"\"pre-med\"\" means you are embarking on a course of study aimed at preparing you to apply to a medical school (or other post-graduate health profession). It means you are taking the classes and gaining the experiences that these s",
+    "frecency": 4836,
+    "url_hash": 75713808199859,
+    "last_visit_date": 1758203931795228
+  }
+}

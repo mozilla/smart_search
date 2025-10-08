@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Eagle Guest Ranch \\\"Lowest prices for your stay Check In Check Out1 room, 2 adults, 0 children Our online travel partners don't provide prices for this accommodation but we can search other options in Datil See available hotels All photos (5)Full view Overview4.0 31 reviews Excellent 41%Very good 38%Average 12%Poor 3%\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a hotel listing page, unrelated to debugging or API integration topics.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Eagle Guest Ranch \"Lowest prices for your stay Check In Check Out1 room, 2 adults, 0 children Our online travel partners don't provide prices for this accommodation but we can search other options in Datil See available hotels All photos (5)Full view Overview4.0 31 reviews Excellent 41%Very good 38%Average 12%Poor 3%",
+  "history": {
+    "url": "https://www.tripadvisor.com/Hotel_Review-g47008-d739240-Reviews-Eagle_Guest_Ranch-Datil_New_Mexico.html",
+    "title": "Eagle Guest Ranch",
+    "description": "\"Lowest prices for your stay Check In Check Out1 room, 2 adults, 0 children Our online travel partners don't provide prices for this accommodation but we can search other options in Datil See available hotels All photos (5)Full view Overview4.0 31 reviews Excellent 41%Very good 38%Average 12%Poor 3%",
+    "frecency": 4066,
+    "url_hash": 35210404719798,
+    "last_visit_date": 1758203928744200
+  }
+}

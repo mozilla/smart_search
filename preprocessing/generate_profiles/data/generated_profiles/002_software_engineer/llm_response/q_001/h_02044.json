@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "CUSTOMER SERVICE HOME Home | Customer Service Home Welcome to Citibank India's Customer Service Centre We are at your assistance seven days a week, round the clock. If you are looking for information about our products & services or wish to reach us, make a selection below to get started. Ask Me Looking for instant respo",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The page is about Citibank customer service; it has no content related to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "CUSTOMER SERVICE HOME Home | Customer Service Home Welcome to Citibank India's Customer Service Centre We are at your assistance seven days a week, round the clock. If you are looking for information about our products & services or wish to reach us, make a selection below to get started. Ask Me Looking for instant respo",
+  "history": {
+    "url": "https://www.online.citibank.co.in/customerservice/home.htm",
+    "title": "CUSTOMER SERVICE HOME",
+    "description": "Home | Customer Service Home Welcome to Citibank India's Customer Service Centre We are at your assistance seven days a week, round the clock. If you are looking for information about our products & services or wish to reach us, make a selection below to get started. Ask Me Looking for instant respo",
+    "frecency": 1290,
+    "url_hash": 72478342254935,
+    "last_visit_date": 1758203930650111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Delicious Dining Wilson\u2026Simply Wonderful Welcome to one of the most unique towns in North Carolina Chosen as one of the top 12 cities to start a business \u2013 US News Report 2017Wilson is the first gigabyte city in North Carolina Wilson offers such a wide array of choices, the biggest challenge for visitors, is decidin",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses tourism in North Carolina and is not about Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Delicious Dining Wilson\u2026Simply Wonderful Welcome to one of the most unique towns in North Carolina Chosen as one of the top 12 cities to start a business \u2013 US News Report 2017Wilson is the first gigabyte city in North Carolina Wilson offers such a wide array of choices, the biggest challenge for visitors, is decidin",
+  "history": {
+    "url": "http://www.wilson-nc.com/",
+    "title": "Delicious Dining",
+    "description": "Wilson\u2026Simply Wonderful Welcome to one of the most unique towns in North Carolina Chosen as one of the top 12 cities to start a business \u2013 US News Report 2017Wilson is the first gigabyte city in North Carolina Wilson offers such a wide array of choices, the biggest challenge for visitors, is decidin",
+    "frecency": 385,
+    "url_hash": 11063520767126,
+    "last_visit_date": 1758203928108200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Windows 7 PC Keeps Trying to Install WSD Print Device \\\"Get answers from your peers along with millions of IT pros who visit Spiceworks. Join Now I install HP printers all the time in my environment and generally use the HP Universal Driver for all of our networked printers (direct IP connect to the printer.) I have a PC today that refuses to do so. Whe",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The result is about printer drivers and Windows 7 issues, not Docker setup guidance for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Windows 7 PC Keeps Trying to Install WSD Print Device \"Get answers from your peers along with millions of IT pros who visit Spiceworks. Join Now I install HP printers all the time in my environment and generally use the HP Universal Driver for all of our networked printers (direct IP connect to the printer.) I have a PC today that refuses to do so. Whe",
+  "history": {
+    "url": "https://community.spiceworks.com/topic/443342-windows-7-pc-keeps-trying-to-install-wsd-print-device",
+    "title": "Windows 7 PC Keeps Trying to Install WSD Print Device",
+    "description": "\"Get answers from your peers along with millions of IT pros who visit Spiceworks. Join Now I install HP printers all the time in my environment and generally use the HP Universal Driver for all of our networked printers (direct IP connect to the printer.) I have a PC today that refuses to do so. Whe",
+    "frecency": 737,
+    "url_hash": 90309332607672,
+    "last_visit_date": 1758203927360200
+  }
+}

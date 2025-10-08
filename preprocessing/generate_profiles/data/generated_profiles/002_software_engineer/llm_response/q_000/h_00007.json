@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "AMD launches new 8-core FX-series processors, drops prices on high-end chips Home Components News AMD launches new 8-core FX-series processors, drops prices on high-end chips By Michael Brown Executive Editor, PCWorld |Sep 2, 2014 5:00 AM PTMore like this AMD gives FX processors new lease of life with first laptop chips Red Team rocking: Build the ultimate AMD gaming PCLab T",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses AMD processors and is unrelated to debugging API integrations.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "AMD launches new 8-core FX-series processors, drops prices on high-end chips Home Components News AMD launches new 8-core FX-series processors, drops prices on high-end chips By Michael Brown Executive Editor, PCWorld |Sep 2, 2014 5:00 AM PTMore like this AMD gives FX processors new lease of life with first laptop chips Red Team rocking: Build the ultimate AMD gaming PCLab T",
+  "history": {
+    "url": "http://www.pcworld.com/article/2600307/amd-reminds-the-world-that-it-has-8-core-cpus-too.html",
+    "title": "AMD launches new 8-core FX-series processors, drops prices on high-end chips",
+    "description": "Home Components News AMD launches new 8-core FX-series processors, drops prices on high-end chips By Michael Brown Executive Editor, PCWorld |Sep 2, 2014 5:00 AM PTMore like this AMD gives FX processors new lease of life with first laptop chips Red Team rocking: Build the ultimate AMD gaming PCLab T",
+    "frecency": 4989,
+    "url_hash": 74036406484854,
+    "last_visit_date": 1758203930782111
+  }
+}

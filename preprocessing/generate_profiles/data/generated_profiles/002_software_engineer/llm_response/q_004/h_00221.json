@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "What is Corrosion? Most people have seen the end results of corrosion on a number of appliances, vehicles, and other items that included metal components. But what is corrosion and how does it develop? Here are the basics of how corrosion begins and what can be done to prevent corrosion from ruining valuable items. Co",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses corrosion, not Docker or containerization; it is not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "What is Corrosion? Most people have seen the end results of corrosion on a number of appliances, vehicles, and other items that included metal components. But what is corrosion and how does it develop? Here are the basics of how corrosion begins and what can be done to prevent corrosion from ruining valuable items. Co",
+  "history": {
+    "url": "http://www.wisegeek.com/what-is-corrosion.htm",
+    "title": "What is Corrosion?",
+    "description": "Most people have seen the end results of corrosion on a number of appliances, vehicles, and other items that included metal components. But what is corrosion and how does it develop? Here are the basics of how corrosion begins and what can be done to prevent corrosion from ruining valuable items. Co",
+    "frecency": 4633,
+    "url_hash": 89037898218762,
+    "last_visit_date": 1758203928268111
+  }
+}

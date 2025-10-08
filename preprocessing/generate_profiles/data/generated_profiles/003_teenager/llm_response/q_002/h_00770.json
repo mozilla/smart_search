@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "What was the first anime ever made? \\\"Onkar Anand, Travelling through Space and Time Answered Jul 29, 2014Due to various reasons, many earlier animations were lost or destroyed. The earlies Japanese animation was discovered in a home projector was Katsud\u014d Shashin and is believed to be created around 1907 - 1911. However its creator is",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses the history of early anime, which is unrelated to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "What was the first anime ever made? \"Onkar Anand, Travelling through Space and Time Answered Jul 29, 2014Due to various reasons, many earlier animations were lost or destroyed. The earlies Japanese animation was discovered in a home projector was Katsud\u014d Shashin and is believed to be created around 1907 - 1911. However its creator is",
+  "history": {
+    "url": "https://www.quora.com/What-was-the-first-anime-ever-made",
+    "title": "What was the first anime ever made?",
+    "description": "\"Onkar Anand, Travelling through Space and Time Answered Jul 29, 2014Due to various reasons, many earlier animations were lost or destroyed. The earlies Japanese animation was discovered in a home projector was Katsud\u014d Shashin and is believed to be created around 1907 - 1911. However its creator is ",
+    "frecency": 4177,
+    "url_hash": 84614799105838,
+    "last_visit_date": 1758203928674735
+  }
+}

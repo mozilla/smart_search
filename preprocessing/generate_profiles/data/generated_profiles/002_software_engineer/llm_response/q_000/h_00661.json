@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "How to Reference other Power Query queries How to Reference other Power Query queries Posted on January 21, 2015 by Ken Puls One of the things I really like to do with Power Query is shape data into optimized tables. In order to accomplish that goal, I\u2019ve begun using Power Query to source data over Power Pivot\u2019s built in methods. But in orde",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses referencing Power Query queries rather than debugging or integrating APIs, so it is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "How to Reference other Power Query queries How to Reference other Power Query queries Posted on January 21, 2015 by Ken Puls One of the things I really like to do with Power Query is shape data into optimized tables. In order to accomplish that goal, I\u2019ve begun using Power Query to source data over Power Pivot\u2019s built in methods. But in orde",
+  "history": {
+    "url": "http://www.excelguru.ca/blog/2015/01/21/how-to-reference-other-power-query-queries/",
+    "title": "How to Reference other Power Query queries",
+    "description": "How to Reference other Power Query queries Posted on January 21, 2015 by Ken Puls One of the things I really like to do with Power Query is shape data into optimized tables. In order to accomplish that goal, I\u2019ve begun using Power Query to source data over Power Pivot\u2019s built in methods. But in orde",
+    "frecency": 3835,
+    "url_hash": 44141970811834,
+    "last_visit_date": 1758203927072111
+  }
+}

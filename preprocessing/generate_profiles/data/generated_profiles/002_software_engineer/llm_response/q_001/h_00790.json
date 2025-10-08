@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Career Advancement at Aimbridge Hospitality: a page about hospitality career advancement, not related to Python or machine learning.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The result is about career advancement in hospitality and has no content related to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Career Advancement at Aimbridge Hospitality \"Career Advancement at Aimbridge Hospitality Aimbridge Hospitality is and will forever be a \"\"high touch\"\" organization. From the principals to the front line associates, the Aimbridge team is engaged in guest, partner (both investment and brand), and associate satisfaction. We balance the guest exp",
+  "history": {
+    "url": "https://about.aimbridgehospitality.com/",
+    "title": "Career Advancement at Aimbridge Hospitality",
+    "description": "\"Career Advancement at Aimbridge Hospitality Aimbridge Hospitality is and will forever be a \"\"high touch\"\" organization. From the principals to the front line associates, the Aimbridge team is engaged in guest, partner (both investment and brand), and associate satisfaction. We balance the guest exp",
+    "frecency": 3569,
+    "url_hash": 87815807386481,
+    "last_visit_date": 1758203931636111
+  }
+}

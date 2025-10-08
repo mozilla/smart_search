@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Welcome to German Names Welcome to German Names You have always wondered how the names of your German ancestors were correctly pronounced in German? You have got German friends or business partners and want to get the pronunciation of their names right? You need the correct pronunciation of a German name for a radio or TV",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page discusses pronunciation of German names, not Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Welcome to German Names Welcome to German Names You have always wondered how the names of your German ancestors were correctly pronounced in German? You have got German friends or business partners and want to get the pronunciation of their names right? You need the correct pronunciation of a German name for a radio or TV",
+  "history": {
+    "url": "https://www.nordicnames.de/Aussprache.html",
+    "title": "Welcome to German Names",
+    "description": "Welcome to German Names You have always wondered how the names of your German ancestors were correctly pronounced in German? You have got German friends or business partners and want to get the pronunciation of their names right? You need the correct pronunciation of a German name for a radio or TV ",
+    "frecency": 3964,
+    "url_hash": 38310742394862,
+    "last_visit_date": 1758203928950111
+  }
+}

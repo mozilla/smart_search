@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Why may I need to follow a low-fat, low-fiber diet? This information describes a low-fat, low-fiber diet. A low-fat, low-fiber diet is a diet in which you eat less than 40 grams of fat and less than 12 grams of fiber a day. Why may I need to follow this diet? You may need to follow this diet if you recently had colon surgery. Eating a",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses diet and medical content, not apps or study habits, thus it is not relevant to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Why may I need to follow a low-fat, low-fiber diet? This information describes a low-fat, low-fiber diet. A low-fat, low-fiber diet is a diet in which you eat less than 40 grams of fat and less than 12 grams of fiber a day. Why may I need to follow a low-fat, low-fiber diet? You may need to follow this diet if you recently had colon surgery. Eating a",
+  "history": {
+    "url": "https://www.mskcc.org/cancer-care/patient-education/low-fat-low-fiber-diet",
+    "title": "Why may I need to follow a low-fat, low-fiber diet?",
+    "description": "This information describes a low-fat, low-fiber diet. A low-fat, low-fiber diet is a diet in which you eat less than 40 grams of fat and less than 12 grams of fiber a day. Why may I need to follow a low-fat, low-fiber diet? You may need to follow this diet if you recently had colon surgery. Eating a",
+    "frecency": 455,
+    "url_hash": 64544783563518,
+    "last_visit_date": 1758203926603139
+  }
+}

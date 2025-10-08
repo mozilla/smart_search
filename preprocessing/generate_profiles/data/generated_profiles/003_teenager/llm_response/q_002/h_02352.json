@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "The Brady Bunch \\\"The Brady Bunch' Brady Bunch title screen feat. cast from the final season Producer/Creator Sherwood Schwartz Company Redwood Productions Paramount Television Distributor CBS Television Distribution Starring Robert Reed Florence Henderson Ann B. Davis Barry Williams Maureen Mc Cormick Christopher K",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The result describes a TV show's title screen and cast; it is not related to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "The Brady Bunch \"The Brady Bunch' Brady Bunch title screen feat. cast from the final season Producer/Creator Sherwood Schwartz Company Redwood Productions Paramount Television Distributor CBS Television Distribution Starring Robert Reed Florence Henderson Ann B. Davis Barry Williams Maureen Mc Cormick Christopher K",
+  "history": {
+    "url": "http://bradybunch.wikia.com/wiki/The_Brady_Bunch",
+    "title": "The Brady Bunch",
+    "description": "\"The Brady Bunch' Brady Bunch title screen feat. cast from the final season Producer/Creator Sherwood Schwartz Company Redwood Productions Paramount Television Distributor CBS Television Distribution Starring Robert Reed Florence Henderson Ann B. Davis Barry Williams Maureen Mc Cormick Christopher K",
+    "frecency": 2580,
+    "url_hash": 89613376520301,
+    "last_visit_date": 1758203932855228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "31,000 scientists say \"\"no convincing evidence\"\".\" \"31,000 scientists say \"\"no convincing evidence\"\".31,000 scientists reject global warming and say \"\"no convincing evidence\"\" that humans can or will cause global warming? But polls show that of scientists working in the field of climate science, and publishing papers on the topic: 97% of the climate",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses climate science and global warming, with no mention of Docker or software setup.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "\"31,000 scientists say \"\"no convincing evidence\"\".\" \"31,000 scientists say \"\"no convincing evidence\"\".31,000 scientists reject global warming and say \"\"no convincing evidence\"\" that humans can or will cause global warming? But polls show that of scientists working in the field of climate science, and publishing papers on the topic: 97% of the climate",
+  "history": {
+    "url": "http://ossfoundation.us/projects/environment/global-warming/myths/31000-scientists-say-no-convincing-evidence",
+    "title": "\"31,000 scientists say \"\"no convincing evidence\"\".\"",
+    "description": "\"31,000 scientists say \"\"no convincing evidence\"\".31,000 scientists reject global warming and say \"\"no convincing evidence\"\" that humans can or will cause global warming? But polls show that of scientists working in the field of climate science, and publishing papers on the topic: 97% of the climate",
+    "frecency": 514,
+    "url_hash": 57124228088318,
+    "last_visit_date": 1758203928502200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Opinions Agreements Limiting the Professional Liability of Lawyers to Former Clients A lawyer may not condition settlement of a pending fee dispute on the agreement of the lawyer\u2019s unrepresented former client to release the lawyer from malpractice liability unless, prior to negotiating such a release, the la",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about legal liability and lawyers, not Docker or container setup; it is not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Opinions Agreements Limiting the Professional Liability of Lawyers to Former Clients A lawyer may not condition settlement of a pending fee dispute on the agreement of the lawyer\u2019s unrepresented former client to release the lawyer from malpractice liability unless, prior to negotiating such a release, the la",
+  "history": {
+    "url": "https://www.dcbar.org/bar-resources/legal-ethics/opinions/opinion260.cfm",
+    "title": "Opinions",
+    "description": "Agreements Limiting the Professional Liability of Lawyers to Former Clients A lawyer may not condition settlement of a pending fee dispute on the agreement of the lawyer\u2019s unrepresented former client to release the lawyer from malpractice liability unless, prior to negotiating such a release, the la",
+    "frecency": 3138,
+    "url_hash": 8062670476747,
+    "last_visit_date": 1758203928130200
+  }
+}

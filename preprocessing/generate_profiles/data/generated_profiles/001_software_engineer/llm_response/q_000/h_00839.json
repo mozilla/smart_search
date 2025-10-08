@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Electrocardiogram (EKG or ECG) in Dogs Electrocardiogram (EKG or ECG) in Dogs3 Aug, 2015 Pet Place.com Veterinarians 43,748 Views Share An electrocardiogram (EKG) is a diagnostic test that records the electrical activity of the dog\u2019s heart. The electrocardiogram is a noninvasive test. The heart\u2019s electrical activity is recorded by attach",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about veterinary electrocardiography, not related to debugging or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Electrocardiogram (EKG or ECG) in Dogs Electrocardiogram (EKG or ECG) in Dogs3 Aug, 2015 Pet Place.com Veterinarians 43,748 Views Share An electrocardiogram (EKG) is a diagnostic test that records the electrical activity of the dog\u2019s heart. The electrocardiogram is a noninvasive test. The heart\u2019s electrical activity is recorded by attach",
+  "history": {
+    "url": "http://www.petplace.com/article/dogs/diseases-conditions-of-dogs/tests-procedures/electrocardiogram-ekg-or-ecg-in-dogs",
+    "title": "Electrocardiogram (EKG or ECG) in Dogs",
+    "description": "Electrocardiogram (EKG or ECG) in Dogs3 Aug, 2015 Pet Place.com Veterinarians 43,748 Views Share An electrocardiogram (EKG) is a diagnostic test that records the electrical activity of the dog\u2019s heart. The electrocardiogram is a noninvasive test. The heart\u2019s electrical activity is recorded by attach",
+    "frecency": 2095,
+    "url_hash": 90537726481151,
+    "last_visit_date": 1758203926924200
+  }
+}

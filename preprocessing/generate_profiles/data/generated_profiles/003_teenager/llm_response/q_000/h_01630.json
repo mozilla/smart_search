@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "What's Your Perfect Nail Polish Color? \\\"1 How to Make Your Own Bullet Journal From Scratch 2 How To Register To Vote Online 3 Seventeen Has a \\\\\"March For Our Lives\\\\\" Print Issue 4 Everything We Know About \\\\\"Riverdale\\\\\" Season 3 5 How I Coped With My Sexual Assault at 14What's Your Perfect Nail Polish Color? Experimenting with the latest",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result content is unrelated to starting a YouTube channel; topics include nail polish, bullet journals, voting, Riverdale, and personal experiences, showing no focus on the query.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "What's Your Perfect Nail Polish Color? \"1 How to Make Your Own Bullet Journal From Scratch 2 How To Register To Vote Online 3 Seventeen Has a \"\"March For Our Lives\"\" Print Issue 4 Everything We Know About \"\"Riverdale\"\" Season 3 5 How I Coped With My Sexual Assault at 14What's Your Perfect Nail Polish Color? Experimenting with the latest",
+  "history": {
+    "url": "http://www.seventeen.com/beauty/beauty-quizzes/a22568/nail-polish-color-quiz/",
+    "title": "What's Your Perfect Nail Polish Color?",
+    "description": "\"1 How to Make Your Own Bullet Journal From Scratch 2 How To Register To Vote Online 3 Seventeen Has a \"\"March For Our Lives\"\" Print Issue 4 Everything We Know About \"\"Riverdale\"\" Season 3 5 How I Coped With My Sexual Assault at 14What's Your Perfect Nail Polish Color? Experimenting with the latest ",
+    "frecency": 3323,
+    "url_hash": 65047098317260,
+    "last_visit_date": 1758203935113228
+  }
+}

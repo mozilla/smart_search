@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "What is self insured car insurance? 1 Answer0votes Every state requires motorists to carry some form of financial responsibility. Most people automatically translate that require into a requirement to have auto insurance, but most states also allow you to self-insure your vehicle. This is more common with businesses than individuals,",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about auto insurance and self-insurance, which is unrelated to Docker or beginner setup guidance.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "What is self insured car insurance? 1 Answer0votes Every state requires motorists to carry some form of financial responsibility. Most people automatically translate that require into a requirement to have auto insurance, but most states also allow you to self-insure your vehicle. This is more common with businesses than individuals,",
+  "history": {
+    "url": "https://usinsuranceagents.com/answers/3251/what-is-self-insured-car-insurance",
+    "title": "What is self insured car insurance?",
+    "description": "1 Answer0votes Every state requires motorists to carry some form of financial responsibility. Most people automatically translate that require into a requirement to have auto insurance, but most states also allow you to self-insure your vehicle. This is more common with businesses than individuals, ",
+    "frecency": 3030,
+    "url_hash": 4114309997267,
+    "last_visit_date": 1758203930988111
+  }
+}

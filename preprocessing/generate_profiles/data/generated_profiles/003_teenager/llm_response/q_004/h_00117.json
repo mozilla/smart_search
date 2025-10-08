@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Weather in Omaha Beach, Normandy, France in May So you're interested in going to Omaha Beach, Normandy, France in May17\u00b0 Air Temperature16\u00b0 Water Temperature7.7 Hrs of Sun / Day15.5 Days of Rain May is a cold and rainy time for sunbathing in Omaha Beach and not really recommended. May is too cold for swimming in Omaha Beach for any length of time",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The page describes weather conditions at a location (Omaha Beach) and is not about improving sports performance or related training/techniques; it is off-topic with respect to the query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Weather in Omaha Beach, Normandy, France in May So you're interested in going to Omaha Beach, Normandy, France in May17\u00b0 Air Temperature16\u00b0 Water Temperature7.7 Hrs of Sun / Day15.5 Days of Rain May is a cold and rainy time for sunbathing in Omaha Beach and not really recommended. May is too cold for swimming in Omaha Beach for any length of time",
+  "history": {
+    "url": "https://beach-weather.com/Western-Europe/France/Normandy/averages/Omaha-Beach/May/",
+    "title": "Weather in Omaha Beach, Normandy, France in May",
+    "description": "So you're interested in going to Omaha Beach, Normandy, France in May17\u00b0 Air Temperature16\u00b0 Water Temperature7.7 Hrs of Sun / Day15.5 Days of Rain May is a cold and rainy time for sunbathing in Omaha Beach and not really recommended. May is too cold for swimming in Omaha Beach for any length of time",
+    "frecency": 4883,
+    "url_hash": 33306377362928,
+    "last_visit_date": 1758203934715228
+  }
+}

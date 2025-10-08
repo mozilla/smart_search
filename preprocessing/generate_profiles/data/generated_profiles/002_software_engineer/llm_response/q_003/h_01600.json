@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Psychologist Salary Psychologist Salary Psychologists working in the United States generally earn salaries in the range from $40,809 to $144,845 a year including bonuses and contributions from profit sharing according to the salary information reported by Payscale. Professionals with the certification of Licensed Psych",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is unrelated to database query optimization; it discusses psychologist salaries.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Psychologist Salary Psychologist Salary Psychologists working in the United States generally earn salaries in the range from $40,809 to $144,845 a year including bonuses and contributions from profit sharing according to the salary information reported by Payscale. Professionals with the certification of Licensed Psych",
+  "history": {
+    "url": "http://www.doctor-salaries.com/psychologist-salary/",
+    "title": "Psychologist Salary",
+    "description": "Psychologist Salary Psychologists working in the United States generally earn salaries in the range from $40,809 to $144,845 a year including bonuses and contributions from profit sharing according to the salary information reported by Payscale. Professionals with the certification of Licensed Psych",
+    "frecency": 2113,
+    "url_hash": 91994712278558,
+    "last_visit_date": 1758203928878111
+  }
+}

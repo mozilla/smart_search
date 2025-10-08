@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Choir (music) \\\"For other uses, see Choir (disambiguation). The Vienna Boys' Choir A choir is a group of people who sing together. They rehearse together and sing at concerts or for religious services. Some choirs are professional (the singers are paid for their work in the choir). Other choirs are amateur choirs.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about choir/music and not related to API integration or debugging.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Choir (music) \"For other uses, see Choir (disambiguation). The Vienna Boys' Choir A choir is a group of people who sing together. They rehearse together and sing at concerts or for religious services. Some choirs are professional (the singers are paid for their work in the choir). Other choirs are amateur choirs.",
+  "history": {
+    "url": "https://simple.wikipedia.org/wiki/Choir_(music)",
+    "title": "Choir (music)",
+    "description": "\"For other uses, see Choir (disambiguation). The Vienna Boys' Choir A choir is a group of people who sing together. They rehearse together and sing at concerts or for religious services. Some choirs are professional (the singers are paid for their work in the choir). Other choirs are amateur choirs.",
+    "frecency": 3802,
+    "url_hash": 93618295019608,
+    "last_visit_date": 1758203927500200
+  }
+}

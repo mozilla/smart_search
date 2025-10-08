@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Eat More Early, Eat Less at Night (Op-Ed) \u2014 Live Science Health article about breakfast timing and health.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about health and meal timing, not about easy DIY room decoration ideas; it is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Eat More Early, Eat Less at Night (Op-Ed) \"Live Science Health Eat More Early, Eat Less at Night (Op-Ed)By Katherine Tallmadge, M. A., R. D. | May 30, 2014 03:02am ETMOREPeople who eat breakfast tend to have a lower risk of certain health conditions. Credit: Healthy breakfast photo via Shutterstock Katherine Tallmadge, M. A., R. D., is a re",
+  "history": {
+    "url": "http://www.livescience.com/45990-morning-meals-cut-evening-food-binges.html",
+    "title": "Eat More Early, Eat Less at Night (Op-Ed)",
+    "description": "\"Live Science Health Eat More Early, Eat Less at Night (Op-Ed)By Katherine Tallmadge, M. A., R. D. | May 30, 2014 03:02am ETMOREPeople who eat breakfast tend to have a lower risk of certain health conditions. Credit: Healthy breakfast photo via Shutterstock Katherine Tallmadge, M. A., R. D., is a re",
+    "frecency": 807,
+    "url_hash": 51549131584782,
+    "last_visit_date": 1758203929729228
+  }
+}

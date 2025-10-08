@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "How did James Garfield die? Why is he not remembered like Lincoln and Kennedy are? Sara Matthews, Teacher/Student American history, American literature and ELLAnswered Oct 24, 2015 \u00b7 Author has 9.8k answers and 3.4m answer views He was assassinated as you seem to already know. Lincoln's stature derives first from the .... occurrences during his administration. What were the occurr",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses James Garfield's death and presidential history, not the user query about improving at sports; it is not relevant to the search intent.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "How did James Garfield die? Why is he not remembered like Lincoln and Kennedy are? Sara Matthews, Teacher/Student American history, American literature and ELLAnswered Oct 24, 2015 \u00b7 Author has 9.8k answers and 3.4m answer views He was assassinated as you seem to already know. Lincoln's stature derives first from the .... occurrences during his administration. What were the occurr",
+  "history": {
+    "url": "https://www.quora.com/How-did-James-Garfield-die-Why-is-he-not-remembered-like-Lincoln-and-Kennedy-are",
+    "title": "How did James Garfield die? Why is he not remembered like Lincoln and Kennedy are?",
+    "description": "Sara Matthews, Teacher/Student American history, American literature and ELLAnswered Oct 24, 2015 \u00b7 Author has 9.8k answers and 3.4m answer views He was assassinated as you seem to already know. Lincoln's stature derives first from the .... occurrences during his administration. What were the occurr",
+    "frecency": 3431,
+    "url_hash": 30647666572992,
+    "last_visit_date": 1758203930429228
+  }
+}

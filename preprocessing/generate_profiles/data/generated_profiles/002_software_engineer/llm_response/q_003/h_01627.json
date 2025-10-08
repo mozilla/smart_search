@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Ramsey School District Loading Loading Loading Walk a Thon Learn More Event Calendar Dining Services Events & Flyers Staff Directory Health Services",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result appears to be a generic school district page with no content related to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Ramsey School District Loading Loading Loading Walk a Thon Learn More Event Calendar Dining Services Events & Flyers Staff Directory Health Services",
+  "history": {
+    "url": "http://www.ramsey.k12.nj.us/",
+    "title": "Ramsey School District",
+    "description": "Loading Loading Loading Walk a Thon Learn More Event Calendar Dining Services Events & Flyers Staff Directory Health Services ",
+    "frecency": 2054,
+    "url_hash": 85328077411523,
+    "last_visit_date": 1758203928398111
+  }
+}

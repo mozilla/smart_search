@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Who uses spreadsheets? Answer by Jason Rafferty Confidence votes 177Accountants Accountants need to keep track of all of the money coming into the business and all of the payments going out. They need to be able to calculate profits and forecast how well they think the business will do during the next year. They also need",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses spreadsheets and accounting, not IDEs or software development environments.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Who uses spreadsheets? Answer by Jason Rafferty Confidence votes 177Accountants Accountants need to keep track of all of the money coming into the business and all of the payments going out. They need to be able to calculate profits and forecast how well they think the business will do during the next year. They also need",
+  "history": {
+    "url": "http://www.answers.com/Q/Who_uses_spreadsheets",
+    "title": "Who uses spreadsheets?",
+    "description": "Answer by Jason Rafferty Confidence votes 177Accountants Accountants need to keep track of all of the money coming into the business and all of the payments going out. They need to be able to calculate profits and forecast how well they think the business will do during the next year. They also need",
+    "frecency": 2254,
+    "url_hash": 2820381355307,
+    "last_visit_date": 1758203928460111
+  }
+}

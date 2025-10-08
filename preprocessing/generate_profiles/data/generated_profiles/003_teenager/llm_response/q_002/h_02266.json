@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "The Jimi Hendrix Experience \"Share on facebook Share on twitter Courtesy of the Rock Hall Library and Archive The Jimi Hendrix Experience1992Category: Performers Members: Jimi Hendrix Mitch Mitchell Noel Redding On this page Biography Become a member Buy a ticket Sign up for E-news Jimi Hendrix was the most gifted instrumental",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns The Jimi Hendrix Experience and is unrelated to DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "The Jimi Hendrix Experience \"Share on facebook Share on twitter Courtesy of the Rock Hall Library and Archive The Jimi Hendrix Experience1992Category: Performers Members: Jimi Hendrix Mitch Mitchell Noel Redding On this page Biography Become a member Buy a ticket Sign up for E-news Jimi Hendrix was the most gifted instrumental",
+  "history": {
+    "url": "https://www.rockhall.com/inductees/jimi-hendrix-experience",
+    "title": "The Jimi Hendrix Experience",
+    "description": "\"Share on facebook Share on twitter Courtesy of the Rock Hall Library and Archive The Jimi Hendrix Experience1992Category: Performers Members: Jimi Hendrix Mitch Mitchell Noel Redding On this page Biography Become a member Buy a ticket Sign up for E-news Jimi Hendrix was the most gifted instrumental",
+    "frecency": 2664,
+    "url_hash": 19385987862642,
+    "last_visit_date": 1758203932455228
+  }
+}

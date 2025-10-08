@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Comedians in Cars Getting Coffee Comedians in Cars Getting Coffee On Netflix",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a TV show title and unrelated to DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Comedians in Cars Getting Coffee Comedians in Cars Getting Coffee On Netflix",
+  "history": {
+    "url": "http://comediansincarsgettingcoffee.com/",
+    "title": "Comedians in Cars Getting Coffee",
+    "description": "Comedians in Cars Getting Coffee On Netflix ",
+    "frecency": 862,
+    "url_hash": 87148215313060,
+    "last_visit_date": 1758203928600735
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Color management \\\"From Wikipedia, the free encyclopedianavigation search In digital imaging systems, color management is the controlled conversion between the color representations of various devices, such as image scanners, digital cameras, monitors, TV screens, film printers, computer printers, offset presses, and",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The result discusses color management in digital imaging, not API integration or debugging; no API concepts or debugging steps are present.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Color management \"From Wikipedia, the free encyclopedianavigation search In digital imaging systems, color management is the controlled conversion between the color representations of various devices, such as image scanners, digital cameras, monitors, TV screens, film printers, computer printers, offset presses, and",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Color_management",
+    "title": "Color management",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search In digital imaging systems, color management is the controlled conversion between the color representations of various devices, such as image scanners, digital cameras, monitors, TV screens, film printers, computer printers, offset presses, and",
+    "frecency": 765,
+    "url_hash": 38026963768571,
+    "last_visit_date": 1758203928358200
+  }
+}

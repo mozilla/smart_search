@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Catch Me If You Can : Production Notes \"Catch Me If You Can : Production Notes Oscar nominee Leonardo Di Caprio ( \\\"What's Eating Gilbert Grape,\\\" \\\"Titanic\\\" ) and two-time Academy Award winner Tom Hanks ( \\\"Philadelphia,\\\" \\\"Forrest Gump\\\" ) engage in a game of cat and mouse in \\\"Catch Me If You Can,\\\" under the direction of three-time A",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about film production notes, not about easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Catch Me If You Can : Production Notes \"Catch Me If You Can : Production Notes Oscar nominee Leonardo Di Caprio ( \"\"What's Eating Gilbert Grape,\"\" \"\"Titanic\"\") and two-time Academy Award winner Tom Hanks ( \"\"Philadelphia,\"\" \"\"Forrest Gump\"\") engage in a game of cat and mouse in \"\"Catch Me If You Can,\"\" under the direction of three-time A",
+  "history": {
+    "url": "http://cinema.com/articles/1758/catch-me-if-you-can-production-notes.phtml",
+    "title": "Catch Me If You Can : Production Notes",
+    "description": "\"Catch Me If You Can : Production Notes Oscar nominee Leonardo Di Caprio ( \"\"What's Eating Gilbert Grape,\"\" \"\"Titanic\"\") and two-time Academy Award winner Tom Hanks ( \"\"Philadelphia,\"\" \"\"Forrest Gump\"\") engage in a game of cat and mouse in \"\"Catch Me If You Can,\"\" under the direction of three-time A",
+    "frecency": 3169,
+    "url_hash": 9936534352652,
+    "last_visit_date": 1758203934875228
+  }
+}

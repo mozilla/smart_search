@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "How do you know if a car has a negative or positive grounded battery? \"Answers.com \u00ae Wiki Answers \u00ae Categories Cars & Vehicles Auto Parts and Repairs Car Electronics and Lights Car Batteries How do you know if a car has a negative or positive grounded battery? Flag How do you know if a car has a negative or positive grounded battery? Answer by David Warnick Confidence",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses car batteries and grounding, not Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "How do you know if a car has a negative or positive grounded battery? \"Answers.com \u00ae Wiki Answers \u00ae Categories Cars & Vehicles Auto Parts and Repairs Car Electronics and Lights Car Batteries How do you know if a car has a negative or positive grounded battery? Flag How do you know if a car has a negative or positive grounded battery? Answer by David Warnick Confidence",
+  "history": {
+    "url": "http://www.answers.com/Q/How_do_you_know_if_a_car_has_a_negative_or_positive_grounded_battery",
+    "title": "How do you know if a car has a negative or positive grounded battery?",
+    "description": "\"Answers.com \u00ae Wiki Answers \u00ae Categories Cars & Vehicles Auto Parts and Repairs Car Electronics and Lights Car Batteries How do you know if a car has a negative or positive grounded battery? Flag How do you know if a car has a negative or positive grounded battery? Answer by David Warnick Confidence",
+    "frecency": 4251,
+    "url_hash": 51747427604706,
+    "last_visit_date": 1758203929606111
+  }
+}

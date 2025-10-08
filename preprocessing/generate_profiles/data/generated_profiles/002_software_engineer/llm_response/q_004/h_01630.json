@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "How many hours per day does a social worker work? Rudie Swinney 1 Contribution How many hours per day does a social worker work?the average social worker work the average hours of 40 hours a week. That doesn't include the addition input hours of having to go to afternoon meetings and evening visits wit \u2026Auto body workers how many hours do you work",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result content is about social worker hours, not about Docker setup or beginner guidance.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "How many hours per day does a social worker work? Rudie Swinney 1 Contribution How many hours per day does a social worker work?the average social worker work the average hours of 40 hours a week. That doesn't include the addition input hours of having to go to afternoon meetings and evening visits wit \u2026Auto body workers how many hours do you work",
+  "history": {
+    "url": "http://www.answers.com/Q/OSHA_How_many_restrooms_are_required_per_workers_in_a_work_place",
+    "title": "How many hours per day does a social worker work?",
+    "description": "Rudie Swinney 1 Contribution How many hours per day does a social worker work?the average social worker work the average hours of 40 hours a week. That doesn't include the addition input hours of having to go to afternoon meetings and evening visits wit \u2026Auto body workers how many hours do you work ",
+    "frecency": 2046,
+    "url_hash": 27558123426644,
+    "last_visit_date": 1758203930692111
+  }
+}

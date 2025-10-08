@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Showing 2 Jobs in US Air Conditioning Distributors Showing 2 Jobs in US Air Conditioning Distributors Marketing Specialist7d+US Air Conditioning Distributors | Industry, CAUS Air Conditioning Distributors, a leader in the distribution of commercial and residential HVAC products throughout the Southwest is seeking a Marketing Specialist for its Parts",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes HVAC distributor job listings, not content related to Docker setup or beginner Docker guidance.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Showing 2 Jobs in US Air Conditioning Distributors Showing 2 Jobs in US Air Conditioning Distributors Marketing Specialist7d+US Air Conditioning Distributors | Industry, CAUS Air Conditioning Distributors, a leader in the distribution of commercial and residential HVAC products throughout the Southwest is seeking a Marketing Specialist for its Parts",
+  "history": {
+    "url": "https://www.application.careers/us-air-conditioning-distributors-jobs",
+    "title": "Showing 2 Jobs in US Air Conditioning Distributors",
+    "description": "Showing 2 Jobs in US Air Conditioning Distributors Marketing Specialist7d+US Air Conditioning Distributors | Industry, CAUS Air Conditioning Distributors, a leader in the distribution of commercial and residential HVAC products throughout the Southwest is seeking a Marketing Specialist for its Parts",
+    "frecency": 339,
+    "url_hash": 79605650522312,
+    "last_visit_date": 1758203927716111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Deals in Indianapolis Neighborhoods Castleton Downtown Fairgrounds Fountain Square College Park More Neighborhood TRENDINGBowling for Two or Four with Shoe Rental at Royal Pin (Up to 47% Off)Brunswick automatic scoring keeps count as bowlers fling balls down 80 lanes in alleys with full-service bars, pool tables... Multi",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about bowling deals in Indianapolis, not about easy DIY room decoration ideas; no content related to DIY room decoration.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Deals in Indianapolis Neighborhoods Castleton Downtown Fairgrounds Fountain Square College Park More Neighborhood TRENDINGBowling for Two or Four with Shoe Rental at Royal Pin (Up to 47% Off)Brunswick automatic scoring keeps count as bowlers fling balls down 80 lanes in alleys with full-service bars, pool tables... Multi",
+  "history": {
+    "url": "https://www.groupon.com/local/indianapolis",
+    "title": "Deals in Indianapolis",
+    "description": "Neighborhoods Castleton Downtown Fairgrounds Fountain Square College Park More Neighborhood TRENDINGBowling for Two or Four with Shoe Rental at Royal Pin (Up to 47% Off)Brunswick automatic scoring keeps count as bowlers fling balls down 80 lanes in alleys with full-service bars, pool tables... Multi",
+    "frecency": 1841,
+    "url_hash": 7399272113360,
+    "last_visit_date": 1758203933513228
+  }
+}

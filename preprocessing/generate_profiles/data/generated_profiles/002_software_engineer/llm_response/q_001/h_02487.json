@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Bachelor's Degree, Electrical & Computer Engineering (ECE) Average Salary Salary Bonus Popular Profit Sharing Bachelor's Degree, Electrical & Computer Engineering (ECE) Median Salary by Job Check salary info for your own job \u00bbJob Average Min Max Electrical Engineer1 profile$65,809$54K $79KTeam Leader, General1 profile$57,241$36K $91KAccount Manager1 profile$119,993$83K $1",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is unrelated to Python libraries or machine learning; it appears to be a salary/degree information page.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Bachelor's Degree, Electrical & Computer Engineering (ECE) Average Salary Salary Bonus Popular Profit Sharing Bachelor's Degree, Electrical & Computer Engineering (ECE) Median Salary by Job Check salary info for your own job \u00bbJob Average Min Max Electrical Engineer1 profile$65,809$54K $79KTeam Leader, General1 profile$57,241$36K $91KAccount Manager1 profile$119,993$83K $1",
+  "history": {
+    "url": "http://www.payscale.com/research/US/Degree=Bachelor%27s_Degree%2c_Electrical_%26_Computer_Engineering_(ECE)/Salary",
+    "title": "Bachelor's Degree, Electrical & Computer Engineering (ECE) Average Salary",
+    "description": "Salary Bonus Popular Profit Sharing Bachelor's Degree, Electrical & Computer Engineering (ECE) Median Salary by Job Check salary info for your own job \u00bbJob Average Min Max Electrical Engineer1 profile$65,809$54K $79KTeam Leader, General1 profile$57,241$36K $91KAccount Manager1 profile$119,993$83K $1",
+    "frecency": 506,
+    "url_hash": 11291722909571,
+    "last_visit_date": 1758203929280111
+  }
+}

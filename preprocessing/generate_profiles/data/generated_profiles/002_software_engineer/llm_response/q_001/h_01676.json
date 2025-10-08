@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Arch Linux \"Hi. Up until this point I have had mysql, php, and apache up and running just fine. Recently I made a little change. I configured Apache to read my .php pages from /home/user/code/php instead of /srv/http. It wasn't working originally so I created a new http user using this command:useradd -d /srv/\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Arch Linux server configuration (MySQL, PHP, Apache) and is unrelated to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Arch Linux \"Hi. Up until this point I have had mysql, php, and apache up and running just fine. Recently I made a little change. I configured Apache to read my .php pages from /home/user/code/php instead of /srv/http. It wasn't working originally so I created a new http user using this command:useradd -d /srv/",
+  "history": {
+    "url": "https://bbs.archlinux.org/viewtopic.php?id=152355",
+    "title": "Arch Linux",
+    "description": "\"Hi. Up until this point I have had mysql, php, and apache up and running just fine. Recently I made a little change. I configured Apache to read my .php pages from /home/user/code/php instead of /srv/http. It wasn't working originally so I created a new http user using this command:useradd -d /srv/",
+    "frecency": 1963,
+    "url_hash": 26009844248956,
+    "last_visit_date": 1758203929384111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Cloud Service Architecture Cloud Service Architecture Definition - What does Cloud Service Architecturemean? Cloud service architecture defines the overall cloud computing services and solutions that are implemented in and across the boundaries of an enterprise business network. Cloud service architecture deals with the diagn",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses cloud service architecture, not Docker or container setup, and does not address the query about Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Cloud Service Architecture Cloud Service Architecture Definition - What does Cloud Service Architecturemean? Cloud service architecture defines the overall cloud computing services and solutions that are implemented in and across the boundaries of an enterprise business network. Cloud service architecture deals with the diagn",
+  "history": {
+    "url": "https://www.techopedia.com/definition/26533/cloud-service-architecture",
+    "title": "Cloud Service Architecture",
+    "description": "Cloud Service Architecture Definition - What does Cloud Service Architecturemean? Cloud service architecture defines the overall cloud computing services and solutions that are implemented in and across the boundaries of an enterprise business network. Cloud service architecture deals with the diagn",
+    "frecency": 2800,
+    "url_hash": 20684370901516,
+    "last_visit_date": 1758203927590200
+  }
+}

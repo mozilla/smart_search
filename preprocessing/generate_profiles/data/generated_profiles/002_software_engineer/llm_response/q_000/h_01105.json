@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Sara Moulton's Turkey Tips \\\"Sara Moulton's Turkey Tips By ABC News Nov. 25, 2004 --Email Good Morning America's Food Editor Sara Moulton, has been checking out your various Thanksgiving Day cooking questions for weeks. Moulton has answered some of the most frequent and most pressing cooking dilemmas in her online turkey Q and",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The page content is about Thanksgiving turkey cooking, not about debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Sara Moulton's Turkey Tips \"Sara Moulton's Turkey Tips By ABC News Nov. 25, 2004 --Email Good Morning America's Food Editor Sara Moulton, has been checking out your various Thanksgiving Day cooking questions for weeks. Moulton has answered some of the most frequent and most pressing cooking dilemmas in her online turkey Q and",
+  "history": {
+    "url": "http://abcnews.go.com/GMA/Recipes/story?id=256151",
+    "title": "Sara Moulton's Turkey Tips",
+    "description": "\"Sara Moulton's Turkey Tips By ABC News Nov. 25, 2004 --Email Good Morning America's Food Editor Sara Moulton, has been checking out your various Thanksgiving Day cooking questions for weeks. Moulton has answered some of the most frequent and most pressing cooking dilemmas in her online turkey Q and",
+    "frecency": 3039,
+    "url_hash": 72278899582615,
+    "last_visit_date": 1758203931286111
+  }
+}

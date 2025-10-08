@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "About egg laying hens \"About egg laying hens The natural behaviours of hens include foraging for food, nesting, roosting, and dust-bathing Going to work on an egg may be out of fashion, but we do eat one egg approximately every other day. In total, the UK alone consumes over 30 million eggs per day. High production value",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses egg laying hens and has no relevance to study apps or improving study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "About egg laying hens \"About egg laying hens The natural behaviours of hens include foraging for food, nesting, roosting, and dust-bathing Going to work on an egg may be out of fashion, but we do eat one egg approximately every other day. In total, the UK alone consumes over 30 million eggs per day. High production value",
+  "history": {
+    "url": "http://www.ciwf.org.uk/farm-animals/chickens/egg-laying-hens/",
+    "title": "About egg laying hens",
+    "description": "\"About egg laying hens The natural behaviours of hens include foraging for food, nesting, roosting, and dust-bathing Going to work on an egg may be out of fashion, but we do eat one egg approximately every other day. In total, the UK alone consumes over 30 million eggs per day. High production value",
+    "frecency": 2589,
+    "url_hash": 10708019187397,
+    "last_visit_date": 1758203928109139
+  }
+}

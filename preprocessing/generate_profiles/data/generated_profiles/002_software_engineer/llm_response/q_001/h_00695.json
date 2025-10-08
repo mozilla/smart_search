@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Caterpillar, John Deere, and Case: The View from the Top \\\"Caterpillar, John Deere, and Case: The View from the Top In a Construction Equipment exclusive, three C-suite helmsmen talk leadership, politics, the highway bill, and more By Frank Raczon, Senior Editor April 30, 2014Hybrid technology, politics, the stymied Keystone XL pipeline, and the upcoming s\\\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns construction equipment executives, leadership, and politics, not Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Caterpillar, John Deere, and Case: The View from the Top \"Caterpillar, John Deere, and Case: The View from the Top In a Construction Equipment exclusive, three C-suite helmsmen talk leadership, politics, the highway bill, and more By Frank Raczon, Senior Editor April 30, 2014Hybrid technology, politics, the stymied Keystone XL pipeline, and the upcoming s",
+  "history": {
+    "url": "https://www.constructionequipment.com/caterpillar-john-deere-and-case-view-top",
+    "title": "Caterpillar, John Deere, and Case: The View from the Top",
+    "description": "\"Caterpillar, John Deere, and Case: The View from the Top In a Construction Equipment exclusive, three C-suite helmsmen talk leadership, politics, the highway bill, and more By Frank Raczon, Senior Editor April 30, 2014Hybrid technology, politics, the stymied Keystone XL pipeline, and the upcoming s",
+    "frecency": 3776,
+    "url_hash": 17368418066878,
+    "last_visit_date": 1758203927342111
+  }
+}

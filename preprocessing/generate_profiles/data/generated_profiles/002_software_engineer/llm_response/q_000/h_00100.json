@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "empire translation | English-French dictionary Search Synonyms Conjugate Speak Suggest new translation/definitionempiren (=group of nations) empire mthe Roman Empire l'Empire romainthe British Empire l'Empire britannique (=group of companies) empire m\u2192 He is obsessed with the growth of his empire.\u2192 His retail empire has collapsed.a publishing em",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "Retrieved result is about empire translations and English-French dictionary, not related to debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "empire translation | English-French dictionary Search Synonyms Conjugate Speak Suggest new translation/definitionempiren (=group of nations) empire mthe Roman Empire l'Empire romainthe British Empire l'Empire britannique (=group of companies) empire m\u2192 He is obsessed with the growth of his empire.\u2192 His retail empire has collapsed.a publishing em",
+  "history": {
+    "url": "http://dictionary.reverso.net/english-french/empire",
+    "title": "empire translation | English-French dictionary",
+    "description": "Search Synonyms Conjugate Speak Suggest new translation/definitionempiren (=group of nations) empire mthe Roman Empire l'Empire romainthe British Empire l'Empire britannique (=group of companies) empire m\u2192 He is obsessed with the growth of his empire.\u2192 His retail empire has collapsed.a publishing em",
+    "frecency": 4824,
+    "url_hash": 79023475051989,
+    "last_visit_date": 1758203931998111
+  }
+}

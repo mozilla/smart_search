@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "College of The Albemarle Foundation \\\"At COACareer Coach\u2122Not sure which career or educational path to take? Explore jobs and COA programs based on your interests. Career Coach\u2122Graduation Applications Are you graduating this summer? Applications are due by Sunday, April 15. Learn how to apply. Graduation Applications Resume Workshop Stu\\\"",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses career guidance and graduation applications, unrelated to debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "College of The Albemarle Foundation \"At COACareer Coach\u2122Not sure which career or educational path to take? Explore jobs and COA programs based on your interests. Career Coach\u2122Graduation Applications Are you graduating this summer? Applications are due by Sunday, April 15. Learn how to apply. Graduation Applications Resume Workshop Stu",
+  "history": {
+    "url": "https://www.albemarle.edu/",
+    "title": "College of The Albemarle Foundation",
+    "description": "\"At COACareer Coach\u2122Not sure which career or educational path to take? Explore jobs and COA programs based on your interests. Career Coach\u2122Graduation Applications Are you graduating this summer? Applications are due by Sunday, April 15. Learn how to apply. Graduation Applications Resume Workshop Stu",
+    "frecency": 1939,
+    "url_hash": 6375417426336,
+    "last_visit_date": 1758203928524111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Welcome to Home Base Welcome to Home Base Home Base is North Carolina\u2019s suite of digital tools and instructional resources designed to empower teachers, engage students, support administrators and connect parents to their child\u2019s personalized learning. Since its inception into the public schools of North Carolina in 201",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page describes educational resources for North Carolina public schools and does not pertain to software development or IDEs.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Welcome to Home Base Welcome to Home Base Home Base is North Carolina\u2019s suite of digital tools and instructional resources designed to empower teachers, engage students, support administrators and connect parents to their child\u2019s personalized learning. Since its inception into the public schools of North Carolina in 201",
+  "history": {
+    "url": "http://www.dpi.state.nc.us/homebase/",
+    "title": "Welcome to Home Base",
+    "description": "Welcome to Home Base Home Base is North Carolina\u2019s suite of digital tools and instructional resources designed to empower teachers, engage students, support administrators and connect parents to their child\u2019s personalized learning. Since its inception into the public schools of North Carolina in 201",
+    "frecency": 4911,
+    "url_hash": 15301196061636,
+    "last_visit_date": 1758203926864200
+  }
+}

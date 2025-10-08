@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Overview \\\"Print Overview Nickel allergy is a common cause of allergic contact dermatitis \u2014 an itchy rash that appears where your skin touches a usually harmless substance. Nickel allergy is often associated with earrings and other jewelry. But nickel can be found in many everyday items, such as coins, zipper",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses nickel allergy and dermatitis, not content about improving sports performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Overview \"Print Overview Nickel allergy is a common cause of allergic contact dermatitis \u2014 an itchy rash that appears where your skin touches a usually harmless substance. Nickel allergy is often associated with earrings and other jewelry. But nickel can be found in many everyday items, such as coins, zipper",
+  "history": {
+    "url": "http://www.mayoclinic.org/diseases-conditions/nickel-allergy/home/ovc-20267453",
+    "title": "Overview",
+    "description": "\"Print Overview Nickel allergy is a common cause of allergic contact dermatitis \u2014 an itchy rash that appears where your skin touches a usually harmless substance. Nickel allergy is often associated with earrings and other jewelry. But nickel can be found in many everyday items, such as coins, zipper",
+    "frecency": 4074,
+    "url_hash": 42001615700585,
+    "last_visit_date": 1758203932507228
+  }
+}

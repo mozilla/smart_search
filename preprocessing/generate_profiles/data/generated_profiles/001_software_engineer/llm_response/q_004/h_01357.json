@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "5H05 CORRECTIONAL SERGEANT CITY OF PHILADELPHIA PERSONNEL DEPARTMENT5H05 CORRECTIONAL SERGEANTSpecialties ( Bilingual ) ( General )GENERAL DEFINITIONThis is correctional work at the first supervisory level in the maintenance of discipline and custody of inmates in a municipal correctional institution on an assigned shift. Wor",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses correctional sergeant duties and personnel department, not Docker or beginner setup guidance.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "5H05 CORRECTIONAL SERGEANT CITY OF PHILADELPHIA PERSONNEL DEPARTMENT5H05 CORRECTIONAL SERGEANTSpecialties ( Bilingual ) ( General )GENERAL DEFINITIONThis is correctional work at the first supervisory level in the maintenance of discipline and custody of inmates in a municipal correctional institution on an assigned shift. Wor",
+  "history": {
+    "url": "http://www.phila.gov/personnel/specs/5H05.htm",
+    "title": "5H05 CORRECTIONAL SERGEANT",
+    "description": "CITY OF PHILADELPHIA PERSONNEL DEPARTMENT5H05 CORRECTIONAL SERGEANTSpecialties ( Bilingual ) ( General )GENERAL DEFINITIONThis is correctional work at the first supervisory level in the maintenance of discipline and custody of inmates in a municipal correctional institution on an assigned shift. Wor",
+    "frecency": 175,
+    "url_hash": 4653497526959,
+    "last_visit_date": 1758203928902200
+  }
+}

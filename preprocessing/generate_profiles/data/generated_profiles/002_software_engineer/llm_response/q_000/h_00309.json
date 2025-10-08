@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Clerk\u00e2s Office 100 W. Patrick Street, Frederick, MD 21701Phone: 301-600-1976Open: 8:30 AM\u20134:30 PMClerk\u2019s Office Circuit Court for Frederick County, MDNotary Public Commission Applications to become a Notary Public in the State of Maryland can be obtained from the Clerk of the Circuit Court or by visiting the Maryl",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a clerk's office and not related to debugging APIs; there is no content about API integration, debugging techniques, or related topics.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Clerk\u00e2s Office 100 W. Patrick Street, Frederick, MD 21701Phone: 301-600-1976Open: 8:30 AM\u20134:30 PMClerk\u2019s Office Circuit Court for Frederick County, MDNotary Public Commission Applications to become a Notary Public in the State of Maryland can be obtained from the Clerk of the Circuit Court or by visiting the Maryl",
+  "history": {
+    "url": "http://www.courts.state.md.us/clerks/frederick/notary.html",
+    "title": "Clerk\u00e2s Office",
+    "description": "100 W. Patrick Street, Frederick, MD 21701Phone: 301-600-1976Open: 8:30 AM\u20134:30 PMClerk\u2019s Office Circuit Court for Frederick County, MDNotary Public Commission Applications to become a Notary Public in the State of Maryland can be obtained from the Clerk of the Circuit Court or by visiting the Maryl",
+    "frecency": 4490,
+    "url_hash": 35442856324983,
+    "last_visit_date": 1758203928728111
+  }
+}

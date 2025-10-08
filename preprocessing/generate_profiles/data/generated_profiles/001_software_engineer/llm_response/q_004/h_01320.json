@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "What is an average monthly salary for Dominican Republic residents.? Travel Caribbean Dominican Republic What is an average monthly salary for Dominican Republic residents.? I would like to relocate to DR and did some research on what the average salary would be, but I was shocked when I saw it, it's alot less then what rent is, so how do people manage. Please help,",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses salaries in the Dominican Republic and relocation, not Docker or container setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "What is an average monthly salary for Dominican Republic residents.? Travel Caribbean Dominican Republic What is an average monthly salary for Dominican Republic residents.? I would like to relocate to DR and did some research on what the average salary would be, but I was shocked when I saw it, it's alot less then what rent is, so how do people manage. Please help,",
+  "history": {
+    "url": "https://answers.yahoo.com/question/index?qid=20080522083323AAE0ObV",
+    "title": "What is an average monthly salary for Dominican Republic residents.?",
+    "description": "Travel Caribbean Dominican Republic What is an average monthly salary for Dominican Republic residents.? I would like to relocate to DR and did some research on what the average salary would be, but I was shocked when I saw it, it's alot less then what rent is, so how do people manage. Please help, ",
+    "frecency": 363,
+    "url_hash": 32584878290326,
+    "last_visit_date": 1758203929238200
+  }
+}

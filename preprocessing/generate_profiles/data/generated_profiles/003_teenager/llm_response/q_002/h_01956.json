@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Welcome to Tromba \u00e2 It\u00e2s a Trombone Triumph! Welcome to Tromba \u2013 It\u2019s a Trombone Triumph!Half the weight. Half the price. Twice the fun. It\u2019s no wonder Tromba plastic trombones are proving popular with brass players everywhere from village halls and school music rooms right through to jazz clubs and orchestra pits.",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Tromba plastic trombones, not about easy DIY room decoration ideas; it has negligible relevance.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Welcome to Tromba \u00e2 It\u00e2s a Trombone Triumph! Welcome to Tromba \u2013 It\u2019s a Trombone Triumph!Half the weight. Half the price. Twice the fun. It\u2019s no wonder Tromba plastic trombones are proving popular with brass players everywhere from village halls and school music rooms right through to jazz clubs and orchestra pits.",
+  "history": {
+    "url": "http://trombainstruments.com/",
+    "title": "Welcome to Tromba \u00e2 It\u00e2s a Trombone Triumph!",
+    "description": "Welcome to Tromba \u2013 It\u2019s a Trombone Triumph!Half the weight. Half the price. Twice the fun. It\u2019s no wonder Tromba plastic trombones are proving popular with brass players everywhere from village halls and school music rooms right through to jazz clubs and orchestra pits. ",
+    "frecency": 2991,
+    "url_hash": 74853036589401,
+    "last_visit_date": 1758203929476735
+  }
+}

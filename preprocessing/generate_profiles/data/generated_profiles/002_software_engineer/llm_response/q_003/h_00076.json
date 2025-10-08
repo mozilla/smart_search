@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "The Annual Art and Science of Animal Training Conference The Annual Art and Science of Animal Training Conference ORCA hosts the Art and Science of Animal Training Conference every spring. The conference, now going into its ninth year, brings together animal trainers and behavior analysts for lectures and conversations about the science of animal training",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes an animal training conference, which is unrelated to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "The Annual Art and Science of Animal Training Conference The Annual Art and Science of Animal Training Conference ORCA hosts the Art and Science of Animal Training Conference every spring. The conference, now going into its ninth year, brings together animal trainers and behavior analysts for lectures and conversations about the science of animal training",
+  "history": {
+    "url": "http://orgs.unt.edu/orca/conference/",
+    "title": "The Annual Art and Science of Animal Training Conference",
+    "description": "The Annual Art and Science of Animal Training Conference ORCA hosts the Art and Science of Animal Training Conference every spring. The conference, now going into its ninth year, brings together animal trainers and behavior analysts for lectures and conversations about the science of animal training",
+    "frecency": 4875,
+    "url_hash": 94306193351473,
+    "last_visit_date": 1758203931806111
+  }
+}

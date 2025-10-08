@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "Driver recalls Hank Williams' last ride (AP News) - article from 2002; unrelated to TikTok trends.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Hank Williams' last ride in 2002 and does not pertain to TikTok trends for 2024.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "Driver recalls Hank Williams' last ride \"Driver recalls Hank Williams' last ride JIM THARPE, Copyright 2002 Atlanta Journal-Constitution Published 6:30 am, Tuesday, December 31, 2002MONTGOMERY, Ala. -- Just before sunrise on New Year's Day 50 years ago, a sleek baby-blue Cadillac roared up to the rural Oak Hill, W. Va., hospital in the co",
+  "history": {
+    "url": "http://www.chron.com/entertainment/music/article/Driver-recalls-Hank-Williams-last-ride-2097635.php",
+    "title": "Driver recalls Hank Williams' last ride",
+    "description": "\"Driver recalls Hank Williams' last ride JIM THARPE, Copyright 2002 Atlanta Journal-Constitution Published 6:30 am, Tuesday, December 31, 2002MONTGOMERY, Ala. -- Just before sunrise on New Year's Day 50 years ago, a sleek baby-blue Cadillac roared up to the rural Oak Hill, W. Va., hospital in the co",
+    "frecency": 1730,
+    "url_hash": 96688633695163,
+    "last_visit_date": 1758203931453228
+  }
+}

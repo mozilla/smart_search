@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Simple, transparent pricing. Always know what you\u00e2ll pay. Payments A complete commerce toolkit, built for developers. Learn more Credit & debit cards We charge a fixed fee and a percentage of the transaction each time you accept a credit or debit card payment. The price is the same for all cards. You don\u2019t pay anything for failed charges. Visa Master Card",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes payment processing pricing and merchant services, not information about optimizing database queries.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Simple, transparent pricing. Always know what you\u00e2ll pay. Payments A complete commerce toolkit, built for developers. Learn more Credit & debit cards We charge a fixed fee and a percentage of the transaction each time you accept a credit or debit card payment. The price is the same for all cards. You don\u2019t pay anything for failed charges. Visa Master Card",
+  "history": {
+    "url": "https://stripe.com/pricing",
+    "title": "Simple, transparent pricing. Always know what you\u00e2ll pay.",
+    "description": "Payments A complete commerce toolkit, built for developers. Learn more Credit & debit cards We charge a fixed fee and a percentage of the transaction each time you accept a credit or debit card payment. The price is the same for all cards. You don\u2019t pay anything for failed charges. Visa Master Card ",
+    "frecency": 591,
+    "url_hash": 10134945186285,
+    "last_visit_date": 1758203932150111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Browse Discrimination Lawyers by Location Featured Attorneys Browse Discrimination Lawyers by Location Please select a state to find Discrimination lawyers. Browse for a Discrimination Lawyer by Location Discrimination Lawyers in Top Cities Atlanta Austin Baltimore Boston Charlotte Chicago Cleveland Columbus Dallas Denver Detroit Houston In",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns discrimination lawyers by location, not Docker setup for beginners, indicating no relevance.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Browse Discrimination Lawyers by Location Featured Attorneys Browse Discrimination Lawyers by Location Please select a state to find Discrimination lawyers. Browse for a Discrimination Lawyer by Location Discrimination Lawyers in Top Cities Atlanta Austin Baltimore Boston Charlotte Chicago Cleveland Columbus Dallas Denver Detroit Houston In",
+  "history": {
+    "url": "http://lawyers.findlaw.com/lawyer/practice/Discrimination",
+    "title": "Browse Discrimination Lawyers by Location",
+    "description": "Featured Attorneys Browse Discrimination Lawyers by Location Please select a state to find Discrimination lawyers. Browse for a Discrimination Lawyer by Location Discrimination Lawyers in Top Cities Atlanta Austin Baltimore Boston Charlotte Chicago Cleveland Columbus Dallas Denver Detroit Houston In",
+    "frecency": 3093,
+    "url_hash": 89482876624416,
+    "last_visit_date": 1758203928322111
+  }
+}

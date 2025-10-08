@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Ingredient Conversions Ingredient Conversions Why you need ingredient conversions Americans typically measure ingredients by volume, while the French measure them by weight. Being a bit of a transatlantic cook myself, I own several sets of measuring cups and spoons as well as a digital scale. I feel comfortable with both",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses ingredient measurements and conversions for cooking, not about starting a YouTube channel; it is not relevant to the query.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Ingredient Conversions Ingredient Conversions Why you need ingredient conversions Americans typically measure ingredients by volume, while the French measure them by weight. Being a bit of a transatlantic cook myself, I own several sets of measuring cups and spoons as well as a digital scale. I feel comfortable with both",
+  "history": {
+    "url": "http://chocolateandzucchini.com/conversions/",
+    "title": "Ingredient Conversions",
+    "description": "Ingredient Conversions Why you need ingredient conversions Americans typically measure ingredients by volume, while the French measure them by weight. Being a bit of a transatlantic cook myself, I own several sets of measuring cups and spoons as well as a digital scale. I feel comfortable with both ",
+    "frecency": 1950,
+    "url_hash": 32325496599978,
+    "last_visit_date": 1758203931791228
+  }
+}

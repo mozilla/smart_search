@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "What does VIRT, RES and SHR mean in the top command? \\\"_Ask Ubuntu is a question and answer site for Ubuntu users and developers. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top What does VIRT, RES and SHR mean in the top command?up vote36dow",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses the Linux 'top' command and its memory metrics rather than topics related to optimizing database queries.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "What does VIRT, RES and SHR mean in the top command? \"_Ask Ubuntu is a question and answer site for Ubuntu users and developers. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top What does VIRT, RES and SHR mean in the top command?up vote36dow",
+  "history": {
+    "url": "https://askubuntu.com/questions/176001/what-does-virt-res-and-shr-mean-in-the-top-command",
+    "title": "What does VIRT, RES and SHR mean in the top command?",
+    "description": "\"_Ask Ubuntu is a question and answer site for Ubuntu users and developers. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top What does VIRT, RES and SHR mean in the top command?up vote36dow",
+    "frecency": 2823,
+    "url_hash": 22956159801103,
+    "last_visit_date": 1758203927952200
+  }
+}

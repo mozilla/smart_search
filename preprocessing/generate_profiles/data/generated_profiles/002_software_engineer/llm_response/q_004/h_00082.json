@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "How to Change DNS Servers in Windows - Windows DNS settings article (not related to Docker)",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The page discusses changing DNS servers in Windows and does not relate to Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "How to Change DNS Servers in Windows \"How To \u203aInternet & Network How to Change DNS Servers in Windows Change DNS Servers in Any Version of Windows Share Pin Email Print Changing DNS Servers (Windows 10).by Tim Fisher Updated April 09, 2018When you change the DNS servers in Windows, you change which servers Windows uses to translate hos",
+  "history": {
+    "url": "http://pcsupport.about.com/od/windows-8/fl/change-dns-servers-windows-8.htm",
+    "title": "How to Change DNS Servers in Windows",
+    "description": "\"How To \u203aInternet & Network How to Change DNS Servers in Windows Change DNS Servers in Any Version of Windows Share Pin Email Print Changing DNS Servers (Windows 10).by Tim Fisher Updated April 09, 2018When you change the DNS servers in Windows, you change which servers Windows uses to translate hos",
+    "frecency": 4867,
+    "url_hash": 9134627652542,
+    "last_visit_date": 1758203928056111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Barry Geraghty \\\"From Wikipedia, the free encyclopedianavigation search Barry Geraghty Occupation Jockey Born 16 September 1979 (age 38) Pelletstown, County Meath, Ireland Honours Irish jump racing Champion Jockey 1999/00, 2003/04Significant horses Moscow Flyer, Kicking King, Bobs Worth, Sprinter Sacre Barry Geragh\\\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a jockey and contains no content related to Python libraries or machine learning. It is not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Barry Geraghty \"From Wikipedia, the free encyclopedianavigation search Barry Geraghty Occupation Jockey Born 16 September 1979 (age 38) Pelletstown, County Meath, Ireland Honours Irish jump racing Champion Jockey 1999/00, 2003/04Significant horses Moscow Flyer, Kicking King, Bobs Worth, Sprinter Sacre Barry Geragh",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Barry_Geraghty",
+    "title": "Barry Geraghty",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search Barry Geraghty Occupation Jockey Born 16 September 1979 (age 38) Pelletstown, County Meath, Ireland Honours Irish jump racing Champion Jockey 1999/00, 2003/04Significant horses Moscow Flyer, Kicking King, Bobs Worth, Sprinter Sacre Barry Geragh",
+    "frecency": 249,
+    "url_hash": 15683746059159,
+    "last_visit_date": 1758203927644200
+  }
+}

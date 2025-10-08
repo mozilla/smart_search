@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Channel Lineup Channel Lineup What channel is that on? From music to movies, sports to soaps, and everything in between \u2014 find each and every channel right here.",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about TV channel lineups, unrelated to DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Channel Lineup Channel Lineup What channel is that on? From music to movies, sports to soaps, and everything in between \u2014 find each and every channel right here.",
+  "history": {
+    "url": "http://brighthouse.com/shop/tv/channel-lineup.html",
+    "title": "Channel Lineup",
+    "description": "Channel Lineup What channel is that on? From music to movies, sports to soaps, and everything in between \u2014 find each and every channel right here. ",
+    "frecency": 2834,
+    "url_hash": 68945039193953,
+    "last_visit_date": 1758203928704735
+  }
+}

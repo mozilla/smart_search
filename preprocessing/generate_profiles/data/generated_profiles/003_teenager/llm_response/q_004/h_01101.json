@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "What is Maternal death? What is Maternal death? Intro Symptoms Types Causes Tests Prognosis Treatment Misdiagnosis Deaths Videos Must Reads in Health Protecting Your Skin During Winter Watch: My Personal Psoriasis Journey Are You Getting The Best Cancer Care? Keeping An Active Lifestyle With COPDLiver Disease? Find a Doc W",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about unrelated health topics (maternal death, skin, cancer, COPD) and does not provide guidance on improving performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "What is Maternal death? What is Maternal death? Intro Symptoms Types Causes Tests Prognosis Treatment Misdiagnosis Deaths Videos Must Reads in Health Protecting Your Skin During Winter Watch: My Personal Psoriasis Journey Are You Getting The Best Cancer Care? Keeping An Active Lifestyle With COPDLiver Disease? Find a Doc W",
+  "history": {
+    "url": "http://www.rightdiagnosis.com/m/maternal_death/basics.htm",
+    "title": "What is Maternal death?",
+    "description": "What is Maternal death? Intro Symptoms Types Causes Tests Prognosis Treatment Misdiagnosis Deaths Videos Must Reads in Health Protecting Your Skin During Winter Watch: My Personal Psoriasis Journey Are You Getting The Best Cancer Care? Keeping An Active Lifestyle With COPDLiver Disease? Find a Doc W",
+    "frecency": 3862,
+    "url_hash": 97897487772462,
+    "last_visit_date": 1758203930451228
+  }
+}

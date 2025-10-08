@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "American Gothic American Gothic Artist Grant Wood Year 1930Medium Oil on beaverboard Location Art Institute of Chicago Dimensions 29.25 in \u00d7 24.25 in74.3 cm \u00d7 62.4 cm American Gothic is a painting by American artist Grant Wood in 1930. Shown is a farmer and his spinster daughter in front of their house. The models",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a painting (American Gothic) and has no relation to improving performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "American Gothic American Gothic Artist Grant Wood Year 1930Medium Oil on beaverboard Location Art Institute of Chicago Dimensions 29.25 in \u00d7 24.25 in74.3 cm \u00d7 62.4 cm American Gothic is a painting by American artist Grant Wood in 1930. Shown is a farmer and his spinster daughter in front of their house. The models",
+  "history": {
+    "url": "http://totallyhistory.com/american-gothic/",
+    "title": "American Gothic",
+    "description": "American Gothic Artist Grant Wood Year 1930Medium Oil on beaverboard Location Art Institute of Chicago Dimensions 29.25 in \u00d7 24.25 in74.3 cm \u00d7 62.4 cm American Gothic is a painting by American artist Grant Wood in 1930. Shown is a farmer and his spinster daughter in front of their house. The models ",
+    "frecency": 3467,
+    "url_hash": 71585913079164,
+    "last_visit_date": 1758203935381228
+  }
+}

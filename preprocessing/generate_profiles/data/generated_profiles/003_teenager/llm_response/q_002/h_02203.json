@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Beyond the Bag: Frozen Mixed Vegetables Tweet Community Email Beyond the Bag: Frozen Mixed Vegetables10 super-easy frozen veggie recipes. Article By: Bruce Weinstein and Mark Scarbrough Even the most devout carnivore knows that vegetables are not only good for you, but tasty too, and that eating them will make your mother as proud as if y",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses frozen vegetable recipes, not room decoration ideas; it does not match the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Beyond the Bag: Frozen Mixed Vegetables Tweet Community Email Beyond the Bag: Frozen Mixed Vegetables10 super-easy frozen veggie recipes. Article By: Bruce Weinstein and Mark Scarbrough Even the most devout carnivore knows that vegetables are not only good for you, but tasty too, and that eating them will make your mother as proud as if y",
+  "history": {
+    "url": "http://www.weightwatchers.com/util/art/index_art.aspx?tabnum=1&art_id=78151",
+    "title": "Beyond the Bag: Frozen Mixed Vegetables",
+    "description": "Tweet Community Email Beyond the Bag: Frozen Mixed Vegetables10 super-easy frozen veggie recipes. Article By: Bruce Weinstein and Mark Scarbrough Even the most devout carnivore knows that vegetables are not only good for you, but tasty too, and that eating them will make your mother as proud as if y",
+    "frecency": 2727,
+    "url_hash": 99596967114294,
+    "last_visit_date": 1758203927488735
+  }
+}

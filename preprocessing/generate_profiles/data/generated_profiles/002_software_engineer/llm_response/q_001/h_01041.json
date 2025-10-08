@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Apache \"Apache is a freely available Web server that is distributed under an \"\"open source\"\" license. Version 2.0 runs on most UNIX -based operating systems (such as Linux, Solaris, Digital UNIX, and AIX ), on other UNIX/ POSIX -derived systems (such as Rhapsody, Be OS, and BS2000/OSD), on Amiga OS, and on",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses the Apache web server, not Python libraries for machine learning; no relevance.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Apache \"Apache is a freely available Web server that is distributed under an \"\"open source\"\" license. Version 2.0 runs on most UNIX -based operating systems (such as Linux, Solaris, Digital UNIX, and AIX ), on other UNIX/ POSIX -derived systems (such as Rhapsody, Be OS, and BS2000/OSD), on Amiga OS, and on",
+  "history": {
+    "url": "http://searchmicroservices.techtarget.com/definition/Apache",
+    "title": "Apache",
+    "description": "\"Apache is a freely available Web server that is distributed under an \"\"open source\"\" license. Version 2.0 runs on most UNIX -based operating systems (such as Linux, Solaris, Digital UNIX, and AIX ), on other UNIX/ POSIX -derived systems (such as Rhapsody, Be OS, and BS2000/OSD), on Amiga OS, and on",
+    "frecency": 3154,
+    "url_hash": 51075291372583,
+    "last_visit_date": 1758203928540111
+  }
+}

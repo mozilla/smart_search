@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "How much do you need to be happy? \"Most people know in their heart of hearts that making gobs of money can't guarantee true happiness. Then again, most would acknowledge that you need to have at least a minimum income for a shot at well-being - if only so you don't have to scrounge for every meal. In between gobs and a bare minimum,",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about happiness and income, unrelated to apps or strategies for improving study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "How much do you need to be happy? \"Most people know in their heart of hearts that making gobs of money can't guarantee true happiness. Then again, most would acknowledge that you need to have at least a minimum income for a shot at well-being - if only so you don't have to scrounge for every meal. In between gobs and a bare minimum,",
+  "history": {
+    "url": "http://money.cnn.com/2014/06/05/news/economy/how-much-income-to-be-happy/index.html",
+    "title": "How much do you need to be happy?",
+    "description": "\"Most people know in their heart of hearts that making gobs of money can't guarantee true happiness. Then again, most would acknowledge that you need to have at least a minimum income for a shot at well-being - if only so you don't have to scrounge for every meal. In between gobs and a bare minimum,",
+    "frecency": 4291,
+    "url_hash": 39344852916165,
+    "last_visit_date": 1758203933337228
+  }
+}

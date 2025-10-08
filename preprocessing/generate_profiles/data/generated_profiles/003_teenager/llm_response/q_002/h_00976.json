@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "What States Don't Have Income or Sales Tax? Throughout the United States, income and sales taxes vary dramatically from state to state. Some have no taxes at all and some states charge very high tax rates. Cost of living is a concern for most people and whether you are relocating for work, family, or to retire, taxes are often a key considera",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses state taxes and cost of living, not DIY room decoration ideas; thus it is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "What States Don't Have Income or Sales Tax? Throughout the United States, income and sales taxes vary dramatically from state to state. Some have no taxes at all and some states charge very high tax rates. Cost of living is a concern for most people and whether you are relocating for work, family, or to retire, taxes are often a key considera",
+  "history": {
+    "url": "https://www.sapling.com/6116873/states-dont-income-sales-tax",
+    "title": "What States Don't Have Income or Sales Tax?",
+    "description": "Throughout the United States, income and sales taxes vary dramatically from state to state. Some have no taxes at all and some states charge very high tax rates. Cost of living is a concern for most people and whether you are relocating for work, family, or to retire, taxes are often a key considera",
+    "frecency": 3986,
+    "url_hash": 26943598670315,
+    "last_visit_date": 1758203930193228
+  }
+}

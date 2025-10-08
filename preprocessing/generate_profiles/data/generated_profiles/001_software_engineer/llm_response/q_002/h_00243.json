@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Course Library I am a Practicing in Showing All Courses Total Courses: 0 Total Hours: 0Course Title Course Credits No Courses Found List of All Active Courses List of All Course Topics",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a Course Library with no courses; it does not mention IDEs or software development tools, so it is not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Course Library I am a Practicing in Showing All Courses Total Courses: 0 Total Hours: 0Course Title Course Credits No Courses Found List of All Active Courses List of All Course Topics",
+  "history": {
+    "url": "https://ceufast.com/courses/",
+    "title": "Course Library",
+    "description": "I am a Practicing in Showing All Courses Total Courses: 0 Total Hours: 0Course Title Course Credits No Courses Found List of All Active Courses List of All Course Topics ",
+    "frecency": 4175,
+    "url_hash": 64903532627797,
+    "last_visit_date": 1758203928036200
+  }
+}

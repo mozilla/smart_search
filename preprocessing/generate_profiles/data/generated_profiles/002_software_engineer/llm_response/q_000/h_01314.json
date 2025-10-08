@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Wegmans # With the downturn in the office market, developers are instead planning to build residential and commercial uses on vacant parcels of land in the Westfields area of Chantilly. Below are details about what\u2019s on the horizon, including plans for a memory-care facility off of Route 50 west. Wegmans Ar",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Wegmans and local development; it is not related to debugging or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Wegmans # With the downturn in the office market, developers are instead planning to build residential and commercial uses on vacant parcels of land in the Westfields area of Chantilly. Below are details about what\u2019s on the horizon, including plans for a memory-care facility off of Route 50 west. Wegmans Ar",
+  "history": {
+    "url": "http://www.connectionnewspapers.com/news/2016/jan/06/centrevillechantilly-looking-future/",
+    "title": "Wegmans",
+    "description": "# With the downturn in the office market, developers are instead planning to build residential and commercial uses on vacant parcels of land in the Westfields area of Chantilly. Below are details about what\u2019s on the horizon, including plans for a memory-care facility off of Route 50 west. Wegmans Ar",
+    "frecency": 2647,
+    "url_hash": 23110204728399,
+    "last_visit_date": 1758203929558111
+  }
+}

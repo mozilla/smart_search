@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Product details Livestock Specialty XL Catlin offers livestock insurance worldwide. Specialised and individually tailored coverage is available for a variety of clients, from private farm owners to commercial operations. Whether in situ or in transit, all livestock classes are catered for: - production animals (she",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about livestock insurance and unrelated to Docker or software setup for beginners; no relevance to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Product details Livestock Specialty XL Catlin offers livestock insurance worldwide. Specialised and individually tailored coverage is available for a variety of clients, from private farm owners to commercial operations. Whether in situ or in transit, all livestock classes are catered for: - production animals (she",
+  "history": {
+    "url": "http://xlcatlin.com/insurance/insurance-coverage/specialty-insurance/livestock",
+    "title": "Product details",
+    "description": "Livestock Specialty XL Catlin offers livestock insurance worldwide. Specialised and individually tailored coverage is available for a variety of clients, from private farm owners to commercial operations. Whether in situ or in transit, all livestock classes are catered for: - production animals (she",
+    "frecency": 1856,
+    "url_hash": 65755418968038,
+    "last_visit_date": 1758203931688111
+  }
+}

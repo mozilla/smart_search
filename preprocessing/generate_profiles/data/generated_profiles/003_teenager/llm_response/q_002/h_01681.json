@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "What is the Weather like on Venus? Artist's impression of the surface of Venus, showing its lightning storms and a volcano in the distance. Credit and \u00a9: European Space Agency/J. Whatmore Astronomy, Guide to Space What is the Weather like on Venus? Article written: 3 Dec , 2016 Updated: 16 Feb , 2017 by Matt Williams Welcome back to",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Venus weather and astronomy, not about easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "What is the Weather like on Venus? Artist's impression of the surface of Venus, showing its lightning storms and a volcano in the distance. Credit and \u00a9: European Space Agency/J. Whatmore Astronomy, Guide to Space What is the Weather like on Venus? Article written: 3 Dec , 2016 Updated: 16 Feb , 2017 by Matt Williams Welcome back to",
+  "history": {
+    "url": "https://www.universetoday.com/36721/weather-on-venus/",
+    "title": "What is the Weather like on Venus?",
+    "description": "Artist's impression of the surface of Venus, showing its lightning storms and a volcano in the distance. Credit and \u00a9: European Space Agency/J. Whatmore Astronomy, Guide to Space What is the Weather like on Venus? Article written: 3 Dec , 2016 Updated: 16 Feb , 2017 by Matt Williams Welcome back to ",
+    "frecency": 3282,
+    "url_hash": 15794612107391,
+    "last_visit_date": 1758203932099228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "The Fast Mail \"The Fast Mail A History of the U. S. Railway Mail Service Fall 2005, Vol. 37, No. 3By Fred J. Romanski Enlarge Night Scene at an American Railway Junction, by Currier & Ives, ca. 1876, shows the Flying Mail train at center. (Library of Congress)The railroad station attendant at Mishawaka, Indiana,",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses historical railway mail service, not software development or IDEs; thus not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "The Fast Mail \"The Fast Mail A History of the U. S. Railway Mail Service Fall 2005, Vol. 37, No. 3By Fred J. Romanski Enlarge Night Scene at an American Railway Junction, by Currier & Ives, ca. 1876, shows the Flying Mail train at center. (Library of Congress)The railroad station attendant at Mishawaka, Indiana,",
+  "history": {
+    "url": "https://www.archives.gov/publications/prologue/2005/fall/fast-mail-1.html",
+    "title": "The Fast Mail",
+    "description": "\"The Fast Mail A History of the U. S. Railway Mail Service Fall 2005, Vol. 37, No. 3By Fred J. Romanski Enlarge Night Scene at an American Railway Junction, by Currier & Ives, ca. 1876, shows the Flying Mail train at center. (Library of Congress)The railroad station attendant at Mishawaka, Indiana, ",
+    "frecency": 2619,
+    "url_hash": 95792776832510,
+    "last_visit_date": 1758203928624111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "What is the minimum age to work at Mcdonalds? \"Jponbac Gunna 300,526 Contributions Retired teacher with an advocation in history who loves to travel. What is the minimum age to work at Mcdonalds? Child labor laws prevents an employer from hiring anyone under 16, so the answer to your question is 16. What is the minimum age to work in Japan?15Br",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses minimum working age and child labor laws, which is unrelated to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "What is the minimum age to work at Mcdonalds? \"Jponbac Gunna 300,526 Contributions Retired teacher with an advocation in history who loves to travel. What is the minimum age to work at Mcdonalds? Child labor laws prevents an employer from hiring anyone under 16, so the answer to your question is 16. What is the minimum age to work in Japan?15Br",
+  "history": {
+    "url": "http://www.answers.com/Q/What_is_the_minimum_age_to_work_at_AMC",
+    "title": "What is the minimum age to work at Mcdonalds?",
+    "description": "\"Jponbac Gunna 300,526 Contributions Retired teacher with an advocation in history who loves to travel. What is the minimum age to work at Mcdonalds? Child labor laws prevents an employer from hiring anyone under 16, so the answer to your question is 16. What is the minimum age to work in Japan?15Br",
+    "frecency": 1365,
+    "url_hash": 21665808826685,
+    "last_visit_date": 1758203926866200
+  }
+}

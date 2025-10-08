@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Ask Dr. Vinny \"Home Learn Wine Ask Dr. Vinny Hello there! I'm Dr. Vinifera, or \"Vinny\" for short. Ask me your toughest wine questions, from the technical aspects of winemaking to the fine points of etiquette. I hope you find my answers educational and even amusing. Looking for a particular answer? Check my most",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about wine Q&A (Ask Dr. Vinny) and does not relate to sports or improving athletic performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Ask Dr. Vinny \"Home Learn Wine Ask Dr. Vinny Hello there! I'm Dr. Vinifera, or \"\"Vinny\"\" for short. Ask me your toughest wine questions, from the technical aspects of winemaking to the fine points of etiquette. I hope you find my answers educational and even amusing. Looking for a particular answer? Check my most",
+  "history": {
+    "url": "http://www.winespectator.com/drvinny/show/id/49395",
+    "title": "Ask Dr. Vinny",
+    "description": "\"Home Learn Wine Ask Dr. Vinny Hello there! I'm Dr. Vinifera, or \"\"Vinny\"\" for short. Ask me your toughest wine questions, from the technical aspects of winemaking to the fine points of etiquette. I hope you find my answers educational and even amusing. Looking for a particular answer? Check my most",
+    "frecency": 2338,
+    "url_hash": 81610130808812,
+    "last_visit_date": 1758203933905228
+  }
+}

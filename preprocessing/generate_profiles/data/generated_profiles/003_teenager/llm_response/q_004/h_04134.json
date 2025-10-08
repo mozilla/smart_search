@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Indian Handicrafts and Gifts \"India is one of the major exporter and supplier of handicrafts and gift products to the world market. The Indian handicrafts industry is highly labor intensive and decentralized, being spread all across the country in rural and urban areas. The sector is considered as the second largest employment-",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page discusses Indian handicrafts industry and is not related to improving sports performance or guidance on getting better at sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Indian Handicrafts and Gifts \"India is one of the major exporter and supplier of handicrafts and gift products to the world market. The Indian handicrafts industry is highly labor intensive and decentralized, being spread all across the country in rural and urban areas. The sector is considered as the second largest employment-",
+  "history": {
+    "url": "http://www.india-exports.com/handicraft.html",
+    "title": "Indian Handicrafts and Gifts",
+    "description": "\"India is one of the major exporter and supplier of handicrafts and gift products to the world market. The Indian handicrafts industry is highly labor intensive and decentralized, being spread all across the country in rural and urban areas. The sector is considered as the second largest employment-",
+    "frecency": 728,
+    "url_hash": 81196838468819,
+    "last_visit_date": 1758203931819228
+  }
+}

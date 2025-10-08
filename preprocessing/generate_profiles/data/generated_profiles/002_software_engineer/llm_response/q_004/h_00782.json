@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Welcome to Madison Wine Cellar Welcome to Madison Wine Cellar We are a family owned independent business working tirelessly to bring the best selection of wines to our customers. Our providers and products are carefully chosen to reflect our customers needs. Our Croatian and Slovenian wine sections offer an exclusive opportunity",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a wine cellar and has no relation to Docker or technical setup; it is not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Welcome to Madison Wine Cellar Welcome to Madison Wine Cellar We are a family owned independent business working tirelessly to bring the best selection of wines to our customers. Our providers and products are carefully chosen to reflect our customers needs. Our Croatian and Slovenian wine sections offer an exclusive opportunity",
+  "history": {
+    "url": "http://www.madisonwinecellar.com/",
+    "title": "Welcome to Madison Wine Cellar",
+    "description": "Welcome to Madison Wine Cellar We are a family owned independent business working tirelessly to bring the best selection of wines to our customers. Our providers and products are carefully chosen to reflect our customers needs. Our Croatian and Slovenian wine sections offer an exclusive opportunity ",
+    "frecency": 3590,
+    "url_hash": 3000188259742,
+    "last_visit_date": 1758203931626111
+  }
+}

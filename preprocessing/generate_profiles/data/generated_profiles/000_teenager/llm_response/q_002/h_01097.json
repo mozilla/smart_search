@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Welcome Home Gamaliel Welcome Thank you for searching for Gamaliel Shooting Supply. Gamaliel's retail store in Gamaliel, Kentucky, is still OPEN FOR BUSINESS. However, Gamaliel.com has merged with Brownells.com. To continue shopping for your hunting, shooting or other outdoor needs, click on any of the link",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a firearms supply retailer and a site merge, unrelated to DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Welcome Home Gamaliel Welcome Thank you for searching for Gamaliel Shooting Supply. Gamaliel's retail store in Gamaliel, Kentucky, is still OPEN FOR BUSINESS. However, Gamaliel.com has merged with Brownells.com. To continue shopping for your hunting, shooting or other outdoor needs, click on any of the link",
+  "history": {
+    "url": "http://www.gamaliel.com/hodgdonpowder/hodgdon_titegroup_powder.asp",
+    "title": "Welcome",
+    "description": "Home Gamaliel Welcome Thank you for searching for Gamaliel Shooting Supply. Gamaliel's retail store in Gamaliel, Kentucky, is still OPEN FOR BUSINESS. However, Gamaliel.com has merged with Brownells.com. To continue shopping for your hunting, shooting or other outdoor needs, click on any of the link",
+    "frecency": 117,
+    "url_hash": 95558409084377,
+    "last_visit_date": 1758203927033139
+  }
+}

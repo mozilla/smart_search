@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Closed account and direct deposit? Business & Finance Personal Finance Closed account and direct deposit? Yesterday I got a letter from Bank of America with a new debit card saying that my old card may have been compromised and they are closing my account in 5 days. The problem is I get direct deposit and my employer needs 2 weeks be",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses bank account issues and direct deposit, not API integration debugging, and contains no relevant guidance for debugging API integrations.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Closed account and direct deposit? Business & Finance Personal Finance Closed account and direct deposit? Yesterday I got a letter from Bank of America with a new debit card saying that my old card may have been compromised and they are closing my account in 5 days. The problem is I get direct deposit and my employer needs 2 weeks be",
+  "history": {
+    "url": "https://answers.yahoo.com/question/index?qid=20090718172929AAOPoRN",
+    "title": "Closed account and direct deposit?",
+    "description": "Business & Finance Personal Finance Closed account and direct deposit? Yesterday I got a letter from Bank of America with a new debit card saying that my old card may have been compromised and they are closing my account in 5 days. The problem is I get direct deposit and my employer needs 2 weeks be",
+    "frecency": 3749,
+    "url_hash": 48182211198692,
+    "last_visit_date": 1758203929108200
+  }
+}

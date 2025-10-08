@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Mass Transit District (Metro-East Mass Transit (MED) Taxes and Regional Transportation Authority (RTA) Taxes) Mass Transit District (Metro-East Mass Transit (MED) Taxes and Regional Transportation Authority (RTA) Taxes)Statutory References Metro-East Mass Transit District (MED) Retailers\u2019 Occupation Tax 70 ILCS 3610/5.01 (b)Metro-East Mass Transit District (MED) Service Occupation Tax 70 ILCS 3610/5.01 (c)M",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns tax statutes for a transit district and is unrelated to debugging APIs.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Mass Transit District (Metro-East Mass Transit (MED) Taxes and Regional Transportation Authority (RTA) Taxes) Mass Transit District (Metro-East Mass Transit (MED) Taxes and Regional Transportation Authority (RTA) Taxes)Statutory References Metro-East Mass Transit District (MED) Retailers\u2019 Occupation Tax 70 ILCS 3610/5.01 (b)Metro-East Mass Transit District (MED) Service Occupation Tax 70 ILCS 3610/5.01 (c)M",
+  "history": {
+    "url": "http://tax.illinois.gov/Businesses/TaxInformation/Sales/mass.htm",
+    "title": "Mass Transit District (Metro-East Mass Transit (MED) Taxes and Regional Transportation Authority (RTA) Taxes)",
+    "description": "Mass Transit District (Metro-East Mass Transit (MED) Taxes and Regional Transportation Authority (RTA) Taxes)Statutory References Metro-East Mass Transit District (MED) Retailers\u2019 Occupation Tax 70 ILCS 3610/5.01 (b)Metro-East Mass Transit District (MED) Service Occupation Tax 70 ILCS 3610/5.01 (c)M",
+    "frecency": 2742,
+    "url_hash": 57934301301042,
+    "last_visit_date": 1758203930780111
+  }
+}

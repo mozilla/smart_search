@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "The Great Santini \"The Great Santini Southern writer Pat Conroy's novels have long been worthy material for films: Conrack (1974, from The Water Is Wide ), The Lords of Discipline (1983), and the Oscar-nominated The Prince of Tides (1991). There was also a 2006 television adaptation of The Water Is Wide that hewed a",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses a novel/film and author, not topics related to improving athletic performance or getting better at sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "The Great Santini \"The Great Santini Southern writer Pat Conroy's novels have long been worthy material for films: Conrack (1974, from The Water Is Wide ), The Lords of Discipline (1983), and the Oscar-nominated The Prince of Tides (1991). There was also a 2006 television adaptation of The Water Is Wide that hewed a",
+  "history": {
+    "url": "http://www.tcm.com/this-month/article.html?id=1068271%7C1068273",
+    "title": "The Great Santini",
+    "description": "\"The Great Santini Southern writer Pat Conroy's novels have long been worthy material for films: Conrack (1974, from The Water Is Wide ), The Lords of Discipline (1983), and the Oscar-nominated The Prince of Tides (1991). There was also a 2006 television adaptation of The Water Is Wide that hewed a ",
+    "frecency": 3799,
+    "url_hash": 14543978759290,
+    "last_visit_date": 1758203928344735
+  }
+}

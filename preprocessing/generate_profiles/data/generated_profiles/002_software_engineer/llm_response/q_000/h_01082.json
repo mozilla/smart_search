@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Section 8. Ethical Leadership Learn how to build trust, credibility, and respect for both you and the organization by being an ethical leader. What is ethical leadership? Why practice ethical leadership? When and by whom should ethical leadership be practiced? How do you practice ethical leadership? Specific components of ethica",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses ethical leadership, not API integration or debugging APIs; no relevant content to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Section 8. Ethical Leadership Learn how to build trust, credibility, and respect for both you and the organization by being an ethical leader. What is ethical leadership? Why practice ethical leadership? When and by whom should ethical leadership be practiced? How do you practice ethical leadership? Specific components of ethica",
+  "history": {
+    "url": "http://ctb.ku.edu/en/table-of-contents/leadership/leadership-ideas/ethical-leadership/main",
+    "title": "Section 8. Ethical Leadership",
+    "description": "Learn how to build trust, credibility, and respect for both you and the organization by being an ethical leader. What is ethical leadership? Why practice ethical leadership? When and by whom should ethical leadership be practiced? How do you practice ethical leadership? Specific components of ethica",
+    "frecency": 3067,
+    "url_hash": 13858820011457,
+    "last_visit_date": 1758203931396111
+  }
+}

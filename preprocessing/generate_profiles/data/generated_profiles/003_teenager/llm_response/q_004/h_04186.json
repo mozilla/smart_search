@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "About Richard Rodgers Richard Rodgers: The Sweetest Sounds About Richard Rodgers February 1, 19990 SHARES 15 Comments Richard Rodgers\u2019 contributions to the musical theatre of his day were extraordinary, and his influence on the musical theatre of today and tomorrow is legendary. His career spanned more than six decades,",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "Retrieved result is about Richard Rodgers, a composer in musical theatre, which is unrelated to the query about improving athletic performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "About Richard Rodgers Richard Rodgers: The Sweetest Sounds About Richard Rodgers February 1, 19990 SHARES 15 Comments Richard Rodgers\u2019 contributions to the musical theatre of his day were extraordinary, and his influence on the musical theatre of today and tomorrow is legendary. His career spanned more than six decades,",
+  "history": {
+    "url": "http://www.pbs.org/wnet/americanmasters/richard-rodgers-about-richard-rodgers/690/",
+    "title": "About Richard Rodgers",
+    "description": "Richard Rodgers: The Sweetest Sounds About Richard Rodgers February 1, 19990 SHARES 15 Comments Richard Rodgers\u2019 contributions to the musical theatre of his day were extraordinary, and his influence on the musical theatre of today and tomorrow is legendary. His career spanned more than six decades, ",
+    "frecency": 654,
+    "url_hash": 68121926185633,
+    "last_visit_date": 1758203928610735
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "TRVLis on a mission to make things better for the traveler. TRVLis on a mission to make things better for the traveler. Earn money on your hotel bookings You\u2019re already doing all the work \u2014 it is time to get rewarded Sign up It\u2019s free and only takes seconds Trusted hotel providers",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about travel and hotel bookings, not Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "TRVLis on a mission to make things better for the traveler. TRVLis on a mission to make things better for the traveler. Earn money on your hotel bookings You\u2019re already doing all the work \u2014 it is time to get rewarded Sign up It\u2019s free and only takes seconds Trusted hotel providers",
+  "history": {
+    "url": "https://trvl.com/",
+    "title": "TRVLis on a mission to make things better for the traveler.",
+    "description": "TRVLis on a mission to make things better for the traveler. Earn money on your hotel bookings You\u2019re already doing all the work \u2014 it is time to get rewarded Sign up It\u2019s free and only takes seconds Trusted hotel providers ",
+    "frecency": 3685,
+    "url_hash": 46269027843887,
+    "last_visit_date": 1758203931002111
+  }
+}

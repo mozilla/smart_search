@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Apple Stanford Apple Stanford Address:379 Stanford Shopping Center Palo Alto, CA 94304 (650) 798-6180Driving directions and map Store hours: Mon - Fri 10:00 a.m. - 9:00 p.m. Sat 10:00 a.m. - 7:00 p.m. Sun 11:00 a.m. - 6:00 p.m. Genius Bar and Support Learn more Need help with Apple services or software? Forgot you",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns an Apple Store location and services, not Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Apple Stanford Apple Stanford Address:379 Stanford Shopping Center Palo Alto, CA 94304 (650) 798-6180Driving directions and map Store hours: Mon - Fri 10:00 a.m. - 9:00 p.m. Sat 10:00 a.m. - 7:00 p.m. Sun 11:00 a.m. - 6:00 p.m. Genius Bar and Support Learn more Need help with Apple services or software? Forgot you",
+  "history": {
+    "url": "http://www.apple.com/retail/stanford/",
+    "title": "Apple Stanford",
+    "description": "Apple Stanford Address:379 Stanford Shopping Center Palo Alto, CA 94304 (650) 798-6180Driving directions and map Store hours: Mon - Fri 10:00 a.m. - 9:00 p.m. Sat 10:00 a.m. - 7:00 p.m. Sun 11:00 a.m. - 6:00 p.m. Genius Bar and Support Learn more Need help with Apple services or software? Forgot you",
+    "frecency": 2786,
+    "url_hash": 64792223450626,
+    "last_visit_date": 1758203928064200
+  }
+}

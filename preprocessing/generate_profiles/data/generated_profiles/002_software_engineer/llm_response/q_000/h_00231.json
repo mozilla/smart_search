@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Use the Maintenance Plan Wizard Docs SQL Relational databases Maintenance plans Use the Maintenance Plan Wizard June 20, 2017 23 minutes to read Contributors In this article Limitations and Restrictions Prerequisites Permissions Use the Maintenance Plan Wizard Define Database Check Integrity (CHECKDB)Define Database Shrink Tasks D",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result covers SQL maintenance plans and database tasks, not API integration or debugging APIs.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Use the Maintenance Plan Wizard Docs SQL Relational databases Maintenance plans Use the Maintenance Plan Wizard June 20, 2017 23 minutes to read Contributors In this article Limitations and Restrictions Prerequisites Permissions Use the Maintenance Plan Wizard Define Database Check Integrity (CHECKDB)Define Database Shrink Tasks D",
+  "history": {
+    "url": "https://msdn.microsoft.com/en-us/library/ms191002.aspx",
+    "title": "Use the Maintenance Plan Wizard",
+    "description": "Docs SQL Relational databases Maintenance plans Use the Maintenance Plan Wizard June 20, 2017 23 minutes to read Contributors In this article Limitations and Restrictions Prerequisites Permissions Use the Maintenance Plan Wizard Define Database Check Integrity (CHECKDB)Define Database Shrink Tasks D",
+    "frecency": 4621,
+    "url_hash": 53397127932637,
+    "last_visit_date": 1758203927692111
+  }
+}

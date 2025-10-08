@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Roesch Library Roesch Library Roesch Library has more than 1 million print and electronic books, subscribes to more than 300 databases and provides access to more than 100,000 print and electronic journals. Through Ohio LINK, a statewide consortium of college and university libraries, students, faculty and staff c",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a library's collections and services (Roesch Library) and does not mention Python, machine learning libraries, or related topics.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Roesch Library Roesch Library Roesch Library has more than 1 million print and electronic books, subscribes to more than 300 databases and provides access to more than 100,000 print and electronic journals. Through Ohio LINK, a statewide consortium of college and university libraries, students, faculty and staff c",
+  "history": {
+    "url": "http://catalog.udayton.edu/undergraduate/generalinformation/librariesandresearchservices/roeschlibrary/",
+    "title": "Roesch Library",
+    "description": "Roesch Library Roesch Library has more than 1 million print and electronic books, subscribes to more than 300 databases and provides access to more than 100,000 print and electronic journals. Through Ohio LINK, a statewide consortium of college and university libraries, students, faculty and staff c",
+    "frecency": 3380,
+    "url_hash": 5944808216067,
+    "last_visit_date": 1758203927402200
+  }
+}

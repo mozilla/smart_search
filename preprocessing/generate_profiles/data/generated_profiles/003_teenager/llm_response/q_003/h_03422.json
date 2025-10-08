@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Fishing Arizona is blessed with diverse fishing opportunities, from the large reservoirs to the trout lakes in the mountains, and plenty of low-elevation fishing holes in between. Go out and catch a memory!Buy A License Fishing Report Fishing Forecast Fishing Locations Rules & Regulations Community Fishing",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about fishing and does not pertain to apps or study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Fishing Arizona is blessed with diverse fishing opportunities, from the large reservoirs to the trout lakes in the mountains, and plenty of low-elevation fishing holes in between. Go out and catch a memory!Buy A License Fishing Report Fishing Forecast Fishing Locations Rules & Regulations Community Fishing",
+  "history": {
+    "url": "https://www.azgfd.com/fishing/",
+    "title": "Fishing",
+    "description": "Arizona is blessed with diverse fishing opportunities, from the large reservoirs to the trout lakes in the mountains, and plenty of low-elevation fishing holes in between. Go out and catch a memory!Buy A License Fishing Report Fishing Forecast Fishing Locations Rules & Regulations Community Fishing ",
+    "frecency": 1425,
+    "url_hash": 89109412778591,
+    "last_visit_date": 1758203930449228
+  }
+}

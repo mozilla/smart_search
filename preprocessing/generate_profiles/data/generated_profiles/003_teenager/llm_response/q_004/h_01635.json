@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Pembroke Welsh Corgi Pembroke Welsh Corgi Herding Group Low-set, strong and sturdily built, the Pembroke Welsh Corgi gives an impression of substance in a small space. He is one of the most agreeable small house dogs, as well as an avid competitor in many dog sports, including conformation, herding and obedience. The Pe",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses a dog breed and dog sports, not how to improve human athletic performance. It only tangentially mentions dog sports, which does not satisfy the user's query about getting better at sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Pembroke Welsh Corgi Pembroke Welsh Corgi Herding Group Low-set, strong and sturdily built, the Pembroke Welsh Corgi gives an impression of substance in a small space. He is one of the most agreeable small house dogs, as well as an avid competitor in many dog sports, including conformation, herding and obedience. The Pe",
+  "history": {
+    "url": "http://www.akc.org/dog-breeds/pembroke-welsh-corgi/",
+    "title": "Pembroke Welsh Corgi",
+    "description": "Pembroke Welsh Corgi Herding Group Low-set, strong and sturdily built, the Pembroke Welsh Corgi gives an impression of substance in a small space. He is one of the most agreeable small house dogs, as well as an avid competitor in many dog sports, including conformation, herding and obedience. The Pe",
+    "frecency": 3319,
+    "url_hash": 51101065432900,
+    "last_visit_date": 1758203932797228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "CON 170: Fundamentals of Cost and Price Analysis CON 170: Fundamentals of Cost and Price Analysis Course Description This course begins with an in-depth review of the market research process and provides instruction to help students understand and analyze contractor pricing strategies. Students will learn to accomplish Cost-Volume-Profit analysis,",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses cost and price analysis education, not software development IDEs; it is unrelated to the query about top IDEs.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "CON 170: Fundamentals of Cost and Price Analysis CON 170: Fundamentals of Cost and Price Analysis Course Description This course begins with an in-depth review of the market research process and provides instruction to help students understand and analyze contractor pricing strategies. Students will learn to accomplish Cost-Volume-Profit analysis,",
+  "history": {
+    "url": "https://pe.gatech.edu/courses/con-170-fundamentals-cost-and-price-analysis",
+    "title": "CON 170: Fundamentals of Cost and Price Analysis",
+    "description": "CON 170: Fundamentals of Cost and Price Analysis Course Description This course begins with an in-depth review of the market research process and provides instruction to help students understand and analyze contractor pricing strategies. Students will learn to accomplish Cost-Volume-Profit analysis,",
+    "frecency": 1408,
+    "url_hash": 73903636498700,
+    "last_visit_date": 1758203929016200
+  }
+}

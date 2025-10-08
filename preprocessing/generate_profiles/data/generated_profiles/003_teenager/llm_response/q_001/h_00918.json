@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "Taken 2009 Rotten Tomatoes page with critics' scores and audience score; unrelated to TikTok trends.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns the film 'Taken' (2009) and its Rotten Tomatoes statistics, not TikTok trends; thus not relevant to the query.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "Taken 2009 \"Taken 2009All Critics | Top Critics TOMATOMETER58 %Average Rating: 5.8/10Reviews Counted: 169Fresh: 98Rotten: 71Critics Consensus: Taken is undeniably fun with slick action, but is largely a brainless exercise. AUDIENCE SCORE85%liked it Average Rating: 4.1/5User Ratings: 738,450Taken Photos View Al",
+  "history": {
+    "url": "https://www.rottentomatoes.com/m/taken/",
+    "title": "Taken 2009",
+    "description": "\"Taken 2009All Critics | Top Critics TOMATOMETER58 %Average Rating: 5.8/10Reviews Counted: 169Fresh: 98Rotten: 71Critics Consensus: Taken is undeniably fun with slick action, but is largely a brainless exercise. AUDIENCE SCORE85%liked it Average Rating: 4.1/5User Ratings: 738,450Taken Photos View Al",
+    "frecency": 4042,
+    "url_hash": 78716450436051,
+    "last_visit_date": 1758203927324735
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Bar Furniture Buying Guide Bar Furniture Buying Guide You may love to invite friends for martinis, or you may be having over the guys for the big game. You might need kitchen stools, so you can use a counter as a breakfast bar. Or you may be adding a dining area to a part of your house you didn't think was going to be usable",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about bar furniture, not related to improving athletic performance or sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Bar Furniture Buying Guide Bar Furniture Buying Guide You may love to invite friends for martinis, or you may be having over the guys for the big game. You might need kitchen stools, so you can use a counter as a breakfast bar. Or you may be adding a dining area to a part of your house you didn't think was going to be usable",
+  "history": {
+    "url": "https://www.overstock.com/guides/bar-furniture-buying-guide",
+    "title": "Bar Furniture Buying Guide",
+    "description": "Bar Furniture Buying Guide You may love to invite friends for martinis, or you may be having over the guys for the big game. You might need kitchen stools, so you can use a counter as a breakfast bar. Or you may be adding a dining area to a part of your house you didn't think was going to be usable ",
+    "frecency": 2347,
+    "url_hash": 30889732857288,
+    "last_visit_date": 1758203934111228
+  }
+}

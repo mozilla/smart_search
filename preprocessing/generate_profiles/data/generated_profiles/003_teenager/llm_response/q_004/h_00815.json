@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Music Videos describing Lana Del Rey's music videos and related content.",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The page content is unrelated to the query about improving athletic performance; it discusses music videos.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Music Videos \"Here you'll find information and links to Lana Del Rey's music videos. Videos were made to accompany her released singles as normal, aswell as some promotional singles, but there also exist some home made videos to accompany her earlier work. This of course includes the video for Video Games, the o",
+  "history": {
+    "url": "http://lana-del-rey.wikia.com/wiki/Music_Videos",
+    "title": "Music Videos",
+    "description": "\"Here you'll find information and links to Lana Del Rey's music videos. Videos were made to accompany her released singles as normal, aswell as some promotional singles, but there also exist some home made videos to accompany her earlier work. This of course includes the video for Video Games, the o",
+    "frecency": 4130,
+    "url_hash": 14924689921062,
+    "last_visit_date": 1758203927198735
+  }
+}

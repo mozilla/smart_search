@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "What causes Crohn\u00e2s? What causes Crohn\u2019s? The exact causes of Crohn\u2019s disease aren\u2019t known. Diet and stress were once believed. However, we now understand that the causes of this condition are much more complex. Research suggests that it\u2019s an interaction of factors, that a malfunctioning immune respons",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Crohn's disease, not apps or study habits; unrelated to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "What causes Crohn\u00e2s? What causes Crohn\u2019s? The exact causes of Crohn\u2019s disease aren\u2019t known. Diet and stress were once believed to be responsible. However, we now understand that the causes of this condition are much more complex. Research suggests that it\u2019s an interaction of factors, that a malfunctioning immune respons",
+  "history": {
+    "url": "http://www.healthline.com/health/crohns-disease/causes",
+    "title": "What causes Crohn\u00e2s?",
+    "description": "What causes Crohn\u2019s? The exact causes of Crohn\u2019s disease aren\u2019t known. Diet and stress were once believed to be responsible. However, we now understand that the causes of this condition are much more complex. Research suggests that it\u2019s an interaction of factors, that a malfunctioning immune respons",
+    "frecency": 2066,
+    "url_hash": 64739850869502,
+    "last_visit_date": 1758203932633228
+  }
+}

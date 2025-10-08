@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Mail settings you might need from your email provider Mail settings you might need from your email provider If Mail asks you to enter email settings manually, you may need to get the account type, mail server address, and other details listed in this article. Mail automatically uses the correct settings for many email services. That's why you seldom ne",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses configuring mail settings for email providers, not debugging or integrating APIs. It is not about API debugging.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Mail settings you might need from your email provider Mail settings you might need from your email provider If Mail asks you to enter email settings manually, you may need to get the account type, mail server address, and other details listed in this article. Mail automatically uses the correct settings for many email services. That's why you seldom ne",
+  "history": {
+    "url": "https://support.apple.com/en-us/HT203995",
+    "title": "Mail settings you might need from your email provider",
+    "description": "Mail settings you might need from your email provider If Mail asks you to enter email settings manually, you may need to get the account type, mail server address, and other details listed in this article. Mail automatically uses the correct settings for many email services. That's why you seldom ne",
+    "frecency": 4953,
+    "url_hash": 2567220436459,
+    "last_visit_date": 1758203928988111
+  }
+}

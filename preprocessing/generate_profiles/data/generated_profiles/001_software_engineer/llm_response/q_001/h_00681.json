@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Error Message: Cannot delete \u2026 Error while deleting key. Document relates to All Laplink Software. Summary: When attempting to modify or delete registry keys as noted, you may receive an error message. Cannot delete ... Error while deleting key. Cause: When dealing with",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Windows registry error messages; it is not about Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "\"Error Message: \"\"Cannot delete \u00e2\u00a6. Error while deleting key.\"\"\" \"Error Message: \"\"Cannot delete \u2026. Error while deleting key. \"\"Document relates to: All Laplink Software SUMMARYWhen attempting to modify or delete registry keys as noted in some of our articles, you may receive an error message. \"\"Cannot delete ... Error while deleting key. \"\"CAUSEWhen dealing with",
+  "history": {
+    "url": "http://kb.laplink.com/index.php/article/printer/1055",
+    "title": "\"Error Message: \"\"Cannot delete \u00e2\u00a6. Error while deleting key.\"\"\"",
+    "description": "\"Error Message: \"\"Cannot delete \u2026. Error while deleting key. \"\"Document relates to: All Laplink Software SUMMARYWhen attempting to modify or delete registry keys as noted in some of our articles, you may receive an error message. \"\"Cannot delete ... Error while deleting key. \"\"CAUSEWhen dealing with",
+    "frecency": 2685,
+    "url_hash": 41204292259527,
+    "last_visit_date": 1758203927990200
+  }
+}

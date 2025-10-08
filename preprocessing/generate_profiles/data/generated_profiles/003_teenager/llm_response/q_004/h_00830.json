@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Thigh pain \\\"Thigh pain Intro Causes Tests Treatment Symptom Checker Misdiagnosis Deaths Drugs Videos Must Reads in Health Protecting Your Skin During Winter Watch: My Personal Psoriasis Journey Are You Getting The Best Cancer Care? Keeping An Active Lifestyle With COPD Liver Disease? Find a Doc Who Treats PBCAr",
+  "relevance_score": 0.15,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result appears to be a general health article with topics unrelated to improving athletic performance or sports-specific training.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Thigh pain \"Thigh pain Intro Causes Tests Treatment Symptom Checker Misdiagnosis Deaths Drugs Videos Must Reads in Health Protecting Your Skin During Winter Watch: My Personal Psoriasis Journey Are You Getting The Best Cancer Care? Keeping An Active Lifestyle With COPDLiver Disease? Find a Doc Who Treats PBCAr",
+  "history": {
+    "url": "http://www.rightdiagnosis.com/sym/thigh_pain.htm",
+    "title": "Thigh pain",
+    "description": "\"Thigh pain Intro Causes Tests Treatment Symptom Checker Misdiagnosis Deaths Drugs Videos Must Reads in Health Protecting Your Skin During Winter Watch: My Personal Psoriasis Journey Are You Getting The Best Cancer Care? Keeping An Active Lifestyle With COPDLiver Disease? Find a Doc Who Treats PBCAr",
+    "frecency": 4121,
+    "url_hash": 38347050147456,
+    "last_visit_date": 1758203935071228
+  }
+}

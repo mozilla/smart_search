@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Q: I haven't reserved Windows 10 \\\"CA Capricorn Caz asked on August 12, 2015Q: I haven't reserved Windows 10I haven't reserved Windows 10 and don't want to until the bugs are sorted. However - I am on 8.1 - in my windows upgrade every day I get a Windows 10 Failed message. It tries every day to install an operating system I don't wa",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Windows 10 upgrade/reservation issues, not API integration debugging.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Q: I haven't reserved Windows 10 \"CA Capricorn Caz asked on August 12, 2015Q: I haven't reserved Windows 10I haven't reserved Windows 10 and don't want to until the bugs are sorted. However - I am on 8.1 - in my windows upgrade every day I get a Windows 10 Failed message. It tries every day to install an operating system I don't wa",
+  "history": {
+    "url": "http://answers.microsoft.com/en-us/windows/forum/windows8_1-windows_install/i-havent-reserved-windows-10/8a23e872-d501-4929-b0e4-e7304e0a4677",
+    "title": "Q: I haven't reserved Windows 10",
+    "description": "\"CA Capricorn Caz asked on August 12, 2015Q: I haven't reserved Windows 10I haven't reserved Windows 10 and don't want to until the bugs are sorted. However - I am on 8.1 - in my windows upgrade every day I get a Windows 10 Failed message. It tries every day to install an operating system I don't wa",
+    "frecency": 4420,
+    "url_hash": 57811042132605,
+    "last_visit_date": 1758203927738200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Our Services Let's Talk About It Our Services As we believe that by developing the individual you develop the organisation as a whole. Our services and training and development solutions are designed to be customisable, relevant and industry related so that your strategic skills development initiative needs are",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses services and training, not API debugging or integration topics.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Our Services Let's Talk About It Our Services As we believe that by developing the individual you develop the organisation as a whole. Our services and training and development solutions are designed to be customisable, relevant and industry related so that your strategic skills development initiative needs are",
+  "history": {
+    "url": "http://omnihrc.com/",
+    "title": "Our Services",
+    "description": "Let's Talk About It Our Services As we believe that by developing the individual you develop the organisation as a whole. Our services and training and development solutions are designed to be customisable, relevant and industry related so that your strategic skills development initiative needs are ",
+    "frecency": 3010,
+    "url_hash": 90260277049349,
+    "last_visit_date": 1758203929860111
+  }
+}

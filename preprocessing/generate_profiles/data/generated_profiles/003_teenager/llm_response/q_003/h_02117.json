@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "\"What is the John Lennon song \\\"Imagine\\\" about?\" \"Marc Bodnick, Heavy pop music listener Answered Oct 4, 2010 \u00b7 Author has 7.8k answers and 40m answer views Per Wikipedia: In a 1980 interview with David Sheff for Playboy magazine, Lennon remarks on the message of \\\"Imagine\\\": Sheff: On a new album, you close with \\\"Hard Times Are Over (For a While",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses John Lennon and the song 'Imagine,' not about apps for improving study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "\"What is the John Lennon song \"\"Imagine\"\" about?\" \"Marc Bodnick, Heavy pop music listener Answered Oct 4, 2010 \u00b7 Author has 7.8k answers and 40m answer views Per Wikipedia: In a 1980 interview with David Sheff for Playboy magazine, Lennon remarks on the message of \"\"Imagine\"\": Sheff: On a new album, you close with \"\"Hard Times Are Over (For a While",
+  "history": {
+    "url": "https://www.quora.com/What-is-the-John-Lennon-song-Imagine-about",
+    "title": "\"What is the John Lennon song \"\"Imagine\"\" about?\"",
+    "description": "\"Marc Bodnick, Heavy pop music listener Answered Oct 4, 2010 \u00b7 Author has 7.8k answers and 40m answer views Per Wikipedia: In a 1980 interview with David Sheff for Playboy magazine, Lennon remarks on the message of \"\"Imagine\"\": Sheff: On a new album, you close with \"\"Hard Times Are Over (For a While",
+    "frecency": 2813,
+    "url_hash": 78496864184108,
+    "last_visit_date": 1758203935497228
+  }
+}

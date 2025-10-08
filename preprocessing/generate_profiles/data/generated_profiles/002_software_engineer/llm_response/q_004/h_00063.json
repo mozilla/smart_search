@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Overview of Services and Strength Home Overview of Services and Strength Full time law enforcement services, including patrol, traffic, animal control and criminal investigative duties Service of criminal and civil process/papers911 Communications Center Neighborhood watch programs Crime prevention/education programs, including anti",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes law enforcement services and programs, with no mention of Docker or computing, so it is not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Overview of Services and Strength Home Overview of Services and Strength Full time law enforcement services, including patrol, traffic, animal control and criminal investigative duties Service of criminal and civil process/papers911 Communications Center Neighborhood watch programs Crime prevention/education programs, including anti",
+  "history": {
+    "url": "http://www.shawneesheriff.org/",
+    "title": "Overview of Services and Strength",
+    "description": "Home Overview of Services and Strength Full time law enforcement services, including patrol, traffic, animal control and criminal investigative duties Service of criminal and civil process/papers911 Communications Center Neighborhood watch programs Crime prevention/education programs, including anti",
+    "frecency": 4899,
+    "url_hash": 4904253829823,
+    "last_visit_date": 1758203927290111
+  }
+}

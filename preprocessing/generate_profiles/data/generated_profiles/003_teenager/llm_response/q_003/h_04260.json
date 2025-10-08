@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Crowbar (American band) \"Crowbar (American band)From Wikipedia, the free encyclopedianavigation search Crowbar Crowbar performing at Mod Club, Saint Petersburg in 2015. From left to right: Jeff Golden, Kirk Windstein, Matthew Brunson, Tommy Buckley Background information Origin New Orleans, Louisiana, United States Genres",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about the Crowbar American band and contains no information related to study apps or study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Crowbar (American band) \"Crowbar (American band)From Wikipedia, the free encyclopedianavigation search Crowbar Crowbar performing at Mod Club, Saint Petersburg in 2015. From left to right: Jeff Golden, Kirk Windstein, Matthew Brunson, Tommy Buckley Background information Origin New Orleans, Louisiana, United States Genres",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Crowbar_(American_band)",
+    "title": "Crowbar (American band)",
+    "description": "\"Crowbar (American band)From Wikipedia, the free encyclopedianavigation search Crowbar Crowbar performing at Mod Club, Saint Petersburg in 2015. From left to right: Jeff Golden, Kirk Windstein, Matthew Brunson, Tommy Buckley Background information Origin New Orleans, Louisiana, United States Genres ",
+    "frecency": 588,
+    "url_hash": 25520405120872,
+    "last_visit_date": 1758203930321228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "What is the Neolithic Revolution? \\\"The Neolithic Revolution is the transformation of human societies from being hunter-gatherer based to agriculture based. This period, which occurred between 12,000 and 8,000 years ago, brought along many profound changes to human society and culture, including the creation of cities and permanent d",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page is about the Neolithic Revolution, not about apps or study habits; it is not relevant to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "What is the Neolithic Revolution? \"The Neolithic Revolution is the transformation of human societies from being hunter-gatherer based to agriculture based. This period, which occurred between 12,000 and 8,000 years ago, brought along many profound changes to human society and culture, including the creation of cities and permanent d",
+  "history": {
+    "url": "http://www.wisegeek.org/what-is-the-neolithic-revolution.htm",
+    "title": "What is the Neolithic Revolution?",
+    "description": "\"The Neolithic Revolution is the transformation of human societies from being hunter-gatherer based to agriculture based. This period, which occurred between 12,000 and 8,000 years ago, brought along many profound changes to human society and culture, including the creation of cities and permanent d",
+    "frecency": 4102,
+    "url_hash": 4115103075914,
+    "last_visit_date": 1758203926821139
+  }
+}

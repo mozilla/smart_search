@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Promises/A+ Promises/A+An open standard for sound, interoperable Java Script promises\u2014by implementers, for implementers. A promise represents the eventual result of an asynchronous operation. The primary way of interacting with a promise is through its then method, which registers callbacks to receive either a",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses JavaScript Promises (Promises/A+) rather than database query optimization; it is not relevant to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Promises/A+ Promises/A+An open standard for sound, interoperable Java Script promises\u2014by implementers, for implementers. A promise represents the eventual result of an asynchronous operation. The primary way of interacting with a promise is through its then method, which registers callbacks to receive either a",
+  "history": {
+    "url": "https://promisesaplus.com/",
+    "title": "Promises/A+",
+    "description": "Promises/A+An open standard for sound, interoperable Java Script promises\u2014by implementers, for implementers. A promise represents the eventual result of an asynchronous operation. The primary way of interacting with a promise is through its then method, which registers callbacks to receive either a ",
+    "frecency": 2252,
+    "url_hash": 81722840898766,
+    "last_visit_date": 1758203927944111
+  }
+}

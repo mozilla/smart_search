@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "San Jose San Jose70Ranked in the 74 thpercentile San Jose San Jose is ranked #252 in California San Jose is ranked #7,405 in the USALots of Local Amenities Stable Housing Market Sunny Weather High Income per Capita Livability Score Comparison70San Jose61California64USA",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes San Jose rankings and livability metrics, with no reference to debugging or API integration. It is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "San Jose San Jose70Ranked in the 74 thpercentile San Jose San Jose is ranked #252 in California San Jose is ranked #7,405 in the USALots of Local Amenities Stable Housing Market Sunny Weather High Income per Capita Livability Score Comparison70San Jose61California64USA",
+  "history": {
+    "url": "http://www.areavibes.com/san+jose-ca/livability/",
+    "title": "San Jose",
+    "description": "San Jose70Ranked in the 74 thpercentile San Jose San Jose is ranked #252 in California San Jose is ranked #7,405 in the USALots of Local Amenities Stable Housing Market Sunny Weather High Income per Capita Livability Score Comparison70San Jose61California64USA ",
+    "frecency": 4349,
+    "url_hash": 44985976720987,
+    "last_visit_date": 1758203927602111
+  }
+}

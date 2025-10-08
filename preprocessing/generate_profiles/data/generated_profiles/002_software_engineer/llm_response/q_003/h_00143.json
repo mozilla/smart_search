@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "openstack / puppet-ironic - a GitHub repository showing OpenStack Ironic Puppet Module; content appears to be software development tooling rather than database query optimization.",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The result pertains to OpenStack Ironic Puppet Module and GitHub project details, not to database query optimization techniques or topics.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "openstack / puppet-ironic \"Watch 9 Star 45 Fork 17openstack / puppet-ironic Code Pull requests 0Insights Dismiss Join Git Hub today Git Hub is home to over 20 million developers working together to host and review code, manage projects, and build software together. Sign up Open Stack Ironic Puppet Module http://openstack.org",
+  "history": {
+    "url": "https://github.com/openstack/puppet-ironic",
+    "title": "openstack / puppet-ironic",
+    "description": "\"Watch 9 Star 45 Fork 17openstack / puppet-ironic Code Pull requests 0Insights Dismiss Join Git Hub today Git Hub is home to over 20 million developers working together to host and review code, manage projects, and build software together. Sign up Open Stack Ironic Puppet Module http://openstack.org",
+    "frecency": 4760,
+    "url_hash": 95498699608153,
+    "last_visit_date": 1758203930288111
+  }
+}

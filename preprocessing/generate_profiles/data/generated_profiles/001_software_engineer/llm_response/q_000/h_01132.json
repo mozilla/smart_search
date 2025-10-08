@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "What is http://cm.g.doubleclick.net/push?client=ca-pub-3659562450983664.? Pets Cats What is http://cm.g.doubleclick.net/push?client=ca-pub-3659562450983664.? I found this in my history after my boyfriend used my computer. Would love to know what it does, what it is used for, and why. Heard a few different descriptions on the web. Needing to know if I should take steps for",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses a tracking URL and unrelated personal history content, not information about debugging API integrations; therefore it is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "What is http://cm.g.doubleclick.net/push?client=ca-pub-3659562450983664.? Pets Cats What is http://cm.g.doubleclick.net/push?client=ca-pub-3659562450983664.? I found this in my history after my boyfriend used my computer. Would love to know what it does, what it is used for, and why. Heard a few different descriptions on the web. Needing to know if I should take steps for",
+  "history": {
+    "url": "https://answers.yahoo.com/question/index?qid=20131218083407AAzEOES",
+    "title": "What is http://cm.g.doubleclick.net/push?client=ca-pub-3659562450983664.?",
+    "description": "Pets Cats What is http://cm.g.doubleclick.net/push?client=ca-pub-3659562450983664.? I found this in my history after my boyfriend used my computer. Would love to know what it does, what it is used for, and why. Heard a few different descriptions on the web. Needing to know if I should take steps for",
+    "frecency": 1019,
+    "url_hash": 29039164516596,
+    "last_visit_date": 1758203929072200
+  }
+}

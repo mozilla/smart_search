@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Who do I contact to make a complaint? Who do I contact to make a complaint? AXA Insurance For a policy complaint, please contact your local AXA branch To make a complaint with regards to your claims, please contact our claims action line on 1890 24 7 365. Customer Care If we cannot sort out your complaint, you can contact our Customer C",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns AXA insurance complaint contact information and is not related to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Who do I contact to make a complaint? Who do I contact to make a complaint? AXA Insurance For a policy complaint, please contact your local AXA branch To make a complaint with regards to your claims, please contact our claims action line on 1890 24 7 365. Customer Care If we cannot sort out your complaint, you can contact our Customer C",
+  "history": {
+    "url": "http://www.axa.ie/help/complaints-axa-insurance/",
+    "title": "Who do I contact to make a complaint?",
+    "description": "Who do I contact to make a complaint? AXA Insurance For a policy complaint, please contact your local AXA branch To make a complaint with regards to your claims, please contact our claims action line on 1890 24 7 365. Customer Care If we cannot sort out your complaint, you can contact our Customer C",
+    "frecency": 3577,
+    "url_hash": 68735080549444,
+    "last_visit_date": 1758203928046200
+  }
+}

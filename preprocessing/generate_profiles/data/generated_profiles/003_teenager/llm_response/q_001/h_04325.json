@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "Beach Bar \"Clarklake JOINAbout Clarklake Hotels Vacation Rentals Flights Restaurants Things to do Beach Bar, Clarklake United States Michigan (MI) Clarklake Clarklake Restaurants Beach Bar Beach Bar Is this your business?87 Reviews #1 of 4 Restaurants in Clarklake $$ - $$$ American, Bar, Pizza3509 Ocean Beach",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a Beach Bar restaurant in Clarklake, Michigan, with no relation to TikTok trends or 2024 trends; thus it is not relevant to the query.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "Beach Bar \"Clarklake JOINAbout Clarklake Hotels Vacation Rentals Flights Restaurants Things to do Beach Bar, Clarklake United States Michigan (MI) Clarklake Clarklake Restaurants Beach Bar Beach Bar Is this your business?87 Reviews #1 of 4 Restaurants in Clarklake $$ - $$$ American, Bar, Pizza3509 Ocean Beach",
+  "history": {
+    "url": "https://www.tripadvisor.com/Restaurant_Review-g42080-d969602-Reviews-Beach_Bar-Clarklake_Michigan.html",
+    "title": "Beach Bar",
+    "description": "\"Clarklake JOINAbout Clarklake Hotels Vacation Rentals Flights Restaurants Things to do Beach Bar, Clarklake United States Michigan (MI) Clarklake Clarklake Restaurants Beach Bar Beach Bar Is this your business?87 Reviews #1 of 4 Restaurants in Clarklake $$ - $$$ American, Bar, Pizza3509 Ocean Beach",
+    "frecency": 526,
+    "url_hash": 2812740888788,
+    "last_visit_date": 1758203935533228
+  }
+}

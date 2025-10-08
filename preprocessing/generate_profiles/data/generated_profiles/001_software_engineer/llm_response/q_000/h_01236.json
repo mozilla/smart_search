@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Disk formatting article about formatting storage devices; not related to API debugging or integration concepts.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses disk formatting and is unrelated to debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Disk formatting \"From Wikipedia, the free encyclopedianavigation search\"\"Format (computing)\"\" redirects here. For other uses, see Format#Computing. Disk formatting is the process of preparing a data storage device such as a hard disk drive, solid-state drive, floppy disk or USB flash drive for initial use. In some",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Disk_formatting",
+    "title": "Disk formatting",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search\"\"Format (computing)\"\" redirects here. For other uses, see Format#Computing. Disk formatting is the process of preparing a data storage device such as a hard disk drive, solid-state drive, floppy disk or USB flash drive for initial use. In some ",
+    "frecency": 639,
+    "url_hash": 49697440603116,
+    "last_visit_date": 1758203927588200
+  }
+}

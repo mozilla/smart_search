@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Ask The Experts Foundation, Drainage and Water Control \"Ask The Experts Foundation, Drainage and Water Control The concrete foundation of our newly built home is cracked in several locations. Our builder says that this is normal and won't cause any problem. I'm not convinced. How can I fix the problem? A certain degree of cracking is normal in concrete\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses drainage and concrete foundation issues, which is unrelated to Python or machine learning libraries. It does not address the user's query about the latest Python libraries for ML.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Ask The Experts Foundation, Drainage and Water Control \"Ask The Experts Foundation, Drainage and Water Control The concrete foundation of our newly built home is cracked in several locations. Our builder says that this is normal and won't cause any problem. I'm not convinced. How can I fix the problem? A certain degree of cracking is normal in concrete",
+  "history": {
+    "url": "http://www.professionalhome.com/Q-foundation.html",
+    "title": "Ask The Experts Foundation, Drainage and Water Control",
+    "description": "\"Ask The Experts Foundation, Drainage and Water Control The concrete foundation of our newly built home is cracked in several locations. Our builder says that this is normal and won't cause any problem. I'm not convinced. How can I fix the problem? A certain degree of cracking is normal in concrete ",
+    "frecency": 2519,
+    "url_hash": 60466909458139,
+    "last_visit_date": 1758203927296111
+  }
+}

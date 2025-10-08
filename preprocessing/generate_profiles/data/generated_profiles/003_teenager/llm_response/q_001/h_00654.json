@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "Bill Nye the Science Guy \"Bill Nye the Science Guy From Wikipedia, the free encyclopedianavigation search This article is about the TV show. For the host with the same nickname, see Bill Nye. Bill Nye the Science Guy Created by Bill Nye James Mc Kenna Erren Gottlieb Presented by Bill Nye Starring Chais Dean Suzanne Mikawa I",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Bill Nye the Science Guy, not about TikTok trends for 2024; thus not relevant.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "Bill Nye the Science Guy \"Bill Nye the Science Guy From Wikipedia, the free encyclopedianavigation search This article is about the TV show. For the host with the same nickname, see Bill Nye. Bill Nye the Science Guy Created by Bill Nye James Mc Kenna Erren Gottlieb Presented by Bill Nye Starring Chais Dean Suzanne Mikawa I",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Bill_Nye_the_Science_Guy",
+    "title": "Bill Nye the Science Guy",
+    "description": "\"Bill Nye the Science Guy From Wikipedia, the free encyclopedianavigation search This article is about the TV show. For the host with the same nickname, see Bill Nye. Bill Nye the Science Guy Created by Bill Nye James Mc Kenna Erren Gottlieb Presented by Bill Nye Starring Chais Dean Suzanne Mikawa I",
+    "frecency": 4306,
+    "url_hash": 97062632715126,
+    "last_visit_date": 1758203931245228
+  }
+}

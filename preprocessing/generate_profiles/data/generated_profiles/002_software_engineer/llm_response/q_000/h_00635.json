@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Shell Integration \\\"Shell Integrationi Term2 may be integrated with the unix shell so that it can keep track of your command history, current working directory, host name, and more--even over ssh. This enables several useful features. How To Enable Shell Integration The easiest way to install shell integration is to s",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses shell integration with Unix shell, not API integration or debugging; it is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Shell Integration \"Shell Integrationi Term2 may be integrated with the unix shell so that it can keep track of your command history, current working directory, host name, and more--even over ssh. This enables several useful features. How To Enable Shell Integration The easiest way to install shell integration is to s",
+  "history": {
+    "url": "https://iterm2.com/shell_integration.html",
+    "title": "Shell Integration",
+    "description": "\"Shell Integrationi Term2 may be integrated with the unix shell so that it can keep track of your command history, current working directory, host name, and more--even over ssh. This enables several useful features. How To Enable Shell Integration The easiest way to install shell integration is to s",
+    "frecency": 3874,
+    "url_hash": 7538235763649,
+    "last_visit_date": 1758203931872111
+  }
+}

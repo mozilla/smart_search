@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Is a trademark application right for you? \\\"Step 1Is a trademark application right for you? Trademarks, patents, copyrights, domain names, and business name registrations all differ, so it is important to learn whether a trademark is appropriate for you. A trademark typically protects brand names and logos used on goods and services. A paten",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns trademarks and patents, not Docker or its setup; it is not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Is a trademark application right for you? \"Step 1Is a trademark application right for you? Trademarks, patents, copyrights, domain names, and business name registrations all differ, so it is important to learn whether a trademark is appropriate for you. A trademark typically protects brand names and logos used on goods and services. A paten",
+  "history": {
+    "url": "https://www.uspto.gov/trademarks-getting-started/trademark-process",
+    "title": "Is a trademark application right for you?",
+    "description": "\"Step 1Is a trademark application right for you? Trademarks, patents, copyrights, domain names, and business name registrations all differ, so it is important to learn whether a trademark is appropriate for you. A trademark typically protects brand names and logos used on goods and services. A paten",
+    "frecency": 4598,
+    "url_hash": 36383303699584,
+    "last_visit_date": 1758203930426111
+  }
+}

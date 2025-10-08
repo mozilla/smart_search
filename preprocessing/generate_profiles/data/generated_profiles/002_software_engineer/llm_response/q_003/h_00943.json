@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Lake Mead Drops To Lowest Levels Ever As 14-Year Drought Plagues Southwest (PHOTOS) Ethan Miller / Getty Images Empty boat slips protrude from the dock at the abandoned Echo Bay Marina on July 13, 2014 in the Lake Mead National Recreation Area, Nevada. The marina closed last year after no businesses wanted to operate it, in part due to falling water levels according to the National",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns drought and Lake Mead water levels, not database queries or optimization topics.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Lake Mead Drops To Lowest Levels Ever As 14-Year Drought Plagues Southwest (PHOTOS) Ethan Miller / Getty Images Empty boat slips protrude from the dock at the abandoned Echo Bay Marina on July 13, 2014 in the Lake Mead National Recreation Area, Nevada. The marina closed last year after no businesses wanted to operate it, in part due to falling water levels according to the National",
+  "history": {
+    "url": "http://www.huffingtonpost.com/2014/07/19/lake-mead-drops-lowest-levels-ever_n_5601332.html",
+    "title": "Lake Mead Drops To Lowest Levels Ever As 14-Year Drought Plagues Southwest (PHOTOS)",
+    "description": "Ethan Miller / Getty Images Empty boat slips protrude from the dock at the abandoned Echo Bay Marina on July 13, 2014 in the Lake Mead National Recreation Area, Nevada. The marina closed last year after no businesses wanted to operate it, in part due to falling water levels according to the National",
+    "frecency": 3307,
+    "url_hash": 76753993298650,
+    "last_visit_date": 1758203929118111
+  }
+}

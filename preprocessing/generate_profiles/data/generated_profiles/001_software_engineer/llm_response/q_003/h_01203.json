@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "704-444-4444LoginRegister Airport Transportation Medical Visits Grocery Shopping Social Visits Out On The Town Shopping Malls",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result content is unrelated to database query optimization; it appears to be generic navigation text with phone numbers and unrelated services, not about databases.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "704-444-4444LoginRegister Airport Transportation Medical Visits Grocery Shopping Social Visits Out On The Town Shopping Malls",
+  "history": {
+    "url": "http://yellowcabofcharlotte.net/",
+    "title": "704-444-4444LoginRegister",
+    "description": "Airport Transportation Medical Visits Grocery Shopping Social Visits Out On The Town Shopping Malls ",
+    "frecency": 747,
+    "url_hash": 44014460320253,
+    "last_visit_date": 1758203928798200
+  }
+}

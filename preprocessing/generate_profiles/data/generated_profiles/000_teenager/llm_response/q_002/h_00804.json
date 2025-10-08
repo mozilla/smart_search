@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Geek Trivia Geek Trivia If You Have A Butt Load Of Something, How Much Of It Do You Have?4,000 Cubic Centimeters126 Gallons14 Tons50 Yards",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is unrelated to DIY room decoration ideas (it's trivia about volumes), so it is not relevant.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Geek Trivia Geek Trivia If You Have A Butt Load Of Something, How Much Of It Do You Have?4,000 Cubic Centimeters126 Gallons14 Tons50 Yards",
+  "history": {
+    "url": "https://www.howtogeek.com/trivia/if-you-have-a-butt-load-of-something-how-much-of-it-do-you-have/",
+    "title": "Geek Trivia",
+    "description": "Geek Trivia If You Have A Butt Load Of Something, How Much Of It Do You Have?4,000 Cubic Centimeters126 Gallons14 Tons50 Yards ",
+    "frecency": 1474,
+    "url_hash": 84717942207398,
+    "last_visit_date": 1758203927799139
+  }
+}

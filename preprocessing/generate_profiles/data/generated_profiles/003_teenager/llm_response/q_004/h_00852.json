@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Fever and Lupus \\\"Fever and Lupus In this Article Caring For Yourself Fever is often a part of lupus. For some people with lupus, an intermittent (coming and going) or continuous low-grade fever may be normal. Other people, especially those on large doses of aspirin, nonsteroidal anti-inflammatory drugs ( NSAIDs ),\\\"",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses fever and lupus, not sports improvement; it is not relevant to the query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Fever and Lupus \"Fever and Lupus In this Article Caring For Yourself Fever is often a part of lupus. For some people with lupus, an intermittent (coming and going) or continuous low-grade fever may be normal. Other people, especially those on large doses of aspirin, nonsteroidal anti-inflammatory drugs ( NSAIDs ),",
+  "history": {
+    "url": "http://www.webmd.com/lupus/fever",
+    "title": "Fever and Lupus",
+    "description": "\"Fever and Lupus In this Article Caring For Yourself Fever is often a part of lupus. For some people with lupus, an intermittent (coming and going) or continuous low-grade fever may be normal. Other people, especially those on large doses of aspirin, nonsteroidal anti-inflammatory drugs ( NSAIDs ), ",
+    "frecency": 4104,
+    "url_hash": 99662401599216,
+    "last_visit_date": 1758203933581228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Photo, Print, DrawingTown of Blandburg, Blandburg, Cambria County, PA Title Town of Blandburg, Blandburg, Cambria County, PAContributor Names Historic American Buildings Survey, creator Cambria Fire Brick Company Harbison-Walker Refractories Company National Association of Brick, Tile & Terra Cotta Workmen Reif, Otto MBoyd, J AClark, Thomas EAmerica's Industrial Herit",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes historic buildings survey content and is unrelated to debugging API integrations.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Photo, Print, DrawingTown of Blandburg, Blandburg, Cambria County, PA Title Town of Blandburg, Blandburg, Cambria County, PAContributor Names Historic American Buildings Survey, creator Cambria Fire Brick Company Harbison-Walker Refractories Company National Association of Brick, Tile & Terra Cotta Workmen Reif, Otto MBoyd, J AClark, Thomas EAmerica's Industrial Herit",
+  "history": {
+    "url": "https://www.loc.gov/item/pa2820/",
+    "title": "Photo, Print, DrawingTown of Blandburg, Blandburg, Cambria County, PA",
+    "description": "Title Town of Blandburg, Blandburg, Cambria County, PAContributor Names Historic American Buildings Survey, creator Cambria Fire Brick Company Harbison-Walker Refractories Company National Association of Brick, Tile & Terra Cotta Workmen Reif, Otto MBoyd, J AClark, Thomas EAmerica's Industrial Herit",
+    "frecency": 1410,
+    "url_hash": 11870896815367,
+    "last_visit_date": 1758203928100200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "What is update.exe? \"Microsoft Partner Silver Application Developmentfile. net Home Files Software News Contact What is update.exe? The .exe extension on a filename indicates an exe cutable file. Executable files may, in some cases, harm your computer. Therefore, please read below to decide for yourself whether the upd",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The result discusses update.exe and Windows executables, not Docker setup or beginner Docker guidance; thus it is not relevant.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "What is update.exe? \"Microsoft Partner Silver Application Developmentfile. net Home Files Software News Contact What is update.exe? The .exe extension on a filename indicates an exe cutable file. Executable files may, in some cases, harm your computer. Therefore, please read below to decide for yourself whether the upd",
+  "history": {
+    "url": "http://www.file.net/process/update.exe.html",
+    "title": "What is update.exe?",
+    "description": "\"Microsoft Partner Silver Application Developmentfile. net Home Files Software News Contact What is update.exe? The .exe extension on a filename indicates an exe cutable file. Executable files may, in some cases, harm your computer. Therefore, please read below to decide for yourself whether the upd",
+    "frecency": 3355,
+    "url_hash": 34247730517328,
+    "last_visit_date": 1758203926780200
+  }
+}

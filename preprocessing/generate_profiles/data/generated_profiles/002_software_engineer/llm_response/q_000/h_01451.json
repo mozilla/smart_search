@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Featured Video Featured Video Lamar CISD Goes to the Houston Rodeo Your browser does not currently recognize any of the video formats available. Click here to visit our frequently asked questions about HTML5 video.0:00 / 1:48Lamar CISD Goes to the Houston Rodeo March 26, 2018Our FFA students represented Lamar CISD",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a video about Lamar CISD and the Houston Rodeo; it does not pertain to debugging API integrations.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Featured Video Featured Video Lamar CISD Goes to the Houston Rodeo Your browser does not currently recognize any of the video formats available. Click here to visit our frequently asked questions about HTML5 video.0:00 / 1:48Lamar CISD Goes to the Houston Rodeo March 26, 2018Our FFA students represented Lamar CISD",
+  "history": {
+    "url": "http://www.lcisd.org/",
+    "title": "Featured Video",
+    "description": "Featured Video Lamar CISD Goes to the Houston Rodeo Your browser does not currently recognize any of the video formats available. Click here to visit our frequently asked questions about HTML5 video.0:00 / 1:48Lamar CISD Goes to the Houston Rodeo March 26, 2018Our FFA students represented Lamar CISD",
+    "frecency": 2368,
+    "url_hash": 70364278180500,
+    "last_visit_date": 1758203929776111
+  }
+}

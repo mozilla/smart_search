@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "System.Exception: Call to Node module failed with error: ReferenceError: vendor_bef64aafaccadcc9d876 is not defined #188 Watch 318 Star 2,884 Fork 492aspnet / Java Script Services Code Issues 17 Pull requests 4Projects 0Wiki Insights Dismiss Join Git Hub today Git Hub is home to over 20 million developers working together to host and review code, manage projects, and build software together. Sign up New issue System.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a Node/JavaScript GitHub issue page and a system exception, not about Python libraries or machine learning; thus it is not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "System.Exception: Call to Node module failed with error: ReferenceError: vendor_bef64aafaccadcc9d876 is not defined #188 Watch 318 Star 2,884 Fork 492aspnet / Java Script Services Code Issues 17 Pull requests 4Projects 0Wiki Insights Dismiss Join Git Hub today Git Hub is home to over 20 million developers working together to host and review code, manage projects, and build software together. Sign up New issue System.",
+  "history": {
+    "url": "https://github.com/aspnet/JavaScriptServices/issues/188",
+    "title": "System.Exception: Call to Node module failed with error: ReferenceError: vendor_bef64aafaccadcc9d876 is not defined #188",
+    "description": "Watch 318 Star 2,884 Fork 492aspnet / Java Script Services Code Issues 17 Pull requests 4Projects 0Wiki Insights Dismiss Join Git Hub today Git Hub is home to over 20 million developers working together to host and review code, manage projects, and build software together. Sign up New issue System. ",
+    "frecency": 4327,
+    "url_hash": 61082190506078,
+    "last_visit_date": 1758203927688111
+  }
+}

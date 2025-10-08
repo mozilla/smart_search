@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "What is Spectrum? What is Spectrum? Rate This Spectrum is a full suite of communications services with everything your household needs to stay connected. Learn more about how to get Spectrum for your home. Looking for Spectrum support? Follow the links below to find additional information, or visit Spectrum support.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Spectrum services and support, unrelated to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "What is Spectrum? What is Spectrum? Rate This Spectrum is a full suite of communications services with everything your household needs to stay connected. Learn more about how to get Spectrum for your home. Looking for Spectrum support? Follow the links below to find additional information, or visit Spectrum support.",
+  "history": {
+    "url": "http://www.charter.net/support/charter-spectrum",
+    "title": "What is Spectrum?",
+    "description": "What is Spectrum? Rate This Spectrum is a full suite of communications services with everything your household needs to stay connected. Learn more about how to get Spectrum for your home. Looking for Spectrum support? Follow the links below to find additional information, or visit Spectrum support. ",
+    "frecency": 3736,
+    "url_hash": 49943908693326,
+    "last_visit_date": 1758203930645228
+  }
+}

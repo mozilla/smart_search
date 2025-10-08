@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Are Rice Cakes Healthy to Eat Related Articles Are Boiled Eggs Healthy to Eat? Are Baked Potato Chips Healthy? White Cheddar Rice Cake Nutrients What Are the Health Benefits of Nutella Hazelnut Spread? Rice cakes are commonly thought of as a diet food because they are low in fat and calories. Though a rice cake doesn't supply yo",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses health and nutrition of foods (rice cakes), not DIY room decoration ideas; it is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Are Rice Cakes Healthy to Eat Related Articles Are Boiled Eggs Healthy to Eat? Are Baked Potato Chips Healthy? White Cheddar Rice Cake Nutrients What Are the Health Benefits of Nutella Hazelnut Spread? Rice cakes are commonly thought of as a diet food because they are low in fat and calories. Though a rice cake doesn't supply yo",
+  "history": {
+    "url": "http://healthyeating.sfgate.com/rice-cakes-healthy-eat-1953.html",
+    "title": "Are Rice Cakes Healthy to Eat",
+    "description": "Related Articles Are Boiled Eggs Healthy to Eat? Are Baked Potato Chips Healthy? White Cheddar Rice Cake Nutrients What Are the Health Benefits of Nutella Hazelnut Spread? Rice cakes are commonly thought of as a diet food because they are low in fat and calories. Though a rice cake doesn't supply yo",
+    "frecency": 1085,
+    "url_hash": 30480316186131,
+    "last_visit_date": 1758203933687228
+  }
+}

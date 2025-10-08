@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "National Cemetery Administration VA \u00bb National Cemetery Administration \u00bb Presidential Memorial Certificates National Cemetery Administration Presidential Memorial Certificates A Presidential Memorial Certificate (PMC) is an engraved paper certificate, signed by the current President, to honor the memory of deceased Veterans who are",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result pertains to Veterans Affairs and Presidential Memorial Certificates, not about Python libraries or machine learning; it is unrelated to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "National Cemetery Administration VA \u00bb National Cemetery Administration \u00bb Presidential Memorial Certificates National Cemetery Administration Presidential Memorial Certificates A Presidential Memorial Certificate (PMC) is an engraved paper certificate, signed by the current President, to honor the memory of deceased Veterans who are",
+  "history": {
+    "url": "http://www.cem.va.gov/cem/pmc.asp",
+    "title": "National Cemetery Administration",
+    "description": "VA \u00bb National Cemetery Administration \u00bb Presidential Memorial Certificates National Cemetery Administration Presidential Memorial Certificates A Presidential Memorial Certificate (PMC) is an engraved paper certificate, signed by the current President, to honor the memory of deceased Veterans who are",
+    "frecency": 2872,
+    "url_hash": 19290531902956,
+    "last_visit_date": 1758203931694111
+  }
+}

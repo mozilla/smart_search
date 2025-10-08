@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Dominican Republic country profile Dominican Republic country profile Once ruled by Spain, the Dominican Republic shares the island of Hispaniola with Haiti, a former French colony. The Caribbean nation is a major tourist destination. This, coupled with free-trade zones, has become the country's major employer and key sources of reve",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about the Dominican Republic and tourism, not about database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Dominican Republic country profile Dominican Republic country profile Once ruled by Spain, the Dominican Republic shares the island of Hispaniola with Haiti, a former French colony. The Caribbean nation is a major tourist destination. This, coupled with free-trade zones, has become the country's major employer and key sources of reve",
+  "history": {
+    "url": "http://news.bbc.co.uk/2/hi/americas/country_profiles/1216926.stm",
+    "title": "Dominican Republic country profile",
+    "description": "Dominican Republic country profile Once ruled by Spain, the Dominican Republic shares the island of Hispaniola with Haiti, a former French colony. The Caribbean nation is a major tourist destination. This, coupled with free-trade zones, has become the country's major employer and key sources of reve",
+    "frecency": 401,
+    "url_hash": 50414655148288,
+    "last_visit_date": 1758203927562111
+  }
+}

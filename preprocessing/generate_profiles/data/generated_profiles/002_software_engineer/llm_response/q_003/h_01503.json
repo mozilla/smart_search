@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "AOL Desktop Software: Features AOL Desktop Software: Features Learn more about the features of the AOL Desktop Software like using mail and browsing the web. Click a heading below to learn more about using mail and the web browser in the AOL Desktop Software. Using Mail in the AOL Desktop Software Using the Web Browser",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The page discusses AOL Desktop Software features (mail and web browser) and is unrelated to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "AOL Desktop Software: Features AOL Desktop Software: Features Learn more about the features of the AOL Desktop Software like using mail and browsing the web. Click a heading below to learn more about using mail and the web browser in the AOL Desktop Software. Using Mail in the AOL Desktop Software Using the Web Browser",
+  "history": {
+    "url": "https://help.aol.com/articles/aol-desktop-software-features",
+    "title": "AOL Desktop Software: Features",
+    "description": "AOL Desktop Software: Features Learn more about the features of the AOL Desktop Software like using mail and browsing the web. Click a heading below to learn more about using mail and the web browser in the AOL Desktop Software. Using Mail in the AOL Desktop Software Using the Web Browser ",
+    "frecency": 2273,
+    "url_hash": 77708186144234,
+    "last_visit_date": 1758203929270111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "ABOUT 117 ABOUT 117117 Entertainment Group is a multi-faceted entertainment firm specializing in publicity and marketing campaigns for musicians, events and brands as well as artist management and development. Their unique approach centers around the artist as a brand, utilizing new and traditional outreach m",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses entertainment marketing and artist management, not guidance or strategies for improving performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "ABOUT 117 ABOUT 117117 Entertainment Group is a multi-faceted entertainment firm specializing in publicity and marketing campaigns for musicians, events and brands as well as artist management and development. Their unique approach centers around the artist as a brand, utilizing new and traditional outreach m",
+  "history": {
+    "url": "http://117group.com/about/",
+    "title": "ABOUT 117",
+    "description": "ABOUT 117117 Entertainment Group is a multi-faceted entertainment firm specializing in publicity and marketing campaigns for musicians, events and brands as well as artist management and development. Their unique approach centers around the artist as a brand, utilizing new and traditional outreach m",
+    "frecency": 4894,
+    "url_hash": 32309115056718,
+    "last_visit_date": 1758203930987228
+  }
+}

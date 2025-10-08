@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Clipboard \"From Wikipedia, the free encyclopedianavigation search For the clipboard used in software, see Clipboard (computing). A wooden clipboard A clipboard is a thin, rigid board with a clip at the top for holding paper in place. A clipboard is typically used to support paper with one hand while writing o",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a clipboard (a physical object) and unrelated to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Clipboard \"From Wikipedia, the free encyclopedianavigation search For the clipboard used in software, see Clipboard (computing). A wooden clipboard A clipboard is a thin, rigid board with a clip at the top for holding paper in place. A clipboard is typically used to support paper with one hand while writing o",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Clipboard",
+    "title": "Clipboard",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search For the clipboard used in software, see Clipboard (computing). A wooden clipboard A clipboard is a thin, rigid board with a clip at the top for holding paper in place. A clipboard is typically used to support paper with one hand while writing o",
+    "frecency": 3491,
+    "url_hash": 16232034301375,
+    "last_visit_date": 1758203929184111
+  }
+}

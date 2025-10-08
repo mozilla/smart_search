@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Explore Bar Cart, Cocktail Recipes, and more!",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page is about cocktails and bar accessories, not about sports or improving athletic performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Explore Bar Cart, Cocktail Recipes, and more!",
+  "history": {
+    "url": "https://www.pinterest.com/pin/60587557459141420/",
+    "title": "Explore Bar Cart, Cocktail Recipes, and more!",
+    "description": "",
+    "frecency": 4617,
+    "url_hash": 39905851280213,
+    "last_visit_date": 1758203927502735
+  }
+}

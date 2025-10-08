@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "Gwinnett County Transit About Us Gwinnett County Transit began express bus service in 2001 and local bus service in 2002. GCT operates commuter express bus, local bus and paratransit service as part of the department mission to enhance quality of life by facilitating the mobility of people and goods safely and efficiently.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a transit agency and its services, not TikTok trends; it is not relevant to the query.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "Gwinnett County Transit About Us Gwinnett County Transit began express bus service in 2001 and local bus service in 2002. GCT operates commuter express bus, local bus and paratransit service as part of the department mission to \u201cenhance quality of life by facilitating the mobility of people and goods safely and efficiently",
+  "history": {
+    "url": "https://www.gwinnettcounty.com/portal/gwinnett/Departments/Transportation/GwinnettCountyTransit",
+    "title": "Gwinnett County Transit",
+    "description": "About Us Gwinnett County Transit began express bus service in 2001 and local bus service in 2002. GCT operates commuter express bus, local bus and paratransit service as part of the department mission to \u201cenhance quality of life by facilitating the mobility of people and goods safely and efficiently",
+    "frecency": 1674,
+    "url_hash": 64811920659659,
+    "last_visit_date": 1758203935303228
+  }
+}

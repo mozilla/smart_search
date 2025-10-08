@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Crossgates Mall no longer sells Gift Cards 110 Grill Restaurant Opening this Summer ZARA NOW OPENLEARN MORETrampoline Park GET AIR Coming Soon!Crossgates Mall no longer sells Gift Cards Click here to check your balance EAT Shop Play Eat. Shop. Play. at Crossgates Mall, the Capital Region\u2019s premier destination. With more than 180 retail shops",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns a shopping mall and gift cards, not DIY room decoration ideas; it is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Crossgates Mall no longer sells Gift Cards 110 Grill Restaurant Opening this Summer ZARA NOW OPENLEARN MORETrampoline Park GET AIR Coming Soon!Crossgates Mall no longer sells Gift Cards Click here to check your balance EAT Shop Play Eat. Shop. Play. at Crossgates Mall, the Capital Region\u2019s premier destination. With more than 180 retail shops",
+  "history": {
+    "url": "https://www.shopcrossgates.com/",
+    "title": "Crossgates Mall no longer sells Gift Cards",
+    "description": "110 Grill Restaurant Opening this Summer ZARA NOW OPENLEARN MORETrampoline Park GET AIR Coming Soon!Crossgates Mall no longer sells Gift Cards Click here to check your balance EAT Shop Play Eat. Shop. Play. at Crossgates Mall, the Capital Region\u2019s premier destination. With more than 180 retail shops",
+    "frecency": 2267,
+    "url_hash": 97115974627674,
+    "last_visit_date": 1758203928151139
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Grounding and Bonding Grounding and Bonding A brief introduction to grounding systems is provided in IEEE Std 142-2007, the definition of \u201cground\u201d is \u201ca conducting connection, whether intentional or accidental, between an electrical circuit or equipment and the earth, or to some other body that serves in place of the ear",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses electrical grounding and bonding, not Docker or container setup; unrelated to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Grounding and Bonding Grounding and Bonding A brief introduction to grounding systems is provided in IEEE Std 142-2007, the definition of \u201cground\u201d is \u201ca conducting connection, whether intentional or accidental, between an electrical circuit or equipment and the earth, or to some other body that serves in place of the ear",
+  "history": {
+    "url": "http://www.nemasurge.org/grounding/",
+    "title": "Grounding and Bonding",
+    "description": "Grounding and Bonding A brief introduction to grounding systems is provided in IEEE Std 142-2007, the definition of \u201cground\u201d is \u201ca conducting connection, whether intentional or accidental, between an electrical circuit or equipment and the earth, or to some other body that serves in place of the ear",
+    "frecency": 4528,
+    "url_hash": 37957926105580,
+    "last_visit_date": 1758203932342111
+  }
+}

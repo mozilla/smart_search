@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Is McDonald's a vertically integrated business? \"I have to admit, I had to look up what vertical integration for a business was *blush*. I can't imagine I can explain this better than Richard Widman did in his answer ( Richard Widman's answer to Is Mc Donald's a vertically integrated business? in case this question blows up), but I'll just put my",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses McDonald's vertical integration and is unrelated to IDEs or software development topics.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Is McDonald's a vertically integrated business? \"I have to admit, I had to look up what vertical integration for a business was *blush*. I can't imagine I can explain this better than Richard Widman did in his answer ( Richard Widman's answer to Is Mc Donald's a vertically integrated business? in case this question blows up), but I'll just put my",
+  "history": {
+    "url": "https://www.quora.com/Is-McDonalds-a-vertically-integrated-business",
+    "title": "Is McDonald's a vertically integrated business?",
+    "description": "\"I have to admit, I had to look up what vertical integration for a business was *blush*. I can't imagine I can explain this better than Richard Widman did in his answer ( Richard Widman's answer to Is Mc Donald's a vertically integrated business? in case this question blows up), but I'll just put my",
+    "frecency": 2069,
+    "url_hash": 7114532370270,
+    "last_visit_date": 1758203927232111
+  }
+}

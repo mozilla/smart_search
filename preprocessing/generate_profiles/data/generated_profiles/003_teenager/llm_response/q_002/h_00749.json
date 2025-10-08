@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "How to Qualify for the Maximum Social Security Benefit My wife and I are about to retire. We\u2019re both 66. Is there a combined maximum that the Social Security system will pay to a household? If not, how do each of us qualify for the maximum amount? SPECIAL REPORT: Maximizing Social Security Benefits Your Social Security benefits are calculated based on y",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Social Security benefits, retirement, and maximum payments rather than home decor or DIY room decoration ideas. Topic is unrelated to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "How to Qualify for the Maximum Social Security Benefit My wife and I are about to retire. We\u2019re both 66. Is there a combined maximum that the Social Security system will pay to a household? If not, how do each of us qualify for the maximum amount? SPECIAL REPORT: Maximizing Social Security Benefits Your Social Security benefits are calculated based on y",
+  "history": {
+    "url": "http://www.kiplinger.com/article/retirement/T051-C001-S001-how-to-qualify-for-the-maximum-social-security-ben.html",
+    "title": "How to Qualify for the Maximum Social Security Benefit",
+    "description": "My wife and I are about to retire. We\u2019re both 66. Is there a combined maximum that the Social Security system will pay to a household? If not, how do each of us qualify for the maximum amount? SPECIAL REPORT: Maximizing Social Security Benefits Your Social Security benefits are calculated based on y",
+    "frecency": 4195,
+    "url_hash": 89668313921803,
+    "last_visit_date": 1758203930147228
+  }
+}

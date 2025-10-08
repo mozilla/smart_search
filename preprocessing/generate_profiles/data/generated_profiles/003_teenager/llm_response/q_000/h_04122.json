@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "What car is James Bond (Daniel Craig) driving in the new Spectre trailer? Mike Ciaraldi, First Bond film seen: Thunderball, in the theater when it came out. Answered Nov 24, 2015 \u00b7 Author has 294 answers and 359.5k answer views Specifically, it is a DB10, many generations removed from the DB5 which Bond drove in the movie version of Goldfinger and several other films, and",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses James Bond cars and is unrelated to starting or creating a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "What car is James Bond (Daniel Craig) driving in the new Spectre trailer? Mike Ciaraldi, First Bond film seen: Thunderball, in the theater when it came out. Answered Nov 24, 2015 \u00b7 Author has 294 answers and 359.5k answer views Specifically, it is a DB10, many generations removed from the DB5 which Bond drove in the movie version of Goldfinger and several other films, and",
+  "history": {
+    "url": "https://www.quora.com/What-car-is-James-Bond-Daniel-Craig-driving-in-the-new-Spectre-trailer",
+    "title": "What car is James Bond (Daniel Craig) driving in the new Spectre trailer?",
+    "description": "Mike Ciaraldi, First Bond film seen: Thunderball, in the theater when it came out. Answered Nov 24, 2015 \u00b7 Author has 294 answers and 359.5k answer views Specifically, it is a DB10, many generations removed from the DB5 which Bond drove in the movie version of Goldfinger and several other films, and",
+    "frecency": 739,
+    "url_hash": 28565192413768,
+    "last_visit_date": 1758203933463228
+  }
+}

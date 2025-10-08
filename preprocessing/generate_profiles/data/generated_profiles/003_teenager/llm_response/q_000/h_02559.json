@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Things to know about health insurance and your taxes January 09, 2015Things to know about health insurance and your taxes IMPORTANT: This page is out-of-date Get the latest information here. Did you know that your health coverage may affect your taxes? If anyone in your household enrolled in a Marketplace plan in 2014, you\u2019ll need some new information",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page discusses health insurance and taxes, not information about starting a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Things to know about health insurance and your taxes January 09, 2015Things to know about health insurance and your taxes IMPORTANT: This page is out-of-date Get the latest information here. Did you know that your health coverage may affect your taxes? If anyone in your household enrolled in a Marketplace plan in 2014, you\u2019ll need some new information",
+  "history": {
+    "url": "https://www.healthcare.gov/blog/things-to-know-about-health-insurance-and-your-taxes/",
+    "title": "Things to know about health insurance and your taxes",
+    "description": "January 09, 2015Things to know about health insurance and your taxes IMPORTANT: This page is out-of-date Get the latest information here. Did you know that your health coverage may affect your taxes? If anyone in your household enrolled in a Marketplace plan in 2014, you\u2019ll need some new information",
+    "frecency": 2371,
+    "url_hash": 97469792243751,
+    "last_visit_date": 1758203929765228
+  }
+}

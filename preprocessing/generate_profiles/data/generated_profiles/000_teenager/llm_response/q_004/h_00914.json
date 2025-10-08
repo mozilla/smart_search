@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Ice Cube, Iverson starting 3-on-3 hoops league with former pros \\\"Ice Cube, Iverson starting 3-on-3 hoops league with former pros BIG3 expected to begin June 24Doug Feinberg \u00b7 The Associated Press \u00b7 January 11, 2017Former NBA player Allen Iverson, left, shows his jersey as he poses with entertainer Ice Cube at the announcement to launch the BIG3, a new 3-on-3 pro",
+  "relevance_score": 0.15,
+  "binary_decision": 0,
+  "Decision_Reason": "The article discusses the launch of a 3-on-3 basketball league and its participants, not guidance or strategies to improve athletic performance or skills.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Ice Cube, Iverson starting 3-on-3 hoops league with former pros \"Ice Cube, Iverson starting 3-on-3 hoops league with former pros BIG3 expected to begin June 24Doug Feinberg \u00b7 The Associated Press \u00b7 January 11, 2017Former NBA player Allen Iverson, left, shows his jersey as he poses with entertainer Ice Cube at the announcement to launch the BIG3, a new 3-on-3 pro",
+  "history": {
+    "url": "http://www.cbc.ca/sports/basketball/nba/ice-cube-iverson-starting-3-on-3-hoops-league-with-former-pros-1.3931689",
+    "title": "Ice Cube, Iverson starting 3-on-3 hoops league with former pros",
+    "description": "\"Ice Cube, Iverson starting 3-on-3 hoops league with former pros BIG3 expected to begin June 24Doug Feinberg \u00b7 The Associated Press \u00b7 January 11, 2017Former NBA player Allen Iverson, left, shows his jersey as he poses with entertainer Ice Cube at the announcement to launch the BIG3, a new 3-on-3 pro",
+    "frecency": 964,
+    "url_hash": 13422745256796,
+    "last_visit_date": 1758203927859139
+  }
+}

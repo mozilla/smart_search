@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Salon TVNewsPoliticsEntertainmentLifeInnovationPodcastsAboutNews Politics Entertainment Life Innovation Salon TVNews Politics Entertainment Life Innovation Podcasts About",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "Retrieved result appears to be a generic Salon homepage/navigation with politics/entertainment/life sections, not about sports or improving athletic performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Salon TVNewsPoliticsEntertainmentLifeInnovationPodcastsAboutNews Politics Entertainment Life Innovation Salon TVNews Politics Entertainment Life Innovation Podcasts About",
+  "history": {
+    "url": "http://www.salon.com/2013/04/15/psst_tax_deadline_not_much_of_a_deadline_for_most_ap/",
+    "title": "Salon TVNewsPoliticsEntertainmentLifeInnovationPodcastsAboutNews Politics Entertainment Life Innovation",
+    "description": "Salon TVNews Politics Entertainment Life Innovation Podcasts About ",
+    "frecency": 2148,
+    "url_hash": 42012218936423,
+    "last_visit_date": 1758203934795228
+  }
+}

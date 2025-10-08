@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "The Music of George M. Cohan. \\\"The Music of George M. Cohan. That Yankee Doodle Boy This month we look at the music of one of America's greatest songwriters, stage personalities and patriots, George M. Cohan. Cohan and his music are eternally enshrined in America's musical heritage through his melodies as well as images created",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns George M. Cohan and music history, not API integration debugging. It has no relevance to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "The Music of George M. Cohan. \"The Music of George M. Cohan. That Yankee Doodle Boy This month we look at the music of one of America's greatest songwriters, stage personalities and patriots, George M. Cohan. Cohan and his music are eternally enshrined in America's musical heritage through his melodies as well as images created",
+  "history": {
+    "url": "http://parlorsongs.com/issues/2004-7/thismonth/feature.php",
+    "title": "The Music of George M. Cohan.",
+    "description": "\"The Music of George M. Cohan. That Yankee Doodle Boy This month we look at the music of one of America's greatest songwriters, stage personalities and patriots, George M. Cohan. Cohan and his music are eternally enshrined in America's musical heritage through his melodies as well as images created ",
+    "frecency": 4593,
+    "url_hash": 16871935433224,
+    "last_visit_date": 1758203932346111
+  }
+}

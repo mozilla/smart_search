@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Inception \\\"Original Theatrical Date: July 16, 2010OSCAR WINNER: Best Cinematography Best Visual Effects Best Sound Best Sound Mixing Nominated for eight Academy Awards, including \\\"\\\"Best Picture,\\\"\\\" and winner of four, Inception \u2014directed by acclaimed filmmaker Christopher Nolan\u2014features an international cast i",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a film (Inception) and awards, not related to improving skills or performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Inception \"Original Theatrical Date: July 16, 2010OSCAR WINNER: Best Cinematography Best Visual Effects Best Sound Best Sound Mixing Nominated for eight Academy Awards, including \"\"Best Picture,\"\" and winner of four, Inception \u2014directed by acclaimed filmmaker Christopher Nolan\u2014features an international cast i",
+  "history": {
+    "url": "https://www.warnerbros.com/inception",
+    "title": "Inception",
+    "description": "\"Original Theatrical Date: July 16, 2010OSCAR WINNER: Best Cinematography Best Visual Effects Best Sound Best Sound Mixing Nominated for eight Academy Awards, including \"\"Best Picture,\"\" and winner of four, Inception \u2014directed by acclaimed filmmaker Christopher Nolan\u2014features an international cast i",
+    "frecency": 395,
+    "url_hash": 81131881214708,
+    "last_visit_date": 1758203927261139
+  }
+}

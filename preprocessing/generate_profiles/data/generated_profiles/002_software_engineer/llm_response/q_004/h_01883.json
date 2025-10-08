@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "What is a Grant Writer? A grant writer has many duties that involve researching and writing grant proposals for funding for a corporation, nonprofit organization, or government agency. Because this person must have a broad knowledge of what the business or organization provides, he or she must understand the program, its f",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses grant writing, unrelated to Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "What is a Grant Writer? A grant writer has many duties that involve researching and writing grant proposals for funding for a corporation, nonprofit organization, or government agency. Because this person must have a broad knowledge of what the business or organization provides, he or she must understand the program, its f",
+  "history": {
+    "url": "http://www.wisegeek.org/what-is-a-grant-writer.htm",
+    "title": "What is a Grant Writer?",
+    "description": "A grant writer has many duties that involve researching and writing grant proposals for funding for a corporation, nonprofit organization, or government agency. Because this person must have a broad knowledge of what the business or organization provides, he or she must understand the program, its f",
+    "frecency": 1556,
+    "url_hash": 19787205974787,
+    "last_visit_date": 1758203930612111
+  }
+}

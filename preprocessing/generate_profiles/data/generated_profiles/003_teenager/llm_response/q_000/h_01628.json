@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "L.A. Guns article (music band) from Wikipedia.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a rock band (L.A. Guns) and not related to starting a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "L.A. Guns \"From Wikipedia, the free encyclopedia (Redirected from Michael Jagosz)navigation search L. A. Guns Background information Origin Los Angeles, California, United States Genres Hard rock, glam metal Years active 1983\u2013present Labels Poly Gram, Vertigo, Polydor, CMC, Spitfire, Deadline Music- Cleopatra",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Michael_Jagosz",
+    "title": "L.A. Guns",
+    "description": "\"From Wikipedia, the free encyclopedia (Redirected from Michael Jagosz)navigation search L. A. Guns Background information Origin Los Angeles, California, United States Genres Hard rock, glam metal Years active 1983\u2013present Labels Poly Gram, Vertigo, Polydor, CMC, Spitfire, Deadline Music- Cleopatra",
+    "frecency": 3325,
+    "url_hash": 12115786152988,
+    "last_visit_date": 1758203936459727
+  }
+}

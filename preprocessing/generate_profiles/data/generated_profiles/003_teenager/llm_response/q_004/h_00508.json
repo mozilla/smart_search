@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Longbow \"Longbow The longbow was used in the Middle Ages both for hunting and as a weapon of war and reached its zenith of perfection as a weapon in the hands of English and Welsh archers. The longbow was first recorded as being used by the Welsh in 633 C. E., when Offrid, the son of Edwin, king of Northumb",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses a medieval longbow, not content about improving sports performance or skills.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Longbow \"Longbow The longbow was used in the Middle Ages both for hunting and as a weapon of war and reached its zenith of perfection as a weapon in the hands of English and Welsh archers. The longbow was first recorded as being used by the Welsh in 633 C. E., when Offrid, the son of Edwin, king of Northumb",
+  "history": {
+    "url": "http://www.themiddleages.net/longbow.html",
+    "title": "Longbow",
+    "description": "\"Longbow The longbow was used in the Middle Ages both for hunting and as a weapon of war and reached its zenith of perfection as a weapon in the hands of English and Welsh archers. The longbow was first recorded as being used by the Welsh in 633 C. E., when Offrid, the son of Edwin, king of Northumb",
+    "frecency": 4464,
+    "url_hash": 88097612180343,
+    "last_visit_date": 1758203931865228
+  }
+}

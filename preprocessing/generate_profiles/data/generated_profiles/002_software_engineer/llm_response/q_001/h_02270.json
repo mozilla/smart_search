@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "UC Berkeley tops Forbes list of best value colleges By Michelle Robertson, SFGATE Updated 4:00 am, Monday, May 1, 2017. Image 1 of 33. Click through to see which schools ranked best for return on investment, according to Forbes Magazine. University enrollment is steadily growing, having increased by 21",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about university value/ROI rankings, not about Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "UC Berkeley tops Forbes list of best value colleges \"UC Berkeley tops Forbes list of best value colleges By Michelle Robertson, SFGATEUpdated 4:00 am, Monday, May 1, 2017Image 1 of 33Click through to see which schools ranked best for return on investment, according to Forbes Magazine. University enrollment is steadily growing, having increased by 21",
+  "history": {
+    "url": "http://www.sfgate.com/education/article/berkeley-forbes-colleges-universities-best-value-11107834.php",
+    "title": "UC Berkeley tops Forbes list of best value colleges",
+    "description": "\"UC Berkeley tops Forbes list of best value colleges By Michelle Robertson, SFGATEUpdated 4:00 am, Monday, May 1, 2017Image 1 of 33Click through to see which schools ranked best for return on investment, according to Forbes Magazine. University enrollment is steadily growing, having increased by 21 ",
+    "frecency": 898,
+    "url_hash": 53236215976852,
+    "last_visit_date": 1758203930464111
+  }
+}

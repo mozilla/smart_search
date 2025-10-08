@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Comcor Inc Physician Directory Hospital Directory Pharmacy Directory Insurance Directory Comcor Inc1 Practicing Physician1 Specialty2723 N Nevada Ave Colorado Springs, CO 809071 Office Location Overview & Locations Physicians at this Practice Insurance Affiliations Get Directions About Comcor Inc Comcor Inc is",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a physician directory listing and unrelated to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Comcor Inc Physician Directory Hospital Directory Pharmacy Directory Insurance Directory Comcor Inc1 Practicing Physician1 Specialty2723 N Nevada Ave Colorado Springs, CO 809071 Office Location Overview & Locations Physicians at this Practice Insurance Affiliations Get Directions About Comcor Inc Comcor Inc is",
+  "history": {
+    "url": "https://doctor.webmd.com/practice/comcor-inc-9444a41a-7b9a-e311-9e77-001f29e3eb44-overview",
+    "title": "Comcor Inc",
+    "description": "Physician Directory Hospital Directory Pharmacy Directory Insurance Directory Comcor Inc1 Practicing Physician1 Specialty2723 N Nevada Ave Colorado Springs, CO 809071 Office Location Overview & Locations Physicians at this Practice Insurance Affiliations Get Directions About Comcor Inc Comcor Inc is",
+    "frecency": 2572,
+    "url_hash": 95274374194389,
+    "last_visit_date": 1758203928126111
+  }
+}

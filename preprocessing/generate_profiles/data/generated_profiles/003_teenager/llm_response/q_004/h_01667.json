@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Nostalgia Critic: This article's content is marked as Mature. The page Nostalgia Critic contains mature content that may include coarse language, sexual references, and/or graphic violent images which may be disturbing to some. Mature pages are recommended for those who are 18 years of age and older. If you are 18 ye",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Nostalgia Critic and mature content, not about improving sports performance; no relevance to the query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Nostalgia Critic \"This article's content is marked as Mature The page Nostalgia Critic contains mature content that may include coarse language, sexual references, and/or graphic violent images which may be disturbing to some. Mature pages are recommended for those who are 18 years of age and older. If you are 18 ye",
+  "history": {
+    "url": "http://villains.wikia.com/wiki/Nostalgia_Critic",
+    "title": "Nostalgia Critic",
+    "description": "\"This article's content is marked as Mature The page Nostalgia Critic contains mature content that may include coarse language, sexual references, and/or graphic violent images which may be disturbing to some. Mature pages are recommended for those who are 18 years of age and older. If you are 18 ye",
+    "frecency": 3294,
+    "url_hash": 66382697869228,
+    "last_visit_date": 1758203933779228
+  }
+}

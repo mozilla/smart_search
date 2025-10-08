@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Ohio Staff Nurse - RN - Nursing Home Salaries Staff Nurse - RN - Nursing Home's Annual Base Salary Job Title Salary Location Date Updated Staff Nurse - RN - Nursing Home $55,568 Akron,OH September 27, 2017Staff Nurse - RN - Nursing Home $55,278 Canton,OH September 27, 2017Staff Nurse - RN - Nursing Home $53,252 Chillicothe,OH September 27, 2017",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns nurse salaries and job postings, not content about Docker setup or beginner-friendly Docker guidance.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Ohio Staff Nurse - RN - Nursing Home Salaries Staff Nurse - RN - Nursing Home's Annual Base Salary Job Title Salary Location Date Updated Staff Nurse - RN - Nursing Home $55,568 Akron,OH September 27, 2017Staff Nurse - RN - Nursing Home $55,278 Canton,OH September 27, 2017Staff Nurse - RN - Nursing Home $53,252 Chillicothe,OH September 27, 2017",
+  "history": {
+    "url": "http://www1.salary.com/OH/Staff-Nurse-RN-Nursing-Home-salary.html",
+    "title": "Ohio Staff Nurse - RN - Nursing Home Salaries",
+    "description": "Staff Nurse - RN - Nursing Home's Annual Base Salary Job Title Salary Location Date Updated Staff Nurse - RN - Nursing Home $55,568 Akron,OH September 27, 2017Staff Nurse - RN - Nursing Home $55,278 Canton,OH September 27, 2017Staff Nurse - RN - Nursing Home $53,252 Chillicothe,OH September 27, 2017",
+    "frecency": 2442,
+    "url_hash": 57630318261351,
+    "last_visit_date": 1758203930636111
+  }
+}

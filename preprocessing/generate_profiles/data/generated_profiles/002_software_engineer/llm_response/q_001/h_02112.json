@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Call Of Duty Zombies Game Rating3.8812 votes 113,691 plays Game Description The Call of Duty: Zombies phenomenon has risen back to life. Adapted from the best-selling console hit and built specifically for tablets and smartphones, Call of Duty: Black Ops Zombies delivers fan-favorite, heart-pounding maps: Kino Der Toten",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a Call of Duty Zombies game, which is unrelated to Python libraries for machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Call Of Duty Zombies Game Rating3.8812 votes 113,691 plays Game Description The Call of Duty: Zombies phenomenon has risen back to life. Adapted from the best-selling console hit and built specifically for tablets and smartphones, Call of Duty: Black Ops Zombies delivers fan-favorite, heart-pounding maps: Kino Der Toten",
+  "history": {
+    "url": "http://www.muchgames.com/games/call-of-duty-zombies",
+    "title": "Call Of Duty Zombies",
+    "description": "Game Rating3.8812 votes 113,691 plays Game Description The Call of Duty: Zombies phenomenon has risen back to life. Adapted from the best-selling console hit and built specifically for tablets and smartphones, Call of Duty: Black Ops Zombies delivers fan-favorite, heart-pounding maps: Kino Der Toten",
+    "frecency": 1183,
+    "url_hash": 93957061194492,
+    "last_visit_date": 1758203929712111
+  }
+}

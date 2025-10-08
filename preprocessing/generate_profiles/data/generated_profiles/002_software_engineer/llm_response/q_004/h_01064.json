@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Automated External Defibrillator Automated External Defibrillator Also known as What Is When Should an Automated External Defibrillator Be Used? How Does an Automated External Defibrillator Work? How To Use an Automated External Defibrillator Risk Factors Participate in NHLBI Clinical Trials More Information RELATED NEWSJanuary 26,",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Automated External Defibrillators (AEDs), not Docker or software setup. It has no relevance to the query 'Docker setup for beginners'.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Automated External Defibrillator Automated External Defibrillator Also known as What Is When Should an Automated External Defibrillator Be Used? How Does an Automated External Defibrillator Work? How To Use an Automated External Defibrillator Risk Factors Participate in NHLBI Clinical Trials More Information RELATED NEWSJanuary 26,",
+  "history": {
+    "url": "https://www.nhlbi.nih.gov/health/health-topics/topics/aed/",
+    "title": "Automated External Defibrillator",
+    "description": "Automated External Defibrillator Also known as What Is When Should an Automated External Defibrillator Be Used? How Does an Automated External Defibrillator Work? How To Use an Automated External Defibrillator Risk Factors Participate in NHLBI Clinical Trials More Information RELATED NEWSJanuary 26,",
+    "frecency": 3111,
+    "url_hash": 56076490448160,
+    "last_visit_date": 1758203928204111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Where do Gentoo Penguins live? Linda Ingham 15,286 Contributions Senior nursing assistant practitioner Where do Gentoo Penguins live? The Gentoo Penguin live around the sub-antarctic islands. Edit What is The height of a Gentoo Penguin? Gentoo Penguins are the third biggest species of penguins after emperor and King penguins. The",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns Gentoo Penguins, not Docker or setup instructions; content is unrelated to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Where do Gentoo Penguins live? Linda Ingham 15,286 Contributions Senior nursing assistant practitioner Where do Gentoo Penguins live? The Gentoo Penguin live around the sub-antarctic islands. Edit What is The height of a Gentoo Penguin? Gentoo Penguins are the third biggest species of penguins after emperor and King penguins. The",
+  "history": {
+    "url": "http://www.answers.com/Q/How_much_does_a_gentoo_penguin_weigh",
+    "title": "Where do Gentoo Penguins live?",
+    "description": "Linda Ingham 15,286 Contributions Senior nursing assistant practitioner Where do Gentoo Penguins live? The Gentoo Penguin live around the sub-antarctic islands. Edit What is The height of a Gentoo Penguin? Gentoo Penguins are the third biggest species of penguins after emperor and King penguins. The",
+    "frecency": 1892,
+    "url_hash": 62920248952828,
+    "last_visit_date": 1758203931290111
+  }
+}

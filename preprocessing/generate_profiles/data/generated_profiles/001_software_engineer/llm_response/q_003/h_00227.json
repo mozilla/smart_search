@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Alpine, TX Weather USA.com / Texas / Brewster County / Alpine, TX / Weather Alpine, TX Weather Basic Info Population/Races Income/Careers Housing Education Crime/Crime Rate Others Weather | Natural Extremes | Air Quality | Environmental Watch | Zip Codes | Government Hot Rankings Fastest / Slowest Growing Cities Nearb",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page content concerns weather information for Alpine, Texas, not database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Alpine, TX Weather USA.com / Texas / Brewster County / Alpine, TX / Weather Alpine, TX Weather Basic Info Population/Races Income/Careers Housing Education Crime/Crime Rate Others Weather | Natural Extremes | Air Quality | Environmental Watch | Zip Codes | Government Hot Rankings Fastest / Slowest Growing Cities Nearb",
+  "history": {
+    "url": "http://www.usa.com/alpine-tx-weather.htm",
+    "title": "Alpine, TX Weather",
+    "description": "USA.com / Texas / Brewster County / Alpine, TX / Weather Alpine, TX Weather Basic Info Population/Races Income/Careers Housing Education Crime/Crime Rate Others Weather | Natural Extremes | Air Quality | Environmental Watch | Zip Codes | Government Hot Rankings Fastest / Slowest Growing Cities Nearb",
+    "frecency": 4227,
+    "url_hash": 6841129954516,
+    "last_visit_date": 1758203927012200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "False Alarm (The Weeknd song) - From Wikipedia, the free encyclopedia; Promotional single by The Weeknd from the album Starboy; Released September 29, 2016; Genre Dance-punk; Length 3:50; Label XO Republic.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The page is about a song by The Weeknd, not about starting a YouTube channel; unrelated to the query.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "False Alarm (The Weeknd song) \"False Alarm (The Weeknd song)From Wikipedia, the free encyclopedianavigation search\"\"False Alarm\"\"Promotional single by The Weekndfrom the album Starboy Released September 29, 2016Format Digital download Recorded 2016 At Gang Studio, Paris Genre Dance-punk [1]Length 3: 50Label XO Republic Songwrite",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/False_Alarm_(The_Weeknd_song)",
+    "title": "False Alarm (The Weeknd song)",
+    "description": "\"False Alarm (The Weeknd song)From Wikipedia, the free encyclopedianavigation search\"\"False Alarm\"\"Promotional single by The Weekndfrom the album Starboy Released September 29, 2016Format Digital download Recorded 2016 At Gang Studio, Paris Genre Dance-punk [1]Length 3: 50Label XO Republic Songwrite",
+    "frecency": 1738,
+    "url_hash": 72559306959191,
+    "last_visit_date": 1758203930271228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Funny or Die releases humorous weather app containing actual forecasts \"Funny or Die releases humorous weather app containing actual forecasts Share Share What's This? Will Ferrell, co-founder of Funny or Die, arrives at the 'Welcome to Me' premiere during the Toronto International Film Festival on Sept. 5, 2014, in Toronto. Image: Evan Agostini/Associated Press By And",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns a humorous weather app and a film premiere, not related to improving sports performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Funny or Die releases humorous weather app containing actual forecasts \"Funny or Die releases humorous weather app containing actual forecasts Share Share What's This? Will Ferrell, co-founder of Funny or Die, arrives at the 'Welcome to Me' premiere during the Toronto International Film Festival on Sept. 5, 2014, in Toronto. Image: Evan Agostini/Associated Press By And",
+  "history": {
+    "url": "http://mashable.com/2015/01/22/funny-or-die-weather-app/",
+    "title": "Funny or Die releases humorous weather app containing actual forecasts",
+    "description": "\"Funny or Die releases humorous weather app containing actual forecasts Share Share What's This? Will Ferrell, co-founder of Funny or Die, arrives at the 'Welcome to Me' premiere during the Toronto International Film Festival on Sept. 5, 2014, in Toronto. Image: Evan Agostini/Associated Press By And",
+    "frecency": 2352,
+    "url_hash": 32767880866445,
+    "last_visit_date": 1758203933695228
+  }
+}

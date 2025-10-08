@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Walmart, Lagging in Online Sales, Is Strengthening E-Commerce \"Business Day Walmart, Lagging in Online Sales, Is Strengthening E-Commerce By HIROKO TABUCHI JUNE 5, 2015A Walmart employee at the retailer\u2019s Pickup-Grocery test store, where customers can collect an online order without having to leave their cars. Rick Wilking/Reuters FAYETTEVILLE, Ark. \u2014 In the w",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a Walmart news article about online sales, not about IDEs or software development.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Walmart, Lagging in Online Sales, Is Strengthening E-Commerce \"Business Day Walmart, Lagging in Online Sales, Is Strengthening E-Commerce By HIROKO TABUCHI JUNE 5, 2015A Walmart employee at the retailer\u2019s Pickup-Grocery test store, where customers can collect an online order without having to leave their cars. Rick Wilking/Reuters FAYETTEVILLE, Ark. \u2014 In the w",
+  "history": {
+    "url": "http://www.nytimes.com/2015/06/06/business/walmart-lagging-in-online-sales-is-strengthening-e-commerce.html",
+    "title": "Walmart, Lagging in Online Sales, Is Strengthening E-Commerce",
+    "description": "\"Business Day Walmart, Lagging in Online Sales, Is Strengthening E-Commerce By HIROKO TABUCHI JUNE 5, 2015A Walmart employee at the retailer\u2019s Pickup-Grocery test store, where customers can collect an online order without having to leave their cars. Rick Wilking/Reuters FAYETTEVILLE, Ark. \u2014 In the w",
+    "frecency": 1405,
+    "url_hash": 56287282340486,
+    "last_visit_date": 1758203930278111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Diagnostic Tests The North Shore Eye and Vision Center uses the most up-to-date diagnostic tests and ophthalmologic equipment to assist our trained ophthalmologists in diagnosing acute and chronic eye conditions. Through the use of imaging, sight tests and more, our physicians work to pre-emptively diagnose potentia",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about ophthalmology diagnostic tests, not about Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Diagnostic Tests The North Shore Eye and Vision Center uses the most up-to-date diagnostic tests and ophthalmologic equipment to assist our trained ophthalmologists in diagnosing acute and chronic eye conditions. Through the use of imaging, sight tests and more, our physicians work to pre-emptively diagnose potentia",
+  "history": {
+    "url": "http://www.northshore.org/ophthalmology/diagnostic-tests/cornea/corneal-pachymetry/",
+    "title": "Diagnostic Tests",
+    "description": "The North Shore Eye and Vision Center uses the most up-to-date diagnostic tests and ophthalmologic equipment to assist our trained ophthalmologists in diagnosing acute and chronic eye conditions. Through the use of imaging, sight tests and more, our physicians work to pre-emptively diagnose potentia",
+    "frecency": 1246,
+    "url_hash": 33003752405635,
+    "last_visit_date": 1758203927034111
+  }
+}

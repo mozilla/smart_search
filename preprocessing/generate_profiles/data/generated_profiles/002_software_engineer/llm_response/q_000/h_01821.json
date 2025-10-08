@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Blue Force Tracking \"From Wikipedia, the free encyclopedianavigation search A U. S. soldier preparing his Blue Force Tracker before departing Camp Victory, Iraq in 2005Blue force tracking is a United States military term for a GPS -enabled capability that provides military commanders and forces with location informatio",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a military GPS tracking system (Blue Force Tracking) and not content about debugging APIs or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Blue Force Tracking \"From Wikipedia, the free encyclopedianavigation search A U. S. soldier preparing his Blue Force Tracker before departing Camp Victory, Iraq in 2005Blue force tracking is a United States military term for a GPS -enabled capability that provides military commanders and forces with location informatio",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Blue_Force_Tracking",
+    "title": "Blue Force Tracking",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search A U. S. soldier preparing his Blue Force Tracker before departing Camp Victory, Iraq in 2005Blue force tracking is a United States military term for a GPS -enabled capability that provides military commanders and forces with location informatio",
+    "frecency": 1693,
+    "url_hash": 33567577800341,
+    "last_visit_date": 1758203929894111
+  }
+}

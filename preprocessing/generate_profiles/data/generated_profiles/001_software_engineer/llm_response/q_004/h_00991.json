@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Denver, Colorado Denver, Colorado ADDRESS: 5301 Peoria Street Unit F, Denver, CO 80239-2319PHONE: 303.373.9800 800.332.3819FAX: 303.373.9700 800.332.3820HOURS OF OPERATION: M-F 8-5Midwest-Denver is a 30,000 square foot facility located on the northeast side of Denver. Midwest-Denver serves customers in Colorado, Wyo",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a physical address/facility information unrelated to Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Denver, Colorado Denver, Colorado ADDRESS: 5301 Peoria Street Unit F, Denver, CO 80239-2319PHONE: 303.373.9800 800.332.3819FAX: 303.373.9700 800.332.3820HOURS OF OPERATION: M-F 8-5Midwest-Denver is a 30,000 square foot facility located on the northeast side of Denver. Midwest-Denver serves customers in Colorado, Wyo",
+  "history": {
+    "url": "http://www.midwestsign.com/locations_colorado/",
+    "title": "Denver, Colorado",
+    "description": "Denver, Colorado ADDRESS: 5301 Peoria Street Unit F, Denver, CO 80239-2319PHONE: 303.373.9800 800.332.3819FAX: 303.373.9700 800.332.3820HOURS OF OPERATION: M-F 8-5Midwest-Denver is a 30,000 square foot facility located on the northeast side of Denver. Midwest-Denver serves customers in Colorado, Wyo",
+    "frecency": 1496,
+    "url_hash": 76146123481218,
+    "last_visit_date": 1758203928672200
+  }
+}

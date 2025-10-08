@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Information on Schools within Rutherford County School District Information on Schools within Rutherford County School District Elementary Schools within the Rutherford County School District School Students Student to Teacher Ratio Full Time Certified Teachers Lowest Grade Offered Highest Grade Offered Barfield Elementary School350 Barfield Crescent Rd Murfrees",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a school district and elementary schools, not Docker or container setup guidance.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Information on Schools within Rutherford County School District Information on Schools within Rutherford County School District Elementary Schools within the Rutherford County School District School Students Student to Teacher Ratio Full Time Certified Teachers Lowest Grade Offered Highest Grade Offered Barfield Elementary School350 Barfield Crescent Rd Murfrees",
+  "history": {
+    "url": "http://www.teachersalaryinfo.com/tennessee/teacher-salary-in-rutherford-county-school-district/",
+    "title": "Information on Schools within Rutherford County School District",
+    "description": "Information on Schools within Rutherford County School District Elementary Schools within the Rutherford County School District School Students Student to Teacher Ratio Full Time Certified Teachers Lowest Grade Offered Highest Grade Offered Barfield Elementary School350 Barfield Crescent Rd Murfrees",
+    "frecency": 700,
+    "url_hash": 97497201865179,
+    "last_visit_date": 1758203930940111
+  }
+}

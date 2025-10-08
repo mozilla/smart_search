@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Saturday Night Live Update: Harry Caray Ad Choices Saturday Night Live Update: Harry Caray",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns Saturday Night Live updates and Harry Caray, with no content related to study enhancement apps or study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Saturday Night Live Update: Harry Caray Ad Choices Saturday Night Live Update: Harry Caray",
+  "history": {
+    "url": "https://www.hulu.com/watch/73359",
+    "title": "Saturday Night Live Update: Harry Caray",
+    "description": "Ad Choices Saturday Night Live Update: Harry Caray ",
+    "frecency": 2879,
+    "url_hash": 91060490403095,
+    "last_visit_date": 1758203929963228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "First look: Will Ferrell and Kristin Wiig's Lifetime movie, 'A Deadly Adoption' - By Lisa Respers France, CNN - Updated 9:10 AM ET, Fri June 12, 2015. Kristen Wiig and Will Ferrell star as would-be parents in Lifetime's 'A Deadly Adoption'.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The result is about a movie, not related to improving sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "First look: Will Ferrell and Kristin Wiig's Lifetime movie, 'A Deadly Adoption' \"First look: Will Ferrell and Kristin Wiig's Lifetime movie, 'A Deadly Adoption'By Lisa Respers France, CNNUpdated 9:10 AM ET, Fri June 12, 2015Kristen Wiig and Will Ferrell star as would-be parents in Lifetime's \"\"A Deadly Adoption. \"\"Story highlights The comic pair are starring in a new Lifetime f",
+  "history": {
+    "url": "http://www.cnn.com/2015/06/12/entertainment/will-ferrell-kristin-wiig-deadly-adoption-lifetime-feat/index.html",
+    "title": "First look: Will Ferrell and Kristin Wiig's Lifetime movie, 'A Deadly Adoption'",
+    "description": "\"First look: Will Ferrell and Kristin Wiig's Lifetime movie, 'A Deadly Adoption'By Lisa Respers France, CNNUpdated 9:10 AM ET, Fri June 12, 2015Kristen Wiig and Will Ferrell star as would-be parents in Lifetime's \"\"A Deadly Adoption. \"\"Story highlights The comic pair are starring in a new Lifetime f",
+    "frecency": 2033,
+    "url_hash": 16312122827508,
+    "last_visit_date": 1758203931983228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Tri County Football CBSSPORTS. COM247SPORTSMAXPREPSSPORTSLINEFOLLOW MAXPREPSFootball Baseball Basketball G. Basketball... Apps SIGN IN",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a sports-oriented site (Tri County Football, CBS Sports, MaxPreps) and is not relevant to DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Tri County Football CBSSPORTS. COM247SPORTSMAXPREPSSPORTSLINEFOLLOW MAXPREPSFootball Baseball Basketball G. Basketball... Apps SIGN IN",
+  "history": {
+    "url": "http://www.maxpreps.com/high-schools/tri-county-trojans-(dewitt,ne)/football/home.htm",
+    "title": "Tri County Football",
+    "description": "CBSSPORTS. COM247SPORTSMAXPREPSSPORTSLINEFOLLOW MAXPREPSFootball Baseball Basketball G. Basketball... Apps SIGN IN ",
+    "frecency": 3384,
+    "url_hash": 10319398233411,
+    "last_visit_date": 1758203934663228
+  }
+}

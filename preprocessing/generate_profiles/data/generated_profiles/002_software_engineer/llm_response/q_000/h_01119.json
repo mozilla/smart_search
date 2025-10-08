@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Nursing School Nursing School A nursing school prepares students to enter the lucrative nursing profession. By enrolling in programs offered by these institutes, aspiring nurses can equip themselves with the knowledge and skills required to serve the society. There are a number of nursing schools that offer differ",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses nursing schools, not API debugging or integration; it does not address the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Nursing School Nursing School A nursing school prepares students to enter the lucrative nursing profession. By enrolling in programs offered by these institutes, aspiring nurses can equip themselves with the knowledge and skills required to serve the society. There are a number of nursing schools that offer differ",
+  "history": {
+    "url": "http://www.excite.com/education/colleges/nursing-school",
+    "title": "Nursing School",
+    "description": "Nursing School A nursing school prepares students to enter the lucrative nursing profession. By enrolling in programs offered by these institutes, aspiring nurses can equip themselves with the knowledge and skills required to serve the society. There are a number of nursing schools that offer differ",
+    "frecency": 3023,
+    "url_hash": 5509838911530,
+    "last_visit_date": 1758203929096111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Overview \\\"Home Documentation Guides Support All Products Pricing and Plans All Products Overview Get Started Get API Key Web Services Best Practices Client Libraries Dev Guides Geocoding Addresses Geocoder FAQPolicies and Terms Usage Limits Optimizing Quota Usage Policies Terms of Service Other Web Service A\\\"",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result appears to describe API services and geocoding documentation, not Docker setup or beginner Docker guidance.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Overview \"Home Documentation Guides Support All Products Pricing and Plans All Products Overview Get Started Get API Key Web Services Best Practices Client Libraries Dev Guides Geocoding Addresses Geocoder FAQPolicies and Terms Usage Limits Optimizing Quota Usage Policies Terms of Service Other Web Service A",
+  "history": {
+    "url": "https://developers.google.com/maps/documentation/geocoding/intro",
+    "title": "Overview",
+    "description": "\"Home Documentation Guides Support All Products Pricing and Plans All Products Overview Get Started Get API Key Web Services Best Practices Client Libraries Dev Guides Geocoding Addresses Geocoder FAQPolicies and Terms Usage Limits Optimizing Quota Usage Policies Terms of Service Other Web Service A",
+    "frecency": 1321,
+    "url_hash": 10708485973319,
+    "last_visit_date": 1758203930188111
+  }
+}

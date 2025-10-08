@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Greater Lehigh Valley Schools The Greater Lehigh Valley contains some of the top rated schools in the state. You will be hard pressed to find better schools for both academics and sports. Carbon County School Districts Public Schools Carbon Career & Technical Institute Carbon Lehigh Intermediate Unit 21Jim Thorpe Area School Dist",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses schools in the Greater Lehigh Valley and is unrelated to software development or IDEs.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Greater Lehigh Valley Schools The Greater Lehigh Valley contains some of the top rated schools in the state. You will be hard pressed to find better schools for both academics and sports. Carbon County School Districts Public Schools Carbon Career & Technical Institute Carbon Lehigh Intermediate Unit 21Jim Thorpe Area School Dis",
+  "history": {
+    "url": "http://www.greaterlehighvalleyrealtors.com/about-the-lehigh-valley/lehigh-valley-schools",
+    "title": "Greater Lehigh Valley Schools",
+    "description": "The Greater Lehigh Valley contains some of the top rated schools in the state. You will be hard pressed to find better schools for both academics and sports. Carbon County School Districts Public Schools Carbon Career & Technical Institute Carbon Lehigh Intermediate Unit 21Jim Thorpe Area School Dis",
+    "frecency": 3388,
+    "url_hash": 91287325110286,
+    "last_visit_date": 1758203928584200
+  }
+}

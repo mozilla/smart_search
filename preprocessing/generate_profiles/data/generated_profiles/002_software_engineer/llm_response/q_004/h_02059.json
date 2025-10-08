@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Elizabeth Montgomery (I) (1933\u20131995) \"Top 5000Elizabeth Montgomery (I) (1933\u20131995)Actress | Soundtrack | Miscellaneous Crew Elizabeth Montgomery was born into show business. Her parents were screen actor Robert Montgomery and Broadway actress Elizabeth Allen. Elizabeth graduated from the Spence School in New York City and attended the",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes actress Elizabeth Montgomery and is unrelated to Docker or beginner setup topics.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Elizabeth Montgomery (I) (1933\u00e21995) \"Top 5000Elizabeth Montgomery (I) (1933\u20131995)Actress | Soundtrack | Miscellaneous Crew Elizabeth Montgomery was born into show business. Her parents were screen actor Robert Montgomery and Broadway actress Elizabeth Allen. Elizabeth graduated from the Spence School in New York City and attended the",
+  "history": {
+    "url": "http://www.imdb.com/name/nm0000548/",
+    "title": "Elizabeth Montgomery (I) (1933\u00e21995)",
+    "description": "\"Top 5000Elizabeth Montgomery (I) (1933\u20131995)Actress | Soundtrack | Miscellaneous Crew Elizabeth Montgomery was born into show business. Her parents were screen actor Robert Montgomery and Broadway actress Elizabeth Allen. Elizabeth graduated from the Spence School in New York City and attended the ",
+    "frecency": 1258,
+    "url_hash": 25833947445564,
+    "last_visit_date": 1758203927804111
+  }
+}

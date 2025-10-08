@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "Norse cosmology \\\"The cosmology of Norse mythology has \\\"\\\"nine homeworlds\\\"\\\" or \\\"\\\" nine realms \\\"\\\", unified by the world tree Yggdrasil. Mapping the nine worlds escapes precision because the Poetic Edda often alludes vaguely. The Norse creation myth tells how everything came into existence in the gap between fire and i",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Norse mythology, not TikTok trends for 2024; it is not relevant to the query.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "Norse cosmology \"The cosmology of Norse mythology has \"\"nine homeworlds\"\" or \"\" nine realms \"\", unified by the world tree Yggdrasil. Mapping the nine worlds escapes precision because the Poetic Edda often alludes vaguely. The Norse creation myth tells how everything came into existence in the gap between fire and i",
+  "history": {
+    "url": "http://mythology.wikia.com/wiki/Norse_cosmology",
+    "title": "Norse cosmology",
+    "description": "\"The cosmology of Norse mythology has \"\"nine homeworlds\"\" or \"\" nine realms \"\", unified by the world tree Yggdrasil. Mapping the nine worlds escapes precision because the Poetic Edda often alludes vaguely. The Norse creation myth tells how everything came into existence in the gap between fire and i",
+    "frecency": 2408,
+    "url_hash": 13061570881473,
+    "last_visit_date": 1758203931317228
+  }
+}

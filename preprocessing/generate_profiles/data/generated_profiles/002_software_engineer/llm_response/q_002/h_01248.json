@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Veterans Educational Benefits The federal government provides a wide range of helpful options and Florida offers additional support. Higher education undoubtedly helps those who have served in the military to land a job in the civilian sector after separating from service, and men and women who have served in the United States a",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page discusses veterans' educational benefits, not IDEs or software development tools.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Veterans Educational Benefits The federal government provides a wide range of helpful options and Florida offers additional support. Higher education undoubtedly helps those who have served in the military to land a job in the civilian sector after separating from service, and men and women who have served in the United States a",
+  "history": {
+    "url": "http://www.veteransflorida.org/2016/01/21/veterans-educational-benefits/",
+    "title": "Veterans Educational Benefits",
+    "description": "The federal government provides a wide range of helpful options and Florida offers additional support. Higher education undoubtedly helps those who have served in the military to land a job in the civilian sector after separating from service, and men and women who have served in the United States a",
+    "frecency": 2763,
+    "url_hash": 84036643312786,
+    "last_visit_date": 1758203929774111
+  }
+}

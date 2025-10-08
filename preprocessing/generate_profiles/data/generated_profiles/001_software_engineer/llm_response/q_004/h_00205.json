@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Flight Attendants Pay About this section Flight Attendants Median annual wages, May 2016Air transportation workers$71,510Flight attendants$48,500Total, all occupations$37,040Note: All Occupations includes all occupations in the U. S. Economy. Source: U. S. Bureau of Labor Statistics, Occupational Employment Statistic",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses flight attendants' wages data from the Bureau of Labor Statistics and has no connection to Docker or beginner setup guidance.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Flight Attendants Pay About this section Flight Attendants Median annual wages, May 2016Air transportation workers$71,510Flight attendants$48,500Total, all occupations$37,040Note: All Occupations includes all occupations in the U. S. Economy. Source: U. S. Bureau of Labor Statistics, Occupational Employment Statistic",
+  "history": {
+    "url": "https://www.bls.gov/ooh/transportation-and-material-moving/flight-attendants.htm",
+    "title": "Flight Attendants",
+    "description": "Pay About this section Flight Attendants Median annual wages, May 2016Air transportation workers$71,510Flight attendants$48,500Total, all occupations$37,040Note: All Occupations includes all occupations in the U. S. Economy. Source: U. S. Bureau of Labor Statistics, Occupational Employment Statistic",
+    "frecency": 4297,
+    "url_hash": 32775983913214,
+    "last_visit_date": 1758203927280200
+  }
+}

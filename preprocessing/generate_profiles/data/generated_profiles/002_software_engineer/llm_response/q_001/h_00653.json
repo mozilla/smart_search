@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Franchise \"Franchise Franchise Mart is your source for top franchises for sale, information about today's best franchises and business opportunities, and resources to help for Franchise In India you learn about franchising and small business ownership. Franchise India provides Business franchise Opportunities\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses franchising opportunities in India, not Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Franchise \"Franchise Franchise Mart is your source for top franchises for sale, information about today's best franchises and business opportunities, and resources to help for Franchise In India you learn about franchising and small business ownership. Franchise India provides Business franchise Opportunities",
+  "history": {
+    "url": "http://www.franchisemart.in/franchise/",
+    "title": "Franchise",
+    "description": "\"Franchise Franchise Mart is your source for top franchises for sale, information about today's best franchises and business opportunities, and resources to help for Franchise In India you learn about franchising and small business ownership. Franchise India provides Business franchise Opportunities",
+    "frecency": 3844,
+    "url_hash": 88385645976661,
+    "last_visit_date": 1758203930508111
+  }
+}

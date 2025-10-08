@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "What is NTFS? \"Varunrace 365 Contributions What is NTFS? Short for New technology File System, one of the file system for the Windows NT operating system (Windows NT also supports the FAT file system). NTFS has features to improve r \u2026What is NTF journaling? NTFS is journaling it journals your records so you\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses NTFS, a Windows file system, which is unrelated to Python libraries for machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "What is NTFS? \"Varunrace 365 Contributions What is NTFS? Short for New technology File System, one of the file system for the Windows NT operating system (Windows NT also supports the FAT file system). NTFS has features to improve r \u2026What is NTF journaling? NTFS is journaling it journals your records so you don\"\"",
+  "history": {
+    "url": "http://www.answers.com/Q/What_does_NTFS_stand_for",
+    "title": "What is NTFS?",
+    "description": "\"Varunrace 365 Contributions What is NTFS? Short for New technology File System, one of the file system for the Windows NT operating system (Windows NT also supports the FAT file system). NTFS has features to improve r \u2026What is NTF journaling? NTFS is journaling it journals your records so you don\"\"",
+    "frecency": 2113,
+    "url_hash": 39555898571814,
+    "last_visit_date": 1758203927012111
+  }
+}

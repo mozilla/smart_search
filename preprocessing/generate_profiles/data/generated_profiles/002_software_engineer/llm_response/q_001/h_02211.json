@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Diversification (finance) \"From Wikipedia, the free encyclopedianavigation search This article may be unbalanced towards certain viewpoints. Please improve the article by adding information on neglected viewpoints, or discuss the issue on the talk page. (March 2016)Finance Markets [show]Instruments [show]Corporate [show]Pers",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about diversification in finance, not about Python libraries or machine learning, so it is not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Diversification (finance) \"From Wikipedia, the free encyclopedianavigation search This article may be unbalanced towards certain viewpoints. Please improve the article by adding information on neglected viewpoints, or discuss the issue on the talk page. (March 2016)Finance Markets [show]Instruments [show]Corporate [show]Pers",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Diversification_(finance)",
+    "title": "Diversification (finance)",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search This article may be unbalanced towards certain viewpoints. Please improve the article by adding information on neglected viewpoints, or discuss the issue on the talk page. (March 2016)Finance Markets [show]Instruments [show]Corporate [show]Pers",
+    "frecency": 976,
+    "url_hash": 79939908593058,
+    "last_visit_date": 1758203927112111
+  }
+}

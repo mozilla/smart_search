@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "In which movies does Kirsten Dunst have red hair? Related Questions What has Kirsten Dunst done lately? I have red hair. How likely is it that my children will have red hair? Who is Kirsten Dunst? How can you get red hair if your mom has brown hair and your dad has red hair? What do you think about red hair? Why do the bullies in movies almost alwa",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Kirsten Dunst and red hair, not about easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "In which movies does Kirsten Dunst have red hair? Related Questions What has Kirsten Dunst done lately? I have red hair. How likely is it that my children will have red hair? Who is Kirsten Dunst? How can you get red hair if your mom has brown hair and your dad has red hair? What do you think about red hair? Why do the bullies in movies almost alwa",
+  "history": {
+    "url": "https://www.quora.com/In-which-movies-does-Kirsten-Dunst-have-red-hair",
+    "title": "In which movies does Kirsten Dunst have red hair?",
+    "description": "Related Questions What has Kirsten Dunst done lately? I have red hair. How likely is it that my children will have red hair? Who is Kirsten Dunst? How can you get red hair if your mom has brown hair and your dad has red hair? What do you think about red hair? Why do the bullies in movies almost alwa",
+    "frecency": 2926,
+    "url_hash": 72189050844401,
+    "last_visit_date": 1758203929589228
+  }
+}

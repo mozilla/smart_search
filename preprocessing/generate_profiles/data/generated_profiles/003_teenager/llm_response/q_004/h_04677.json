@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Average Yearly Rainfall for Hawaii The tables below give yearly averages for rainfall at cities, towns, resorts, parks and beaches in Hawaii. Each place has a total for the amount of precipitation it usually receives in a year. Most locations also have information on the number of days with wet weather. That includes the days when pr",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page is about rainfall statistics in Hawaii and has no content related to improving sports performance, training, or techniques.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Average Yearly Rainfall for Hawaii The tables below give yearly averages for rainfall at cities, towns, resorts, parks and beaches in Hawaii. Each place has a total for the amount of precipitation it usually receives in a year. Most locations also have information on the number of days with wet weather. That includes the days when pr",
+  "history": {
+    "url": "http://www.currentresults.com/Weather/Hawaii/yearly-rainfall.php",
+    "title": "Average Yearly Rainfall for Hawaii",
+    "description": "The tables below give yearly averages for rainfall at cities, towns, resorts, parks and beaches in Hawaii. Each place has a total for the amount of precipitation it usually receives in a year. Most locations also have information on the number of days with wet weather. That includes the days when pr",
+    "frecency": 153,
+    "url_hash": 35477577712693,
+    "last_visit_date": 1758203928536735
+  }
+}

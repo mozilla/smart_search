@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Symptoms of Sinusitis Symptoms of Sinusitis Intro Symptoms Types Causes Tests Prognosis Treatment Prevention Misdiagnosis Must Reads in Health Protecting Your Skin During Winter Watch: My Personal Psoriasis Journey Are You Getting The Best Cancer Care? Keeping An Active Lifestyle With COPDLiver Disease? Find a Doc Who Tr",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a health article about sinusitis and other medical topics, not related to improving athletic performance or sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Symptoms of Sinusitis Symptoms of Sinusitis Intro Symptoms Types Causes Tests Prognosis Treatment Prevention Misdiagnosis Must Reads in Health Protecting Your Skin During Winter Watch: My Personal Psoriasis Journey Are You Getting The Best Cancer Care? Keeping An Active Lifestyle With COPDLiver Disease? Find a Doc Who Tr",
+  "history": {
+    "url": "http://www.rightdiagnosis.com/s/sinusitis/symptoms.htm",
+    "title": "Symptoms of Sinusitis",
+    "description": "Symptoms of Sinusitis Intro Symptoms Types Causes Tests Prognosis Treatment Prevention Misdiagnosis Must Reads in Health Protecting Your Skin During Winter Watch: My Personal Psoriasis Journey Are You Getting The Best Cancer Care? Keeping An Active Lifestyle With COPDLiver Disease? Find a Doc Who Tr",
+    "frecency": 2559,
+    "url_hash": 43552702075112,
+    "last_visit_date": 1758203928724735
+  }
+}

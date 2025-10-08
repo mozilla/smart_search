@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Professors' salaries at top colleges (irrelevant to Docker setup).",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses professors' salaries, not Docker or beginner Docker setup; unrelated to the search query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Professors' salaries at top colleges \"\u00ab 1 2 \u00bbReplies to: Professors' salaries at top colleges#1ske293Registered User Posts: 341Member04-18-2009 at 4:08 am1. These are for full professors not assistant/associate. 2. It seems that one can make a pretty decent living as a professor, that is, if you are good enough to get tenured at a top",
+  "history": {
+    "url": "https://talk.collegeconfidential.com/harvard-university/697241-professors-salaries-at-top-colleges.html",
+    "title": "Professors' salaries at top colleges",
+    "description": "\"\u00ab 1 2 \u00bbReplies to: Professors' salaries at top colleges#1ske293Registered User Posts: 341Member04-18-2009 at 4:08 am1. These are for full professors not assistant/associate. 2. It seems that one can make a pretty decent living as a professor, that is, if you are good enough to get tenured at a top ",
+    "frecency": 4645,
+    "url_hash": 29428415620762,
+    "last_visit_date": 1758203931662111
+  }
+}

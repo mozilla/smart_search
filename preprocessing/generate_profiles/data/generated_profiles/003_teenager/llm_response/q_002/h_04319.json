@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Visitors to Fort Lewis College \"Historic Durango is a thriving multicultural community in the beautiful Animas River Valley. Averaging 300 sunny days per year and situated between the San Juan Mountains and the desert Southwest, Durango is renowned for its outdoor opportunities and friendly people. See for yourself. And while her",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Fort Lewis College and Durango, not easy DIY room decoration ideas; it has no content related to DIY decor.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Visitors to Fort Lewis College \"Historic Durango is a thriving multicultural community in the beautiful Animas River Valley. Averaging 300 sunny days per year and situated between the San Juan Mountains and the desert Southwest, Durango is renowned for its outdoor opportunities and friendly people. See for yourself. And while her",
+  "history": {
+    "url": "http://www.fortlewis.edu/home/visitors.aspx",
+    "title": "Visitors to Fort Lewis College",
+    "description": "\"Historic Durango is a thriving multicultural community in the beautiful Animas River Valley. Averaging 300 sunny days per year and situated between the San Juan Mountains and the desert Southwest, Durango is renowned for its outdoor opportunities and friendly people. See for yourself. And while her",
+    "frecency": 529,
+    "url_hash": 11550229675342,
+    "last_visit_date": 1758203930223228
+  }
+}

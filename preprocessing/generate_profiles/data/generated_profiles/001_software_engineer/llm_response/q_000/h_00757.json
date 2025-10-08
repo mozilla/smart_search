@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "iPhone Owner's Guide i Phone Owner's Guide What to Do If Your i Phone Gets Wet If your i Phone comes into contact with water or another liquid, resist the urge to panic while the liquid saturates the internal components. Instead, follow these simple steps in order to prevent lasting damage: Remove your i Phone from the",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns iPhone water damage guidance, not API debugging or integration. It is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "iPhone Owner's Guide i Phone Owner's Guide What to Do If Your i Phone Gets Wet If your i Phone comes into contact with water or another liquid, resist the urge to panic while the liquid saturates the internal components. Instead, follow these simple steps in order to prevent lasting damage: Remove your i Phone from the",
+  "history": {
+    "url": "https://www.gazelle.com/how-to/iphone/if-your-iphone-gets-wet",
+    "title": "iPhone Owner's Guide",
+    "description": "i Phone Owner's Guide What to Do If Your i Phone Gets Wet If your i Phone comes into contact with water or another liquid, resist the urge to panic while the liquid saturates the internal components. Instead, follow these simple steps in order to prevent lasting damage: Remove your i Phone from the ",
+    "frecency": 2451,
+    "url_hash": 90569540342655,
+    "last_visit_date": 1758203927508200
+  }
+}

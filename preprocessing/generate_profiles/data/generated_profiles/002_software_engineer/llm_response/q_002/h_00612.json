@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Homepage Who Are We? One Stop is a retail convenience business with over 850 shops and a key focus on being the best store for customers in the neighbourhood. Open 7 days a week One Stop aims to meet the needs of all its local customers. Since 2003 we have been a subsidiary of Tesco. With our stores situated",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page is about a retail convenience chain (One Stop) and contains no information about IDEs or software development; not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Homepage Who Are We? One Stop is a retail convenience business with over 850 shops and a key focus on being the best store for customers in the neighbourhood. Open 7 days a week One Stop aims to meet the needs of all its local customers. Since 2003 we have been a subsidiary of Tesco. With our stores situated",
+  "history": {
+    "url": "http://www.onestop.co.uk/about_us.php",
+    "title": "Homepage",
+    "description": "Who Are We? One Stop is a retail convenience business with over 850 shops and a key focus on being the best store for customers in the neighbourhood. Open 7 days a week One Stop aims to meet the needs of all its local customers. Since 2003 we have been a subsidiary of Tesco. With our stores situated",
+    "frecency": 3947,
+    "url_hash": 56037151692749,
+    "last_visit_date": 1758203931314111
+  }
+}

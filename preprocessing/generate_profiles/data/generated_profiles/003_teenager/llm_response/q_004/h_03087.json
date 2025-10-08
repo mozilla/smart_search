@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Terminator Genisys \"From Wikipedia, the free encyclopedia (Redirected from Terminator: Genisys)navigation search Terminator Genisys Theatrical release poster Directed by Alan Taylor Produced by David Ellison Dana Goldberg Written by Laeta Kalogridis Patrick Lussier Based on Characters by James Cameron and Gale Anne Hu",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a Wikipedia page about the Terminator Genisys film, which is unrelated to strategies or tips for getting better at sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Terminator Genisys \"From Wikipedia, the free encyclopedia (Redirected from Terminator: Genisys)navigation search Terminator Genisys Theatrical release poster Directed by Alan Taylor Produced by David Ellison Dana Goldberg Written by Laeta Kalogridis Patrick Lussier Based on Characters by James Cameron and Gale Anne Hu",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Terminator:_Genisys",
+    "title": "Terminator Genisys",
+    "description": "\"From Wikipedia, the free encyclopedia (Redirected from Terminator: Genisys)navigation search Terminator Genisys Theatrical release poster Directed by Alan Taylor Produced by David Ellison Dana Goldberg Written by Laeta Kalogridis Patrick Lussier Based on Characters by James Cameron and Gale Anne Hu",
+    "frecency": 1754,
+    "url_hash": 63410793998191,
+    "last_visit_date": 1758203931939228
+  }
+}

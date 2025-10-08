@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Pins and needles \"Pins and needles Must Reads in Health Protecting Your Skin During Winter Watch: My Personal Psoriasis Journey Are You Getting The Best Cancer Care? Keeping An Active Lifestyle With COPDLiver Disease? Find a Doc Who Treats PBCAre You Allergic To Your Clothes? Why Psoriasis Treatments Can Fail Conten",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is health/medical content about skin conditions and other topics, not about improving athletic performance or sports skills.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Pins and needles \"Pins and needles Must Reads in Health Protecting Your Skin During Winter Watch: My Personal Psoriasis Journey Are You Getting The Best Cancer Care? Keeping An Active Lifestyle With COPDLiver Disease? Find a Doc Who Treats PBCAre You Allergic To Your Clothes? Why Psoriasis Treatments Can Fail Conten",
+  "history": {
+    "url": "http://www.rightdiagnosis.com/symptom/pins-and-needles.htm",
+    "title": "Pins and needles",
+    "description": "\"Pins and needles Must Reads in Health Protecting Your Skin During Winter Watch: My Personal Psoriasis Journey Are You Getting The Best Cancer Care? Keeping An Active Lifestyle With COPDLiver Disease? Find a Doc Who Treats PBCAre You Allergic To Your Clothes? Why Psoriasis Treatments Can Fail Conten",
+    "frecency": 3800,
+    "url_hash": 11344657535496,
+    "last_visit_date": 1758203933887228
+  }
+}

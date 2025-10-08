@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "How to convert an integer into binary form? \"Flag How to convert an integer into binary form? Answer by Starfox pb Confidence votes 357For this example, let's convert the decimal number 15610 to binary. Write the decimal number as the dividend inside an upside-down \\\"long division\\\" symbol. Write the base of the destination system (in our cas",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about converting integers to binary and does not relate to Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "How to convert an integer into binary form? \"Flag How to convert an integer into binary form? Answer by Starfox pb Confidence votes 357For this example, let's convert the decimal number 15610 to binary. Write the decimal number as the dividend inside an upside-down \"\"long division\"\" symbol. Write the base of the destination system (in our cas",
+  "history": {
+    "url": "http://www.answers.com/Q/How_to_convert_an_integer_into_binary_form",
+    "title": "How to convert an integer into binary form?",
+    "description": "\"Flag How to convert an integer into binary form? Answer by Starfox pb Confidence votes 357For this example, let's convert the decimal number 15610 to binary. Write the decimal number as the dividend inside an upside-down \"\"long division\"\" symbol. Write the base of the destination system (in our cas",
+    "frecency": 1555,
+    "url_hash": 16325141745825,
+    "last_visit_date": 1758203927474111
+  }
+}

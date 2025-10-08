@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "What is the meaning of args in java? \"Flag What is the meaning of args in java? Answer by Aoi222 Confidence votes 42If you're referring to \\\"args\\\" in the line: \\\"public static void main (String args [])\\\", then it is the name of the array that holds the command line arguments. So, if you called your java program (called my Java Progra",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Java command-line arguments (args) rather than database query optimization; it is not relevant to 'how to optimize database queries'.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "What is the meaning of args in java? \"Flag What is the meaning of args in java? Answer by Aoi222 Confidence votes 42If you're referring to \"\"args\"\" in the line: \"\"public static void main (String args [])\"\", then it is the name of the array that holds the command line arguments. So, if you called your java program (called my Java Progra",
+  "history": {
+    "url": "http://www.answers.com/Q/What_is_the_meaning_of_args_in_java",
+    "title": "What is the meaning of args in java?",
+    "description": "\"Flag What is the meaning of args in java? Answer by Aoi222 Confidence votes 42If you're referring to \"\"args\"\" in the line: \"\"public static void main (String args [])\"\", then it is the name of the array that holds the command line arguments. So, if you called your java program (called my Java Progra",
+    "frecency": 2892,
+    "url_hash": 40819766560012,
+    "last_visit_date": 1758203927238200
+  }
+}

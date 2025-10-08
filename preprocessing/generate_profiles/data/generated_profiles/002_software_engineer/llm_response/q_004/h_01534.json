@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Broadcom \\\"Wikimedia is looking for female coders! Would you like to help improve our software as a volunteer? Read more!Broadcom From Wikipedia, the free encyclopedianavigation search For the company formerly known as Avago Technologies, see Broadcom Limited. Broadcom Corporation Headquarters at UC Irvine 's",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Broadcom and Wikimedia, not Docker, containers, or beginner Docker setup; it is not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Broadcom \"Wikimedia is looking for female coders! Would you like to help improve our software as a volunteer? Read more!Broadcom From Wikipedia, the free encyclopedianavigation search For the company formerly known as Avago Technologies, see Broadcom Limited. Broadcom Corporation Headquarters at UC Irvine 's",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Broadcom",
+    "title": "Broadcom",
+    "description": "\"Wikimedia is looking for female coders! Would you like to help improve our software as a volunteer? Read more!Broadcom From Wikipedia, the free encyclopedianavigation search For the company formerly known as Avago Technologies, see Broadcom Limited. Broadcom Corporation Headquarters at UC Irvine 's",
+    "frecency": 2231,
+    "url_hash": 81084237197366,
+    "last_visit_date": 1758203928772111
+  }
+}

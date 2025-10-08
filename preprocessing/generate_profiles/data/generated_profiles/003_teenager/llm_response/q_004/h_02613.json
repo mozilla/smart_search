@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Disc 1 Disc 1Play 1. If You Love Somebody Set Them Free (2011 Remix)Play 2. Love Is The Seventh Wave (2011 Remix)Play 3. Consider Me Gone (2011 Remix)Play 4. Moon Over Bourbon Street (2011 Remix)Play 5. Fortress Around Your Heart (2011 Remix)Play 6. Bring On The Night / When The World Is Running Down You M",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a list of music tracks and not related to improving performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Disc 1 Disc 1Play 1. If You Love Somebody Set Them Free (2011 Remix)Play 2. Love Is The Seventh Wave (2011 Remix)Play 3. Consider Me Gone (2011 Remix)Play 4. Moon Over Bourbon Street (2011 Remix)Play 5. Fortress Around Your Heart (2011 Remix)Play 6. Bring On The Night / When The World Is Running Down You M",
+  "history": {
+    "url": "http://us.napster.com/artist/sting/album/25-years/track/englishman-in-new-york",
+    "title": "Disc 1",
+    "description": "Disc 1Play 1. If You Love Somebody Set Them Free (2011 Remix)Play 2. Love Is The Seventh Wave (2011 Remix)Play 3. Consider Me Gone (2011 Remix)Play 4. Moon Over Bourbon Street (2011 Remix)Play 5. Fortress Around Your Heart (2011 Remix)Play 6. Bring On The Night / When The World Is Running Down You M",
+    "frecency": 2306,
+    "url_hash": 52735135628560,
+    "last_visit_date": 1758203932591228
+  }
+}

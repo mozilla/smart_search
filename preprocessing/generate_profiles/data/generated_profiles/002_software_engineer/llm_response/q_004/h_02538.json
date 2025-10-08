@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "\"3\"\" conduit with many bends - is it worth to build it?\" \"_Home Improvement Stack Exchange is a question and answer site for contractors and serious DIYers. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top3\"\" conduit with many bends - is it worth",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses conduit/plumbing on Home Improvement Stack Exchange, which is unrelated to Docker or its setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "\"3\"\" conduit with many bends - is it worth to build it?\" \"_Home Improvement Stack Exchange is a question and answer site for contractors and serious DIYers. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top3\"\" conduit with many bends - is it worth",
+  "history": {
+    "url": "https://diy.stackexchange.com/questions/66522/3-conduit-with-many-bends-is-it-worth-to-build-it",
+    "title": "\"3\"\" conduit with many bends - is it worth to build it?\"",
+    "description": "\"_Home Improvement Stack Exchange is a question and answer site for contractors and serious DIYers. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top3\"\" conduit with many bends - is it worth",
+    "frecency": 410,
+    "url_hash": 34755868992937,
+    "last_visit_date": 1758203930936111
+  }
+}

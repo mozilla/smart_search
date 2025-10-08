@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "\u00e2Trigger Finger Pro is a triumph....A legend is reborn\u00e2 - Future Music WEAPON OF MASS PRODUCTION",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result appears to be about music production, not DIY room decoration ideas; thus it is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "\u00e2Trigger Finger Pro is a triumph....A legend is reborn\u00e2 - Future Music WEAPON OF MASS PRODUCTION",
+  "history": {
+    "url": "http://m-audio.com/microsites/tfp/",
+    "title": "\u00e2Trigger Finger Pro is a triumph....A legend is reborn\u00e2 - Future Music",
+    "description": "WEAPON OF MASS PRODUCTION ",
+    "frecency": 1755,
+    "url_hash": 41215320837254,
+    "last_visit_date": 1758203927530735
+  }
+}

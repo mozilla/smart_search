@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "What public information can you get by using a police officer's badge ID number? \"This depends greatly on where you live and how the police department manages badge numbers and such. My badge number is unique to me (during my tenure as a police officer). If you call my department and complain about \"Badge # xxx\", the supervisor will know who you are talking about. In other de",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses police badge IDs, not database query optimization; no relevance.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "What public information can you get by using a police officer's badge ID number? \"This depends greatly on where you live and how the police department manages badge numbers and such. My badge number is unique to me (during my tenure as a police officer). If you call my department and complain about \"\"Badge # xxx ,\"\" the supervisor will know who you are talking about. In other de",
+  "history": {
+    "url": "https://www.quora.com/What-public-information-can-you-get-by-using-a-police-officers-badge-ID-number",
+    "title": "What public information can you get by using a police officer's badge ID number?",
+    "description": "\"This depends greatly on where you live and how the police department manages badge numbers and such. My badge number is unique to me (during my tenure as a police officer). If you call my department and complain about \"\"Badge # xxx ,\"\" the supervisor will know who you are talking about. In other de",
+    "frecency": 1281,
+    "url_hash": 50432737568132,
+    "last_visit_date": 1758203927220111
+  }
+}

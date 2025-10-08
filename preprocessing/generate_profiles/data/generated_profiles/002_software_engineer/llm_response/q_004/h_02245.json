@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "California Institute of Technology (Caltech) Get more information on California Institute of Technology: Requirements & Admissions Tuition & Costs Programs Available Financial Aid Eligibility Student Services Offered California Institute of Technology can be found in Pasadena, CA, a nonprofit private college which focuses on only a select few",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about California Institute of Technology admissions/information, not about Docker setup or beginner Docker guidance.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "California Institute of Technology (Caltech) Get more information on California Institute of Technology: Requirements & Admissions Tuition & Costs Programs Available Financial Aid Eligibility Student Services Offered California Institute of Technology can be found in Pasadena, CA, a nonprofit private college which focuses on only a select few",
+  "history": {
+    "url": "http://www.acceptancerate.com/schools/california-institute-of-technology",
+    "title": "California Institute of Technology (Caltech)",
+    "description": "Get more information on California Institute of Technology: Requirements & Admissions Tuition & Costs Programs Available Financial Aid Eligibility Student Services Offered California Institute of Technology can be found in Pasadena, CA, a nonprofit private college which focuses on only a select few ",
+    "frecency": 934,
+    "url_hash": 22109021995778,
+    "last_visit_date": 1758203928792111
+  }
+}

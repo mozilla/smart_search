@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Scuba Diving: Barotrauma and Decompression Sickness \\\"Barotrauma/Decompression Sickness Overview Barotrauma/Decompression Sickness Causes Barotrauma/Decompression Sickness Symptoms When to Seek Medical Care Exams and Tests Barotrauma/Decompression Sickness Treatment Self-Care at Home Medications Follow-up Prevention Outlook Barotrauma/Decompression Si",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The page discusses scuba diving medical issues (barotrauma/decompression sickness) and not guidance on improving performance in sports or training strategies to get better at sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Scuba Diving: Barotrauma and Decompression Sickness \"Barotrauma/Decompression Sickness Overview Barotrauma/Decompression Sickness Causes Barotrauma/Decompression Sickness Symptoms When to Seek Medical Care Exams and Tests Barotrauma/Decompression Sickness Treatment Self-Care at Home Medications Follow-up Prevention Outlook Barotrauma/Decompression Si",
+  "history": {
+    "url": "https://www.emedicinehealth.com/barotraumadecompression_sickness/article_em.htm",
+    "title": "Scuba Diving: Barotrauma and Decompression Sickness",
+    "description": "\"Barotrauma/Decompression Sickness Overview Barotrauma/Decompression Sickness Causes Barotrauma/Decompression Sickness Symptoms When to Seek Medical Care Exams and Tests Barotrauma/Decompression Sickness Treatment Self-Care at Home Medications Follow-up Prevention Outlook Barotrauma/Decompression Si",
+    "frecency": 3640,
+    "url_hash": 89552338066147,
+    "last_visit_date": 1758203935031228
+  }
+}

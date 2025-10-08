@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "How to get your license: Real estate firms How to get your license: Real estate firms Who needs a license? Any business that conducts real estate brokerage services. Requirements The real estate firm must appoint one managing broker as the designated broker who has controlling interest in the firm. \u201cControlling interest\u201d means the designated",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses real estate licensing and brokerage requirements, not Python libraries or machine learning; it is not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "How to get your license: Real estate firms How to get your license: Real estate firms Who needs a license? Any business that conducts real estate brokerage services. Requirements The real estate firm must appoint one managing broker as the designated broker who has controlling interest in the firm. \u201cControlling interest\u201d means the designated",
+  "history": {
+    "url": "http://www.dol.wa.gov/business/realestate/firmlicense.html",
+    "title": "How to get your license: Real estate firms",
+    "description": "How to get your license: Real estate firms Who needs a license? Any business that conducts real estate brokerage services. Requirements The real estate firm must appoint one managing broker as the designated broker who has controlling interest in the firm. \u201cControlling interest\u201d means the designated",
+    "frecency": 1071,
+    "url_hash": 40451799786965,
+    "last_visit_date": 1758203929192200
+  }
+}

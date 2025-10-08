@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "Nabumetone Nabumetonepronounced as (na byoo' me tone)Why is this medication prescribed? How should this medicine be used? Other uses for this medicine What special precautions should I follow? What special dietary instructions should I follow? What should I do if I forget a dose? What side effects can this med",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a medical drug information page about nabumetone and not related to TikTok trends.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "Nabumetone Nabumetonepronounced as (na byoo' me tone)Why is this medication prescribed? How should this medicine be used? Other uses for this medicine What special precautions should I follow? What special dietary instructions should I follow? What should I do if I forget a dose? What side effects can this med",
+  "history": {
+    "url": "https://medlineplus.gov/druginfo/meds/a692022.html",
+    "title": "Nabumetone",
+    "description": "Nabumetonepronounced as (na byoo' me tone)Why is this medication prescribed? How should this medicine be used? Other uses for this medicine What special precautions should I follow? What special dietary instructions should I follow? What should I do if I forget a dose? What side effects can this med",
+    "frecency": 298,
+    "url_hash": 30480626031833,
+    "last_visit_date": 1758203927948735
+  }
+}

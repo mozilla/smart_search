@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "What is target debt ratio? \"Financial Management The Practice of Accounting Financial Markets Ratios Financial Accounting Accountants Debt Accounting Stocks (financial) Economics Finance What is target debt ratio?ad by Columbia Business School Exec Ed Learn investment principles used by Warren Buffett. A two-month online prog",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses debt ratios and financial management, not API integration or debugging; therefore not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "What is target debt ratio? \"Financial Management The Practice of Accounting Financial Markets Ratios Financial Accounting Accountants Debt Accounting Stocks (financial) Economics Finance What is target debt ratio?ad by Columbia Business School Exec Ed Learn investment principles used by Warren Buffett. A two-month online prog",
+  "history": {
+    "url": "https://www.quora.com/What-is-target-debt-ratio",
+    "title": "What is target debt ratio?",
+    "description": "\"Financial Management The Practice of Accounting Financial Markets Ratios Financial Accounting Accountants Debt Accounting Stocks (financial) Economics Finance What is target debt ratio?ad by Columbia Business School Exec Ed Learn investment principles used by Warren Buffett. A two-month online prog",
+    "frecency": 3427,
+    "url_hash": 77091963761684,
+    "last_visit_date": 1758203928094200
+  }
+}

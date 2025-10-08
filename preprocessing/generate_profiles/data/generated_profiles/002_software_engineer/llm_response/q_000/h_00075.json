@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Are you charging the right price? Calculating the overhead percentage for your business is critical to pricing your goods and services profitably and operating your business successfully. Competitive pricing is always a hot-button issue with business owners. They know competitive prices will attract customers and that price is often",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses pricing and overhead, not API debugging or integration. It lacks any content related to debugging APIs or API integration topics.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Are you charging the right price? Calculating the overhead percentage for your business is critical to pricing your goods and services profitably and operating your business successfully. Competitive pricing is always a hot-button issue with business owners. They know competitive prices will attract customers and that price is often",
+  "history": {
+    "url": "https://missouribusiness.net/article/charging-the-right-price/",
+    "title": "Are you charging the right price?",
+    "description": "Calculating the overhead percentage for your business is critical to pricing your goods and services profitably and operating your business successfully. Competitive pricing is always a hot-button issue with business owners. They know competitive prices will attract customers and that price is often",
+    "frecency": 4876,
+    "url_hash": 14011379305831,
+    "last_visit_date": 1758203929814111
+  }
+}

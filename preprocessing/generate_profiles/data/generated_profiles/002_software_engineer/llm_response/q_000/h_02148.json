@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Networking Best Practices - Connecting Two Switches Connecting two switches together is an easy task, which makes it so frustrating when it doesn\u2019t work. Here we will outline a basic scenario of connecting two switches and achieving connectivity. In these scenarios we will be using commands and settings that will work for most modern Power Connect sw",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The result discusses networking switches and basic connectivity, not API integration debugging; it is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Networking Best Practices - Connecting Two Switches Connecting two switches together is an easy task, which makes it so frustrating when it doesn\u2019t work. Here we will outline a basic scenario of connecting two switches and achieving connectivity. In these scenarios we will be using commands and settings that will work for most modern Power Connect sw",
+  "history": {
+    "url": "http://en.community.dell.com/support-forums/network-switches/f/866/t/19506015",
+    "title": "Networking Best Practices - Connecting Two Switches",
+    "description": "Connecting two switches together is an easy task, which makes it so frustrating when it doesn\u2019t work. Here we will outline a basic scenario of connecting two switches and achieving connectivity. In these scenarios we will be using commands and settings that will work for most modern Power Connect sw",
+    "frecency": 1094,
+    "url_hash": 63627079071863,
+    "last_visit_date": 1758203928796111
+  }
+}

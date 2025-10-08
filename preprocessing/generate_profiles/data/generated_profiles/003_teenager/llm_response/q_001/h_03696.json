@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "Life expectancy \\\"From Wikipedia, the free encyclopedia (Redirected from Life-expectancy)navigation search This article is about the measure of remaining life. For the Dean Koontz novel, see Life Expectancy (novel). Human life expectancy at birth, measured by region, between 1950 and 2050Life expectancy is a statist",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses life expectancy, not TikTok trends, so it is not relevant to the query.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "Life expectancy \"From Wikipedia, the free encyclopedia (Redirected from Life-expectancy)navigation search This article is about the measure of remaining life. For the Dean Koontz novel, see Life Expectancy (novel). Human life expectancy at birth, measured by region, between 1950 and 2050Life expectancy is a statist",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Life-expectancy",
+    "title": "Life expectancy",
+    "description": "\"From Wikipedia, the free encyclopedia (Redirected from Life-expectancy)navigation search This article is about the measure of remaining life. For the Dean Koontz novel, see Life Expectancy (novel). Human life expectancy at birth, measured by region, between 1950 and 2050Life expectancy is a statist",
+    "frecency": 1147,
+    "url_hash": 80050439076878,
+    "last_visit_date": 1758203932437228
+  }
+}

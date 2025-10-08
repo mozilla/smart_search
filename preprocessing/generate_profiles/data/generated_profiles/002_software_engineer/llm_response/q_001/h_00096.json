@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Mowing To Recycle Grass Clippings: Let the Clips Fall Where They May! ... agronomy article about lawn turfgrass.",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page discusses grass clippings and turfgrass agronomy, not Python libraries or machine learning topics.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Mowing To Recycle Grass Clippings: Let the Clips Fall Where They May! \"430-402David R. Chalmers, Associate Professor and Extension Agronomist, Department of Crop and Soil Environmental Sciences, Virginia Tech and Judy Booze-Daniels, Research Associate, Department of Crop and Soil Environmental Sciences, Virginia Tech Lawn turfgrasses provide many benefits to our immed",
+  "history": {
+    "url": "https://www.pubs.ext.vt.edu/430/430-402/430-402.html",
+    "title": "Mowing To Recycle Grass Clippings: Let the Clips Fall Where They May!",
+    "description": "\"430-402David R. Chalmers, Associate Professor and Extension Agronomist, Department of Crop and Soil Environmental Sciences, Virginia Tech and Judy Booze-Daniels, Research Associate, Department of Crop and Soil Environmental Sciences, Virginia Tech Lawn turfgrasses provide many benefits to our immed",
+    "frecency": 4832,
+    "url_hash": 57136725692876,
+    "last_visit_date": 1758203931670111
+  }
+}

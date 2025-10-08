@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "NEUROLOGICAL ASSESSMENTS NEUROLOGICAL ASSESSMENTSThe neurological examination that is performed by many nurses today includes only a gross examination of the patient, Most chronic and acute medical and surgical nurses have no need for a detailed exam. However, this course deals with an exam for nurses who are involved with",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses neurological assessments for nurses; it has no relation to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "NEUROLOGICAL ASSESSMENTS NEUROLOGICAL ASSESSMENTSThe neurological examination that is performed by many nurses today includes only a gross examination of the patient, Most chronic and acute medical and surgical nurses have no need for a detailed exam. However, this course deals with an exam for nurses who are involved with",
+  "history": {
+    "url": "https://www.nurseslearning.com/courses/nrp/NRP-1616/Section4/index.htm",
+    "title": "NEUROLOGICAL ASSESSMENTS",
+    "description": "NEUROLOGICAL ASSESSMENTSThe neurological examination that is performed by many nurses today includes only a gross examination of the patient, Most chronic and acute medical and surgical nurses have no need for a detailed exam. However, this course deals with an exam for nurses who are involved with ",
+    "frecency": 4573,
+    "url_hash": 24734486095279,
+    "last_visit_date": 1758203929192111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "What is singing? \\\"Stefan Joyce 11 Contributions What is singing? It is to make talking sound beautiful. Singing is the way of projecting sounds that have different tones that regular speaking does. D4est 118,872 Contributions Can you sing or not? Not. Unfortunately. Who sings do you?ne-yo Patu 8,572 Contributions Wh",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses singing, which is unrelated to improving performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "What is singing? \"Stefan Joyce 11 Contributions What is singing? It is to make talking sound beautiful. Singing is the way of projecting sounds that have different tones that regular speaking does. D4est 118,872 Contributions Can you sing or not? Not. Unfortunately. Who sings do you?ne-yo Patu 8,572 Contributions Wh",
+  "history": {
+    "url": "http://www.answers.com/Q/Where_is_sing_sing_prison_located",
+    "title": "What is singing?",
+    "description": "\"Stefan Joyce 11 Contributions What is singing? It is to make talking sound beautiful. Singing is the way of projecting sounds that have different tones that regular speaking does. D4est 118,872 Contributions Can you sing or not? Not. Unfortunately. Who sings do you?ne-yo Patu 8,572 Contributions Wh",
+    "frecency": 4628,
+    "url_hash": 80634827895829,
+    "last_visit_date": 1758203930349228
+  }
+}

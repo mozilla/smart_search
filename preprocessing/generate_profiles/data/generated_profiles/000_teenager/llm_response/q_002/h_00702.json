@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "If By Rudyard Kipling poem page about Rudyard Kipling; mentions a famous line from the poem and is not about DIY room decoration ideas.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a Rudyard Kipling poem, not about easy DIY room decoration ideas; therefore not relevant.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "If By Rudyard Kipling \"Prev Poem Next Poem Famous Inspirational Poem If By Rudyard Kipling Rudyard Kipling was an English poet who lived from 1865-1936. He also wrote many children's stories. The poem's line, \"\"If you can meet with Triumph and Disaster and treat those two impostors just the same,\"\" is written on the wall",
+  "history": {
+    "url": "http://www.familyfriendpoems.com/poem/if-by-rudyard-kipling",
+    "title": "If By Rudyard Kipling",
+    "description": "\"Prev Poem Next Poem Famous Inspirational Poem If By Rudyard Kipling Rudyard Kipling was an English poet who lived from 1865-1936. He also wrote many children's stories. The poem's line, \"\"If you can meet with Triumph and Disaster and treat those two impostors just the same,\"\" is written on the wall",
+    "frecency": 1988,
+    "url_hash": 51493994879889,
+    "last_visit_date": 1758203928001139
+  }
+}

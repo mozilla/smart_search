@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Gene knockin \"This article needs attention from an expert in Genetics. Please add a reason or a talk parameter to explain the issue with the article. Wiki Project Genetics may be able to help recruit an expert. (February 2008)In molecular cloning and biology, a knock-in (or gene knock-in) refers",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses gene knock-in in genetics, which is unrelated to Docker or Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Gene knockin \"This article needs attention from an expert in Genetics. Please add a reason or a talk parameter to this template to explain the issue with the article. Wiki Project Genetics may be able to help recruit an expert. (February 2008)In molecular cloning and biology, a knock-in (or gene knock-in) refers",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Knock-in",
+    "title": "Gene knockin",
+    "description": "\"This article needs attention from an expert in Genetics. Please add a reason or a talk parameter to this template to explain the issue with the article. Wiki Project Genetics may be able to help recruit an expert. (February 2008)In molecular cloning and biology, a knock-in (or gene knock-in) refers",
+    "frecency": 3097,
+    "url_hash": 71052823845237,
+    "last_visit_date": 1758203928530200
+  }
+}

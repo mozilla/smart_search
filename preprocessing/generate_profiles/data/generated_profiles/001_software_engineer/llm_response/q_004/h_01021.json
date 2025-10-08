@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Hillary\u00e2s health issues are much worse than she lets on: book News Hillary\u2019s health issues are drastically worse than she has revealed publicly \u2014 and the potential presidential candidate tried to keep her medical in",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Hillary Clinton's health issues, not Docker setup or beginner Docker topics; it is unrelated to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Hillary\u00e2s health issues are much worse than she lets on: book News Hillary\u2019s health issues are much worse than she lets on: book By Joe Tacopino June 23, 2014 | 5:17am Modal Trigger Hillary Clinton Reuters Hillary Clinton\u2019s health issues are drastically worse than she has revealed publicly \u2014 and the potential presidential candidate tried to keep her medical in",
+  "history": {
+    "url": "http://nypost.com/2014/06/23/hillarys-health-issues-are-much-worse-than-she-lets-on-book/",
+    "title": "Hillary\u00e2s health issues are much worse than she lets on: book",
+    "description": "News Hillary\u2019s health issues are much worse than she lets on: book By Joe Tacopino June 23, 2014 | 5:17am Modal Trigger Hillary Clinton Reuters Hillary Clinton\u2019s health issues are drastically worse than she has revealed publicly \u2014 and the potential presidential candidate tried to keep her medical in",
+    "frecency": 1363,
+    "url_hash": 5670153022012,
+    "last_visit_date": 1758203927688200
+  }
+}

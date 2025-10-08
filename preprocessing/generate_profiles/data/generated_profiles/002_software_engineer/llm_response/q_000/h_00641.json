@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Chillicothe Chamber:The Greatest Thing for Business Chillicothe Chamber: The Greatest Thing for Business Join Today!",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result pertains to a Chamber of Commerce promotion and does not relate to debugging APIs or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Chillicothe Chamber:The Greatest Thing for Business Chillicothe Chamber: The Greatest Thing for Business Join Today!",
+  "history": {
+    "url": "http://www.chillicothemo.com/",
+    "title": "Chillicothe Chamber:The Greatest Thing for Business",
+    "description": "Chillicothe Chamber: The Greatest Thing for Business Join Today! ",
+    "frecency": 3860,
+    "url_hash": 33706117944761,
+    "last_visit_date": 1758203927140111
+  }
+}

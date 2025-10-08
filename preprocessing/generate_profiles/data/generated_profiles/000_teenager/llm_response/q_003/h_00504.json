@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "About CPRA \\\"About CPRAHome Resources Allocation Calculators About CPRAPatient Safety Allocation Calculators CPRA Calculator EPTS Calculator KDPI Calculator LAS Calculator MELD Calculator PELD Calculator By Organ Kidney & Pancreas Liver & Intestine Heart & Lung Vascular Composite Allograft Organ Transport Livin",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns CPRA medical calculators and organ transplant resources, which is not related to or strongly relevant to apps for improving study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "About CPRA \"About CPRAHome Resources Allocation Calculators About CPRAPatient Safety Allocation Calculators CPRA Calculator EPTS Calculator KDPI Calculator LAS Calculator MELD Calculator PELD Calculator By Organ Kidney & Pancreas Liver & Intestine Heart & Lung Vascular Composite Allograft Organ Transport Livin",
+  "history": {
+    "url": "https://optn.transplant.hrsa.gov/resources/allocation-calculators/about-cpra/",
+    "title": "About CPRA",
+    "description": "\"About CPRAHome Resources Allocation Calculators About CPRAPatient Safety Allocation Calculators CPRA Calculator EPTS Calculator KDPI Calculator LAS Calculator MELD Calculator PELD Calculator By Organ Kidney & Pancreas Liver & Intestine Heart & Lung Vascular Composite Allograft Organ Transport Livin",
+    "frecency": 2740,
+    "url_hash": 68355213273465,
+    "last_visit_date": 1758203928255139
+  }
+}

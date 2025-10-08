@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "The Hottest New Diet of 2015 That You Haven't Heard Of \\\"By Locke Hughes Jan 20, 2015 5.3k Getty Images When it comes to nutrition, the mind-boggling mix of advice can make anyone's head spin. Should you eat whole grains, or avoid gluten? Consume lean protein, or be a vegetarian? Go low-fat, or eat plenty of fat with every meal? It's no wonder we're all",
+  "relevance_score": 0.15,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses a diet article, not strategies or information about improving athletic performance; nutrition is tangential, but the page is not primarily about getting better at sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "The Hottest New Diet of 2015 That You Haven't Heard Of \"By Locke Hughes Jan 20, 2015 5.3k Getty Images When it comes to nutrition, the mind-boggling mix of advice can make anyone's head spin. Should you eat whole grains, or avoid gluten? Consume lean protein, or be a vegetarian? Go low-fat, or eat plenty of fat with every meal? It's no wonder we're all",
+  "history": {
+    "url": "http://www.redbookmag.com/body/healthy-eating/news/a19936/pegan-diet/",
+    "title": "The Hottest New Diet of 2015 That You Haven't Heard Of",
+    "description": "\"By Locke Hughes Jan 20, 2015 5.3k Getty Images When it comes to nutrition, the mind-boggling mix of advice can make anyone's head spin. Should you eat whole grains, or avoid gluten? Consume lean protein, or be a vegetarian? Go low-fat, or eat plenty of fat with every meal? It's no wonder we're all ",
+    "frecency": 2491,
+    "url_hash": 67986402275429,
+    "last_visit_date": 1758203935125228
+  }
+}

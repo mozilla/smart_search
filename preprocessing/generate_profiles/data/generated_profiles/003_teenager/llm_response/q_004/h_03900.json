@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Jamaica Beaches As the third largest Caribbean island (after Cuba and Hispaniola), Jamaica has hundreds of miles of beautiful coastline. The beaches of Jamaica are some of the finest in the Caribbean. Some Jamaica beaches are lively, fun-filled places, packed with young sunbathers listening to loud reggae music , o",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Jamaica's beaches and tourism, not content related to improving performance or skills in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Jamaica Beaches As the third largest Caribbean island (after Cuba and Hispaniola), Jamaica has hundreds of miles of beautiful coastline. The beaches of Jamaica are some of the finest in the Caribbean. Some Jamaica beaches are lively, fun-filled places, packed with young sunbathers listening to loud reggae music , o",
+  "history": {
+    "url": "http://www.destination360.com/caribbean/jamaica/jamaica-beaches/",
+    "title": "Jamaica Beaches",
+    "description": "As the third largest Caribbean island (after Cuba and Hispaniola), Jamaica has hundreds of miles of beautiful coastline. The beaches of Jamaica are some of the finest in the Caribbean. Some Jamaica beaches are lively, fun-filled places, packed with young sunbathers listening to loud reggae music , o",
+    "frecency": 963,
+    "url_hash": 81213691039590,
+    "last_visit_date": 1758203933151228
+  }
+}

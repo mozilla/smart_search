@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Microchips now in production 27/05/2002 At the beginning of March this year, the first microchip was dispatched from Grundfos's sensor department in Farum to the electronics factory in Bjerringbro, where it was integrated in a pressure sensor. This was the start of the actual production of microchips \u2013 after approximately eighteen",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The page discusses microchips production and sensors, not software development IDEs, so it is not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Microchips now in production 27/05/2002At the beginning of March this year, the first microchip was dispatched from Grundfos\u2019 sensor department in Farum to the electronics factory in Bjerringbro, where it was integrated in a pressure sensor. This was the start of theactual production of microchips \u2013 after approximately eighteen",
+  "history": {
+    "url": "http://www.grundfos.com/about-us/news-and-press/news/microchips-now-in-production.html",
+    "title": "Microchips now in production",
+    "description": "27/05/2002At the beginning of March this year, the first microchip was dispatched from Grundfos\u2019 sensor department in Farum to the electronics factory in Bjerringbro, where it was integrated in a pressure sensor. This was the start of theactual production of microchips \u2013 after approximately eighteen",
+    "frecency": 1641,
+    "url_hash": 61254087592857,
+    "last_visit_date": 1758203929408200
+  }
+}

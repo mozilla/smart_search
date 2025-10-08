@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "The largest prime number yet discovered \u00e2 all 17 million digits of it Mathematics Alex Bellos's Adventures in Numberland The largest prime number yet discovered \u2013 all 17 million digits of it Ever since Euclid proved there were an infinite number of prime numbers, mathematicians have been on a quest to find higher and higher examples Alex Bellos@alexbellos Wed 6 Feb 20",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a mathematics article about prime numbers, not related to Python libraries for machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "The largest prime number yet discovered \u00e2 all 17 million digits of it Mathematics Alex Bellos's Adventures in Numberland The largest prime number yet discovered \u2013 all 17 million digits of it Ever since Euclid proved there were an infinite number of prime numbers, mathematicians have been on a quest to find higher and higher examples Alex Bellos@alexbellos Wed 6 Feb 20",
+  "history": {
+    "url": "https://www.theguardian.com/science/alexs-adventures-in-numberland/2013/feb/06/largest-prime-number-17-million-digits",
+    "title": "The largest prime number yet discovered \u00e2 all 17 million digits of it",
+    "description": "Mathematics Alex Bellos's Adventures in Numberland The largest prime number yet discovered \u2013 all 17 million digits of it Ever since Euclid proved there were an infinite number of prime numbers, mathematicians have been on a quest to find higher and higher examples Alex Bellos@alexbellos Wed 6 Feb 20",
+    "frecency": 4743,
+    "url_hash": 94421710908192,
+    "last_visit_date": 1758203931144111
+  }
+}

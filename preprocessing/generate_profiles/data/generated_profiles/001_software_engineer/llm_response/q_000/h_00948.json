@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Kansas \"May 2017 State Occupational Employment and Wage Estimates Kansas These occupational employment and wage estimates are calculated with data collected from employers in all industry sectors in metropolitan and nonmetropolitan areas in Kansas. Additional information, including the hourly and annual 10",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page discusses Kansas state occupational employment and wage estimates and is unrelated to debugging API integrations.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Kansas \"May 2017 State Occupational Employment and Wage Estimates Kansas These occupational employment and wage estimates are calculated with data collected from employers in all industry sectors in metropolitan and nonmetropolitan areas in Kansas. Additional information, including the hourly and annual 10",
+  "history": {
+    "url": "https://www.bls.gov/oes/current/oes_ks.htm",
+    "title": "Kansas",
+    "description": "\"May 2017 State Occupational Employment and Wage Estimates Kansas These occupational employment and wage estimates are calculated with data collected from employers in all industry sectors in metropolitan and nonmetropolitan areas in Kansas. Additional information, including the hourly and annual 10",
+    "frecency": 1672,
+    "url_hash": 42075037416280,
+    "last_visit_date": 1758203927658200
+  }
+}

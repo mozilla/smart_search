@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Bayport (The Hardy Boys) \"Bayport (The Hardy Boys)From Wikipedia, the free encyclopedia navigation search Bayport is the city used as the setting in the famous Hardy Boys novels. In the books it is located on Barmet Bay, a horseshoe-shaped inlet three miles from the Atlantic Ocean. It is the residence of The Hardy family and",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns a fictional setting in a novel series and has no relation to improving at sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Bayport (The Hardy Boys) \"Bayport (The Hardy Boys)From Wikipedia, the free encyclopedianavigation search Bayport is the city used as the setting in the famous Hardy Boys novels. In the books it is located on Barmet Bay, a horseshoe-shaped inlet three miles from the Atlantic Ocean. It is the residence of The Hardy family and",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Bayport_(The_Hardy_Boys)",
+    "title": "Bayport (The Hardy Boys)",
+    "description": "\"Bayport (The Hardy Boys)From Wikipedia, the free encyclopedianavigation search Bayport is the city used as the setting in the famous Hardy Boys novels. In the books it is located on Barmet Bay, a horseshoe-shaped inlet three miles from the Atlantic Ocean. It is the residence of The Hardy family and",
+    "frecency": 2826,
+    "url_hash": 20641233424845,
+    "last_visit_date": 1758203936103228
+  }
+}

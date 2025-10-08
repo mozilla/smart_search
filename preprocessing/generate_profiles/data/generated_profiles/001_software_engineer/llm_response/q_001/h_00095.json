@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Q: Why does iPad2 take so long to charge? Q: Why does i Pad2 take so long to charge? I just purchased a refergished i Pad 2 which I initially charged vis USB computer connection. After receiving and installing the Smart Cover several days later. I noticed yesterday that the charge level was indicating 50%. At the time I was also attempting",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about iPad charging issues, unrelated to Python libraries or machine learning, so it is not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Q: Why does iPad2 take so long to charge? Q: Why does i Pad2 take so long to charge? I just purchased a refergished i Pad 2 which I initially charged vis USB computer connection. After receiving and installing the Smart Cover several days later. I noticed yesterday that the charge level was indicating 50%. At the time I was also attempting",
+  "history": {
+    "url": "https://discussions.apple.com/thread/4012111?start=0&tstart=0",
+    "title": "Q: Why does iPad2 take so long to charge?",
+    "description": "Q: Why does i Pad2 take so long to charge? I just purchased a refergished i Pad 2 which I initially charged vis USB computer connection. After receiving and installing the Smart Cover several days later. I noticed yesterday that the charge level was indicating 50%. At the time I was also attempting ",
+    "frecency": 4669,
+    "url_hash": 89769397246442,
+    "last_visit_date": 1758203928574200
+  }
+}

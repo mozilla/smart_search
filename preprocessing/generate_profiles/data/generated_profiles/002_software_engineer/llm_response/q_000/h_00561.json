@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Pineville Clerk Office Pineville Clerk Office Home Government Administration Offices Clerk Offices North Carolina Mecklenburg County Pineville Find Pineville North Carolina clerk offices, including county, city, and circuit clerks, and clerks of court. Clerks provide information on public court records and legal documents",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The page describes a clerk office directory and public records in Pineville, NC, not guidance on debugging APIs or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Pineville Clerk Office Pineville Clerk Office Home Government Administration Offices Clerk Offices North Carolina Mecklenburg County Pineville Find Pineville North Carolina clerk offices, including county, city, and circuit clerks, and clerks of court. Clerks provide information on public court records and legal documents",
+  "history": {
+    "url": "http://www.countyoffice.org/pineville-nc-clerk/",
+    "title": "Pineville Clerk Office",
+    "description": "Pineville Clerk Office Home Government Administration Offices Clerk Offices North Carolina Mecklenburg County Pineville Find Pineville North Carolina clerk offices, including county, city, and circuit clerks, and clerks of court. Clerks provide information on public court records and legal documents",
+    "frecency": 4044,
+    "url_hash": 5862458703381,
+    "last_visit_date": 1758203931408111
+  }
+}

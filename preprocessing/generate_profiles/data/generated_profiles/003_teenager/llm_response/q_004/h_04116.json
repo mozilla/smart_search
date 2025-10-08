@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Coin Grading Tutorial \"Coin Grading Tutorial View grading tutorials for currency and other collectible types Coin grading is done both by adjectives and on a 1-70 numeric scale, and standards are developed enough that most collectors will be able to agree on how a coin should look given how the coin's grade is described.\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns coin grading and collectibles, not sports or athletic improvement; thus it is not relevant to the query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Coin Grading Tutorial \"Coin Grading Tutorial View grading tutorials for currency and other collectible types Coin grading is done both by adjectives and on a 1-70 numeric scale, and standards are developed enough that most collectors will be able to agree on how a coin should look given how the coin's grade is described.",
+  "history": {
+    "url": "https://coins.ha.com/tutorial/coin-grading.s",
+    "title": "Coin Grading Tutorial",
+    "description": "\"Coin Grading Tutorial View grading tutorials for currency and other collectible types Coin grading is done both by adjectives and on a 1-70 numeric scale, and standards are developed enough that most collectors will be able to agree on how a coin should look given how the coin's grade is described.",
+    "frecency": 743,
+    "url_hash": 48716744645532,
+    "last_visit_date": 1758203929048735
+  }
+}

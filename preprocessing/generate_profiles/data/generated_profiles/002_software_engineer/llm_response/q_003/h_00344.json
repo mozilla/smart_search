@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Supermarkets using 'too much packaging' \\\"Supermarkets are still using too much unnecessary packaging, according to the consumer watchdog Which? Breakfast cereals were found to fill only about half the plastic bag inside the cereal box Photo: APBy Harry Wallop, Consumer Affairs Editor6:00AM BST 29 Apr",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns supermarket packaging and consumer watchdog reports, unrelated to optimizing or querying databases.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Supermarkets using 'too much packaging' \"Supermarkets using 'too much packaging'Supermarkets are still using too much unnecessary packaging, according to the consumer watchdog Which? Breakfast cereals were found to fill only about half the plastic bag inside the cereal box Photo: APBy Harry Wallop, Consumer Affairs Editor6:00AM BST 29 Apr",
+  "history": {
+    "url": "http://www.telegraph.co.uk/finance/newsbysector/retailandconsumer/8477658/Supermarkets-using-too-much-packaging.html",
+    "title": "Supermarkets using 'too much packaging'",
+    "description": "\"Supermarkets using 'too much packaging'Supermarkets are still using too much unnecessary packaging, according to the consumer watchdog Which? Breakfast cereals were found to fill only about half the plastic bag inside the cereal box Photo: APBy Harry Wallop, Consumer Affairs Editor6:00AM BST 29 Apr",
+    "frecency": 4407,
+    "url_hash": 44631324131522,
+    "last_visit_date": 1758203928904111
+  }
+}

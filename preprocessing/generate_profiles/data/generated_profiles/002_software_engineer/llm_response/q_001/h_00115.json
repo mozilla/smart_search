@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Auctioneer Tom Plant What was your first job and what did your responsibilities include? I was a porter in the Bath saleroom of Phillips Auctioneers. My responsibilities were to set out the auction ready for viewing, look after clients when they came to view and help them with their bought lots afterwards. Then I had to",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses an auctioneer's personal job history and is unrelated to Python, machine learning libraries, or ML topics.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Auctioneer Tom Plant What was your first job and what did your responsibilities include? I was a porter in the Bath saleroom of Phillips Auctioneers. My responsibilities were to set out the auction ready for viewing, look after clients when they came to view and help them with their bought lots afterwards. Then I had to",
+  "history": {
+    "url": "http://www.oxfordtimes.co.uk/business/profiles/8271933.Auctioneer_Tom_Plant/",
+    "title": "Auctioneer Tom Plant",
+    "description": "What was your first job and what did your responsibilities include? I was a porter in the Bath saleroom of Phillips Auctioneers. My responsibilities were to set out the auction ready for viewing, look after clients when they came to view and help them with their bought lots afterwards. Then I had to",
+    "frecency": 4803,
+    "url_hash": 75726719605387,
+    "last_visit_date": 1758203930184111
+  }
+}

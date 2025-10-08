@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Literary criticism \"From Wikipedia, the free encyclopedianavigation search For the events sanctioned by the University Interscholastic League, see Literary Criticism (UIL). This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced mate",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page discusses literary criticism and is unrelated to DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Literary criticism \"From Wikipedia, the free encyclopedianavigation search For the events sanctioned by the University Interscholastic League, see Literary Criticism (UIL). This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced mate",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Literary_criticism",
+    "title": "Literary criticism",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search For the events sanctioned by the University Interscholastic League, see Literary Criticism (UIL). This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced mate",
+    "frecency": 2756,
+    "url_hash": 20521491227906,
+    "last_visit_date": 1758203926677139
+  }
+}

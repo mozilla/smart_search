@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Roberts Creek East Campground, IA BACK TO SEARCHOVERVIEWAddress Activities SOCIALVISITOR PHOTOSLog-In and Be the First to Upload a Photo LOCAL INFORMATION AND SERVICESRoberts Creek East Campground This recreation area is part of Lake Red Rock Address Knoxville, IAImage may be subject to copyright Terms of Use Map2 km Activities CAMP",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns a campground in Iowa and is unrelated to database query optimization; content mismatch.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Roberts Creek East Campground, IA BACK TO SEARCHOVERVIEWAddress Activities SOCIALVISITOR PHOTOSLog-In and Be the First to Upload a Photo LOCAL INFORMATION AND SERVICESRoberts Creek East Campground This recreation area is part of Lake Red Rock Address Knoxville, IAImage may be subject to copyright Terms of Use Map2 km Activities CAMP",
+  "history": {
+    "url": "http://www.recreation.gov/recreationalAreaDetails.do?contractCode=NRSO&facilityId=247966",
+    "title": "Roberts Creek East Campground, IA",
+    "description": "BACK TO SEARCHOVERVIEWAddress Activities SOCIALVISITOR PHOTOSLog-In and Be the First to Upload a Photo LOCAL INFORMATION AND SERVICESRoberts Creek East Campground This recreation area is part of Lake Red Rock Address Knoxville, IAImage may be subject to copyright Terms of Use Map2 km Activities CAMP",
+    "frecency": 967,
+    "url_hash": 32724467601606,
+    "last_visit_date": 1758203927394200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Team RWB Mission Team RWB Mission To enrich the lives of America\u2019s veterans by connecting them to their community through physical and social activity. We define enrichment as creating quality relationships and experiences that contribute to life satisfaction and overall well-being. The concept of enrichment consist",
+  "relevance_score": 0.2,
+  "binary_decision": 0,
+  "Decision_Reason": "The page describes Team RWB's mission to enrich veterans' lives through physical and social activity, not guidance or content on improving sports performance or skills.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Team RWB Mission Team RWB Mission To enrich the lives of America\u2019s veterans by connecting them to their community through physical and social activity. We define enrichment as creating quality relationships and experiences that contribute to life satisfaction and overall well-being. The concept of enrichment consist",
+  "history": {
+    "url": "https://www.teamrwb.org/our-approach/mission",
+    "title": "Team RWB Mission",
+    "description": "Team RWB Mission To enrich the lives of America\u2019s veterans by connecting them to their community through physical and social activity. We define enrichment as creating quality relationships and experiences that contribute to life satisfaction and overall well-being. The concept of enrichment consist",
+    "frecency": 3708,
+    "url_hash": 77265326795663,
+    "last_visit_date": 1758203928077139
+  }
+}

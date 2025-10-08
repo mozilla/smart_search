@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Right-to-work law \"From Wikipedia, the free encyclopedianavigation search This article is about the U. S. laws prohibiting mandated union membership and dues. For the human right concept, see right to work. For the Indian law, see National Rural Employment Guarantee Act. \"\"Right-to-work laws\"\" are statutes in 28 U. S",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses right-to-work laws (labor law) and is unrelated to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Right-to-work law \"From Wikipedia, the free encyclopedianavigation search This article is about the U. S. laws prohibiting mandated union membership and dues. For the human right concept, see right to work. For the Indian law, see National Rural Employment Guarantee Act. \"\"Right-to-work laws\"\" are statutes in 28 U. S",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Right-to-work_law",
+    "title": "Right-to-work law",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search This article is about the U. S. laws prohibiting mandated union membership and dues. For the human right concept, see right to work. For the Indian law, see National Rural Employment Guarantee Act. \"\"Right-to-work laws\"\" are statutes in 28 U. S",
+    "frecency": 3198,
+    "url_hash": 94566101142783,
+    "last_visit_date": 1758203931504111
+  }
+}

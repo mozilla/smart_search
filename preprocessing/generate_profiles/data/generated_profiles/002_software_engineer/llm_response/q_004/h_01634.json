@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Natalie Portman \\\"in: Real-world articles, Star Wars prequel trilogy actors Natalie Portman Edit Share Natalie Portman Biographical information Born June 9, 1981Jerusalem, Israel Nationality Israeli - American (Dual citizenship)Career Occupation Actress Star Wars work Episode IEpisode IIIEpisode IIIOther works of not",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes Natalie Portman and biography, not related to Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Natalie Portman \"in: Real-world articles, Star Wars prequel trilogy actors Natalie Portman Edit Share Natalie Portman Biographical information Born June 9, 1981Jerusalem, Israel Nationality Israeli - American (Dual citizenship)Career Occupation Actress Star Wars work Episode IEpisode IIEpisode IIIOther works of not",
+  "history": {
+    "url": "http://starwars.wikia.com/wiki/Natalie_Portman",
+    "title": "Natalie Portman",
+    "description": "\"in: Real-world articles, Star Wars prequel trilogy actors Natalie Portman Edit Share Natalie Portman Biographical information Born June 9, 1981Jerusalem, Israel Nationality Israeli - American (Dual citizenship)Career Occupation Actress Star Wars work Episode IEpisode IIEpisode IIIOther works of not",
+    "frecency": 2041,
+    "url_hash": 15312104756933,
+    "last_visit_date": 1758203927954111
+  }
+}

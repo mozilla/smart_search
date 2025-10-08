@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Brine shrimp Brine shrimp How do they survive in such an extreme environment? The Great Salt Lake ecosystem is a difficult place to survive for most organisms, partly because of the high salinity and, second, because of widely varying water temperatures. The brine shrimp's life history and physiology allow them",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about brine shrimp and the Great Salt Lake, not about apps or study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Brine shrimp Brine shrimp How do they survive in such an extreme environment? The Great Salt Lake ecosystem is a difficult place to survive for most organisms, partly because of the high salinity and, second, because of widely varying water temperatures. The brine shrimp's life history and physiology allow them",
+  "history": {
+    "url": "http://wildlife.utah.gov/gsl/brineshrimp/survive.php",
+    "title": "Brine shrimp",
+    "description": "Brine shrimp How do they survive in such an extreme environment? The Great Salt Lake ecosystem is a difficult place to survive for most organisms, partly because of the high salinity and, second, because of widely varying water temperatures. The brine shrimp's life history and physiology allow them ",
+    "frecency": 1303,
+    "url_hash": 3855802911862,
+    "last_visit_date": 1758203933295228
+  }
+}

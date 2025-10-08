@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "DHCP: Port 67 (DHCP server port for IPv4) should not be in use by any other process Docs Previous Versions Windows DHCP: Port 67 (DHCP server port for IPv4) should not be in use by any other process September 11, 2012 2 minutes to read In this article Issue Impact Resolution To configure DHCP to use port 67Additional references Applies To: Windows Server 2008 R2, Windows Server 201",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses DHCP server configuration and port usage on Windows, which is unrelated to IDEs or software development environments. Therefore, it is not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "DHCP: Port 67 (DHCP server port for IPv4) should not be in use by any other process Docs Previous Versions Windows DHCP: Port 67 (DHCP server port for IPv4) should not be in use by any other process September 11, 2012 2 minutes to read In this article Issue Impact Resolution To configure DHCP to use port 67Additional references Applies To: Windows Server 2008 R2, Windows Server 201",
+  "history": {
+    "url": "https://technet.microsoft.com/en-us/library/ee941126(v=ws.10).aspx",
+    "title": "DHCP: Port 67 (DHCP server port for IPv4) should not be in use by any other process",
+    "description": "Docs Previous Versions Windows DHCP: Port 67 (DHCP server port for IPv4) should not be in use by any other process September 11, 2012 2 minutes to read In this article Issue Impact Resolution To configure DHCP to use port 67Additional references Applies To: Windows Server 2008 R2, Windows Server 201",
+    "frecency": 4885,
+    "url_hash": 97002907058631,
+    "last_visit_date": 1758203931138111
+  }
+}

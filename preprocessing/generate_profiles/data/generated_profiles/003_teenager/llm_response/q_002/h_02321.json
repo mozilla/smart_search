@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Thy Will Be Done Lyrics I can't lie and say I Always understand why The rain falls on me And I have to admit, I feel my faith is gone It's easy to believe when sorrow never comes your way And when I try to pray, it seems the words they come out wrong*Bridge* So everything that matters to me I give it all to you 'cause I'm",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is song lyrics, not about DIY room decoration ideas; therefore not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Thy Will Be Done Lyrics I can't lie and say I Always understand why The rain falls on me And I have to admit, I feel my faith is gone It's easy to believe when sorrow never comes your way And when I try to pray, it seems the words they come out wrong*Bridge* So everything that matters to me I give it all to you 'cause I'm",
+  "history": {
+    "url": "http://www.metrolyrics.com/thy-will-be-done-lyrics-deborah-cox.html",
+    "title": "Thy Will Be Done Lyrics",
+    "description": "I can't lie and say I Always understand why The rain falls on me And I have to admit, I feel my faith is gone It's easy to believe when sorrow never comes your way And when I try to pray, it seems the words they come out wrong*Bridge* So everything that matters to me I give it all to you 'cause I'm ",
+    "frecency": 2603,
+    "url_hash": 44968922793177,
+    "last_visit_date": 1758203932177228
+  }
+}

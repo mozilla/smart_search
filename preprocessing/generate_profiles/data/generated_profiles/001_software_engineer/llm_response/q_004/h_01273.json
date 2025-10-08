@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Becoming a Military Barber \"Home \u00bb Classroom Becoming a Military Barber By Joseph Cohen; Updated October 04, 2017The armed forces hire civilian barbers to provide hair-cutting services for service members. Although the television show \"King of the Hill\" portrayed military barbers as members of the armed services, actual mil",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about becoming a military barber and is unrelated to Docker or computing; it does not address the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Becoming a Military Barber \"Home \u00bb Classroom Becoming a Military Barber By Joseph Cohen; Updated October 04, 2017The armed forces hire civilian barbers to provide hair-cutting services for service members. Although the television show \"\"King of the Hill\"\" portrayed military barbers as members of the armed services, actual mil",
+  "history": {
+    "url": "http://www.ehow.com/how_6875185_becoming-military-barber.html",
+    "title": "Becoming a Military Barber",
+    "description": "\"Home \u00bb Classroom Becoming a Military Barber By Joseph Cohen; Updated October 04, 2017The armed forces hire civilian barbers to provide hair-cutting services for service members. Although the television show \"\"King of the Hill\"\" portrayed military barbers as members of the armed services, actual mil",
+    "frecency": 520,
+    "url_hash": 65106883887934,
+    "last_visit_date": 1758203928666200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Wi-Fi Signal Interference Can Leak Your Passwords and Keystrokes \"Wi-Fi Signal Interference Can Leak Your Passwords and Keystrokes Monday, November 14, 2016 Swati Khandelwal Hackers can steal your sensitive information, such as your Passwords, PINs and Keystrokes, from your phone by observing changes in the wireless signal as you enter them into your smartphones.\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Wi-Fi signal interference and keystroke security, which is unrelated to debugging API integrations.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Wi-Fi Signal Interference Can Leak Your Passwords and Keystrokes \"Wi-Fi Signal Interference Can Leak Your Passwords and Keystrokes Monday, November 14, 2016 Swati Khandelwal Hackers can steal your sensitive information, such as your Passwords, PINs and Keystrokes, from your phone by observing changes in the wireless signal as you enter them into your smartphones.",
+  "history": {
+    "url": "http://thehackernews.com/2016/11/hack-wifi-password.html",
+    "title": "Wi-Fi Signal Interference Can Leak Your Passwords and Keystrokes",
+    "description": "\"Wi-Fi Signal Interference Can Leak Your Passwords and Keystrokes Monday, November 14, 2016 Swati Khandelwal Hackers can steal your sensitive information, such as your Passwords, PINs and Keystrokes, from your phone by observing changes in the wireless signal as you enter them into your smartphones.",
+    "frecency": 4221,
+    "url_hash": 81181447766511,
+    "last_visit_date": 1758203931840111
+  }
+}

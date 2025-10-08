@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Royal Orders \"AWARDING SYSTEM OF THE ROYAL HOUSE OF GEORGIABACKGROUNDThe Georgian Kingdom never had a tradition to grant chivalric honours. Contrary to many European sovereigns, the Georgian kings used to reward their subordinates with a sword, or a castle, or a plot of land. During the last period of the Georgi",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses royal honours and the Georgian kingdom, with no relevance to database queries or optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Royal Orders \"AWARDING SYSTEM OF THE ROYAL HOUSE OF GEORGIABACKGROUNDThe Georgian Kingdom never had a tradition to grant chivalric honours. Contrary to many European sovereigns, the Georgian kings used to reward their subordinates with a sword, or a castle, or a plot of land. During the last period of the Georgi",
+  "history": {
+    "url": "http://www.royal-houseofgeorgia.org/royal-orders",
+    "title": "Royal Orders",
+    "description": "\"AWARDING SYSTEM OF THE ROYAL HOUSE OF GEORGIABACKGROUNDThe Georgian Kingdom never had a tradition to grant chivalric honours. Contrary to many European sovereigns, the Georgian kings used to reward their subordinates with a sword, or a castle, or a plot of land. During the last period of the Georgi",
+    "frecency": 2542,
+    "url_hash": 31628115553106,
+    "last_visit_date": 1758203930022111
+  }
+}

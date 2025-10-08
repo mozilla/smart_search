@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Physician / Doctor, Cardiologist  Salary Physician / Doctor, Cardiologist Salary (Canada)The average pay for a Physician / Doctor, Cardiologist is C$149,019 per year. Most people move on to other jobs if they have more than 20 years' experience in this career. Experience strongly influences income for this job. C$73K C$98K C$190K C$290K C$",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses physician salaries and careers, not Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Physician / Doctor, Cardiologist  Salary Physician / Doctor, Cardiologist Salary (Canada)The average pay for a Physician / Doctor, Cardiologist is C$149,019 per year. Most people move on to other jobs if they have more than 20 years' experience in this career. Experience strongly influences income for this job. C$73K C$98K C$190K C$290K C$",
+  "history": {
+    "url": "http://www.payscale.com/research/CA/Job=Physician_%2f_Doctor%2c_Cardiologist/Salary",
+    "title": "Physician / Doctor, Cardiologist  Salary",
+    "description": "Physician / Doctor, Cardiologist Salary (Canada)The average pay for a Physician / Doctor, Cardiologist is C$149,019 per year. Most people move on to other jobs if they have more than 20 years' experience in this career. Experience strongly influences income for this job. C$73K C$98K C$190K C$290K C$",
+    "frecency": 4241,
+    "url_hash": 53049702841081,
+    "last_visit_date": 1758203927070200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "RV Life and Travel: Full-time RVing, RV Traveling, and RV Camping. Content focuses on RV experiences and travel, not easy DIY room decoration ideas.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about RV life and travel, not about easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "RV Life and Travel: Full-time RVing, RV Traveling, and RV Camping \"Visit Bob and Coleen's Workers On Wheels Website for Working RVers RV Life and Travel: Full-time RVing, RV Traveling, and RV Camping RV Life and Travel shares our RV experiences -- full-time RVing, cold weather RVing in Alaska, summer RV camping trips, snowbird RV parks in the south, and boondockin",
+  "history": {
+    "url": "http://www.rv-life-and-travel.com/",
+    "title": "RV Life and Travel: Full-time RVing, RV Traveling, and RV Camping",
+    "description": "\"Visit Bob and Coleen's Workers On Wheels Website for Working RVers RV Life and Travel: Full-time RVing, RV Traveling, and RV Camping RV Life and Travel shares our RV experiences -- full-time RVing, cold weather RVing in Alaska, summer RV camping trips, snowbird RV parks in the south, and boondockin",
+    "frecency": 3349,
+    "url_hash": 34723625475547,
+    "last_visit_date": 1758203936375727
+  }
+}

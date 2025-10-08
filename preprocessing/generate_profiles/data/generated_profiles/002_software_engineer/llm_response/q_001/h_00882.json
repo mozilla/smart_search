@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "RV Sales Manager Salaries RV Sales Manager Salaries About This Data39,273 Salaries Updated Jun 23, 2013All Industries Accounting & Legal Aerospace & Defense Architecture & Civil Engineering Arts & Entertainment Automotive Banking & Financial Services Beauty & Fitness Biotech & Pharmaceuticals Business Services Computer Softw",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page discusses RV sales manager salaries and industry categories, not Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "RV Sales Manager Salaries RV Sales Manager Salaries About This Data39,273 Salaries Updated Jun 23, 2013All Industries Accounting & Legal Aerospace & Defense Architecture & Civil Engineering Arts & Entertainment Automotive Banking & Financial Services Beauty & Fitness Biotech & Pharmaceuticals Business Services Computer Softw",
+  "history": {
+    "url": "https://www.glassdoor.com/Salaries/rv-sales-manager-salary-SRCH_KO0,16.htm",
+    "title": "RV Sales Manager Salaries",
+    "description": "RV Sales Manager Salaries About This Data39,273 Salaries Updated Jun 23, 2013All Industries Accounting & Legal Aerospace & Defense Architecture & Civil Engineering Arts & Entertainment Automotive Banking & Financial Services Beauty & Fitness Biotech & Pharmaceuticals Business Services Computer Softw",
+    "frecency": 3404,
+    "url_hash": 3481385221417,
+    "last_visit_date": 1758203930418111
+  }
+}

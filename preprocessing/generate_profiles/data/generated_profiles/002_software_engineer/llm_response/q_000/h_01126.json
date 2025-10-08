@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "remediation remediation Remediation has to do with righting a wrong or correcting a fault. Students who can't read well or do their multiplication tables might need remediation to bring them up to speed. Remediation is a word for fixing things that aren't right. You often hear about criminals needing rehabilita",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses remediation (fixing faults) and rehabilitation concepts, not debugging APIs or API integration troubleshooting; therefore it is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "remediation remediation Remediation has to do with righting a wrong or correcting a fault. Students who can't read well or do their multiplication tables might need remediation to bring them up to speed. Remediation is a word for fixing things that aren't right. You often hear about criminals needing rehabilita",
+  "history": {
+    "url": "https://www.vocabulary.com/dictionary/remediation",
+    "title": "remediation",
+    "description": "remediation Remediation has to do with righting a wrong or correcting a fault. Students who can't read well or do their multiplication tables might need remediation to bring them up to speed. Remediation is a word for fixing things that aren't right. You often hear about criminals needing rehabilita",
+    "frecency": 3008,
+    "url_hash": 56109187679808,
+    "last_visit_date": 1758203927576111
+  }
+}

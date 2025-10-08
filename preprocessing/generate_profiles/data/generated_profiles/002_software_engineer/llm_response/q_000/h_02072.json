@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "How much do you pay a dog walker? \"Pets Dogs How much do you pay a dog walker? Update: yes people pay for this stuff, surprisingly. My wife is going to do it as a side job...crazy what people pay for. Update 2: im going to extend this question so there are no problems as Y! answers makes updates on sunday.1 following 24 answers Answ",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns paying a dog walker and is unrelated to debugging API integration; it provides no relevant information toward the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "How much do you pay a dog walker? \"Pets Dogs How much do you pay a dog walker? Update: yes people pay for this stuff, surprisingly. My wife is going to do it as a side job...crazy what people pay for. Update 2: im going to extend this question so there are no problems as Y! answers makes updates on sunday.1 following 24 answers Answ",
+  "history": {
+    "url": "https://answers.yahoo.com/question/index?qid=1006053022537",
+    "title": "How much do you pay a dog walker?",
+    "description": "\"Pets Dogs How much do you pay a dog walker? Update: yes people pay for this stuff, surprisingly. My wife is going to do it as a side job...crazy what people pay for. Update 2: im going to extend this question so there are no problems as Y! answers makes updates on sunday.1 following 24 answers Answ",
+    "frecency": 1240,
+    "url_hash": 34341017002479,
+    "last_visit_date": 1758203927966111
+  }
+}

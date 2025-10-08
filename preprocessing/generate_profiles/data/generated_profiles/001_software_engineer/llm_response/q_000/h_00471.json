@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Nursing Manager  Salary \"Nursing Manager Salary The average salary for a Nursing Manager is $83,048 per year. Pay for this job does not change much by experience, with the most experienced earning only a bit more than the least. Read More$61K $72K $83K $97K $110KMEDIAN: $82,63110% 25% 50% 75% 90%Add this chart to your site",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses nursing manager salary data, which is unrelated to debugging or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Nursing Manager  Salary \"Nursing Manager Salary The average salary for a Nursing Manager is $83,048 per year. Pay for this job does not change much by experience, with the most experienced earning only a bit more than the least. Read More$61K $72K $83K $97K $110KMEDIAN: $82,63110% 25% 50% 75% 90%Add this chart to your site",
+  "history": {
+    "url": "https://www.payscale.com/research/US/Job=Nursing_Manager/Salary",
+    "title": "Nursing Manager  Salary",
+    "description": "\"Nursing Manager Salary The average salary for a Nursing Manager is $83,048 per year. Pay for this job does not change much by experience, with the most experienced earning only a bit more than the least. Read More$61K $72K $83K $97K $110KMEDIAN: $82,63110% 25% 50% 75% 90%Add this chart to your site",
+    "frecency": 3381,
+    "url_hash": 93805433972940,
+    "last_visit_date": 1758203928534200
+  }
+}

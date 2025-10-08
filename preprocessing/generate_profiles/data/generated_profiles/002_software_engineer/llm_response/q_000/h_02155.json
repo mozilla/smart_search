@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "NAACP leader resigns; accused of lying about race \"NAACP leader resigns; accused of lying about race By Ashley Fantz, Ray Sanchez, Faith Karimi and Dana Ford, CNNUpdated 9:25 PM ET, Mon June 15, 2015JUST WATCHEDNAACP Pres. : Dolezal resignation 'distraction from work'Replay MUST WATCHParents: Rachel Dolezal's false statements continue Is it okay fo",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses a 2015 CNN news story about Rachel Dolezal, unrelated to debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "NAACP leader resigns; accused of lying about race \"NAACP leader resigns; accused of lying about race By Ashley Fantz, Ray Sanchez, Faith Karimi and Dana Ford, CNNUpdated 9:25 PM ET, Mon June 15, 2015JUST WATCHEDNAACP Pres. : Dolezal resignation 'distraction from work'Replay MUST WATCHParents: Rachel Dolezal's false statements continue Is it okay fo",
+  "history": {
+    "url": "https://www.cnn.com/2015/06/15/us/washington-rachel-dolezal-naacp/index.html",
+    "title": "NAACP leader resigns; accused of lying about race",
+    "description": "\"NAACP leader resigns; accused of lying about race By Ashley Fantz, Ray Sanchez, Faith Karimi and Dana Ford, CNNUpdated 9:25 PM ET, Mon June 15, 2015JUST WATCHEDNAACP Pres. : Dolezal resignation 'distraction from work'Replay MUST WATCHParents: Rachel Dolezal's false statements continue Is it okay fo",
+    "frecency": 1082,
+    "url_hash": 85052602575790,
+    "last_visit_date": 1758203928742111
+  }
+}

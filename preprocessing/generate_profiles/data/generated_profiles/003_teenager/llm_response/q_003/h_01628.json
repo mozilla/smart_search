@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "L.A. Guns \\\"From Wikipedia, the free encyclopedia (Redirected from Michael Jagosz)navigation search L. A. Guns Background information Origin Los Angeles, California, United States Genres Hard rock, glam metal Years active 1983\u2013present Labels Poly Gram, Vertigo, Polydor, CMC, Spitfire, Deadline Music- Cleopatra",
+  "relevance_score": 0.01,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page concerns the rock band L.A. Guns, not apps or study habits; it is not relevant to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "L.A. Guns \"From Wikipedia, the free encyclopedia (Redirected from Michael Jagosz)navigation search L. A. Guns Background information Origin Los Angeles, California, United States Genres Hard rock, glam metal Years active 1983\u2013present Labels Poly Gram, Vertigo, Polydor, CMC, Spitfire, Deadline Music- Cleopatra",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Michael_Jagosz",
+    "title": "L.A. Guns",
+    "description": "\"From Wikipedia, the free encyclopedia (Redirected from Michael Jagosz)navigation search L. A. Guns Background information Origin Los Angeles, California, United States Genres Hard rock, glam metal Years active 1983\u2013present Labels Poly Gram, Vertigo, Polydor, CMC, Spitfire, Deadline Music- Cleopatra",
+    "frecency": 3325,
+    "url_hash": 12115786152988,
+    "last_visit_date": 1758203936459727
+  }
+}

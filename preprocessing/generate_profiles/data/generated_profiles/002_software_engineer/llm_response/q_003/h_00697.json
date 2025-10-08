@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "What does \"broadband\" mean? by Steve Yates Broadband is a term that refers to high speed Internet connections. The highest speed modem connection will max out at around 45 kbps (kilobits per second), while the slowest DSL connections provide 144 kbps, over three times faster. \"Broad\" therefore s",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses broadband terminology and internet speeds, not database queries; therefore not relevant to the query about optimizing database queries.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "\"What does \"\"broadband\"\" mean?\" \"What does \"\"broadband\"\" mean?by Steve Yates Broadband is a term that refers to high speed Internet connections. The highest speed modem connection will max out at around 45 kbps (kilobits per second), while the slowest DSL connections provide 144 kbps, over three times faster. \"\"Broad\"\" therefore s",
+  "history": {
+    "url": "https://www.teamits.com/connection/qa/broadband.html",
+    "title": "\"What does \"\"broadband\"\" mean?\"",
+    "description": "\"What does \"\"broadband\"\" mean?by Steve Yates Broadband is a term that refers to high speed Internet connections. The highest speed modem connection will max out at around 45 kbps (kilobits per second), while the slowest DSL connections provide 144 kbps, over three times faster. \"\"Broad\"\" therefore s",
+    "frecency": 3770,
+    "url_hash": 192235642466,
+    "last_visit_date": 1758203930400111
+  }
+}

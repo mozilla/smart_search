@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "DEFINITION of 'Disability Insurance' DEFINITION of 'Disability Insurance'A program managed by the Social Security Administration that insures a worker in case of a mishap. Disability insurance offers income protection to individuals who become disabled for a long period of time, and as a result can no longer work during that time perio",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes disability insurance, not anything about IDEs or software development environments. It is unrelated to the search query about top IDEs for software development.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "DEFINITION of 'Disability Insurance' DEFINITION of 'Disability Insurance'A program managed by the Social Security Administration that insures a worker in case of a mishap. Disability insurance offers income protection to individuals who become disabled for a long period of time, and as a result can no longer work during that time perio",
+  "history": {
+    "url": "http://www.investopedia.com/terms/d/disability-insurance.asp",
+    "title": "DEFINITION of 'Disability Insurance'",
+    "description": "DEFINITION of 'Disability Insurance'A program managed by the Social Security Administration that insures a worker in case of a mishap. Disability insurance offers income protection to individuals who become disabled for a long period of time, and as a result can no longer work during that time perio",
+    "frecency": 3990,
+    "url_hash": 58275554710891,
+    "last_visit_date": 1758203930842111
+  }
+}

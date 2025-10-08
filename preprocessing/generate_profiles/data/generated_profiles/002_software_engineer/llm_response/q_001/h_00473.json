@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Is a 401k a Defined Benefit Plan? When it comes to retirement plans, you could have a defined contribution or a defined benefit plan. If you have a 401k plan offer from your employer, this is not known as a defined benefit plan. Instead, you are actually using a defined contribution plan in which you and your employer put money into",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses retirement plans (401k) and defined benefit vs defined contribution, which is unrelated to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Is a 401k a Defined Benefit Plan? When it comes to retirement plans, you could have a defined contribution or a defined benefit plan. If you have a 401k plan offer from your employer, this is not known as a defined benefit plan. Instead, you are actually using a defined contribution plan in which you and your employer put money into",
+  "history": {
+    "url": "https://www.sapling.com/7519457/401k-defined-benefit-plan",
+    "title": "Is a 401k a Defined Benefit Plan?",
+    "description": "When it comes to retirement plans, you could have a defined contribution or a defined benefit plan. If you have a 401k plan offer from your employer, this is not known as a defined benefit plan. Instead, you are actually using a defined contribution plan in which you and your employer put money into",
+    "frecency": 4187,
+    "url_hash": 79119715640443,
+    "last_visit_date": 1758203931938111
+  }
+}

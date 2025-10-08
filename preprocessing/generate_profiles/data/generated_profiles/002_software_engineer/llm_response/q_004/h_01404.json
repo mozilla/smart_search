@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Big data in health care \"Big data in health care How three organizations are using big data to improve patient care and more By Anne-Lindsay Beall, Insights Editor Health care may have gotten off to a slower start than some industries in taking full advantage of big data. But today, sophisticated sensors connected through",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses big data in health care and is not about Docker or a beginner setup.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Big data in health care \"Big data in health care How three organizations are using big data to improve patient care and more By Anne-Lindsay Beall, Insights Editor Health care may have gotten off to a slower start than some industries in taking full advantage of big data. But today, sophisticated sensors connected through",
+  "history": {
+    "url": "https://www.sas.com/en_us/insights/articles/big-data/big-data-in-healthcare.html",
+    "title": "Big data in health care",
+    "description": "\"Big data in health care How three organizations are using big data to improve patient care and more By Anne-Lindsay Beall, Insights Editor Health care may have gotten off to a slower start than some industries in taking full advantage of big data. But today, sophisticated sensors connected through ",
+    "frecency": 2474,
+    "url_hash": 73233876752002,
+    "last_visit_date": 1758203930994111
+  }
+}

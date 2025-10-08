@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "MOULTON ISD MOULTON ISDSpeech-Language Pathologist A speech pathologist is a person qualified by a master?s degree in speech-language pathology, and where applicable, licensed by the state and practicing within the scope of the license. Also, known as speech therapist, a speech pathologist evaluates patients wi",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a speech-language pathologist and school district information, unrelated to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "MOULTON ISD MOULTON ISDSpeech-Language Pathologist A speech pathologist is a person qualified by a master?s degree in speech-language pathology, and where applicable, licensed by the state and practicing within the scope of the license. Also, known as speech therapist, a speech pathologist evaluates patients wi",
+  "history": {
+    "url": "https://npidb.org/organizations/speech_language_hearing/speech-language-pathologist_235z00000x/1639205644.aspx",
+    "title": "MOULTON ISD",
+    "description": "MOULTON ISDSpeech-Language Pathologist A speech pathologist is a person qualified by a master?s degree in speech-language pathology, and where applicable, licensed by the state and practicing within the scope of the license. Also, known as speech therapist, a speech pathologist evaluates patients wi",
+    "frecency": 2548,
+    "url_hash": 15836989201544,
+    "last_visit_date": 1758203930592111
+  }
+}

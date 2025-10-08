@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Rules of the Game  (book) \\\"Rules of the Game is a how-to book published in 2007 by American writer Neil Strauss. A follow-up to his autobiographical work The Game: Penetrating the Secret Society of Pickup Artists, Rules of the Game was also a New York Times Best-Seller. [1]Rules of the Game was originally released as a two v\\\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a book about pickup artist culture, not about apps or study habits; thus not relevant to the query about best apps for improving study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Rules of the Game  (book) \"Rules of the Game is a how-to book published in 2007 by American writer Neil Strauss. A follow-up to his autobiographical work The Game: Penetrating the Secret Society of Pickup Artists, Rules of the Game was also a New York Times Best-Seller. [1]Rules of the Game was originally released as a two v",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Rules_of_the_Game_(book)",
+    "title": "Rules of the Game  (book)",
+    "description": "\"Rules of the Game is a how-to book published in 2007 by American writer Neil Strauss. A follow-up to his autobiographical work The Game: Penetrating the Secret Society of Pickup Artists, Rules of the Game was also a New York Times Best-Seller. [1]Rules of the Game was originally released as a two v",
+    "frecency": 4039,
+    "url_hash": 50836302590268,
+    "last_visit_date": 1758203935649228
+  }
+}

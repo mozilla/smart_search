@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Clark Municipal Court Menu Contact this court Find lawyers Get directions Read articles Nearby courts Corrections Clark Municipal Court Phone 732-381-5395Map Google Map Mailing Address Clark Municipal Court 315 Westfield Ave, Clark, NJ 07066Street Address 315 Westfield Ave, Clark, NJ 07066WWW Link http://www.ourclark.com",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The page is about a municipal court's contact information; does not pertain to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Clark Municipal Court Menu Contact this court Find lawyers Get directions Read articles Nearby courts Corrections Clark Municipal Court Phone 732-381-5395Map Google Map Mailing Address Clark Municipal Court 315 Westfield Ave, Clark, NJ 07066Street Address 315 Westfield Ave, Clark, NJ 07066WWW Link http://www.ourclark.com",
+  "history": {
+    "url": "http://www.town-court.com/NJ/union-county/clark-municipal-court",
+    "title": "Clark Municipal Court",
+    "description": "Menu Contact this court Find lawyers Get directions Read articles Nearby courts Corrections Clark Municipal Court Phone 732-381-5395Map Google Map Mailing Address Clark Municipal Court 315 Westfield Ave, Clark, NJ 07066Street Address 315 Westfield Ave, Clark, NJ 07066WWW Link http://www.ourclark.com",
+    "frecency": 943,
+    "url_hash": 84007733835531,
+    "last_visit_date": 1758203932282111
+  }
+}

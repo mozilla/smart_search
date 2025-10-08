@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "How to Fill Out an Apartment Application How to Fill Out an Apartment Applicationby Si Kingston; Updated September 26, 2017There are a multitude of apartment units available for rent in most cities. Once you find the perfect apartment that fits your lifestyle, tastes and budget, the next step is to fill out an application. An apartment ap",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns filling out an apartment application, not DIY room decoration ideas; it is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "How to Fill Out an Apartment Application \"How to Fill Out an Apartment Applicationby Si Kingston; Updated September 26, 2017There are a multitude of apartment units available for rent in most cities. Once you find the perfect apartment that fits your lifestyle, tastes and budget, the next step is to fill out an application. An apartment ap",
+  "history": {
+    "url": "http://www.ehow.com/how_6659464_fill-out-apartment-application.html",
+    "title": "How to Fill Out an Apartment Application",
+    "description": "\"How to Fill Out an Apartment Applicationby Si Kingston; Updated September 26, 2017There are a multitude of apartment units available for rent in most cities. Once you find the perfect apartment that fits your lifestyle, tastes and budget, the next step is to fill out an application. An apartment ap",
+    "frecency": 4712,
+    "url_hash": 196868324295,
+    "last_visit_date": 1758203932685228
+  }
+}

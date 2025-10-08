@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Skyrim:Blacksmith This article is about blacksmiths in general. For the classes, see Blacksmith (class). For the skill, see Smithing. Blacksmiths are various merchants scattered throughout Skyrim. They are often found at or near smithing equipment, and sell a wide variety of weapons, armor and smithing equipment, inc",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Skyrim blacksmiths rather than Python libraries or machine learning, making it not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Skyrim:Blacksmith This article is about blacksmiths in general. For the classes, see Blacksmith (class). For the skill, see Smithing. Blacksmiths are various merchants scattered throughout Skyrim. They are often found at or near smithing equipment, and sell a wide variety of weapons, armor and smithing equipment, inc",
+  "history": {
+    "url": "http://en.uesp.net/wiki/Skyrim:Blacksmith",
+    "title": "Skyrim:Blacksmith",
+    "description": "This article is about blacksmiths in general. For the classes, see Blacksmith (class). For the skill, see Smithing. Blacksmiths are various merchants scattered throughout Skyrim. They are often found at or near smithing equipment, and sell a wide variety of weapons, armor and smithing equipment, inc",
+    "frecency": 2402,
+    "url_hash": 15360599204282,
+    "last_visit_date": 1758203927980111
+  }
+}

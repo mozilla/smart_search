@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Get all our web development and design books and courses for just $9. Get all our web development and design books and courses for just $9. Plus, exclusive deals on our favorite books, courses and tools outside of Site Point, you won't find anywhere else. Get This Deal Now",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a promotional deal for web development books/courses and does not mention Docker or setup guidance; not relevant to 'Docker setup for beginners'.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Get all our web development and design books and courses for just $9. Get all our web development and design books and courses for just $9. Plus, exclusive deals on our favorite books, courses and tools outside of Site Point, you won't find anywhere else. Get This Deal Now",
+  "history": {
+    "url": "https://www.sitepoint.com/10-excellent-free-rich-text-editors/",
+    "title": "Get all our web development and design books and courses for just $9.",
+    "description": "Get all our web development and design books and courses for just $9. Plus, exclusive deals on our favorite books, courses and tools outside of Site Point, you won't find anywhere else. Get This Deal Now ",
+    "frecency": 3732,
+    "url_hash": 59098602336276,
+    "last_visit_date": 1758203928828111
+  }
+}

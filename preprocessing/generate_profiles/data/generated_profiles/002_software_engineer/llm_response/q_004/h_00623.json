@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Teacher Certification Required NYS Certification Exams Please see Important Information Regarding NYS Certification Exam Safety Nets Effective immediately, the ALST (Academic Literacy Skills Test) has been eliminated. Candidates are NO LONGER REQUIRED to take the ALST for NYS certification. Please see NYSED and NYSTCENYS",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns New York State teacher certification exams and related information, not about Docker or beginner Docker setup.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Teacher Certification Required NYS Certification Exams Please see Important Information Regarding NYS Certification Exam Safety Nets Effective immediately, the ALST (Academic Literacy Skills Test) has been eliminated. Candidates are NO LONGER REQUIRED to take the ALST for NYS certification. Please see NYSED and NYSTCENYS",
+  "history": {
+    "url": "https://steinhardt.nyu.edu/teacher_certification/required_exams",
+    "title": "Teacher Certification",
+    "description": "Required NYS Certification Exams Please see Important Information Regarding NYS Certification Exam Safety Nets Effective immediately, the ALST (Academic Literacy Skills Test) has been eliminated. Candidates are NO LONGER REQUIRED to take the ALST for NYS certification. Please see NYSED and NYSTCENYS",
+    "frecency": 3900,
+    "url_hash": 5146096763244,
+    "last_visit_date": 1758203928588111
+  }
+}

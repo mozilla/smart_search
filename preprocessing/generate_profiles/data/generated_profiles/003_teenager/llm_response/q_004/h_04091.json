@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "What are the Asian tigers? \\\"Kim.hongrim 5 Contributions What are the Asian tigers? The Asian Tigers refers to Taiwan, Hong Kong, Singapore, and South Korea is known as 4 Asian Tigers The 4 Asian Tigers are Asia's economic stability throughout the 1900s and \u2026What do Asian tiger mosquito's eat? The males are vegetarians and eat",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Asian tigers and mosquitoes, not content related to improving performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "What are the Asian tigers? \"Kim.hongrim 5 Contributions What are the Asian tigers? The Asian Tigers refers to Taiwan, Hong Kong, Singapore, and South Korea is known as 4 Asian Tigers The 4 Asian Tigers are Asia's economic stability throughout the 1900s and \u2026What do Asian tiger mosquito's eat? The males are vegetarians and eat",
+  "history": {
+    "url": "http://www.answers.com/Q/Who_are_the_Asian_tigers",
+    "title": "What are the Asian tigers?",
+    "description": "\"Kim.hongrim 5 Contributions What are the Asian tigers? The Asian Tigers refers to Taiwan, Hong Kong, Singapore, and South Korea is known as 4 Asian Tigers The 4 Asian Tigers are Asia's economic stability throughout the 1900s and \u2026What do Asian tiger mosquito's eat? The males are vegetarians and eat",
+    "frecency": 773,
+    "url_hash": 81267513041859,
+    "last_visit_date": 1758203931383228
+  }
+}

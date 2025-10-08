@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "How do I cancel payment of union dues? If you no longer wish to pay dues or have been transferred or promoted out of a bargaining unit, you will need to complete the Membership Payroll Deduction Authorization Form. Union dues will continue to be taken out of your paycheck even if you are no longer in a represented title unless you submit.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses union dues and payroll deduction processes, which are unrelated to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "How do I cancel payment of union dues? \"If you no longer wish to pay dues or have been transferred or promoted out of a bargaining unit, you will need to complete the Membership Payroll Deduction Authorization Form Union dues will continue to be taken out of your paycheck even if you are no longer in a represented title unless you submit",
+  "history": {
+    "url": "http://www.hr.ucsb.edu/how-do-i-cancel-payment-union-dues",
+    "title": "How do I cancel payment of union dues?",
+    "description": "\"If you no longer wish to pay dues or have been transferred or promoted out of a bargaining unit, you will need to complete the Membership Payroll Deduction Authorization Form Union dues will continue to be taken out of your paycheck even if you are no longer in a represented title unless you submit",
+    "frecency": 4721,
+    "url_hash": 10837889208730,
+    "last_visit_date": 1758203929070200
+  }
+}

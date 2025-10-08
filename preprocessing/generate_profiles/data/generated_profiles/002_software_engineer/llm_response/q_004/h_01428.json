@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Glossary of Payroll Terms Glossary of Payroll Terms401 (k) Plan (Section 401 (k) of the Internal Revenue Code.) A plan that allows an employee to contribute pretax earnings to a company pool, which is invested in stocks, bonds, or money market instruments; also known as a Salary Reduction Plan. The contributions, as well as",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "Retrieved result is about payroll terms (401(k)) and not related to Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Glossary of Payroll Terms Glossary of Payroll Terms401 (k) Plan (Section 401 (k) of the Internal Revenue Code.) A plan that allows an employee to contribute pretax earnings to a company pool, which is invested in stocks, bonds, or money market instruments; also known as a Salary Reduction Plan. The contributions, as well as",
+  "history": {
+    "url": "https://www.paynorthwest.com/glossary-payroll-terms/",
+    "title": "Glossary of Payroll Terms",
+    "description": "Glossary of Payroll Terms401 (k) Plan (Section 401 (k) of the Internal Revenue Code.) A plan that allows an employee to contribute pretax earnings to a company pool, which is invested in stocks, bonds, or money market instruments; also known as a Salary Reduction Plan. The contributions, as well as ",
+    "frecency": 2415,
+    "url_hash": 43445379569124,
+    "last_visit_date": 1758203929760111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Network Devices A LAN can refers to a Broadcast Domain / a Subnet LAN traffic congestion is caused by \u00e2\u00a2 Too many hostsin a broadcast domain \u2022 Excessive broadcasts \u2022 Multicasting \u2022 Low / insufficient bandwidth \u2022 To solve this we can segment the network Hubs and Repeaters Layer 1 of the OSI The physi",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses LAN basics and general networking concepts, with no Docker content or beginner Docker setup guidance.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Network Devices A LAN can refers to a Broadcast Domain / a Subnet LAN traffic congestion is caused by \u00e2\u00a2 Too many hosts \"Network Devices A LAN can refers to a Broadcast Domain / a Subnet LAN traffic congestion is caused by \u2022 Too many hostsin a broadcast domain \u2022 Excessive broadcasts \u2022 Multicasting \u2022 Low / insufficient bandwidth \u2022 To solve this we can segment the network Hubs and Repeaters Layer 1 of the OSI The physi",
+  "history": {
+    "url": "https://www.scribd.com/doc/33597188/Network-Devices-Hubs-Switches-Routers",
+    "title": "Network Devices A LAN can refers to a Broadcast Domain / a Subnet LAN traffic congestion is caused by \u00e2\u00a2 Too many hosts",
+    "description": "\"Network Devices A LAN can refers to a Broadcast Domain / a Subnet LAN traffic congestion is caused by \u2022 Too many hostsin a broadcast domain \u2022 Excessive broadcasts \u2022 Multicasting \u2022 Low / insufficient bandwidth \u2022 To solve this we can segment the network Hubs and Repeaters Layer 1 of the OSI The physi",
+    "frecency": 4630,
+    "url_hash": 76516678302716,
+    "last_visit_date": 1758203928570111
+  }
+}

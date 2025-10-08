@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Which is the biggest mall in India, in Asia and in world.? Travel Other - Destinations Which is the biggest mall in India, in Asia and in world.? Shopping malls are being built everyday. I wish to know which shopping mall is the biggest in India. Similarly, in the context of Asia and world, which malls are the biggest?1 following 8 answers Answers Relevance",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses shopping malls, not Python libraries or machine learning; it is unrelated to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Which is the biggest mall in India, in Asia and in world.? Travel Other - Destinations Which is the biggest mall in India, in Asia and in world.? Shopping malls are being built everyday. I wish to know which shopping mall is the biggest in India. Similarly, in the context of Asia and world, which malls are the biggest?1 following 8 answers Answers Relevance",
+  "history": {
+    "url": "https://in.answers.yahoo.com/question/index?qid=20090831002240AAGxtYy",
+    "title": "Which is the biggest mall in India, in Asia and in world.?",
+    "description": "Travel Other - Destinations Which is the biggest mall in India, in Asia and in world.? Shopping malls are being built everyday. I wish to know which shopping mall is the biggest in India. Similarly, in the context of Asia and world, which malls are the biggest?1 following 8 answers Answers Relevance",
+    "frecency": 3318,
+    "url_hash": 95088259606123,
+    "last_visit_date": 1758203929282111
+  }
+}

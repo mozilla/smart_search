@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "DTE Corporate Office Headquarters DTE Corporate Office Headquarters1 comment DTE Corporate Office Headquarters 1 Energy Plaza Detroit, MI 48226 Corporate Phone Number: 1-313-235-4000SHARE: Labels: Address , complaints , Contact , Corporate , customer service , DTE , Headquarters , Office , Offices , phone number , Review Location: D",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result contains corporate contact details for DTE and is unrelated to debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "DTE Corporate Office Headquarters DTE Corporate Office Headquarters1 comment DTE Corporate Office Headquarters 1 Energy Plaza Detroit, MI 48226 Corporate Phone Number: 1-313-235-4000SHARE: Labels: Address , complaints , Contact , Corporate , customer service , DTE , Headquarters , Office , Offices , phone number , Review Location: D",
+  "history": {
+    "url": "http://www.corporateofficeheadquarters.com/2012/09/dte-corporate-office-headquarters.html",
+    "title": "DTE Corporate Office Headquarters",
+    "description": "DTE Corporate Office Headquarters1 comment DTE Corporate Office Headquarters 1 Energy Plaza Detroit, MI 48226 Corporate Phone Number: 1-313-235-4000SHARE: Labels: Address , complaints , Contact , Corporate , customer service , DTE , Headquarters , Office , Offices , phone number , Review Location: D",
+    "frecency": 4587,
+    "url_hash": 89799016514418,
+    "last_visit_date": 1758203930594111
+  }
+}

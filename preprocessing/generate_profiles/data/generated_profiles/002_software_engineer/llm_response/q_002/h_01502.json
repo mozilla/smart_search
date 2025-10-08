@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Hello! \\\"Hello!Lagoona bar and restaurant I. F. S. C Dublin is a modern and spacious pub, restaurant and venue located in the heart of Dublin's Financial Services Centre. This stylish and welcoming bar is the perfect venue for a quick lunch, leisurely afternoon pint or lively after work session. Since openi",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a pub/restaurant venue, not related to software development IDEs or top IDEs; it has no relevance to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Hello! \"Hello!Lagoona bar and restaurant I. F. S. C Dublin is a modern and spacious pub, restaurant and venue located in the heart of Dublin's Financial Services Centre. This stylish and welcoming bar is the perfect venue for a quick lunch, leisurely afternoon pint or lively after work session. Since openi",
+  "history": {
+    "url": "http://www.lagoona.ie/",
+    "title": "Hello!",
+    "description": "\"Hello!Lagoona bar and restaurant I. F. S. C Dublin is a modern and spacious pub, restaurant and venue located in the heart of Dublin's Financial Services Centre. This stylish and welcoming bar is the perfect venue for a quick lunch, leisurely afternoon pint or lively after work session. Since openi",
+    "frecency": 2274,
+    "url_hash": 14957185402209,
+    "last_visit_date": 1758203931946111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "Weather in December & January at Walt Disney World \"Escape the cold weather at home to see Cinderella's Castle blanketed in holiday lights? That's a win-win, which is why December and the beginning of January are some of the most popular times of the year to visit Disney World. Even for those travelers from warm climates, Orlando's temperatures shou",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Disney World weather and tourism, not TikTok trends; it is not relevant to the query.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "Weather in December & January at Walt Disney World \"Escape the cold weather at home to see Cinderella's Castle blanketed in holiday lights? That's a win-win, which is why December and the beginning of January are some of the most popular times of the year to visit Disney World. Even for those travelers from warm climates, Orlando's temperatures shou",
+  "history": {
+    "url": "http://traveltips.usatoday.com/weather-december-january-walt-disney-world-56792.html",
+    "title": "Weather in December & January at Walt Disney World",
+    "description": "\"Escape the cold weather at home to see Cinderella's Castle blanketed in holiday lights? That's a win-win, which is why December and the beginning of January are some of the most popular times of the year to visit Disney World. Even for those travelers from warm climates, Orlando's temperatures shou",
+    "frecency": 215,
+    "url_hash": 89593988926583,
+    "last_visit_date": 1758203932273228
+  }
+}

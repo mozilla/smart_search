@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Q: How do I get a deleted Note back? (no iTunes backup) Support Communities i Phone Using i Phone Looks like no one's replied in a while. To start the conversation again, simply ask a new question. Jonait Level 1 (3 points)Q: How do I get a deleted Note back? (no i Tunes backup)My iPhone notes are all synced via i Cloud (i guess) to my computer (mac) an",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns recovering a deleted iPhone note, not debugging API integration. It is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Q: How do I get a deleted Note back? (no iTunes backup) Support Communities i Phone Using i Phone Looks like no one's replied in a while. To start the conversation again, simply ask a new question. Jonait Level 1 (3 points)Q: How do I get a deleted Note back? (no i Tunes backup)My i Phone notes are all synced via i Cloud (i guess) to my computer (mac) an",
+  "history": {
+    "url": "https://discussions.apple.com/thread/4089885?start=15&tstart=0",
+    "title": "Q: How do I get a deleted Note back? (no iTunes backup)",
+    "description": "Support Communities i Phone Using i Phone Looks like no one's replied in a while. To start the conversation again, simply ask a new question. Jonait Level 1 (3 points)Q: How do I get a deleted Note back? (no i Tunes backup)My i Phone notes are all synced via i Cloud (i guess) to my computer (mac) an",
+    "frecency": 3478,
+    "url_hash": 43516795959821,
+    "last_visit_date": 1758203927056111
+  }
+}

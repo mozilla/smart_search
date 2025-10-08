@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Head master \\\"Art The Observer Head master Chuck Close is one of America's most influential - and most collectable - artists. His gigantic mosaic-patterned paintings helped reinvent the art of portraiture, and now sell for up to $5m each. Here, he talks to Sean O'Hagan about his first easel, the unexpected bless",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about an artist (Chuck Close) and does not relate to apps or study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Head master \"Art The Observer Head master Chuck Close is one of America's most influential - and most collectable - artists. His gigantic mosaic-patterned paintings helped reinvent the art of portraiture, and now sell for up to $5m each. Here, he talks to Sean O'Hagan about his first easel, the unexpected bless",
+  "history": {
+    "url": "https://www.theguardian.com/artanddesign/2005/oct/09/art",
+    "title": "Head master",
+    "description": "\"Art The Observer Head master Chuck Close is one of America's most influential - and most collectable - artists. His gigantic mosaic-patterned paintings helped reinvent the art of portraiture, and now sell for up to $5m each. Here, he talks to Sean O'Hagan about his first easel, the unexpected bless",
+    "frecency": 304,
+    "url_hash": 34514069887538,
+    "last_visit_date": 1758203930775228
+  }
+}

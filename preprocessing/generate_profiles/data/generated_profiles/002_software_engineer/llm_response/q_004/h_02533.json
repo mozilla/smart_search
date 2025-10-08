@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Batch Conversion of Excel to PDF \\\"Batch Conversion of Excel to PDFUpdated! I added some more options in this article, October 2010. I recently received the following inquiries below from customers: I have several hundred Excel files to convert to PDF as part of a case. Is there a way to do this in Acrobat? A lot of the files have m",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes Excel to PDF batch conversion using Acrobat, which is unrelated to Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Batch Conversion of Excel to PDF \"Batch Conversion of Excel to PDFUpdated! I added some more options in this article, October 2010. I recently received the following inquiries below from customers: I have several hundred Excel files to convert to PDF as part of a case. Is there a way to do this in Acrobat? A lot of the files have m",
+  "history": {
+    "url": "http://blogs.adobe.com/acrolaw/2009/03/batch-conversion-of-excel-to-pdf/",
+    "title": "Batch Conversion of Excel to PDF",
+    "description": "\"Batch Conversion of Excel to PDFUpdated! I added some more options in this article, October 2010. I recently received the following inquiries below from customers: I have several hundred Excel files to convert to PDF as part of a case. Is there a way to do this in Acrobat? A lot of the files have m",
+    "frecency": 423,
+    "url_hash": 50793699896313,
+    "last_visit_date": 1758203930216111
+  }
+}

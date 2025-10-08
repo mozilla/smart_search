@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "The best boat trips in London London boat tours are a truly fabulous way to see the city\u2019s top spots. The River Thames is a destination in itself, of course, and most London boat tours will take in famous landmarks such as the Tate Modern, St Paul\u2019s Cathedral, Tower Bridge and the Tower of London, The O2 and Canary Wharf. You\u2019ll",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses London boat tours and landmarks, not apps or study habits; it is not relevant to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "The best boat trips in London London boat tours are a truly fabulous way to see the city\u2019s top spots. The River Thames is a destination in itself, of course, and most London boat tours will take in famous landmarks such as the Tate Modern, St Paul\u2019s Cathedral, Tower Bridge and the Tower of London, The O2 and Canary Wharf. You\u2019ll",
+  "history": {
+    "url": "https://www.timeout.com/london/things-to-do/boat-trips-in-london",
+    "title": "The best boat trips in London",
+    "description": "London boat tours are a truly fabulous way to see the city\u2019s top spots. The River Thames is a destination in itself, of course, and most London boat tours will take in famous landmarks such as the Tate Modern, St Paul\u2019s Cathedral, Tower Bridge and the Tower of London, The O2 and Canary Wharf. You\u2019ll",
+    "frecency": 4071,
+    "url_hash": 37775161576934,
+    "last_visit_date": 1758203929513228
+  }
+}

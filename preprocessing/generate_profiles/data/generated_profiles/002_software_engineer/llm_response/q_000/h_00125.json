@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Displaying the operating system version and maintenance level \"Technote (FAQ)Question How do I display the version and maintenance level of the operating system on which IBM MQ is running? Answer Each operating system on which IBM MQ runs has a different method for displaying its version and maintenance. Please be aware that some of the output from the operati",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses displaying OS version for IBM MQ, not debugging or integrating APIs.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Displaying the operating system version and maintenance level \"Technote (FAQ)Question How do I display the version and maintenance level of the operating system on which IBM MQ is running? Answer Each operating system on which IBM MQ runs has a different method for displaying its version and maintenance. Please be aware that some of the output from the operati",
+  "history": {
+    "url": "http://www-01.ibm.com/support/docview.wss?uid=swg21634678",
+    "title": "Displaying the operating system version and maintenance level",
+    "description": "\"Technote (FAQ)Question How do I display the version and maintenance level of the operating system on which IBM MQ is running? Answer Each operating system on which IBM MQ runs has a different method for displaying its version and maintenance. Please be aware that some of the output from the operati",
+    "frecency": 4791,
+    "url_hash": 96525770712189,
+    "last_visit_date": 1758203931046111
+  }
+}

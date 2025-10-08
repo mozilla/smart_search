@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "The minimum wage is increased \"The minimum wage is increased\" Event On April 30th Morocco's prime minister, Abdelilah Benkirane, announced a 10% rise in the minimum wage for the private sector, from Dh12.24/hour (US$1.51/hour) to Dh13.46/hour. In the public sector, the monthly minimum wage will increase from Dh2,333 (US$288, at c",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about minimum wage in Morocco, unrelated to Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "The minimum wage is increased \"The minimum wage is increased Event On April 30th Morocco's prime minister, Abdelilah Benkirane, announced a 10% rise in the minimum wage for the private sector, from Dh12.24/hour (US$1.51/hour) to Dh13.46/hour. In the public sector, the monthly minimum wage will increase from Dh2,333 (US$288, at c",
+  "history": {
+    "url": "http://country.eiu.com/article.aspx?articleid=1101794494&Country=Morocco&topic=Economy&subtopic=Forecast&trackid=43&alert=f35f93c5-7816-4575-a277-3805c76da296",
+    "title": "The minimum wage is increased",
+    "description": "\"The minimum wage is increased Event On April 30th Morocco's prime minister, Abdelilah Benkirane, announced a 10% rise in the minimum wage for the private sector, from Dh12.24/hour (US$1.51/hour) to Dh13.46/hour. In the public sector, the monthly minimum wage will increase from Dh2,333 (US$288, at c",
+    "frecency": 4673,
+    "url_hash": 43874387512125,
+    "last_visit_date": 1758203929836111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "What are some interesting Guinness World Records? Shubham Utkarsh, studied at Indian Institute of Information Technology, Allahabad Answered Aug 20, 2017 \u00b7 Author has 591 answers and 1.1m answer views A. Gorske of Go, Murica, U. S. A consumed his 26,000th Mc Donald's Big Mac on October 11, 2012 \u2014 after 40 years of eating Big Macs on a daily basis.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Guinness World Records and Big Macs, not about starting a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "What are some interesting Guinness World Records? Shubham Utkarsh, studied at Indian Institute of Information Technology, Allahabad Answered Aug 20, 2017 \u00b7 Author has 591 answers and 1.1m answer views A. Gorske of Go, Murica, U. S. A consumed his 26,000th Mc Donald's Big Mac on October 11, 2012 \u2014 after 40 years of eating Big Macs on a daily basis.",
+  "history": {
+    "url": "https://www.quora.com/What-are-some-interesting-Guinness-World-Records",
+    "title": "What are some interesting Guinness World Records?",
+    "description": "Shubham Utkarsh, studied at Indian Institute of Information Technology, Allahabad Answered Aug 20, 2017 \u00b7 Author has 591 answers and 1.1m answer views A. Gorske of Go, Murica, U. S. A consumed his 26,000th Mc Donald's Big Mac on October 11, 2012 \u2014 after 40 years of eating Big Macs on a daily basis. ",
+    "frecency": 2864,
+    "url_hash": 37991144151301,
+    "last_visit_date": 1758203927743139
+  }
+}

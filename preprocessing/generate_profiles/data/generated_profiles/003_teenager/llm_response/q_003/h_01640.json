@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Births and Natality Data are for the U. S. Number of births: 3,945,875Birth rate: 12.2 per 1,000 population Fertility rate: 62.0 births per 1,000 women aged 15-44Percent born low birthweight: 8.2%Percent born preterm: 9.8%Percent unmarried: 39.8%Mean age at first birth: 26.6Source: Births: Final Data for 2016, tables 1",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses U.S. births data and demographics, not apps for improving study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Births and Natality Data are for the U. S. Number of births: 3,945,875Birth rate: 12.2 per 1,000 population Fertility rate: 62.0 births per 1,000 women aged 15-44Percent born low birthweight: 8.2%Percent born preterm: 9.8%Percent unmarried: 39.8%Mean age at first birth: 26.6Source: Births: Final Data for 2016, tables 1",
+  "history": {
+    "url": "https://www.cdc.gov/nchs/fastats/births.htm",
+    "title": "Births and Natality",
+    "description": "Data are for the U. S. Number of births: 3,945,875Birth rate: 12.2 per 1,000 population Fertility rate: 62.0 births per 1,000 women aged 15-44Percent born low birthweight: 8.2%Percent born preterm: 9.8%Percent unmarried: 39.8%Mean age at first birth: 26.6Source: Births: Final Data for 2016, tables 1",
+    "frecency": 3316,
+    "url_hash": 84552188107506,
+    "last_visit_date": 1758203929791228
+  }
+}

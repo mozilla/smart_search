@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Mobile PC Mobile PCPurpose This guide contains information about developing applications for Windows-based mobile PCs. Mobile PCs refer to all mobile computers, including laptops, notebooks, Tablet PCs, ultra mobile PCs (UMPCs), and other form factors that are developed running a version of the full Windows o",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Windows-based mobile PCs and application development, not Docker or container setup; not relevant to 'Docker setup for beginners'.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Mobile PC Mobile PCPurpose This guide contains information about developing applications for Windows-based mobile PCs. Mobile PCs refer to all mobile computers, including laptops, notebooks, Tablet PCs, ultra mobile PCs (UMPCs), and other form factors that are developed running a version of the full Windows o",
+  "history": {
+    "url": "https://msdn.microsoft.com/en-us/library/dd302492(v=vs.85).aspx",
+    "title": "Mobile PC",
+    "description": "Mobile PCPurpose This guide contains information about developing applications for Windows-based mobile PCs. Mobile PCs refer to all mobile computers, including laptops, notebooks, Tablet PCs, ultra mobile PCs (UMPCs), and other form factors that are developed running a version of the full Windows o",
+    "frecency": 775,
+    "url_hash": 42760861068825,
+    "last_visit_date": 1758203928362111
+  }
+}

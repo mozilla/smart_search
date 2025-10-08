@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Ohio OVI Laws \\\"Ohio OVI Laws Learn about the penalties for an OVI conviction in Ohio. By Richard Stim, Attorney Facing a DUI? We've helped 115 clients find attorneys today. Please answer a few questions to help us match you with attorneys in your area. Do you have pending DUI charges? What are the penalties for a",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The result concerns DUI laws and attorneys in Ohio, not software development IDEs; it is not relevant to the query about top IDEs.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Ohio OVI Laws \"Ohio OVI Laws Learn about the penalties for an OVI conviction in Ohio. By Richard Stim, Attorney Facing a DUI? We've helped 115 clients find attorneys today. Please answer a few questions to help us match you with attorneys in your area. Do you have pending DUI charges? What are the penalties for a",
+  "history": {
+    "url": "http://dui.drivinglaws.org/ohio.php",
+    "title": "Ohio OVI Laws",
+    "description": "\"Ohio OVI Laws Learn about the penalties for an OVI conviction in Ohio. By Richard Stim, Attorney Facing a DUI? We've helped 115 clients find attorneys today. Please answer a few questions to help us match you with attorneys in your area. Do you have pending DUI charges? What are the penalties for a",
+    "frecency": 3135,
+    "url_hash": 56199814201642,
+    "last_visit_date": 1758203926880200
+  }
+}

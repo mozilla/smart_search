@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Aeronautical Science Job Information Aeronautical Science Job Information Read about a career in aeronautical science. Research the educational and skill requirements; and learn about the job description, employment and salary outlook for aeronautical science careers. Show Me Schools View 10 Popular Schools \u00bbCareer Information for Aero",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses aeronautical science careers and education, not database query optimization. Topic mismatch indicates irrelevance.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Aeronautical Science Job Information Aeronautical Science Job Information Read about a career in aeronautical science. Research the educational and skill requirements; and learn about the job description, employment and salary outlook for aeronautical science careers. Show Me Schools View 10 Popular Schools \u00bbCareer Information for Aero",
+  "history": {
+    "url": "http://study.com/articles/Aeronautical_Science_Job_Information_for_Recent_Graduates_Pursuing_a_Career_in_the_Aeronautical_Science_Professions.html",
+    "title": "Aeronautical Science Job Information",
+    "description": "Aeronautical Science Job Information Read about a career in aeronautical science. Research the educational and skill requirements; and learn about the job description, employment and salary outlook for aeronautical science careers. Show Me Schools View 10 Popular Schools \u00bbCareer Information for Aero",
+    "frecency": 3683,
+    "url_hash": 53809764681154,
+    "last_visit_date": 1758203927778200
+  }
+}

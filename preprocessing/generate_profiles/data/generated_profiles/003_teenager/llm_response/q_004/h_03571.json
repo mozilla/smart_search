@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Lymphocytosis \"Lymphocytosis Intro Causes Treatment Symptom Checker Misdiagnosis Deaths Glossary Must Reads in Health Protecting Your Skin During Winter Watch: My Personal Psoriasis Journey Are You Getting The Best Cancer Care? Keeping An Active Lifestyle With COPD Liver Disease? Find a Doc Who Treats PBC Are You A",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is health/medical content unrelated to improving performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Lymphocytosis \"Lymphocytosis Intro Causes Treatment Symptom Checker Misdiagnosis Deaths Glossary Must Reads in Health Protecting Your Skin During Winter Watch: My Personal Psoriasis Journey Are You Getting The Best Cancer Care? Keeping An Active Lifestyle With COPDLiver Disease? Find a Doc Who Treats PBCAre You A",
+  "history": {
+    "url": "http://www.rightdiagnosis.com/sym/lymphocytosis.htm",
+    "title": "Lymphocytosis",
+    "description": "\"Lymphocytosis Intro Causes Treatment Symptom Checker Misdiagnosis Deaths Glossary Must Reads in Health Protecting Your Skin During Winter Watch: My Personal Psoriasis Journey Are You Getting The Best Cancer Care? Keeping An Active Lifestyle With COPDLiver Disease? Find a Doc Who Treats PBCAre You A",
+    "frecency": 1277,
+    "url_hash": 79687169927661,
+    "last_visit_date": 1758203929074735
+  }
+}

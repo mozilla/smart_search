@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Jean Hagen \"Jean Hagen From Wikipedia, the free encyclopedianavigation search Jean Hagen Hagen in 1955Born Jean Shirley Verhagen August 3, 1923 Chicago, Illinois, U. S. Died August 29, 1977 (aged 54) Los Angeles, California, U. S. Cause of death esophageal cancer Occupation Actress Years active 1945\u20131977Spouse",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about actress Jean Hagen and has no relevance to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Jean Hagen \"Jean Hagen From Wikipedia, the free encyclopedianavigation search Jean Hagen Hagen in 1955Born Jean Shirley Verhagen August 3, 1923 Chicago, Illinois, U. S. Died August 29, 1977 (aged 54) Los Angeles, California, U. S. Cause of death esophageal cancer Occupation Actress Years active 1945\u20131977Spouse",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Jean_Hagen",
+    "title": "Jean Hagen",
+    "description": "\"Jean Hagen From Wikipedia, the free encyclopedianavigation search Jean Hagen Hagen in 1955Born Jean Shirley Verhagen August 3, 1923 Chicago, Illinois, U. S. Died August 29, 1977 (aged 54) Los Angeles, California, U. S. Cause of death esophageal cancer Occupation Actress Years active 1945\u20131977Spouse",
+    "frecency": 514,
+    "url_hash": 74494380677702,
+    "last_visit_date": 1758203928842111
+  }
+}

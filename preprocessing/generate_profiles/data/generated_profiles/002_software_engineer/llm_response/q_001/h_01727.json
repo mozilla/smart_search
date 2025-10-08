@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Kohler, WI Population and Races USA.com / Wisconsin / Sheboygan County / Kohler, WI / Population and Races Kohler, WI Population and Races Basic Info Population/Races Income/Careers Housing Education Crime/Crime Rate Others Hot Rankings Fastest / Slowest Growing Cities Nearby Best / Worst Cities by Crime Rate Nearby Richest / Poor",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns demographic data for Kohler, Wisconsin, and has no relevance to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Kohler, WI Population and Races USA.com / Wisconsin / Sheboygan County / Kohler, WI / Population and Races Kohler, WI Population and Races Basic Info Population/Races Income/Careers Housing Education Crime/Crime Rate Others Hot Rankings Fastest / Slowest Growing Cities Nearby Best / Worst Cities by Crime Rate Nearby Richest / Poor",
+  "history": {
+    "url": "http://www.usa.com/kohler-wi-population-and-races.htm",
+    "title": "Kohler, WI Population and Races",
+    "description": "USA.com / Wisconsin / Sheboygan County / Kohler, WI / Population and Races Kohler, WI Population and Races Basic Info Population/Races Income/Careers Housing Education Crime/Crime Rate Others Hot Rankings Fastest / Slowest Growing Cities Nearby Best / Worst Cities by Crime Rate Nearby Richest / Poor",
+    "frecency": 1880,
+    "url_hash": 346970827011,
+    "last_visit_date": 1758203930600111
+  }
+}

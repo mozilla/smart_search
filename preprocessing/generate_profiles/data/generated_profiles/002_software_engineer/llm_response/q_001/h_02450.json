@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Account Billing & Cost Management Console View current charges and account activity, itemized by service. Previous months\u2019 billing statements are also available. AWS Identity and Access Management Create multiple Users and manage the permissions for each of these Users within your AWS Account. Consolidated",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses AWS billing, cost management, and IAM, which are unrelated to Python libraries for machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Account Billing & Cost Management Console View current charges and account activity, itemized by service. Previous months\u2019 billing statements are also available. AWS Identity and Access Management Create multiple Users and manage the permissions for each of these Users within your AWS Account. Consolidated",
+  "history": {
+    "url": "https://aws.amazon.com/account/",
+    "title": "Account",
+    "description": "Billing & Cost Management Console View current charges and account activity, itemized by service. Previous months\u2019 billing statements are also available. AWS Identity and Access Management Create multiple Users and manage the permissions for each of these Users within your AWS Account. Consolidated ",
+    "frecency": 575,
+    "url_hash": 62606634992348,
+    "last_visit_date": 1758203929940111
+  }
+}

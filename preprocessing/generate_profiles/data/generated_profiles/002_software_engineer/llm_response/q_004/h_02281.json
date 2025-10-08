@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Invention of the PC Today\u2019s personal computers are drastically different from the massive, hulking machines that emerged out of World War II\u2013and the difference isn\u2019t only in their size. By the 1970s, technology had evolved to the point that individuals\u2013mostly hobbyists and electronics buffs\u2013could purchase unassembled P",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses the invention of personal computers, not Docker or container setup, and contains no Docker-related content.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Invention of the PC Today\u2019s personal computers are drastically different from the massive, hulking machines that emerged out of World War II\u2013and the difference isn\u2019t only in their size. By the 1970s, technology had evolved to the point that individuals\u2013mostly hobbyists and electronics buffs\u2013could purchase unassembled P",
+  "history": {
+    "url": "http://www.history.com/topics/inventions/invention-of-the-pc",
+    "title": "Invention of the PC",
+    "description": "Today\u2019s personal computers are drastically different from the massive, hulking machines that emerged out of World War II\u2013and the difference isn\u2019t only in their size. By the 1970s, technology had evolved to the point that individuals\u2013mostly hobbyists and electronics buffs\u2013could purchase unassembled P",
+    "frecency": 880,
+    "url_hash": 48583620341940,
+    "last_visit_date": 1758203930336111
+  }
+}

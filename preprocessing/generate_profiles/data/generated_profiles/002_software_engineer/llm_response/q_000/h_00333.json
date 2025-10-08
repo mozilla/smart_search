@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Geek Squad Salaries Geek Squad Salaries About This Data3,455 Salaries Updated Apr 11, 2018All Industries Accounting & Legal Aerospace & Defense Architecture & Civil Engineering Arts & Entertainment Automotive Banking & Financial Services Beauty & Fitness Biotech & Pharmaceuticals Business Services Computer Software & H",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns salaries and industry categories, not information about debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Geek Squad Salaries Geek Squad Salaries About This Data3,455 Salaries Updated Apr 11, 2018All Industries Accounting & Legal Aerospace & Defense Architecture & Civil Engineering Arts & Entertainment Automotive Banking & Financial Services Beauty & Fitness Biotech & Pharmaceuticals Business Services Computer Software & H",
+  "history": {
+    "url": "https://www.glassdoor.com/Salaries/geek-squad-salary-SRCH_KO0,10.htm",
+    "title": "Geek Squad Salaries",
+    "description": "Geek Squad Salaries About This Data3,455 Salaries Updated Apr 11, 2018All Industries Accounting & Legal Aerospace & Defense Architecture & Civil Engineering Arts & Entertainment Automotive Banking & Financial Services Beauty & Fitness Biotech & Pharmaceuticals Business Services Computer Software & H",
+    "frecency": 4440,
+    "url_hash": 15347202299519,
+    "last_visit_date": 1758203931558111
+  }
+}

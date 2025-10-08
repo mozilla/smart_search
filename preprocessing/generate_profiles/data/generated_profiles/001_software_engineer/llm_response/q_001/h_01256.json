@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Daniel Fells \\\"Daniel Fells From Wikipedia, the free encyclopedianavigation search Daniel Fells Fells with the Denver Broncos No. 46, 86, 85Position: Tight end Personal information Born: September 23, 1983 (age 34)Anaheim, California Height: 6 ft 4 in (1.93 m)Weight: 260 lb (118 kg)Career information High school:",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a football player; it has no relation to Python, libraries, or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Daniel Fells \"Daniel Fells From Wikipedia, the free encyclopedianavigation search Daniel Fells Fells with the Denver Broncos No. 46, 86, 85Position: Tight end Personal information Born: September 23, 1983 (age 34)Anaheim, California Height: 6 ft 4 in (1.93 m)Weight: 260 lb (118 kg)Career information High school:",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Daniel_Fells",
+    "title": "Daniel Fells",
+    "description": "\"Daniel Fells From Wikipedia, the free encyclopedianavigation search Daniel Fells Fells with the Denver Broncos No. 46, 86, 85Position: Tight end Personal information Born: September 23, 1983 (age 34)Anaheim, California Height: 6 ft 4 in (1.93 m)Weight: 260 lb (118 kg)Career information High school:",
+    "frecency": 572,
+    "url_hash": 79810732254226,
+    "last_visit_date": 1758203929362200
+  }
+}

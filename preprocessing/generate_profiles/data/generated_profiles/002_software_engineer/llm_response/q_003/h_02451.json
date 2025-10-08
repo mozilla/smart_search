@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Ian McKellen \"From Wikipedia, the free encyclopedianavigation search Sir Ian Mc Kellen CH CBEMc Kellen at the 2013 San Diego Comic-Con International Born Ian Murray Mc Kellen 25 May 1939 (age 78) [1]Burnley, Lancashire, England Alma mater St Catharine's College, Cambridge Occupation Actor Years active 1959\u2013prese",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about the actor Ian McKellen and does not pertain to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Ian McKellen \"From Wikipedia, the free encyclopedianavigation search Sir Ian Mc Kellen CH CBEMc Kellen at the 2013 San Diego Comic-Con International Born Ian Murray Mc Kellen 25 May 1939 (age 78) [1]Burnley, Lancashire, England Alma mater St Catharine's College, Cambridge Occupation Actor Years active 1959\u2013prese",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Ian_McKellen",
+    "title": "Ian McKellen",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search Sir Ian Mc Kellen CH CBEMc Kellen at the 2013 San Diego Comic-Con International Born Ian Murray Mc Kellen 25 May 1939 (age 78) [1]Burnley, Lancashire, England Alma mater St Catharine's College, Cambridge Occupation Actor Years active 1959\u2013prese",
+    "frecency": 574,
+    "url_hash": 28928279076356,
+    "last_visit_date": 1758203928400111
+  }
+}

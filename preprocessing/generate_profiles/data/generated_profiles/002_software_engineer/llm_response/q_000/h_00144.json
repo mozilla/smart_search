@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "SCHEDULE APPOINTMENT 1What2Where & When3About you4Confirm SCHEDULE APPOINTMENTSGS North America welcomes you to schedule your end of lease vehicle inspection appointment. At any time during the scheduling process you can call the SGS National Customer Service Center to speak with a scheduling professional. Please enter",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about scheduling an appointment for vehicle inspection, not about debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "SCHEDULE APPOINTMENT 1What2Where & When3About you4Confirm SCHEDULE APPOINTMENTSGS North America welcomes you to schedule your end of lease vehicle inspection appointment. At any time during the scheduling process you can call the SGS National Customer Service Center to speak with a scheduling professional. Please enter",
+  "history": {
+    "url": "https://schedule.sgsauto.com/aspx/Default.aspx",
+    "title": "SCHEDULE APPOINTMENT",
+    "description": "1What2Where & When3About you4Confirm SCHEDULE APPOINTMENTSGS North America welcomes you to schedule your end of lease vehicle inspection appointment. At any time during the scheduling process you can call the SGS National Customer Service Center to speak with a scheduling professional. Please enter ",
+    "frecency": 4758,
+    "url_hash": 49151914484339,
+    "last_visit_date": 1758203929614111
+  }
+}

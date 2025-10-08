@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "University of Phoenix \"From Wikipedia, the free encyclopedianavigation search Not to be confused with Phoenix College. University of Phoenix Motto We Rise Type For-profit college Established 1976President Peter Cohen. [1]Academic staff 16,000Administrative staff 69Students 142,500 [2]Location Phoenix (headquarters), Ariz",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page is about University of Phoenix, a for-profit college, and does not relate to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "University of Phoenix \"From Wikipedia, the free encyclopedianavigation search Not to be confused with Phoenix College. University of Phoenix Motto We Rise Type For-profit college Established 1976President Peter Cohen. [1]Academic staff 16,000Administrative staff 69Students 142,500 [2]Location Phoenix (headquarters), Ariz",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/University_of_Phoenix",
+    "title": "University of Phoenix",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search Not to be confused with Phoenix College. University of Phoenix Motto We Rise Type For-profit college Established 1976President Peter Cohen. [1]Academic staff 16,000Administrative staff 69Students 142,500 [2]Location Phoenix (headquarters), Ariz",
+    "frecency": 3160,
+    "url_hash": 95528653803616,
+    "last_visit_date": 1758203929068111
+  }
+}

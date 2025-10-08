@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Install Oracle 12C Release 1 (12.1) on Centos Linux 7 \"Install Oracle 12C Release 1 (12.1) on Centos Linux 7Posted on July 13, 2014This article presents how to install Oracle 12C (12.1.0.1) Release 1 on Centos Linux 7. Read following article how to install Centos Linux 7: Install Centos Linux 7 (for comfort set 2G memory for your virtual machine before",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about installing Oracle 12C on CentOS, not about optimizing database queries. It is not relevant to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Install Oracle 12C Release 1 (12.1) on Centos Linux 7 \"Install Oracle 12C Release 1 (12.1) on Centos Linux 7Posted on July 13, 2014This article presents how to install Oracle 12C (12.1.0.1) Release 1 on Centos Linux 7. Read following article how to install Centos Linux 7: Install Centos Linux 7 (for comfort set 2G memory for your virtual machine before",
+  "history": {
+    "url": "http://dbaora.com/install-oracle-12c-release-1-12-1-on-centos-linux-7/",
+    "title": "Install Oracle 12C Release 1 (12.1) on Centos Linux 7",
+    "description": "\"Install Oracle 12C Release 1 (12.1) on Centos Linux 7Posted on July 13, 2014This article presents how to install Oracle 12C (12.1.0.1) Release 1 on Centos Linux 7. Read following article how to install Centos Linux 7: Install Centos Linux 7 (for comfort set 2G memory for your virtual machine before",
+    "frecency": 3352,
+    "url_hash": 86707915251346,
+    "last_visit_date": 1758203932280111
+  }
+}

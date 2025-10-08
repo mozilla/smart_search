@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Too young to be a supermodel? Meet nine-year-old Kristina Pimenova, the controversial child fashion star dubbed 'the most beautiful girl in the world' \"Too young to be a supermodel? Meet nine-year-old Kristina Pimenova, the controversial child fashion star dubbed 'the most beautiful girl in the world'Kristina Pimenova, from Moscow, Russia, has been modeling since the age of three, for clients including Vogue, Roberto Cavalli and Armani Her mother",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a child model, unrelated to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Too young to be a supermodel? Meet nine-year-old Kristina Pimenova, the controversial child fashion star dubbed 'the most beautiful girl in the world' \"Too young to be a supermodel? Meet nine-year-old Kristina Pimenova, the controversial child fashion star dubbed 'the most beautiful girl in the world'Kristina Pimenova, from Moscow, Russia, has been modeling since the age of three, for clients including Vogue, Roberto Cavalli and Armani Her mother",
+  "history": {
+    "url": "http://www.dailymail.co.uk/femail/article-2852038/Too-young-supermodel-Meet-nine-year-old-Kristina-Pimenova-controversial-child-fashion-star-dubbed-beautiful-girl-world.html",
+    "title": "Too young to be a supermodel? Meet nine-year-old Kristina Pimenova, the controversial child fashion star dubbed 'the most beautiful girl in the world'",
+    "description": "\"Too young to be a supermodel? Meet nine-year-old Kristina Pimenova, the controversial child fashion star dubbed 'the most beautiful girl in the world'Kristina Pimenova, from Moscow, Russia, has been modeling since the age of three, for clients including Vogue, Roberto Cavalli and Armani Her mother ",
+    "frecency": 1502,
+    "url_hash": 12864566787076,
+    "last_visit_date": 1758203928348200
+  }
+}

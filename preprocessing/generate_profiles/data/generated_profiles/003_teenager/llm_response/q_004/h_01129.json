@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "These Boots Are Made For Walkin Nancy Sinatra ------------------------------------------------------------------------------- -------------------------------------------------------------------------------EYou keep saying you've got something for me. Something you call love, but confess. AYou've been messin' where you shouldn't have been messin",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a lyric from a song and has no relevance to improving athletic performance or sports skills.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "These Boots Are Made For Walkin Nancy Sinatra ------------------------------------------------------------------------------- -------------------------------------------------------------------------------EYou keep saying you've got something for me. Something you call love, but confess. AYou've been messin' where you shouldn't have been messin",
+  "history": {
+    "url": "http://www.chordie.com/chord.pere/www.guitaretab.com/n/nancy-sinatra/131032.html",
+    "title": "These Boots Are Made For Walkin Nancy Sinatra",
+    "description": "------------------------------------------------------------------------------- -------------------------------------------------------------------------------EYou keep saying you've got something for me. Something you call love, but confess. AYou've been messin' where you shouldn't have been messin",
+    "frecency": 3833,
+    "url_hash": 73336829024829,
+    "last_visit_date": 1758203936205228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Characters \"This is the Character Page for the Disney Channel original series, Liv and Maddie . Main Characters Liv Rooney ( Dove Cameron) is a former television star, who is the identical twin sister of Maddie . Maddie Rooney ( Dove Cameron) is the star of her school's basketball team, who is the identical tw",
+  "relevance_score": 0.15,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a character page for a TV show and does not provide guidance or information on improving sports performance, so it is not relevant to the query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Characters \"This is the Character Page for the Disney Channel original series, Liv and Maddie . Main Characters Liv Rooney ( Dove Cameron) is a former television star, who is the identical twin sister of Maddie . Maddie Rooney ( Dove Cameron) is the star of her school's basketball team, who is the identical tw",
+  "history": {
+    "url": "http://livandmaddie.wikia.com/wiki/Characters",
+    "title": "Characters",
+    "description": "\"This is the Character Page for the Disney Channel original series, Liv and Maddie . Main Characters Liv Rooney ( Dove Cameron) is a former television star, who is the identical twin sister of Maddie . Maddie Rooney ( Dove Cameron) is the star of her school's basketball team, who is the identical tw",
+    "frecency": 3016,
+    "url_hash": 17110108099603,
+    "last_visit_date": 1758203935959228
+  }
+}

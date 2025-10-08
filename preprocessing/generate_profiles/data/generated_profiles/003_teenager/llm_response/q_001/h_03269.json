@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "Is ALFANI a high-quality brand? Beauty & Style Fashion & Accessories Is ALFANI a high-quality brand? I really like a professional suit made by ALFANI that I'm thinking of buying. I never herd of ALFANI before as I'm not into fashion that much. Is this a high-quality brand and is it comparable to Calvin Klein? Update: Just a little",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses ALFANI brand quality and fashion, not TikTok trends for 2024; it is not relevant to the query.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "Is ALFANI a high-quality brand? Beauty & Style Fashion & Accessories Is ALFANI a high-quality brand? I really like a professional suit made by ALFANI that I'm thinking of buying. I never herd of ALFANI before as I'm not into fashion that much. Is this a high-quality brand and is it comparable to Calvin Klein? Update: Just a little",
+  "history": {
+    "url": "https://answers.yahoo.com/question/index?qid=20061102210707AAp47fk",
+    "title": "Is ALFANI a high-quality brand?",
+    "description": "Beauty & Style Fashion & Accessories Is ALFANI a high-quality brand? I really like a professional suit made by ALFANI that I'm thinking of buying. I never herd of ALFANI before as I'm not into fashion that much. Is this a high-quality brand and is it comparable to Calvin Klein? Update: Just a little",
+    "frecency": 1574,
+    "url_hash": 6311932124964,
+    "last_visit_date": 1758203930145228
+  }
+}

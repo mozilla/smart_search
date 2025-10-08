@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Treatment Treatment Treatment for watering eyes isn't always necessary. Treatment depends on how severe the problem is and what's causing it. Measures you can try yourself If the underlying cause is dry eye syndrome , try to avoid reading, watching TV and using a computer \u2013 you're likely to blink less during",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The content is about treating dry eye/watering eyes, not about apps or study habits; no relevance to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Treatment Treatment Treatment for watering eyes isn't always necessary. Treatment depends on how severe the problem is and what's causing it. Measures you can try yourself If the underlying cause is dry eye syndrome , try to avoid reading, watching TV and using a computer \u2013 you're likely to blink less during",
+  "history": {
+    "url": "http://www.nhs.uk/Conditions/Watering-eye/Pages/Treatment.aspx",
+    "title": "Treatment",
+    "description": "Treatment Treatment for watering eyes isn't always necessary. Treatment depends on how severe the problem is and what's causing it. Measures you can try yourself If the underlying cause is dry eye syndrome , try to avoid reading, watching TV and using a computer \u2013 you're likely to blink less during ",
+    "frecency": 2650,
+    "url_hash": 1847688345554,
+    "last_visit_date": 1758203929000735
+  }
+}

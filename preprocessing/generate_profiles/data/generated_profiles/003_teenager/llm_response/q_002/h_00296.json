@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Video Game Artist \"Video Game Artist Although the field is very competitive, there are jobs to be had in the video game design profession. A love of gaming is helpful, but only the most qualified find jobs. Demand for video games is exploding, and the industry is growing rapidly. According to a Coopers and Lybrand st",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about video game careers, not about DIY room decoration ideas; it does not address the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Video Game Artist \"Video Game Artist Although the field is very competitive, there are jobs to be had in the video game design profession. A love of gaming is helpful, but only the most qualified find jobs. Demand for video games is exploding, and the industry is growing rapidly. According to a Coopers and Lybrand st",
+  "history": {
+    "url": "https://www.incredibleart.org/jobs/video.html",
+    "title": "Video Game Artist",
+    "description": "\"Video Game Artist Although the field is very competitive, there are jobs to be had in the video game design profession. A love of gaming is helpful, but only the most qualified find jobs. Demand for video games is exploding, and the industry is growing rapidly. According to a Coopers and Lybrand st",
+    "frecency": 4703,
+    "url_hash": 1665235798248,
+    "last_visit_date": 1758203933109228
+  }
+}

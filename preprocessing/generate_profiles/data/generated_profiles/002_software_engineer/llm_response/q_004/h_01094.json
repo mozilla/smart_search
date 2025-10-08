@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "New State Inspection Sticker Changes \"Midland County Midland County has a new telephone number. Call 432-742-7777 to quickly find the right department. Welcome to Midland County - Midland, Texas The goal of this website is to provide you with information about the county offices and departments as well as our online services. The inten",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Midland County government information and staffing, with no mention of Docker, containers, or setup guidance for Docker. It is not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "New State Inspection Sticker Changes \"Midland County Midland County has a new telephone number. Call 432-742-7777 to quickly find the right department. Welcome to Midland County - Midland, Texas The goal of this website is to provide you with information about the county offices and departments as well as our online services. The inten",
+  "history": {
+    "url": "http://www.co.midland.tx.us/",
+    "title": "New State Inspection Sticker Changes",
+    "description": "\"Midland County Midland County has a new telephone number. Call 432-742-7777 to quickly find the right department. Welcome to Midland County - Midland, Texas The goal of this website is to provide you with information about the county offices and departments as well as our online services. The inten",
+    "frecency": 3051,
+    "url_hash": 5820169243623,
+    "last_visit_date": 1758203932168111
+  }
+}

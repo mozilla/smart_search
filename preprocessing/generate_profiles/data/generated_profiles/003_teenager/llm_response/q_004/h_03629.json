@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Xeroderma pigmentosum \"Xeroderma pigmentosum Must Reads in Health Protecting Your Skin During Winter Watch: My Personal Psoriasis Journey Are You Getting The Best Cancer Care? Keeping An Active Lifestyle With COPD Liver Disease? Find a Doc Who Treats PBC Are You Allergic To Your Clothes? Why Psoriasis Treatments Can Fail I",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result shows unrelated health topics (e.g., Xeroderma pigmentosum, psoriasis, cancer care, COPD) and only a tangential reference to an 'Active Lifestyle', not content about improving sports skills or training.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Xeroderma pigmentosum \"Xeroderma pigmentosum Must Reads in Health Protecting Your Skin During Winter Watch: My Personal Psoriasis Journey Are You Getting The Best Cancer Care? Keeping An Active Lifestyle With COPDLiver Disease? Find a Doc Who Treats PBCAre You Allergic To Your Clothes? Why Psoriasis Treatments Can Fail I",
+  "history": {
+    "url": "http://www.rightdiagnosis.com/medical/xeroderma_pigmentosum.htm",
+    "title": "Xeroderma pigmentosum",
+    "description": "\"Xeroderma pigmentosum Must Reads in Health Protecting Your Skin During Winter Watch: My Personal Psoriasis Journey Are You Getting The Best Cancer Care? Keeping An Active Lifestyle With COPDLiver Disease? Find a Doc Who Treats PBCAre You Allergic To Your Clothes? Why Psoriasis Treatments Can Fail I",
+    "frecency": 1218,
+    "url_hash": 50973009631417,
+    "last_visit_date": 1758203935189228
+  }
+}

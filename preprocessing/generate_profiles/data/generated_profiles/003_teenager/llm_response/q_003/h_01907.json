@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "What's Happening In Montauk Montauk Long Island Your neighborhood guide to local news, events and info for Montauk, Long Island Parks Seal Watching Tours Lighthouses Day Camps Day Camps Day Camps Wholesalers Parks Seal Watching Tours Lighthouses Day Camps Day Camps Day Camps Wholesalers Parks Seal Watching What's Happening In",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns Montauk local events and tours, with no references to study apps or studying habits, hence not relevant to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "What's Happening In Montauk Montauk Long Island Your neighborhood guide to local news, events and info for Montauk, Long Island Parks Seal Watching Tours Lighthouses Day Camps Day Camps Day Camps Wholesalers Parks Seal Watching Tours Lighthouses Day Camps Day Camps Day Camps Wholesalers Parks Seal Watching What's Happening In",
+  "history": {
+    "url": "http://www.longisland.com/montauk/",
+    "title": "What's Happening In Montauk",
+    "description": "Montauk Long Island Your neighborhood guide to local news, events and info for Montauk, Long Island Parks Seal Watching Tours Lighthouses Day Camps Day Camps Day Camps Wholesalers Parks Seal Watching Tours Lighthouses Day Camps Day Camps Day Camps Wholesalers Parks Seal Watching What's Happening In ",
+    "frecency": 3051,
+    "url_hash": 24023970549815,
+    "last_visit_date": 1758203934781228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Waylon Jennings obituary article about the musician and his influence on country music (not related to sports).",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns a musician's life and death, not about improving sports performance or sports-related guidance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Waylon Jennings \"Waylon Jennings Rebel who revitalised country music and recorded Nashville's first million-selling album Dave Laing Thu 14 Feb 2002 20.47 EST2Waylon Jennings, the \"\"outlaw\"\" singer and composer who helped to revitalise country music in the 1970s, has died aged 64. A prot\u00e9g\u00e9 of Buddy Holly and devot",
+  "history": {
+    "url": "https://www.theguardian.com/news/2002/feb/15/guardianobituaries1",
+    "title": "Waylon Jennings",
+    "description": "\"Waylon Jennings Rebel who revitalised country music and recorded Nashville's first million-selling album Dave Laing Thu 14 Feb 2002 20.47 EST2Waylon Jennings, the \"\"outlaw\"\" singer and composer who helped to revitalise country music in the 1970s, has died aged 64. A prot\u00e9g\u00e9 of Buddy Holly and devot",
+    "frecency": 1009,
+    "url_hash": 36502505925055,
+    "last_visit_date": 1758203930509228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Obituary Jan van Os \"Obituary Jan van Os Jan van Os passed away on the 26th of July, 2016. His friends, with whom he played gypsy music for decades, will always remember the image of him sitting behind his cimbalom in the middle of the ensemble. During the farewell ceremony, one of the ensemble members - Rolf Schuursma",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is an obituary and not related to apps or study habits; it does not address the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Obituary Jan van Os \"Obituary Jan van Os Jan van Os passed away on the 26th of July, 2016. His friends, with whom he played gypsy music for decades, will always remember the image of him sitting behind his cimbalom in the middle of the ensemble. During the farewell ceremony, one of the ensemble members - Rolf Schuursma",
+  "history": {
+    "url": "http://www.cimbalom.nl/",
+    "title": "Obituary Jan van Os",
+    "description": "\"Obituary Jan van Os Jan van Os passed away on the 26th of July, 2016. His friends, with whom he played gypsy music for decades, will always remember the image of him sitting behind his cimbalom in the middle of the ensemble. During the farewell ceremony, one of the ensemble members - Rolf Schuursma",
+    "frecency": 3088,
+    "url_hash": 19299514199695,
+    "last_visit_date": 1758203926645139
+  }
+}

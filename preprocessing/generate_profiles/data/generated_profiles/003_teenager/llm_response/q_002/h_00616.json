@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Super Bug From Wikipedia, the free encyclopedianavigation search Super Bug may refer to: Super bug (bacteria), Antibiotic resistant organism Super Bug (video game), an arcade game from 1977Superbug (film series), a West German film series about a Volkswagen Beetle. Volkswagen Super Bug See also [ edit]Boeing",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Super Bug bacteria, a video game, and a film series, none of which relate to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Super Bug From Wikipedia, the free encyclopedianavigation search Super Bug may refer to: Super bug (bacteria), Antibiotic resistant organism Super Bug (video game), an arcade game from 1977Superbug (film series), a West German film series about a Volkswagen Beetle. Volkswagen Super Bug See also [ edit]Boeing",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Super_Bug",
+    "title": "Super Bug",
+    "description": "From Wikipedia, the free encyclopedianavigation search Super Bug may refer to: Super bug (bacteria), Antibiotic resistant organism Super Bug (video game), an arcade game from 1977Superbug (film series), a West German film series about a Volkswagen Beetle. Volkswagen Super Bug See also [ edit]Boeing ",
+    "frecency": 4356,
+    "url_hash": 64420204171456,
+    "last_visit_date": 1758203930659228
+  }
+}

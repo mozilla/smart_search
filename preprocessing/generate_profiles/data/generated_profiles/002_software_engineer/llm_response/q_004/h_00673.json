@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Subtropical cyclone \"From Wikipedia, the free encyclopedianavigation search Alex in January 2016 while it was a subtropical storm A subtropical cyclone is a weather system that has some characteristics of a tropical and an extratropical cyclone. [1]As early as the 1950s, meteorologists were uncertain whether they shoul",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses subtropical cyclones and weather, unrelated to Docker or beginner setup.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Subtropical cyclone \"From Wikipedia, the free encyclopedianavigation search Alex in January 2016 while it was a subtropical storm A subtropical cyclone is a weather system that has some characteristics of a tropical and an extratropical cyclone. [1]As early as the 1950s, meteorologists were uncertain whether they shoul",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Subtropical_cyclone",
+    "title": "Subtropical cyclone",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search Alex in January 2016 while it was a subtropical storm A subtropical cyclone is a weather system that has some characteristics of a tropical and an extratropical cyclone. [1]As early as the 1950s, meteorologists were uncertain whether they shoul",
+    "frecency": 3807,
+    "url_hash": 20862436262547,
+    "last_visit_date": 1758203930460111
+  }
+}

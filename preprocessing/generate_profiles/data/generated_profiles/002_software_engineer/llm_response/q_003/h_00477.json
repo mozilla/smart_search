@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Medical Website Design Services \\\"Delivering the medical web!Vital Element, Inc. has been delivering the medical web for 20 years and we are proud to have served the web development needs of thousands of physicians. From all the way back when you'd ask \\\"\\\"what is medical website design\\\"\\\" to today, we continue to be THE TRUSTED medic",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes medical website design services and is not about database queries or optimization; not relevant to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Medical Website Design Services \"Delivering the medical web!Vital Element, Inc. has been delivering the medical web for 20 years and we are proud to have served the web development needs of thousands of physicians. From all the way back when you'd ask \"\"what is medical website design\"\" to today, we continue to be THE TRUSTED medic",
+  "history": {
+    "url": "http://www.southbaygi.com/services-capsule-endoscopy-san-jose-california.html",
+    "title": "Medical Website Design Services",
+    "description": "\"Delivering the medical web!Vital Element, Inc. has been delivering the medical web for 20 years and we are proud to have served the web development needs of thousands of physicians. From all the way back when you'd ask \"\"what is medical website design\"\" to today, we continue to be THE TRUSTED medic",
+    "frecency": 4183,
+    "url_hash": 61566122078177,
+    "last_visit_date": 1758203930404111
+  }
+}

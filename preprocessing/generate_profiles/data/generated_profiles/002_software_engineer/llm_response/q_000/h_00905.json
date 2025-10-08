@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "VIZIO Picture Quality. Brilliance In Every Pixel VIZIO Picture Quality.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses VIZIO picture quality, not APIs or debugging; no relevance to API integration debugging.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "VIZIO Picture Quality. Brilliance In Every Pixel VIZIO Picture Quality.",
+  "history": {
+    "url": "https://www.vizio.com/picture-quality",
+    "title": "VIZIO Picture Quality.",
+    "description": "Brilliance In Every Pixel VIZIO Picture Quality. ",
+    "frecency": 3362,
+    "url_hash": 7479831674864,
+    "last_visit_date": 1758203927476111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Lack of sleep: Can it make you sick? Appointments at Mayo Clinic Mayo Clinic offers appointments in Arizona, Florida and Minnesota and at Mayo Clinic Health System locations. Request Appointment Lack of sleep: Can it make you sick? Products and services Free E-newsletter Subscribe to Housecall Our general interest e-newsletter keeps yo",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about sleep and Mayo Clinic, not about Docker or software setup.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Lack of sleep: Can it make you sick? Appointments at Mayo Clinic Mayo Clinic offers appointments in Arizona, Florida and Minnesota and at Mayo Clinic Health System locations. Request Appointment Lack of sleep: Can it make you sick? Products and services Free E-newsletter Subscribe to Housecall Our general interest e-newsletter keeps yo",
+  "history": {
+    "url": "http://www.mayoclinic.org/diseases-conditions/insomnia/expert-answers/lack-of-sleep/FAQ-20057757",
+    "title": "Lack of sleep: Can it make you sick?",
+    "description": "Appointments at Mayo Clinic Mayo Clinic offers appointments in Arizona, Florida and Minnesota and at Mayo Clinic Health System locations. Request Appointment Lack of sleep: Can it make you sick? Products and services Free E-newsletter Subscribe to Housecall Our general interest e-newsletter keeps yo",
+    "frecency": 4806,
+    "url_hash": 41872198107476,
+    "last_visit_date": 1758203931982111
+  }
+}

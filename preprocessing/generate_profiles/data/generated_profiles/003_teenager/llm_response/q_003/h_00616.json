@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Super Bug From Wikipedia, the free encyclopedianavigation search Super Bug may refer to: Super bug (bacteria), Antibiotic resistant organism Super Bug (video game), an arcade game from 1977Superbug (film series), a West German film series about a Volkswagen Beetle. Volkswagen Super Bug See also [ edit]Boeing",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses 'Super Bug' disambiguations (bacteria, a video game, a film series) and does not pertain to apps for improving study habits or study habit improvement apps.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Super Bug From Wikipedia, the free encyclopedianavigation search Super Bug may refer to: Super bug (bacteria), Antibiotic resistant organism Super Bug (video game), an arcade game from 1977Superbug (film series), a West German film series about a Volkswagen Beetle. Volkswagen Super Bug See also [ edit]Boeing",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Super_Bug",
+    "title": "Super Bug",
+    "description": "From Wikipedia, the free encyclopedianavigation search Super Bug may refer to: Super bug (bacteria), Antibiotic resistant organism Super Bug (video game), an arcade game from 1977Superbug (film series), a West German film series about a Volkswagen Beetle. Volkswagen Super Bug See also [ edit]Boeing ",
+    "frecency": 4356,
+    "url_hash": 64420204171456,
+    "last_visit_date": 1758203930659228
+  }
+}

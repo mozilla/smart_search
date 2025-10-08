@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Blake Lively and Ryan Reynolds' Baby Name Revealed?! (And It's VeryDifferent Than Violet) \\\"Pascal Le Segretain/Getty Images Ryan Reynolds has been doing all sorts of press for his upcoming film, The Voices, so we have to hand it to him for having not let the cat out of the bag regarding his daughter's name. Not one little slip-up, not even when David Letterman really grilled him last wee",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is entertainment news about celebrity baby names, not related to how to improve at sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Blake Lively and Ryan Reynolds' Baby Name Revealed?! (And It's VeryDifferent Than Violet) \"Pascal Le Segretain/Getty Images Ryan Reynolds has been doing all sorts of press for his upcoming film, The Voices, so we have to hand it to him for having not let the cat out of the bag regarding his daughter's name. Not one little slip-up, not even when David Letterman really grilled him last wee",
+  "history": {
+    "url": "http://www.eonline.com/news/624893/blake-lively-and-ryan-reynolds-baby-name-revealed-and-it-s-very-different-than-violet",
+    "title": "Blake Lively and Ryan Reynolds' Baby Name Revealed?! (And It's VeryDifferent Than Violet)",
+    "description": "\"Pascal Le Segretain/Getty Images Ryan Reynolds has been doing all sorts of press for his upcoming film, The Voices, so we have to hand it to him for having not let the cat out of the bag regarding his daughter's name. Not one little slip-up, not even when David Letterman really grilled him last wee",
+    "frecency": 1834,
+    "url_hash": 30754325558555,
+    "last_visit_date": 1758203929975228
+  }
+}

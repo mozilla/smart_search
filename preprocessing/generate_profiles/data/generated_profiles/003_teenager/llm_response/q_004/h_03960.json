@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Rehabilitation for Stroke \"What is stroke rehabilitation? Stroke rehabilitation or \\\"rehab\\\" helps you regain as much independence and quality of life as possible. Rehab can help you physically, emotionally, socially, and spiritually after stroke. It helps restore you to optimal health, functioning, and well-being. Rehabilit",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The page discusses stroke rehabilitation rather than methods to improve general sports performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Rehabilitation for Stroke \"What is stroke rehabilitation? Stroke rehabilitation or \"\"rehab\"\" helps you regain as much independence and quality of life as possible. Rehab can help you physically, emotionally, socially, and spiritually after stroke. It helps restore you to optimal health, functioning, and well-being. Rehabilit",
+  "history": {
+    "url": "https://www.hopkinsmedicine.org/healthlibrary/conditions/cardiovascular_diseases/rehabilitation_for_stroke_85,P00805",
+    "title": "Rehabilitation for Stroke",
+    "description": "\"What is stroke rehabilitation? Stroke rehabilitation or \"\"rehab\"\" helps you regain as much independence and quality of life as possible. Rehab can help you physically, emotionally, socially, and spiritually after stroke. It helps restore you to optimal health, functioning, and well-being. Rehabilit",
+    "frecency": 893,
+    "url_hash": 5543102631105,
+    "last_visit_date": 1758203935819228
+  }
+}

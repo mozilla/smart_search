@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Introduction \\\"Contents Introduction Starting to Use Cron Crontab Lines Crontab Options Allowing/Denying User-Level Cron Further Considerations Common Problems Two Other Types of Crontab GUI Applications Crontab Example How Anacron is Set Up Alternatives to Cron Introduction Cron is a system daemon used to execut",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page discusses cron/crontab rather than integrated development environments (IDEs); not relevant to 'top IDEs for software development'.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Introduction \"Contents Introduction Starting to Use Cron Crontab Lines Crontab Options Allowing/Denying User-Level Cron Further Considerations Common Problems Two Other Types of Crontab GUI Applications Crontab Example How Anacron is Set Up Alternatives to Cron Introduction Cron is a system daemon used to execut",
+  "history": {
+    "url": "https://help.ubuntu.com/community/CronHowto",
+    "title": "Introduction",
+    "description": "\"Contents Introduction Starting to Use Cron Crontab Lines Crontab Options Allowing/Denying User-Level Cron Further Considerations Common Problems Two Other Types of Crontab GUI Applications Crontab Example How Anacron is Set Up Alternatives to Cron Introduction Cron is a system daemon used to execut",
+    "frecency": 3509,
+    "url_hash": 14968488803570,
+    "last_visit_date": 1758203928530111
+  }
+}

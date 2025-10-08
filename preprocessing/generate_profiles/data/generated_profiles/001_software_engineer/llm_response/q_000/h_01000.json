@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Career Education School Locations About Career Education Investor Relations Jobs at Career Education Corporate Contact American Inter Continental University Colorado Technical University",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result appears to be a directory of education institution pages and does not relate to debugging or integrating APIs.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Career Education School Locations About Career Education Investor Relations Jobs at Career Education Corporate Contact American Inter Continental University Colorado Technical University",
+  "history": {
+    "url": "http://www.careered.com/",
+    "title": "Career Education School Locations",
+    "description": "About Career Education Investor Relations Jobs at Career Education Corporate Contact American Inter Continental University Colorado Technical University ",
+    "frecency": 1431,
+    "url_hash": 12985829026285,
+    "last_visit_date": 1758203928614200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Three storm chasers - including father and son - killed 'doing what they loved' in Oklahoma tornado as death toll rises to 12 \\\"Tim Samaras, 55, his son Paul, 24, and crew member Carl Young, 45, died in El Reno on Friday Friend and meteorologist Mike Nelson said: 'Tim was not a cowboy, he was as cauti",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns a tornado news story, not anything about debugging API integration; it is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Three storm chasers - including father and son - killed 'doing what they loved' in Oklahoma tornado as death toll rises to 12 \"Three storm chasers - including father and son - killed 'doing what they loved' in Oklahoma tornado as death toll rises to 12Tim Samaras, 55, his son Paul, 24, and crew member Carl Young, 45, died in El Reno on Friday Friend and meteorologist Mike Nelson said: 'Tim was not a cowboy, he was as cauti",
+  "history": {
+    "url": "http://www.dailymail.co.uk/news/article-2334683/Oklahoma-tornadoes-Storm-chasers-Tim-Samaras-son-killed-El-Reno-12-dead.html",
+    "title": "Three storm chasers - including father and son - killed 'doing what they loved' in Oklahoma tornado as death toll rises to 12",
+    "description": "\"Three storm chasers - including father and son - killed 'doing what they loved' in Oklahoma tornado as death toll rises to 12Tim Samaras, 55, his son Paul, 24, and crew member Carl Young, 45, died in El Reno on Friday Friend and meteorologist Mike Nelson said: 'Tim was not a cowboy, he was as cauti",
+    "frecency": 1862,
+    "url_hash": 20502066133518,
+    "last_visit_date": 1758203928494200
+  }
+}

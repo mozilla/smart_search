@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Joan Rivers died from 'predictable complication of medical therapy' \"The New York medical examiner's office concludes that comedian Joan Rivers died of complications during outpatient surgery, which kept her brain from getting enough oxygen. Joan Rivers \u2019 death \u201cresulted from a predictable complication of medical therapy,\u201d the New York medical examiner\u2019s office conc",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Joan Rivers' death and a medical examiner's report, which is unrelated to easy DIY room decoration ideas. Therefore, it is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Joan Rivers died from 'predictable complication of medical therapy' \"The New York medical examiner's office concludes that comedian Joan Rivers died of complications during outpatient surgery, which kept her brain from getting enough oxygen. Joan Rivers \u2019 death \u201cresulted from a predictable complication of medical therapy,\u201d the New York medical examiner\u2019s office conc",
+  "history": {
+    "url": "http://www.latimes.com/entertainment/gossip/la-et-mg-joan-rivers-autopsy-20141016-story.html",
+    "title": "Joan Rivers died from 'predictable complication of medical therapy'",
+    "description": "\"The New York medical examiner's office concludes that comedian Joan Rivers died of complications during outpatient surgery, which kept her brain from getting enough oxygen. Joan Rivers \u2019 death \u201cresulted from a predictable complication of medical therapy,\u201d the New York medical examiner\u2019s office conc",
+    "frecency": 3382,
+    "url_hash": 17311431631680,
+    "last_visit_date": 1758203932173228
+  }
+}

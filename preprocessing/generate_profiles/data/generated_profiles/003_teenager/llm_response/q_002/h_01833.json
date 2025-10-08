@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Sprouts Farmers Market: 07/01/2007Sprouts Farmers Market: Author: Ron Tanner Source: Specialty Food Magazine Categories: Industry Operations ; Retailers AS I WALKED INTO THE NEW SPROUTS FARMERS MARKET IN SOUTH CHANDLER, ARIZ., I was greeted by the sound system playing the 1960s favorite, \u201cI\u2019m Into Something Good.\u201d And I wa",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Sprouts Farmers Market, a grocery retailer, not about easy DIY room decoration ideas; thus not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Sprouts Farmers Market: 07/01/2007Sprouts Farmers Market: Author: Ron Tanner Source: Specialty Food Magazine Categories: Industry Operations ; Retailers AS I WALKED INTO THE NEW SPROUTS FARMERS MARKET IN SOUTH CHANDLER, ARIZ., I was greeted by the sound system playing the 1960s favorite, \u201cI\u2019m Into Something Good.\u201d And I wa",
+  "history": {
+    "url": "https://www.specialtyfood.com/news/article/sprouts-farmers-market/",
+    "title": "Sprouts Farmers Market:",
+    "description": "07/01/2007Sprouts Farmers Market: Author: Ron Tanner Source: Specialty Food Magazine Categories: Industry Operations ; Retailers AS I WALKED INTO THE NEW SPROUTS FARMERS MARKET IN SOUTH CHANDLER, ARIZ., I was greeted by the sound system playing the 1960s favorite, \u201cI\u2019m Into Something Good.\u201d And I wa",
+    "frecency": 3128,
+    "url_hash": 54603335035339,
+    "last_visit_date": 1758203930745228
+  }
+}

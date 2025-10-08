@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "About Location Services in OS X and Safari \"About Location Services in OS X and Safari Location Services allows applications and websites to gather and use information based on the current location of your computer. You have to give your permission before an app or website can use your location data. Your approximate location is determined u",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Location Services in OS X and Safari, not about IDEs or software development environments.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "About Location Services in OS X and Safari \"About Location Services in OS X and Safari Location Services allows applications and websites to gather and use information based on the current location of your computer. You have to give your permission before an app or website can use your location data. Your approximate location is determined u",
+  "history": {
+    "url": "https://support.apple.com/en-us/HT204690",
+    "title": "About Location Services in OS X and Safari",
+    "description": "\"About Location Services in OS X and Safari Location Services allows applications and websites to gather and use information based on the current location of your computer. You have to give your permission before an app or website can use your location data. Your approximate location is determined u",
+    "frecency": 1478,
+    "url_hash": 54035677068564,
+    "last_visit_date": 1758203927028111
+  }
+}

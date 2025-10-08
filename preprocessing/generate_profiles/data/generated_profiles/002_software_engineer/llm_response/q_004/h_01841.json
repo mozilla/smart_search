@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Eastern Coaches List - page about sports coaches and governance (not related to Docker).",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns sports coaching and governance rather than Docker or computing; therefore not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Eastern Coaches List \"Main menu Rules of the Sport ECS \"\"A\"\" Ranking (FSP)EQS \"\"B\"\" Ranking (EPL)Judges Technical Delegates Scorers Organizers Info Parents Scholarships Governance Home \u00bb Home Eastern Coaches List Eastern Competition Coaches Program Directors are responsible to send updated coaches list to: ussaeastfree@",
+  "history": {
+    "url": "http://www.easternfreestyle.org/node/215",
+    "title": "Eastern Coaches List",
+    "description": "\"Main menu Rules of the Sport ECS \"\"A\"\" Ranking (FSP)EQS \"\"B\"\" Ranking (EPL)Judges Technical Delegates Scorers Organizers Info Parents Scholarships Governance Home \u00bb Home Eastern Coaches List Eastern Competition Coaches Program Directors are responsible to send updated coaches list to: ussaeastfree@",
+    "frecency": 1636,
+    "url_hash": 37602272088356,
+    "last_visit_date": 1758203930500111
+  }
+}

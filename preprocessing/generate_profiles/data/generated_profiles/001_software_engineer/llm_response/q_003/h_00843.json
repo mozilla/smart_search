@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Our Company Our Company As the nation\u2019s largest, most successful provider of home healthcare products and services, Apria helps thousands of Americans live healthier and feel better \u2013 every day. Through our trained professionals and clinicians, Apria offers a comprehensive product portfolio with a leading marke",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a home healthcare company and does not relate to databases or query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Our Company Our Company As the nation\u2019s largest, most successful provider of home healthcare products and services, Apria helps thousands of Americans live healthier and feel better \u2013 every day. Through our trained professionals and clinicians, Apria offers a comprehensive product portfolio with a leading marke",
+  "history": {
+    "url": "http://lifeatapria.com/our-company/",
+    "title": "Our Company",
+    "description": "Our Company As the nation\u2019s largest, most successful provider of home healthcare products and services, Apria helps thousands of Americans live healthier and feel better \u2013 every day. Through our trained professionals and clinicians, Apria offers a comprehensive product portfolio with a leading marke",
+    "frecency": 2086,
+    "url_hash": 58406019123658,
+    "last_visit_date": 1758203928828200
+  }
+}

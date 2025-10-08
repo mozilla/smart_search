@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Living on Mars: How to Survive the Red Planet",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Mars and space exploration, not about Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Living on Mars: How to Survive the Red Planet \"By Carl Zimmer Sep 30, 2009Mars may never feel like home, but technology is already being planned to make astronauts comfortable there. In this illustration, CG models of potential habitat pods and greenhouses meld with panoramic photos from actual Mars rovers. It's your first hike on Mars, and so",
+  "history": {
+    "url": "http://www.popularmechanics.com/space/moon-mars/a2116/4221805/",
+    "title": "Living on Mars: How to Survive the Red Planet",
+    "description": "\"By Carl Zimmer Sep 30, 2009Mars may never feel like home, but technology is already being planned to make astronauts comfortable there. In this illustration, CG models of potential habitat pods and greenhouses meld with panoramic photos from actual Mars rovers. It's your first hike on Mars, and so ",
+    "frecency": 3058,
+    "url_hash": 83177199067264,
+    "last_visit_date": 1758203928310111
+  }
+}

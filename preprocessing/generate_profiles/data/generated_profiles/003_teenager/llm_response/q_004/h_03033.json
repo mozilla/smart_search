@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Scottish highland dance \\\"From Wikipedia, the free encyclopedianavigation search\\\"\\\"Highland reel\\\"\\\" redirects here. For the racehorse, see Highland Reel. This article may require cleanup to meet Wikipedia's quality standards. No cleanup reason has been specified. Please help improve this article if you can. (November 2011) (",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The page is about Scottish highland dance, not about improving performance in sports; thus it is not relevant to the query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Scottish highland dance \"From Wikipedia, the free encyclopedianavigation search\"\"Highland reel\"\" redirects here. For the racehorse, see Highland Reel. This article may require cleanup to meet Wikipedia's quality standards. No cleanup reason has been specified. Please help improve this article if you can. (November 2011) (",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Scottish_highland_dance",
+    "title": "Scottish highland dance",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search\"\"Highland reel\"\" redirects here. For the racehorse, see Highland Reel. This article may require cleanup to meet Wikipedia's quality standards. No cleanup reason has been specified. Please help improve this article if you can. (November 2011) ( ",
+    "frecency": 1805,
+    "url_hash": 20770566812186,
+    "last_visit_date": 1758203932641228
+  }
+}

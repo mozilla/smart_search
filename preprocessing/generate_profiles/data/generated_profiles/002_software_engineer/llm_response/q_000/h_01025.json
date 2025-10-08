@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "McDonald's Will Offer Big Discounts on Its Sodas and Coffee Retail Mc Donald's Mc Donald's Will Offer Big Discounts on Its Sodas and Coffee An unanticipated problem was encountered, check back soon and try again Error Code: MEDIA_ERR_UNKNOWNSession ID: 2018-04-12:9ca78d65195f773e1c976b35 Player ID: jumpstart_video_1OKBy Madeline Farber February 22, 2017Soft",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a marketing/news article about discounts at McDonald's and does not relate to debugging APIs or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "McDonald's Will Offer Big Discounts on Its Sodas and Coffee Retail Mc Donald's Mc Donald's Will Offer Big Discounts on Its Sodas and Coffee An unanticipated problem was encountered, check back soon and try again Error Code: MEDIA_ERR_UNKNOWNSession ID: 2018-04-12:9ca78d65195f773e1c976b35 Player ID: jumpstart_video_1OKBy Madeline Farber February 22, 2017Soft",
+  "history": {
+    "url": "http://fortune.com/2017/02/22/mcdonalds-cheaper-soda-coffee-prices/",
+    "title": "McDonald's Will Offer Big Discounts on Its Sodas and Coffee",
+    "description": "Retail Mc Donald's Mc Donald's Will Offer Big Discounts on Its Sodas and Coffee An unanticipated problem was encountered, check back soon and try again Error Code: MEDIA_ERR_UNKNOWNSession ID: 2018-04-12:9ca78d65195f773e1c976b35 Player ID: jumpstart_video_1OKBy Madeline Farber February 22, 2017Soft ",
+    "frecency": 3175,
+    "url_hash": 23821628668858,
+    "last_visit_date": 1758203927284111
+  }
+}

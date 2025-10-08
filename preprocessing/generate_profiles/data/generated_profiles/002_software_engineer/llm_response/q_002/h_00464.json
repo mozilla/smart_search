@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "About LSA RECOVERY,INC LSA RECOVERY,INCFollow Get job updates from LSA RECOVERY,INCAbout Reviews Salaries Photos Jobs Q&AAbout LSA RECOVERY,INCLSA Recovery, Inc. is an 822 Medically Supervised Outpatient Chemical Dependency Program, which provides a variety of services to individuals as well as family members seeking help",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "Retrieved result is about LSA Recovery, Inc., not about IDEs; thus not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "About LSA RECOVERY,INC LSA RECOVERY,INCFollow Get job updates from LSA RECOVERY,INCAbout Reviews Salaries Photos Jobs Q&AAbout LSA RECOVERY,INCLSA Recovery, Inc. is an 822 Medically Supervised Outpatient Chemical Dependency Program, which provides a variety of services to individuals as well as family members seeking help",
+  "history": {
+    "url": "https://www.indeed.com/cmp/Lsa-Recovery,inc",
+    "title": "About LSA RECOVERY,INC",
+    "description": "LSA RECOVERY,INCFollow Get job updates from LSA RECOVERY,INCAbout Reviews Salaries Photos Jobs Q&AAbout LSA RECOVERY,INCLSA Recovery, Inc. is an 822 Medically Supervised Outpatient Chemical Dependency Program, which provides a variety of services to individuals as well as family members seeking help",
+    "frecency": 4202,
+    "url_hash": 65948752823110,
+    "last_visit_date": 1758203927248111
+  }
+}

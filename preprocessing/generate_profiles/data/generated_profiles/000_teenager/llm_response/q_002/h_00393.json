@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "The Last Tycoon (TV series) \u2013 Wikipedia page about a TV series",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a television series, not about easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "The Last Tycoon  (TV series) \"The Last Tycoon (TV series)From Wikipedia, the free encyclopedianavigation search The Last Tycoon Genre Drama Based on The Last Tycoon by F. Scott Fitzgerald Developed by Billy Ray Starring Matt Bomer Kelsey Grammer Lily Collins Dominique Mc Elligott Enzo Cilenti Koen De Bouw Mark O'Brien Rosemarie",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/The_Last_Tycoon_(TV_series)",
+    "title": "The Last Tycoon  (TV series)",
+    "description": "\"The Last Tycoon (TV series)From Wikipedia, the free encyclopedianavigation search The Last Tycoon Genre Drama Based on The Last Tycoon by F. Scott Fitzgerald Developed by Billy Ray Starring Matt Bomer Kelsey Grammer Lily Collins Dominique Mc Elligott Enzo Cilenti Koen De Bouw Mark O'Brien Rosemarie",
+    "frecency": 3341,
+    "url_hash": 53943460376425,
+    "last_visit_date": 1758203926703139
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "3 Ways To Support Mother Jones Looking for news you can trust? Subscribe to our free newsletters. It sounds a lot like the plot of a sci-fi blockbuster: A deep-space probe powered by a highly radioactive substance could wipe out humankind. But to anti-nuclear activists and a number of scientists, this is no movie. In just a few w",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses supporting a political news outlet and a sci-fi article, with no sports content; thus it is not relevant to 'how to get better at sports'.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "3 Ways To Support Mother Jones Looking for news you can trust? Subscribe to our free newsletters. It sounds a lot like the plot of a sci-fi blockbuster: A deep-space probe powered by a highly radioactive substance could wipe out humankind. But to anti-nuclear activists and a number of scientists, this is no movie. In just a few w",
+  "history": {
+    "url": "http://www.motherjones.com/politics/1997/09/cassini-controversy/",
+    "title": "3 Ways To Support Mother Jones",
+    "description": "Looking for news you can trust? Subscribe to our free newsletters. It sounds a lot like the plot of a sci-fi blockbuster: A deep-space probe powered by a highly radioactive substance could wipe out humankind. But to anti-nuclear activists and a number of scientists, this is no movie. In just a few w",
+    "frecency": 4799,
+    "url_hash": 47488536572864,
+    "last_visit_date": 1758203930803228
+  }
+}

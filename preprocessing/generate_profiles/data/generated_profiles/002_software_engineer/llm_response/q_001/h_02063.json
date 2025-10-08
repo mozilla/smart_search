@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "In texting, what is the meaning of \\\"MHM\\\"? Texting Abbreviations Text Messaging In texting, what is the meaning of \\\"MHM\\\"? ad by Slack.com Slack: Messaging for teams - sign up for free. Make work better with Slack. Real time messaging, search, archiving & more. Sign Up at slack.com 3 Answers Andrew Jones, Marketing Manager at Echno IT Soluti",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses texting abbreviations and Slack, not Python libraries or machine learning; it is unrelated to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "\"In texting, what is the meaning of \"\"MHM\"\"?\" \"Texting Abbreviations Text Messaging In texting, what is the meaning of \"\"MHM\"\"?ad by Slack.com Slack: Messaging for teams - sign up for free. Make work better with Slack. Real time messaging, search, archiving & more. Sign Up at slack.com3 Answers Andrew Jones, Marketing Manager at Echno IT Soluti",
+  "history": {
+    "url": "https://www.quora.com/In-texting-what-is-the-meaning-of-MHM",
+    "title": "\"In texting, what is the meaning of \"\"MHM\"\"?\"",
+    "description": "\"Texting Abbreviations Text Messaging In texting, what is the meaning of \"\"MHM\"\"?ad by Slack.com Slack: Messaging for teams - sign up for free. Make work better with Slack. Real time messaging, search, archiving & more. Sign Up at slack.com3 Answers Andrew Jones, Marketing Manager at Echno IT Soluti",
+    "frecency": 1249,
+    "url_hash": 43324164775609,
+    "last_visit_date": 1758203931270111
+  }
+}

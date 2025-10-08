@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Q: Save and Send Excel 2013 using Office 365 NO Norm. Andrews asked on February 11, 2014Q: Save and Send Excel 2013 using Office 365I have a user who installed Office 365 which included Excel. When working with Excel files, the save and send option does not appear anywhere. They are no longer using Outlook for their default mail client so, #1)",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Excel/Office 365 save-and-send functionality, not database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Q: Save and Send Excel 2013 using Office 365 NO Norm. Andrews asked on February 11, 2014Q: Save and Send Excel 2013 using Office 365I have a user who installed Office 365 which included Excel. When working with Excel files, the save and send option does not appear anywhere. They are no longer using Outlook for their default mail client so, #1)",
+  "history": {
+    "url": "http://answers.microsoft.com/en-us/office/forum/office_365hp-excel/save-and-send-excel-2013-using-office-365/e29d1f36-75a9-4833-a455-09d4ac9b5a52",
+    "title": "Q: Save and Send Excel 2013 using Office 365",
+    "description": "NO Norm. Andrews asked on February 11, 2014Q: Save and Send Excel 2013 using Office 365I have a user who installed Office 365 which included Excel. When working with Excel files, the save and send option does not appear anywhere. They are no longer using Outlook for their default mail client so, #1)",
+    "frecency": 994,
+    "url_hash": 58784185838212,
+    "last_visit_date": 1758203928822200
+  }
+}

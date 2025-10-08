@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "List of The Incredibles characters from Wikipedia, the free encyclopedia. The Incredibles characters.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses The Incredibles characters, not apps or study habit improvement, thus not relevant.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "List of The Incredibles characters \"List of The Incredibles characters From Wikipedia, the free encyclopedianavigation search The Incredibles. From left to right: Elastigirl, Mr. Incredible, Violet, and Dash. Bottom: Jack-Jack. The following is a list of fictional characters from the 2004 Disney / Pixar animated film The Incredibles,",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/List_of_The_Incredibles_characters",
+    "title": "List of The Incredibles characters",
+    "description": "\"List of The Incredibles characters From Wikipedia, the free encyclopedianavigation search The Incredibles. From left to right: Elastigirl, Mr. Incredible, Violet, and Dash. Bottom: Jack-Jack. The following is a list of fictional characters from the 2004 Disney / Pixar animated film The Incredibles,",
+    "frecency": 443,
+    "url_hash": 62719126392214,
+    "last_visit_date": 1758203933147228
+  }
+}

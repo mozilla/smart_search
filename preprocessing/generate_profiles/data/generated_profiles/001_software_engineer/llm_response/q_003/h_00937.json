@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Just three pull-ups: Too many for women in the Marine Corps? \\\"Just three pull-ups: Too many for women in the Marine Corps? The Marine Corps reports that most women in recruit training are unable to do the minimum three pull-ups. As the US military moves toward allowing more women in combat roles, this raises questions about physical standards. By Brad Knicker",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns military physical fitness standards and gender, not database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Just three pull-ups: Too many for women in the Marine Corps? \"Just three pull-ups: Too many for women in the Marine Corps? The Marine Corps reports that most women in recruit training are unable to do the minimum three pull-ups. As the US military moves toward allowing more women in combat roles, this raises questions about physical standards. By Brad Knicker",
+  "history": {
+    "url": "https://www.csmonitor.com/USA/Military/2014/0104/Just-three-pull-ups-Too-many-for-women-in-the-Marine-Corps",
+    "title": "Just three pull-ups: Too many for women in the Marine Corps?",
+    "description": "\"Just three pull-ups: Too many for women in the Marine Corps? The Marine Corps reports that most women in recruit training are unable to do the minimum three pull-ups. As the US military moves toward allowing more women in combat roles, this raises questions about physical standards. By Brad Knicker",
+    "frecency": 1734,
+    "url_hash": 52160598755606,
+    "last_visit_date": 1758203927986200
+  }
+}

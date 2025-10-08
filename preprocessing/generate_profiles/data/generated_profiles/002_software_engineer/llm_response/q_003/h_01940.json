@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Moved Permanently Moved Permanently The document has moved here. Apache Server at www.vetdentists.com Port 80",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a generic 301 redirect from a veterinary site and does not contain content related to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Moved Permanently Moved Permanently The document has moved here. Apache Server at www.vetdentists.com Port 80",
+  "history": {
+    "url": "http://www.vetdentists.com/root-canal-vs-extraction-pet-teeth/",
+    "title": "Moved Permanently",
+    "description": "Moved Permanently The document has moved here. Apache Server at www.vetdentists.com Port 80 ",
+    "frecency": 1471,
+    "url_hash": 99345355790862,
+    "last_visit_date": 1758203930902111
+  }
+}

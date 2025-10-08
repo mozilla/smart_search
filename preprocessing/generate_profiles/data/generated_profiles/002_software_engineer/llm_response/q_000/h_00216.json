@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "How much is the pension of a navy admiral? \\\"Answers.com \u00ae Wiki Answers \u00ae Categories History, Politics & Society Politics and Government Government US Government US Military US Army How much is the pension of a navy admiral? Flag How much is the pension of a navy admiral? Answer by Mark Swarthout Confidence votes 119KContract attorney. When n",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses the pension of a navy admiral, which is unrelated to debugging API integration; the page is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "How much is the pension of a navy admiral? \"Answers.com \u00ae Wiki Answers \u00ae Categories History, Politics & Society Politics and Government Government US Government US Military US Army How much is the pension of a navy admiral? Flag How much is the pension of a navy admiral? Answer by Mark Swarthout Confidence votes 119KContract attorney. When n",
+  "history": {
+    "url": "http://www.answers.com/Q/How_much_is_the_pension_of_a_navy_admiral",
+    "title": "How much is the pension of a navy admiral?",
+    "description": "\"Answers.com \u00ae Wiki Answers \u00ae Categories History, Politics & Society Politics and Government Government US Government US Military US Army How much is the pension of a navy admiral? Flag How much is the pension of a navy admiral? Answer by Mark Swarthout Confidence votes 119KContract attorney. When n",
+    "frecency": 4640,
+    "url_hash": 21760145159215,
+    "last_visit_date": 1758203927360111
+  }
+}

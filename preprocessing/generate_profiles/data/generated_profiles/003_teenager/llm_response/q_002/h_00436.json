@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Winnie-the-Pooh gets a new friend",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result appears to be about a Winnie-the-Pooh storyline and not related to DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Winnie-the-Pooh gets a new friend",
+  "history": {
+    "url": "http://www.cnn.com/2016/10/14/health/winnie-the-pooh-new-friend/",
+    "title": "Winnie-the-Pooh gets a new friend",
+    "description": "",
+    "frecency": 4530,
+    "url_hash": 75568519782589,
+    "last_visit_date": 1758203933329228
+  }
+}

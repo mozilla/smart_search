@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Why is the total memory usage reported by Windows Task Manager much higher than the sum of all processes' memory usage? [duplicate] \\\"_Super User is a question and answer site for computer enthusiasts and power users. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Why is the total memory usage reported by Windows Task\\\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Windows Task Manager memory usage and is not related to improving performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Why is the total memory usage reported by Windows Task Manager much higher than the sum of all processes' memory usage? [duplicate] \"_Super User is a question and answer site for computer enthusiasts and power users. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Why is the total memory usage reported by Windows Task",
+  "history": {
+    "url": "http://superuser.com/questions/727356/why-is-the-total-memory-usage-reported-by-windows-task-manager-much-higher-than",
+    "title": "Why is the total memory usage reported by Windows Task Manager much higher than the sum of all processes' memory usage? [duplicate]",
+    "description": "\"_Super User is a question and answer site for computer enthusiasts and power users. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Why is the total memory usage reported by Windows Task ",
+    "frecency": 3173,
+    "url_hash": 70043082413503,
+    "last_visit_date": 1758203928810735
+  }
+}

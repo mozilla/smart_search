@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Georgia State Parks & Historic Sites Headquarters About Us About Our Division Contact Us Internships & Careers Press Room Kids & Educators Links & Resources Park Rules Georgia State Parks & Historic Sites Headquarters2600 Highway 155 SW Stockbridge, GA 30281 Reservations 1-800-864-7275 (Monday\u2013Friday 8 a.m.\u20138 p.m. Saturday\u2013Sunday 9 a.m.\u20135 p.m. EST)",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Georgia State Parks and has no content related to API debugging or software integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Georgia State Parks & Historic Sites Headquarters About Us About Our Division Contact Us Internships & Careers Press Room Kids & Educators Links & Resources Park Rules Georgia State Parks & Historic Sites Headquarters2600 Highway 155 SW Stockbridge, GA 30281 Reservations 1-800-864-7275 (Monday\u2013Friday 8 a.m.\u20138 p.m. Saturday\u2013Sunday 9 a.m.\u20135 p.m. EST)",
+  "history": {
+    "url": "http://www.georgiawildlife.com/node/524",
+    "title": "Georgia State Parks & Historic Sites Headquarters",
+    "description": "About Us About Our Division Contact Us Internships & Careers Press Room Kids & Educators Links & Resources Park Rules Georgia State Parks & Historic Sites Headquarters2600 Highway 155 SW Stockbridge, GA 30281 Reservations 1-800-864-7275 (Monday\u2013Friday 8 a.m.\u20138 p.m. Saturday\u2013Sunday 9 a.m.\u20135 p.m. EST)",
+    "frecency": 889,
+    "url_hash": 31325549769689,
+    "last_visit_date": 1758203927114111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "What is your banks daily ATM cash withdrawl limit? Business & Finance Personal Finance What is your banks daily ATM cash withdrawl limit? I tried to withdrawl $200 from an ATM from National City Bank and it declined it...but it let me take out $100. That seems a bit low for an ATM daily limit!Follow 5 answers Answers Relevance Rating Newest Oldest B",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses banking and ATM withdrawal limits, which is unrelated to top IDEs for software development.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "What is your banks daily ATM cash withdrawl limit? Business & Finance Personal Finance What is your banks daily ATM cash withdrawl limit? I tried to withdrawl $200 from an ATM from National City Bank and it declined it...but it let me take out $100. That seems a bit low for an ATM daily limit!Follow 5 answers Answers Relevance Rating Newest Oldest B",
+  "history": {
+    "url": "https://answers.yahoo.com/question/index?qid=20080323003847AA7vSlG",
+    "title": "What is your banks daily ATM cash withdrawl limit?",
+    "description": "Business & Finance Personal Finance What is your banks daily ATM cash withdrawl limit? I tried to withdrawl $200 from an ATM from National City Bank and it declined it...but it let me take out $100. That seems a bit low for an ATM daily limit!Follow 5 answers Answers Relevance Rating Newest Oldest B",
+    "frecency": 3759,
+    "url_hash": 66951672019849,
+    "last_visit_date": 1758203929062200
+  }
+}

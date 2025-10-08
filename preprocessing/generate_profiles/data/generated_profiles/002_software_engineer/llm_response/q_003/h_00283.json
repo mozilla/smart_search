@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "XML Parser \\\"XML Parser\u276e Previous Next \u276fAll major browsers have a built-in XML parser to access and manipulate XML. XML Parser The XML DOM (Document Object Model) defines the properties and methods for accessing and editing XML. However, before an XML document can be accessed, it must be loaded into an XML DOM",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses an XML parser and XML DOM, not database queries or query optimization techniques.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "XML Parser \"XML Parser\u276e Previous Next \u276fAll major browsers have a built-in XML parser to access and manipulate XML. XML Parser The XML DOM (Document Object Model) defines the properties and methods for accessing and editing XML. However, before an XML document can be accessed, it must be loaded into an XML DOM",
+  "history": {
+    "url": "https://www.w3schools.com/xml/xml_parser.asp",
+    "title": "XML Parser",
+    "description": "\"XML Parser\u276e Previous Next \u276fAll major browsers have a built-in XML parser to access and manipulate XML. XML Parser The XML DOM (Document Object Model) defines the properties and methods for accessing and editing XML. However, before an XML document can be accessed, it must be loaded into an XML DOM ",
+    "frecency": 4535,
+    "url_hash": 51802739097189,
+    "last_visit_date": 1758203929378111
+  }
+}

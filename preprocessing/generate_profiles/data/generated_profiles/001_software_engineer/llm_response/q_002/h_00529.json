@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "To George Washington from Heman Swift, 24 April 1781 To George Washington from Heman Swift, 24 April 1781Wethersfield 24th April 1781Sir I have the honor to acknowledge the receipt of Your Excellency\u2019s favor of the 16th Inst:, am unable to inform you of the number of Recruits which are at Danbury (if there be any at that place), there are none at the",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a historical letter from 1781 and contains no information related to software development or IDEs.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "To George Washington from Heman Swift, 24 April 1781 To George Washington from Heman Swift, 24 April 1781Wethersfield 24th April 1781Sir I have the honor to acknowledge the receipt of Your Excellency\u2019s favor of the 16th Inst:, am unable to inform you of the number of Recruits which are at Danbury (if there be any at that place), there are none at the",
+  "history": {
+    "url": "https://founders.archives.gov/documents/Washington/99-01-02-05518",
+    "title": "To George Washington from Heman Swift, 24 April 1781",
+    "description": "To George Washington from Heman Swift, 24 April 1781Wethersfield 24th April 1781Sir I have the honor to acknowledge the receipt of Your Excellency\u2019s favor of the 16th Inst:, am unable to inform you of the number of Recruits which are at Danbury (if there be any at that place), there are none at the ",
+    "frecency": 3166,
+    "url_hash": 88542715275420,
+    "last_visit_date": 1758203927108200
+  }
+}

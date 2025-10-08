@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "rsyslog \"rsyslognavigation search Related articlessyslog-ng This article or section needs language, wiki syntax or style improvements. Reason: citing a 6 year old document. \"\"It was unmaintained for several years and contained false information\"\". Also numerous Help: Style issues. (Discuss in Talk: Rsyslog#",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result pertains to rsyslog and wiki discussion, not to Python libraries for machine learning; it does not address the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "rsyslog \"rsyslognavigation search Related articlessyslog-ng This article or section needs language, wiki syntax or style improvements. Reason: citing a 6 year old document. \"\"It was unmaintained for several years and contained false information\"\". Also numerous Help: Style issues. (Discuss in Talk: Rsyslog#",
+  "history": {
+    "url": "https://wiki.archlinux.org/index.php/Rsyslog",
+    "title": "rsyslog",
+    "description": "\"rsyslognavigation search Related articlessyslog-ng This article or section needs language, wiki syntax or style improvements. Reason: citing a 6 year old document. \"\"It was unmaintained for several years and contained false information\"\". Also numerous Help: Style issues. (Discuss in Talk: Rsyslog#",
+    "frecency": 1246,
+    "url_hash": 28174530622287,
+    "last_visit_date": 1758203931194111
+  }
+}

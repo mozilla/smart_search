@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "What is water temperature after electric kettle switches off? Seasoned Advice is a question and answer site for professional and amateur chefs.",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is from a cooking Q&A site and discusses water temperature after kettle switches off, which is unrelated to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "What is water temperature after electric kettle switches off? \"_Seasoned Advice is a question and answer site for professional and amateur chefs. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top What is water temperature after electric kettle switches",
+  "history": {
+    "url": "https://cooking.stackexchange.com/questions/49073/what-is-water-temperature-after-electric-kettle-switches-off",
+    "title": "What is water temperature after electric kettle switches off?",
+    "description": "\"_Seasoned Advice is a question and answer site for professional and amateur chefs. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top What is water temperature after electric kettle switches",
+    "frecency": 4602,
+    "url_hash": 99706375471570,
+    "last_visit_date": 1758203929286111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Careers Careers Neo Genomics is a state of the art comprehensive testing laboratory headquartered in Fort Myers and Tampa, Florida with additional locations in Nashville, Tennessee; Houston, Texas; and Fresno & Aliso Viejo, California. We offer a competitive salary and comprehensive benefits to include heal",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses careers at Neo Genomics and is unrelated to Docker or beginner setup topics.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Careers Careers Neo Genomics is a state of the art comprehensive testing laboratory headquartered in Fort Myers and Tampa, Florida with additional locations in Nashville, Tennessee; Houston, Texas; and Fresno & Aliso Viejo, California. We offer a competitive salary and comprehensive benefits to include heal",
+  "history": {
+    "url": "http://neogenomics.com/careers",
+    "title": "Careers",
+    "description": "Careers Neo Genomics is a state of the art comprehensive testing laboratory headquartered in Fort Myers and Tampa, Florida with additional locations in Nashville, Tennessee; Houston, Texas; and Fresno & Aliso Viejo, California. We offer a competitive salary and comprehensive benefits to include heal",
+    "frecency": 3355,
+    "url_hash": 4667216180953,
+    "last_visit_date": 1758203931644111
+  }
+}

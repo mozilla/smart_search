@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Why Men and Women Handle Stress Differently \"Why Men and Women Handle Stress Differently When it comes to handling stress, men are from Venus and women are from Mars. Why do their coping skills differ? From the Web MD Archives Amanda Ezman's life is a little on the stressful side these days. She's a first-grade teacher to a classroom full of",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses stress coping differences between genders, not strategies to improve athletic performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Why Men and Women Handle Stress Differently \"Why Men and Women Handle Stress Differently When it comes to handling stress, men are from Venus and women are from Mars. Why do their coping skills differ? From the Web MD Archives Amanda Ezman's life is a little on the stressful side these days. She's a first-grade teacher to a classroom full of",
+  "history": {
+    "url": "https://www.webmd.com/women/features/stress-women-men-cope",
+    "title": "Why Men and Women Handle Stress Differently",
+    "description": "\"Why Men and Women Handle Stress Differently When it comes to handling stress, men are from Venus and women are from Mars. Why do their coping skills differ? From the Web MD Archives Amanda Ezman's life is a little on the stressful side these days. She's a first-grade teacher to a classroom full of ",
+    "frecency": 4553,
+    "url_hash": 1511624359419,
+    "last_visit_date": 1758203927442735
+  }
+}

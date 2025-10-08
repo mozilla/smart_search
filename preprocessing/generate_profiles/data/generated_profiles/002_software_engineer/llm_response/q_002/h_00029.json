@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "PGA TOUR Superstore PGA TOUR Superstore Full list of Success Stories PGA TOUR Superstore PGA TOUR Superstore Scores a Hole in One with Veeam and Hewlett Packard Enterprise: Expands e-commerce and Opens New Stores Fast to Increase Revenue Solution: Veeam Availability Suite Industry: Retail Region: North America PDF Down",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is unrelated to IDEs or software development; it discusses retail, e-commerce, and unrelated corporate stories.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "PGA TOUR Superstore PGA TOUR Superstore Full list of Success Stories PGA TOUR Superstore PGA TOUR Superstore Scores a Hole in One with Veeam and Hewlett Packard Enterprise: Expands e-commerce and Opens New Stores Fast to Increase Revenue Solution: Veeam Availability Suite Industry: Retail Region: North America PDF Down",
+  "history": {
+    "url": "https://www.veeam.com/success-stories/pga-tour-superstore-scores-a-hole-in-one-with-veeam-and-hewlett-packard-enterprise.html",
+    "title": "PGA TOUR Superstore",
+    "description": "PGA TOUR Superstore Full list of Success Stories PGA TOUR Superstore PGA TOUR Superstore Scores a Hole in One with Veeam and Hewlett Packard Enterprise: Expands e-commerce and Opens New Stores Fast to Increase Revenue Solution: Veeam Availability Suite Industry: Retail Region: North America PDF Down",
+    "frecency": 4947,
+    "url_hash": 41326429310001,
+    "last_visit_date": 1758203928592111
+  }
+}

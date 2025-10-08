@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "About Furry Fiesta Furry Fiesta is a yearly gathering of anthropomorphic art, science fiction, and fantasy fans held in Dallas, Texas, USA. It is operated by the Dallas Regional Anthropomorphic Meeting Associating (D. R. A. M. A. ), Inc., a Texas-incorporated organization dedicated to advancing anthropomorphic art and",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a furry convention, which is unrelated to improving sports performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "About Furry Fiesta Furry Fiesta is a yearly gathering of anthropomorphic art, science fiction, and fantasy fans held in Dallas, Texas, USA. It is operated by the Dallas Regional Anthropomorphic Meeting Associating (D. R. A. M. A. ), Inc., a Texas-incorporated organization dedicated to advancing anthropomorphic art and",
+  "history": {
+    "url": "https://2018.furryfiesta.org/about/",
+    "title": "About Furry Fiesta",
+    "description": "Furry Fiesta is a yearly gathering of anthropomorphic art, science fiction, and fantasy fans held in Dallas, Texas, USA. It is operated by the Dallas Regional Anthropomorphic Meeting Associating (D. R. A. M. A. ), Inc., a Texas-incorporated organization dedicated to advancing anthropomorphic art and",
+    "frecency": 4397,
+    "url_hash": 18371592398711,
+    "last_visit_date": 1758203928025139
+  }
+}

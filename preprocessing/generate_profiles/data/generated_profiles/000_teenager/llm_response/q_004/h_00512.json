@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "What is Rumspringa? \"Rumspringa is the term for Amish teenagers' period of experimentation and freedom from religious rules, when they are able to live on their own, drive cars, drink, and experiment with other aspects of mainstream American culture without worrying about consequences from their elders. The term is a l\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Rumspringa and Amish culture, unrelated to strategies for improving athletic performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "What is Rumspringa? \"Rumspringa is the term for Amish teenagers' period of experimentation and freedom from religious rules, when they are able to live on their own, drive cars, drink, and experiment with other aspects of mainstream American culture without worrying about consequences from their elders. The term is a l",
+  "history": {
+    "url": "http://www.wisegeek.org/what-is-rumspringa.htm",
+    "title": "What is Rumspringa?",
+    "description": "\"Rumspringa is the term for Amish teenagers' period of experimentation and freedom from religious rules, when they are able to live on their own, drive cars, drink, and experiment with other aspects of mainstream American culture without worrying about consequences from their elders. The term is a l",
+    "frecency": 2691,
+    "url_hash": 22727401291506,
+    "last_visit_date": 1758203927121139
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Break Free Lyrics Advisory - the following lyrics contain explicit language: If you want it, take it I should have said it before Tried to hide it, fake it I can't pretend anymore I only want to die alive Never by the hands of a broken heart I don't wanna hear you lie tonight Now that I've become who I really am This",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page is song lyrics and unrelated to improving sports performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Break Free Lyrics Advisory - the following lyrics contain explicit language: If you want it, take it I should have said it before Tried to hide it, fake it I can't pretend anymore I only want to die alive Never by the hands of a broken heart I don't wanna hear you lie tonight Now that I've become who I really am This",
+  "history": {
+    "url": "http://www.metrolyrics.com/break-free-lyrics-ariana-grande.html",
+    "title": "Break Free Lyrics",
+    "description": "Advisory - the following lyrics contain explicit language: If you want it, take it I should have said it before Tried to hide it, fake it I can't pretend anymore I only want to die alive Never by the hands of a broken heart I don't wanna hear you lie tonight Now that I've become who I really am This",
+    "frecency": 1669,
+    "url_hash": 96650074415167,
+    "last_visit_date": 1758203927536735
+  }
+}

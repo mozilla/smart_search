@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "How Much Does it Cost to Become a U.S. Citizen? \"The basic requirements for U. S. citizenship include being age 18 or older, possessing good character and having either legal residency or a military service record. You also need a knowledge of English, U. S. government and U. S. history. Unless you qualify as a member of the military, the applica",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about U.S. citizenship costs and requirements and has no relation to Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "How Much Does it Cost to Become a U.S. Citizen? \"The basic requirements for U. S. citizenship include being age 18 or older, possessing good character and having either legal residency or a military service record. You also need a knowledge of English, U. S. government and U. S. history. Unless you qualify as a member of the military, the applica",
+  "history": {
+    "url": "http://www.ehow.com/info_7752668_much-cost-become-citizen.html",
+    "title": "How Much Does it Cost to Become a U.S. Citizen?",
+    "description": "\"The basic requirements for U. S. citizenship include being age 18 or older, possessing good character and having either legal residency or a military service record. You also need a knowledge of English, U. S. government and U. S. history. Unless you qualify as a member of the military, the applica",
+    "frecency": 1891,
+    "url_hash": 32454233926271,
+    "last_visit_date": 1758203927068111
+  }
+}

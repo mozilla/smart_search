@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "King Tut\u00e2s sarcophagus uncovered General Interest1924King Tut\u2019s sarcophagus uncovered Share this:facebook twitter google+Print Cite Two years after British archaeologist Howard Carter and his workmen discovered the tomb of the Pharaoh Tutankhamen near Luxor, Egypt, they uncover the greatest treasure of the tomb\u2013a stone sarcophagus",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses King Tutankhamen's sarcophagus, which is unrelated to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "King Tut\u00e2s sarcophagus uncovered General Interest1924King Tut\u2019s sarcophagus uncovered Share this:facebook twitter google+Print Cite Two years after British archaeologist Howard Carter and his workmen discovered the tomb of the Pharaoh Tutankhamen near Luxor, Egypt, they uncover the greatest treasure of the tomb\u2013a stone sarcophagus",
+  "history": {
+    "url": "http://www.history.com/this-day-in-history/king-tuts-sarcophagus-uncovered",
+    "title": "King Tut\u00e2s sarcophagus uncovered",
+    "description": "General Interest1924King Tut\u2019s sarcophagus uncovered Share this:facebook twitter google+Print Cite Two years after British archaeologist Howard Carter and his workmen discovered the tomb of the Pharaoh Tutankhamen near Luxor, Egypt, they uncover the greatest treasure of the tomb\u2013a stone sarcophagus ",
+    "frecency": 1967,
+    "url_hash": 21391758415401,
+    "last_visit_date": 1758203929566111
+  }
+}

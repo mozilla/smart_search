@@ -1,0 +1,5 @@
+{
+  "url": "https://social.msdn.microsoft.com/Forums/en-US/d781f9d7-09b1-4415-a566-064053638e80/what-is-the-limit-of-biginteger-in-c?forum=csharplanguage",
+  "search_query": "how large can C# BigInteger grow",
+  "combined_text": "What is the limit of BigInteger in C#? \"What is the limit of Big Integer in C#? Archived Forums V > Visual C# Language Question0Sign in to vote I noticed that in c# Big Integer well wasn't really Big Integer. I checked it with the following code and found it quickly reached it's limit.using System; using System. Collections. Generic; usi"
+}

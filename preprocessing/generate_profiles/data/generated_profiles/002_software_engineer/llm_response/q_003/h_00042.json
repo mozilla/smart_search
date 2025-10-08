@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "San Juan Capistrano Sheriff Department San Juan Capistrano Sheriff Department Home Law Enforcement & Military Offices Sheriff Departments California Orange County San Juan Capistrano Find San Juan Capistrano California sheriff offices, departments, headquarters, jails, and detention centers. Sheriffs provide information on records, arres",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns sheriff departments and local law enforcement; it is not about database queries or optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "San Juan Capistrano Sheriff Department San Juan Capistrano Sheriff Department Home Law Enforcement & Military Offices Sheriff Departments California Orange County San Juan Capistrano Find San Juan Capistrano California sheriff offices, departments, headquarters, jails, and detention centers. Sheriffs provide information on records, arres",
+  "history": {
+    "url": "http://www.countyoffice.org/san-juan-capistrano-ca-sheriff/",
+    "title": "San Juan Capistrano Sheriff Department",
+    "description": "San Juan Capistrano Sheriff Department Home Law Enforcement & Military Offices Sheriff Departments California Orange County San Juan Capistrano Find San Juan Capistrano California sheriff offices, departments, headquarters, jails, and detention centers. Sheriffs provide information on records, arres",
+    "frecency": 4925,
+    "url_hash": 97939308509407,
+    "last_visit_date": 1758203931570111
+  }
+}

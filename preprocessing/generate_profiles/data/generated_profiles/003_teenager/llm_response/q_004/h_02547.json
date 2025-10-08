@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Why choose IPH to help you and your loved ones? Why choose IPH to help you and your loved ones? When you are faced with an illness or injury, there is no place you would rather be than in the comfort of your own home. Unlike a hospital, you can receive your care where you feel comfortable surrounded by your loved ones. It is understood that patie",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses home health care services and does not relate to improving sports performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Why choose IPH to help you and your loved ones? Why choose IPH to help you and your loved ones? When you are faced with an illness or injury, there is no place you would rather be than in the comfort of your own home. Unlike a hospital, you can receive your care where you feel comfortable surrounded by your loved ones. It is understood that patie",
+  "history": {
+    "url": "http://iphhealthcare.com/",
+    "title": "Why choose IPH to help you and your loved ones?",
+    "description": "Why choose IPH to help you and your loved ones? When you are faced with an illness or injury, there is no place you would rather be than in the comfort of your own home. Unlike a hospital, you can receive your care where you feel comfortable surrounded by your loved ones. It is understood that patie",
+    "frecency": 2381,
+    "url_hash": 54440910278643,
+    "last_visit_date": 1758203931471228
+  }
+}

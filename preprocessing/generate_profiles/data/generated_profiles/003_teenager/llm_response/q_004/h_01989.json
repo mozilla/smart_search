@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Sesame Place \"From Wikipedia, the free encyclopedia (Redirected from Sesame Street Theme Park)navigation search [ hide]This article has multiple issues. Please help improve it or discuss these issues on the talk page. ( Learn how and when to remove these template messages)This article needs additional citations",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a Sesame Place theme park page and does not address improving performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Sesame Place \"From Wikipedia, the free encyclopedia (Redirected from Sesame Street Theme Park)navigation search [ hide]This article has multiple issues. Please help improve it or discuss these issues on the talk page. ( Learn how and when to remove these template messages)This article needs additional citations",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Sesame_Street_Theme_Park",
+    "title": "Sesame Place",
+    "description": "\"From Wikipedia, the free encyclopedia (Redirected from Sesame Street Theme Park)navigation search [ hide]This article has multiple issues. Please help improve it or discuss these issues on the talk page. ( Learn how and when to remove these template messages)This article needs additional citations ",
+    "frecency": 2948,
+    "url_hash": 44607637827902,
+    "last_visit_date": 1758203927444735
+  }
+}

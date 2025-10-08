@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Multiplayer Tanki Online the free MMO-shooter with real-time Pv P-battles. Destroy enemy tanks, help your team, improve your tank!Play",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a multiplayer tank shooter game page; it has no relation to apps for improving study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Multiplayer Tanki Online the free MMO-shooter with real-time Pv P-battles. Destroy enemy tanks, help your team, improve your tank!Play",
+  "history": {
+    "url": "https://www.miniclip.com/games/genre-2/multiplayer/en/",
+    "title": "Multiplayer",
+    "description": "Tanki Online the free MMO-shooter with real-time Pv P-battles. Destroy enemy tanks, help your team, improve your tank!Play ",
+    "frecency": 2019,
+    "url_hash": 34360853788498,
+    "last_visit_date": 1758203934051228
+  }
+}

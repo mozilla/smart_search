@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Johnny Manziel says he is sober, needs 'one team to believe in me' \"Johnny Manziel says he is sober, needs 'one team to believe in me'By ESPN.com news services via ESPNJan 23, 2017, 5:11 PM ETEmail Johnny Manziel says he has achieved sobriety without professional assistance and is determined to resume his career in the NFL. In a message sent Friday to ESPN's Ed Wer",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page discusses Johnny Manziel's sobriety and NFL career, not about debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Johnny Manziel says he is sober, needs 'one team to believe in me' \"Johnny Manziel says he is sober, needs 'one team to believe in me'By ESPN.com news services via ESPNJan 23, 2017, 5:11 PM ETEmail Johnny Manziel says he has achieved sobriety without professional assistance and is determined to resume his career in the NFL. In a message sent Friday to ESPN's Ed Wer",
+  "history": {
+    "url": "http://abcnews.go.com/Sports/johnny-manziel-sober-team/story?id=44994030",
+    "title": "Johnny Manziel says he is sober, needs 'one team to believe in me'",
+    "description": "\"Johnny Manziel says he is sober, needs 'one team to believe in me'By ESPN.com news services via ESPNJan 23, 2017, 5:11 PM ETEmail Johnny Manziel says he has achieved sobriety without professional assistance and is determined to resume his career in the NFL. In a message sent Friday to ESPN's Ed Wer",
+    "frecency": 1858,
+    "url_hash": 6460251238859,
+    "last_visit_date": 1758203928864111
+  }
+}

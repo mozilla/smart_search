@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "What are foliated and non-foliated rocks? Answers.com \u00ae Wiki Answers \u00ae Categories Science Earth Sciences Geology Metamorphic Rock What are foliated and non-foliated rocks? Flag What are foliated and non-foliated rocks? Answer by Paul Jones Confidence votes 86.4KOwner of Jones Mineral Cabinet, Geology and Paleontology Supervisor, interested",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns geology (foliated vs non-foliated rocks) and has no relevance to debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "What are foliated and non-foliated rocks? Answers.com \u00ae Wiki Answers \u00ae Categories Science Earth Sciences Geology Metamorphic Rock What are foliated and non-foliated rocks? Flag What are foliated and non-foliated rocks? Answer by Paul Jones Confidence votes 86.4KOwner of Jones Mineral Cabinet, Geology and Paleontology Supervisor, interested",
+  "history": {
+    "url": "http://www.answers.com/Q/What_are_foliated_and_non-foliated_rocks",
+    "title": "What are foliated and non-foliated rocks?",
+    "description": "Answers.com \u00ae Wiki Answers \u00ae Categories Science Earth Sciences Geology Metamorphic Rock What are foliated and non-foliated rocks? Flag What are foliated and non-foliated rocks? Answer by Paul Jones Confidence votes 86.4KOwner of Jones Mineral Cabinet, Geology and Paleontology Supervisor, interested ",
+    "frecency": 1032,
+    "url_hash": 92706168533113,
+    "last_visit_date": 1758203927282200
+  }
+}

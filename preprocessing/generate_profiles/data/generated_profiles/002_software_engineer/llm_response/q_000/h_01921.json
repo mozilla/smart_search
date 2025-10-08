@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Occupational Safety and Health Administration \\\"Safety and Health Topics / Hair Salons: Facts about Formaldehyde in Hair Products Hair Salons: Facts about Formaldehyde in Hair Products Formaldehyde in Your Products Protecting Worker Health Government Response Additional Resources Overview Highlights OSHA has issued an updated hazard alert on for",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The page discusses OSHA safety topics about formaldehyde in hair products; it is unrelated to debugging APIs or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Occupational Safety and Health Administration \"Safety and Health Topics / Hair Salons: Facts about Formaldehyde in Hair Products Hair Salons: Facts about Formaldehyde in Hair Products Formaldehyde in Your Products Protecting Worker Health Government Response Additional Resources Overview Highlights OSHA has issued an updated hazard alert on for",
+  "history": {
+    "url": "https://www.osha.gov/SLTC/hairsalons/",
+    "title": "Occupational Safety and Health Administration",
+    "description": "\"Safety and Health Topics / Hair Salons: Facts about Formaldehyde in Hair Products Hair Salons: Facts about Formaldehyde in Hair Products Formaldehyde in Your Products Protecting Worker Health Government Response Additional Resources Overview Highlights OSHA has issued an updated hazard alert on for",
+    "frecency": 1497,
+    "url_hash": 79639984645866,
+    "last_visit_date": 1758203932328111
+  }
+}

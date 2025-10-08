@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "IBA Annual Conference scholarships IBA Annual Conference scholarships IBA Conference scholarships Each year the International Bar Association (IBA), the world's largest international organisation of law societies, bar associations and individual lawyers engaged in transnational law, holds an Annual Conference, which attracts the part",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses IBA Annual Conference scholarships and conference information, not any aspect of database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "IBA Annual Conference scholarships IBA Annual Conference scholarships IBA Conference scholarships Each year the International Bar Association (IBA), the world's largest international organisation of law societies, bar associations and individual lawyers engaged in transnational law, holds an Annual Conference, which attracts the part",
+  "history": {
+    "url": "http://www.ibanet.org/Committees/Divisions/Legal_Practice/IBA-Annual-Conference-scholarships.aspx",
+    "title": "IBA Annual Conference scholarships",
+    "description": "IBA Annual Conference scholarships IBA Conference scholarships Each year the International Bar Association (IBA), the world's largest international organisation of law societies, bar associations and individual lawyers engaged in transnational law, holds an Annual Conference, which attracts the part",
+    "frecency": 2315,
+    "url_hash": 4416602131383,
+    "last_visit_date": 1758203928932111
+  }
+}

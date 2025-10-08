@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "704-444-4444LoginRegister Airport Transportation Medical Visits Grocery Shopping Social Visits Out On The Town Shopping Malls",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result snippet contains unrelated categories and contact info, with no mention of study apps or study habits. Therefore it is not relevant to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "704-444-4444LoginRegister Airport Transportation Medical Visits Grocery Shopping Social Visits Out On The Town Shopping Malls",
+  "history": {
+    "url": "http://yellowcabofcharlotte.net/",
+    "title": "704-444-4444LoginRegister",
+    "description": "Airport Transportation Medical Visits Grocery Shopping Social Visits Out On The Town Shopping Malls ",
+    "frecency": 4983,
+    "url_hash": 44014460320253,
+    "last_visit_date": 1758203929032735
+  }
+}

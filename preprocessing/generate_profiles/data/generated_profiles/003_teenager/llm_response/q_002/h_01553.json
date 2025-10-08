@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "premise \"premiseprem\u00b7ise Use premise in a sentencenoun The definition of a premise is a previous statement that an argument is based or how an outcome was decided. An example of premise is a couple seeing a movie chosen by one, because they saw a movie chosen by the other last week. Your Dictionary definiti",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a dictionary definition of the word 'premise' and does not relate to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "premise \"premiseprem\u00b7ise Use premise in a sentencenoun The definition of a premise is a previous statement that an argument is based or how an outcome was decided. An example of premise is a couple seeing a movie chosen by one, because they saw a movie chosen by the other last week. Your Dictionary definiti",
+  "history": {
+    "url": "http://www.yourdictionary.com/premise",
+    "title": "premise",
+    "description": "\"premiseprem\u00b7ise Use premise in a sentencenoun The definition of a premise is a previous statement that an argument is based or how an outcome was decided. An example of premise is a couple seeing a movie chosen by one, because they saw a movie chosen by the other last week. Your Dictionary definiti",
+    "frecency": 3413,
+    "url_hash": 83419072639713,
+    "last_visit_date": 1758203933309228
+  }
+}

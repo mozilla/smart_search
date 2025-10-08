@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "House prices: Experts' 2015 property predictions \\\"House prices: Experts' 2015 property predictions By Kevin Peachey Personal finance reporter, BBC News5 January 2015Share Thinkstock Carpet firms say there is a pent-up demand among householders To judge the state of the UK housing market it may be best to look beneath your feet. Carpet and floor fi",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns UK housing market predictions, not API integration debugging.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "House prices: Experts' 2015 property predictions \"House prices: Experts' 2015 property predictions By Kevin Peachey Personal finance reporter, BBC News5 January 2015Share Thinkstock Carpet firms say there is a pent-up demand among householders To judge the state of the UK housing market it may be best to look beneath your feet. Carpet and floor fi",
+  "history": {
+    "url": "http://www.bbc.co.uk/news/business-30422517",
+    "title": "House prices: Experts' 2015 property predictions",
+    "description": "\"House prices: Experts' 2015 property predictions By Kevin Peachey Personal finance reporter, BBC News5 January 2015Share Thinkstock Carpet firms say there is a pent-up demand among householders To judge the state of the UK housing market it may be best to look beneath your feet. Carpet and floor fi",
+    "frecency": 3946,
+    "url_hash": 29372163257378,
+    "last_visit_date": 1758203929470200
+  }
+}

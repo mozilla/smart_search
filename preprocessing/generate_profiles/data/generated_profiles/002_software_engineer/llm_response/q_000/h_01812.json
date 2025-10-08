@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "What \u00e2digital\u00e2 really means Everyone wants to go digital. The first step is truly understanding what that means. Companies today are rushing headlong to become more digital. But what does digital really mean? For some executives, it\u2019s about technology. For others, digital is a new way of engaging with customers. And for others",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses the meaning of 'digital' and digital transformation, not about debugging API integration; it contains no content related to debugging APIs, error handling, or API integration workflows.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "What \u00e2digital\u00e2 really means Everyone wants to go digital. The first step is truly understanding what that means. Companies today are rushing headlong to become more digital. But what does digital really mean? For some executives, it\u2019s about technology. For others, digital is a new way of engaging with customers. And for others",
+  "history": {
+    "url": "https://www.mckinsey.com/industries/high-tech/our-insights/what-digital-really-means",
+    "title": "What \u00e2digital\u00e2 really means",
+    "description": "Everyone wants to go digital. The first step is truly understanding what that means. Companies today are rushing headlong to become more digital. But what does digital really mean? For some executives, it\u2019s about technology. For others, digital is a new way of engaging with customers. And for others",
+    "frecency": 1709,
+    "url_hash": 28483734885130,
+    "last_visit_date": 1758203930728111
+  }
+}

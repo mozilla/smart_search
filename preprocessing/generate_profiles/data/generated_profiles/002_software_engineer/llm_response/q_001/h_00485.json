@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Discovery Park Environmental Learning Center Teachers! Great opportunity to bring Seattle\u2019s natural beauty to your students!Become an Environmental Education Volunteer Sign Up for Classes and Programs (SPARC)Spring Program Brochure Contact Us Phone: (206) 386-4236Address: Office Follow Us Sign Up to Explore Nature Sign Up Reserve the Discovery",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about environmental education and Discovery Park, not about Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Discovery Park Environmental Learning Center Teachers! Great opportunity to bring Seattle\u2019s natural beauty to your students!Become an Environmental Education Volunteer Sign Up for Classes and Programs (SPARC)Spring Program Brochure Contact Us Phone: (206) 386-4236Address: Office Follow Us Sign Up to Explore Nature Sign Up Reserve the Discovery",
+  "history": {
+    "url": "http://www.seattle.gov/parks/find/centers/discovery-park-environmental-learning-center",
+    "title": "Discovery Park Environmental Learning Center",
+    "description": "Teachers! Great opportunity to bring Seattle\u2019s natural beauty to your students!Become an Environmental Education Volunteer Sign Up for Classes and Programs (SPARC)Spring Program Brochure Contact Us Phone: (206) 386-4236Address: Office Follow Us Sign Up to Explore Nature Sign Up Reserve the Discovery",
+    "frecency": 4164,
+    "url_hash": 14673183760513,
+    "last_visit_date": 1758203928852111
+  }
+}

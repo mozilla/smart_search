@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Consumer Interest Rates Markets Consumer Interest Rates Before it's here, it's on the Bloomberg Terminal. Learn More Unless indicated otherwise: intraday data is at least 15 minutes delayed; mutual fund NAVs are updated at the close of every market day; all prices are in the local currency; Time is ET. Mortgage Rates Rate",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses consumer interest rates and mortgage rates on the Bloomberg Terminal, with no mention of Docker or setup guidance for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Consumer Interest Rates Markets Consumer Interest Rates Before it's here, it's on the Bloomberg Terminal. Learn More Unless indicated otherwise: intraday data is at least 15 minutes delayed; mutual fund NAVs are updated at the close of every market day; all prices are in the local currency; Time is ET. Mortgage Rates Rate",
+  "history": {
+    "url": "https://www.bloomberg.com/markets/rates-bonds/consumer-interest-rates",
+    "title": "Consumer Interest Rates",
+    "description": "Markets Consumer Interest Rates Before it's here, it's on the Bloomberg Terminal. Learn More Unless indicated otherwise: intraday data is at least 15 minutes delayed; mutual fund NAVs are updated at the close of every market day; all prices are in the local currency; Time is ET. Mortgage Rates Rate ",
+    "frecency": 233,
+    "url_hash": 62118786625600,
+    "last_visit_date": 1758203927938200
+  }
+}

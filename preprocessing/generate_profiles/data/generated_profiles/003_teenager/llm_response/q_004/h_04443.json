@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Welcome to Ojai Valley Welcome to Ojai Valley Ojai Retreat & Inn is a haven of natural beauty and tranquility nestled on a five-acre hilltop with stunning panoramic views of the Ojai Valley. We offer 12 guestrooms, both in the Main House and in cottages. Most guestrooms have a private garden or patio. All rooms have a ref",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes an inn/retreat, with no information about improving sports performance; not relevant to 'how to get better at sports'.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Welcome to Ojai Valley Welcome to Ojai Valley Ojai Retreat & Inn is a haven of natural beauty and tranquility nestled on a five-acre hilltop with stunning panoramic views of the Ojai Valley. We offer 12 guestrooms, both in the Main House and in cottages. Most guestrooms have a private garden or patio. All rooms have a ref",
+  "history": {
+    "url": "http://www.ojairetreat.com/ojai_valley_california.html",
+    "title": "Welcome to Ojai Valley",
+    "description": "Welcome to Ojai Valley Ojai Retreat & Inn is a haven of natural beauty and tranquility nestled on a five-acre hilltop with stunning panoramic views of the Ojai Valley. We offer 12 guestrooms, both in the Main House and in cottages. Most guestrooms have a private garden or patio. All rooms have a ref",
+    "frecency": 394,
+    "url_hash": 77375788383685,
+    "last_visit_date": 1758203931583228
+  }
+}

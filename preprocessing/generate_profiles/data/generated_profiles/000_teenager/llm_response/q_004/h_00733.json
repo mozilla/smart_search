@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Glossary of association football terms",
+  "relevance_score": 0.2,
+  "binary_decision": 0,
+  "Decision_Reason": "The page is a glossary about football terminology rather than guidance or content on improving athletic ability or performance for sports in general. It is not strongly relevant to the query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Glossary of association football terms \"From Wikipedia, the free encyclopedianavigation search This is a dynamic list and may never be able to satisfy particular standards for completeness. You can help by expanding it with reliably sourced entries. A player performing keepie-uppie Association football (more commonly known as football or",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_association_football_terms",
+    "title": "Glossary of association football terms",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search This is a dynamic list and may never be able to satisfy particular standards for completeness. You can help by expanding it with reliably sourced entries. A player performing keepie-uppie Association football (more commonly known as football or",
+    "frecency": 1872,
+    "url_hash": 48725875215418,
+    "last_visit_date": 1758203928017139
+  }
+}

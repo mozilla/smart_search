@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Life After Tv As Lucy's Little Ricky \"Television. Life After Tv As Lucy's Little Ricky August 16, 1994 | By Tom Zucco, Scripps-Howard News Service. ST. PETERSBURG, Fla. \u2014 He didn't know where his father was taking him, except that it was important. They had driven all the way to Hollywood from Bunkie, La., and his father had made sure",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses television history/biography and has no relation to improving athletic performance or sports guidance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Life After Tv As Lucy's Little Ricky \"Television. Life After Tv As Lucy's Little Ricky August 16, 1994 | By Tom Zucco, Scripps-Howard News Service. ST. PETERSBURG, Fla. \u2014 He didn't know where his father was taking him, except that it was important. They had driven all the way to Hollywood from Bunkie, La., and his father had made sure",
+  "history": {
+    "url": "http://articles.chicagotribune.com/1994-08-16/features/9408160039_1_lucy-and-desi-desi-arnaz-love-lucy",
+    "title": "Life After Tv As Lucy's Little Ricky",
+    "description": "\"Television. Life After Tv As Lucy's Little Ricky August 16, 1994 | By Tom Zucco, Scripps-Howard News Service. ST. PETERSBURG, Fla. \u2014 He didn't know where his father was taking him, except that it was important. They had driven all the way to Hollywood from Bunkie, La., and his father had made sure ",
+    "frecency": 1409,
+    "url_hash": 98171612083602,
+    "last_visit_date": 1758203928458735
+  }
+}

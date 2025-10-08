@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "PICTURE EXCLUSIVE: Already engaged! Sofia Vergara, 42, flashes diamond ring while on Hawaiian vacation with beau Joe Manganiello, 38 \\\"PICTURE EXCLUSIVE: Already engaged! Sofia Vergara, 42, flashes diamond ring while on Hawaiian vacation with beau Joe Manganiello, 38Sofia and Joe started dating in June after her May split from Nick Loeb They first met in May at the White House Correspondents' Dinner The 42-year-old actress took Jo",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a celebrity gossip article unrelated to Docker setup for beginners; no content about Docker or setup guidance.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "PICTURE EXCLUSIVE: Already engaged! Sofia Vergara, 42, flashes diamond ring while on Hawaiian vacation with beau Joe Manganiello, 38 \"PICTURE EXCLUSIVE: Already engaged! Sofia Vergara, 42, flashes diamond ring while on Hawaiian vacation with beau Joe Manganiello, 38Sofia and Joe started dating in June after her May split from Nick Loeb They first met in May at the White House Correspondents' Dinner The 42-year-old actress took Jo",
+  "history": {
+    "url": "http://www.dailymail.co.uk/tvshowbiz/article-2890249/Sofia-Vergara-42-flashes-diamond-ring-Hawaiian-vacation-beau-Joe-Manganiello-38.html",
+    "title": "PICTURE EXCLUSIVE: Already engaged! Sofia Vergara, 42, flashes diamond ring while on Hawaiian vacation with beau Joe Manganiello, 38",
+    "description": "\"PICTURE EXCLUSIVE: Already engaged! Sofia Vergara, 42, flashes diamond ring while on Hawaiian vacation with beau Joe Manganiello, 38Sofia and Joe started dating in June after her May split from Nick Loeb They first met in May at the White House Correspondents' Dinner The 42-year-old actress took Jo",
+    "frecency": 3503,
+    "url_hash": 28737416729215,
+    "last_visit_date": 1758203926742200
+  }
+}

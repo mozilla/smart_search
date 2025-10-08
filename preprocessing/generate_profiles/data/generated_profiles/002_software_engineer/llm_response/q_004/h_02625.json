@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "CTown Supermarket located at 360 Boston Avenue, Stratford, CT 06614 | 41-141 CTown Super Markets360 Boston Avenue Stratford, CT 06614 203.375.8987Send to Mobile | Email Get Directions\u21e7undefined Store Hours MON 8:00am - 8:00pm TUE 8:00am - 8:00pm WED 8:00am - 8:00pm THURS 8:00am - 8:00pm FRI 8:00am - 8:00pm SAT 8:00am - 8:00pm SUN 8:00am - 6:00pm Weekly Ad Find several deals",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a supermarket listing with address and hours, unrelated to Docker or beginner setup topics.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "CTown Supermarket located at 360 Boston Avenue, Stratford, CT 06614 | 41-141 CTown Super Markets360 Boston Avenue Stratford, CT 06614 203.375.8987Send to Mobile | Email Get Directions\u21e7undefined Store Hours MON 8:00am - 8:00pm TUE 8:00am - 8:00pm WED 8:00am - 8:00pm THURS 8:00am - 8:00pm FRI 8:00am - 8:00pm SAT 8:00am - 8:00pm SUN 8:00am - 6:00pm Weekly Ad Find several deals",
+  "history": {
+    "url": "http://location.ctownsupermarkets.com/CT/STRATFORD/41-141/",
+    "title": "CTown Supermarket located at 360 Boston Avenue, Stratford, CT 06614 | 41-141",
+    "description": "CTown Super Markets360 Boston Avenue Stratford, CT 06614 203.375.8987Send to Mobile | Email Get Directions\u21e7undefined Store Hours MON 8:00am - 8:00pm TUE 8:00am - 8:00pm WED 8:00am - 8:00pm THURS 8:00am - 8:00pm FRI 8:00am - 8:00pm SAT 8:00am - 8:00pm SUN 8:00am - 6:00pm Weekly Ad Find several deals ",
+    "frecency": 204,
+    "url_hash": 63123152843168,
+    "last_visit_date": 1758203930640111
+  }
+}

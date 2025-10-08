@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "How to Overcome a Chocolate Addiction \"1 Identify the symptoms. Not all researchers in the field of psychology perceive chocolate addiction as a \"\"true addiction\"\", [1]. However, some researchers believe that the release of endorphins brought about by consuming chocolate creates a physical dependency to obtain that mood high again and a",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses chocolate addiction, not database queries; it is not relevant to the query about optimizing database queries.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "How to Overcome a Chocolate Addiction \"1 Identify the symptoms. Not all researchers in the field of psychology perceive chocolate addiction as a \"\"true addiction\"\", [1]. However, some researchers believe that the release of endorphins brought about by consuming chocolate creates a physical dependency to obtain that mood high again and a",
+  "history": {
+    "url": "http://www.wikihow.com/Overcome-a-Chocolate-Addiction",
+    "title": "How to Overcome a Chocolate Addiction",
+    "description": "\"1 Identify the symptoms. Not all researchers in the field of psychology perceive chocolate addiction as a \"\"true addiction\"\", [1]. However, some researchers believe that the release of endorphins brought about by consuming chocolate creates a physical dependency to obtain that mood high again and a",
+    "frecency": 1743,
+    "url_hash": 20494416312205,
+    "last_visit_date": 1758203928578111
+  }
+}

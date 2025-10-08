@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "18 ANOREXIC THIN Celebrities that need a few Big Macs! If the Hunger Games really was a game about being hungry, these 18 celebs would be champions. Find out who is really the Hunger Games champ!",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns celebrities and dieting, not database query optimization; it is not relevant to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "18 ANOREXIC THIN Celebrities that need a few Big Macs! If the Hunger Games really was a game about being hungry, these 18 celebs would be champions. Find out who is really the Hunger Games champ!",
+  "history": {
+    "url": "http://juicyceleb.com/slideshows/whoa-is-thin-really-in-14-celebrities-who-need-to-up-their-calories-20144628/",
+    "title": "18 ANOREXIC THIN Celebrities that need a few Big Macs!",
+    "description": "If the Hunger Games really was a game about being hungry, these 18 celebs would be champions. Find out who is really the Hunger Games champ! ",
+    "frecency": 3340,
+    "url_hash": 29129329783633,
+    "last_visit_date": 1758203929070111
+  }
+}

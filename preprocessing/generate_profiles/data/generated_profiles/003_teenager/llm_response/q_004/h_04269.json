@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Alcohol Detox Alcohol Detox Alcohol detox is the first step of the recovery process that any alcoholic must go through in order to obtain and maintain lasting sobriety. Unfortunately, alcohol detox is not very easy and for some recovering alcoholics, this process is the most difficult phase of the entire treatmen",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses alcohol detox and sobriety, unrelated to improving athletic performance or sports skills.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Alcohol Detox Alcohol Detox Alcohol detox is the first step of the recovery process that any alcoholic must go through in order to obtain and maintain lasting sobriety. Unfortunately, alcohol detox is not very easy and for some recovering alcoholics, this process is the most difficult phase of the entire treatmen",
+  "history": {
+    "url": "http://www.detox.com/alcohol/",
+    "title": "Alcohol Detox",
+    "description": "Alcohol Detox Alcohol detox is the first step of the recovery process that any alcoholic must go through in order to obtain and maintain lasting sobriety. Unfortunately, alcohol detox is not very easy and for some recovering alcoholics, this process is the most difficult phase of the entire treatmen",
+    "frecency": 576,
+    "url_hash": 63907698257564,
+    "last_visit_date": 1758203928640735
+  }
+}

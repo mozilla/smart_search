@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "What is the 'Profit and Loss Statement (P&L)' \\\"Error loading player: Flash plugin failed to load What is the 'Profit and Loss Statement (P&L)'A profit and loss statement (P&L) is a financial statement that summarizes the revenues, costs and expenses incurred during a specific period of time, usually a fiscal quarter or year. These records provi",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns Profit and Loss statements (P&L), a financial accounting topic, not database query optimization. It does not address or relate to how to optimize database queries.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "What is the 'Profit and Loss Statement (P&L)' \"Error loading player: Flash plugin failed to load What is the 'Profit and Loss Statement (P&L)'A profit and loss statement (P&L) is a financial statement that summarizes the revenues, costs and expenses incurred during a specific period of time, usually a fiscal quarter or year. These records provi",
+  "history": {
+    "url": "https://www.investopedia.com/terms/p/plstatement.asp",
+    "title": "What is the 'Profit and Loss Statement (P&L)'",
+    "description": "\"Error loading player: Flash plugin failed to load What is the 'Profit and Loss Statement (P&L)'A profit and loss statement (P&L) is a financial statement that summarizes the revenues, costs and expenses incurred during a specific period of time, usually a fiscal quarter or year. These records provi",
+    "frecency": 4480,
+    "url_hash": 78141137404551,
+    "last_visit_date": 1758203930080111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Spawn On Me \"Spawn On Me By ESN.fm To listen to an audio podcast, mouse over the title and click Play. Open i Tunes to download and subscribe to podcasts. Description Coming straight out of Brookago, the premier show about gaming featuring people of color. Name Description Released Price1 Explicit213: C of Thie",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The result describes a gaming podcast, not content about improving sports; it is not relevant to the query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Spawn On Me \"Spawn On Me By ESN.fm To listen to an audio podcast, mouse over the title and click Play. Open i Tunes to download and subscribe to podcasts. Description Coming straight out of Brookago, the premier show about gaming featuring people of color. Name Description Released Price1 Explicit213: C of Thie",
+  "history": {
+    "url": "https://itunes.apple.com/us/podcast/spawn-on-me/id804065256?mt=2",
+    "title": "Spawn On Me",
+    "description": "\"Spawn On Me By ESN.fm To listen to an audio podcast, mouse over the title and click Play. Open i Tunes to download and subscribe to podcasts. Description Coming straight out of Brookago, the premier show about gaming featuring people of color. Name Description Released Price1 Explicit213: C of Thie",
+    "frecency": 539,
+    "url_hash": 78120218199465,
+    "last_visit_date": 1758203928101139
+  }
+}

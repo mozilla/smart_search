@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Third-Party Material \"Third-Party Material Instructions for Including Third-Party Material in your Paper\" Third Party Material is non-textual in nature - e.g., figures, tables, graphs, photographs, simulations, music or audio/video clips. (Small text quotations borrowed from a third party are placed in quotes and cited.)",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses third-party material in academic papers and is not about easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Third-Party Material \"Third-Party Material Instructions for Including Third-Party Material in your Paper Third Party Material is non-textual in nature - e.g., figures, tables, graphs, photographs, simulations, music or audio/video clips. (Small text quotations borrowed from a third party are placed in quotes and cited.",
+  "history": {
+    "url": "http://www.acm.org/publications/third-party-material",
+    "title": "Third-Party Material",
+    "description": "\"Third-Party Material Instructions for Including Third-Party Material in your Paper Third Party Material is non-textual in nature - e.g., figures, tables, graphs, photographs, simulations, music or audio/video clips. (Small text quotations borrowed from a third party are placed in quotes and cited. ",
+    "frecency": 4663,
+    "url_hash": 2143486135742,
+    "last_visit_date": 1758203933123228
+  }
+}

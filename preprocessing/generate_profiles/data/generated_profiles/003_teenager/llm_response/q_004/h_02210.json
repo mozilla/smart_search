@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Explore the Old Faithful Area Whether you are planning your visit or browsing, here are some of our favorite things to do in the Old Faithful area. Watch the Inside Yellowstone episodes about visiting the Old Faithful Area (approx. 2 min. each)Visitors watch and photograph the Old Faithful Geyser erupt from the Old Faithful porc",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page discusses travel and attractions in the Old Faithful area, not sports or how to improve athletic skills.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Explore the Old Faithful Area Whether you are planning your visit or browsing, here are some of our favorite things to do in the Old Faithful area. Watch the Inside Yellowstone episodes about visiting the Old Faithful Area (approx. 2 min. each)Visitors watch and photograph the Old Faithful Geyser erupt from the Old Faithful porc",
+  "history": {
+    "url": "https://www.nps.gov/yell/planyourvisit/exploreoldfaithful.htm",
+    "title": "Explore the Old Faithful Area",
+    "description": "Whether you are planning your visit or browsing, here are some of our favorite things to do in the Old Faithful area. Watch the Inside Yellowstone episodes about visiting the Old Faithful Area (approx. 2 min. each)Visitors watch and photograph the Old Faithful Geyser erupt from the Old Faithful porc",
+    "frecency": 2721,
+    "url_hash": 34838023713832,
+    "last_visit_date": 1758203933783228
+  }
+}

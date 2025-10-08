@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Need to change the BIOS for auto restart after power outage; a discussion about BIOS auto-restart and Windows XP boot after power failure.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "Content is about BIOS power settings and boot behavior, not about debugging APIs or API integration; therefore not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Need to change the BIOS for auto restart after power outage \"Closed Need to change the BIOS for auto restart after power outageroy_75 Oct 2, 2012, 1:00 PMWhat to change or set to get windows XP CPU to boot automatically after a power failure? tks, roy2 answers Last reply Feb 22, 2016More about need change bios auto restart power outage Wyoming Knott Oct 2, 2",
+  "history": {
+    "url": "http://www.tomshardware.com/forum/280539-45-need-change-bios-auto-restart-power-outage",
+    "title": "Need to change the BIOS for auto restart after power outage",
+    "description": "\"Closed Need to change the BIOS for auto restart after power outageroy_75 Oct 2, 2012, 1:00 PMWhat to change or set to get windows XP CPU to boot automatically after a power failure? tks, roy2 answers Last reply Feb 22, 2016More about need change bios auto restart power outage Wyoming Knott Oct 2, 2",
+    "frecency": 1350,
+    "url_hash": 41490595344314,
+    "last_visit_date": 1758203928368111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Nitric Oxide: The New Hero of Human Biology \\\"Nitric Oxide: The New Hero of Human Biology A few extra minutes on the stairmaster might be more beneficial than you thought. A longer workout means more production of nitric oxide -- an enzyme that could save you from heart disease and other problems. By Marissa Kantor, published February 8, 2005\\\"",
+  "relevance_score": 0.4,
+  "binary_decision": 1,
+  "Decision_Reason": "Article discusses nitric oxide production during exercise and its potential benefits for athletic performance; related to getting better at sports, but not a direct how-to guide.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Nitric Oxide: The New Hero of Human Biology \"Nitric Oxide: The New Hero of Human Biology A few extra minutes on the stairmaster might be more beneficial than you thought. A longer workout means more production of nitric oxide -- an enzyme that could save you from heart disease and other problems. By Marissa Kantor, published February 8, 2005",
+  "history": {
+    "url": "https://www.psychologytoday.com/articles/200502/nitric-oxide-the-new-hero-human-biology",
+    "title": "Nitric Oxide: The New Hero of Human Biology",
+    "description": "\"Nitric Oxide: The New Hero of Human Biology A few extra minutes on the stairmaster might be more beneficial than you thought. A longer workout means more production of nitric oxide -- an enzyme that could save you from heart disease and other problems. By Marissa Kantor, published February 8, 2005 ",
+    "frecency": 1272,
+    "url_hash": 53739129331452,
+    "last_visit_date": 1758203936031228
+  }
+}

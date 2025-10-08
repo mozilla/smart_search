@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Dennis Rainey Dennis Rainey is the President and CEO of Family Life, a subsidiary of Campus Crusade for Christ. Since the organization began in 1976, Dennis' leadership has enabled Family Life to grow into a dynamic and vital ministry that offers families blueprints for living godly lives. Dennis has authored or",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a religious ministry leadership and does not pertain to improving athletic performance or sports skills.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Dennis Rainey Dennis Rainey is the President and CEO of Family Life, a subsidiary of Campus Crusade for Christ. Since the organization began in 1976, Dennis' leadership has enabled Family Life to grow into a dynamic and vital ministry that offers families blueprints for living godly lives. Dennis has authored or",
+  "history": {
+    "url": "https://www.amazon.com/Dennis-Rainey/e/B001IGNZOS",
+    "title": "Dennis Rainey",
+    "description": "Dennis Rainey is the President and CEO of Family Life, a subsidiary of Campus Crusade for Christ. Since the organization began in 1976, Dennis' leadership has enabled Family Life to grow into a dynamic and vital ministry that offers families blueprints for living godly lives. Dennis has authored or ",
+    "frecency": 4325,
+    "url_hash": 2102959215166,
+    "last_visit_date": 1758203934843228
+  }
+}

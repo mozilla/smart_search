@@ -1,0 +1,5 @@
+{
+  "url": "http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html",
+  "search_query": "meaning of http/1.1 status codes",
+  "combined_text": "10 Status Code Definitions \"part of Hypertext Transfer Protocol -- HTTP/1.1 RFC 2616 Fielding, et al.10 Status Code Definitions Each Status-Code is described below, including a description of which method (s) it can follow and any metainformation required in the response.10.1 Informational 1xx This class of status code indica"
+}

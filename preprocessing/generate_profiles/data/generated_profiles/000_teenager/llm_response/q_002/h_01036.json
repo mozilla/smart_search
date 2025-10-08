@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Porsche 911 History \"For most enthusiasts the 911 remains the one \\\"true\\\" Porsche, the only one with a direct link to the original Porsche 356, yet longer-lived by far. Though Ferry Porsche thought his first six-cylinder production car would have a good long run when he showed it in late 1963, even he couldn't have fo",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Porsche 911 history and has no connection to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Porsche 911 History \"For most enthusiasts the 911 remains the one \"\"true\"\" Porsche, the only one with a direct link to the original Porsche 356, yet longer-lived by far. Though Ferry Porsche thought his first six-cylinder production car would have a good long run when he showed it in late 1963, even he couldn't have fo",
+  "history": {
+    "url": "http://auto.howstuffworks.com/porsche-911-history.htm",
+    "title": "Porsche 911 History",
+    "description": "\"For most enthusiasts the 911 remains the one \"\"true\"\" Porsche, the only one with a direct link to the original Porsche 356, yet longer-lived by far. Though Ferry Porsche thought his first six-cylinder production car would have a good long run when he showed it in late 1963, even he couldn't have fo",
+    "frecency": 429,
+    "url_hash": 10280476905584,
+    "last_visit_date": 1758203927769139
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "Phoenixville Things to Do Events Hotels Food & Drink Plan Your Trip Media Center About Visit Philadelphia Advertise With Us Research Contact Terms of Use Privacy Policy Convention & Meeting Planners",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a generic Visit Philadelphia site navigation/footer and does not pertain to TikTok trends; it is not relevant to the search query.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "Phoenixville Things to Do Events Hotels Food & Drink Plan Your Trip Media Center About Visit Philadelphia Advertise With Us Research Contact Terms of Use Privacy Policy Convention & Meeting Planners",
+  "history": {
+    "url": "http://www.visitphilly.com/towns/phoenixville/",
+    "title": "Phoenixville",
+    "description": "Things to Do Events Hotels Food & Drink Plan Your Trip Media Center About Visit Philadelphia Advertise With Us Research Contact Terms of Use Privacy Policy Convention & Meeting Planners ",
+    "frecency": 3958,
+    "url_hash": 54250469163730,
+    "last_visit_date": 1758203930279228
+  }
+}

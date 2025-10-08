@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Moved Permanently Moved Permanently The document has moved here. Apache Server at www.vetdentists.com Port 80",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result points to a veterinary dentistry site with a 'Moved Permanently' message, offering no content related to Python libraries or machine learning; thus not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Moved Permanently Moved Permanently The document has moved here. Apache Server at www.vetdentists.com Port 80",
+  "history": {
+    "url": "http://www.vetdentists.com/root-canal-vs-extraction-pet-teeth/",
+    "title": "Moved Permanently",
+    "description": "Moved Permanently The document has moved here. Apache Server at www.vetdentists.com Port 80 ",
+    "frecency": 1471,
+    "url_hash": 99345355790862,
+    "last_visit_date": 1758203930902111
+  }
+}

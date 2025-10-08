@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Ryan Reynolds \"From Wikipedia, the free encyclopedianavigation search For the football player, see Ryan Reynolds (American football). Ryan Reynolds Reynolds at the 2015 San Diego Comic-Con International Born Ryan Rodney Reynolds 23 October 1976 (age 41)Vancouver, British Columbia, Canada Occupation Actor producer",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about the actor Ryan Reynolds, not related to debugging API integration; no relevance.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Ryan Reynolds \"From Wikipedia, the free encyclopedianavigation search For the football player, see Ryan Reynolds (American football). Ryan Reynolds Reynolds at the 2015 San Diego Comic-Con International Born Ryan Rodney Reynolds 23 October 1976 (age 41)Vancouver, British Columbia, Canada Occupation Actor producer",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Ryan_Reynolds",
+    "title": "Ryan Reynolds",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search For the football player, see Ryan Reynolds (American football). Ryan Reynolds Reynolds at the 2015 San Diego Comic-Con International Born Ryan Rodney Reynolds 23 October 1976 (age 41)Vancouver, British Columbia, Canada Occupation Actor producer",
+    "frecency": 4192,
+    "url_hash": 90778233766640,
+    "last_visit_date": 1758203932122111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Largest Employers in the Nashville Region About Us Purpose & Brand Promise History Board of Directors Annual Reports Nashville Chamber Initiatives Economic Development & P2020K-12 Education Freshman Career Fair Legislative Priorities Music City Music Council Nashville Entrepreneur Center Nashville Health Care Council Talent Development Youn",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Nashville Chamber and regional economic development topics, not about IDEs or software development; it does not address top IDEs for software development.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Largest Employers in the Nashville Region About Us Purpose & Brand Promise History Board of Directors Annual Reports Nashville Chamber Initiatives Economic Development & P2020K-12 Education Freshman Career Fair Legislative Priorities Music City Music Council Nashville Entrepreneur Center Nashville Health Care Council Talent Development Youn",
+  "history": {
+    "url": "http://www.nashvillechamber.com/homepage/worknashville/jobboard/largestemployers.aspx",
+    "title": "Largest Employers in the Nashville Region",
+    "description": "About Us Purpose & Brand Promise History Board of Directors Annual Reports Nashville Chamber Initiatives Economic Development & P2020K-12 Education Freshman Career Fair Legislative Priorities Music City Music Council Nashville Entrepreneur Center Nashville Health Care Council Talent Development Youn",
+    "frecency": 4540,
+    "url_hash": 42494966896523,
+    "last_visit_date": 1758203927922111
+  }
+}

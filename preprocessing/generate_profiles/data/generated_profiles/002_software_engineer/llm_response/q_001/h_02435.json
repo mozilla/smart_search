@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Validation \"Validation Every code snippet on this page is in the validation Tests module of Doc Code. The tests are yours to explore and modify. Please send us your feedback and contributions. A good application strives to ensure the integrity of data before saving them to permanent storage in part by screenin",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses validation and code tests, not Python libraries for machine learning; it is not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Validation \"Validation Every code snippet on this page is in the validation Tests module of Doc Code. The tests are yours to explore and modify. Please send us your feedback and contributions. A good application strives to ensure the integrity of data before saving them to permanent storage in part by screenin",
+  "history": {
+    "url": "http://breeze.github.io/doc-js/validation.html",
+    "title": "Validation",
+    "description": "\"Validation Every code snippet on this page is in the validation Tests module of Doc Code. The tests are yours to explore and modify. Please send us your feedback and contributions. A good application strives to ensure the integrity of data before saving them to permanent storage in part by screenin",
+    "frecency": 608,
+    "url_hash": 22828291796470,
+    "last_visit_date": 1758203930668111
+  }
+}

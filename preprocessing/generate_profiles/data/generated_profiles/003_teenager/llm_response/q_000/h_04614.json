@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Horoscope \\\"From Wikipedia, the free encyclopedianavigation search This article is about astrology. For the 1937 ballet, see Horoscope (ballet). For the Sheeba song, see Horoscopes (song). This article needs additional citations for verification. Please help improve this article by adding citations to reliable",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about horoscope/astrology, not related to starting a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Horoscope \"From Wikipedia, the free encyclopedianavigation search This article is about astrology. For the 1937 ballet, see Horoscope (ballet). For the Sheeba song, see Horoscopes (song). This article needs additional citations for verification. Please help improve this article by adding citations to reliable",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Horoscope",
+    "title": "Horoscope",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search This article is about astrology. For the 1937 ballet, see Horoscope (ballet). For the Sheeba song, see Horoscopes (song). This article needs additional citations for verification. Please help improve this article by adding citations to reliable",
+    "frecency": 214,
+    "url_hash": 69971805269980,
+    "last_visit_date": 1758203931309228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Create a Local Account in Windows 8 and Log In Without Internet Connection How-To Create a Local Account in Windows 8 and Log In Without Internet Connection By Brian Burgess Last Updated on January 20, 2013The other day I was in a Hotel that didn\u2019t have a Wi Fi connection. I tried to log into my Windows 8 laptop, and couldn\u2019t. That was quite annoying. To log in locally, yo",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The result is about Windows 8 local accounts, not Docker; does not match the query about Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Create a Local Account in Windows 8 and Log In Without Internet Connection How-To Create a Local Account in Windows 8 and Log In Without Internet Connection By Brian Burgess Last Updated on January 20, 2013The other day I was in a Hotel that didn\u2019t have a Wi Fi connection. I tried to log into my Windows 8 laptop, and couldn\u2019t. That was quite annoying. To log in locally, yo",
+  "history": {
+    "url": "http://www.groovypost.com/howto/windows-8-login-without-internet/",
+    "title": "Create a Local Account in Windows 8 and Log In Without Internet Connection",
+    "description": "How-To Create a Local Account in Windows 8 and Log In Without Internet Connection By Brian Burgess Last Updated on January 20, 2013The other day I was in a Hotel that didn\u2019t have a Wi Fi connection. I tried to log into my Windows 8 laptop, and couldn\u2019t. That was quite annoying. To log in locally, yo",
+    "frecency": 1942,
+    "url_hash": 33715297935827,
+    "last_visit_date": 1758203928756200
+  }
+}

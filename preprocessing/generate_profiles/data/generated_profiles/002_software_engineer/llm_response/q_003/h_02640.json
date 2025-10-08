@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Backstabbing Coworker Backstabbing Coworker I work with someone who is a backstabber to all that know them. When I became new in this position one of my friends warned me about them and gave me advise on who to trust. Boy, was I grateful for her advise. She was right on the money. Since I have learned what this person is",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses interpersonal issues about a backstabbing coworker, not about database query optimization; it does not address the query topic.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Backstabbing Coworker Backstabbing Coworker I work with someone who is a backstabber to all that know them. When I became new in this position one of my friends warned me about them and gave me advise on who to trust. Boy, was I grateful for her advise. She was right on the money. Since I have learned what this person is",
+  "history": {
+    "url": "http://www.overcomebullying.org/backstabbing-coworker.html",
+    "title": "Backstabbing Coworker",
+    "description": "Backstabbing Coworker I work with someone who is a backstabber to all that know them. When I became new in this position one of my friends warned me about them and gave me advise on who to trust. Boy, was I grateful for her advise. She was right on the money. Since I have learned what this person is",
+    "frecency": 186,
+    "url_hash": 51658877675085,
+    "last_visit_date": 1758203927592111
+  }
+}

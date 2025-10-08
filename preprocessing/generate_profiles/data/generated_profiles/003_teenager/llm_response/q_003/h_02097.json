@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Channel Lineup Channel Lineup What channel is that on? From music to movies, sports to soaps, and everything in between \u2014 find each and every channel right here.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses TV channel lineups, not apps or study habits; mismatch with the query; not relevant.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Channel Lineup Channel Lineup What channel is that on? From music to movies, sports to soaps, and everything in between \u2014 find each and every channel right here.",
+  "history": {
+    "url": "http://brighthouse.com/shop/tv/channel-lineup.html",
+    "title": "Channel Lineup",
+    "description": "Channel Lineup What channel is that on? From music to movies, sports to soaps, and everything in between \u2014 find each and every channel right here. ",
+    "frecency": 2834,
+    "url_hash": 68945039193953,
+    "last_visit_date": 1758203928704735
+  }
+}

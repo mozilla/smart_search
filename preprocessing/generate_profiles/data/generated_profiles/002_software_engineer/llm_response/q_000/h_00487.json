@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Press Releases New Dell KACE K1000 Appliance Delivers 'Anypoint' Management Print Email RSS Feed Date : 1/27/2015 Round Rock, Texas Multi-platform leadership extended with first-to-market Chromebook support New Windows agentless inventory and monitoring bring integrated server management to organizations of all si",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The page is a Dell press release about KACE appliance features; it does not cover debugging or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Press Releases New Dell KACE K1000 Appliance Delivers 'Anypoint' Management Print Email RSS Feed Date : 1/27/2015 Round Rock, Texas Multi-platform leadership extended with first-to-market Chromebook support New Windows agentless inventory and monitoring bring integrated server management to organizations of all si",
+  "history": {
+    "url": "http://www.dell.com/learn/us/en/uscorp1/press-releases/2015-01-27-dell-kace-k1000-anypoint-systems-management",
+    "title": "Press Releases",
+    "description": "New Dell KACE K1000 Appliance Delivers 'Anypoint' Management Print Email RSS Feed Date : 1/27/2015 Round Rock, Texas Multi-platform leadership extended with first-to-market Chromebook support New Windows agentless inventory and monitoring bring integrated server management to organizations of all si",
+    "frecency": 4161,
+    "url_hash": 83492903227999,
+    "last_visit_date": 1758203930362111
+  }
+}

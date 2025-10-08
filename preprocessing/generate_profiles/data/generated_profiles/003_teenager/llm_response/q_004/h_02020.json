@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "\u00e2If you adore restaurants,if you\u00e2re addicted to the sounds,the energy and the spectacle of dining out,there\u00e2s hardly any place in L.A. that\u00e2s more of a thrill than Osteria Mozza.\u00e2 \u201cIf you adore restaurants,if you\u2019re addicted to the sounds,the energy and the spectacle of dining out,there\u2019s hardly any place in L. A. that\u2019s more of a thrill than Osteria Mozza.\u201d\u201cOsteria Mozza is a casual restaurant where people dress to impress\u2026\u201d Presided over by always-dressed-to-impress Nancy S",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses a LA restaurant and does not address how to get better at sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "\u00e2If you adore restaurants,if you\u00e2re addicted to the sounds,the energy and the spectacle of dining out,there\u00e2s hardly any place in L.A. that\u00e2s more of a thrill than Osteria Mozza.\u00e2 \u201cIf you adore restaurants,if you\u2019re addicted to the sounds,the energy and the spectacle of dining out,there\u2019s hardly any place in L. A. that\u2019s more of a thrill than Osteria Mozza.\u201d\u201cOsteria Mozza is a casual restaurant where people dress to impress\u2026\u201d Presided over by always-dressed-to-impress Nancy S",
+  "history": {
+    "url": "http://la.osteriamozza.com/the-restaurant/",
+    "title": "\u00e2If you adore restaurants,if you\u00e2re addicted to the sounds,the energy and the spectacle of dining out,there\u00e2s hardly any place in L.A. that\u00e2s more of a thrill than Osteria Mozza.\u00e2",
+    "description": "\u201cIf you adore restaurants,if you\u2019re addicted to the sounds,the energy and the spectacle of dining out,there\u2019s hardly any place in L. A. that\u2019s more of a thrill than Osteria Mozza.\u201d\u201cOsteria Mozza is a casual restaurant where people dress to impress\u2026\u201d Presided over by always-dressed-to-impress Nancy S",
+    "frecency": 2908,
+    "url_hash": 76048930221079,
+    "last_visit_date": 1758203930667228
+  }
+}

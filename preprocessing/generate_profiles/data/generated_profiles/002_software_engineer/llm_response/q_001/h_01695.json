@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Okmulgee, OK Population and Races USA.com / Oklahoma / Okmulgee, OK / Population and Races Okmulgee, OK Population and Races Basic Info Population/Races Income/Careers Housing Education Crime/Crime Rate Others Hot Rankings Fastest / Slowest Growing Cities Nearby Best / Worst Cities by Crime Rate Nearby Richest / Poorest Cities by In",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about demographics and population statistics for Okmulgee, Oklahoma, not about Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Okmulgee, OK Population and Races USA.com / Oklahoma / Okmulgee, OK / Population and Races Okmulgee, OK Population and Races Basic Info Population/Races Income/Careers Housing Education Crime/Crime Rate Others Hot Rankings Fastest / Slowest Growing Cities Nearby Best / Worst Cities by Crime Rate Nearby Richest / Poorest Cities by In",
+  "history": {
+    "url": "http://www.usa.com/okmulgee-ok-population-and-races.htm",
+    "title": "Okmulgee, OK Population and Races",
+    "description": "USA.com / Oklahoma / Okmulgee, OK / Population and Races Okmulgee, OK Population and Races Basic Info Population/Races Income/Careers Housing Education Crime/Crime Rate Others Hot Rankings Fastest / Slowest Growing Cities Nearby Best / Worst Cities by Crime Rate Nearby Richest / Poorest Cities by In",
+    "frecency": 1926,
+    "url_hash": 60107293902445,
+    "last_visit_date": 1758203930448111
+  }
+}

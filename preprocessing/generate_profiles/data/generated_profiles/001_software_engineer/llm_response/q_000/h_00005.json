@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Education of the Deaf Graduate Programs & Graduate Schools A graduate degree in education of the deaf may be a good option for individuals interested in working as a highly specialized special education teacher. This advanced degree helps students in deaf studies graduate programs learn how to teach deaf students valuable skills to help them navigate the wo",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Education of the Deaf graduate programs, not related to debugging or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Education of the Deaf Graduate Programs & Graduate Schools A graduate degree in education of the deaf may be a good option for individuals interested in working as a highly specialized special education teacher. This advanced degree helps students in deaf studies graduate programs learn how to teach deaf students valuable skills to help them navigate the wo",
+  "history": {
+    "url": "https://www.gradschools.com/programs/special-gifted-education/education-of-the-deaf",
+    "title": "Education of the Deaf Graduate Programs & Graduate Schools",
+    "description": "A graduate degree in education of the deaf may be a good option for individuals interested in working as a highly specialized special education teacher. This advanced degree helps students in deaf studies graduate programs learn how to teach deaf students valuable skills to help them navigate the wo",
+    "frecency": 4992,
+    "url_hash": 62951249173936,
+    "last_visit_date": 1758203927684200
+  }
+}

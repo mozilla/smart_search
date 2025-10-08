@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "What Does a Surgical Technician Do? What Does a Surgical Technician Do? Surgical technicians or technologists - sometimes called scrubs - make sure that surgical procedures in the operating room are handled efficiently and under sterile conditions. Read on to learn more about the job duties, necessary skills, and employment outlook fo",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses surgical technicians, not IDEs or software development, so it is not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "What Does a Surgical Technician Do? What Does a Surgical Technician Do? Surgical technicians or technologists - sometimes called scrubs - make sure that surgical procedures in the operating room are handled efficiently and under sterile conditions. Read on to learn more about the job duties, necessary skills, and employment outlook fo",
+  "history": {
+    "url": "http://learn.org/articles/What_Does_a_Surgical_Technician_Do.html",
+    "title": "What Does a Surgical Technician Do?",
+    "description": "What Does a Surgical Technician Do? Surgical technicians or technologists - sometimes called scrubs - make sure that surgical procedures in the operating room are handled efficiently and under sterile conditions. Read on to learn more about the job duties, necessary skills, and employment outlook fo",
+    "frecency": 3403,
+    "url_hash": 18871169549897,
+    "last_visit_date": 1758203930388111
+  }
+}

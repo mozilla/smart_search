@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "BodyPump Body Pump By WLR's Site Manager, Laurence Beeken Tweet Body Pump is a new and exciting way to introduce fitness and exercise into people\u2019s lives, and exercise classes are popping up everywhere. One of the current fitness workouts is Body Pump. Although started originally in New Zealand by Les Mills",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Body Pump fitness rather than DIY room decoration ideas; no topic overlap.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "BodyPump Body Pump By WLR's Site Manager, Laurence Beeken Tweet Body Pump is a new and exciting way to introduce fitness and exercise into people\u2019s lives, and exercise classes are popping up everywhere. One of the current fitness workouts is Body Pump. Although started originally in New Zealand by Les Mills",
+  "history": {
+    "url": "http://www.weightlossresources.co.uk/exercise/workouts/body-pump.htm",
+    "title": "BodyPump",
+    "description": "Body Pump By WLR's Site Manager, Laurence Beeken Tweet Body Pump is a new and exciting way to introduce fitness and exercise into people\u2019s lives, and exercise classes are popping up everywhere. One of the current fitness workouts is Body Pump. Although started originally in New Zealand by Les Mills ",
+    "frecency": 2430,
+    "url_hash": 39477171540337,
+    "last_visit_date": 1758203931643228
+  }
+}

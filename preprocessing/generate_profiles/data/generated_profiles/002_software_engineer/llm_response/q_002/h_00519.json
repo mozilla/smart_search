@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Installing and configuring lighttpd webserver \u2013 HOWTOin Howto, lighttpd, Linux, Security, UNIX last updated July 2, 2006lighttpd is a web server for UNIX/Linux and Windows operating systems. It is an alternative to Apache web server. It is also called Lighty. It is designed to be secure, fast, stan",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The result discusses installing and configuring the lighttpd webserver, not IDEs or software development IDEs; topic mismatch.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Installing and configuring lighttpd webserver \u00e2 HOWTO \"Installing and configuring lighttpd webserver \u2013 HOWTOin Howto, lighttpd, Linux, Security, UNIX last updated July 2, 2006lighttpd is a web server for UNIX/Linux and Windows operating systems. It is an alternative to Apache web server. It is also called Lighty. It is designed to be secure, fast, stan",
+  "history": {
+    "url": "https://www.cyberciti.biz/tips/installing-and-configuring-lighttpd-webserver-howto.html",
+    "title": "Installing and configuring lighttpd webserver \u00e2 HOWTO",
+    "description": "\"Installing and configuring lighttpd webserver \u2013 HOWTOin Howto, lighttpd, Linux, Security, UNIX last updated July 2, 2006lighttpd is a web server for UNIX/Linux and Windows operating systems. It is an alternative to Apache web server. It is also called Lighty. It is designed to be secure, fast, stan",
+    "frecency": 4103,
+    "url_hash": 582757724355,
+    "last_visit_date": 1758203927874111
+  }
+}

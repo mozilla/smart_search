@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Cissy Houston SEE RANKCissy Houston Actress | Soundtrack | Music Department Cissy Houston was born on September 30, 1933 in Newark, New Jersey, USA as Emily Drinkard. She is an actress, known for A Time to Kill (1996), The Preacher's Wife (1996) and Daddy's Little Girls (2007). She was previously married to John",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns a person (Cissy Houston), an actress, with no content related to database query optimization or databases; it is not relevant to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Cissy Houston SEE RANKCissy Houston Actress | Soundtrack | Music Department Cissy Houston was born on September 30, 1933 in Newark, New Jersey, USA as Emily Drinkard. She is an actress, known for A Time to Kill (1996), The Preacher's Wife (1996) and Daddy's Little Girls (2007). She was previously married to John",
+  "history": {
+    "url": "http://www.imdb.com/name/nm0396810/",
+    "title": "Cissy Houston",
+    "description": "SEE RANKCissy Houston Actress | Soundtrack | Music Department Cissy Houston was born on September 30, 1933 in Newark, New Jersey, USA as Emily Drinkard. She is an actress, known for A Time to Kill (1996), The Preacher's Wife (1996) and Daddy's Little Girls (2007). She was previously married to John ",
+    "frecency": 366,
+    "url_hash": 83955768379276,
+    "last_visit_date": 1758203932012111
+  }
+}

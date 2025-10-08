@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "How to Bridge the Gap Between SNOMED CT and ICD-10 CM How to Bridge the Gap Between SNOMED CT and ICD-10 CMPosted on 07/22/15For a clinician in a busy clinical environment, the primary focus is on patient care. The objective of Meaningful Use is, of course, to facilitate efficient and effective patient care. But complex problems of integration sometime",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses SNOMED CT and ICD-10 CM mapping in a clinical context and general integration concerns, not debugging or API integration. No content related to debugging APIs or API integration workflows.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "How to Bridge the Gap Between SNOMED CT and ICD-10 CM How to Bridge the Gap Between SNOMED CT and ICD-10 CMPosted on 07/22/15For a clinician in a busy clinical environment, the primary focus is on patient care. The objective of Meaningful Use is, of course, to facilitate efficient and effective patient care. But complex problems of integration sometime",
+  "history": {
+    "url": "http://blog.healthlanguage.com/how-to-bridge-the-gap-between-snomed-ct-and-icd-10-cm",
+    "title": "How to Bridge the Gap Between SNOMED CT and ICD-10 CM",
+    "description": "How to Bridge the Gap Between SNOMED CT and ICD-10 CMPosted on 07/22/15For a clinician in a busy clinical environment, the primary focus is on patient care. The objective of Meaningful Use is, of course, to facilitate efficient and effective patient care. But complex problems of integration sometime",
+    "frecency": 3746,
+    "url_hash": 15970125794386,
+    "last_visit_date": 1758203928194200
+  }
+}

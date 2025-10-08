@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Understanding the Packing function in SAP ECC6.0 Packing function in SAP system is very important for Distribution centers and Retail outlet stores in order to exchange their goods data requirements between suppliers and Ship-to parties. The Ship-to parties can scan and check the goods through Pallet/Carton label information. This will optimize th",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses SAP packing functions, not Docker or container setup, so it is not relevant to the search query about Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Understanding the Packing function in SAP ECC6.0 Packing function in SAP system is very important for Distribution centers and Retail outlet stores in order to exchange their goods data requirements between suppliers and Ship-to parties. The Ship-to parties can scan and check the goods through Pallet/Carton label information. This will optimize th",
+  "history": {
+    "url": "https://www.tkreddy.com/2010/04/08/understanding-the-packing-function-in-sap-ecc6-0/",
+    "title": "Understanding the Packing function in SAP ECC6.0",
+    "description": "Packing function in SAP system is very important for Distribution centers and Retail outlet stores in order to exchange their goods data requirements between suppliers and Ship-to parties. The Ship-to parties can scan and check the goods through Pallet/Carton label information. This will optimize th",
+    "frecency": 3942,
+    "url_hash": 38492313889269,
+    "last_visit_date": 1758203927720200
+  }
+}

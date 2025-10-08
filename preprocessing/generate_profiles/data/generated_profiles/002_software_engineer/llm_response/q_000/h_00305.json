@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Can You Live on the Minimum Wage? Opinion Share Can You Live on the Minimum Wage? By JEREMY ASHKENAS FEB. 8, 2014More than 4.8 million workers now earn the lowest legal pay. This calculator, for a single childless worker, shows the hard choices that have to be made living on the smallest paychecks. Start by choosing your state: The",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about wage income and a calculator, not about debugging APIs or API integration topics; lacks relevance to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Can You Live on the Minimum Wage? Opinion Share Can You Live on the Minimum Wage? By JEREMY ASHKENAS FEB. 8, 2014More than 4.8 million workers now earn the lowest legal pay. This calculator, for a single childless worker, shows the hard choices that have to be made living on the smallest paychecks. Start by choosing your state: The",
+  "history": {
+    "url": "http://www.nytimes.com/interactive/2014/02/09/opinion/minimum-wage.html",
+    "title": "Can You Live on the Minimum Wage?",
+    "description": "Opinion Share Can You Live on the Minimum Wage? By JEREMY ASHKENAS FEB. 8, 2014More than 4.8 million workers now earn the lowest legal pay. This calculator, for a single childless worker, shows the hard choices that have to be made living on the smallest paychecks. Start by choosing your state: The ",
+    "frecency": 4498,
+    "url_hash": 83150391982017,
+    "last_visit_date": 1758203927742111
+  }
+}

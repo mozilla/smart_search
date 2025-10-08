@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Thread: Deleting blocks \\\"2012-02-09, 04:59 PM #1cheryla Member Join Date 2008-03Location Casper Posts 48Deleting blocks I am trying to eliminate a block from my Auto CAD file. Deleting the block does not work (trying to completely delete it from the list when you type in the inset or block commands). Purging the block does",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses AutoCAD block deletion, not API integration debugging; no relevance to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Thread: Deleting blocks \"2012-02-09, 04:59 PM #1cheryla Member Join Date 2008-03Location Casper Posts 48Deleting blocks I am trying to eliminate a block from my Auto CAD file. Deleting the block does not work (trying to completely delete it from the list when you type in the inset or block commands). Purging the block does",
+  "history": {
+    "url": "http://forums.augi.com/showthread.php?137019-Deleting-blocks",
+    "title": "Thread: Deleting blocks",
+    "description": "\"2012-02-09, 04:59 PM #1cheryla Member Join Date 2008-03Location Casper Posts 48Deleting blocks I am trying to eliminate a block from my Auto CAD file. Deleting the block does not work (trying to completely delete it from the list when you type in the inset or block commands). Purging the block does",
+    "frecency": 1386,
+    "url_hash": 14288943294117,
+    "last_visit_date": 1758203929252111
+  }
+}

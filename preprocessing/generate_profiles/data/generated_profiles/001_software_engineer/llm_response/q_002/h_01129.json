@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Some interesting twists about Ethernet cabling 42In a recent post, Jack Wallen explained how to make Ethernet cable connections. In the ensuing comments, I noticed some interest in Ethernet cabling itself. That's understandable, Ethernet cabling does not look or act like normal wiring. Differential signaling To understand why Ethernet cable is b",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Ethernet cabling, not IDEs or software development; not relevant.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Some interesting twists about Ethernet cabling 42In a recent post, Jack Wallen explained how to make Ethernet cable connections. In the ensuing comments, I noticed some interest in Ethernet cabling itself. That's understandable, Ethernet cabling does not look or act like normal wiring. Differential signaling To understand why Ethernet cable is b",
+  "history": {
+    "url": "http://www.techrepublic.com/blog/data-center/some-interesting-twists-about-ethernet-cabling/",
+    "title": "Some interesting twists about Ethernet cabling",
+    "description": "42In a recent post, Jack Wallen explained how to make Ethernet cable connections. In the ensuing comments, I noticed some interest in Ethernet cabling itself. That's understandable, Ethernet cabling does not look or act like normal wiring. Differential signaling To understand why Ethernet cable is b",
+    "frecency": 1029,
+    "url_hash": 68050682051865,
+    "last_visit_date": 1758203928154200
+  }
+}

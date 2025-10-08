@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Intermittent fasting \"Intermittent fasting From Wikipedia, the free encyclopedianavigation search Intermittent fasting ( IF) is an umbrella term for various diets that cycle between a period of fasting and non-fasting during a defined period. Intermittent fasting can also be used with calorie restriction for weight loss\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses intermittent fasting and dieting, not YouTube channels; it has no relevance to the query.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Intermittent fasting \"Intermittent fasting From Wikipedia, the free encyclopedianavigation search Intermittent fasting ( IF) is an umbrella term for various diets that cycle between a period of fasting and non-fasting during a defined period. Intermittent fasting can also be used with calorie restriction for weight loss",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Intermittent_fasting",
+    "title": "Intermittent fasting",
+    "description": "\"Intermittent fasting From Wikipedia, the free encyclopedianavigation search Intermittent fasting ( IF) is an umbrella term for various diets that cycle between a period of fasting and non-fasting during a defined period. Intermittent fasting can also be used with calorie restriction for weight loss",
+    "frecency": 2757,
+    "url_hash": 49820400509839,
+    "last_visit_date": 1758203935399228
+  }
+}

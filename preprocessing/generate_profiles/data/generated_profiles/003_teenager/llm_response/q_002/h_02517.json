@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Are You Getting Enough Vitamin B12? Are You Getting Enough Vitamin B12? Vit B12 Facts and Benefits for Vegetarian and Vegan Diets Your doctor, dietition or nutritionist, who ought to know better, may insist that your vegetarian or vegan diet can't meet your nutritional needs, especially for Vitamin B12. Your friends and family will wo",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Vitamin B12 nutrition, not about easy DIY room decoration ideas; content is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Are You Getting Enough Vitamin B12? Are You Getting Enough Vitamin B12? Vit B12 Facts and Benefits for Vegetarian and Vegan Diets Your doctor, dietition or nutritionist, who ought to know better, may insist that your vegetarian or vegan diet can't meet your nutritional needs, especially for Vitamin B12. Your friends and family will wo",
+  "history": {
+    "url": "http://www.savvyvegetarian.com/articles/getting-enough-vitamin-B12.php",
+    "title": "Are You Getting Enough Vitamin B12?",
+    "description": "Are You Getting Enough Vitamin B12? Vit B12 Facts and Benefits for Vegetarian and Vegan Diets Your doctor, dietition or nutritionist, who ought to know better, may insist that your vegetarian or vegan diet can't meet your nutritional needs, especially for Vitamin B12. Your friends and family will wo",
+    "frecency": 2418,
+    "url_hash": 13267427338130,
+    "last_visit_date": 1758203936281228
+  }
+}

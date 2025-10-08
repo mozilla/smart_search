@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "William Devane \"SEE RANKWilliam Devane Actor | Writer | Director William Devane, the movie and television actor, was born in Albany, New York, the son of Joseph Devane, who served as Franklin D. Roosevelt 's chauffeur when he was Governor of New York.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about an actor named William Devane and contains no content related to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "William Devane \"SEE RANKWilliam Devane Actor | Writer | Director William Devane, the movie and television actor, was born in Albany, New York, the son of Joseph Devane, who served as Franklin D. Roosevelt 's chauffeur when he was Governor of New York. After graduating from New York City's American Academy of Drama",
+  "history": {
+    "url": "http://www.imdb.com/name/nm0001137/",
+    "title": "William Devane",
+    "description": "\"SEE RANKWilliam Devane Actor | Writer | Director William Devane, the movie and television actor, was born in Albany, New York, the son of Joseph Devane, who served as Franklin D. Roosevelt 's chauffeur when he was Governor of New York. After graduating from New York City's American Academy of Drama",
+    "frecency": 2257,
+    "url_hash": 93633864032336,
+    "last_visit_date": 1758203931330111
+  }
+}

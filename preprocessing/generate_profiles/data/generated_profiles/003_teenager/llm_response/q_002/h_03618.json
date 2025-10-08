@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Customers who watched this item also watched \\\"By placing your order or playing a video, you agree to our Terms of Use. Sold by Amazon Digital Services LLC. Additional taxes may apply. Customers who watched this item also watched Black Swan Insidious: The Last Key The Killing of a Sacred Deer The Shape of Water Prodigy House at the End of the S\\\"",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result appears to be a generic product page snippet with 'customers who watched this item also watched' and unrelated movie titles, not about easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Customers who watched this item also watched \"By placing your order or playing a video, you agree to our Terms of Use. Sold by Amazon Digital Services LLC. Additional taxes may apply. Customers who watched this item also watched Black Swan Insidious: The Last Key The Killing of a Sacred Deer The Shape of Water Prodigy House at the End of the S",
+  "history": {
+    "url": "https://www.amazon.com/mother-Jennifer-Lawrence/dp/B075KYFW1M",
+    "title": "Customers who watched this item also watched",
+    "description": "\"By placing your order or playing a video, you agree to our Terms of Use. Sold by Amazon Digital Services LLC. Additional taxes may apply. Customers who watched this item also watched Black Swan Insidious: The Last Key The Killing of a Sacred Deer The Shape of Water Prodigy House at the End of the S",
+    "frecency": 1226,
+    "url_hash": 9656061661482,
+    "last_visit_date": 1758203935453228
+  }
+}

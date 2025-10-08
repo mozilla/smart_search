@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Nookling stores The Nookling stores are a collection of stores in New Leaf that are owned and managed by Timmy and Tommy. The stores are the economic centerpiece of the player 's town and are located on Main Street . In previous games, there were only four stores and they were all owned and managed by Tom Nook, wit",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes Animal Crossing Nookling stores and is not related to improving sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Nookling stores The Nookling stores are a collection of stores in New Leaf that are owned and managed by Timmy and Tommy. The stores are the economic centerpiece of the player 's town and are located on Main Street . In previous games, there were only four stores and they were all owned and managed by Tom Nook, wit",
+  "history": {
+    "url": "http://animalcrossing.wikia.com/wiki/Nookling_Stores",
+    "title": "Nookling stores",
+    "description": "The Nookling stores are a collection of stores in New Leaf that are owned and managed by Timmy and Tommy. The stores are the economic centerpiece of the player 's town and are located on Main Street . In previous games, there were only four stores and they were all owned and managed by Tom Nook, wit",
+    "frecency": 2472,
+    "url_hash": 75400900105931,
+    "last_visit_date": 1758203933539228
+  }
+}

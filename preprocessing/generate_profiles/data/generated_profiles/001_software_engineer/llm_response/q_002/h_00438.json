@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Parcel Viewer Updated: Dec 5, 2013Share Tweet Email Print Information for... Residents Businesses Job seekers Volunteers King County employees Do more online Property tax information & payment Jail inmate look up Parcel viewer or i Map Public records Open data More services... Contact (206) 296-0100Email us Staff",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page is about parcel viewer / local government services and public records, not about IDEs or software development tools; hence not relevant.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Parcel Viewer Updated: Dec 5, 2013Share Tweet Email Print Information for... Residents Businesses Job seekers Volunteers King County employees Do more online Property tax information & payment Jail inmate look up Parcel viewer or i Map Public records Open data More services... Contact (206) 296-0100Email us Staff",
+  "history": {
+    "url": "http://gismaps.kingcounty.gov/parcelviewer2/",
+    "title": "Parcel Viewer",
+    "description": "Updated: Dec 5, 2013Share Tweet Email Print Information for... Residents Businesses Job seekers Volunteers King County employees Do more online Property tax information & payment Jail inmate look up Parcel viewer or i Map Public records Open data More services... Contact (206) 296-0100Email us Staff",
+    "frecency": 3503,
+    "url_hash": 41698150589931,
+    "last_visit_date": 1758203929118200
+  }
+}

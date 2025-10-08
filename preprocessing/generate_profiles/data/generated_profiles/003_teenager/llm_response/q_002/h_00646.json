@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Cut the Stress, Simplify Your Life \"Cut the Stress, Simplify Your Life If stress is wearing you down, take some advice from those who have left their stress behind -- simplify your life. By Carol Sorgen From the Web MD Archives I went to the woods because I wished to live deliberately, to front only the essential facts of life, and s\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses stress reduction and life simplification, not DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Cut the Stress, Simplify Your Life \"Cut the Stress, Simplify Your Life If stress is wearing you down, take some advice from those who have left their stress behind -- simplify your life. By Carol Sorgen From the Web MD Archives I went to the woods because I wished to live deliberately, to front only the essential facts of life, and s",
+  "history": {
+    "url": "http://www.webmd.com/a-to-z-guides/features/cut-stress-simplify-life",
+    "title": "Cut the Stress, Simplify Your Life",
+    "description": "\"Cut the Stress, Simplify Your Life If stress is wearing you down, take some advice from those who have left their stress behind -- simplify your life. By Carol Sorgen From the Web MD Archives I went to the woods because I wished to live deliberately, to front only the essential facts of life, and s",
+    "frecency": 4321,
+    "url_hash": 19109600866683,
+    "last_visit_date": 1758203931841228
+  }
+}

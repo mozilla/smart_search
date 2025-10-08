@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "THE LAST DAYS OF BILLIE HOLIDAY \"THE LAST DAYS OF BILLIE HOLIDAYWhen jazz singer Billie Holiday was first starting out in the 1930s, her phrasing and voice were audio gold. She did not have the great singing voice, but on those jazz 78s of the 1930s, Holiday could express a mood in a few short minutes. Holiday had a very sad life.",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Billie Holiday, a jazz singer, and not related to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "THE LAST DAYS OF BILLIE HOLIDAY \"THE LAST DAYS OF BILLIE HOLIDAYWhen jazz singer Billie Holiday was first starting out in the 1930s, her phrasing and voice were audio gold. She did not have the great singing voice, but on those jazz 78s of the 1930s, Holiday could express a mood in a few short minutes. Holiday had a very sad life.",
+  "history": {
+    "url": "http://greatentertainersarchives.blogspot.com/2012/03/gone-too-soon-blogathon-billie-holiday.html",
+    "title": "THE LAST DAYS OF BILLIE HOLIDAY",
+    "description": "\"THE LAST DAYS OF BILLIE HOLIDAYWhen jazz singer Billie Holiday was first starting out in the 1930s, her phrasing and voice were audio gold. She did not have the great singing voice, but on those jazz 78s of the 1930s, Holiday could express a mood in a few short minutes. Holiday had a very sad life.",
+    "frecency": 3722,
+    "url_hash": 90299502066038,
+    "last_visit_date": 1758203933305228
+  }
+}

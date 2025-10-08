@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Construction & Home Financing Loans Construction & Home Financing Loans Build and finance simply. With our one-time-closing construction loan, you get money to build your home and finance it. You'll use it to pay your builder after construction, then modify it for permanent financing. Get a Mortgage Quote Now",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns construction loans and mortgage financing, which has no relevance to IDEs or software development topics.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Construction & Home Financing Loans Construction & Home Financing Loans Build and finance simply. With our one-time-closing construction loan, you get money to build your home and finance it. You'll use it to pay your builder after construction, then modify it for permanent financing. Get a Mortgage Quote Now",
+  "history": {
+    "url": "https://www.huntington.com/Personal/specialty-mortgages/construction-loan",
+    "title": "Construction & Home Financing Loans",
+    "description": "Construction & Home Financing Loans Build and finance simply. With our one-time-closing construction loan, you get money to build your home and finance it. You'll use it to pay your builder after construction, then modify it for permanent financing. Get a Mortgage Quote Now ",
+    "frecency": 2068,
+    "url_hash": 63485309366932,
+    "last_visit_date": 1758203930854111
+  }
+}

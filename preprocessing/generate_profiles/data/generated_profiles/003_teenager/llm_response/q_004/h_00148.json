@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Prime Lenses Prime Lenses Explore Canon's range of prime lenses. Shoot quality professional portraits with maximum aperture and advanced optics.",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses camera lenses for portraits, not about improving athletic performance or sports skills.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Prime Lenses Prime Lenses Explore Canon's range of prime lenses. Shoot quality professional portraits with maximum aperture and advanced optics.",
+  "history": {
+    "url": "https://www.canon.com.au/prime-lenses",
+    "title": "Prime Lenses",
+    "description": "Prime Lenses Explore Canon's range of prime lenses. Shoot quality professional portraits with maximum aperture and advanced optics. ",
+    "frecency": 4847,
+    "url_hash": 30692933837477,
+    "last_visit_date": 1758203933701228
+  }
+}

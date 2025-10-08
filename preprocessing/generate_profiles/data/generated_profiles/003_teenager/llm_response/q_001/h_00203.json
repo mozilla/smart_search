@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "Norway Norway Tall tales are made in Norway, where nature takes on epic proportions. Mountains of dizzying heights, fjords where Vikings once roamed and awe-inspiring northern lights are the perfect setting for making travel legends of your own. Search Tours View best sellers",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses travel in Norway and has no content related to TikTok trends; it is not relevant to the query.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "Norway Norway Tall tales are made in Norway, where nature takes on epic proportions. Mountains of dizzying heights, fjords where Vikings once roamed and awe-inspiring northern lights are the perfect setting for making travel legends of your own. Search Tours View best sellers",
+  "history": {
+    "url": "http://norway.nordicvisitor.com/?rf=m21-31",
+    "title": "Norway",
+    "description": "Norway Tall tales are made in Norway, where nature takes on epic proportions. Mountains of dizzying heights, fjords where Vikings once roamed and awe-inspiring northern lights are the perfect setting for making travel legends of your own. Search Tours View best sellers ",
+    "frecency": 4794,
+    "url_hash": 57240279115967,
+    "last_visit_date": 1758203933599228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "The Great Gatsby \"Want to Read Rate this book1 of 5 stars 2 of 5 stars 3 of 5 stars 4 of 5 stars 5 of 5 stars The Great Gatsbyby F. Scott Fitzgerald3.9 \u00b7 Rating details \u00b7 2,998,716 Ratings \u00b7 54,735 Reviews On its first publication in 1925, The Great Gatsby was largely dismissed as a light satire on Jazz Age follies.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about The Great Gatsby on Goodreads, not about apps or study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "The Great Gatsby \"Want to Read Rate this book1 of 5 stars 2 of 5 stars 3 of 5 stars 4 of 5 stars 5 of 5 stars The Great Gatsbyby F. Scott Fitzgerald3.9 \u00b7 Rating details \u00b7 2,998,716 Ratings \u00b7 54,735 Reviews On its first publication in 1925, The Great Gatsby was largely dismissed as a light satire on Jazz Age follies.",
+  "history": {
+    "url": "https://www.goodreads.com/book/show/4671.The_Great_Gatsby",
+    "title": "The Great Gatsby",
+    "description": "\"Want to Read Rate this book1 of 5 stars 2 of 5 stars 3 of 5 stars 4 of 5 stars 5 of 5 stars The Great Gatsbyby F. Scott Fitzgerald3.9 \u00b7 Rating details \u00b7 2,998,716 Ratings \u00b7 54,735 Reviews On its first publication in 1925, The Great Gatsby was largely dismissed as a light satire on Jazz Age follies.",
+    "frecency": 979,
+    "url_hash": 55501744897801,
+    "last_visit_date": 1758203927394735
+  }
+}

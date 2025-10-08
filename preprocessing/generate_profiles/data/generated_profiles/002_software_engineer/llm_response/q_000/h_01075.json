@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Does alcohol have any medicinal uses? Health Other - Health Does alcohol have any medicinal uses? I'm talking about drinking booze. Is it useful for any medical condition. I know some performers (i.e. theatre) will have a little nip to take the edge off, what about everyone else? Follow 2 answers Answers Best Answer: Red wine can help y",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses medicinal uses of alcohol, not debugging or API integration; thus not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Does alcohol have any medicinal uses? Health Other - Health Does alcohol have any medicinal uses? I'm talking about drinking booze. Is it useful for any medical condition. I know some performers (i.e. theatre) will have a little nip to take the edge off, what about everyone else? Follow 2 answers Answers Best Answer: Red wine can help y",
+  "history": {
+    "url": "https://answers.yahoo.com/question/index?qid=20080413165528AAVZZok",
+    "title": "Does alcohol have any medicinal uses?",
+    "description": "Health Other - Health Does alcohol have any medicinal uses? I'm talking about drinking booze. Is it useful for any medical condition. I know some performers (i.e. theatre) will have a little nip to take the edge off, what about everyone else? Follow 2 answers Answers Best Answer: Red wine can help y",
+    "frecency": 3089,
+    "url_hash": 60063100497511,
+    "last_visit_date": 1758203929064111
+  }
+}

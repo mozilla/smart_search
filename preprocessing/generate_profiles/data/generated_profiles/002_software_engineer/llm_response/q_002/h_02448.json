@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "About the Global Young Leaders Conference Gain a Global Perspective Spend ten amazing days in Washington, DC and New York City where you will adopt in-demand leadership skills, gain diverse perspectives from peers from around the world, and connect with global issues leaders. Join other students from around the country and world for this ex",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a leadership conference and is unrelated to software development IDEs or top IDEs; it does not address the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "About the Global Young Leaders Conference Gain a Global Perspective Spend ten amazing days in Washington, DC and New York City where you will adopt in-demand leadership skills, gain diverse perspectives from peers from around the world, and connect with global issues leaders. Join other students from around the country and world for this ex",
+  "history": {
+    "url": "https://www.envisionexperience.com/explore-our-programs/global-young-leaders-conference",
+    "title": "About the Global Young Leaders Conference",
+    "description": "Gain a Global Perspective Spend ten amazing days in Washington, DC and New York City where you will adopt in-demand leadership skills, gain diverse perspectives from peers from around the world, and connect with global issues leaders. Join other students from around the country and world for this ex",
+    "frecency": 580,
+    "url_hash": 62510093190292,
+    "last_visit_date": 1758203930276111
+  }
+}

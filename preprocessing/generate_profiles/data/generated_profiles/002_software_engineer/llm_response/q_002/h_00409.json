@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Becoming a Fellow AANP Fellows are selected based on outstanding contributions to clinical practice, research, education or policy. Consideration of applying to become an AANP Fellow begins with a self-assessment, followed by securing an invitation by a Fellow who will sponsor your application process. Information is",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns AANP fellowship and lacks any content about IDEs or software development, so it is not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Becoming a Fellow AANP Fellows are selected based on outstanding contributions to clinical practice, research, education or policy. Consideration of applying to become an AANP Fellow begins with a self-assessment, followed by securing an invitation by a Fellow who will sponsor your application process. Information is",
+  "history": {
+    "url": "https://www.aanp.org/fellows-program/becoming-a-fellow",
+    "title": "Becoming a Fellow",
+    "description": "AANP Fellows are selected based on outstanding contributions to clinical practice, research, education or policy. Consideration of applying to become an AANP Fellow begins with a self-assessment, followed by securing an invitation by a Fellow who will sponsor your application process. Information is",
+    "frecency": 4299,
+    "url_hash": 8897172450237,
+    "last_visit_date": 1758203931438111
+  }
+}

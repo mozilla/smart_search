@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Most people classed as being in poverty 'have job' \\\"Most people classed as being in poverty 'have job'8 December 2013 Share Researchers said the number of people in low-paid jobs had risen, with average incomes falling by 8% since their peak in 2008More working households were living in poverty in the UK last year than non-working ones - for the fir",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses poverty, not IDEs or software development; therefore it is not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Most people classed as being in poverty 'have job' \"Most people classed as being in poverty 'have job'8 December 2013 Share Researchers said the number of people in low-paid jobs had risen, with average incomes falling by 8% since their peak in 2008More working households were living in poverty in the UK last year than non-working ones - for the fir",
+  "history": {
+    "url": "http://www.bbc.co.uk/news/uk-25287068",
+    "title": "Most people classed as being in poverty 'have job'",
+    "description": "\"Most people classed as being in poverty 'have job'8 December 2013 Share Researchers said the number of people in low-paid jobs had risen, with average incomes falling by 8% since their peak in 2008More working households were living in poverty in the UK last year than non-working ones - for the fir",
+    "frecency": 419,
+    "url_hash": 35377753964107,
+    "last_visit_date": 1758203931530111
+  }
+}

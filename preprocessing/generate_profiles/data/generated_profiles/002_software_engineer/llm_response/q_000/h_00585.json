@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "USMC Scout Sniper Requirements Home \u00bb Classroom USMC Scout Sniper Requirements By Marshall Moore; Updated October 04, 2017x Scout snipers are some of the most elite warriors within the United States Marine Corps. Charged with providing long-range, precision fire support on the ground, scout snipers are required to work discreetly",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses US Marine Corps scout snipers and does not relate to debugging APIs or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "USMC Scout Sniper Requirements Home \u00bb Classroom USMC Scout Sniper Requirements By Marshall Moore; Updated October 04, 2017x Scout snipers are some of the most elite warriors within the United States Marine Corps. Charged with providing long-range, precision fire support on the ground, scout snipers are required to work discreetly",
+  "history": {
+    "url": "http://www.ehow.com/facts_7147727_lance-corporal-marines_.html",
+    "title": "USMC Scout Sniper Requirements",
+    "description": "Home \u00bb Classroom USMC Scout Sniper Requirements By Marshall Moore; Updated October 04, 2017x Scout snipers are some of the most elite warriors within the United States Marine Corps. Charged with providing long-range, precision fire support on the ground, scout snipers are required to work discreetly",
+    "frecency": 3999,
+    "url_hash": 14696315407853,
+    "last_visit_date": 1758203927164111
+  }
+}

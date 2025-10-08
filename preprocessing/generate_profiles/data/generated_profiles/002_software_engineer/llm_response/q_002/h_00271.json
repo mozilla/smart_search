@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Minimum Wage Information Minimum wage is the lowest hourly, daily or monthly wage that businesses may legally pay to employees or workers. The New Mexico Department of Workforce Solutions enforces the state and federal minimum wage. Certain cities enforce their own minimum wage. Contact one of the Labor Relations offices li",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses minimum wage information, not integrated development environments (IDEs) or software development tools; it is not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Minimum Wage Information Minimum wage is the lowest hourly, daily or monthly wage that businesses may legally pay to employees or workers. The New Mexico Department of Workforce Solutions enforces the state and federal minimum wage. Certain cities enforce their own minimum wage. Contact one of the Labor Relations offices li",
+  "history": {
+    "url": "http://www.dws.state.nm.us/Labor-Relations/Resources/Minimum-Wage-Information",
+    "title": "Minimum Wage Information",
+    "description": "Minimum wage is the lowest hourly, daily or monthly wage that businesses may legally pay to employees or workers. The New Mexico Department of Workforce Solutions enforces the state and federal minimum wage. Certain cities enforce their own minimum wage. Contact one of the Labor Relations offices li",
+    "frecency": 4553,
+    "url_hash": 59580618781630,
+    "last_visit_date": 1758203928908111
+  }
+}

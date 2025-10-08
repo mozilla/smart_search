@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Accounting Basics (Explanation) \"Sample Transactions #4 - #6Sample Transaction #4The fourth transaction occurs on December 3, when a customer gives Direct Delivery a check for $10 to deliver two parcels on that day. Because of double entry, we know there must be a minimum of two accounts involved\u2014one of the accounts must be debite\"",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns accounting basics and bookkeeping, not IDEs or software development environments.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Accounting Basics (Explanation) \"Sample Transactions #4 - #6Sample Transaction #4The fourth transaction occurs on December 3, when a customer gives Direct Delivery a check for $10 to deliver two parcels on that day. Because of double entry, we know there must be a minimum of two accounts involved\u2014one of the accounts must be debite",
+  "history": {
+    "url": "http://www.accountingcoach.com/accounting-basics/explanation/7",
+    "title": "Accounting Basics (Explanation)",
+    "description": "\"Sample Transactions #4 - #6Sample Transaction #4The fourth transaction occurs on December 3, when a customer gives Direct Delivery a check for $10 to deliver two parcels on that day. Because of double entry, we know there must be a minimum of two accounts involved\u2014one of the accounts must be debite",
+    "frecency": 4743,
+    "url_hash": 79302871922092,
+    "last_visit_date": 1758203927192111
+  }
+}

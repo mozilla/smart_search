@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Userbase Userbase The User Base is your source for general information regarding Phonon. It provides high quality information for end users on what Phonon is and how to use it. Techbase The Tech Base is the primary place for high quality technical information about Phonon targeted at 3rd party developers. Co",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Phonon, not database query optimization; no relevance.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Userbase Userbase The User Base is your source for general information regarding Phonon. It provides high quality information for end users on what Phonon is and how to use it. Techbase The Tech Base is the primary place for high quality technical information about Phonon targeted at 3rd party developers. Co",
+  "history": {
+    "url": "https://phonon.kde.org/",
+    "title": "Userbase",
+    "description": "Userbase The User Base is your source for general information regarding Phonon. It provides high quality information for end users on what Phonon is and how to use it. Techbase The Tech Base is the primary place for high quality technical information about Phonon targeted at 3rd party developers. Co",
+    "frecency": 1488,
+    "url_hash": 22586811188613,
+    "last_visit_date": 1758203931764111
+  }
+}

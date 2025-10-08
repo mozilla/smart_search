@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "This Is This Is Downtown Hastings Downtown Sculptures Over 20 sculptures in Downtown Hastings. Playing at the Spray Plaza Children\u2019s Entertainment in Downtown Hastings. Every Thursday from 11 \u2013 11:45 a.m. June 15 \u2013 August 31 Bring the kids to Downtown Hastings this summer for music and splashing watery fun!",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The content describes Downtown Hastings events and sculptures, not easy DIY room decoration ideas; no relevance to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "This Is This Is Downtown Hastings Downtown Sculptures Over 20 sculptures in Downtown Hastings. Playing at the Spray Plaza Children\u2019s Entertainment in Downtown Hastings. Every Thursday from 11 \u2013 11:45 a.m. June 15 \u2013 August 31 Bring the kids to Downtown Hastings this summer for music and splashing watery fun!",
+  "history": {
+    "url": "https://downtownhastings.com/",
+    "title": "This Is",
+    "description": "This Is Downtown Hastings Downtown Sculptures Over 20 sculptures in Downtown Hastings. Playing at the Spray Plaza Children\u2019s Entertainment in Downtown Hastings. Every Thursday from 11 \u2013 11:45 a.m. June 15 \u2013 August 31 Bring the kids to Downtown Hastings this summer for music and splashing watery fun!",
+    "frecency": 354,
+    "url_hash": 45717795332744,
+    "last_visit_date": 1758203927771139
+  }
+}

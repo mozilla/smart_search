@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Who is Keke Palmer? Answers.com Wiki Answers Categories Entertainment & Arts Celebrities Actors & Actresses Keke Palmer Who is Keke Palmer? Flag Who is Keke Palmer? Answer by Megan Zulueta Confidence votes 11.9K Keke Palmer (full name Lauren Keyana Palmer) is an actress on the Nickelodeon teen show True Jackson",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns a celebrity (Keke Palmer) and has no relevance to software development or IDEs.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Who is Keke Palmer? \"Answers.com \u00ae Wiki Answers \u00ae Categories Entertainment & Arts Celebrities Actors & Actresses Keke Palmer Who is Keke Palmer? Flag Who is Keke Palmer? Answer by Megan Zulueta Confidence votes 11.9KKeke Palmer (full name Lauren Keyana Palmer) is an actress on the Nickelodeon teen show \"\"True Jackson,",
+  "history": {
+    "url": "http://www.answers.com/Q/Who_is_Keke_Palmer",
+    "title": "Who is Keke Palmer?",
+    "description": "\"Answers.com \u00ae Wiki Answers \u00ae Categories Entertainment & Arts Celebrities Actors & Actresses Keke Palmer Who is Keke Palmer? Flag Who is Keke Palmer? Answer by Megan Zulueta Confidence votes 11.9KKeke Palmer (full name Lauren Keyana Palmer) is an actress on the Nickelodeon teen show \"\"True Jackson, ",
+    "frecency": 1910,
+    "url_hash": 72697150042355,
+    "last_visit_date": 1758203927610111
+  }
+}

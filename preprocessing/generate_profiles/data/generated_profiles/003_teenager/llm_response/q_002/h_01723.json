@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Surrealism \"From Wikipedia, the free encyclopedianavigation search Surrealism Max Ernst, The Elephant Celebes, 1921, Tate London Years active 1920s\u20131930s Country France, Belgium Major figures Breton, Dal\u00ed, Ernst, Magritte Influences Dada Influenced Abstract expressionism, Post-modernism Part of a series on Sur",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Surrealism and related artists, not easy DIY room decoration ideas; topic does not match.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Surrealism \"From Wikipedia, the free encyclopedianavigation search Surrealism Max Ernst, The Elephant Celebes, 1921, Tate London Years active 1920s\u20131930s Country France, Belgium Major figures Breton, Dal\u00ed, Ernst, Magritte Influences Dada Influenced Abstract expressionism, Post-modernism Part of a series on Sur",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Surrealism",
+    "title": "Surrealism",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search Surrealism Max Ernst, The Elephant Celebes, 1921, Tate London Years active 1920s\u20131930s Country France, Belgium Major figures Breton, Dal\u00ed, Ernst, Magritte Influences Dada Influenced Abstract expressionism, Post-modernism Part of a series on Sur",
+    "frecency": 3235,
+    "url_hash": 34769986051279,
+    "last_visit_date": 1758203929769228
+  }
+}

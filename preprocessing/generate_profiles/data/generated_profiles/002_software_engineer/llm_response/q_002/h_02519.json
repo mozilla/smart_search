@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Robert Newman (comedian) \\\"From Wikipedia, the free encyclopedianavigation search Robert Newman Newman at a reading and signing for his novel The Trade Secret in 2013Born Robert Newman 7 July 1964 (age 53)Residence London, UKOccupation Comedian Author Actor Known for Political activism Website www.robnewman.com Robert \\\\\"Rob\\\\\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns a comedian/author named Robert Newman, not related to IDEs or software development.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Robert Newman (comedian) \"From Wikipedia, the free encyclopedianavigation search Robert Newman Newman at a reading and signing for his novel The Trade Secret in 2013Born Robert Newman 7 July 1964 (age 53)Residence London, UKOccupation Comedian Author Actor Known for Political activism Website www.robnewman.com Robert \"\"Rob\"",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Robert_Newman_(comedian)",
+    "title": "Robert Newman (comedian)",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search Robert Newman Newman at a reading and signing for his novel The Trade Secret in 2013Born Robert Newman 7 July 1964 (age 53)Residence London, UKOccupation Comedian Author Actor Known for Political activism Website www.robnewman.com Robert \"\"Rob\"",
+    "frecency": 450,
+    "url_hash": 41308114208430,
+    "last_visit_date": 1758203931304111
+  }
+}

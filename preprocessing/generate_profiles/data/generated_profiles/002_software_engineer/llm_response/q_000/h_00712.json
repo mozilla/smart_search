@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "MissionScience Mission Science Has Been Retired Mission Science ( http://missionscience.nasa.gov) has been retired. We encourage you to visit https://science.nasa.gov to learn about NASA science and other resources for learners. If you are looking for the Electromagnetic Spectrum, please bookmark the new URL: http",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses a retired NASA Mission Science site and redirects to general NASA science pages; it contains no information about debugging APIs or API integration, thus not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "MissionScience Mission Science Has Been Retired Mission Science ( http://missionscience.nasa.gov) has been retired. We encourage you to visit https://science.nasa.gov to learn about NASA science and other resources for learners. If you are looking for the Electromagnetic Spectrum, please bookmark the new URL: http",
+  "history": {
+    "url": "http://missionscience.nasa.gov/ems/13_radiationbudget.html",
+    "title": "MissionScience",
+    "description": "Mission Science Has Been Retired Mission Science ( http://missionscience.nasa.gov) has been retired. We encourage you to visit https://science.nasa.gov to learn about NASA science and other resources for learners. If you are looking for the Electromagnetic Spectrum, please bookmark the new URL: http",
+    "frecency": 3744,
+    "url_hash": 79924102475923,
+    "last_visit_date": 1758203932348111
+  }
+}

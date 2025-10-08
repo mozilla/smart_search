@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Hi I'm Nathan Osmond I'm a professional singer/songwriter and motivational speaker. I'm a Mormon. About Me My name is Nathan Osmond and I am Donny & Marie's favorite nephew! I am the son of Alan Osmond the oldest performing Osmond and Suzanne Osmond. I'm the second oldest of 8 boys! I am a Country",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a personal bio about Nathan Osmond and unrelated to IDEs or software development.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Hi I'm Nathan Osmond \"Hi I'm Nathan Osmond I'm a professional singer/songwriter and motivational speaker. I'm a Mormon. About Me My name is Nathan Osmond and I am Donny & Marie's favorite nephew! I am the son of Alan Osmond the oldest performing Osmond and Suzanne Osmond. I'm the second oldest of 8 boys! I am a Country",
+  "history": {
+    "url": "https://www.mormon.org/me/42RJ",
+    "title": "Hi I'm Nathan Osmond",
+    "description": "\"Hi I'm Nathan Osmond I'm a professional singer/songwriter and motivational speaker. I'm a Mormon. About Me My name is Nathan Osmond and I am Donny & Marie's favorite nephew! I am the son of Alan Osmond the oldest performing Osmond and Suzanne Osmond. I'm the second oldest of 8 boys! I am a Country ",
+    "frecency": 942,
+    "url_hash": 2413253315482,
+    "last_visit_date": 1758203927440200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "The Walking Dead TV Show Timeline \"The following is a timeline for the TV show, explaining what happened each day. Citations are given for almost every single day; the overall timeline of 20 months is not a guess, but rather a careful count of everything that we have seen in the show so far. According to Fear The Walking Dead the ye",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The result is about a Walking Dead TV Show Timeline and not about apps, studying, or study habits; it is not relevant to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "The Walking Dead TV Show Timeline \"The following is a timeline for the TV show, explaining what happened each day. Citations are given for almost every single day; the overall timeline of 20 months is not a guess, but rather a careful count of everything that we have seen in the show so far. According to Fear The Walking Dead the ye",
+  "history": {
+    "url": "http://walkingdead.wikia.com/wiki/The_Walking_Dead_TV_Show_Timeline",
+    "title": "The Walking Dead TV Show Timeline",
+    "description": "\"The following is a timeline for the TV show, explaining what happened each day. Citations are given for almost every single day; the overall timeline of 20 months is not a guess, but rather a careful count of everything that we have seen in the show so far. According to Fear The Walking Dead the ye",
+    "frecency": 4357,
+    "url_hash": 97563811391876,
+    "last_visit_date": 1758203933421228
+  }
+}

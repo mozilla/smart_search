@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "What is Sedentary Behaviour? The Energy Expenditure Continuum Sedentary behavior is any waking behavior characterized by an energy expenditure \u22641.5 metabolic equivalents (METs), while in a sitting, reclining or lying posture. In general this means that any time a person is sitting or lying down, they are engaging in sedentary b",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses sedentary behaviour, not DIY room decoration ideas; thus not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "What is Sedentary Behaviour? The Energy Expenditure Continuum Sedentary behavior is any waking behavior characterized by an energy expenditure \u22641.5 metabolic equivalents (METs), while in a sitting, reclining or lying posture. In general this means that any time a person is sitting or lying down, they are engaging in sedentary b",
+  "history": {
+    "url": "http://www.sedentarybehaviour.org/what-is-sedentary-behaviour/",
+    "title": "What is Sedentary Behaviour?",
+    "description": "The Energy Expenditure Continuum Sedentary behavior is any waking behavior characterized by an energy expenditure \u22641.5 metabolic equivalents (METs), while in a sitting, reclining or lying posture. In general this means that any time a person is sitting or lying down, they are engaging in sedentary b",
+    "frecency": 1195,
+    "url_hash": 83936369274120,
+    "last_visit_date": 1758203933977228
+  }
+}

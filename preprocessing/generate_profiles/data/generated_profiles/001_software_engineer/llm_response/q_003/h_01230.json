@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Computer Security Resource Center \"Post-Quantum Crypto: Round 1 Submissions Available for Review and Comment!Researchers Publish Book on Attribute-Based Access Control Comment on Draft Cybersecurity Publications For 20 years, the Computer Security Resource Center (CSRC) has provided access to NIST's cybersecurity- and information se",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page concerns cybersecurity topics (Post-Quantum Crypto, Access Control, NIST CSRC) and does not discuss database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Computer Security Resource Center \"Post-Quantum Crypto: Round 1 Submissions Available for Review and Comment!Researchers Publish Book on Attribute-Based Access Control Comment on Draft Cybersecurity Publications For 20 years, the Computer Security Resource Center (CSRC) has provided access to NIST's cybersecurity- and information se",
+  "history": {
+    "url": "http://csrc.nist.gov/index.html",
+    "title": "Computer Security Resource Center",
+    "description": "\"Post-Quantum Crypto: Round 1 Submissions Available for Review and Comment!Researchers Publish Book on Attribute-Based Access Control Comment on Draft Cybersecurity Publications For 20 years, the Computer Security Resource Center (CSRC) has provided access to NIST's cybersecurity- and information se",
+    "frecency": 659,
+    "url_hash": 26456018570604,
+    "last_visit_date": 1758203927476200
+  }
+}

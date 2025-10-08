@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Premature Babies Premature Babies Also called: Preemies On this page Basics Summary Start Here Latest News Treatments and Therapies Learn More Living With Related Issues Specifics See, Play and Learn No links available Research Statistics and Research Clinical Trials Journal Articles Resources Find an Expert For You",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The page is about premature babies, not sports or improving athletic ability.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Premature Babies Premature Babies Also called: Preemies On this page Basics Summary Start Here Latest News Treatments and Therapies Learn More Living With Related Issues Specifics See, Play and Learn No links available Research Statistics and Research Clinical Trials Journal Articles Resources Find an Expert For You",
+  "history": {
+    "url": "https://www.nlm.nih.gov/medlineplus/prematurebabies.html",
+    "title": "Premature Babies",
+    "description": "Premature Babies Also called: Preemies On this page Basics Summary Start Here Latest News Treatments and Therapies Learn More Living With Related Issues Specifics See, Play and Learn No links available Research Statistics and Research Clinical Trials Journal Articles Resources Find an Expert For You",
+    "frecency": 2876,
+    "url_hash": 84109048694450,
+    "last_visit_date": 1758203933395228
+  }
+}

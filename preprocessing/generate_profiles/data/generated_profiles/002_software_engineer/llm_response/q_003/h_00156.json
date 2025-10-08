@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "About Solar Energy About Solar Energy Share Solar power is energy from the sun that is converted into thermal or electrical energy. Solar energy is the cleanest and most abundant renewable energy source available, and the U. S. has some of the richest solar resources in the world. Modern technology can harness this en",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page discusses solar energy and is unrelated to database queries or query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "About Solar Energy About Solar Energy Share Solar power is energy from the sun that is converted into thermal or electrical energy. Solar energy is the cleanest and most abundant renewable energy source available, and the U. S. has some of the richest solar resources in the world. Modern technology can harness this en",
+  "history": {
+    "url": "http://www.seia.org/about/solar-energy",
+    "title": "About Solar Energy",
+    "description": "About Solar Energy Share Solar power is energy from the sun that is converted into thermal or electrical energy. Solar energy is the cleanest and most abundant renewable energy source available, and the U. S. has some of the richest solar resources in the world. Modern technology can harness this en",
+    "frecency": 4739,
+    "url_hash": 35067169746092,
+    "last_visit_date": 1758203931278111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "If my salary is $50,000 a year, how much is deducted in Ontario? Business & Finance Taxes Canada If my salary is $50,000 a year, how much is deducted in Ontario? Including CPP, tax and all that would my yearly salary be about $24000 because that would be BULLSHIT. I used the calculator from CRA.. That doesn't make sense, why f*king study then when I can make that",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about salary taxes in Ontario, not about Python libraries or machine learning. It is not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "If my salary is $50,000 a year, how much is deducted in Ontario? Business & Finance Taxes Canada If my salary is $50,000 a year, how much is deducted in Ontario? Including CPP, tax and all that would my yearly salary be about $24000 because that would be BULLSHIT. I used the calculator from CRA.. That doesn't make sense, why f*king study then when I can make that",
+  "history": {
+    "url": "https://answers.yahoo.com/question/index?qid=20101106210510AA4SPCc",
+    "title": "If my salary is $50,000 a year, how much is deducted in Ontario?",
+    "description": "Business & Finance Taxes Canada If my salary is $50,000 a year, how much is deducted in Ontario? Including CPP, tax and all that would my yearly salary be about $24000 because that would be BULLSHIT. I used the calculator from CRA.. That doesn't make sense, why f*king study then when I can make that",
+    "frecency": 841,
+    "url_hash": 93433788366847,
+    "last_visit_date": 1758203931254111
+  }
+}

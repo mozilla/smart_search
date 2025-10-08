@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Our Portfolio Smithsonian Channel Smithsonian Channel is owned by Smithsonian Networks, a joint venture between Showtime Networks Inc. and the Smithsonian Institution. Its programs are largely inspired by the assets of the world\u2019s largest museum complex. Smithsonian Channel features award-winning original documen",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes Smithsonian Channel and its programs, not content about improving sports performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Our Portfolio Smithsonian Channel Smithsonian Channel is owned by Smithsonian Networks, a joint venture between Showtime Networks Inc. and the Smithsonian Institution. Its programs are largely inspired by the assets of the world\u2019s largest museum complex. Smithsonian Channel features award-winning original documen",
+  "history": {
+    "url": "https://www.cbscorporation.com/portfolio/smithsonian-channel/",
+    "title": "Our Portfolio",
+    "description": "Smithsonian Channel Smithsonian Channel is owned by Smithsonian Networks, a joint venture between Showtime Networks Inc. and the Smithsonian Institution. Its programs are largely inspired by the assets of the world\u2019s largest museum complex. Smithsonian Channel features award-winning original documen",
+    "frecency": 1412,
+    "url_hash": 10398141609291,
+    "last_visit_date": 1758203932117228
+  }
+}

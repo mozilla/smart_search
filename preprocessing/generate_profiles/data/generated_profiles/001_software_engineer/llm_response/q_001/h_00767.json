@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Scripting This article is a portal for reference articles for scripting in Roblox. If you want beginner tutorials instead, go to the Intro_to_Scripting page. Contents [ hide ]1 Lua Programming Language2 Tutorials3 Environments and Libraries4 Math5 Types5.1 Basic Types5.2 Roblox-Defined Types6 Global Functions",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The page is about Roblox Lua scripting and tutorials, not about Python libraries or machine learning; therefore it is not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Scripting This article is a portal for reference articles for scripting in Roblox. If you want beginner tutorials instead, go to the Intro_to_Scripting page. Contents [ hide ]1 Lua Programming Language2 Tutorials3 Environments and Libraries4 Math5 Types5.1 Basic Types5.2 Roblox-Defined Types6 Global Functions",
+  "history": {
+    "url": "http://wiki.roblox.com/?title=Scripting",
+    "title": "Scripting",
+    "description": "This article is a portal for reference articles for scripting in Roblox. If you want beginner tutorials instead, go to the Intro_to_Scripting page. Contents [ hide ]1 Lua Programming Language2 Tutorials3 Environments and Libraries4 Math5 Types5.1 Basic Types5.2 Roblox-Defined Types6 Global Functions",
+    "frecency": 2427,
+    "url_hash": 11462176083163,
+    "last_visit_date": 1758203927598200
+  }
+}

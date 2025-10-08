@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Greek literature Greek literature, body of writings in the Greek language, with a continuous history extending from the 1st millennium bc to the present day. From the beginning its writers were Greeks living not only in Greece proper but also in Asia Minor, the Aegean Islands, and Magna Graecia (Sicily and southern",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes Greek literature, not DIY room decoration ideas; it is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Greek literature Greek literature, body of writings in the Greek language, with a continuous history extending from the 1st millennium bc to the present day. From the beginning its writers were Greeks living not only in Greece proper but also in Asia Minor, the Aegean Islands, and Magna Graecia (Sicily and southern",
+  "history": {
+    "url": "https://www.britannica.com/art/Greek-literature",
+    "title": "Greek literature",
+    "description": "Greek literature, body of writings in the Greek language, with a continuous history extending from the 1st millennium bc to the present day. From the beginning its writers were Greeks living not only in Greece proper but also in Asia Minor, the Aegean Islands, and Magna Graecia (Sicily and southern ",
+    "frecency": 1164,
+    "url_hash": 48739391170471,
+    "last_visit_date": 1758203929731228
+  }
+}

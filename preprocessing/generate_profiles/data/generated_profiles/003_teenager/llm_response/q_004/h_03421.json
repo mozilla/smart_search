@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "5 Great Beginner Fender Electric Guitars Fender Play SPECIAL OFFER: SAVE 50%. Learn guitar for only $9.99/month. START FOR FREE.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns guitars and guitar lessons, which are unrelated to improving performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "5 Great Beginner Fender Electric Guitars Fender Play SPECIAL OFFER: SAVE 50%. Learn guitar for only $9.99/month. START FOR FREE.",
+  "history": {
+    "url": "http://www2.fender.com/experience/fender-tone/5-great-beginner-fender-electric-guitars/",
+    "title": "5 Great Beginner Fender Electric Guitars",
+    "description": "Fender Play SPECIAL OFFER: SAVE 50%. Learn guitar for only $9.99/month. START FOR FREE. ",
+    "frecency": 1426,
+    "url_hash": 42504257827082,
+    "last_visit_date": 1758203929761228
+  }
+}

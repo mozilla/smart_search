@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "\"Construction\u00e2s \"\"Fatal Four\"\": Tips for Prevention\" \"According to the Occupational Safety and Health Administration (OSHA), one in five worker deaths in 2014 occurred in the construction industry. Of those fatalities, 60 percent were caused by just four types of accidents. These accidents are known as the \u201cfatal four\u201d of the construction industry: fa",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about construction safety and fatalities, which is unrelated to debugging APIs or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "\"Construction\u00e2s \"\"Fatal Four\"\": Tips for Prevention\" \"According to the Occupational Safety and Health Administration (OSHA), one in five worker deaths in 2014 occurred in the construction industry. Of those fatalities, 60 percent were caused by just four types of accidents. These accidents are known as the \u201cfatal four\u201d of the construction industry: fa",
+  "history": {
+    "url": "https://www.kansascityaccidentinjuryattorneys.com/blog/the-leading-causes-of-death-on-construction-sites.cfm",
+    "title": "\"Construction\u00e2s \"\"Fatal Four\"\": Tips for Prevention\"",
+    "description": "\"According to the Occupational Safety and Health Administration (OSHA), one in five worker deaths in 2014 occurred in the construction industry. Of those fatalities, 60 percent were caused by just four types of accidents. These accidents are known as the \u201cfatal four\u201d of the construction industry: fa",
+    "frecency": 4990,
+    "url_hash": 35955631707175,
+    "last_visit_date": 1758203927764111
+  }
+}

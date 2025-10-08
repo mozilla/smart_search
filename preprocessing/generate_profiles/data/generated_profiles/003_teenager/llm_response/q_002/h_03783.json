@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "CBS, Donny Osmond Re-Name That Tune \"Today\u2019s News CBS, Donny Osmond Re-Name That Tune By Matt Mitovich | Oct 10, 2006 2:25 PM EDTVariety reports that CBS is prepping a new version of the classic game show Name That Tune, to be hosted by the white and nerdy Donny Osmond. Fancied as \" American Idol meets Deal or No Deal ,\" the latest",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns a television game show and a celebrity, not DIY room decoration ideas; it does not address the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "CBS, Donny Osmond Re-Name That Tune \"Today\u2019s News CBS, Donny Osmond Re-Name That Tune By Matt Mitovich | Oct 10, 2006 2:25 PM EDTVariety reports that CBS is prepping a new version of the classic game show Name That Tune, to be hosted by the white and nerdy Donny Osmond. Fancied as \"\" American Idol meets Deal or No Deal ,\"\" the latest",
+  "history": {
+    "url": "http://www.tvguide.com/news/cbs-donny-osmond-11934/",
+    "title": "CBS, Donny Osmond Re-Name That Tune",
+    "description": "\"Today\u2019s News CBS, Donny Osmond Re-Name That Tune By Matt Mitovich | Oct 10, 2006 2:25 PM EDTVariety reports that CBS is prepping a new version of the classic game show Name That Tune, to be hosted by the white and nerdy Donny Osmond. Fancied as \"\" American Idol meets Deal or No Deal ,\"\" the latest ",
+    "frecency": 1070,
+    "url_hash": 90168169424284,
+    "last_visit_date": 1758203932283228
+  }
+}

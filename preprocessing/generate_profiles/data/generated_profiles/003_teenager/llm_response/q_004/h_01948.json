@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Weights and balances \"Weights and balances\"by Chris Woodford. Last updated: August 28, 2017. How many times do you weigh things in the course of a day? If you're on a diet, chances are you stand on scales each morning to check your progress. If you're having breakfast, you might weigh out what to eat by filling a bowl with",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses weighing and dieting, not sports performance or methods to improve athletic ability.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Weights and balances \"Weights and balancesby Chris Woodford. Last updated: August 28, 2017. H ow many times do you weigh things in the course of a day? If you're on a diet, chances are you stand on scales each morning to check your progress. If you're having breakfast, you might weigh out what to eat by filling a bowl w",
+  "history": {
+    "url": "http://www.explainthatstuff.com/weights_and_balances.html",
+    "title": "Weights and balances",
+    "description": "\"Weights and balancesby Chris Woodford. Last updated: August 28, 2017. H ow many times do you weigh things in the course of a day? If you're on a diet, chances are you stand on scales each morning to check your progress. If you're having breakfast, you might weigh out what to eat by filling a bowl w",
+    "frecency": 3006,
+    "url_hash": 53991390258433,
+    "last_visit_date": 1758203931345228
+  }
+}

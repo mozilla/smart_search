@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "USB Host Mass Storage Client Driver (Windows Embedded CE 6.0) Docs Previous Versions USB Host Client Drivers USB Host Mass Storage Client Driver USB Host Mass Storage Client Driver (Windows Embedded CE 6.0)January 5, 2012 2 minutes to read In this article USB Host Mass Storage Client Driver Interface USB Host Mass Storage Client Driver Limitations and Known Is",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page discusses USB host mass storage drivers for Windows Embedded CE 6.0, not debugging API integration; topic is unrelated to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "USB Host Mass Storage Client Driver (Windows Embedded CE 6.0) Docs Previous Versions USB Host Client Drivers USB Host Mass Storage Client Driver USB Host Mass Storage Client Driver (Windows Embedded CE 6.0)January 5, 2012 2 minutes to read In this article USB Host Mass Storage Client Driver Interface USB Host Mass Storage Client Driver Limitations and Known Is",
+  "history": {
+    "url": "https://msdn.microsoft.com/en-us/library/ee486684(v=winembedded.60).aspx",
+    "title": "USB Host Mass Storage Client Driver (Windows Embedded CE 6.0)",
+    "description": "Docs Previous Versions USB Host Client Drivers USB Host Mass Storage Client Driver USB Host Mass Storage Client Driver (Windows Embedded CE 6.0)January 5, 2012 2 minutes to read In this article USB Host Mass Storage Client Driver Interface USB Host Mass Storage Client Driver Limitations and Known Is",
+    "frecency": 3061,
+    "url_hash": 12755020917437,
+    "last_visit_date": 1758203928216200
+  }
+}

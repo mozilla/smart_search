@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Winter fishing: Trout run year-round at this Mo. park \"Facebook Twitter Google+ Linked In Fishermen flock to Montauk State Park Fullscreen Regular stockings keep the waters of Missouri's Montauk State Park laden with rainbow trout. Gary Garth for USA TODAYFullscreen1 of 18Next Slide18 Photos Fishermen flock to Montauk State Park (Photo: Gary Garth for",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns winter fishing at Montauk State Park, not easy DIY room decoration ideas; it is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Winter fishing: Trout run year-round at this Mo. park \"Facebook Twitter Google+ Linked In Fishermen flock to Montauk State Park Fullscreen Regular stockings keep the waters of Missouri's Montauk State Park laden with rainbow trout. Gary Garth for USA TODAYFullscreen1 of 18Next Slide18 Photos Fishermen flock to Montauk State Park (Photo: Gary Garth for",
+  "history": {
+    "url": "https://www.usatoday.com/story/travel/destinations/2017/02/03/trout-fishing-missouri/97406268/",
+    "title": "Winter fishing: Trout run year-round at this Mo. park",
+    "description": "\"Facebook Twitter Google+ Linked In Fishermen flock to Montauk State Park Fullscreen Regular stockings keep the waters of Missouri's Montauk State Park laden with rainbow trout. Gary Garth for USA TODAYFullscreen1 of 18Next Slide18 Photos Fishermen flock to Montauk State Park (Photo: Gary Garth for ",
+    "frecency": 1049,
+    "url_hash": 3950361353446,
+    "last_visit_date": 1758203928335139
+  }
+}

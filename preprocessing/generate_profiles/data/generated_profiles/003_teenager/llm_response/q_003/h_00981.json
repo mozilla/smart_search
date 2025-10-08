@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Cost of Living in Winnipeg \\\"Cost Of Living Cost Of Living Cost of Living Comparison Cost Of Living Calculator Cost Of Living Index Cost Of Living Index (Current)Cost Of Living Rankings By Country Cost of Living Estimator Prices By City Prices By Country Historical Data in a City by Year Historical Data in a Year by City Food\\\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns cost of living in Winnipeg and related topics; it does not address study habits or apps for improving them.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Cost of Living in Winnipeg \"Cost Of Living Cost Of Living Cost of Living Comparison Cost of Living Calculator Cost Of Living Index Cost Of Living Index (Current)Cost Of Living Rankings By Country Cost of Living Estimator Prices By City Prices By Country Historical Data in a City by Year Historical Data in a Year by City Food",
+  "history": {
+    "url": "http://www.numbeo.com/cost-of-living/city_result.jsp?country=Canada&city=Winnipeg",
+    "title": "Cost of Living in Winnipeg",
+    "description": "\"Cost Of Living Cost Of Living Cost of Living Comparison Cost of Living Calculator Cost Of Living Index Cost Of Living Index (Current)Cost Of Living Rankings By Country Cost of Living Estimator Prices By City Prices By Country Historical Data in a City by Year Historical Data in a Year by City Food ",
+    "frecency": 3981,
+    "url_hash": 56452043291233,
+    "last_visit_date": 1758203928278735
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "How speed and frequency of a processor are related to each other? [closed] \\\"_Super User is a question and answer site for computer enthusiasts and power users. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top How speed and frequency of a processor are related to e\\\"",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about processor speed/frequency and does not pertain to debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "How speed and frequency of a processor are related to each other? [closed] \"_Super User is a question and answer site for computer enthusiasts and power users. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top How speed and frequency of a processor are related to e",
+  "history": {
+    "url": "https://superuser.com/questions/470001/how-speed-and-frequency-of-a-processor-are-related-to-each-other",
+    "title": "How speed and frequency of a processor are related to each other? [closed]",
+    "description": "\"_Super User is a question and answer site for computer enthusiasts and power users. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top How speed and frequency of a processor are related to e",
+    "frecency": 1245,
+    "url_hash": 30390535554508,
+    "last_visit_date": 1758203926834200
+  }
+}

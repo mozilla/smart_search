@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Everyday Sadists Walk Among Us, Study Says \\\"Whether it's the Marquis de Sade, the evil stepmother from Snow White, or Nurse Ratched from One Flew Over The Cuckoo's Nest, all sadists take great pleasure in inflicting pain on others. Fortunately, you are unlikely to meet those particular three anytime soon, but according to an unusual duo of s",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses sadists and is unrelated to DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Everyday Sadists Walk Among Us, Study Says \"Whether it's the Marquis de Sade, the evil stepmother from Snow White, or Nurse Ratched from One Flew Over The Cuckoo's Nest, all sadists take great pleasure in inflicting pain on others. Fortunately, you are unlikely to meet those particular three anytime soon, but according to an unusual duo of s",
+  "history": {
+    "url": "https://www.everydayhealth.com/emotional-health/everyday-sadists-walk-among-us-study-says.aspx",
+    "title": "Everyday Sadists Walk Among Us, Study Says",
+    "description": "\"Whether it's the Marquis de Sade, the evil stepmother from Snow White, or Nurse Ratched from One Flew Over The Cuckoo's Nest, all sadists take great pleasure in inflicting pain on others. Fortunately, you are unlikely to meet those particular three anytime soon, but according to an unusual duo of s",
+    "frecency": 4529,
+    "url_hash": 5508123331722,
+    "last_visit_date": 1758203936061228
+  }
+}

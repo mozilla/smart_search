@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Binary data \"From Wikipedia, the free encyclopedianavigation search This article does not cite any sources. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (June 2012) ( Learn how and when to remove this template message)Binary data is",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result appears to be unrelated binary data, not content about Docker setup or beginner tutorials.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Binary data \"From Wikipedia, the free encyclopedianavigation search This article does not cite any sources. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (June 2012) ( Learn how and when to remove this template message)Binary data is",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Binary_data",
+    "title": "Binary data",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search This article does not cite any sources. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (June 2012) ( Learn how and when to remove this template message)Binary data is ",
+    "frecency": 4701,
+    "url_hash": 46717433373345,
+    "last_visit_date": 1758203927138200
+  }
+}

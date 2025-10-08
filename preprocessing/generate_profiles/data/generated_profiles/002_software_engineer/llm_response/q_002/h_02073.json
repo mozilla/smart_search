@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "What is a Warehouse Manager? A warehouse manager is a supervisor at a product storage facility or distribution center. He or she is responsible for directing workers in their daily activities and implementing new policies to improve productivity, safety, and quality. Professionals also perform administrative duties, such as set",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes warehouse management, not IDEs or software development; it is not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "What is a Warehouse Manager? A warehouse manager is a supervisor at a product storage facility or distribution center. He or she is responsible for directing workers in their daily activities and implementing new policies to improve productivity, safety, and quality. Professionals also perform administrative duties, such as set",
+  "history": {
+    "url": "http://www.wisegeek.com/what-is-a-warehouse-manager.htm",
+    "title": "What is a Warehouse Manager?",
+    "description": "A warehouse manager is a supervisor at a product storage facility or distribution center. He or she is responsible for directing workers in their daily activities and implementing new policies to improve productivity, safety, and quality. Professionals also perform administrative duties, such as set",
+    "frecency": 1238,
+    "url_hash": 76237813351438,
+    "last_visit_date": 1758203931374111
+  }
+}

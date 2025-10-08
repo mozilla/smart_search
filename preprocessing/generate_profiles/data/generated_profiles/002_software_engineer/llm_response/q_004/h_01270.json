@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "About Expression Blend Docs Previous Versions Visual Studio About Expression Blend October 10, 2017 5 minutes to read In this article How does Expression Blend work? What other tools work with Expression Blend? What does Expression Blend produce? What features come with Expression Blend? Target application types Best prac",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The result discusses Expression Blend (a design tool) rather than Docker, so it is not relevant to 'Docker setup for beginners'.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "About Expression Blend Docs Previous Versions Visual Studio About Expression Blend October 10, 2017 5 minutes to read In this article How does Expression Blend work? What other tools work with Expression Blend? What does Expression Blend produce? What features come with Expression Blend? Target application types Best prac",
+  "history": {
+    "url": "https://msdn.microsoft.com/en-us/library/cc296376.aspx",
+    "title": "About Expression Blend",
+    "description": "Docs Previous Versions Visual Studio About Expression Blend October 10, 2017 5 minutes to read In this article How does Expression Blend work? What other tools work with Expression Blend? What does Expression Blend produce? What features come with Expression Blend? Target application types Best prac",
+    "frecency": 2718,
+    "url_hash": 85545357781863,
+    "last_visit_date": 1758203929794111
+  }
+}

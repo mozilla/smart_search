@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "The Fine Print The Fine Print The Bright Cellars Experience The Bright Cellars Experience is a monthly wine subscription that matches you with unique wines based on your preferences. Once per month, you will automatically receive new wines chosen specifically for you! Members are able to skip months, postpone thei",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a wine subscription, not about apps or studying; it is unrelated to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "The Fine Print The Fine Print The Bright Cellars Experience The Bright Cellars Experience is a monthly wine subscription that matches you with unique wines based on your preferences. Once per month, you will automatically receive new wines chosen specifically for you! Members are able to skip months, postpone thei",
+  "history": {
+    "url": "https://www.brightcellars.com/terms/",
+    "title": "The Fine Print",
+    "description": "The Fine Print The Bright Cellars Experience The Bright Cellars Experience is a monthly wine subscription that matches you with unique wines based on your preferences. Once per month, you will automatically receive new wines chosen specifically for you! Members are able to skip months, postpone thei",
+    "frecency": 3936,
+    "url_hash": 23051286697677,
+    "last_visit_date": 1758203929058735
+  }
+}

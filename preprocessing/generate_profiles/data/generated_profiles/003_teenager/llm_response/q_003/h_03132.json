@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Do You Suffer From Food Allergies? \"Dessert Foods Ice Cream, Ice Pops & Frozen Novelties Blue Bunny Orange Sherbet: Calories, Nutrition Analysis & More Blue Bunny Orange Sherbet110 Calories Per serving FREE: You can\u2019t exercise your way out of a bad diet. Food Facts shows you how to change the way you eat, by showing you what's in the",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about food allergies and nutrition, not about study habits or apps for improving study habits; it does not address the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Do You Suffer From Food Allergies? \"Dessert Foods Ice Cream, Ice Pops & Frozen Novelties Blue Bunny Orange Sherbet: Calories, Nutrition Analysis & More Blue Bunny Orange Sherbet110 Calories Per serving FREE: You can\u2019t exercise your way out of a bad diet. Food Facts shows you how to change the way you eat, by showing you what's in the",
+  "history": {
+    "url": "http://www.foodfacts.com/ci/nutritionfacts/Dessert-Foods/Blue-Bunny-Orange-Sherbet--Pint/73717",
+    "title": "Do You Suffer From Food Allergies?",
+    "description": "\"Dessert Foods Ice Cream, Ice Pops & Frozen Novelties Blue Bunny Orange Sherbet: Calories, Nutrition Analysis & More Blue Bunny Orange Sherbet110 Calories Per serving FREE: You can\u2019t exercise your way out of a bad diet. Food Facts shows you how to change the way you eat, by showing you what's in the",
+    "frecency": 1708,
+    "url_hash": 90041590193098,
+    "last_visit_date": 1758203931239228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Okmulgee, OK Population and Races USA.com / Oklahoma / Okmulgee, OK / Population and Races Okmulgee, OK Population and Races Basic Info Population/Races Income/Careers Housing Education Crime/Crime Rate Others Hot Rankings Fastest / Slowest Growing Cities Nearby Best / Worst Cities by Crime Rate Nearby Richest / Poorest Cities by In",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a demographic/statistical page about Okmulgee, OK and does not relate to debugging API integration; no content about APIs, debugging, or integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Okmulgee, OK Population and Races USA.com / Oklahoma / Okmulgee, OK / Population and Races Okmulgee, OK Population and Races Basic Info Population/Races Income/Careers Housing Education Crime/Crime Rate Others Hot Rankings Fastest / Slowest Growing Cities Nearby Best / Worst Cities by Crime Rate Nearby Richest / Poorest Cities by In",
+  "history": {
+    "url": "http://www.usa.com/okmulgee-ok-population-and-races.htm",
+    "title": "Okmulgee, OK Population and Races",
+    "description": "USA.com / Oklahoma / Okmulgee, OK / Population and Races Okmulgee, OK Population and Races Basic Info Population/Races Income/Careers Housing Education Crime/Crime Rate Others Hot Rankings Fastest / Slowest Growing Cities Nearby Best / Worst Cities by Crime Rate Nearby Richest / Poorest Cities by In",
+    "frecency": 2089,
+    "url_hash": 60107293902445,
+    "last_visit_date": 1758203929378200
+  }
+}

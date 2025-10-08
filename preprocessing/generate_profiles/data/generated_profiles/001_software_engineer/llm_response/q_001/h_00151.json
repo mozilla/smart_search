@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Thinking on Your Feet by the Mind Tools Content Team (93). Staying Cool and Confident Under Pressure. This content is about soft skills and does not relate to Python libraries or machine learning.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is unrelated to the query topic of Python libraries for machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Thinking on Your Feet \"By the Mind Tools Content Team (93)Thinking on Your Feet Staying Cool and Confident Under Pressure\u00a9 i Stockphoto Alex Sava\"\"So, Susan, your report indicates you support forging ahead with the expansion, but have you considered the impact that this will have on our customers? Surely you remember the",
+  "history": {
+    "url": "https://www.mindtools.com/pages/article/ThinkingonYourFeet.htm",
+    "title": "Thinking on Your Feet",
+    "description": "\"By the Mind Tools Content Team (93)Thinking on Your Feet Staying Cool and Confident Under Pressure\u00a9 i Stockphoto Alex Sava\"\"So, Susan, your report indicates you support forging ahead with the expansion, but have you considered the impact that this will have on our customers? Surely you remember the",
+    "frecency": 4471,
+    "url_hash": 36414017799844,
+    "last_visit_date": 1758203929452200
+  }
+}

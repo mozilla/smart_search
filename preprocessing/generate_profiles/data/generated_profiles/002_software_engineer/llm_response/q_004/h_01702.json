@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Three Great Options Tweet Three Great Options Cutting a diamond is no simple matter; it takes precision and skill to cut the rough diamond in a way that will ensure maximum diamond brilliance and sparkle. It all began back in the 15 th century when diamond cutters first started to explore the best way to cut a diamond.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses diamond cutting and gemstones, not Docker or container setup, thus not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Three Great Options Tweet Three Great Options Cutting a diamond is no simple matter; it takes precision and skill to cut the rough diamond in a way that will ensure maximum diamond brilliance and sparkle. It all began back in the 15 th century when diamond cutters first started to explore the best way to cut a diamond.",
+  "history": {
+    "url": "http://www.mazaldiamond.com/blog-en/types-of-diamond-cut/",
+    "title": "Three Great Options",
+    "description": "Tweet Three Great Options Cutting a diamond is no simple matter; it takes precision and skill to cut the rough diamond in a way that will ensure maximum diamond brilliance and sparkle. It all began back in the 15 th century when diamond cutters first started to explore the best way to cut a diamond.",
+    "frecency": 1918,
+    "url_hash": 87630586587215,
+    "last_visit_date": 1758203927598111
+  }
+}

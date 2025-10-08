@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Rumour has it Adele's been on a diet... Singer looks slimmer as she posts online picture to mark charity event The Oscar-winning singer cuts a much slimmer figure in the online photos She previously said she would only diet if weight risked health or love life She posted the candid snaps on Twitter",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Adele dieting gossip and charity posts, not related to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Rumour has it Adele's been on a diet... Singer looks slimmer as she posts online picture to mark charity event Rumour has it Adele's been on a diet... Singer looks slimmer as she posts online picture to mark charity event The Oscar-winning singer cuts a much slimmer figure in the online photos She previously said she would only diet if weight risked health or love life She posted the candid snaps on Twitter",
+  "history": {
+    "url": "http://www.dailymail.co.uk/tvshowbiz/article-2587093/Rumour-Adeles-diet-Singer-looks-slimmer-posts-online-picture-mark-charity-event.html",
+    "title": "Rumour has it Adele's been on a diet... Singer looks slimmer as she posts online picture to mark charity event",
+    "description": "Rumour has it Adele's been on a diet... Singer looks slimmer as she posts online picture to mark charity event The Oscar-winning singer cuts a much slimmer figure in the online photos She previously said she would only diet if weight risked health or love life She posted the candid snaps on Twitter ",
+    "frecency": 135,
+    "url_hash": 5146574844696,
+    "last_visit_date": 1758203930789228
+  }
+}

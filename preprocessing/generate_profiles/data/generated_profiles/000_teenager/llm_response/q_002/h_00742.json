@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "The Brood \"From Wikipedia, the free encyclopedianavigation search This article is about the 1979 film. For other uses, see Brood (disambiguation). This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be chall",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about the 1979 film 'The Brood' and not related to DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "The Brood \"From Wikipedia, the free encyclopedianavigation search This article is about the 1979 film. For other uses, see Brood (disambiguation). This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be chall",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/The_Brood",
+    "title": "The Brood",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search This article is about the 1979 film. For other uses, see Brood (disambiguation). This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be chall",
+    "frecency": 1835,
+    "url_hash": 96532930493459,
+    "last_visit_date": 1758203926865139
+  }
+}

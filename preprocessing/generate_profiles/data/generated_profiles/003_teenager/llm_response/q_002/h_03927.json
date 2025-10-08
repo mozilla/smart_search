@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Explore Our Cities! Explore Our Cities!Welcome to Calhoun County, home to Battle Creek, Marshall and Albion! Located in Southwest Michigan, our county offers something for everyone, from cities to villages, world-renowned music to historical sites, well-groomed nature trails, to a casino, mouth-watering food and a mult",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Calhoun County tourism and cities, not easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Explore Our Cities! Explore Our Cities!Welcome to Calhoun County, home to Battle Creek, Marshall and Albion! Located in Southwest Michigan, our county offers something for everyone, from cities to villages, world-renowned music to historical sites, well-groomed nature trails, to a casino, mouth-watering food and a mult",
+  "history": {
+    "url": "http://www.battlecreekvisitors.org/",
+    "title": "Explore Our Cities!",
+    "description": "Explore Our Cities!Welcome to Calhoun County, home to Battle Creek, Marshall and Albion! Located in Southwest Michigan, our county offers something for everyone, from cities to villages, world-renowned music to historical sites, well-groomed nature trails, to a casino, mouth-watering food and a mult",
+    "frecency": 928,
+    "url_hash": 18823497462200,
+    "last_visit_date": 1758203934539228
+  }
+}

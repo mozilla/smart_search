@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Why You Should Limit Sugar in Your Diet \"Why You Should Limit Sugar in Your Diet Fitday Editor Nutrition Healthy Eating Sure, everyday there's a new trend when it comes to nutrition and health. Today may be that tomatoes are the new kale, while tomorrow a select group of scientists may prove tomatoes carry more E. Coli than any other frui",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses nutrition, not IDEs or software development tools; not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Why You Should Limit Sugar in Your Diet \"Why You Should Limit Sugar in Your Diet Fitday Editor Nutrition Healthy Eating Sure, everyday there's a new trend when it comes to nutrition and health. Today may be that tomatoes are the new kale, while tomorrow a select group of scientists may prove tomatoes carry more E. Coli than any other frui",
+  "history": {
+    "url": "http://www.fitday.com/fitness-articles/nutrition/healthy-eating/why-you-should-limit-sugar-in-your-diet.html",
+    "title": "Why You Should Limit Sugar in Your Diet",
+    "description": "\"Why You Should Limit Sugar in Your Diet Fitday Editor Nutrition Healthy Eating Sure, everyday there's a new trend when it comes to nutrition and health. Today may be that tomatoes are the new kale, while tomorrow a select group of scientists may prove tomatoes carry more E. Coli than any other frui",
+    "frecency": 3568,
+    "url_hash": 48481736756077,
+    "last_visit_date": 1758203927638200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Elastic Sky The VCP 5 exam is a demanding 85 multiple choice questions in 90 minutes. The exam uses a scaled scoring method (some questions count more than others), a passing grade is 300 out of a maximum of 500Like similar vendor exams you can go back and forward through the questions until you submit your ans",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses a VCP5 exam rather than Docker tutorials or setup instructions; not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Elastic Sky The VCP 5 exam is a demanding 85 multiple choice questions in 90 minutes. The exam uses a scaled scoring method (some questions count more than others), a passing grade is 300 out of a maximum of 500Like similar vendor exams you can go back and forward through the questions until you submit your ans",
+  "history": {
+    "url": "http://www.elasticsky.co.uk/vcp/",
+    "title": "Elastic Sky",
+    "description": "The VCP 5 exam is a demanding 85 multiple choice questions in 90 minutes. The exam uses a scaled scoring method (some questions count more than others), a passing grade is 300 out of a maximum of 500Like similar vendor exams you can go back and forward through the questions until you submit your ans",
+    "frecency": 1783,
+    "url_hash": 13868822349179,
+    "last_visit_date": 1758203929260111
+  }
+}

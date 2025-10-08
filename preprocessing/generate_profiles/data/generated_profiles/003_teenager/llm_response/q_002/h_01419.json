@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Blow Me Away \"Blow Me Away\" Single by Breaking Benjamin from the album So Cold EP, Halo 2 Original Soundtrack and Shallow Bay: The Best of Breaking Benjamin",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a music track/album entry and not about easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Blow Me Away \"\"\"Blow Me Away\"\"Single by Breaking Benjaminfrom the album So Cold EP, Halo 2 Original Soundtrack and Shallow Bay: The Best of Breaking Benjamin Released November 3, 2004 February 23, 2010 June 7, 2011 (feat. Valora)Format Digital download Genre Alternative metal Length 3: 263: 09 (feat. Valora)Labe",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Blow_Me_Away",
+    "title": "Blow Me Away",
+    "description": "\"\"\"Blow Me Away\"\"Single by Breaking Benjaminfrom the album So Cold EP, Halo 2 Original Soundtrack and Shallow Bay: The Best of Breaking Benjamin Released November 3, 2004 February 23, 2010 June 7, 2011 (feat. Valora)Format Digital download Genre Alternative metal Length 3: 263: 09 (feat. Valora)Labe",
+    "frecency": 3557,
+    "url_hash": 60902360878640,
+    "last_visit_date": 1758203932981228
+  }
+}

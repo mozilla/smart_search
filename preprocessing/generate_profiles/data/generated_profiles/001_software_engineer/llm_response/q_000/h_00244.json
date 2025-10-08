@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Current Job Openings at Appian Corporation Become a critical part of daily Engineering execution. Own the activities required to orchestrate and continually ship Appian software. Provides support for administration and extension of release management infrastructure including Appian, JIRA, and eazy BI. Coordinate with organizations outside of",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The page is about job openings and engineering roles at Appian, not about debugging API integrations; it does not discuss debugging API integration concepts.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Current Job Openings at Appian Corporation Become a critical part of daily Engineering execution. Own the activities required to orchestrate and continually ship Appian software. Provides support for administration and extension of release management infrastructure including Appian, JIRA, and eazy BI. Coordinate with organizations outside of",
+  "history": {
+    "url": "https://boards.greenhouse.io/appian/jobs/970075",
+    "title": "Current Job Openings at Appian Corporation",
+    "description": "Become a critical part of daily Engineering execution. Own the activities required to orchestrate and continually ship Appian software. Provides support for administration and extension of release management infrastructure including Appian, JIRA, and eazy BI. Coordinate with organizations outside of",
+    "frecency": 4174,
+    "url_hash": 66991106396533,
+    "last_visit_date": 1758203927328200
+  }
+}

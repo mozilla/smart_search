@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Nomadic Expeditions Company Name: Nomadic Expeditions Type of Company (Wholesaler/Tour Company/Cruise Line/ETC. ): Tour Company Brief Description of Key Offerings: We offer set group departures and tailor-made itineraries for FITs to our destinations, most notably Mongolia. Our services range from adventure camping and",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a tour company and travel services, not Docker or software setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Nomadic Expeditions Company Name: Nomadic Expeditions Type of Company (Wholesaler/Tour Company/Cruise Line/ETC. ): Tour Company Brief Description of Key Offerings: We offer set group departures and tailor-made itineraries for FITs to our destinations, most notably Mongolia. Our services range from adventure camping and",
+  "history": {
+    "url": "http://www.departurelounge.com/nomadic-expeditions/",
+    "title": "Nomadic Expeditions",
+    "description": "Company Name: Nomadic Expeditions Type of Company (Wholesaler/Tour Company/Cruise Line/ETC. ): Tour Company Brief Description of Key Offerings: We offer set group departures and tailor-made itineraries for FITs to our destinations, most notably Mongolia. Our services range from adventure camping and",
+    "frecency": 4006,
+    "url_hash": 96898480207207,
+    "last_visit_date": 1758203928162111
+  }
+}

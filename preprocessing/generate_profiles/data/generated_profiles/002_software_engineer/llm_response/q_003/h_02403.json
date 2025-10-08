@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Q: how do you copy files from mac to usb? \\\"Support Communities Mac OS & System Software Mac OS X v10.7 Lion Looks like no one's replied in a while. To start the conversation again, simply ask a new question.krabbypattyc Level 1 (0 points)Q: how do you copy files from mac to usb?i cant copy my pictures here on my mac to my usb .. i'm a new m",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses copying files from Mac to USB, which is unrelated to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Q: how do you copy files from mac to usb? \"Support Communities Mac OS & System Software Mac OS X v10.7 Lion Looks like no one's replied in a while. To start the conversation again, simply ask a new question.krabbypattyc Level 1 (0 points)Q: how do you copy files from mac to usb?i cant copy my pictures here on my mac to my usb .. i'm a new m",
+  "history": {
+    "url": "https://discussions.apple.com/thread/3576254?start=0&tstart=0",
+    "title": "Q: how do you copy files from mac to usb?",
+    "description": "\"Support Communities Mac OS & System Software Mac OS X v10.7 Lion Looks like no one's replied in a while. To start the conversation again, simply ask a new question.krabbypattyc Level 1 (0 points)Q: how do you copy files from mac to usb?i cant copy my pictures here on my mac to my usb .. i'm a new m",
+    "frecency": 680,
+    "url_hash": 31504247399231,
+    "last_visit_date": 1758203928190111
+  }
+}

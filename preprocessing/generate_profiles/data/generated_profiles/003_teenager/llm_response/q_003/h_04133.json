@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "How to Add Color to a Fluorescent Light \\\"Edit Article How to Add Color to a Fluorescent Light The cold, harsh light of fluorescent lamps fails to bring warmth to a room, nor is it decorative. By using inexpensive materials, you can add color and warmth to these boring lights to make your drab room or office welcoming, fun, fresh, and funk",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about adding color to fluorescent lights and has no relation to study apps or improving study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "How to Add Color to a Fluorescent Light \"Edit Article How to Add Color to a Fluorescent Light The cold, harsh light of fluorescent lamps fails to bring warmth to a room, nor is it decorative. By using inexpensive materials, you can add color and warmth to these boring lights to make your drab room or office welcoming, fun, fresh, and funk",
+  "history": {
+    "url": "http://www.wikihow.com/Add-Color-to-a-Fluorescent-Light",
+    "title": "How to Add Color to a Fluorescent Light",
+    "description": "\"Edit Article How to Add Color to a Fluorescent Light The cold, harsh light of fluorescent lamps fails to bring warmth to a room, nor is it decorative. By using inexpensive materials, you can add color and warmth to these boring lights to make your drab room or office welcoming, fun, fresh, and funk",
+    "frecency": 729,
+    "url_hash": 92457249878088,
+    "last_visit_date": 1758203931095228
+  }
+}

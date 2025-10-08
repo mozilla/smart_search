@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "The Ziegfeld Follies Club {A Tribute to the Ziegfeld Girls} PINNED POSTDusty Sage January 25 at 9:51am Ziegfeld Chorus Girls with their Choreographer, practicing on a rooftop ...",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a Ziegfeld Follies club and chorus girls, not Docker or any technical setup; it is not relevant to 'Docker setup for beginners'.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "The Ziegfeld Follies Club {A Tribute to the Ziegfeld Girls} PINNED POSTDusty Sage January 25 at 9:51am Ziegfeld Chorus Girls with their Choreographer, practicing on a rooftop ...",
+  "history": {
+    "url": "https://www.facebook.com/groups/ZiegfeldFolliesClub/",
+    "title": "The Ziegfeld Follies Club {A Tribute to the Ziegfeld Girls}",
+    "description": "PINNED POSTDusty Sage January 25 at 9:51am Ziegfeld Chorus Girls with their Choreographer, practicing on a rooftop ... ",
+    "frecency": 3452,
+    "url_hash": 90937084904784,
+    "last_visit_date": 1758203929918111
+  }
+}

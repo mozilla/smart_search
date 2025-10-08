@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Python Functions Tutorial \\\"04848Karlijn Willems August 8th, 2017python + 2Python Functions Tutorial A tutorial on functions in Python that covers how to write functions, how to call them, and more!Functions are an essential part of the Python programming language: you might have already encountered and used some of the many\\\"",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes Python functions, not Docker setup or containerization, so it is not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Python Functions Tutorial \"04848Karlijn Willems August 8th, 2017python + 2Python Functions Tutorial A tutorial on functions in Python that covers how to write functions, how to call them, and more!Functions are an essential part of the Python programming language: you might have already encountered and used some of the many",
+  "history": {
+    "url": "https://www.datacamp.com/community/tutorials/functions-python-tutorial",
+    "title": "Python Functions Tutorial",
+    "description": "\"04848Karlijn Willems August 8th, 2017python + 2Python Functions Tutorial A tutorial on functions in Python that covers how to write functions, how to call them, and more!Functions are an essential part of the Python programming language: you might have already encountered and used some of the many ",
+    "frecency": 3025,
+    "url_hash": 79093230485401,
+    "last_visit_date": 1758203927940200
+  }
+}

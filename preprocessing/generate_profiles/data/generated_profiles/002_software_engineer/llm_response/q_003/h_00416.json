@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Seville Seville Seville (Sevilla) is the capital of the Autonomous Region of Andalusia (Kingdom of Spain, European Union). Its Mediterranean climate provides hot summers and mild winters.50 rainy days per year. About 800.000 inhabitants. The city has a modern infrastructure of leisure, services and internat",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes Seville city information, not about database query optimization. No relevance.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Seville Seville Seville (Sevilla) is the capital of the Autonomous Region of Andalusia (Kingdom of Spain, European Union). Its Mediterranean climate provides hot summers and mild winters.50 rainy days per year. About 800.000 inhabitants. The city has a modern infrastructure of leisure, services and internat",
+  "history": {
+    "url": "http://sevillahabla.com/en/seville/",
+    "title": "Seville",
+    "description": "Seville Seville (Sevilla) is the capital of the Autonomous Region of Andalusia (Kingdom of Spain, European Union). Its Mediterranean climate provides hot summers and mild winters.50 rainy days per year. About 800.000 inhabitants. The city has a modern infrastructure of leisure, services and internat",
+    "frecency": 4288,
+    "url_hash": 2247241885695,
+    "last_visit_date": 1758203928378111
+  }
+}

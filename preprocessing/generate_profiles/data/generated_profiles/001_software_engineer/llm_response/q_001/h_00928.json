@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "United States Naval Academy \"United States Naval Academy2 of 16The United States Naval Academy in Annapolis, Md. Rank: 2Mid-career salary: $131,000Starting salary: $77,100% of grads who think their job is meaningful: 69%With 24 members of Congress, 52 astronauts and one President of the United States to claim as fellow alums,",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes the United States Naval Academy and alumni information, providing no content related to Python libraries or machine learning; therefore not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "United States Naval Academy \"United States Naval Academy2 of 16The United States Naval Academy in Annapolis, Md. Rank: 2Mid-career salary: $131,000Starting salary: $77,100% of grads who think their job is meaningful: 69%With 24 members of Congress, 52 astronauts and one President of the United States to claim as fellow alums,",
+  "history": {
+    "url": "http://money.cnn.com/gallery/real_estate/2013/09/12/highest-paid-graduates/2.html",
+    "title": "United States Naval Academy",
+    "description": "\"United States Naval Academy2 of 16The United States Naval Academy in Annapolis, Md. Rank: 2Mid-career salary: $131,000Starting salary: $77,100% of grads who think their job is meaningful: 69%With 24 members of Congress, 52 astronauts and one President of the United States to claim as fellow alums, ",
+    "frecency": 1765,
+    "url_hash": 20729361236112,
+    "last_visit_date": 1758203929382200
+  }
+}

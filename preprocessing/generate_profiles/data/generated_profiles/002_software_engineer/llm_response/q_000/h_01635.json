@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Marathon Stations \"Station Locator Gasoline with STP Additives Performance Series Motor Oil Advertising and Promotions Customer Relations Real Estate Retail Opportunities Marathon Stations Approximately 5,500 Marathon-branded locations In 19 states in the Midwest and Southeast Operated by independent entrepreneurs\"\"F",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes Marathon gas stations and related services; it has no relevance to debugging or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Marathon Stations \"Station Locator Gasoline with STP Additives Performance Series Motor Oil Advertising and Promotions Customer Relations Real Estate Retail Opportunities Marathon Stations Approximately 5,500 Marathon-branded locations In 19 states in the Midwest and Southeast Operated by independent entrepreneurs\"\"F",
+  "history": {
+    "url": "http://www.marathonpetroleum.com/stations/",
+    "title": "Marathon Stations",
+    "description": "\"Station Locator Gasoline with STP Additives Performance Series Motor Oil Advertising and Promotions Customer Relations Real Estate Retail Opportunities Marathon Stations Approximately 5,500 Marathon-branded locations In 19 states in the Midwest and Southeast Operated by independent entrepreneurs\"\"F",
+    "frecency": 2039,
+    "url_hash": 13024714344134,
+    "last_visit_date": 1758203928682111
+  }
+}

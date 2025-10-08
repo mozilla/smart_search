@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Silent Generation \"From Wikipedia, the free encyclopedianavigation search For the album, see The Silent Generation (album). The examples and perspective in this article may not represent a worldwide view of the subject. You may improve this article, discuss the issue on the talk page, or create a new article, as appr",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about The Silent Generation and an album; it has no relevance to improving at sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Silent Generation \"From Wikipedia, the free encyclopedianavigation search For the album, see The Silent Generation (album). The examples and perspective in this article may not represent a worldwide view of the subject. You may improve this article, discuss the issue on the talk page, or create a new article, as appr",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Silent_Generation",
+    "title": "Silent Generation",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search For the album, see The Silent Generation (album). The examples and perspective in this article may not represent a worldwide view of the subject. You may improve this article, discuss the issue on the talk page, or create a new article, as appr",
+    "frecency": 2432,
+    "url_hash": 51868464692326,
+    "last_visit_date": 1758203927172735
+  }
+}

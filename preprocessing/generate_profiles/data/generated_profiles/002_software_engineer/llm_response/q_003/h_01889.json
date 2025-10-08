@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Federal Court Reporting Program \"Federal court reporters record proceedings and produce transcripts of court proceedings. The Court Reporter Statute, 28 U. S. C. \u00a7 753 sets forth the proceedings to be recorded including:all proceedings in criminal cases had in open court;all proceedings in other cas",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The result describes federal court reporting procedures, not database query optimization; no relevance to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Federal Court Reporting Program \"Federal Court Reporting Program Federal court reporters record proceedings and produce transcripts of court proceedings. The Court Reporter Statute, 28 U. S. C. \u00a7 753 sets forth the proceedings to be recorded including:all proceedings in criminal cases had in open court;all proceedings in other cas",
+  "history": {
+    "url": "http://www.uscourts.gov/services-forms/federal-court-reporting-program",
+    "title": "Federal Court Reporting Program",
+    "description": "\"Federal Court Reporting Program Federal court reporters record proceedings and produce transcripts of court proceedings. The Court Reporter Statute, 28 U. S. C. \u00a7 753 sets forth the proceedings to be recorded including:all proceedings in criminal cases had in open court;all proceedings in other cas",
+    "frecency": 1553,
+    "url_hash": 86301412666378,
+    "last_visit_date": 1758203929046111
+  }
+}

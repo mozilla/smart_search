@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "What is the average salary for a UPS pilot? United Parcel Service (company) Pilots Salary Comparisons Salaries and Career Advice Salaries for Specific Jobs and Careers Salaries and Wages Jobs and Careers Career Advice What is the average salary for a UPS pilot?ad by Wharton Executive Education Learn business analytics online with Wharton Exec",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about salaries for UPS pilots and business education, which is unrelated to debugging APIs.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "What is the average salary for a UPS pilot? United Parcel Service (company) Pilots Salary Comparisons Salaries and Career Advice Salaries for Specific Jobs and Careers Salaries and Wages Jobs and Careers Career Advice What is the average salary for a UPS pilot?ad by Wharton Executive Education Learn business analytics online with Wharton Exec",
+  "history": {
+    "url": "https://www.quora.com/What-is-the-average-salary-for-a-UPS-pilot",
+    "title": "What is the average salary for a UPS pilot?",
+    "description": "United Parcel Service (company) Pilots Salary Comparisons Salaries and Career Advice Salaries for Specific Jobs and Careers Salaries and Wages Jobs and Careers Career Advice What is the average salary for a UPS pilot?ad by Wharton Executive Education Learn business analytics online with Wharton Exec",
+    "frecency": 777,
+    "url_hash": 25680604737967,
+    "last_visit_date": 1758203927172111
+  }
+}

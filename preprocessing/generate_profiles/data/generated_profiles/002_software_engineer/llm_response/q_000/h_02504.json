@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "What type of costs do you want to view? You can view costs of different items in your project. You can review the cost of specific tasks, of specific resources, of specific assignments per task, and of the project as a whole. What type of costs do you want to view? View cost per task View costs per resource View costs per assignment View",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns viewing costs in a project management context, not debugging API integration. No relevant content about debugging APIs.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "What type of costs do you want to view? You can view costs of different items in your project. You can review the cost of specific tasks, of specific resources, of specific assignments per task, and of the project as a whole. What type of costs do you want to view? View cost per task View costs per resource View costs per assignment View",
+  "history": {
+    "url": "https://support.office.com/en-us/article/View-project-costs-BC1B9A38-B86B-4503-AC9B-82AC9300C998",
+    "title": "What type of costs do you want to view?",
+    "description": "You can view costs of different items in your project. You can review the cost of specific tasks, of specific resources, of specific assignments per task, and of the project as a whole. What type of costs do you want to view? View cost per task View costs per resource View costs per assignment View ",
+    "frecency": 476,
+    "url_hash": 32942864659693,
+    "last_visit_date": 1758203928554111
+  }
+}

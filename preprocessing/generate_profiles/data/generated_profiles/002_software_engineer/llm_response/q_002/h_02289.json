@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "EKG Technician, Continuing Education Certificate EKG Technician, Continuing Education Certificate EKG Technicians work in clinical laboratory settings, hospitals and sometimes in physicians' offices. Their main job is to perform EKGs and sometimes assist with stress tests. They also may operate and care for testing equipment, explain test procedur",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about EKG technicians, not about IDEs or software development; unrelated content.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "EKG Technician, Continuing Education Certificate EKG Technician, Continuing Education Certificate EKG Technicians work in clinical laboratory settings, hospitals and sometimes in physicians' offices. Their main job is to perform EKGs and sometimes assist with stress tests. They also may operate and care for testing equipment, explain test procedur",
+  "history": {
+    "url": "http://www.ccbcmd.edu/Programs-and-Courses-Finder/ConED-Program/ekg-technician",
+    "title": "EKG Technician, Continuing Education Certificate",
+    "description": "EKG Technician, Continuing Education Certificate EKG Technicians work in clinical laboratory settings, hospitals and sometimes in physicians' offices. Their main job is to perform EKGs and sometimes assist with stress tests. They also may operate and care for testing equipment, explain test procedur",
+    "frecency": 863,
+    "url_hash": 10668330021209,
+    "last_visit_date": 1758203928060111
+  }
+}

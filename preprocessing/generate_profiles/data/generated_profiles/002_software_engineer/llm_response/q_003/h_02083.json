@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Salesforce: Build Parent/Child Relationships Business Customers Salesforce: Build Parent/Child Relationships Salesforce: Build Parent/Child Relationships Related Book Salesforce.com For Dummies, 5th Edition By Tom Wong, Liz Kao, Matt Kaufman In Salesforce, you can link multiple offices of a company together by using the Parent Account field on",
+  "relevance_score": 0.15,
+  "binary_decision": 0,
+  "Decision_Reason": "The result discusses Salesforce data model concepts (parent/child relationships), not general database query optimization; it does not address optimizing SQL/database queries.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Salesforce: Build Parent/Child Relationships Business Customers Salesforce: Build Parent/Child Relationships Salesforce: Build Parent/Child Relationships Related Book Salesforce.com For Dummies, 5th Edition By Tom Wong, Liz Kao, Matt Kaufman In Salesforce, you can link multiple offices of a company together by using the Parent Account field on",
+  "history": {
+    "url": "http://www.dummies.com/business/customers/salesforce-build-parentchild-relationships/",
+    "title": "Salesforce: Build Parent/Child Relationships",
+    "description": "Business Customers Salesforce: Build Parent/Child Relationships Salesforce: Build Parent/Child Relationships Related Book Salesforce.com For Dummies, 5th Edition By Tom Wong, Liz Kao, Matt Kaufman In Salesforce, you can link multiple offices of a company together by using the Parent Account field on",
+    "frecency": 1223,
+    "url_hash": 26165028959913,
+    "last_visit_date": 1758203930126111
+  }
+}

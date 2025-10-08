@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Joan Rivers' death from 'predictable complication of medical therapy' The New York medical examiner's office concludes that comedian Joan Rivers died of complications during outpatient surgery, which kept her brain from getting enough oxygen. Joan Rivers' death reportedly resulted from a predictable complication of medical therapy, according to the office.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Joan Rivers' death and medical examiner findings, unrelated to studying or apps; not relevant to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Joan Rivers died from 'predictable complication of medical therapy' \"The New York medical examiner's office concludes that comedian Joan Rivers died of complications during outpatient surgery, which kept her brain from getting enough oxygen. Joan Rivers \u2019 death \u201cresulted from a predictable complication of medical therapy,\u201d the New York medical examiner\u2019s office conc",
+  "history": {
+    "url": "http://www.latimes.com/entertainment/gossip/la-et-mg-joan-rivers-autopsy-20141016-story.html",
+    "title": "Joan Rivers died from 'predictable complication of medical therapy'",
+    "description": "\"The New York medical examiner's office concludes that comedian Joan Rivers died of complications during outpatient surgery, which kept her brain from getting enough oxygen. Joan Rivers \u2019 death \u201cresulted from a predictable complication of medical therapy,\u201d the New York medical examiner\u2019s office conc",
+    "frecency": 3382,
+    "url_hash": 17311431631680,
+    "last_visit_date": 1758203932173228
+  }
+}

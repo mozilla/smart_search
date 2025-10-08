@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Blood: The Last Vampire \"From Wikipedia, the free encyclopedianavigation search For the 2009 live-action adaptation of this film, see Blood: The Last Vampire (2009 film). Blood: The Last Vampire Japanese poster for Blood: The Last Vampire Genre Action, Horror Anime film Directed by Hiroyuki Kitakubo Produced by Ryuji Mitsu",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about the film Blood: The Last Vampire, not about apps or study-habit improvement.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Blood: The Last Vampire \"From Wikipedia, the free encyclopedianavigation search For the 2009 live-action adaptation of this film, see Blood: The Last Vampire (2009 film). Blood: The Last Vampire Japanese poster for Blood: The Last Vampire Genre Action, Horror Anime film Directed by Hiroyuki Kitakubo Produced by Ryuji Mitsu",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Blood:_The_Last_Vampire",
+    "title": "Blood: The Last Vampire",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search For the 2009 live-action adaptation of this film, see Blood: The Last Vampire (2009 film). Blood: The Last Vampire Japanese poster for Blood: The Last Vampire Genre Action, Horror Anime film Directed by Hiroyuki Kitakubo Produced by Ryuji Mitsu",
+    "frecency": 3623,
+    "url_hash": 20762689549311,
+    "last_visit_date": 1758203928194735
+  }
+}

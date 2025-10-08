@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "3.1 Maximum Permissible Dose Limits 3.1 Maximum permissible dose limits Printer-friendly version3.1.1 Radiation Workers Maximum permissible dose limits for adult radiation workers (listed below) apply to any combination of dose received from external or internal exposure. These limits do not apply to doses received from background rad",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses radiation dose limits, not Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "3.1 Maximum Permissible Dose Limits 3.1 Maximum Permissible Dose Limits Printer-friendly version3.1.1 Radiation Workers Maximum permissible dose limits for adult radiation workers (listed below) apply to any combination of dose received from external or internal exposure. These limits do not apply to doses received from background rad",
+  "history": {
+    "url": "http://ehs.research.uiowa.edu/31-maximum-permissible-dose-limits",
+    "title": "3.1 Maximum Permissible Dose Limits",
+    "description": "3.1 Maximum Permissible Dose Limits Printer-friendly version3.1.1 Radiation Workers Maximum permissible dose limits for adult radiation workers (listed below) apply to any combination of dose received from external or internal exposure. These limits do not apply to doses received from background rad",
+    "frecency": 2053,
+    "url_hash": 82265812110405,
+    "last_visit_date": 1758203927864200
+  }
+}

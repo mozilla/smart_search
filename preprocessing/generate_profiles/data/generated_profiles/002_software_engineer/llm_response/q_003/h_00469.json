@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Cost to add a pitched roof? \\\"Cost to add a pitched roof? Roofing/Construction Questionstelefonica 2008-12-16 15:33:22 UTC #1How much would it cost to pay a contractor to add a pitched roof to a house that currently has a flat roof? The house is 1,045 sq. ft. on the main level, and the house is a one story with a full basement.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns roofing costs and construction, not database queries; it is not relevant to the query about optimizing database queries.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Cost to add a pitched roof? \"Cost to add a pitched roof? Roofing/Construction Questionstelefonica 2008-12-16 15:33:22 UTC #1How much would it cost to pay a contractor to add a pitched roof to a house that currently has a flat roof? The house is 1,045 sq. ft. on the main level, and the house is a one story with a full basement.",
+  "history": {
+    "url": "http://talk.roofing.com/t/cost-to-add-a-pitched-roof/3511",
+    "title": "Cost to add a pitched roof?",
+    "description": "\"Cost to add a pitched roof? Roofing/Construction Questionstelefonica 2008-12-16 15:33:22 UTC #1How much would it cost to pay a contractor to add a pitched roof to a house that currently has a flat roof? The house is 1,045 sq. ft. on the main level, and the house is a one story with a full basement.",
+    "frecency": 4192,
+    "url_hash": 31245838445533,
+    "last_visit_date": 1758203928476111
+  }
+}

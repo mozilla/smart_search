@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Configuring Databases with SQL Scripts \"Configuring Databases with SQL Scripts The following article uses options that are available starting with the Enterprise edition and project type. This tutorial will guide you in configuring SQL scripts that will be executed during installation if the application you are installing depends on cert",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses configuring databases with SQL scripts during installation, not about optimizing or improving database query performance.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Configuring Databases with SQL Scripts \"Configuring Databases with SQL Scripts The following article uses options that are available starting with the Enterprise edition and project type. This tutorial will guide you in configuring SQL scripts that will be executed during installation if the application you are installing depends on cert",
+  "history": {
+    "url": "http://www.advancedinstaller.com/user-guide/tutorial-sql.html",
+    "title": "Configuring Databases with SQL Scripts",
+    "description": "\"Configuring Databases with SQL Scripts The following article uses options that are available starting with the Enterprise edition and project type. This tutorial will guide you in configuring SQL scripts that will be executed during installation if the application you are installing depends on cert",
+    "frecency": 4495,
+    "url_hash": 24006756035058,
+    "last_visit_date": 1758203928364111
+  }
+}

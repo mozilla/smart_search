@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Saturday Night Live Update: Harry Caray Ad Choices Saturday Night Live Update: Harry Caray",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns Saturday Night Live content and ad choices related to Harry Caray, not content about improving athletic performance or sports skills.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Saturday Night Live Update: Harry Caray Ad Choices Saturday Night Live Update: Harry Caray",
+  "history": {
+    "url": "https://www.hulu.com/watch/73359",
+    "title": "Saturday Night Live Update: Harry Caray",
+    "description": "Ad Choices Saturday Night Live Update: Harry Caray ",
+    "frecency": 2879,
+    "url_hash": 91060490403095,
+    "last_visit_date": 1758203929963228
+  }
+}

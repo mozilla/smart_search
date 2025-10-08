@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "The Flash \"This article is an overview of the characters called \\\"The Flash\\\". If you are looking for a particular Flash, see The Flash (Disambiguation). The Flashes The Flash is a Character produced by DC Comics. Often called \\\"The Fastest Man Alive\\\", the mantle of the Flash has been worn by six individuals",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about the DC Comics character The Flash, not about strategies or advice for improving athletic performance or sports skills.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "The Flash \"This article is an overview of the characters called \"\"The Flash\"\". If you are looking for a particular Flash, see The Flash (Disambiguation). The Flashes The Flash is a Character produced by DC Comics. Often called \"\"The Fastest Man Alive\"\", the mantle of the Flash has been worn by six individuals",
+  "history": {
+    "url": "http://theflash.wikia.com/wiki/The_Flash",
+    "title": "The Flash",
+    "description": "\"This article is an overview of the characters called \"\"The Flash\"\". If you are looking for a particular Flash, see The Flash (Disambiguation). The Flashes The Flash is a Character produced by DC Comics. Often called \"\"The Fastest Man Alive\"\", the mantle of the Flash has been worn by six individuals",
+    "frecency": 142,
+    "url_hash": 58758959084893,
+    "last_visit_date": 1758203933391228
+  }
+}

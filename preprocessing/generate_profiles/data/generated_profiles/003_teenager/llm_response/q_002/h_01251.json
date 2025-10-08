@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "What\u00e2s the average price of cinema popcorn? October 19, 2015What\u2019s the average price of cinema popcorn? This is part two of a three part investigation into the cost of going to the cinema. Last week, I looked at the cost of cinema tickets, showing that the average UK cinema ticket costs \u00a39.84 off peak and \u00a38.40 during peak times. Next week we",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "Retrieved result discusses cinema pricing, not DIY room decoration ideas; not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "What\u00e2s the average price of cinema popcorn? October 19, 2015What\u2019s the average price of cinema popcorn? This is part two of a three part investigation into the cost of going to the cinema. Last week, I looked at the cost of cinema tickets, showing that the average UK cinema ticket costs \u00a39.84 off peak and \u00a38.40 during peak times. Next week we",
+  "history": {
+    "url": "https://stephenfollows.com/average-price-cinema-popcorn/",
+    "title": "What\u00e2s the average price of cinema popcorn?",
+    "description": "October 19, 2015What\u2019s the average price of cinema popcorn? This is part two of a three part investigation into the cost of going to the cinema. Last week, I looked at the cost of cinema tickets, showing that the average UK cinema ticket costs \u00a39.84 off peak and \u00a38.40 during peak times. Next week we",
+    "frecency": 3721,
+    "url_hash": 53120717203055,
+    "last_visit_date": 1758203930809228
+  }
+}

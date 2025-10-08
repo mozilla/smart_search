@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Guide to table relationships \"One of the goals of good database design is to remove data redundancy (duplicate data). To achieve that goal, you divide your data into many subject-based tables so that each fact is represented only once. You then provide Microsoft Office Access 2007 with the means by which to bring the divided in\"",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses database design and Microsoft Access rather than API integration or debugging APIs.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Guide to table relationships \"One of the goals of good database design is to remove data redundancy (duplicate data). To achieve that goal, you divide your data into many subject-based tables so that each fact is represented only once. You then provide Microsoft Office Access 2007 with the means by which to bring the divided in",
+  "history": {
+    "url": "https://support.office.com/en-us/article/Guide-to-table-relationships-30446197-4fbe-457b-b992-2f6fb812b58f",
+    "title": "Guide to table relationships",
+    "description": "\"One of the goals of good database design is to remove data redundancy (duplicate data). To achieve that goal, you divide your data into many subject-based tables so that each fact is represented only once. You then provide Microsoft Office Access 2007 with the means by which to bring the divided in",
+    "frecency": 2602,
+    "url_hash": 30945999925631,
+    "last_visit_date": 1758203931180111
+  }
+}

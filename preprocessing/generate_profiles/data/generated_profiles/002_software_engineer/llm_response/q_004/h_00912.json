@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Chuck Bass \"Chuck Bass General information Full name Charles Bartholomew Bass Nickname (s)Charles (by Lily) Chuck (by everyone else) Henry Prince (Alias) C, Bass Jr. Birthplace Manhattan, New York City, NYBirthday January 19, 1991Occupation High school student (at St. Jude's; graduated) Entrepreneur Socialite",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a biography of Chuck Bass, a fictional character, and has no relation to Docker or beginner setup guidance.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Chuck Bass \"Chuck Bass General information Full name Charles Bartholomew Bass Nickname (s)Charles (by Lily) Chuck (by everyone else) Henry Prince (Alias) C, Bass Jr. Birthplace Manhattan, New York City, NYBirthday January 19, 1991Occupation High school student (at St. Jude's; graduated) Entrepreneur Socialite",
+  "history": {
+    "url": "http://gossipgirl.wikia.com/wiki/Chuck_Bass",
+    "title": "Chuck Bass",
+    "description": "\"Chuck Bass General information Full name Charles Bartholomew Bass Nickname (s)Charles (by Lily) Chuck (by everyone else) Henry Prince (Alias) C, Bass Jr. Birthplace Manhattan, New York City, NYBirthday January 19, 1991Occupation High school student (at St. Jude's; graduated) Entrepreneur Socialite ",
+    "frecency": 3355,
+    "url_hash": 8588354205137,
+    "last_visit_date": 1758203929464111
+  }
+}

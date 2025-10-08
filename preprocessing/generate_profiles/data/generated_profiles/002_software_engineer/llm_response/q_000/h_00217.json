@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Seattle sales tax goes up Wednesday to benefit Metro Transit Local Business Local News Traffic Lab Seattle sales tax goes up Wednesday to benefit Metro Transit Originally published March 31, 2015 at 8:17 am Updated March 31, 2015 at 9:12 am Seattle's sales tax will rise from 9.5 to 9.6 percent starting Wednesday. By Evan Bush Seattle Times staff reporter Get",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The result discusses Seattle sales tax, Metro Transit and local news, not API integration or debugging APIs.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Seattle sales tax goes up Wednesday to benefit Metro Transit Local Business Local News Traffic Lab Seattle sales tax goes up Wednesday to benefit Metro Transit Originally published March 31, 2015 at 8:17 am Updated March 31, 2015 at 9:12 am Seattle's sales tax will rise from 9.5 to 9.6 percent starting Wednesday. By Evan Bush Seattle Times staff reporter Get",
+  "history": {
+    "url": "https://www.seattletimes.com/seattle-news/transportation/seattle-sales-tax-to-rise-wednesday-for-extra-metro-funding/",
+    "title": "Seattle sales tax goes up Wednesday to benefit Metro Transit",
+    "description": "Local Business Local News Traffic Lab Seattle sales tax goes up Wednesday to benefit Metro Transit Originally published March 31, 2015 at 8:17 am Updated March 31, 2015 at 9:12 am Seattle's sales tax will rise from 9.5 to 9.6 percent starting Wednesday. By Evan Bush Seattle Times staff reporter Get ",
+    "frecency": 4639,
+    "url_hash": 71419276067321,
+    "last_visit_date": 1758203929266111
+  }
+}

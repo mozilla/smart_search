@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "More Than 50 New Shows Are Coming To TV This Fall by Kirsten Acuna, May 15, 2013. The article discusses upcoming TV series on major networks for the fall season.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about TV shows coming to television, not about creating or managing a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "More Than 50 New Shows Are Coming To TV This Fall \"Kirsten Acuna May. 15, 2013, 9:13 AM 32,755Now that the big networks have announced which shows won't be returning next year, it's time to announce the new series heading to television this fall. Between the major networks \u2014 ABC, CBS, FOX, NBC, and CW \u2014 there are 56 shows hitting the airwaves for t",
+  "history": {
+    "url": "http://www.businessinsider.com/fall-tv-show-lineup-2013-2013-5",
+    "title": "More Than 50 New Shows Are Coming To TV This Fall",
+    "description": "\"Kirsten Acuna May. 15, 2013, 9:13 AM 32,755Now that the big networks have announced which shows won't be returning next year, it's time to announce the new series heading to television this fall. Between the major networks \u2014 ABC, CBS, FOX, NBC, and CW \u2014 there are 56 shows hitting the airwaves for t",
+    "frecency": 4495,
+    "url_hash": 46976515320358,
+    "last_visit_date": 1758203929981228
+  }
+}

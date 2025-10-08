@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Alphabet Inc. Cl C \\\"Home Investing Quotes Stocks United States GOOG Overview Compare Quotes Market Screener Sectors| GOOG U. S.: Nasdaq Alphabet Inc. Cl CWatch list Create GOOG Alert Open Last Updated: Apr 10, 2018 1:36 p.m. EDTReal time quote$1,023.578.115 0.80%Previous Close$1,015.45Advanced Charting$ % Vol62.78% vs",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a financial stock quote page (Alphabet GOOG) and has no relation to Docker or setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Alphabet Inc. Cl C \"Home Investing Quotes Stocks United States GOOG Overview Compare Quotes Market Screener Sectors| GOOG U. S.: Nasdaq Alphabet Inc. Cl CWatch list Create GOOG Alert Open Last Updated: Apr 10, 2018 1:36 p.m. EDTReal time quote$1,023.578.115 0.80%Previous Close$1,015.45Advanced Charting$ % Vol62.78% vs",
+  "history": {
+    "url": "http://www.marketwatch.com/investing/Stock/GOOG",
+    "title": "Alphabet Inc. Cl C",
+    "description": "\"Home Investing Quotes Stocks United States GOOG Overview Compare Quotes Market Screener Sectors| GOOG U. S.: Nasdaq Alphabet Inc. Cl CWatch list Create GOOG Alert Open Last Updated: Apr 10, 2018 1:36 p.m. EDTReal time quote$1,023.578.115 0.80%Previous Close$1,015.45Advanced Charting$ % Vol62.78% vs",
+    "frecency": 1908,
+    "url_hash": 20021344453195,
+    "last_visit_date": 1758203931076111
+  }
+}

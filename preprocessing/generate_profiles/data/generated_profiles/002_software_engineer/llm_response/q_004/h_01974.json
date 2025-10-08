@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Travel Directions Home\u00bb About\u00bb Directions E-Notify Travel Directions DIRECTIONS TO TOWNSHIP OF BRANCHBURG MUNICIPAL COMPLEXTo program a GPS, please use 590 Old York Road which is the police station address. The Municipal Building is located directly behind the Police Station. From the North South on Garden State Park",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a travel/directions page about a municipal complex, not related to Docker or programming setup.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Travel Directions Home\u00bb About\u00bb Directions E-Notify Travel Directions DIRECTIONS TO TOWNSHIP OF BRANCHBURG MUNICIPAL COMPLEXTo program a GPS, please use 590 Old York Road which is the police station address. The Municipal Building is located directly behind the Police Station. From the North South on Garden State Park",
+  "history": {
+    "url": "http://www.branchburg.nj.us/about/directions/index.php",
+    "title": "Travel Directions",
+    "description": "Home\u00bb About\u00bb Directions E-Notify Travel Directions DIRECTIONS TO TOWNSHIP OF BRANCHBURG MUNICIPAL COMPLEXTo program a GPS, please use 590 Old York Road which is the police station address. The Municipal Building is located directly behind the Police Station. From the North South on Garden State Park",
+    "frecency": 1419,
+    "url_hash": 7140395976576,
+    "last_visit_date": 1758203931434111
+  }
+}

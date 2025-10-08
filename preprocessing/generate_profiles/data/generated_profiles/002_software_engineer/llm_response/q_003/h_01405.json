@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Post jobs. Find employees. Post jobs. Find employees. Monster prowls the web to find you the right talent for your open positions \u2014 delivering a quicker, easier way to post a job and find qualified candidates. Post A Job HUNT Down the Right Candidates, Wherever They Are Monster Premium Job Ads do the recruiting for you. Monst",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes recruitment and job postings, not content about optimizing database queries; it is not relevant to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Post jobs. Find employees. Post jobs. Find employees. Monster prowls the web to find you the right talent for your open positions \u2014 delivering a quicker, easier way to post a job and find qualified candidates. Post A Job HUNT Down the Right Candidates, Wherever They Are Monster Premium Job Ads do the recruiting for you. Monst",
+  "history": {
+    "url": "https://hiring.monster.com/",
+    "title": "Post jobs. Find employees.",
+    "description": "Post jobs. Find employees. Monster prowls the web to find you the right talent for your open positions \u2014 delivering a quicker, easier way to post a job and find qualified candidates. Post A Job HUNT Down the Right Candidates, Wherever They Are Monster Premium Job Ads do the recruiting for you. Monst",
+    "frecency": 2470,
+    "url_hash": 61491755565779,
+    "last_visit_date": 1758203927992111
+  }
+}

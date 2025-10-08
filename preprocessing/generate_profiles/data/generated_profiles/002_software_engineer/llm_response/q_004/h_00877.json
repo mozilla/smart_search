@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Butterfly Fund Endowment Butterfly Fund Endowment When a baby passes away, families feel a tremendous sense of loss. Caregivers at Lancaster General Health Women & Babies Hospital promote an environment of caring, concern and support while treating every patient and visitor with dignity. When you make a gift to the Butterfl",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result content is about a charity/endowment and patient care, unrelated to Docker setup for beginners; no relevance to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Butterfly Fund Endowment Butterfly Fund Endowment When a baby passes away, families feel a tremendous sense of loss. Caregivers at Lancaster General Health Women & Babies Hospital promote an environment of caring, concern and support while treating every patient and visitor with dignity. When you make a gift to the Butterfl",
+  "history": {
+    "url": "http://www.lancastergeneralhealth.org/LGH/About-Lancaster-General-Health/Make-A-Gift/LG-Health-Foundation/Your-Donations/Women-Babies-Hospital/Women-Babies-Hospital/Giving-Options/Butterfly-Fund-Endowment.aspx",
+    "title": "Butterfly Fund Endowment",
+    "description": "Butterfly Fund Endowment When a baby passes away, families feel a tremendous sense of loss. Caregivers at Lancaster General Health Women & Babies Hospital promote an environment of caring, concern and support while treating every patient and visitor with dignity. When you make a gift to the Butterfl",
+    "frecency": 3414,
+    "url_hash": 96105848727805,
+    "last_visit_date": 1758203929808111
+  }
+}

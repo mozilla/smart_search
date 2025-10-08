@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Campgrounds Near Sesame Place in Langhorne, Pennsylvania \"Make family camping part of the experience when you visit the Sesame Street gang. Sesame Place (sesameplace.com) in Langhorne, Pennsylvania, is the only theme park in America where families can hobnob with the Honkers, Big Bird, Cookie Monster and Elmo. The 14-acre park thrills the tiny tots and to",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a Sesame Place theme park and camping, not about improving at sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Campgrounds Near Sesame Place in Langhorne, Pennsylvania \"Make family camping part of the experience when you visit the Sesame Street gang. Sesame Place (sesameplace.com) in Langhorne, Pennsylvania, is the only theme park in America where families can hobnob with the Honkers, Big Bird, Cookie Monster and Elmo. The 14-acre park thrills the tiny tots and to",
+  "history": {
+    "url": "http://goneoutdoors.com/campgrounds-near-sesame-place-langhorne-pennsylvania-12264345.html",
+    "title": "Campgrounds Near Sesame Place in Langhorne, Pennsylvania",
+    "description": "\"Make family camping part of the experience when you visit the Sesame Street gang. Sesame Place (sesameplace.com) in Langhorne, Pennsylvania, is the only theme park in America where families can hobnob with the Honkers, Big Bird, Cookie Monster and Elmo. The 14-acre park thrills the tiny tots and to",
+    "frecency": 3997,
+    "url_hash": 6766835670106,
+    "last_visit_date": 1758203928526735
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "How Long is a Billy Joel Concert? 0Posted Obviously, that\u2019s up to Billy Joel, and any concert on any given night can vary in length. Typically, though, his shows tend to start around fifteen minutes after the time printed on the ticket, and then run for around two hours. Like most artists of his generation, he would occasionally do",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses the duration of a Billy Joel concert, not strategies or guidance for improving athletic performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "How Long is a Billy Joel Concert? 0Posted Obviously, that\u2019s up to Billy Joel, and any concert on any given night can vary in length. Typically, though, his shows tend to start around fifteen minutes after the time printed on the ticket, and then run for around two hours. Like most artists of his generation, he would occasionally do",
+  "history": {
+    "url": "http://www.experts123.com/q/how-long-is-a-billy-joel-concert.html",
+    "title": "How Long is a Billy Joel Concert?",
+    "description": "0Posted Obviously, that\u2019s up to Billy Joel, and any concert on any given night can vary in length. Typically, though, his shows tend to start around fifteen minutes after the time printed on the ticket, and then run for around two hours. Like most artists of his generation, he would occasionally do ",
+    "frecency": 3287,
+    "url_hash": 15347396807094,
+    "last_visit_date": 1758203927306735
+  }
+}

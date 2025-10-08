@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Concrete Blonde \"From Wikipedia, the free encyclopedianavigation search This article is about the band. For their debut album, see Concrete Blonde (album). For the Michael Connelly novel, see The Concrete Blonde. Concrete Blonde Origin Los Angeles, California Genres Alternative rock Years active 1982\u20131995, 2001\u2013200",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses a rock band named Concrete Blonde and is unrelated to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Concrete Blonde \"From Wikipedia, the free encyclopedianavigation search This article is about the band. For their debut album, see Concrete Blonde (album). For the Michael Connelly novel, see The Concrete Blonde. Concrete Blonde Origin Los Angeles, California Genres Alternative rock Years active 1982\u20131995, 2001\u2013200",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Concrete_Blonde",
+    "title": "Concrete Blonde",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search This article is about the band. For their debut album, see Concrete Blonde (album). For the Michael Connelly novel, see The Concrete Blonde. Concrete Blonde Origin Los Angeles, California Genres Alternative rock Years active 1982\u20131995, 2001\u2013200",
+    "frecency": 1655,
+    "url_hash": 54532977168709,
+    "last_visit_date": 1758203928368735
+  }
+}

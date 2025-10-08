@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "SanDisk Introduces Breakthrough USB 3.0 Flash Drives \\\"San Disk Introduces Breakthrough USB 3.0 Flash Drives Jun 1, 2015Delivers World\u2019s Smallest 128GB USB 3.0 Flash Drive; and Its First-Ever 256GB USB Flash Drive COMPUTEX 2015, TAIPEI, Taiwan, June 1, 2015 \u2013 San Disk Corporation (NASDAQ: SNDK ), a global leader in flash storage solutions, today launch",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes SanDisk USB flash drives, unrelated to debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "SanDisk Introduces Breakthrough USB 3.0 Flash Drives \"San Disk Introduces Breakthrough USB 3.0 Flash Drives Jun 1, 2015Delivers World\u2019s Smallest 128GB USB 3.0 Flash Drive; and Its First-Ever 256GB USB Flash Drive COMPUTEX 2015, TAIPEI, Taiwan, June 1, 2015 \u2013 San Disk Corporation (NASDAQ: SNDK ), a global leader in flash storage solutions, today launch",
+  "history": {
+    "url": "https://www.sandisk.com/about/media-center/press-releases/2015/sandisk-introduces-breakthrough-usb-30-flash-drives",
+    "title": "SanDisk Introduces Breakthrough USB 3.0 Flash Drives",
+    "description": "\"San Disk Introduces Breakthrough USB 3.0 Flash Drives Jun 1, 2015Delivers World\u2019s Smallest 128GB USB 3.0 Flash Drive; and Its First-Ever 256GB USB Flash Drive COMPUTEX 2015, TAIPEI, Taiwan, June 1, 2015 \u2013 San Disk Corporation (NASDAQ: SNDK ), a global leader in flash storage solutions, today launch",
+    "frecency": 3208,
+    "url_hash": 92885643494503,
+    "last_visit_date": 1758203932038111
+  }
+}

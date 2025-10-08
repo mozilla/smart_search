@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "American Cancer Society jobs in Indianapolis, IN Virtual Bilingual American Sign Language and English Guide Smart Coos Indianapolis , INMore info Posted 1 week ago American Eagle Outfitters - Stock Associate - United States American Eagle Indianapolis , INMore info Posted 2 weeks ago Telecommute American Sign Language Video Remote Interpreter Virt",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is unrelated to Docker or technical setup; it lists job postings (American Cancer Society, American Eagle Outfitters) and sign-language interpreter roles with no reference to Docker.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "American Cancer Society jobs in Indianapolis, IN Virtual Bilingual American Sign Language and English Guide Smart Coos Indianapolis , INMore info Posted 1 week ago American Eagle Outfitters - Stock Associate - United States American Eagle Indianapolis , INMore info Posted 2 weeks ago Telecommute American Sign Language Video Remote Interpreter Virt",
+  "history": {
+    "url": "http://www.jobs2careers.com/Jobs/q-American-Cancer-Society-l-Indianapolis-IN/",
+    "title": "American Cancer Society jobs in Indianapolis, IN",
+    "description": "Virtual Bilingual American Sign Language and English Guide Smart Coos Indianapolis , INMore info Posted 1 week ago American Eagle Outfitters - Stock Associate - United States American Eagle Indianapolis , INMore info Posted 2 weeks ago Telecommute American Sign Language Video Remote Interpreter Virt",
+    "frecency": 3802,
+    "url_hash": 25161573139388,
+    "last_visit_date": 1758203928036111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Reigate Visitors Love: restaurants, countryside, shopping Reigate Enter your dates and choose from 4 properties!Check-in Date+/ / Check-in Date Check-out Date+/ / Check-out Date Are you traveling for work? Yes No Rooms Adults Children Show me prices More than 1 million people last month said they'd recommen",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a hotel/booking page about Reigate and does not address improving performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Reigate Visitors Love: restaurants, countryside, shopping Reigate Enter your dates and choose from 4 properties!Check-in Date+/ / Check-in Date Check-out Date+/ / Check-out Date Are you traveling for work? Yes No Rooms Adults Children Show me prices More than 1 million people last month said they'd recommen",
+  "history": {
+    "url": "https://www.booking.com/city/gb/reigate.html",
+    "title": "Reigate",
+    "description": "Visitors Love: restaurants, countryside, shopping Reigate Enter your dates and choose from 4 properties!Check-in Date+/ / Check-in Date Check-out Date+/ / Check-out Date Are you traveling for work? Yes No Rooms Adults Children Show me prices More than 1 million people last month said they'd recommen",
+    "frecency": 1643,
+    "url_hash": 97774710379938,
+    "last_visit_date": 1758203931157228
+  }
+}

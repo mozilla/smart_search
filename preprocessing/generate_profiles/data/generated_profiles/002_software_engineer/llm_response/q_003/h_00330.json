@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Degrassi: Next ClassSeason 2 What's Hot Today All Douglas Smith Joins Big Little Lies Dan Schneider Leaving Nickelodeon Ashley Tisdale Joining CBS Pilot Deadpool Animated Series Cancelled Gina Rodriguez To Star As Carmen Sandiego Queer Eye Picked Up For Second Season Rick And Morty Season 4 Delays Monty Python Is Moving To Netf",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result consists of entertainment news unrelated to database query optimization; it does not address database queries or optimization techniques.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Degrassi: Next ClassSeason 2 What's Hot Today All Douglas Smith Joins Big Little Lies Dan Schneider Leaving Nickelodeon Ashley Tisdale Joining CBS Pilot Deadpool Animated Series Cancelled Gina Rodriguez To Star As Carmen Sandiego Queer Eye Picked Up For Second Season Rick And Morty Season 4 Delays Monty Python Is Moving To Netf",
+  "history": {
+    "url": "http://www.sidereel.com/tv-shows/degrassi-next-class/season-2",
+    "title": "Degrassi: Next ClassSeason 2",
+    "description": "What's Hot Today All Douglas Smith Joins Big Little Lies Dan Schneider Leaving Nickelodeon Ashley Tisdale Joining CBS Pilot Deadpool Animated Series Cancelled Gina Rodriguez To Star As Carmen Sandiego Queer Eye Picked Up For Second Season Rick And Morty Season 4 Delays Monty Python Is Moving To Netf",
+    "frecency": 4445,
+    "url_hash": 75704716905684,
+    "last_visit_date": 1758203928218111
+  }
+}

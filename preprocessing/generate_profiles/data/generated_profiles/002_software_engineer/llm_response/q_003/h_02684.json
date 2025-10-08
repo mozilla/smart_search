@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Job Search Job Search All of our latest vacancies are advertised here and you can browse them by keyword and location. Once you find the job that\u2019s got your name on it, then we\u2019d prefer you apply for it online. Search by Keyword Search by Location Search Jobs Search by Location Search for a career with Mars, I",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about job searching, not about optimizing database queries; it does not discuss database queries or optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Job Search Job Search All of our latest vacancies are advertised here and you can browse them by keyword and location. Once you find the job that\u2019s got your name on it, then we\u2019d prefer you apply for it online. Search by Keyword Search by Location Search Jobs Search by Location Search for a career with Mars, I",
+  "history": {
+    "url": "https://jobs.mars.com/",
+    "title": "Job Search",
+    "description": "Job Search All of our latest vacancies are advertised here and you can browse them by keyword and location. Once you find the job that\u2019s got your name on it, then we\u2019d prefer you apply for it online. Search by Keyword Search by Location Search Jobs Search by Location Search for a career with Mars, I",
+    "frecency": 120,
+    "url_hash": 51878195142210,
+    "last_visit_date": 1758203928058111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "What could be the cause of an ache in my armpit? \"What could be the cause of an ache in my armpit?11 answers | Last updated: Nov 08, 2016A fellow caregiver asked... I have a constant ache in my armpit. Ive had a mammogram and it showed nothing. I also had an ultrasound and it showed nothing. The feeling that I get is a numb feeling down my arm to",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about armpit pain and medical symptoms unrelated to database query optimization; it is not relevant to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "What could be the cause of an ache in my armpit? \"What could be the cause of an ache in my armpit?11 answers | Last updated: Nov 08, 2016A fellow caregiver asked... I have a constant ache in my armpit. Ive had a mammogram and it showed nothing. I also had an ultrasound and it showed nothing. The feeling that I get is a numb feeling down my arm to",
+  "history": {
+    "url": "https://www.caring.com/questions/ache-in-armpit",
+    "title": "What could be the cause of an ache in my armpit?",
+    "description": "\"What could be the cause of an ache in my armpit?11 answers | Last updated: Nov 08, 2016A fellow caregiver asked... I have a constant ache in my armpit. Ive had a mammogram and it showed nothing. I also had an ultrasound and it showed nothing. The feeling that I get is a numb feeling down my arm to ",
+    "frecency": 2126,
+    "url_hash": 66263920399238,
+    "last_visit_date": 1758203932316111
+  }
+}

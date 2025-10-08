@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Moved Permanently Moved Permanently The document has moved here. Apache Server at www.vetdentists.com Port 80",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The domain vetdentists.com is related to veterinary content, not Docker. The result indicates a redirect with no Docker-related content, making it irrelevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Moved Permanently Moved Permanently The document has moved here. Apache Server at www.vetdentists.com Port 80",
+  "history": {
+    "url": "http://www.vetdentists.com/root-canal-vs-extraction-pet-teeth/",
+    "title": "Moved Permanently",
+    "description": "Moved Permanently The document has moved here. Apache Server at www.vetdentists.com Port 80 ",
+    "frecency": 1471,
+    "url_hash": 99345355790862,
+    "last_visit_date": 1758203930902111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Ron Perlman \\\"Ron Perlman From Wikipedia, the free encyclopedianavigation search For the American businessman, see Ronald Perelman. Ron Perlman Perlman in December 2016Born Ronald Francis [ citation needed]Perlman April 13, 1950 (age 67)Washington Heights, New York, U. S. Occupation Actor, voice actor Years acti",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Ron Perlman, an actor, and contains no Docker content or beginner setup information; therefore it is not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Ron Perlman \"Ron Perlman From Wikipedia, the free encyclopedianavigation search For the American businessman, see Ronald Perelman. Ron Perlman Perlman in December 2016Born Ronald Francis [ citation needed]Perlman April 13, 1950 (age 67)Washington Heights, New York, U. S. Occupation Actor, voice actor Years acti",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Ron_Perlman",
+    "title": "Ron Perlman",
+    "description": "\"Ron Perlman From Wikipedia, the free encyclopedianavigation search For the American businessman, see Ronald Perelman. Ron Perlman Perlman in December 2016Born Ronald Francis [ citation needed]Perlman April 13, 1950 (age 67)Washington Heights, New York, U. S. Occupation Actor, voice actor Years acti",
+    "frecency": 2792,
+    "url_hash": 14587529045712,
+    "last_visit_date": 1758203930238111
+  }
+}

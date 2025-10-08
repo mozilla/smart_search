@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "How to Become a Museum Curator 1 Choose your interest area. There are as many types of curators as there are types of museums - art museums, history museums, children\u2019s museums, science museums, and a vast range of specializations in between. You will need to choose what sort of museum you want to work for in order to pursue the",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses becoming a museum curator, not IDEs or software development, so it is not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "How to Become a Museum Curator 1 Choose your interest area. There are as many types of curators as there are types of museums - art museums, history museums, children\u2019s museums, science museums, and a vast range of specializations in between. You will need to choose what sort of museum you want to work for in order to pursue the",
+  "history": {
+    "url": "http://www.wikihow.com/Become-a-Museum-Curator",
+    "title": "How to Become a Museum Curator",
+    "description": "1 Choose your interest area. There are as many types of curators as there are types of museums - art museums, history museums, children\u2019s museums, science museums, and a vast range of specializations in between. You will need to choose what sort of museum you want to work for in order to pursue the ",
+    "frecency": 1322,
+    "url_hash": 79544109872174,
+    "last_visit_date": 1758203929340200
+  }
+}

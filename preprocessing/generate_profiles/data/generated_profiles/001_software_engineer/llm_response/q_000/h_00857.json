@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Teaching Online Classes: How Much Money Do Professors Make? \"Teaching Online Classes: How Much Money Do Professors Make?written by: Daniel Brecht\u2022edited by: Donna Cosmato \u2022updated: 3/14/2013Are you interested in teaching students online? And, are you curious of how much you'll get paid? If you answered \\\"yes,\\\" then you are about to learn what it takes to do",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The page is about earnings for online teaching, not about debugging API integrations; it is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Teaching Online Classes: How Much Money Do Professors Make? \"Teaching Online Classes: How Much Money Do Professors Make?written by: Daniel Brecht\u2022edited by: Donna Cosmato \u2022updated: 3/14/2013Are you interested in teaching students online? And, are you curious of how much you'll get paid? If you answered \"\"yes,\"\" then you are about to learn what it takes to do",
+  "history": {
+    "url": "http://www.brighthub.com/education/online-learning/articles/78037.aspx",
+    "title": "Teaching Online Classes: How Much Money Do Professors Make?",
+    "description": "\"Teaching Online Classes: How Much Money Do Professors Make?written by: Daniel Brecht\u2022edited by: Donna Cosmato \u2022updated: 3/14/2013Are you interested in teaching students online? And, are you curious of how much you'll get paid? If you answered \"\"yes,\"\" then you are about to learn what it takes to do",
+    "frecency": 2046,
+    "url_hash": 51490081016420,
+    "last_visit_date": 1758203927856200
+  }
+}

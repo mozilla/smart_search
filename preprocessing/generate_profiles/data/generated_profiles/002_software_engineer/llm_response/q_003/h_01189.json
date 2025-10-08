@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Ree Drummond Pinterest Facebook Twitter Email Big-Batch Recipes for a Crowd18 Photos No matter if you're feeding local ranch hands or your friends in the neighborhood, look to Ree's party-ready recipes, each of them serving at least eight people, to get the job done. More from Ree Make Tonight Pasta Night Fun Fa",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Ree Drummond recipes and cooking, not about database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Ree Drummond Pinterest Facebook Twitter Email Big-Batch Recipes for a Crowd18 Photos No matter if you're feeding local ranch hands or your friends in the neighborhood, look to Ree's party-ready recipes, each of them serving at least eight people, to get the job done. More from Ree Make Tonight Pasta Night Fun Fa",
+  "history": {
+    "url": "http://www.foodnetwork.com/profiles/talent/ree-drummond",
+    "title": "Ree Drummond",
+    "description": "Pinterest Facebook Twitter Email Big-Batch Recipes for a Crowd18 Photos No matter if you're feeding local ranch hands or your friends in the neighborhood, look to Ree's party-ready recipes, each of them serving at least eight people, to get the job done. More from Ree Make Tonight Pasta Night Fun Fa",
+    "frecency": 2892,
+    "url_hash": 24599745267292,
+    "last_visit_date": 1758203930442111
+  }
+}

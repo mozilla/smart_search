@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Office Documents Viewer \"Office Documents Viewer Joerg Jahnke Business Everyone23,386Contains Ads \u00b7 Offers in-app purchases Add to Wishlist Install (formerly Mobile Document Viewer) Small and fast document viewing application for Open Document Format (Open Office, Libre Office), OOXML (Microsoft Office) and other productiv",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a document viewing application, not an integrated development environment or software development tools; therefore it is not relevant to the query about top IDEs.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Office Documents Viewer \"Office Documents Viewer Joerg Jahnke Business Everyone23,386Contains Ads \u00b7 Offers in-app purchases Add to Wishlist Install (formerly Mobile Document Viewer) Small and fast document viewing application for Open Document Format (Open Office, Libre Office), OOXML (Microsoft Office) and other productiv",
+  "history": {
+    "url": "https://play.google.com/store/apps/details?id=de.joergjahnke.documentviewer.android.free",
+    "title": "Office Documents Viewer",
+    "description": "\"Office Documents Viewer Joerg Jahnke Business Everyone23,386Contains Ads \u00b7 Offers in-app purchases Add to Wishlist Install (formerly Mobile Document Viewer) Small and fast document viewing application for Open Document Format (Open Office, Libre Office), OOXML (Microsoft Office) and other productiv",
+    "frecency": 3621,
+    "url_hash": 83993084516133,
+    "last_visit_date": 1758203927286200
+  }
+}

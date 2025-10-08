@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Airfare deals & money-saving tips from our airfare experts Get Travel Tips & Low Fare Alerts From Our Team of Experts Home Airport: Sign Up Now",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The result is about airfare and travel tips, not related to Docker or setup.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Airfare deals & money-saving tips from our airfare experts Get Travel Tips & Low Fare Alerts From Our Team of Experts Home Airport: Sign Up Now",
+  "history": {
+    "url": "http://www.airfarewatchdog.com/cheap-flights/from-pittsburgh-pennsylvania/866/",
+    "title": "Airfare deals & money-saving tips from our airfare experts",
+    "description": "Get Travel Tips & Low Fare Alerts From Our Team of Experts Home Airport: Sign Up Now ",
+    "frecency": 4541,
+    "url_hash": 47992996502090,
+    "last_visit_date": 1758203927042111
+  }
+}

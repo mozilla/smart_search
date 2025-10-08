@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Tom Laughlin (I) (1931\u20132013) Actor | Director | Writer; biography snippet describing his birth, career and works like Billy Jack.",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns Tom Laughlin's biography and filmography, not easy DIY room decoration ideas; it is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Tom Laughlin (I)  (1931\u00e22013) \"SEE RANKTom Laughlin (I) (1931\u20132013)Actor | Director | Writer Tom Laughlin was born on August 10, 1931 in Milwaukee, Wisconsin, USA as Thomas Robert Laughlin. He was an actor and director, known for Billy Jack (1971), The Trial of Billy Jack (1974) and The Born Losers (1967). He was married to Delo",
+  "history": {
+    "url": "http://www.imdb.com/name/nm0490871/",
+    "title": "Tom Laughlin (I)  (1931\u00e22013)",
+    "description": "\"SEE RANKTom Laughlin (I) (1931\u20132013)Actor | Director | Writer Tom Laughlin was born on August 10, 1931 in Milwaukee, Wisconsin, USA as Thomas Robert Laughlin. He was an actor and director, known for Billy Jack (1971), The Trial of Billy Jack (1974) and The Born Losers (1967). He was married to Delo",
+    "frecency": 2761,
+    "url_hash": 43013498775999,
+    "last_visit_date": 1758203928312735
+  }
+}

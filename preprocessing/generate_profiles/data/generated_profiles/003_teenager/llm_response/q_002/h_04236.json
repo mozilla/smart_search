@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Manila page content about Manila/Maynila disambiguation (not related to DIY room decorations).",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns Manila and related topics, not DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Manila \"From Wikipedia, the free encyclopedia (Redirected from Manila, Philippines)navigation search\"\"Maynila\"\" and \"\"Maynilad\"\" redirect here. For the Philippine TV series produced by the GMA Network, see Maynila (TV series). For related water companies, see Maynilad Water Services and Manila Water. This",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Manila,_Philippines",
+    "title": "Manila",
+    "description": "\"From Wikipedia, the free encyclopedia (Redirected from Manila, Philippines)navigation search\"\"Maynila\"\" and \"\"Maynilad\"\" redirect here. For the Philippine TV series produced by the GMA Network, see Maynila (TV series). For related water companies, see Maynilad Water Services and Manila Water. This ",
+    "frecency": 611,
+    "url_hash": 15790076021197,
+    "last_visit_date": 1758203929767228
+  }
+}

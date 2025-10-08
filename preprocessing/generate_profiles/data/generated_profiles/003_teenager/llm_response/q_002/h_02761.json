@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "One Piece \\\"Edit Manga Information One Piece Add to My List Add to Favorites Buy on Manga Store Alternative Titles English: One Piece Japanese: ONE PIECEInformation Type: Manga Volumes: Unknown Chapters: Unknown Status: Publishing Published: Jul 22, 1997 to ? Genres: Action, Adventure, Comedy, Fantasy, Shounen",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about the One Piece manga, unrelated to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "One Piece \"Edit Manga Information One Piece Add to My List Add to Favorites Buy on Manga Store Alternative Titles English: One Piece Japanese: ONE PIECEInformation Type: Manga Volumes: Unknown Chapters: Unknown Status: Publishing Published: Jul 22, 1997 to ? Genres: Action, Adventure, Comedy, Fantasy, Shounen",
+  "history": {
+    "url": "https://myanimelist.net/manga/13/one_piece",
+    "title": "One Piece",
+    "description": "\"Edit Manga Information One Piece Add to My List Add to Favorites Buy on Manga Store Alternative Titles English: One Piece Japanese: ONE PIECEInformation Type: Manga Volumes: Unknown Chapters: Unknown Status: Publishing Published: Jul 22, 1997 to ? Genres: Action, Adventure, Comedy, Fantasy, Shounen",
+    "frecency": 2121,
+    "url_hash": 78758647606004,
+    "last_visit_date": 1758203935725228
+  }
+}

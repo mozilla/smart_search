@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "My Speech Class Speech Introductions Writing the Introduction It\u2019s no accident that most good Hollywood movie scripts follow this pattern: exciting opening (think Saving Private Ryan), an interesting and easy to follow story line, and a memorable finish (think Shawshank Redemption). Screen writers realize that thei",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses speech/classroom writing and screenwriting, not Python libraries or machine learning topics.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "My Speech Class Speech Introductions Writing the Introduction It\u2019s no accident that most good Hollywood movie scripts follow this pattern: exciting opening (think Saving Private Ryan), an interesting and easy to follow story line, and a memorable finish (think Shawshank Redemption). Screen writers realize that thei",
+  "history": {
+    "url": "http://www.myspeechclass.com/intros.html",
+    "title": "My Speech Class",
+    "description": "Speech Introductions Writing the Introduction It\u2019s no accident that most good Hollywood movie scripts follow this pattern: exciting opening (think Saving Private Ryan), an interesting and easy to follow story line, and a memorable finish (think Shawshank Redemption). Screen writers realize that thei",
+    "frecency": 4437,
+    "url_hash": 63100082467675,
+    "last_visit_date": 1758203928142200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "crossfire crossfire Crossfire is when weapons are being fired from different directions, crossing the same general area. Getting caught in crossfire during a shootout can be deadly. Crossfire is a situation that comes up when gangsters and police officers are shooting at each other, or in a war during a battl",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The content discusses crossfire and weapons, not integrated development environments or software development topics; therefore it is not relevant to the query about top IDEs.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "crossfire crossfire Crossfire is when weapons are being fired from different directions, crossing the same general area. Getting caught in crossfire during a shootout can be deadly. Crossfire is a situation that comes up when gangsters and police officers are shooting at each other, or in a war during a battl",
+  "history": {
+    "url": "https://www.vocabulary.com/dictionary/crossfire",
+    "title": "crossfire",
+    "description": "crossfire Crossfire is when weapons are being fired from different directions, crossing the same general area. Getting caught in crossfire during a shootout can be deadly. Crossfire is a situation that comes up when gangsters and police officers are shooting at each other, or in a war during a battl",
+    "frecency": 3485,
+    "url_hash": 98396197162965,
+    "last_visit_date": 1758203928842200
+  }
+}

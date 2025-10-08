@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Here\u00e2s What\u00e2s Happening in Chicago Culture This Week \"Here\u2019s What\u2019s Happening in Chicago Culture This Week Chance the Rapper curates a new music festival, The Art Institute wants to raise admission prices, and Yoko Ono is putting some art in Jackson Park. By Matt Pollock Published June 9, 20150 comments Chance the Rapper will hand-pick artists for a f",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Chicago culture and arts, not related to improving sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Here\u00e2s What\u00e2s Happening in Chicago Culture This Week \"Here\u2019s What\u2019s Happening in Chicago Culture This Week Chance the Rapper curates a new music festival, The Art Institute wants to raise admission prices, and Yoko Ono is putting some art in Jackson Park. By Matt Pollock Published June 9, 20150 comments Chance the Rapper will hand-pick artists for a f",
+  "history": {
+    "url": "http://www.chicagomag.com/arts-culture/June-2015/Heres-Whats-Happening-in-Chicago-Culture-This-Week-6-9/",
+    "title": "Here\u00e2s What\u00e2s Happening in Chicago Culture This Week",
+    "description": "\"Here\u2019s What\u2019s Happening in Chicago Culture This Week Chance the Rapper curates a new music festival, The Art Institute wants to raise admission prices, and Yoko Ono is putting some art in Jackson Park. By Matt Pollock Published June 9, 20150 comments Chance the Rapper will hand-pick artists for a f",
+    "frecency": 1362,
+    "url_hash": 29139742415972,
+    "last_visit_date": 1758203928876735
+  }
+}

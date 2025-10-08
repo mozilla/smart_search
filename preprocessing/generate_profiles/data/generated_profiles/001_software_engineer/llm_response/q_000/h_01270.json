@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Swearing at work - a guide \"Swearing at work - a guide Please take the title's warning seriously, I will be using swear words in this post. If you'd rather not read them but are still interested in the content here then ask me via twitter and I'll try and come up with a swearing free version. There seems to be a bit of contro",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about swearing at work and contains no content related to debugging APIs; not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Swearing at work - a guide \"Swearing at work - a guide Please take the title's warning seriously, I will be using swear words in this post. If you'd rather not read them but are still interested in the content here then ask me via twitter and I'll try and come up with a swearing free version. There seems to be a bit of contro",
+  "history": {
+    "url": "http://nic.ferrier.me.uk/blog/2013_04/swearing-at-work",
+    "title": "Swearing at work - a guide",
+    "description": "\"Swearing at work - a guide Please take the title's warning seriously, I will be using swear words in this post. If you'd rather not read them but are still interested in the content here then ask me via twitter and I'll try and come up with a swearing free version. There seems to be a bit of contro",
+    "frecency": 527,
+    "url_hash": 23553797703279,
+    "last_visit_date": 1758203927750200
+  }
+}

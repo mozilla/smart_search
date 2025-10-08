@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Get all our web development and design books and courses for just $9. Get all our web development and design books and courses for just $9. Plus, exclusive deals on our favorite books, courses and tools outside of Site Point, you won't find anywhere else. Get This Deal Now",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a promotional advertisement about books/courses and does not address debugging an API integration; not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Get all our web development and design books and courses for just $9. Get all our web development and design books and courses for just $9. Plus, exclusive deals on our favorite books, courses and tools outside of Site Point, you won't find anywhere else. Get This Deal Now",
+  "history": {
+    "url": "https://www.sitepoint.com/10-excellent-free-rich-text-editors/",
+    "title": "Get all our web development and design books and courses for just $9.",
+    "description": "Get all our web development and design books and courses for just $9. Plus, exclusive deals on our favorite books, courses and tools outside of Site Point, you won't find anywhere else. Get This Deal Now ",
+    "frecency": 3732,
+    "url_hash": 59098602336276,
+    "last_visit_date": 1758203928828111
+  }
+}

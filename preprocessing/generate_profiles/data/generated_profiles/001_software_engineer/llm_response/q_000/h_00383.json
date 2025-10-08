@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "What is a Herbarium? What is a Herbarium? An Internal View of Kew's Herbarium A herbarium is a collection of preserved plants stored, catalogued, and arranged systematically for study by professionals and amateurs from many walks of life. A collection like this is a vital reference when you need to identify a plant and",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses herbariums and plant collections, not APIs or debugging techniques.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "What is a Herbarium? What is a Herbarium? An Internal View of Kew's Herbarium A herbarium is a collection of preserved plants stored, catalogued, and arranged systematically for study by professionals and amateurs from many walks of life. A collection like this is a vital reference when you need to identify a plant and",
+  "history": {
+    "url": "http://apps.kew.org/herbcat/gotoWhatIsHerbarium.do",
+    "title": "What is a Herbarium?",
+    "description": "What is a Herbarium? An Internal View of Kew's Herbarium A herbarium is a collection of preserved plants stored, catalogued, and arranged systematically for study by professionals and amateurs from many walks of life. A collection like this is a vital reference when you need to identify a plant and ",
+    "frecency": 3702,
+    "url_hash": 48776807247771,
+    "last_visit_date": 1758203928026200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "How to Hook up a Samsung Galaxy Tab to a TV \\\"The Samsung Galaxy Tab can connect to a high-definition television to make it easier to watch videos or show off your pictures. You can also use the television's controls to adjust the tablet's volume. You will need an HDMI dongle or Multimedia Dock to make your tablet HDMI-compatible. Video of the",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses connecting a Samsung Galaxy Tab to a TV and related hardware; it is unrelated to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "How to Hook up a Samsung Galaxy Tab to a TV \"The Samsung Galaxy Tab can connect to a high-definition television to make it easier to watch videos or show off your pictures. You can also use the television's controls to adjust the tablet's volume. You will need an HDMI dongle or Multimedia Dock to make your tablet HDMI-compatible. Video of the",
+  "history": {
+    "url": "http://www.ehow.com/how_8785847_hook-up-galaxy-tablet-tv.html",
+    "title": "How to Hook up a Samsung Galaxy Tab to a TV",
+    "description": "\"The Samsung Galaxy Tab can connect to a high-definition television to make it easier to watch videos or show off your pictures. You can also use the television's controls to adjust the tablet's volume. You will need an HDMI dongle or Multimedia Dock to make your tablet HDMI-compatible. Video of the",
+    "frecency": 928,
+    "url_hash": 79168050015842,
+    "last_visit_date": 1758203927670200
+  }
+}

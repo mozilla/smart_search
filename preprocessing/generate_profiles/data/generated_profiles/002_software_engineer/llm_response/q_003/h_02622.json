@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "LAMAR, MIRABEAU BUONAPARTE \\\"LAMAR, MIRABEAU BUONAPARTEHerbert Gambrell Portrait of Mirabeau Buonaparte Lamar. Image courtesy of the Texas State Library and Archives Commission . Image available on the Internet and included in accordance with Title 17 U. S. C. Section 107. Portrait of James W. Fannin while a cadet at the US Mi",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns a historical portrait of Mirabeau Buonaparte Lamar and unrelated biographical/historical content, with no mention of database queries or optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "LAMAR, MIRABEAU BUONAPARTE \"LAMAR, MIRABEAU BUONAPARTEHerbert Gambrell Portrait of Mirabeau Buonaparte Lamar. Image courtesy of the Texas State Library and Archives Commission . Image available on the Internet and included in accordance with Title 17 U. S. C. Section 107. Portrait of James W. Fannin while a cadet at the US Mi",
+  "history": {
+    "url": "https://tshaonline.org/handbook/online/articles/fla15",
+    "title": "LAMAR, MIRABEAU BUONAPARTE",
+    "description": "\"LAMAR, MIRABEAU BUONAPARTEHerbert Gambrell Portrait of Mirabeau Buonaparte Lamar. Image courtesy of the Texas State Library and Archives Commission . Image available on the Internet and included in accordance with Title 17 U. S. C. Section 107. Portrait of James W. Fannin while a cadet at the US Mi",
+    "frecency": 212,
+    "url_hash": 69934923596534,
+    "last_visit_date": 1758203928338111
+  }
+}

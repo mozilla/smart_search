@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "EPEL/FAQ \\\"Contents [ hide ]1 What is EPEL?2 Why is the Fedora Project sponsoring EPEL?3 Is EPEL commercially supported by Red Hat?4 Which releases of Red Hat Enterprise Linux or derivatives does EPEL project provides packages for?5 How is EPEL different from other third party repositories for RHEL and deriva",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns EPEL/Fedora repository information, not database query optimization; it is not relevant to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "EPEL/FAQ \"Contents [ hide ]1 What is EPEL?2 Why is the Fedora Project sponsoring EPEL?3 Is EPEL commercially supported by Red Hat?4 Which releases of Red Hat Enterprise Linux or derivatives does EPEL project provides packages for?5 How is EPEL different from other third party repositories for RHEL and deriva",
+  "history": {
+    "url": "http://fedoraproject.org/wiki/EPEL/FAQ",
+    "title": "EPEL/FAQ",
+    "description": "\"Contents [ hide ]1 What is EPEL?2 Why is the Fedora Project sponsoring EPEL?3 Is EPEL commercially supported by Red Hat?4 Which releases of Red Hat Enterprise Linux or derivatives does EPEL project provides packages for?5 How is EPEL different from other third party repositories for RHEL and deriva",
+    "frecency": 2446,
+    "url_hash": 11355849530402,
+    "last_visit_date": 1758203928352111
+  }
+}

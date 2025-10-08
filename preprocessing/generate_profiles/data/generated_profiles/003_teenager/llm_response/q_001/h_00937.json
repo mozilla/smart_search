@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "How Often Should I Eat? Q: How often should a person with type 2 diabetes eat? A: Everyone needs to eat about every four to six hours during the day to keep energy levels up. People with type 2 diabetes usually have better blood glucose control if their meals and carbohydrates are spaced evenly throughout the day. Too many",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses diabetes dietary guidelines and has no relevance to TikTok trends for 2024.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "How Often Should I Eat? Q: How often should a person with type 2 diabetes eat? A: Everyone needs to eat about every four to six hours during the day to keep energy levels up. People with type 2 diabetes usually have better blood glucose control if their meals and carbohydrates are spaced evenly throughout the day. Too many",
+  "history": {
+    "url": "http://www.diabeticlivingonline.com/expert-qa/how-often-should-i-eat",
+    "title": "How Often Should I Eat?",
+    "description": "Q: How often should a person with type 2 diabetes eat? A: Everyone needs to eat about every four to six hours during the day to keep energy levels up. People with type 2 diabetes usually have better blood glucose control if their meals and carbohydrates are spaced evenly throughout the day. Too many",
+    "frecency": 4018,
+    "url_hash": 62635278250191,
+    "last_visit_date": 1758203932203228
+  }
+}

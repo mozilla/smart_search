@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Car Rentals in Las Vegas Car Rentals in Las Vegas Flight only Hotel only Over 321,000 worldwide Flight + Hotel Carsselected Pick-up Drop-off Pick-up date Time Drop-off date Time Advanced options Car Type Special equipment Infant seat Ski rack Left hand control Toddler seat Snow chains Right hand control Navigation System Se",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about car rentals and travel options, not about improving athletic performance or sports skills.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Car Rentals in Las Vegas Car Rentals in Las Vegas Flight only Hotel only Over 321,000 worldwide Flight + Hotel Carsselected Pick-up Drop-off Pick-up date Time Drop-off date Time Advanced options Car Type Special equipment Infant seat Ski rack Left hand control Toddler seat Snow chains Right hand control Navigation System Se",
+  "history": {
+    "url": "https://www.expedia.ca/Car-Rentals-In-Las-Vegas.d178276.Car-Rental-Guide",
+    "title": "Car Rentals in Las Vegas",
+    "description": "Car Rentals in Las Vegas Flight only Hotel only Over 321,000 worldwide Flight + Hotel Carsselected Pick-up Drop-off Pick-up date Time Drop-off date Time Advanced options Car Type Special equipment Infant seat Ski rack Left hand control Toddler seat Snow chains Right hand control Navigation System Se",
+    "frecency": 1692,
+    "url_hash": 72665757738239,
+    "last_visit_date": 1758203934499228
+  }
+}

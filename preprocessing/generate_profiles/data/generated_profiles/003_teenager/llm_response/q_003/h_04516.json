@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Claude McKay \"From Wikipedia, the free encyclopedianavigation search Claude Mc Kay Born Festus Claudius Mc Kay September 15, 1889 Clarendon Parish, Jamaica Died May 22, 1948 (aged 58) Chicago, Illinois Occupation Writer, poet, journalist Education Kansas State College, Tuskegee Institute (now known as Tuskegee U",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Claude McKay, a historical writer/poet, not related to apps for improving study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Claude McKay \"From Wikipedia, the free encyclopedianavigation search Claude Mc Kay Born Festus Claudius Mc Kay September 15, 1889 Clarendon Parish, Jamaica Died May 22, 1948 (aged 58) Chicago, Illinois Occupation Writer, poet, journalist Education Kansas State College, Tuskegee Institute (now known as Tuskegee U",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Claude_McKay",
+    "title": "Claude McKay",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search Claude Mc Kay Born Festus Claudius Mc Kay September 15, 1889 Clarendon Parish, Jamaica Died May 22, 1948 (aged 58) Chicago, Illinois Occupation Writer, poet, journalist Education Kansas State College, Tuskegee Institute (now known as Tuskegee U",
+    "frecency": 319,
+    "url_hash": 10187721742714,
+    "last_visit_date": 1758203931521228
+  }
+}

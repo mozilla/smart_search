@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Spa Town Spa Town Cheltenham was little more than a village until the early 19th century, with the river running down the High Street (for \u201criver\u201d read \u201cstinking sludge\u201d) with stepping stones across it, and stray farm animals milling about, its principle employment opportunities being brewing and the knittin",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a spa town and not related to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Spa Town Spa Town Cheltenham was little more than a village until the early 19th century, with the river running down the High Street (for \u201criver\u201d read \u201cstinking sludge\u201d) with stepping stones across it, and stray farm animals milling about, its principle employment opportunities being brewing and the knittin",
+  "history": {
+    "url": "https://cheltonia.wordpress.com/spa-town/",
+    "title": "Spa Town",
+    "description": "Spa Town Cheltenham was little more than a village until the early 19th century, with the river running down the High Street (for \u201criver\u201d read \u201cstinking sludge\u201d) with stepping stones across it, and stray farm animals milling about, its principle employment opportunities being brewing and the knittin",
+    "frecency": 1245,
+    "url_hash": 35217312363175,
+    "last_visit_date": 1758203928608200
+  }
+}

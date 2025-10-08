@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Inside Transformers \\\"Inside Transformers How a transformer works, and how to design them. Dissection of a transformer. Ideal Transformer A transformer is a device in which two circuits are coupled by a magnetic field that is linked to both. There is no conductive connection between the circuits, which may be at arbitra",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses electrical transformers, not Python libraries or machine learning; it is not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Inside Transformers \"Inside Transformers How a transformer works, and how to design them. Dissection of a transformer. Ideal Transformer A transformer is a device in which two circuits are coupled by a magnetic field that is linked to both. There is no conductive connection between the circuits, which may be at arbitra",
+  "history": {
+    "url": "http://mysite.du.edu/~jcalvert/tech/transfor.htm",
+    "title": "Inside Transformers",
+    "description": "\"Inside Transformers How a transformer works, and how to design them. Dissection of a transformer. Ideal Transformer A transformer is a device in which two circuits are coupled by a magnetic field that is linked to both. There is no conductive connection between the circuits, which may be at arbitra",
+    "frecency": 3569,
+    "url_hash": 34575510451056,
+    "last_visit_date": 1758203928358111
+  }
+}

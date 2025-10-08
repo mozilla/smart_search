@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Watermelon \"Watermelon Watermelon ( Citrullus lanatus) is an iconic summer treat. Watermelon seed-spitting contests are a fond memory for past generations, but perhaps a foreign concept for those who have grown up on the seedless varieties most commonly found in grocery stores today. Florida has a great climat",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result content describes Watermelon, not Python libraries or machine learning, so it is not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Watermelon \"Watermelon Watermelon ( Citrullus lanatus) is an iconic summer treat. Watermelon seed-spitting contests are a fond memory for past generations, but perhaps a foreign concept for those who have grown up on the seedless varieties most commonly found in grocery stores today. Florida has a great climat",
+  "history": {
+    "url": "http://gardeningsolutions.ifas.ufl.edu/plants/edibles/fruits/watermelon.html",
+    "title": "Watermelon",
+    "description": "\"Watermelon Watermelon ( Citrullus lanatus) is an iconic summer treat. Watermelon seed-spitting contests are a fond memory for past generations, but perhaps a foreign concept for those who have grown up on the seedless varieties most commonly found in grocery stores today. Florida has a great climat",
+    "frecency": 2971,
+    "url_hash": 50593133744522,
+    "last_visit_date": 1758203929166111
+  }
+}

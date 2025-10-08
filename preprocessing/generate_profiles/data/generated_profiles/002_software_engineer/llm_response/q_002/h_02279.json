@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Made in L.A. 2016: a, the, though, only The third iteration of the Hammer\u2019s biennial exhibition continues to highlight the practices of artists working throughout Los Angeles and the surrounding areas. Made in L. A. 2016: a, the, though, only is the third iteration of the Hammer\u2019s biennial exhibition highlighting the practices of artists",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses an art exhibition in Los Angeles and is unrelated to IDEs or software development.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Made in L.A. 2016: a, the, though, only The third iteration of the Hammer\u2019s biennial exhibition continues to highlight the practices of artists working throughout Los Angeles and the surrounding areas. Made in L. A. 2016: a, the, though, only is the third iteration of the Hammer\u2019s biennial exhibition highlighting the practices of artists",
+  "history": {
+    "url": "https://hammer.ucla.edu/made-in-la-2016/",
+    "title": "Made in L.A. 2016: a, the, though, only",
+    "description": "The third iteration of the Hammer\u2019s biennial exhibition continues to highlight the practices of artists working throughout Los Angeles and the surrounding areas. Made in L. A. 2016: a, the, though, only is the third iteration of the Hammer\u2019s biennial exhibition highlighting the practices of artists ",
+    "frecency": 882,
+    "url_hash": 85328066671296,
+    "last_visit_date": 1758203928662111
+  }
+}

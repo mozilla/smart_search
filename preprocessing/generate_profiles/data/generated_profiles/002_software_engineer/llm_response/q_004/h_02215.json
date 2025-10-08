@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "How to Measure for a New Door and Frame Related Articles How to Measure Replacement Exterior Doors Standard Entrance Door Dimensions Standard Inside Door Sizes How to Size Rough Door Frame Openings A standard hinged door measures 30 inches wide by 80 inches tall, which building trades workers call a \u201c2-6\u201d door, for 2 feet, 6 inches wide.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about door measurements and door frames, not Docker setup; not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "How to Measure for a New Door and Frame Related Articles How to Measure Replacement Exterior Doors Standard Entrance Door Dimensions Standard Inside Door Sizes How to Size Rough Door Frame Openings A standard hinged door measures 30 inches wide by 80 inches tall, which building trades workers call a \u201c2-6\u201d door, for 2 feet, 6 inches wide.",
+  "history": {
+    "url": "http://homeguides.sfgate.com/measure-new-door-frame-28447.html",
+    "title": "How to Measure for a New Door and Frame",
+    "description": "Related Articles How to Measure Replacement Exterior Doors Standard Entrance Door Dimensions Standard Inside Door Sizes How to Size Rough Door Frame Openings A standard hinged door measures 30 inches wide by 80 inches tall, which building trades workers call a \u201c2-6\u201d door, for 2 feet, 6 inches wide. ",
+    "frecency": 972,
+    "url_hash": 4492032331731,
+    "last_visit_date": 1758203931834111
+  }
+}

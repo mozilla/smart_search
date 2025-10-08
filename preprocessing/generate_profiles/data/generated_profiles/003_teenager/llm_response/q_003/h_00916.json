@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Welcome to 7th Street Public Market Welcome to 7th Street Public Market Our doors greet you with a one-of-a-kind atmosphere. We pride ourselves on fostering an environment that inspires food and drink innovations, as well as being your go-to place for friend and family gatherings. Our vendors are all local and share a passion for food",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page is about a public market and food vendors, not about apps or studying; it does not address the user's query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Welcome to 7th Street Public Market Welcome to 7th Street Public Market Our doors greet you with a one-of-a-kind atmosphere. We pride ourselves on fostering an environment that inspires food and drink innovations, as well as being your go-to place for friend and family gatherings. Our vendors are all local and share a passion for food",
+  "history": {
+    "url": "http://www.7thstreetpublicmarket.com/",
+    "title": "Welcome to 7th Street Public Market",
+    "description": "Welcome to 7th Street Public Market Our doors greet you with a one-of-a-kind atmosphere. We pride ourselves on fostering an environment that inspires food and drink innovations, as well as being your go-to place for friend and family gatherings. Our vendors are all local and share a passion for food",
+    "frecency": 4044,
+    "url_hash": 86238723222971,
+    "last_visit_date": 1758203928762735
+  }
+}

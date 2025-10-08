@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Ferris Independent School District Educating Students. Enriching Lives. \"Pause Prev Next Welcome Ferris ISD wants to welcome you to a new school year and a brand new web space for the Ferris ISD community. Ferris ISD replaces its previous website with a new web and e Learning platform that will bring our schools, students and teachers to forefront of the 21st century. O",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a Ferris Independent School District website about education, unrelated to API debugging; no content about API integration or debugging.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Ferris Independent School District Educating Students. Enriching Lives. \"Pause Prev Next Welcome Ferris ISD wants to welcome you to a new school year and a brand new web space for the Ferris ISD community. Ferris ISD replaces its previous website with a new web and e Learning platform that will bring our schools, students and teachers to forefront of the 21st century. O",
+  "history": {
+    "url": "http://www.ferrisisd.org/",
+    "title": "Ferris Independent School District Educating Students. Enriching Lives.",
+    "description": "\"Pause Prev Next Welcome Ferris ISD wants to welcome you to a new school year and a brand new web space for the Ferris ISD community. Ferris ISD replaces its previous website with a new web and e Learning platform that will bring our schools, students and teachers to forefront of the 21st century. O",
+    "frecency": 474,
+    "url_hash": 51008569689554,
+    "last_visit_date": 1758203926978111
+  }
+}

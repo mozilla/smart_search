@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "South Point Clerk Office South Point Clerk Office Home Government Administration Offices Clerk Offices Ohio Lawrence County South Point Find South Point Ohio clerk offices, including county, city, and circuit clerks, and clerks of court. Clerks provide information on public court records and legal documents, criminal, jail,",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a clerk office and legal records; it contains no content related to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "South Point Clerk Office South Point Clerk Office Home Government Administration Offices Clerk Offices Ohio Lawrence County South Point Find South Point Ohio clerk offices, including county, city, and circuit clerks, and clerks of court. Clerks provide information on public court records and legal documents, criminal, jail,",
+  "history": {
+    "url": "http://www.countyoffice.org/south-point-oh-clerk/",
+    "title": "South Point Clerk Office",
+    "description": "South Point Clerk Office Home Government Administration Offices Clerk Offices Ohio Lawrence County South Point Find South Point Ohio clerk offices, including county, city, and circuit clerks, and clerks of court. Clerks provide information on public court records and legal documents, criminal, jail,",
+    "frecency": 2169,
+    "url_hash": 22221215686960,
+    "last_visit_date": 1758203927534111
+  }
+}

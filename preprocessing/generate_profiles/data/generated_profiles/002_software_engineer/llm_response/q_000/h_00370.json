@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Convert acre to hectare - Conversion of Measurement Units \"Convert acre to hectareacrehectare Did you mean to convert acreacre [commercial]acre [Ireland]acre [survey]to hectare More information from the unit converter How many acre in 1 hectare? The answer is 2.4710538146717. We assume you are converting between acre and hectare. You can view more details",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about converting units (acre to hectare) and is unrelated to debugging an API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Convert acre to hectare - Conversion of Measurement Units \"Convert acre to hectareacrehectare Did you mean to convert acreacre [commercial]acre [Ireland]acre [survey]to hectare More information from the unit converter How many acre in 1 hectare? The answer is 2.4710538146717. We assume you are converting between acre and hectare. You can view more details",
+  "history": {
+    "url": "http://www.convertunits.com/from/acre/to/hectare",
+    "title": "Convert acre to hectare - Conversion of Measurement Units",
+    "description": "\"Convert acre to hectareacrehectare Did you mean to convert acreacre [commercial]acre [Ireland]acre [survey]to hectare More information from the unit converter How many acre in 1 hectare? The answer is 2.4710538146717. We assume you are converting between acre and hectare. You can view more details ",
+    "frecency": 4365,
+    "url_hash": 43626559404496,
+    "last_visit_date": 1758203929742111
+  }
+}

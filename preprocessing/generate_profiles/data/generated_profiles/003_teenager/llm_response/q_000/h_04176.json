@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Movies & Series Featured Trailer Check out the trailer for Fantasia 2000Up Next Replay Video Play Pause Unmute Mute Movies & Series Show More Mickey & Friends Mickey Mouse Minnie Mouse Donald Duck Daisy Duck Goofy Pluto",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about movie trailers and Disney characters, not about starting a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Movies & Series Featured Trailer Check out the trailer for Fantasia 2000Up Next Replay Video Play Pause Unmute Mute Movies & Series Show More Mickey & Friends Mickey Mouse Minnie Mouse Donald Duck Daisy Duck Goofy Pluto",
+  "history": {
+    "url": "http://mickey.disney.com/movies-series",
+    "title": "Movies & Series",
+    "description": "Featured Trailer Check out the trailer for Fantasia 2000Up Next Replay Video Play Pause Unmute Mute Movies & Series Show More Mickey & Friends Mickey Mouse Minnie Mouse Donald Duck Daisy Duck Goofy Pluto ",
+    "frecency": 664,
+    "url_hash": 38050417647031,
+    "last_visit_date": 1758203927456735
+  }
+}

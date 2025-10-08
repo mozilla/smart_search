@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "How to Renew a Passport in New Jersey \"Renew your old passport in New Jersey before international travel. Nobody can deny New Jersey bragging rights for being the birthplace of Bruce Springsteen and Whitney Houston, but when it comes to passport renewals, New Jersey travelers have to follow federal rules like everybody else. Luckily, th",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses renewing a passport in New Jersey and does not address improving sports performance or skills.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "How to Renew a Passport in New Jersey \"Renew your old passport in New Jersey before international travel. Nobody can deny New Jersey bragging rights for being the birthplace of Bruce Springsteen and Whitney Houston, but when it comes to passport renewals, New Jersey travelers have to follow federal rules like everybody else. Luckily, th",
+  "history": {
+    "url": "http://traveltips.usatoday.com/renew-passport-new-jersey-62731.html",
+    "title": "How to Renew a Passport in New Jersey",
+    "description": "\"Renew your old passport in New Jersey before international travel. Nobody can deny New Jersey bragging rights for being the birthplace of Bruce Springsteen and Whitney Houston, but when it comes to passport renewals, New Jersey travelers have to follow federal rules like everybody else. Luckily, th",
+    "frecency": 1429,
+    "url_hash": 28970781861954,
+    "last_visit_date": 1758203934441228
+  }
+}

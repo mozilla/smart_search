@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "How do I... Dynamically fill Microsoft Word fields using Access data? \"0This blog post is also available in PDF form as a Tech Republic download. The download includes a sample Access database and Word form. Each Microsoft Office application specializes in a specific job. Word lets you create and edit documents and Excel analyzes your data. Storing data is Access' cla",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses dynamically filling Word fields using Access data, which is unrelated to optimizing database queries.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "How do I... Dynamically fill Microsoft Word fields using Access data? \"0This blog post is also available in PDF form as a Tech Republic download. The download includes a sample Access database and Word form. Each Microsoft Office application specializes in a specific job. Word lets you create and edit documents and Excel analyzes your data. Storing data is Access' cla",
+  "history": {
+    "url": "http://www.techrepublic.com/blog/how-do-i/how-do-i-dynamically-fill-microsoft-word-fields-using-access-data/",
+    "title": "How do I... Dynamically fill Microsoft Word fields using Access data?",
+    "description": "\"0This blog post is also available in PDF form as a Tech Republic download. The download includes a sample Access database and Word form. Each Microsoft Office application specializes in a specific job. Word lets you create and edit documents and Excel analyzes your data. Storing data is Access' cla",
+    "frecency": 707,
+    "url_hash": 66760524053412,
+    "last_visit_date": 1758203927494200
+  }
+}

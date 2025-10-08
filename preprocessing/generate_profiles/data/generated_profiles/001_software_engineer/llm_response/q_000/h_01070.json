@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Search Box \"Search Box This example teaches you how to create your own search box in Excel. If you are in a hurry, simply download the Excel file. This is what the spreadsheet looks like. If you enter a search query into cell B2, Excel searches through column E and the results appear in column B. To create thi",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses creating a search box in Excel, not debugging API integration. It does not address API integration debugging.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Search Box \"Search Box This example teaches you how to create your own search box in Excel. If you are in a hurry, simply download the Excel file. This is what the spreadsheet looks like. If you enter a search query into cell B2, Excel searches through column E and the results appear in column B. To create thi",
+  "history": {
+    "url": "http://www.excel-easy.com/examples/search-box.html",
+    "title": "Search Box",
+    "description": "\"Search Box This example teaches you how to create your own search box in Excel. If you are in a hurry, simply download the Excel file. This is what the spreadsheet looks like. If you enter a search query into cell B2, Excel searches through column E and the results appear in column B. To create thi",
+    "frecency": 1211,
+    "url_hash": 10696880389724,
+    "last_visit_date": 1758203926852200
+  }
+}

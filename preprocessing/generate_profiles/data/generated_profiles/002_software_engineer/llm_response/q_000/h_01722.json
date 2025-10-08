@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Leading green Leading greenleed\u00ae training and consulting Since 2009, Leadinggreen has been a leading education provider for students and professionals in the built-environment and sustainable related fields. Our online and live training comes complete with study guides, practice exams and our instructors bring in",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a sustainability training provider; there is no content related to APIs, debugging, or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Leading green Leading greenleed\u00ae training and consulting Since 2009, Leadinggreen has been a leading education provider for students and professionals in the built-environment and sustainable related fields. Our online and live training comes complete with study guides, practice exams and our instructors bring in",
+  "history": {
+    "url": "http://leadinggreen.com/",
+    "title": "Leading green",
+    "description": "Leading greenleed\u00ae training and consulting Since 2009, Leadinggreen has been a leading education provider for students and professionals in the built-environment and sustainable related fields. Our online and live training comes complete with study guides, practice exams and our instructors bring in",
+    "frecency": 1890,
+    "url_hash": 49799348329931,
+    "last_visit_date": 1758203927930111
+  }
+}

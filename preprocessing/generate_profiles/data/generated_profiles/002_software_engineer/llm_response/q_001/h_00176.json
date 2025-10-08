@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "The School Library Learning Commons - Future Forward The School Library Learning Commons is a participatory learning community with attention to excellent instructional designs and use of best resources and technologies to help learners build personal expertise and collaborative knowledge. Everyone",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a school library learning commons, not content about Python libraries or machine learning; unrelated to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "The School Library Learning Commons - Future Forward The School Library Learning Commons - Future Forward The School Library Learning Commons is a participatory learning community with attention to excellent instructional designs and use of best resources and technologies to help learners build personal expertise and collaborative knowledge. Everyone",
+  "history": {
+    "url": "http://www.schoollearningcommons.info/",
+    "title": "The School Library Learning Commons - Future Forward",
+    "description": "The School Library Learning Commons - Future Forward The School Library Learning Commons is a participatory learning community with attention to excellent instructional designs and use of best resources and technologies to help learners build personal expertise and collaborative knowledge. Everyone ",
+    "frecency": 4714,
+    "url_hash": 77194893688840,
+    "last_visit_date": 1758203928220111
+  }
+}

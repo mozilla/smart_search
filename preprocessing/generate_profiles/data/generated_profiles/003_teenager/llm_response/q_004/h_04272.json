@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Update Your Book Details \\\"Search Help Update Published Books Update Your Book Details Update Your Book Details To update your book details: Sign in to kdp.amazon.com and go to your Bookshelf Click the ellipsis button (\\\"...\\\") under KINDLE EBOOK ACTIONS or PAPERBACK ACTIONS next to the book you want to update Select \\\"Edit e\\\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about updating book details on Kindle Direct Publishing (KDP), which is unrelated to improving athletic performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Update Your Book Details \"Search Help Update Published Books Update Your Book Details Update Your Book Details To update your book details: Sign in to kdp.amazon.com and go to your Bookshelf Click the ellipsis button (\"\"\u2026\"\") under KINDLE EBOOK ACTIONS or PAPERBACK ACTIONS next to the book you want to update Select \"\"Edit e",
+  "history": {
+    "url": "https://kdp.amazon.com/help?topicId=A20O3YB8HW1PIW",
+    "title": "Update Your Book Details",
+    "description": "\"Search Help Update Published Books Update Your Book Details Update Your Book Details To update your book details: Sign in to kdp.amazon.com and go to your Bookshelf Click the ellipsis button (\"\"\u2026\"\") under KINDLE EBOOK ACTIONS or PAPERBACK ACTIONS next to the book you want to update Select \"\"Edit e ",
+    "frecency": 570,
+    "url_hash": 26129778176486,
+    "last_visit_date": 1758203934991228
+  }
+}

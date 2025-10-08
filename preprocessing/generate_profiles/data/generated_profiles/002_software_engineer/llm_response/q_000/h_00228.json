@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Catalyst 6500 Release 12.2SX Software Configuration Guide This chapter describes how to configure IP Source Guard. Cisco IOS Release 12.2 (33)SXH and later releases support IP Source Guard. Note For complete syntax and usage information for the commands used in this chapter, see the Cisco IOS Master Command List, at this URL:http://www.cisco.com/en/US/docs",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a Cisco Catalyst 6500 hardware/software configuration guide focused on IP Source Guard, not related to debugging API integrations.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Catalyst 6500 Release 12.2SX Software Configuration Guide This chapter describes how to configure IP Source Guard. Cisco IOS Release 12.2 (33)SXH and later releases support IP Source Guard. Note For complete syntax and usage information for the commands used in this chapter, see the Cisco IOS Master Command List, at this URL:http://www.cisco.com/en/US/docs",
+  "history": {
+    "url": "http://www.cisco.com/c/en/us/td/docs/switches/lan/catalyst6500/ios/12-2SX/configuration/guide/book/ipsrcgrd.html",
+    "title": "Catalyst 6500 Release 12.2SX Software Configuration Guide",
+    "description": "This chapter describes how to configure IP Source Guard. Cisco IOS Release 12.2 (33)SXH and later releases support IP Source Guard. Note For complete syntax and usage information for the commands used in this chapter, see the Cisco IOS Master Command List, at this URL:http://www.cisco.com/en/US/docs",
+    "frecency": 4623,
+    "url_hash": 1325348327063,
+    "last_visit_date": 1758203930708111
+  }
+}

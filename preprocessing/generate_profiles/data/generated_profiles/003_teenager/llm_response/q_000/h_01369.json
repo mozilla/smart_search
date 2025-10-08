@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Town Without Pity \"Town Without Pity\" Anyone with even a minimal familiarity of top forty songs will probably have heard Gene Pitney's 1961 hit, \"Town Without Pity\" but very few people realize it was the theme song for one of the lesser known films in the career of actor Kirk Douglas. Made between Spartacus [1960]",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses a song and a film, not related to starting a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Town Without Pity \"Town Without Pity Anyone with even a minimal familiarity of top forty songs will probably have heard Gene Pitney's 1961 hit, \"\"Town Without Pity,\"\" but very few people realize it was the theme song for one of the lesser known films in the career of actor Kirk Douglas. Made between Spartacus [1960]",
+  "history": {
+    "url": "http://www.tcm.com/this-month/article/430515%7C152032/Town-Without-Pity.html",
+    "title": "Town Without Pity",
+    "description": "\"Town Without Pity Anyone with even a minimal familiarity of top forty songs will probably have heard Gene Pitney's 1961 hit, \"\"Town Without Pity,\"\" but very few people realize it was the theme song for one of the lesser known films in the career of actor Kirk Douglas. Made between Spartacus [1960] ",
+    "frecency": 3600,
+    "url_hash": 86418987549834,
+    "last_visit_date": 1758203928612735
+  }
+}

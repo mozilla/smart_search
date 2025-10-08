@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Claude Monet Claude Monet Through the generosity of Mrs. Donop de Monchy (see Monet\u2019s Friends) and Michel Monet, the Marmottan Monet Museum owns the largest Monet collection, from Impression, Sunrise to Giverny\u2019s Water Lilies. This collection, presented in a room specially built for this purpose, gives the publi",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Claude Monet and a museum collection, unrelated to strategies or content about improving performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Claude Monet Claude Monet Through the generosity of Mrs. Donop de Monchy (see Monet\u2019s Friends) and Michel Monet, the Marmottan Monet Museum owns the largest Monet collection, from Impression, Sunrise to Giverny's Water Lilies. This collection, presented in a room specially built for this purpose, gives the publi",
+  "history": {
+    "url": "http://www.marmottan.fr/uk/claude_monet_-musee-2517",
+    "title": "Claude Monet",
+    "description": "Claude Monet Through the generosity of Mrs. Donop de Monchy (see Monet\u2019s Friends) and Michel Monet, the Marmottan Monet Museum owns the largest Monet collection, from Impression, Sunrise to Giverny's Water Lilies. This collection, presented in a room specially built for this purpose, gives the publi",
+    "frecency": 1780,
+    "url_hash": 10304625471588,
+    "last_visit_date": 1758203930749228
+  }
+}

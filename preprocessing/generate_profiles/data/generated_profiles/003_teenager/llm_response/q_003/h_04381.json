@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Don Gibson \\\"US news Don Gibson Singer-songwriter who was a pioneer of the Nashville Sound Tony Russell Wed 19 Nov 2003 21.25 EST21.25 EST5To have devised one enduringly successful song may be no more than serendipity, to have written two implies craft, but to come up, like the country singer Don Gibson, who ha",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "Retrieved result is about Don Gibson, a singer-songwriter, not about study apps; thus not relevant to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Don Gibson \"US news Don Gibson Singer-songwriter who was a pioneer of the Nashville Sound Tony Russell Wed 19 Nov 2003 21.25 EST21.25 EST5To have devised one enduringly successful song may be no more than serendipity, to have written two implies craft, but to come up, like the country singer Don Gibson, who ha",
+  "history": {
+    "url": "https://www.theguardian.com/news/2003/nov/20/guardianobituaries.artsobituaries",
+    "title": "Don Gibson",
+    "description": "\"US news Don Gibson Singer-songwriter who was a pioneer of the Nashville Sound Tony Russell Wed 19 Nov 2003 21.25 EST21.25 EST5To have devised one enduringly successful song may be no more than serendipity, to have written two implies craft, but to come up, like the country singer Don Gibson, who ha",
+    "frecency": 458,
+    "url_hash": 63170326970499,
+    "last_visit_date": 1758203927522735
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Take your tablet to bed: Amazon rolls out blue shade tool for Fire range to allow people to read at night and still sleep Take your tablet to bed: Amazon rolls out 'blue shade' tool for Fire range to allow people to read at night and still sleep Scientists claim blue light could cause interrupted sleep Free Amazon update for Fire tablets filters out harmful blue light Other apps can change the light on your devices to",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns blue light and Amazon Fire tablet features, not Docker setup for beginners; thus it is not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Take your tablet to bed: Amazon rolls out \u00e2blue shade\u00e2 tool for Fire range to allow people to read at night and still sleep Take your tablet to bed: Amazon rolls out \u2018blue shade\u2019 tool for Fire range to allow people to read at night and still sleep Scientists claim blue light could cause interrupted sleep Free Amazon update for Fire tablets filters out harmful blue light Other apps can change the light on your devices to",
+  "history": {
+    "url": "http://www.dailymail.co.uk/sciencetech/article-3343512/Take-Kindle-bed-Amazon-rolls-blue-shade-tool-tablets-allow-people-read-night-sleep.html",
+    "title": "Take your tablet to bed: Amazon rolls out \u00e2blue shade\u00e2 tool for Fire range to allow people to read at night and still sleep",
+    "description": "Take your tablet to bed: Amazon rolls out \u2018blue shade\u2019 tool for Fire range to allow people to read at night and still sleep Scientists claim blue light could cause interrupted sleep Free Amazon update for Fire tablets filters out harmful blue light Other apps can change the light on your devices to ",
+    "frecency": 1000,
+    "url_hash": 91733446637274,
+    "last_visit_date": 1758203928686200
+  }
+}

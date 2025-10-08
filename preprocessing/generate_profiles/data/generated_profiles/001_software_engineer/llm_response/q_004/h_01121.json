@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Encyclopedia \"Encyclopedia Search Encyclopedia ABCDEFGHIJKLMNOPQRSTUVWXYZ0-9MISCDefinition of: payload (1) The \\\"actual data\\\" in a packet or file minus all headers attached for transport and minus all descriptive meta-data. In a network packet, headers are appended to the payload for transport and then discarde",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses payload in networking, not Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Encyclopedia \"Encyclopedia Search Encyclopedia ABCDEFGHIJKLMNOPQRSTUVWXYZ0-9MISCDefinition of: payload (1) The \"\"actual data\"\" in a packet or file minus all headers attached for transport and minus all descriptive meta-data. In a network packet, headers are appended to the payload for transport and then discarde",
+  "history": {
+    "url": "http://www.pcmag.com/encyclopedia/term/48909/payload",
+    "title": "Encyclopedia",
+    "description": "\"Encyclopedia Search Encyclopedia ABCDEFGHIJKLMNOPQRSTUVWXYZ0-9MISCDefinition of: payload (1) The \"\"actual data\"\" in a packet or file minus all headers attached for transport and minus all descriptive meta-data. In a network packet, headers are appended to the payload for transport and then discarde",
+    "frecency": 1051,
+    "url_hash": 22117277637500,
+    "last_visit_date": 1758203926844200
+  }
+}

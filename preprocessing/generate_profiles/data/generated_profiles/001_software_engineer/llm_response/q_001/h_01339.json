@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Former American IdolFinalist Michael Johns Dies at 35 \\\"Frazer Harrison/Getty Images Michael Johns, a finalist on American Idol 's seventh season, died on Friday E! News confirms. The cause of death is suspected to be a blood clot. \\\"\\\"It is with a heavy heart and inconsolable sadness that we confirm the passing of our friend Michael Johns,\\\"\\\" his manager",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a former American Idol contestant's death, not related to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Former American IdolFinalist Michael Johns Dies at 35 \"Frazer Harrison/Getty Images Michael Johns, a finalist on American Idol 's seventh season, died on Friday E! News confirms. The cause of death is suspected to be a blood clot. \"\"It is with a heavy heart and inconsolable sadness that we confirm the passing of our friend Michael Johns,\"\" his manager",
+  "history": {
+    "url": "http://www.eonline.com/news/565623/former-american-idol-finalist-michael-johns-dies-at-35",
+    "title": "Former American IdolFinalist Michael Johns Dies at 35",
+    "description": "\"Frazer Harrison/Getty Images Michael Johns, a finalist on American Idol 's seventh season, died on Friday E! News confirms. The cause of death is suspected to be a blood clot. \"\"It is with a heavy heart and inconsolable sadness that we confirm the passing of our friend Michael Johns,\"\" his manager ",
+    "frecency": 278,
+    "url_hash": 38296556578085,
+    "last_visit_date": 1758203929132200
+  }
+}

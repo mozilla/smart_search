@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "9. Classes \u00c2\u00b6 \"9. Classes \u00b6Compared with other programming languages, Python\u2019s class mechanism adds classes with a minimum of new syntax and semantics. It is a mixture of the class mechanisms found in C++ and Modula-3. Python classes provide all the standard features of Object Oriented Programming: the class inhe",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Python classes and object-oriented programming, not debugging API integration; no content about API debugging or integration troubleshooting.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "9. Classes \u00c2\u00b6 \"9. Classes \u00b6Compared with other programming languages, Python\u2019s class mechanism adds classes with a minimum of new syntax and semantics. It is a mixture of the class mechanisms found in C++ and Modula-3. Python classes provide all the standard features of Object Oriented Programming: the class inhe",
+  "history": {
+    "url": "https://docs.python.org/2/tutorial/classes.html",
+    "title": "9. Classes \u00c2\u00b6",
+    "description": "\"9. Classes \u00b6Compared with other programming languages, Python\u2019s class mechanism adds classes with a minimum of new syntax and semantics. It is a mixture of the class mechanisms found in C++ and Modula-3. Python classes provide all the standard features of Object Oriented Programming: the class inhe",
+    "frecency": 3753,
+    "url_hash": 99033027310694,
+    "last_visit_date": 1758203928872111
+  }
+}

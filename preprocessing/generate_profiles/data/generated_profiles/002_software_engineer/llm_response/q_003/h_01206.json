@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Southwest Corporate Fact Sheet \\\"Southwest Corporate Fact Sheet Executive Leadership Headquarters About the Company History Daily Departures Employees Stock First Quarter 2017 Financial and Operating Statistics Safety & Security Commitment Fleet Cities Served Top Ten Airports by Departures Customer Support & Services Centersouthwe",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a corporate fact sheet about Southwest Airlines and contains no content related to database queries or optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Southwest Corporate Fact Sheet \"Southwest Corporate Fact Sheet Executive Leadership Headquarters About the Company History Daily Departures Employees Stock First Quarter 2017 Financial and Operating Statistics Safety & Security Commitment Fleet Cities Served Top Ten Airports by Departures Customer Support & Services Centersouthwe",
+  "history": {
+    "url": "https://www.swamedia.com/channels/Corporate-Fact-Sheet/pages/corporate-fact-sheet",
+    "title": "Southwest Corporate Fact Sheet",
+    "description": "\"Southwest Corporate Fact Sheet Executive Leadership Headquarters About the Company History Daily Departures Employees Stock First Quarter 2017 Financial and Operating Statistics Safety & Security Commitment Fleet Cities Served Top Ten Airports by Departures Customer Support & Services Centersouthwe",
+    "frecency": 2849,
+    "url_hash": 34973831632470,
+    "last_visit_date": 1758203929854111
+  }
+}

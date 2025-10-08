@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "The ins and outs of the Windows File Replication Service \\\"0At the heart of Windows Server lies the File Replication Service (FRS). FRS is critical to the proper functioning of the Distributed File System and Group Policies, not to mention the proper functioning of login scripts across the domain. Without a properly functioning FRS, none of these services",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Windows File Replication Service (FRS) and does not pertain to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "The ins and outs of the Windows File Replication Service \"0At the heart of Windows Server lies the File Replication Service (FRS). FRS is critical to the proper functioning of the Distributed File System and Group Policies, not to mention the proper functioning of login scripts across the domain. Without a properly functioning FRS, none of these services",
+  "history": {
+    "url": "http://www.techrepublic.com/article/the-ins-and-outs-of-the-windows-file-replication-service/",
+    "title": "The ins and outs of the Windows File Replication Service",
+    "description": "\"0At the heart of Windows Server lies the File Replication Service (FRS). FRS is critical to the proper functioning of the Distributed File System and Group Policies, not to mention the proper functioning of login scripts across the domain. Without a properly functioning FRS, none of these services ",
+    "frecency": 2418,
+    "url_hash": 51629339669658,
+    "last_visit_date": 1758203929446200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Find a Job \\\"Find a Job Learn how and where to search for employment. What's on This Page Look for a Job Apprenticeships Self-Employment and Working from Home Employment and Job Training for Veterans Employment Assistance for People with Disabilities Getting a Job in the U. S. as a Foreign Worker Look for a Job\\\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses employment and job searching, not Docker setup or beginner tutorials for Docker.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Find a Job \"Find a Job Learn how and where to search for employment. What's on This Page Look for a Job Apprenticeships Self-Employment and Working from Home Employment and Job Training for Veterans Employment Assistance for People with Disabilities Getting a Job in the U. S. as a Foreign Worker Look for a Job",
+  "history": {
+    "url": "https://www.usa.gov/find-a-job",
+    "title": "Find a Job",
+    "description": "\"Find a Job Learn how and where to search for employment. What's on This Page Look for a Job Apprenticeships Self-Employment and Working from Home Employment and Job Training for Veterans Employment Assistance for People with Disabilities Getting a Job in the U. S. as a Foreign Worker Look for a Job",
+    "frecency": 2242,
+    "url_hash": 10507094106206,
+    "last_visit_date": 1758203929458200
+  }
+}

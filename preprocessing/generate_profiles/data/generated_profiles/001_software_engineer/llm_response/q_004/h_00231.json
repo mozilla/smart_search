@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "MPA Salary MPA Salary MPA graduates are typically employed in either the public, private or nonprofit sector. Although MPA salaries can vary greatly depending on sector, experience, geographical location and other factors, it is still useful to look at average salary data to determine the value of earning an M",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The result concerns MPA salaries, not Docker or setup for beginners; it is unrelated to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "MPA Salary MPA Salary MPA graduates are typically employed in either the public, private or nonprofit sector. Although MPA salaries can vary greatly depending on sector, experience, geographical location and other factors, it is still useful to look at average salary data to determine the value of earning an M",
+  "history": {
+    "url": "https://onlinempadegrees.com/mpa-careers/mpa-salary/",
+    "title": "MPA Salary",
+    "description": "MPA Salary MPA graduates are typically employed in either the public, private or nonprofit sector. Although MPA salaries can vary greatly depending on sector, experience, geographical location and other factors, it is still useful to look at average salary data to determine the value of earning an M",
+    "frecency": 4216,
+    "url_hash": 59931662851598,
+    "last_visit_date": 1758203929020200
+  }
+}

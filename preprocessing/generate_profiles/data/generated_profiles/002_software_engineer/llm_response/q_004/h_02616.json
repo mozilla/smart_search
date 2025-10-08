@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Texas Child Support Payment Frequently Asked Questions - Texas law Q&A about calculating and paying monthly child support. By Richard Stim, Attorney.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Texas child support, unrelated to Docker or beginner setup concepts.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Texas Child Support Payment Frequently Asked Questions \"Texas Child Support Payment Frequently Asked Questions Questions and answers regarding Texas law for calculating and paying monthly child support. By Richard Stim, Attorney Considering Divorce? We've helped 85 clients find attorneys today. Please answer a few questions to help us match you with att",
+  "history": {
+    "url": "http://www.divorcenet.com/states/texas/txfaq04",
+    "title": "Texas Child Support Payment Frequently Asked Questions",
+    "description": "\"Texas Child Support Payment Frequently Asked Questions Questions and answers regarding Texas law for calculating and paying monthly child support. By Richard Stim, Attorney Considering Divorce? We've helped 85 clients find attorneys today. Please answer a few questions to help us match you with att",
+    "frecency": 233,
+    "url_hash": 91314286151271,
+    "last_visit_date": 1758203928108111
+  }
+}

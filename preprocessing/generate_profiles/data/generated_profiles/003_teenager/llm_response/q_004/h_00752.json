@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "The Natural Epicurean Blog \"The Natural Epicurean Academy of Culinary Arts is a macrobiotic and vegan culinary school based in Austin, TX. This blog is a place for students, faculty and staff to share news, recipes, pictures, and links to articles. If you are interested in joining our program or joi",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The page is about a macrobiotic vegan culinary school blog, unrelated to sports improvement topics.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "The Natural Epicurean Blog \"The Natural Epicurean Blog The Natural Epicurean Academy of Culinary Arts is a macrobiotic and vegan culinary school based in Austin, TX. This blog is a place for students, faculty and staff to share news, recipes, pictures, and links to articles. If you are interested in joining our program or joi",
+  "history": {
+    "url": "http://naturalepicurean.blogspot.com/",
+    "title": "The Natural Epicurean Blog",
+    "description": "\"The Natural Epicurean Blog The Natural Epicurean Academy of Culinary Arts is a macrobiotic and vegan culinary school based in Austin, TX. This blog is a place for students, faculty and staff to share news, recipes, pictures, and links to articles. If you are interested in joining our program or joi",
+    "frecency": 4193,
+    "url_hash": 48486860207986,
+    "last_visit_date": 1758203929953228
+  }
+}

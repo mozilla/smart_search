@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "John F. Rider \\\"John F. Rider From Wikipedia, the free encyclopedianavigation search John F. Rider Born John Francis Rider 1900 Hungary Died 1985 Miami, Florida Nationality USAOccupation Acting Director (Signal Corps Publication Agency, US Army), Radio Engineer, Author and Publisher Known for Publishing yearly vol",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses John F. Rider, a historical figure, not related to Python, libraries, or machine learning; thus not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "John F. Rider \"John F. Rider From Wikipedia, the free encyclopedianavigation search John F. Rider Born John Francis Rider 1900 Hungary Died 1985 Miami, Florida Nationality USAOccupation Acting Director (Signal Corps Publication Agency, US Army), Radio Engineer, Author and Publisher Known for Publishing yearly vol",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/John_F._Rider",
+    "title": "John F. Rider",
+    "description": "\"John F. Rider From Wikipedia, the free encyclopedianavigation search John F. Rider Born John Francis Rider 1900 Hungary Died 1985 Miami, Florida Nationality USAOccupation Acting Director (Signal Corps Publication Agency, US Army), Radio Engineer, Author and Publisher Known for Publishing yearly vol",
+    "frecency": 1262,
+    "url_hash": 63121539460789,
+    "last_visit_date": 1758203927222200
+  }
+}

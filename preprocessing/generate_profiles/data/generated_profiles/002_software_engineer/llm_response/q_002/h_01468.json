@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "What are the methods that attackers use to DDoS a Minecraft server? \\\"Ofer Gayer, Security Researcher turned Product Manager Updated Jan 24, 2017 \u00b7 Author has 92 answers and 180.1k answer views Spoofed TCP attacks are very common, and can be quite a hassle for someone without proper DDo S mitigation technology. These can be spoofed SYNs, ACKs or any combination",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses DDoS methods for a Minecraft server, not top IDEs or software development environments; unrelated to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "What are the methods that attackers use to DDoS a Minecraft server? \"Ofer Gayer, Security Researcher turned Product Manager Updated Jan 24, 2017 \u00b7 Author has 92 answers and 180.1k answer views Spoofed TCP attacks are very common, and can be quite a hassle for someone without proper DDo S mitigation technology. These can be spoofed SYNs, ACKs, FINs or any combination",
+  "history": {
+    "url": "https://www.quora.com/What-are-the-methods-that-attackers-use-to-DDoS-a-Minecraft-server",
+    "title": "What are the methods that attackers use to DDoS a Minecraft server?",
+    "description": "\"Ofer Gayer, Security Researcher turned Product Manager Updated Jan 24, 2017 \u00b7 Author has 92 answers and 180.1k answer views Spoofed TCP attacks are very common, and can be quite a hassle for someone without proper DDo S mitigation technology. These can be spoofed SYNs, ACKs, FINs or any combination",
+    "frecency": 2341,
+    "url_hash": 83404141979886,
+    "last_visit_date": 1758203930574111
+  }
+}

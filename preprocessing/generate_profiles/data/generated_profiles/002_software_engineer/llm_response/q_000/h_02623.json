@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Birth Place Matching \"Bristol, England, UK\" (Sorted by Popularity Ascending) - a list about people (e.g., Maisie Williams), not related to API debugging.",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns birth place matching and actor bios, which are unrelated to debugging API integrations. No content about APIs or debugging.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "\"Birth Place Matching \"\"Bristol, England, UK\"\"  (Sorted by Popularity Ascending)\" \"Birth Place Matching \"\"Bristol, England, UK\"\" (Sorted by Popularity Ascending)1-50 of 431 names. | Next \u00bbSort by: STARmeter \u25b2 | A-Z | Birth Date | Death Date1. Maisie Williams Actress | Game of Thrones Margaret Constance \"\"Maisie\"\" Williams (born 15 April 1997) is an English actress. She made her p",
+  "history": {
+    "url": "http://www.imdb.com/search/name?birth_place=Bristol,%20England,%20UK",
+    "title": "\"Birth Place Matching \"\"Bristol, England, UK\"\"  (Sorted by Popularity Ascending)\"",
+    "description": "\"Birth Place Matching \"\"Bristol, England, UK\"\" (Sorted by Popularity Ascending)1-50 of 431 names. | Next \u00bbSort by: STARmeter \u25b2 | A-Z | Birth Date | Death Date1. Maisie Williams Actress | Game of Thrones Margaret Constance \"\"Maisie\"\" Williams (born 15 April 1997) is an English actress. She made her p",
+    "frecency": 206,
+    "url_hash": 95815669287565,
+    "last_visit_date": 1758203930712111
+  }
+}

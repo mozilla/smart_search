@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Changing Network Printer Ports Changing Network Printer Ports When you set up a new network printer, the Zone Alarm router automatically assigns a port number to the printer. If you want to use a different port number, you can easily change it, as described in Setting Up Network Printers. However, you may sometimes need to change",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses configuring network printers and ports, which is unrelated to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Changing Network Printer Ports Changing Network Printer Ports When you set up a new network printer, the Zone Alarm router automatically assigns a port number to the printer. If you want to use a different port number, you can easily change it, as described in Setting Up Network Printers. However, you may sometimes need to change",
+  "history": {
+    "url": "http://www.checkpoint.com/smb/help/z100g/7.5/1688.htm",
+    "title": "Changing Network Printer Ports",
+    "description": "Changing Network Printer Ports When you set up a new network printer, the Zone Alarm router automatically assigns a port number to the printer. If you want to use a different port number, you can easily change it, as described in Setting Up Network Printers. However, you may sometimes need to change",
+    "frecency": 938,
+    "url_hash": 39910033317770,
+    "last_visit_date": 1758203929748111
+  }
+}

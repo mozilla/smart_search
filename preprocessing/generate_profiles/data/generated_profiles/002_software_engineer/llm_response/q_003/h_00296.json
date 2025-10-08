@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Merchant Services - Credit Card Processors \\\"Home Merchant Services - Credit Card Processors Think Costco First Your business is your passion. For 20 years, Costco has called on Elavon \u2014 a top globally-ranked provider \u2014 to offer tailored payment processing solutions at a member-only price. Service",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about merchant services and payment processing, not about database queries or their optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Merchant Services - Credit Card Processors \"Home Merchant Services - Credit Card Processors Think Costco First Your business is your passion. Supporting Costco members\u2019 passions is ours. For 20 years, Costco has called on Elavon \u2014 a top globally-ranked provider \u2014 to offer tailored payment processing solutions at a member-only price. Service",
+  "history": {
+    "url": "https://www.costco.com/merchant-account.html",
+    "title": "Merchant Services - Credit Card Processors",
+    "description": "\"Home Merchant Services - Credit Card Processors Think Costco First Your business is your passion. Supporting Costco members\u2019 passions is ours. For 20 years, Costco has called on Elavon \u2014 a top globally-ranked provider \u2014 to offer tailored payment processing solutions at a member-only price. Service ",
+    "frecency": 4507,
+    "url_hash": 90332065518107,
+    "last_visit_date": 1758203930904111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "The World\u00e2s Highest Bridge Will Open in China This Year T+L Culture + Design Architecture + Design China The World\u2019s Highest Bridge Will Open in China This Year Getty Images The bridge spans 2,362 feet between mountains, 1,854 feet above the Beipan River. Cailey Rizzo September 13, 2016China\u2019s never-ending quest for the most impressive bridges just reach",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page is about architecture/bridges, not about improving athletic performance or sports skills; no relevant content to the query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "The World\u00e2s Highest Bridge Will Open in China This Year T+L Culture + Design Architecture + Design China The World\u2019s Highest Bridge Will Open in China This Year Getty Images The bridge spans 2,362 feet between mountains, 1,854 feet above the Beipan River. Cailey Rizzo September 13, 2016China\u2019s never-ending quest for the most impressive bridges just reach",
+  "history": {
+    "url": "http://www.travelandleisure.com/culture-design/architecture-design/worlds-highest-bridge",
+    "title": "The World\u00e2s Highest Bridge Will Open in China This Year",
+    "description": "T+L Culture + Design Architecture + Design China The World\u2019s Highest Bridge Will Open in China This Year Getty Images The bridge spans 2,362 feet between mountains, 1,854 feet above the Beipan River. Cailey Rizzo September 13, 2016China\u2019s never-ending quest for the most impressive bridges just reach",
+    "frecency": 2652,
+    "url_hash": 37716773160774,
+    "last_visit_date": 1758203927244735
+  }
+}

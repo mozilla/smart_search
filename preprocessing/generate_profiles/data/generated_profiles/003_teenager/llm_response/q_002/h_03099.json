@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Maya Angelou \\\"From Wikipedia, the free encyclopedianavigation search\\\"\\\"Angelou\\\" redirects here. For the English folk rock band, see Angelou (band). Maya Angelou Angelou reciting her poem \\\" On the Pulse of Morning \\\" at President Bill Clinton's inauguration, January 20, 1993Born Marguerite Annie Johnson April 4,",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Maya Angelou, a poet, not easy DIY room decoration ideas; thus not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Maya Angelou \"From Wikipedia, the free encyclopedianavigation search\"\"Angelou\"\" redirects here. For the English folk rock band, see Angelou (band). Maya Angelou Angelou reciting her poem \"\" On the Pulse of Morning \"\" at President Bill Clinton's inauguration, January 20, 1993Born Marguerite Annie Johnson April 4,",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Maya_Angelou",
+    "title": "Maya Angelou",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search\"\"Angelou\"\" redirects here. For the English folk rock band, see Angelou (band). Maya Angelou Angelou reciting her poem \"\" On the Pulse of Morning \"\" at President Bill Clinton's inauguration, January 20, 1993Born Marguerite Annie Johnson April 4,",
+    "frecency": 1744,
+    "url_hash": 87886383983108,
+    "last_visit_date": 1758203928038735
+  }
+}

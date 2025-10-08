@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Josh Temple HGTV and DIY Network Host Josh Temple",
+  "relevance_score": 0.15,
+  "binary_decision": 0,
+  "Decision_Reason": "The page is a profile of Josh Temple, a TV host, and does not primarily contain or target easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Josh Temple HGTV and DIY Network Host Josh Temple",
+  "history": {
+    "url": "http://people.hgtv.com/talent/josh-temple",
+    "title": "Josh Temple",
+    "description": "HGTV and DIY Network Host Josh Temple ",
+    "frecency": 2891,
+    "url_hash": 87683269704745,
+    "last_visit_date": 1758203929156735
+  }
+}

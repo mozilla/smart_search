@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Shoulder Strain Shoulder Strain Definition Shoulder pain is a common malady that becomes more common with age. Description Most of us go from day to day without giving a thought as to how we use our shoulders. But anyone who has experienced shoulder pain knows just how important the joint is to daily living. Causes",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes shoulder strain and pain, not DIY room decoration ideas; therefore it is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Shoulder Strain Shoulder Strain Definition Shoulder pain is a common malady that becomes more common with age. Description Most of us go from day to day without giving a thought as to how we use our shoulders. But anyone who has experienced shoulder pain knows just how important the joint is to daily living. Causes",
+  "history": {
+    "url": "http://www.healthcentral.com/encyclopedia/hc/shoulder-strain-3168786/",
+    "title": "Shoulder Strain",
+    "description": "Shoulder Strain Definition Shoulder pain is a common malady that becomes more common with age. Description Most of us go from day to day without giving a thought as to how we use our shoulders. But anyone who has experienced shoulder pain knows just how important the joint is to daily living. Causes",
+    "frecency": 4774,
+    "url_hash": 45176659654578,
+    "last_visit_date": 1758203927732735
+  }
+}

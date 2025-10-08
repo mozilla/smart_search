@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Vacating FAQ Before using this information, please read: Best Practices and Tips for Tenants Tools for Tenants Understanding Landlord-Tenant Laws To read the specific laws in the WA State Residential Landlord-Tenant Act, click on the RCW (Revised Code of Washington) links throughout the Tenant Services website.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses tenant services and landlord-tenant laws, not Docker or beginners' Docker setup.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Vacating FAQ Before using this information, please read: Best Practices and Tips for Tenants Tools for Tenants Understanding Landlord-Tenant Laws To read the specific laws in the WA State Residential Landlord-Tenant Act, click on the RCW (Revised Code of Washington) links throughout the Tenant Services website.",
+  "history": {
+    "url": "http://www.tenantsunion.org/rights/faq/vacating/",
+    "title": "Vacating FAQ",
+    "description": "Before using this information, please read: Best Practices and Tips for Tenants Tools for Tenants Understanding Landlord-Tenant Laws To read the specific laws in the WA State Residential Landlord-Tenant Act, click on the RCW (Revised Code of Washington) links throughout the Tenant Services website. ",
+    "frecency": 4830,
+    "url_hash": 71510404609655,
+    "last_visit_date": 1758203929290200
+  }
+}

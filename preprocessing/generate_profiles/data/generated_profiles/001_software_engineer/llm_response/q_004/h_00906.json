@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Java Singleton \"Java Singleton The purpose of Singleton is to enforce at most one instance of some class and to control access to it. The \"classic\" example...public class L og Manager { private java.io. P rint Stream m_out; private L og Manager ( P rint Stream out ) { m_out = out; } public void log ( String msg",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result content discusses the Java Singleton design pattern, not Docker or container setup.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Java Singleton \"Java Singleton The purpose of Singleton is to enforce at most one instance of some class and to control access to it. The \"\"classic\"\" example...public class L og Manager { private java.io. P rint Stream m_out; private L og Manager ( P rint Stream out ) { m_out = out; } public void log ( String msg",
+  "history": {
+    "url": "http://c2.com/cgi/wiki?JavaSingleton",
+    "title": "Java Singleton",
+    "description": "\"Java Singleton The purpose of Singleton is to enforce at most one instance of some class and to control access to it. The \"\"classic\"\" example...public class L og Manager { private java.io. P rint Stream m_out; private L og Manager ( P rint Stream out ) { m_out = out; } public void log ( String msg ",
+    "frecency": 1862,
+    "url_hash": 82111010218329,
+    "last_visit_date": 1758203927230200
+  }
+}

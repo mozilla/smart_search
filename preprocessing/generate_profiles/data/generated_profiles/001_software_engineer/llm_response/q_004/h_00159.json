@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Vivienne Westwood \"From Wikipedia, the free encyclopedianavigation search Dame Vivienne Westwood DBE RDIWestwood in 2008Born Vivienne Isabel Swire 8 April 1941 (age 77)Tintwistle, Cheshire, England Nationality British Education University of Westminster, Middlesex University Occupation Fashion designer, businesswoman",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Vivienne Westwood, a fashion designer, and is unrelated to Docker or beginner setup; it does not address the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Vivienne Westwood \"From Wikipedia, the free encyclopedianavigation search Dame Vivienne Westwood DBE RDIWestwood in 2008Born Vivienne Isabel Swire 8 April 1941 (age 77)Tintwistle, Cheshire, England Nationality British Education University of Westminster, Middlesex University Occupation Fashion designer, businesswoman",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Vivienne_Westwood",
+    "title": "Vivienne Westwood",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search Dame Vivienne Westwood DBE RDIWestwood in 2008Born Vivienne Isabel Swire 8 April 1941 (age 77)Tintwistle, Cheshire, England Nationality British Education University of Westminster, Middlesex University Occupation Fashion designer, businesswoman",
+    "frecency": 4446,
+    "url_hash": 19535894772526,
+    "last_visit_date": 1758203927064200
+  }
+}

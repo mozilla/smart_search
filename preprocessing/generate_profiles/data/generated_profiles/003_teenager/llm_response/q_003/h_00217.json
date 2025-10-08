@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Tigers Football \"About On-Air DJ Profiles News Feature CD Review Underwriting CCFAHome WUMR News Tigers Football Tigers Football University of Memphis Releases Tigers Football 2017 Schedule For Release: August 23, 2017 For more information, visit: Go Tigers Go College football season is coming up fast and WUMR will",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Tigers Football and the University of Memphis, not about apps for improving study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Tigers Football \"About On-Air DJ Profiles News Feature CD Review Underwriting CCFAHome WUMR News Tigers Football Tigers Football University of Memphis Releases Tigers Football 2017 Schedule For Release: August 23, 2017 For more information, visit: Go Tigers Go College football season is coming up fast and WUMR will",
+  "history": {
+    "url": "http://www.memphis.edu/wumr/features/feature_football.php",
+    "title": "Tigers Football",
+    "description": "\"About On-Air DJ Profiles News Feature CD Review Underwriting CCFAHome WUMR News Tigers Football Tigers Football University of Memphis Releases Tigers Football 2017 Schedule For Release: August 23, 2017 For more information, visit: Go Tigers Go College football season is coming up fast and WUMR will",
+    "frecency": 4784,
+    "url_hash": 16462919962415,
+    "last_visit_date": 1758203934177228
+  }
+}

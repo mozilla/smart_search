@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "What Does the Hard Drive Do? Hard drives are at the center of computers and countless other products. Nowadays, camcorders, music players, camcorders and many other types of personal electronic devices store information on hard drives too. Although manufacturing hard drives is a precise and exacting process, the basic principle",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses hard drives and electronics; unrelated to improving sports performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "What Does the Hard Drive Do? Hard drives are at the center of computers and countless other products. Nowadays, camcorders, music players, camcorders and many other types of personal electronic devices store information on hard drives too. Although manufacturing hard drives is a precise and exacting process, the basic principle",
+  "history": {
+    "url": "https://www.techwalla.com/articles/what-does-the-hard-drive-do",
+    "title": "What Does the Hard Drive Do?",
+    "description": "Hard drives are at the center of computers and countless other products. Nowadays, camcorders, music players, camcorders and many other types of personal electronic devices store information on hard drives too. Although manufacturing hard drives is a precise and exacting process, the basic principle",
+    "frecency": 4470,
+    "url_hash": 58010281343830,
+    "last_visit_date": 1758203932045228
+  }
+}

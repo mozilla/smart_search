@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Leonard Nimoy biography page (about the actor, not related to starting a YouTube channel).",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Leonard Nimoy and does not pertain to starting a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Leonard Nimoy (1931\u00e22015) \"Top 5000Leonard Nimoy (1931\u20132015)Actor | Director | Producer Leonard Simon Nimoy was born in Boston, Massachusetts, to Dora (Spinner) and Max Nimoy, who owned a barbershop. His parents were Ukrainian Jewish immigrants. Raised in a tenement and acting in community theaters since age eight, Nimoy did",
+  "history": {
+    "url": "http://www.imdb.com/name/nm0000559/",
+    "title": "Leonard Nimoy (1931\u00e22015)",
+    "description": "\"Top 5000Leonard Nimoy (1931\u20132015)Actor | Director | Producer Leonard Simon Nimoy was born in Boston, Massachusetts, to Dora (Spinner) and Max Nimoy, who owned a barbershop. His parents were Ukrainian Jewish immigrants. Raised in a tenement and acting in community theaters since age eight, Nimoy did",
+    "frecency": 3031,
+    "url_hash": 1609753699967,
+    "last_visit_date": 1758203934485228
+  }
+}

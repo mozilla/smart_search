@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Anger and Rage \"Anger and Rage We know what anger is because we have all experienced it, whether as a fleeting annoyance or as full-blown rage. In general, we may become angry or frustrated whenever we are not able to achieve a goal. Life is full of frustrations from minor irritations to something really big. When",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses anger and rage rather than sports or athletic performance improvement; no sports-related content.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Anger and Rage \"Anger and Rage We know what anger is because we have all experienced it, whether as a fleeting annoyance or as full-blown rage. In general, we may become angry or frustrated whenever we are not able to achieve a goal. Life is full of frustrations from minor irritations to something really big. When",
+  "history": {
+    "url": "http://www.psychologistanywhereanytime.com/emotional_problems_psychologist/pyschologist_anger.htm",
+    "title": "Anger and Rage",
+    "description": "\"Anger and Rage We know what anger is because we have all experienced it, whether as a fleeting annoyance or as full-blown rage. In general, we may become angry or frustrated whenever we are not able to achieve a goal. Life is full of frustrations from minor irritations to something really big. When",
+    "frecency": 3294,
+    "url_hash": 4473845781715,
+    "last_visit_date": 1758203932015228
+  }
+}

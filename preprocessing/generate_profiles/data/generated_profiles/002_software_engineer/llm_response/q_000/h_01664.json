@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "BASIC Commands \\\"Home >BASIC Commands This document is reproduced courtesy of Thomas Kurtz The Original-Original Version Dartmouth BASIC revolutionized computer programming for the non-experts, who greatly outnumber the experts! It was a simple language, used English words, and gave almost instantaneous response in",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page is about BASIC programming language commands, not about debugging or API integrations, so it is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "BASIC Commands \"Home >BASIC Commands This document is reproduced courtesy of Thomas Kurtz The Original-Original Version Dartmouth BASIC revolutionized computer programming for the non-experts, who greatly outnumber the experts! It was a simple language, used English words, and gave almost instantaneous response in",
+  "history": {
+    "url": "http://www.dartmouth.edu/basicfifty/commands.html",
+    "title": "BASIC Commands",
+    "description": "\"Home >BASIC Commands This document is reproduced courtesy of Thomas Kurtz The Original-Original Version Dartmouth BASIC revolutionized computer programming for the non-experts, who greatly outnumber the experts! It was a simple language, used English words, and gave almost instantaneous response in",
+    "frecency": 1982,
+    "url_hash": 97402950842838,
+    "last_visit_date": 1758203931680111
+  }
+}

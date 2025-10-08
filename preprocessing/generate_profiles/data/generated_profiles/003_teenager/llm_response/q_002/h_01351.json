@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Wahlburgers Questions & Answers \"Cindy BNewnan, Georgia Does Whalburgers have gluten free buns? or a veggie burger? My Dr's. have me on a strict vegan/ gluten free diet. I plan to visit in August but would like to make sure there is something I can eat while there....over a year ago Answer7 answers Reviewed this restaurant Monique\"",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The page content is about a restaurant Q&A regarding gluten-free buns and veggie burgers, unrelated to easy DIY room decoration ideas; it does not address the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Wahlburgers Questions & Answers \"Cindy BNewnan, Georgia Does Whalburgers have gluten free buns? or a veggie burger? My Dr's. have me on a strict vegan/ gluten free diet. I plan to visit in August but would like to make sure there is something I can eat while there....over a year ago Answer7 answers Reviewed this restaurant Monique",
+  "history": {
+    "url": "https://www.tripadvisor.com/FAQ_Answers-g41608-d2349877-t519937-Does_Whalburgers_have_gluten_free_buns_or_a.html",
+    "title": "Wahlburgers Questions & Answers",
+    "description": "\"Cindy BNewnan, Georgia Does Whalburgers have gluten free buns? or a veggie burger? My Dr's. have me on a strict vegan/ gluten free diet. I plan to visit in August but would like to make sure there is something I can eat while there....over a year ago Answer7 answers Reviewed this restaurant Monique",
+    "frecency": 3623,
+    "url_hash": 29283844685662,
+    "last_visit_date": 1758203927922735
+  }
+}

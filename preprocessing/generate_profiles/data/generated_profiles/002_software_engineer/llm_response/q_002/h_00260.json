@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Can you connect computer to coaxial cable line with an adapter (forum post about coaxial cable connections) - unrelated to IDEs.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses connecting to coaxial cables, not software development IDEs; it is unrelated to the query about top IDEs.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Can you connect computer to coaxial cable line with an adapter \"Can you connect computer to coaxial cable line with an adapterfire404 Sep 10, 2014, 11:21 AMI have been reading through a lot of topics and I can't seem to find the answer I am looking for. At my work we have cable tv coaxial running to small digital boxes for each tv. We do not have wireless but a",
+  "history": {
+    "url": "http://www.tomshardware.com/answers/id-2294139/connect-computer-coaxial-cable-line-adapter.html",
+    "title": "Can you connect computer to coaxial cable line with an adapter",
+    "description": "\"Can you connect computer to coaxial cable line with an adapterfire404 Sep 10, 2014, 11:21 AMI have been reading through a lot of topics and I can't seem to find the answer I am looking for. At my work we have cable tv coaxial running to small digital boxes for each tv. We do not have wireless but a",
+    "frecency": 4577,
+    "url_hash": 72824846516997,
+    "last_visit_date": 1758203927036111
+  }
+}

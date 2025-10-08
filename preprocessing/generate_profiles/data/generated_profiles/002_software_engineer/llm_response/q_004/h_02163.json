@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Blood FAQ \"Print Blood FAQThe following information is provided as a resource to the public and to professionals working in the area of transfusion medicine, as part of AABB's efforts to optimize the safety and care of patients and donors. This section includes basic facts about blood donation and transfusion",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses blood donation and transfusion, not Docker or software setup; therefore it is not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Blood FAQ \"Print Blood FAQThe following information is provided as a resource to the public and to professionals working in the area of transfusion medicine, as part of AABB's efforts to optimize the safety and care of patients and donors. This section includes basic facts about blood donation and transfusion",
+  "history": {
+    "url": "http://www.aabb.org/tm/Pages/bloodfaq.aspx",
+    "title": "Blood FAQ",
+    "description": "\"Print Blood FAQThe following information is provided as a resource to the public and to professionals working in the area of transfusion medicine, as part of AABB's efforts to optimize the safety and care of patients and donors. This section includes basic facts about blood donation and transfusion",
+    "frecency": 1069,
+    "url_hash": 74390525451734,
+    "last_visit_date": 1758203930974111
+  }
+}

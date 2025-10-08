@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Canonsburg District Court Menu Contact this court Find lawyers Get directions Nearby courts Corrections Canonsburg District Court Phone Dial: 724/746-1227Map Google Map Mailing Address 1929-A Route 519 South, Canonsburg, PA 15317Street Address 1929-A Rte 519 S, Canonsburg, PA 15317Fax 746-3145WWW Link http://www.canonsburgbo",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Canonsburg District Court contact information and has no relation to API integration or debugging APIs.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Canonsburg District Court Menu Contact this court Find lawyers Get directions Nearby courts Corrections Canonsburg District Court Phone Dial: 724/746-1227Map Google Map Mailing Address 1929-A Route 519 South, Canonsburg, PA 15317Street Address 1929-A Rte 519 S, Canonsburg, PA 15317Fax 746-3145WWW Link http://www.canonsburgbo",
+  "history": {
+    "url": "http://www.town-court.com/PA/washington-county/canonsburg-district-court",
+    "title": "Canonsburg District Court",
+    "description": "Menu Contact this court Find lawyers Get directions Nearby courts Corrections Canonsburg District Court Phone Dial: 724/746-1227Map Google Map Mailing Address 1929-A Route 519 South, Canonsburg, PA 15317Street Address 1929-A Rte 519 S, Canonsburg, PA 15317Fax 746-3145WWW Link http://www.canonsburgbo",
+    "frecency": 3442,
+    "url_hash": 40641905912346,
+    "last_visit_date": 1758203927350111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Black Sheep Squadron Favorite Theater Button Black Sheep Squadron Favorite Theater Button Overview Movie Times + Tickets More Released Be the first to Rate!Tell us where you are Looking for movie tickets? Enter your location to see which movie theaters are playing Black Sheep Squadron near you. ENTER CITY, STATE OR ZIP CODEGOCast Dirk Blocker",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a movie theater listing for 'Black Sheep Squadron' and contains no content related to improving fitness or sports performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Black Sheep Squadron Favorite Theater Button Black Sheep Squadron Favorite Theater Button Overview Movie Times + Tickets More Released Be the first to Rate!Tell us where you are Looking for movie tickets? Enter your location to see which movie theaters are playing Black Sheep Squadron near you. ENTER CITY, STATE OR ZIP CODEGOCast Dirk Blocker",
+  "history": {
+    "url": "https://www.fandango.com/black-sheep-squadron-104744/cast-and-crew",
+    "title": "Black Sheep Squadron Favorite Theater Button",
+    "description": "Black Sheep Squadron Favorite Theater Button Overview Movie Times + Tickets More Released Be the first to Rate!Tell us where you are Looking for movie tickets? Enter your location to see which movie theaters are playing Black Sheep Squadron near you. ENTER CITY, STATE OR ZIP CODEGOCast Dirk Blocker ",
+    "frecency": 1175,
+    "url_hash": 73560152039799,
+    "last_visit_date": 1758203931177228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "What's Up, Doc?  (1972 film) From Wikipedia, the free encyclopedianavigation search What's Up, Doc? What's Up, Doc? poster Directed by Peter Bogdanovich Produced by Peter Bogdanovich Written by Peter Bogdanovich Buck Henry David Newman Robert Benton Starring Barbra Streisand Ryan O'Neal Madeline Kahn Austin Pendleton Michael M",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a film article and does not relate to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "What's Up, Doc?  (1972 film) \"From Wikipedia, the free encyclopedianavigation search What's Up, Doc? What's Up, Doc? poster Directed by Peter Bogdanovich Produced by Peter Bogdanovich Written by Peter Bogdanovich Buck Henry David Newman Robert Benton Starring Barbra Streisand Ryan O'Neal Madeline Kahn Austin Pendleton Michael M",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/What%27s_Up,_Doc%3F_%281972_film%29",
+    "title": "What's Up, Doc?  (1972 film)",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search What's Up, Doc? What's Up, Doc? poster Directed by Peter Bogdanovich Produced by Peter Bogdanovich Written by Peter Bogdanovich Buck Henry David Newman Robert Benton Starring Barbra Streisand Ryan O'Neal Madeline Kahn Austin Pendleton Michael M",
+    "frecency": 255,
+    "url_hash": 51879282916738,
+    "last_visit_date": 1758203933693228
+  }
+}

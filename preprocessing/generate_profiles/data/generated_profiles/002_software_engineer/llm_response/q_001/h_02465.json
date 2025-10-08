@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "The rise and fall of white bread The rise and fall of white bread We learned to hate the processed loaves not just because of health \u2014 but because of class, status and race Aaron Bobrow-Strain03.03.2012 \u2022 1:00 PMThis article is an adapted excerpt from White Bread: A Social History of the Store-Bought Loaf, in bookstores on March",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses white bread and social history, not Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "The rise and fall of white bread \"The rise and fall of white bread We learned to hate the processed loaves not just because of health \u2014 but because of class, status and race Aaron Bobrow-Strain03.03.2012 \u2022 1:00 PMThis article is an adapted excerpt from \u201cWhite Bread: A Social History of the Store-Bought Loaf,\u201d in bookstores on March",
+  "history": {
+    "url": "http://www.salon.com/2012/03/03/the_rise_and_fall_of_white_bread/",
+    "title": "The rise and fall of white bread",
+    "description": "\"The rise and fall of white bread We learned to hate the processed loaves not just because of health \u2014 but because of class, status and race Aaron Bobrow-Strain03.03.2012 \u2022 1:00 PMThis article is an adapted excerpt from \u201cWhite Bread: A Social History of the Store-Bought Loaf,\u201d in bookstores on March",
+    "frecency": 546,
+    "url_hash": 6334083007355,
+    "last_visit_date": 1758203929292111
+  }
+}

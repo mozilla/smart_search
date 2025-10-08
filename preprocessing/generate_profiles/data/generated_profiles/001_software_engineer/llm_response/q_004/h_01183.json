@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Resource Center About Us Company Overview Our Businesses Leadership Certifications Who We Help Providers Hospitals & Health Systems Physicians Payers Channel Partners Solutions Resources Blog Press Room Events Careers Contact Us Login Resource Center Home Resources Popular Products ANSOS\u2122 Staff Scheduling Health Qx",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result appears to be a healthcare vendor's resource center/product pages, with no mention of Docker or beginner Docker setup; thus not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Resource Center About Us Company Overview Our Businesses Leadership Certifications Who We Help Providers Hospitals & Health Systems Physicians Payers Channel Partners Solutions Resources Blog Press Room Events Careers Contact Us Login Resource Center Home Resources Popular Products ANSOS\u2122 Staff Scheduling Health Qx",
+  "history": {
+    "url": "http://www.mckesson.com/population-health-management/resources/what-is-a-cin/",
+    "title": "Resource Center",
+    "description": "About Us Company Overview Our Businesses Leadership Certifications Who We Help Providers Hospitals & Health Systems Physicians Payers Channel Partners Solutions Resources Blog Press Room Events Careers Contact Us Login Resource Center Home Resources Popular Products ANSOS\u2122 Staff Scheduling Health Qx",
+    "frecency": 821,
+    "url_hash": 76728167934020,
+    "last_visit_date": 1758203927390200
+  }
+}

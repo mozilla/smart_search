@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Movie Genres That Make The Most Money - a page about profitable movies and genres, not about study aids or educational apps.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses profitable movie genres and does not relate to studying, study apps, or improving study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Movie Genres That Make The Most Money \"When you think of the most profitable movies at the box office, you probably think of the Hollywood blockbusters - films that grab headlines because of their huge budgets and equally huge profits, like \"\"Avatar,\"\" \"\"Titanic\"\" and \"\"Pirates of the Caribbean.\"\" However, when it comes down to it, thes",
+  "history": {
+    "url": "http://www.investopedia.com/financial-edge/0410/movie-genres-with-the-best-roi.aspx",
+    "title": "Movie Genres That Make The Most Money",
+    "description": "\"When you think of the most profitable movies at the box office, you probably think of the Hollywood blockbusters - films that grab headlines because of their huge budgets and equally huge profits, like \"\"Avatar,\"\" \"\"Titanic\"\" and \"\"Pirates of the Caribbean.\"\" However, when it comes down to it, thes",
+    "frecency": 1580,
+    "url_hash": 63501130806521,
+    "last_visit_date": 1758203936483727
+  }
+}

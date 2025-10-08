@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Piqua Fire Department Piqua Fire Department Home Public Works & Utilities Fire Departments Kansas Woodson County Piqua Find Piqua Kansas fire departments, city fire stations, firefighters, brigades, chiefs, inspectors, marshals, and local volunteers. Fire departments provide information on fire risk assessment, permits,",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a fire department in Piqua, Kansas and related public safety information, with no reference to Docker or container setup. Therefore, it is not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Piqua Fire Department Piqua Fire Department Home Public Works & Utilities Fire Departments Kansas Woodson County Piqua Find Piqua Kansas fire departments, city fire stations, firefighters, brigades, chiefs, inspectors, marshals, and local volunteers. Fire departments provide information on fire risk assessment, permits,",
+  "history": {
+    "url": "http://www.countyoffice.org/piqua-ks-fire-departments/",
+    "title": "Piqua Fire Department",
+    "description": "Piqua Fire Department Home Public Works & Utilities Fire Departments Kansas Woodson County Piqua Find Piqua Kansas fire departments, city fire stations, firefighters, brigades, chiefs, inspectors, marshals, and local volunteers. Fire departments provide information on fire risk assessment, permits, ",
+    "frecency": 553,
+    "url_hash": 19014279240890,
+    "last_visit_date": 1758203928296200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "This Land Called Tennessee \"This Land Called Tennessee Home \u00bb Overview \u00bb This Land Called Tennessee On the wall above a stairway in the west wing of our nation's Capitol there is a mural that captures a definitive moment in America's history and vision of itself. Westward the Course of Empire Takes Its Way, painted by Emanuel",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns This Land Called Tennessee and Capitol murals, not about study habits or apps.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "This Land Called Tennessee \"This Land Called Tennessee Home \u00bb Overview \u00bb This Land Called Tennessee On the wall above a stairway in the west wing of our nation's Capitol there is a mural that captures a definitive moment in America's history and vision of itself. Westward the Course of Empire Takes Its Way, painted by Emanuel",
+  "history": {
+    "url": "http://tennesseeencyclopedia.net/this-land-called-tennessee.php",
+    "title": "This Land Called Tennessee",
+    "description": "\"This Land Called Tennessee Home \u00bb Overview \u00bb This Land Called Tennessee On the wall above a stairway in the west wing of our nation's Capitol there is a mural that captures a definitive moment in America's history and vision of itself. Westward the Course of Empire Takes Its Way, painted by Emanuel",
+    "frecency": 2349,
+    "url_hash": 69548809821226,
+    "last_visit_date": 1758203927603139
+  }
+}

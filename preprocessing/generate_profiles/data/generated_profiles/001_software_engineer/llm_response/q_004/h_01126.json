@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "What is the average Hospitalist/Nocturnist salary in Oregon? Hospitalists Hospitals Medicine and Healthcare What is the average Hospitalist/Nocturnist salary in Oregon?1 Answer Dane Gruenebaum, Practicing Physician Answered Mar 16, 2015 \u00b7 Author has 152 answers and 178.3k answer views Beware, there is much variability in these. It depends on how many shifts y",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about hospitalist salaries in Oregon and has no relation to Docker setup or beginner guidance.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "What is the average Hospitalist/Nocturnist salary in Oregon? Hospitalists Hospitals Medicine and Healthcare What is the average Hospitalist/Nocturnist salary in Oregon?1 Answer Dane Gruenebaum, Practicing Physician Answered Mar 16, 2015 \u00b7 Author has 152 answers and 178.3k answer views Beware, there is much variability in these. It depends on how many shifts y",
+  "history": {
+    "url": "https://www.quora.com/What-is-the-average-Hospitalist-Nocturnist-salary-in-Oregon",
+    "title": "What is the average Hospitalist/Nocturnist salary in Oregon?",
+    "description": "Hospitalists Hospitals Medicine and Healthcare What is the average Hospitalist/Nocturnist salary in Oregon?1 Answer Dane Gruenebaum, Practicing Physician Answered Mar 16, 2015 \u00b7 Author has 152 answers and 178.3k answer views Beware, there is much variability in these. It depends on how many shifts y",
+    "frecency": 1034,
+    "url_hash": 9506986160240,
+    "last_visit_date": 1758203927424200
+  }
+}

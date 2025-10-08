@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Tyack Health changes people\u00e2s lives and health, for the better. Let\u00e2s change yours\u00e2\u00a6 Tyack Health changes people\u2019s lives and health, for the better. Let\u2019s change yours\u2026As a multi-modality clinic, we have an integrated approach to assist your healing. By caring for you holistically, we find and treat the underlying cause of your issue \u2013 instead of just giving you a quick-fix for your",
+  "relevance_score": 0.15,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page describes a health clinic and holistic healing approach, not content focused on sports training, athletic performance improvement, or sports-specific guidance. Therefore it is not relevant to 'how to get better at sports'.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Tyack Health changes people\u00e2s lives and health, for the better. Let\u00e2s change yours\u00e2\u00a6 Tyack Health changes people\u2019s lives and health, for the better. Let\u2019s change yours\u2026As a multi-modality clinic, we have an integrated approach to assist your healing. By caring for you holistically, we find and treat the underlying cause of your issue \u2013 instead of just giving you a quick-fix for your",
+  "history": {
+    "url": "http://www.tyackhealth.com.au/hip-pain-that-is-worse-at-night",
+    "title": "Tyack Health changes people\u00e2s lives and health, for the better. Let\u00e2s change yours\u00e2\u00a6",
+    "description": "Tyack Health changes people\u2019s lives and health, for the better. Let\u2019s change yours\u2026As a multi-modality clinic, we have an integrated approach to assist your healing. By caring for you holistically, we find and treat the underlying cause of your issue \u2013 instead of just giving you a quick-fix for your",
+    "frecency": 757,
+    "url_hash": 65243609422379,
+    "last_visit_date": 1758203927256735
+  }
+}

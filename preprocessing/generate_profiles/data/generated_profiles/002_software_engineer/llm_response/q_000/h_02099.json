@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "What is 'Fracking' Error loading player: Flash plugin failed to load What is 'Fracking'Fracking is a slang term for hydraulic fracturing, which is the process of creating fractures in rocks and rock formations by injecting specialized fluid into cracks to force them to open further. The larger fissures allow more oil",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about fracking and Flash plugin errors, not about debugging APIs or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "What is 'Fracking' Error loading player: Flash plugin failed to load What is 'Fracking'Fracking is a slang term for hydraulic fracturing, which is the process of creating fractures in rocks and rock formations by injecting specialized fluid into cracks to force them to open further. The larger fissures allow more oil",
+  "history": {
+    "url": "https://www.investopedia.com/terms/f/fracking.asp",
+    "title": "What is 'Fracking'",
+    "description": "Error loading player: Flash plugin failed to load What is 'Fracking'Fracking is a slang term for hydraulic fracturing, which is the process of creating fractures in rocks and rock formations by injecting specialized fluid into cracks to force them to open further. The larger fissures allow more oil ",
+    "frecency": 1197,
+    "url_hash": 61868122726145,
+    "last_visit_date": 1758203927788111
+  }
+}

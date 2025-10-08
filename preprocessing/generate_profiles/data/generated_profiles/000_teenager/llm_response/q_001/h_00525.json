@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "SICU Patients, Families & Public Information \\\"SICU Patients, Families & Public Information Having a loved one with a critical illness or injuries in the Surgical Intensive Care Unit (SICU) is a stressful and challenging time in your life and the life of your family. The SICU is an unfamiliar environment where a very large team of specialized s",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Surgical Intensive Care Unit information for patients and families, not TikTok trends or anything related to the query.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "SICU Patients, Families & Public Information \"SICU Patients, Families & Public Information Having a loved one with a critical illness or injuries in the Surgical Intensive Care Unit (SICU) is a stressful and challenging time in your life and the life of your family. The SICU is an unfamiliar environment where a very large team of specialized s",
+  "history": {
+    "url": "https://healthsciences.ucsd.edu/som/surgery/divisions/trauma-burn/about/sicu/Pages/info.aspx",
+    "title": "SICU Patients, Families & Public Information",
+    "description": "\"SICU Patients, Families & Public Information Having a loved one with a critical illness or injuries in the Surgical Intensive Care Unit (SICU) is a stressful and challenging time in your life and the life of your family. The SICU is an unfamiliar environment where a very large team of specialized s",
+    "frecency": 2645,
+    "url_hash": 11464749671825,
+    "last_visit_date": 1758203928385139
+  }
+}

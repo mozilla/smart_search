@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "This video is no longer available because the YouTube account associated with this video has been terminated. This video is no longer available because the You Tube account associated with this video has been terminated. Sorry about that.",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a dead YouTube video notice and does not discuss TikTok trends or relate to the query.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "This video is no longer available because the YouTube account associated with this video has been terminated. This video is no longer available because the You Tube account associated with this video has been terminated. Sorry about that.",
+  "history": {
+    "url": "http://www.youtube.com/watch?v=s1oBCV-Y914",
+    "title": "This video is no longer available because the YouTube account associated with this video has been terminated.",
+    "description": "This video is no longer available because the You Tube account associated with this video has been terminated. Sorry about that. ",
+    "frecency": 2411,
+    "url_hash": 98683995716382,
+    "last_visit_date": 1758203929292735
+  }
+}

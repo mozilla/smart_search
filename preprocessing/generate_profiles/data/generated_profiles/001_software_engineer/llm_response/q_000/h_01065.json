@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "ASIO (Audio Stream Input/Output) \"Definition ASIO (Audio Stream Input/Output)Posted by: Margaret Rouse What Is.com ASIO (Audio Stream Input/Output), developed by Steinberg, is a cross- platform, multi-channel audio transfer protocol that is being adopted by many of the manufacturers of audio /MIDI sequencing applications. It allows",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses the ASIO audio protocol, not a topic about debugging API integrations; it is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "ASIO (Audio Stream Input/Output) \"Definition ASIO (Audio Stream Input/Output)Posted by: Margaret Rouse What Is.com ASIO (Audio Stream Input/Output), developed by Steinberg, is a cross- platform, multi-channel audio transfer protocol that is being adopted by many of the manufacturers of audio /MIDI sequencing applications. It allows",
+  "history": {
+    "url": "http://whatis.techtarget.com/definition/ASIO-Audio-Stream-Input-Output",
+    "title": "ASIO (Audio Stream Input/Output)",
+    "description": "\"Definition ASIO (Audio Stream Input/Output)Posted by: Margaret Rouse What Is.com ASIO (Audio Stream Input/Output), developed by Steinberg, is a cross- platform, multi-channel audio transfer protocol that is being adopted by many of the manufacturers of audio /MIDI sequencing applications. It allows",
+    "frecency": 1226,
+    "url_hash": 48379233133352,
+    "last_visit_date": 1758203928850200
+  }
+}

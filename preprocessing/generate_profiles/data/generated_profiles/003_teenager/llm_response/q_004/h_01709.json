@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "How Old Wonder Woman Will Be In Batman V Superman \\\"news How Old Wonder Woman Will Be In Batman V Superman By Adam Holmes 6 Comments2 years ago Superman and Batman may be the most public of the DC Extended Universe\u2019s superheroes, but they certainly weren\u2019t the first ones in existence. Case in point: Wonder Woman. Last year it was rumored that Diana",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Wonder Woman and Batman v Superman, not sports or techniques to improve athletic performance. It is not relevant to the query about getting better at sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "How Old Wonder Woman Will Be In Batman V Superman \"news How Old Wonder Woman Will Be In Batman V Superman By Adam Holmes 6 Comments2 years ago Superman and Batman may be the most public of the DC Extended Universe\u2019s superheroes, but they certainly weren\u2019t the first ones in existence. Case in point: Wonder Woman. Last year it was rumored that Diana",
+  "history": {
+    "url": "http://www.cinemablend.com/new/How-Wonder-Woman-Batman-V-Superman-108237.html",
+    "title": "How Old Wonder Woman Will Be In Batman V Superman",
+    "description": "\"news How Old Wonder Woman Will Be In Batman V Superman By Adam Holmes 6 Comments2 years ago Superman and Batman may be the most public of the DC Extended Universe\u2019s superheroes, but they certainly weren\u2019t the first ones in existence. Case in point: Wonder Woman. Last year it was rumored that Diana ",
+    "frecency": 3249,
+    "url_hash": 65751891500751,
+    "last_visit_date": 1758203929869228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Man's Samsung Galaxy S4 catches fire while charging as he slept, leaving him waking in cloud of smoke \\\"News Man's Samsung Galaxy S4 catches fire while charging as he slept, leaving him waking in cloud of smoke The stunned 57-year-old said: \\\\\"When I opened my eyes all I could see was smoke. I turned to my bedside table and all I could see were flames coming from the phone\\\\\"\\\\\"Share By Simon Hamalienko18",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a news article about a Samsung Galaxy S4 battery fire, unrelated to Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Man's Samsung Galaxy S4 catches fire while charging as he slept, leaving him waking in cloud of smoke \"News Man's Samsung Galaxy S4 catches fire while charging as he slept, leaving him waking in cloud of smoke The stunned 57-year-old said: \"\"When I opened my eyes all I could see was smoke. I turned to my bedside table and all I could see were flames coming from the phone\"\"Share By Simon Hamalienko18",
+  "history": {
+    "url": "http://www.mirror.co.uk/news/uk-news/mans-samsung-galaxy-s4-catches-6089025",
+    "title": "Man's Samsung Galaxy S4 catches fire while charging as he slept, leaving him waking in cloud of smoke",
+    "description": "\"News Man's Samsung Galaxy S4 catches fire while charging as he slept, leaving him waking in cloud of smoke The stunned 57-year-old said: \"\"When I opened my eyes all I could see was smoke. I turned to my bedside table and all I could see were flames coming from the phone\"\"Share By Simon Hamalienko18",
+    "frecency": 4296,
+    "url_hash": 37385844819854,
+    "last_visit_date": 1758203930590111
+  }
+}

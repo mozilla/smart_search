@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "VMware ESXi 5.5 Active Directory authentication \u00e2 step by step VMware ESXi 5.5 Active Directory authentication \u2013 step by stepby Wojciech Marusiak | Dec 24, 2013 | Tags: VMware ESXi | Categories: Security, VMware | 6 comments Have you ever wondered if it is possible to skip creation of local user on each ESXi host and use only one account to rule them all? If ye",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The page discusses VMware ESXi Active Directory authentication, which is unrelated to Python libraries or machine learning; it does not address the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "VMware ESXi 5.5 Active Directory authentication \u00e2 step by step VMware ESXi 5.5 Active Directory authentication \u2013 step by stepby Wojciech Marusiak | Dec 24, 2013 | Tags: VMware ESXi | Categories: Security, VMware | 6 comments Have you ever wondered if it is possible to skip creation of local user on each ESXi host and use only one account to rule them all? If ye",
+  "history": {
+    "url": "http://wojcieh.net/vmware-esxi-5-5-active-directory-authentication-step-by-step/",
+    "title": "VMware ESXi 5.5 Active Directory authentication \u00e2 step by step",
+    "description": "VMware ESXi 5.5 Active Directory authentication \u2013 step by stepby Wojciech Marusiak | Dec 24, 2013 | Tags: VMware ESXi | Categories: Security, VMware | 6 comments Have you ever wondered if it is possible to skip creation of local user on each ESXi host and use only one account to rule them all? If ye",
+    "frecency": 3465,
+    "url_hash": 9131467450615,
+    "last_visit_date": 1758203928260200
+  }
+}

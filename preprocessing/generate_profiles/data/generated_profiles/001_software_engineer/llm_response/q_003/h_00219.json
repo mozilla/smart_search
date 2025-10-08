@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Early and Late Binding (Visual Basic) July 20, 2015 2 minutes to read Contributors all In this article Advantages of Early Binding See Also The Visual Basic compiler performs a process called binding when an object is assigned to an object variable. An object is early bound when it is assigned to a v",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses early and late binding in Visual Basic, not database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Early and Late Binding (Visual Basic) \"Early and Late Binding (Visual Basic)July 20, 2015 2 minutes to read Contributorsall In this article Advantages of Early Binding See Also The Visual Basic compiler performs a process called binding when an object is assigned to an object variable. An object is early bound when it is assigned to a v",
+  "history": {
+    "url": "https://msdn.microsoft.com/en-us/library/0tcf61s1.aspx",
+    "title": "Early and Late Binding (Visual Basic)",
+    "description": "\"Early and Late Binding (Visual Basic)July 20, 2015 2 minutes to read Contributorsall In this article Advantages of Early Binding See Also The Visual Basic compiler performs a process called binding when an object is assigned to an object variable. An object is early bound when it is assigned to a v",
+    "frecency": 4253,
+    "url_hash": 55214510213174,
+    "last_visit_date": 1758203927516200
+  }
+}

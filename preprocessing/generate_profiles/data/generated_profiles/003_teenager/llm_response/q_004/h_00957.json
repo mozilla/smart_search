@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Greifswald Long Traditions and Cultural Diversity \"Greifswald is a small city with a very homey atmosphere. Not only are you likely to meet your professors and fellows students at the university, but also at the market place, local pub and at the beach. The cultural activities make this quaint Hanse",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The page discusses Greifswald's culture and traditions rather than sports improvement; it does not address how to get better at sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Greifswald Long Traditions and Cultural Diversity \"Greifswald Long Traditions and Cultural Diversity Greifswald is a small city with a very homey atmosphere. Not only are you likely to meet your professors and fellows students at the university, but also at the market place, local pub and at the beach. The cultural activities make this quaint Hanse",
+  "history": {
+    "url": "https://www.study-in.de/en/discover-germany/german-cities/greifswald_40548.php",
+    "title": "Greifswald Long Traditions and Cultural Diversity",
+    "description": "\"Greifswald Long Traditions and Cultural Diversity Greifswald is a small city with a very homey atmosphere. Not only are you likely to meet your professors and fellows students at the university, but also at the market place, local pub and at the beach. The cultural activities make this quaint Hanse",
+    "frecency": 3998,
+    "url_hash": 5996062404982,
+    "last_visit_date": 1758203933681228
+  }
+}

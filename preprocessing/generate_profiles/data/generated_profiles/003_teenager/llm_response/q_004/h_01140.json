@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Sublimation (psychology): In psychology, sublimation is a defense mechanism where socially unacceptable impulses or desires are transformed into socially acceptable actions or behavior. The article discusses psychology and defense mechanisms, not strategies for improving athletic performance.",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The page covers a psychology concept (sublimation) rather than tips, methods, or content related to improving sports performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Sublimation (psychology) \"For other uses, see Sublimation (disambiguation). In psychology, sublimation is a mature type of defense mechanism, in which socially unacceptable impulses or idealizations are unconsciously transformed into socially acceptable actions or behavior, possibly resulting in a long-term conversion of th",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Sublimation_(psychology)",
+    "title": "Sublimation (psychology)",
+    "description": "\"For other uses, see Sublimation (disambiguation). In psychology, sublimation is a mature type of defense mechanism, in which socially unacceptable impulses or idealizations are unconsciously transformed into socially acceptable actions or behavior, possibly resulting in a long-term conversion of th",
+    "frecency": 3824,
+    "url_hash": 22808280413608,
+    "last_visit_date": 1758203928430735
+  }
+}

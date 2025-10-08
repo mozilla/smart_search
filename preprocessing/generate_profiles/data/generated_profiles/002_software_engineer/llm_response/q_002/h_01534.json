@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Broadcom \"Wikimedia is looking for female coders! Would you like to help improve our software as a volunteer? Read more!Broadcom From Wikipedia, the free encyclopedianavigation search For the company formerly known as Avago Technologies, see Broadcom Limited. Broadcom Corporation Headquarters at UC Irvine 's",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns Broadcom/Wikimedia and does not mention or pertain to IDEs or software development environments, so it is not relevant to the query about top IDEs.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Broadcom \"Wikimedia is looking for female coders! Would you like to help improve our software as a volunteer? Read more!Broadcom From Wikipedia, the free encyclopedianavigation search For the company formerly known as Avago Technologies, see Broadcom Limited. Broadcom Corporation Headquarters at UC Irvine 's",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Broadcom",
+    "title": "Broadcom",
+    "description": "\"Wikimedia is looking for female coders! Would you like to help improve our software as a volunteer? Read more!Broadcom From Wikipedia, the free encyclopedianavigation search For the company formerly known as Avago Technologies, see Broadcom Limited. Broadcom Corporation Headquarters at UC Irvine 's",
+    "frecency": 2231,
+    "url_hash": 81084237197366,
+    "last_visit_date": 1758203928772111
+  }
+}

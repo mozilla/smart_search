@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Costs and Fees Home\u00bbFunding and Financial Information\u00bb Costs and Fees Costs and Fees There are many costs to keep in mind when planning your graduate studies at the University of Arizona such as tuition, books, and cost of living. Here you can find information on the following: Application Fees Estimated Cost of a",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about costs and fees for graduate studies (university funding information), not about DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Costs and Fees Home\u00bbFunding and Financial Information\u00bb Costs and Fees Costs and Fees There are many costs to keep in mind when planning your graduate studies at the University of Arizona such as tuition, books, and cost of living. Here you can find information on the following: Application Fees Estimated Cost of a",
+  "history": {
+    "url": "https://grad.arizona.edu/funding/costs",
+    "title": "Costs and Fees",
+    "description": "Home\u00bbFunding and Financial Information\u00bb Costs and Fees Costs and Fees There are many costs to keep in mind when planning your graduate studies at the University of Arizona such as tuition, books, and cost of living. Here you can find information on the following: Application Fees Estimated Cost of a",
+    "frecency": 1613,
+    "url_hash": 68704936916316,
+    "last_visit_date": 1758203928240735
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Spa Town Spa Town Cheltenham was little more than a village until the early 19th century, with the river running down the High Street (for \u201criver\u201d read \u201cstinking sludge\u201d) with stepping stones across it, and stray farm animals milling about, its principle employment opportunities being brewing and the knittin",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Spa Town Cheltenham rather than apps or study habits; content is unrelated to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Spa Town Spa Town Cheltenham was little more than a village until the early 19th century, with the river running down the High Street (for \u201criver\u201d read \u201cstinking sludge\u201d) with stepping stones across it, and stray farm animals milling about, its principle employment opportunities being brewing and the knittin",
+  "history": {
+    "url": "https://cheltonia.wordpress.com/spa-town/",
+    "title": "Spa Town",
+    "description": "Spa Town Cheltenham was little more than a village until the early 19th century, with the river running down the High Street (for \u201criver\u201d read \u201cstinking sludge\u201d) with stepping stones across it, and stray farm animals milling about, its principle employment opportunities being brewing and the knittin",
+    "frecency": 3398,
+    "url_hash": 35217312363175,
+    "last_visit_date": 1758203926969139
+  }
+}

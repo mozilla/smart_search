@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "Village Calendar April 2018Live Music Live Music: Elderberry Jam Thursday, April 12 | 5:00 pm - 8:00 pm Join us at Roost, our seasonal beer garden, for live music on the porch, local beer on tap, wine by the glass and artisan wood-fired pizza! Pull up a chair around the water fountain or under large oaks, and enjoy",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a 2018 village calendar event page about live music, not about TikTok trends for 2024.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "Village Calendar April 2018Live Music Live Music: Elderberry Jam Thursday, April 12 | 5:00 pm - 8:00 pm Join us at Roost, our seasonal beer garden, for live music on the porch, local beer on tap, wine by the glass and artisan wood-fired pizza! Pull up a chair around the water fountain or under large oaks, and enjoy",
+  "history": {
+    "url": "https://www.fearrington.com/events/",
+    "title": "Village Calendar",
+    "description": "April 2018Live Music Live Music: Elderberry Jam Thursday, April 12 | 5:00 pm - 8:00 pm Join us at Roost, our seasonal beer garden, for live music on the porch, local beer on tap, wine by the glass and artisan wood-fired pizza! Pull up a chair around the water fountain or under large oaks, and enjoy ",
+    "frecency": 4793,
+    "url_hash": 17883353837761,
+    "last_visit_date": 1758203928160735
+  }
+}

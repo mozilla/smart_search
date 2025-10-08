@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "King City, California \\\"King City, California From Wikipedia, the free encyclopedianavigation search City of King City City The Robert Stanton Theater at King City High School (1939)Location of King City in Monterey County, California. City of King City Location in the United States Coordinates: 36\u00b012\u203246\u2033N 121\u00b007\u203234\u2033WCoor",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a city (King City, California) and contains geographic and municipal information, not related to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "King City, California \"King City, California From Wikipedia, the free encyclopedianavigation search City of King City City The Robert Stanton Theater at King City High School (1939)Location of King City in Monterey County, California. City of King City Location in the United States Coordinates: 36\u00b012\u203246\u2033N 121\u00b007\u203234\u2033WCoor",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/King_City,_California",
+    "title": "King City, California",
+    "description": "\"King City, California From Wikipedia, the free encyclopedianavigation search City of King City City The Robert Stanton Theater at King City High School (1939)Location of King City in Monterey County, California. City of King City Location in the United States Coordinates: 36\u00b012\u203246\u2033N 121\u00b007\u203234\u2033WCoor",
+    "frecency": 1740,
+    "url_hash": 26144247773499,
+    "last_visit_date": 1758203934787228
+  }
+}

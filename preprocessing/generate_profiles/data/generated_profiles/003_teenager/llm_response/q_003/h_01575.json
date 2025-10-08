@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Tri County Football CBSSPORTS. COM247SPORTSMAXPREPSSPORTSLINEFOLLOW MAXPREPSFootball Baseball Basketball G. Basketball... Apps SIGN IN",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result appears to be a sports-related site (Tri County Football, CBSSPORTS, MAXPREPS) with generic 'Apps' content, not about educational or study habit improvement apps.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Tri County Football CBSSPORTS. COM247SPORTSMAXPREPSSPORTSLINEFOLLOW MAXPREPSFootball Baseball Basketball G. Basketball... Apps SIGN IN",
+  "history": {
+    "url": "http://www.maxpreps.com/high-schools/tri-county-trojans-(dewitt,ne)/football/home.htm",
+    "title": "Tri County Football",
+    "description": "CBSSPORTS. COM247SPORTSMAXPREPSSPORTSLINEFOLLOW MAXPREPSFootball Baseball Basketball G. Basketball... Apps SIGN IN ",
+    "frecency": 3384,
+    "url_hash": 10319398233411,
+    "last_visit_date": 1758203934663228
+  }
+}

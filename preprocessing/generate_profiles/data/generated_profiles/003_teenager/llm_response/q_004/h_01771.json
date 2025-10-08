@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Kevin James comedy Kevin Can Wait gets series order from CBS Mike Pont/Wire Image Natalie Abrams May 12, 2016 AT 12:00 PM EDTCBS has given a series order to Kevin Can Wait, a comedy starring Kevin James, EW has learned. Reuniting with the network after his run on The King Of Queens, James will star in the multi-camera comedy as a newly retired police officer",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The result is entertainment news about a TV show, not related to improving at sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Kevin James comedy Kevin Can Wait gets series order from CBS Mike Pont/Wire Image Natalie Abrams May 12, 2016 AT 12:00 PM EDTCBS has given a series order to Kevin Can Wait, a comedy starring Kevin James, EW has learned. Reuniting with the network after his run on The King Of Queens, James will star in the multi-camera comedy as a newly retired police officer",
+  "history": {
+    "url": "http://ew.com/article/2016/05/12/cbs-kevin-james-kevin-can-wait/",
+    "title": "Kevin James comedy Kevin Can Wait gets series order from CBS",
+    "description": "Mike Pont/Wire Image Natalie Abrams May 12, 2016 AT 12:00 PM EDTCBS has given a series order to Kevin Can Wait, a comedy starring Kevin James, EW has learned. Reuniting with the network after his run on The King Of Queens, James will star in the multi-camera comedy as a newly retired police officer ",
+    "frecency": 3191,
+    "url_hash": 72077943222031,
+    "last_visit_date": 1758203932229228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Career Education School Locations About Career Education Investor Relations Jobs at Career Education Corporate Contact American Inter Continental University Colorado Technical University",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result lists links related to education institutions and corporate pages, not content about database query optimization; no relevance to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Career Education School Locations About Career Education Investor Relations Jobs at Career Education Corporate Contact American Inter Continental University Colorado Technical University",
+  "history": {
+    "url": "http://www.careered.com/",
+    "title": "Career Education School Locations",
+    "description": "About Career Education Investor Relations Jobs at Career Education Corporate Contact American Inter Continental University Colorado Technical University ",
+    "frecency": 426,
+    "url_hash": 12985829026285,
+    "last_visit_date": 1758203928344111
+  }
+}

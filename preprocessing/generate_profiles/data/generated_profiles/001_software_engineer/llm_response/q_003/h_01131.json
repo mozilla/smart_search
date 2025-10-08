@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Which president was nicknamed the Great Communicator? \"Which president was nicknamed the Great Communicator? Ronald Reagan was sometimes given this nickname. What is a president whos successor has been elected called? It is called a \"\"Lame Duck. \"\"Armoryhistorian 4,374 Contributions When a president is elected but has not been inaugurated yet what is h",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses presidents and political terms, not database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Which president was nicknamed the Great Communicator? \"Which president was nicknamed the Great Communicator? Ronald Reagan was sometimes given this nickname. What is a president whos successor has been elected called? It is called a \"\"Lame Duck. \"\"Armoryhistorian 4,374 Contributions When a president is elected but has not been inaugurated yet what is h",
+  "history": {
+    "url": "http://www.answers.com/Q/Which_president_has_been_called_the_great_communicator",
+    "title": "Which president was nicknamed the Great Communicator?",
+    "description": "\"Which president was nicknamed the Great Communicator? Ronald Reagan was sometimes given this nickname. What is a president whos successor has been elected called? It is called a \"\"Lame Duck. \"\"Armoryhistorian 4,374 Contributions When a president is elected but has not been inaugurated yet what is h",
+    "frecency": 1022,
+    "url_hash": 80214447746622,
+    "last_visit_date": 1758203928932200
+  }
+}

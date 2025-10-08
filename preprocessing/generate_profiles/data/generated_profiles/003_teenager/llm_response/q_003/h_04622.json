@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "New-Age Music - Topic \"Top Tracks - New-Age Music Play all6:17Relaxing Music Various Artists - Topic4,905 views 3 years ago2:14Hush a Bye Baby | Lullaby for Babies | Infobellsinfobells37,586,843 views 6 months ago1:46Soothing Relaxing Music - Topic11,851 views 4 months ago4:17Bedtime Songs (Instrumental Piano)Various Art",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about New-Age Music videos, not about apps or studying, hence not relevant to the query about best apps for improving study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "New-Age Music - Topic \"Top Tracks - New-Age Music Play all6:17Relaxing Music Various Artists - Topic4,905 views 3 years ago2:14Hush a Bye Baby | Lullaby for Babies | Infobellsinfobells37,586,843 views 6 months ago1:46Soothing Relaxing Music - Topic11,851 views 4 months ago4:17Bedtime Songs (Instrumental Piano)Various Art",
+  "history": {
+    "url": "https://www.youtube.com/channel/UCfqBDMEJrevX2_2XBUSxAqg",
+    "title": "New-Age Music - Topic",
+    "description": "\"Top Tracks - New-Age Music Play all6:17Relaxing Music Various Artists - Topic4,905 views 3 years ago2:14Hush a Bye Baby | Lullaby for Babies | Infobellsinfobells37,586,843 views 6 months ago1:46Soothing Relaxing Music - Topic11,851 views 4 months ago4:17Bedtime Songs (Instrumental Piano)Various Art",
+    "frecency": 204,
+    "url_hash": 15354317496508,
+    "last_visit_date": 1758203931421228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "What Is an RN Case Manager? Related Articles1What Is a Medical Case Manager?2Job Description for a Discharge Planner3Responsibilities of a Hospital Community Case Worker4Interview Questions and Answers for a Hospice Case Manager Nursing case management is a systematic approach to coordinating services for a patient population.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The result discusses nursing/case management, not Docker or container setup; not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "What Is an RN Case Manager? Related Articles1What Is a Medical Case Manager?2Job Description for a Discharge Planner3Responsibilities of a Hospital Community Case Worker4Interview Questions and Answers for a Hospice Case Manager Nursing case management is a systematic approach to coordinating services for a patient population.",
+  "history": {
+    "url": "http://work.chron.com/rn-case-manager-9245.html",
+    "title": "What Is an RN Case Manager?",
+    "description": "Related Articles1What Is a Medical Case Manager?2Job Description for a Discharge Planner3Responsibilities of a Hospital Community Case Worker4Interview Questions and Answers for a Hospice Case Manager Nursing case management is a systematic approach to coordinating services for a patient population.",
+    "frecency": 3100,
+    "url_hash": 73062172008888,
+    "last_visit_date": 1758203928116200
+  }
+}

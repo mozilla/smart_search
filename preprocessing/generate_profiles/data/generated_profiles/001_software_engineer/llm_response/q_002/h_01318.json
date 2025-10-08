@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Banana connector \\\"From Wikipedia, the free encyclopedianavigation search Various laboratory-style 4 mm banana plugs Loudspeaker-style banana plugs connected to a loudspeaker A banana connector (commonly banana plug for the male, banana socket or banana jack for the female) is a single- wire (one conductor) electrica",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses banana connectors, which are unrelated to integrated development environments or software development topics.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Banana connector \"From Wikipedia, the free encyclopedianavigation search Various laboratory-style 4 mm banana plugs Loudspeaker-style banana plugs connected to a loudspeaker A banana connector (commonly banana plug for the male, banana socket or banana jack for the female) is a single- wire (one conductor) electrica",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Banana_connector",
+    "title": "Banana connector",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search Various laboratory-style 4 mm banana plugs Loudspeaker-style banana plugs connected to a loudspeaker A banana connector (commonly banana plug for the male, banana socket or banana jack for the female) is a single- wire (one conductor) electrica",
+    "frecency": 368,
+    "url_hash": 42661109042130,
+    "last_visit_date": 1758203926878200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Android, the world's most popular mobile platform \"Android powers hundreds of mobile devices in more than 190 countries around the world. It's the largest installed base of any mobile platform and growing fast\u2014every day another million users power up their Android devices for the first time and start looking for apps, games, and other d\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes Android, a mobile platform, not content about improving performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Android, the world's most popular mobile platform \"Android powers hundreds of millions of mobile devices in more than 190 countries around the world. It's the largest installed base of any mobile platform and growing fast\u2014every day another million users power up their Android devices for the first time and start looking for apps, games, and other d",
+  "history": {
+    "url": "https://developer.android.com/about/index.html",
+    "title": "Android, the world's most popular mobile platform",
+    "description": "\"Android powers hundreds of millions of mobile devices in more than 190 countries around the world. It's the largest installed base of any mobile platform and growing fast\u2014every day another million users power up their Android devices for the first time and start looking for apps, games, and other d",
+    "frecency": 2559,
+    "url_hash": 25863396559422,
+    "last_visit_date": 1758203931887228
+  }
+}

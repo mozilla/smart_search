@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Billy Joe Royal, who sang \u00e2Down in the Boondocks, dies at 73 Entertainment Billy Joe Royal, who sang \u2018Down in the Boondocks, dies at 73By Tribune News Service Oct. 13, 2015Singer Billy Joe Royal, who scored a memorable top 10 pop hit in 1965 with \u201cDown in the Boondocks\u201d and later became a country star, died Oct. 6 at his home in Morehead City, North Carolina.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about the death of a singer and has no relevance to debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Billy Joe Royal, who sang \u00e2Down in the Boondocks, dies at 73 Entertainment Billy Joe Royal, who sang \u2018Down in the Boondocks, dies at 73By Tribune News Service Oct. 13, 2015Singer Billy Joe Royal, who scored a memorable top 10 pop hit in 1965 with \u201cDown in the Boondocks\u201d and later became a country star, died Oct. 6 at his home in Morehead City, North Carolina.",
+  "history": {
+    "url": "http://www.saukvalley.com/2015/10/14/billy-joe-royal-who-sang-down-in-the-boondocks-dies-at-73/agvznuj/",
+    "title": "Billy Joe Royal, who sang \u00e2Down in the Boondocks, dies at 73",
+    "description": "Entertainment Billy Joe Royal, who sang \u2018Down in the Boondocks, dies at 73By Tribune News Service Oct. 13, 2015Singer Billy Joe Royal, who scored a memorable top 10 pop hit in 1965 with \u201cDown in the Boondocks\u201d and later became a country star, died Oct. 6 at his home in Morehead City, North Carolina.",
+    "frecency": 3076,
+    "url_hash": 99112569246394,
+    "last_visit_date": 1758203928096200
+  }
+}

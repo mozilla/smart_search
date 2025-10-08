@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Where does a curry originate from? Answers.com \u00ae Wiki Answers \u00ae Categories Food & Cooking Herbs Spices and Seasonings Curry Powder Where does a curry originate from? Flag Where does a curry originate from? Answer by Pollita0601 Confidence votes 127My mother is a Proffessional International Cook, and looking through one of her books,",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses the origin of curry, not Docker or container setup; there is no relevance to the user query about Docker for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Where does a curry originate from? Answers.com \u00ae Wiki Answers \u00ae Categories Food & Cooking Herbs Spices and Seasonings Curry Powder Where does a curry originate from? Flag Where does a curry originate from? Answer by Pollita0601 Confidence votes 127My mother is a Proffessional International Cook, and looking through one of her books,",
+  "history": {
+    "url": "http://www.answers.com/Q/Where_does_a_curry_originate_from",
+    "title": "Where does a curry originate from?",
+    "description": "Answers.com \u00ae Wiki Answers \u00ae Categories Food & Cooking Herbs Spices and Seasonings Curry Powder Where does a curry originate from? Flag Where does a curry originate from? Answer by Pollita0601 Confidence votes 127My mother is a Proffessional International Cook, and looking through one of her books, ",
+    "frecency": 236,
+    "url_hash": 81297487389413,
+    "last_visit_date": 1758203928638200
+  }
+}

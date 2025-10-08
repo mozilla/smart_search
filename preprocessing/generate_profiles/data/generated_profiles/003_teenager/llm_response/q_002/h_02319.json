@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Medical Assistant Salaries Medical Assistant Salaries About This Data8,069 Salaries Updated Apr 10, 2018All Industries Accounting & Legal Architecture & Civil Engineering Arts & Entertainment Automotive Banking & Financial Services Beauty & Fitness Biotech & Pharmaceuticals Business Services Computer Softw",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result appears to be about Medical Assistant salaries across industries, not related to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Medical Assistant Salaries Medical Assistant Salaries About This Data8,069 Salaries Updated Apr 10, 2018All Industries Accounting & Legal Aerospace & Defense Architecture & Civil Engineering Arts & Entertainment Automotive Banking & Financial Services Beauty & Fitness Biotech & Pharmaceuticals Business Services Computer Softw",
+  "history": {
+    "url": "https://www.glassdoor.com/Salaries/medical-assistant-salary-SRCH_KO0,17.htm",
+    "title": "Medical Assistant Salaries",
+    "description": "Medical Assistant Salaries About This Data8,069 Salaries Updated Apr 10, 2018All Industries Accounting & Legal Aerospace & Defense Architecture & Civil Engineering Arts & Entertainment Automotive Banking & Financial Services Beauty & Fitness Biotech & Pharmaceuticals Business Services Computer Softw",
+    "frecency": 2606,
+    "url_hash": 16346119134782,
+    "last_visit_date": 1758203934683228
+  }
+}

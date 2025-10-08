@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Food Sources of Vitamin D \\\"Download Posted: Nov 23, 2016Information about Vitamin DVitamin D is a fat-soluble vitamin. This means that your body can store extra amounts of vitamin D. It is important to get enough vitamin D from your diet because it helps our bodies absorb and use calcium and phosphorous for strong bones and",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns Vitamin D and nutrition, not DIY room decoration ideas; it is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Food Sources of Vitamin D \"Download Posted: Nov 23, 2016Information about Vitamin DVitamin D is a fat-soluble vitamin. This means that your body can store extra amounts of vitamin D. It is important to get enough vitamin D from your diet because it helps our bodies absorb and use calcium and phosphorous for strong bones and",
+  "history": {
+    "url": "https://www.dietitians.ca/Your-Health/Nutrition-A-Z/Vitamins/Food-Sources-of-Vitamin-D.aspx",
+    "title": "Food Sources of Vitamin D",
+    "description": "\"Download Posted: Nov 23, 2016Information about Vitamin DVitamin D is a fat-soluble vitamin. This means that your body can store extra amounts of vitamin D. It is important to get enough vitamin D from your diet because it helps our bodies absorb and use calcium and phosphorous for strong bones and ",
+    "frecency": 501,
+    "url_hash": 32307192519548,
+    "last_visit_date": 1758203928572735
+  }
+}

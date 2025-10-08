@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Mrs. Fields Cookies \"Browse the latest corporate news from Mrs. Fields Cookies . Mrs. Fields Introduces Chocolate-Dipped Strawberries Mrs. Fields, the worldwide brand known for warm, delectable, freshly baked cookies right out of the oven, has entered a new category of sweet treats - Chocolate-Dipped Strawberries. Jan",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Mrs. Fields Cookies corporate news, unrelated to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Mrs. Fields Cookies \"Browse the latest corporate news from Mrs. Fields Cookies . Mrs. Fields Introduces Chocolate-Dipped Strawberries Mrs. Fields, the worldwide brand known for warm, delectable, freshly baked cookies right out of the oven, has entered a new category of sweet treats - Chocolate-Dipped Strawberries. Jan",
+  "history": {
+    "url": "https://www.franchising.com/mrsfields/news/",
+    "title": "Mrs. Fields Cookies",
+    "description": "\"Browse the latest corporate news from Mrs. Fields Cookies . Mrs. Fields Introduces Chocolate-Dipped Strawberries Mrs. Fields, the worldwide brand known for warm, delectable, freshly baked cookies right out of the oven, has entered a new category of sweet treats - Chocolate-Dipped Strawberries. Jan ",
+    "frecency": 1400,
+    "url_hash": 58092461539127,
+    "last_visit_date": 1758203927568200
+  }
+}

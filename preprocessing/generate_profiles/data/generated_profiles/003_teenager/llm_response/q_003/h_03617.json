@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "The 50 best rap lyrics of all time: Complete list \\\"Last week, we took a look at the fifty worst rap lyrics of all time. Going through all the dreck and drivel to get to the cr\u00e8me de la cr\u00e8me of crappiness was tedious and rather exhausting. This week, we even things out by taking a look at the other end of the spectrum and examining rap lyrics to fi",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about rap lyrics, not about apps for improving study habits; thus it is not relevant to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "The 50 best rap lyrics of all time: Complete list \"Last week, we took a look at the fifty worst rap lyrics of all time. Going through all the dreck and drivel to get to the cr\u00e8me de la cr\u00e8me of crappiness was tedious and rather exhausting. This week, we even things out by taking a look at the other end of the spectrum and examining rap lyrics to fi",
+  "history": {
+    "url": "http://www.westword.com/music/the-50-best-rap-lyrics-of-all-time-complete-list-5681125",
+    "title": "The 50 best rap lyrics of all time: Complete list",
+    "description": "\"Last week, we took a look at the fifty worst rap lyrics of all time. Going through all the dreck and drivel to get to the cr\u00e8me de la cr\u00e8me of crappiness was tedious and rather exhausting. This week, we even things out by taking a look at the other end of the spectrum and examining rap lyrics to fi",
+    "frecency": 1226,
+    "url_hash": 85076368126451,
+    "last_visit_date": 1758203936309228
+  }
+}

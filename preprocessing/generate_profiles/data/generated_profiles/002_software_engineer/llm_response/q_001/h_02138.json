@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Laptops \"Narrow By: Items in Your Store -Set store to pick up today Brand +Deals +Shipping & Pickup +Rating +Laptop Style +Laptop Refurbished +Installed RAM +Processor Type +Hard Drive Type +Computer Use +Processor Speed (Up To Ghz) +Touch Screen +2-in-1 +Bluetooth Compatibility +Color Family +Computer Use +Processor Speed (Up To Ghz) +Touch Screen +2-in-1 +Bluetooth Compatibility +Color Family +Computer Use +Processor Speed (Up To Ghz) +Touch Screen +2-in-1 +Bluetooth Compatibility +Color Family +Computer Use +Processor Speed\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes laptop filters and products, not Python libraries or machine learning topics; thus not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Laptops \"Narrow By: Items in Your Store -Set store to pick up today Brand +Deals +Shipping & Pickup +Rating +Laptop Style +Laptop Refurbished +Installed RAM +Processor Type +Hard Drive Type +Computer Use +Processor Speed (Up To Ghz) +Touch Screen +2-in-1 +Bluetooth Compatibility +Color Family +Computer Oper",
+  "history": {
+    "url": "http://www.staples.com/Laptops/cat_CL167289",
+    "title": "Laptops",
+    "description": "\"Narrow By: Items in Your Store -Set store to pick up today Brand +Deals +Shipping & Pickup +Rating +Laptop Style +Laptop Refurbished +Installed RAM +Processor Type +Hard Drive Type +Computer Use +Processor Speed (Up To Ghz) +Touch Screen +2-in-1 +Bluetooth Compatibility +Color Family +Computer Oper",
+    "frecency": 1133,
+    "url_hash": 89130250695639,
+    "last_visit_date": 1758203929436111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "SPECIES EVOLUTION \\\"Evolution Encyclopedia Vol. 2CHAPTER 15SPECIES EVOLUTION\\\"\\\"Throughout the past century there has always existed a significant minority of first-rate biologists who have never been able to accept the validity of Darwinian claims. In fact, the member of biologists who have express",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns species evolution and Darwinian biology, not database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "SPECIES EVOLUTION \"Evolution Encyclopedia Vol. 2CHAPTER 15SPECIES EVOLUTION\"\"Throughout the past century there has always existed a significant minority of first-rate biologists who have never been able to bring themselves to accept the validity of Darwinian claims. In fact, the member of biologists who have expresse",
+  "history": {
+    "url": "http://evolutionfacts.com/Ev-V2/2evlch15.htm",
+    "title": "SPECIES EVOLUTION",
+    "description": "\"Evolution Encyclopedia Vol. 2CHAPTER 15SPECIES EVOLUTION\"\"Throughout the past century there has always existed a significant minority of first-rate biologists who have never been able to bring themselves to accept the validity of Darwinian claims. In fact, the member of biologists who have expresse",
+    "frecency": 2294,
+    "url_hash": 69872466976257,
+    "last_visit_date": 1758203927916111
+  }
+}

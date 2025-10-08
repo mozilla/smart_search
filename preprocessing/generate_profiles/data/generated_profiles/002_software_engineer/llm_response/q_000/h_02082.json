@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "1,334 Dollar General Employee Salaries \\\"Dollar General (132 reviews) Share Salary Industry: General Merchandise Stores \u00b7 HQ: Goodlettsville, TN \u00b7 https://www.dollargeneral.com Overview Jobs Salaries Reviews News1,334 Dollar General Employee Salaries Browse Dollar General Salaries by Job Title \u2192Dollar General employees earn $30,000 annual",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Dollar General employee salaries and is unrelated to debugging or integrating APIs.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "1,334 Dollar General Employee Salaries \"Dollar General (132 reviews) Share Salary Industry: General Merchandise Stores \u00b7 HQ: Goodlettsville, TN \u00b7 https://www.dollargeneral.com Overview Jobs Salaries Reviews News1,334 Dollar General Employee Salaries Browse Dollar General Salaries by Job Title \u2192Dollar General employees earn $30,000 annual",
+  "history": {
+    "url": "https://www.careerbliss.com/dollar-general/salaries/",
+    "title": "1,334 Dollar General Employee Salaries",
+    "description": "\"Dollar General (132 reviews) Share Salary Industry: General Merchandise Stores \u00b7 HQ: Goodlettsville, TN \u00b7 https://www.dollargeneral.com Overview Jobs Salaries Reviews News1,334 Dollar General Employee Salaries Browse Dollar General Salaries by Job Title \u2192Dollar General employees earn $30,000 annual",
+    "frecency": 1224,
+    "url_hash": 36016902198342,
+    "last_visit_date": 1758203928422111
+  }
+}

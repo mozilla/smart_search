@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "10 Eating Habits of the Highly Successful and Fit \"Stephen Covey's theories on learning from the habits of successful people in his book The Seven Habits of Highly Effective People suggest that by emulating the habits of successful people, anyone can enjoy the life he or she desires. Learn the habits, adopt the habits, practice the habits, enjoy th",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page discusses eating habits and self-improvement, not TikTok trends for 2024; it is not relevant to the query.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "10 Eating Habits of the Highly Successful and Fit \"Stephen Covey's theories on learning from the habits of successful people in his book The Seven Habits of Highly Effective People suggest that by emulating the habits of successful people, anyone can enjoy the life he or she desires. Learn the habits, adopt the habits, practice the habits, enjoy th",
+  "history": {
+    "url": "http://www.womenshealthmag.com/weight-loss/healthy-eating-habits",
+    "title": "10 Eating Habits of the Highly Successful and Fit",
+    "description": "\"Stephen Covey's theories on learning from the habits of successful people in his book The Seven Habits of Highly Effective People suggest that by emulating the habits of successful people, anyone can enjoy the life he or she desires. Learn the habits, adopt the habits, practice the habits, enjoy th",
+    "frecency": 824,
+    "url_hash": 36436170584676,
+    "last_visit_date": 1758203930951228
+  }
+}

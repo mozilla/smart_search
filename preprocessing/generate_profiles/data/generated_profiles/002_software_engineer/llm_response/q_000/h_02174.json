@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "The Starting Wage for a Medical Assistant Related Articles1Starting Salaries for Certified Medical Assistants2How to Obtain a Position as a Medical Assistant3How Much Does a Medical Assistant Make an Hour?4The Average Hourly Rate for a Medical Assistant Medical assistants are health-care workers who provide patient services and administrati",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses medical assistant salaries/career information, not API integration or debugging; irrelevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "The Starting Wage for a Medical Assistant Related Articles1Starting Salaries for Certified Medical Assistants2How to Obtain a Position as a Medical Assistant3How Much Does a Medical Assistant Make an Hour?4The Average Hourly Rate for a Medical Assistant Medical assistants are health-care workers who provide patient services and administrati",
+  "history": {
+    "url": "http://work.chron.com/starting-wage-medical-assistant-2325.html",
+    "title": "The Starting Wage for a Medical Assistant",
+    "description": "Related Articles1Starting Salaries for Certified Medical Assistants2How to Obtain a Position as a Medical Assistant3How Much Does a Medical Assistant Make an Hour?4The Average Hourly Rate for a Medical Assistant Medical assistants are health-care workers who provide patient services and administrati",
+    "frecency": 1052,
+    "url_hash": 94404074805685,
+    "last_visit_date": 1758203931880111
+  }
+}

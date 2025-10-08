@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "The Cast of 'Full House' Reunites \\\"The Cast of 'Full House' Reunites By Michael Rothman Jan 26, 2015, 9:45 AM ETloriloughlin/Instagram WATCH Cast of 'Full House' Reunite 20 Years After Show Email Two decades after the final episode of \\\"Full House\\\" aired in 1995, the cast reunited over the weekend and it was glorious. John Stamos,",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses a TV show reunion, not database query optimization; it contains no information relevant to optimizing database queries.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "The Cast of 'Full House' Reunites \"The Cast of 'Full House' Reunites By Michael Rothman Jan 26, 2015, 9:45 AM ETloriloughlin/Instagram WATCH Cast of 'Full House' Reunite 20 Years After Show Email Two decades after the final episode of \"\"Full House\"\" aired in 1995, the cast reunited over the weekend and it was glorious. John Stamos,",
+  "history": {
+    "url": "http://abcnews.go.com/Entertainment/cast-full-house-reunites/story?id=28485627",
+    "title": "The Cast of 'Full House' Reunites",
+    "description": "\"The Cast of 'Full House' Reunites By Michael Rothman Jan 26, 2015, 9:45 AM ETloriloughlin/Instagram WATCH Cast of 'Full House' Reunite 20 Years After Show Email Two decades after the final episode of \"\"Full House\"\" aired in 1995, the cast reunited over the weekend and it was glorious. John Stamos, ",
+    "frecency": 1465,
+    "url_hash": 60077563924169,
+    "last_visit_date": 1758203928074200
+  }
+}

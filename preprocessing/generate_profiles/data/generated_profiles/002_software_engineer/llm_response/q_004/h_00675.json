@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "How to Fix an I/O Device Error How to Fix an I/O Device Error By Ron Price Share Since an I/O device error occurs when the Windows OS is attempting to use a transfer mode that is not available or not recognized to or from an input, storage or output device -- such as external hard disk drives, DVDs and CDs, SD cards and USB devic",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Windows I/O device errors, not Docker setup or beginner Docker guidance; thus not relevant.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "How to Fix an I/O Device Error How to Fix an I/O Device Error By Ron Price Share Since an I/O device error occurs when the Windows OS is attempting to use a transfer mode that is not available or not recognized to or from an input, storage or output device -- such as external hard disk drives, DVDs and CDs, SD cards and USB devic",
+  "history": {
+    "url": "http://www.ehow.com/how_5206064_fix-io-device-error.html",
+    "title": "How to Fix an I/O Device Error",
+    "description": "How to Fix an I/O Device Error By Ron Price Share Since an I/O device error occurs when the Windows OS is attempting to use a transfer mode that is not available or not recognized to or from an input, storage or output device -- such as external hard disk drives, DVDs and CDs, SD cards and USB devic",
+    "frecency": 3806,
+    "url_hash": 10715370356417,
+    "last_visit_date": 1758203927666111
+  }
+}

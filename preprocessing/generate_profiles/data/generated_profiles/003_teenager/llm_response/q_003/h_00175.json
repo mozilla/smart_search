@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Fish Creek Fish Creek STATE PARKExperience this new state park that has outstanding opportunities for hiking, mountain biking, fishing and wildlife viewing. RESTRICTIONS AND CLOSURES Fires and smoking prohibited at all times. SEASON AND HOURSPark Open daily all year Daylight hours LOCATION 851 Rivulet Road Alb",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The page describes a state park and outdoor activities, not apps or study habits; not relevant to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Fish Creek Fish Creek STATE PARKExperience this new state park that has outstanding opportunities for hiking, mountain biking, fishing and wildlife viewing. RESTRICTIONS AND CLOSURES Fires and smoking prohibited at all times. SEASON AND HOURSPark Open daily all year Daylight hours LOCATION 851 Rivulet Road Alb",
+  "history": {
+    "url": "http://stateparks.mt.gov/fish-creek/",
+    "title": "Fish Creek",
+    "description": "Fish Creek STATE PARKExperience this new state park that has outstanding opportunities for hiking, mountain biking, fishing and wildlife viewing. RESTRICTIONS AND CLOSURES Fires and smoking prohibited at all times. SEASON AND HOURSPark Open daily all year Daylight hours LOCATION 851 Rivulet Road Alb",
+    "frecency": 4821,
+    "url_hash": 62424224281360,
+    "last_visit_date": 1758203932983228
+  }
+}

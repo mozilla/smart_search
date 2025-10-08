@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Non-voting members of the United States House of Representatives \"From Wikipedia, the free encyclopedianavigation search This article is part of a series on the United States House of Representatives History of the United States House of Representatives Members Current members ( by seniority by age non-voting)Former members Hill committees ( DCCC NRCC)Congression",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses non-voting members of the U.S. House of Representatives and related Wikipedia navigation, which is unrelated to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Non-voting members of the United States House of Representatives \"From Wikipedia, the free encyclopedianavigation search This article is part of a series on the United States House of Representatives History of the United States House of Representatives Members Current members ( by seniority by age non-voting)Former members Hill committees ( DCCC NRCC)Congression",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Non-voting_members_of_the_United_States_House_of_Representatives",
+    "title": "Non-voting members of the United States House of Representatives",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search This article is part of a series on the United States House of Representatives History of the United States House of Representatives Members Current members ( by seniority by age non-voting)Former members Hill committees ( DCCC NRCC)Congression",
+    "frecency": 427,
+    "url_hash": 7799358159715,
+    "last_visit_date": 1758203930776111
+  }
+}

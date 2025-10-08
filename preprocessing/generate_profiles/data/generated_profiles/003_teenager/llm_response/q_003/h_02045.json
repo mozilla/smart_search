@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Thank you for another stellar season. Thank you for another stellar season. Follow us on Facebook and Twitter to stay up-to-date on Lincoln Center news.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Lincoln Center news and social media, not anything related to study apps or improving study habits; thus it is not relevant to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Thank you for another stellar season. Thank you for another stellar season. Follow us on Facebook and Twitter to stay up-to-date on Lincoln Center news.",
+  "history": {
+    "url": "http://americansongbook.org/events/venues/the-appel-room",
+    "title": "Thank you for another stellar season.",
+    "description": "Thank you for another stellar season. Follow us on Facebook and Twitter to stay up-to-date on Lincoln Center news. ",
+    "frecency": 2883,
+    "url_hash": 37537636869052,
+    "last_visit_date": 1758203934891228
+  }
+}

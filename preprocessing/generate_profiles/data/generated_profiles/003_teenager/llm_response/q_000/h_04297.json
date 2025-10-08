@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Connect to Central Connect to Central Building strong connections that last a lifetime. News View All Events Outdoor Recreation Center The time is right for an outdoor adventure. See what the Outdoor Recreation Center has to offer. Enroll Now Snag the classes you need while getting the schedule you want. Enroll now. T",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result appears to be about a community/rec center and events, not about starting a YouTube channel. It lacks content relevant to creating or managing a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Connect to Central Connect to Central Building strong connections that last a lifetime. News View All Events Outdoor Recreation Center The time is right for an outdoor adventure. See what the Outdoor Recreation Center has to offer. Enroll Now Snag the classes you need while getting the schedule you want. Enroll now. T",
+  "history": {
+    "url": "https://www.uco.edu/",
+    "title": "Connect to Central",
+    "description": "Connect to Central Building strong connections that last a lifetime. News View All Events Outdoor Recreation Center The time is right for an outdoor adventure. See what the Outdoor Recreation Center has to offer. Enroll Now Snag the classes you need while getting the schedule you want. Enroll now. T",
+    "frecency": 546,
+    "url_hash": 4186572105217,
+    "last_visit_date": 1758203930563228
+  }
+}

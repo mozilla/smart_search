@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Teacher Certification Required NYS Certification Exams Please see Important Information Regarding NYS Certification Exam Safety Nets Effective immediately, the ALST (Academic Literacy Skills Test) has been eliminated. Candidates are NO LONGER REQUIRED to take the ALST for NYS certification. Please see NYSED and NYSTCENYS",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses NYS teacher certification exams, not API integration debugging; the content is unrelated to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Teacher Certification Required NYS Certification Exams Please see Important Information Regarding NYS Certification Exam Safety Nets Effective immediately, the ALST (Academic Literacy Skills Test) has been eliminated. Candidates are NO LONGER REQUIRED to take the ALST for NYS certification. Please see NYSED and NYSTCENYS",
+  "history": {
+    "url": "https://steinhardt.nyu.edu/teacher_certification/required_exams",
+    "title": "Teacher Certification",
+    "description": "Required NYS Certification Exams Please see Important Information Regarding NYS Certification Exam Safety Nets Effective immediately, the ALST (Academic Literacy Skills Test) has been eliminated. Candidates are NO LONGER REQUIRED to take the ALST for NYS certification. Please see NYSED and NYSTCENYS",
+    "frecency": 3900,
+    "url_hash": 5146096763244,
+    "last_visit_date": 1758203928588111
+  }
+}

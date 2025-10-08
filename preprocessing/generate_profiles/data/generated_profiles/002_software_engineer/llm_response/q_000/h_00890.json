@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "SystemdForUpstartUsers Systemd For Upstart Users Contents Introduction Support status System Init Daemon Switching init systems Switch to upstart for a single boot Permanent switch back to upstart High-level startup concept Job vs. unit keywords Shell scripts Automatic starting Invalid configurations Override Files Behav",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Systemd/Upstart initialization and does not cover debugging API integrations; no content relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "SystemdForUpstartUsers \"Systemd For Upstart Users Contents Introduction Support status System Init Daemon Switching init systems Switch to upstart for a single boot Permanent switch back to upstart High-level startup concept Job vs. unit keywords Shell scripts Automatic starting Invalid configurations Override Files Behav",
+  "history": {
+    "url": "https://wiki.ubuntu.com/SystemdForUpstartUsers",
+    "title": "SystemdForUpstartUsers",
+    "description": "\"Systemd For Upstart Users Contents Introduction Support status System Init Daemon Switching init systems Switch to upstart for a single boot Permanent switch back to upstart High-level startup concept Job vs. unit keywords Shell scripts Automatic starting Invalid configurations Override Files Behav",
+    "frecency": 3395,
+    "url_hash": 7279171213567,
+    "last_visit_date": 1758203928360111
+  }
+}

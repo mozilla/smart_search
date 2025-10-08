@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Rey Misterio \\\"From Wikipedia, the free encyclopedia (Redirected from Rey Misterio, Sr.)navigation search This article is about the professional wrestler best known for his time working in Mexico. For his nephew, see Rey Mysterio. Rey Misterio Birth name Miguel \u00c1ngel L\u00f3pez D\u00edaz Born January 8, 1958 (age 60)Tijuan",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns a professional wrestler, not related to Docker setup or beginner guides.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Rey Misterio \"From Wikipedia, the free encyclopedia (Redirected from Rey Misterio, Sr.)navigation search This article is about the professional wrestler best known for his time working in Mexico. For his nephew, see Rey Mysterio. Rey Misterio Birth name Miguel \u00c1ngel L\u00f3pez D\u00edaz Born January 8, 1958 (age 60)Tijuan",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Rey_Misterio,_Sr.",
+    "title": "Rey Misterio",
+    "description": "\"From Wikipedia, the free encyclopedia (Redirected from Rey Misterio, Sr.)navigation search This article is about the professional wrestler best known for his time working in Mexico. For his nephew, see Rey Mysterio. Rey Misterio Birth name Miguel \u00c1ngel L\u00f3pez D\u00edaz Born January 8, 1958 (age 60)Tijuan",
+    "frecency": 2479,
+    "url_hash": 32759436357487,
+    "last_visit_date": 1758203928792200
+  }
+}

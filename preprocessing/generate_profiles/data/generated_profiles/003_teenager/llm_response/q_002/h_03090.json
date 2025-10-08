@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "James Harvey (artist) From Wikipedia, the free encyclopedia search James Harvey (1929 \u2013 July 15, 1965) was an American commercial and fine artist who was best known as the designer of the Brillo Pad box made famous by pop artist Andy Warhol in 1964 at his Stable Gallery Show. During his successful career",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page discusses James Harvey, an artist and Brillo Box designer, which is unrelated to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "James Harvey (artist) \"From Wikipedia, the free encyclopedianavigation search James Harvey (1929 \u2013 July 15, 1965) was an American commercial and fine artist who was best known as the designer of the Brillo Pad box made famous by pop artist Andy Warhol in 1964 at his \"\" Stable Gallery Show \"\". During his successful career",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/James_Harvey_(artist)",
+    "title": "James Harvey (artist)",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search James Harvey (1929 \u2013 July 15, 1965) was an American commercial and fine artist who was best known as the designer of the Brillo Pad box made famous by pop artist Andy Warhol in 1964 at his \"\" Stable Gallery Show \"\". During his successful career",
+    "frecency": 1753,
+    "url_hash": 25867855455428,
+    "last_visit_date": 1758203933183228
+  }
+}

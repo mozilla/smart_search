@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Why book a Painting Party? Why book a Painting Party? Party Info Looks like Art... Feels like Fun!We offer private parties for any occasion!Birthdays Office parties Girls Night Out!Wedding showers Baby Showers Bachelor/ette parties Graduation Parties Church groups Field Trips Scout Activities Sports Team Parties Team Building",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes painting party services for events, not related to study apps or improving study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Why book a Painting Party? Why book a Painting Party? Party Info Looks like Art... Feels like Fun!We offer private parties for any occasion!Birthdays Office parties Girls Night Out!Wedding showers Baby Showers Bachelor/ette parties Graduation Parties Church groups Field Trips Scout Activities Sports Team Parties Team Building",
+  "history": {
+    "url": "https://paintingwithatwist.com/chattanooga/partyinfo/",
+    "title": "Why book a Painting Party?",
+    "description": "Why book a Painting Party? Party Info Looks like Art... Feels like Fun!We offer private parties for any occasion!Birthdays Office parties Girls Night Out!Wedding showers Baby Showers Bachelor/ette parties Graduation Parties Church groups Field Trips Scout Activities Sports Team Parties Team Building",
+    "frecency": 4652,
+    "url_hash": 21649503221064,
+    "last_visit_date": 1758203932467228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Visiting the Store Home Visiting the Store How to find us Map data \u00a92018 Google Terms of Use Sign in Harrods View larger map Tube The nearest tube station to Harrods is Knightsbridge on the Piccadilly line. Use the Brompton Road exit for Harrods. South Kensingtonstation, on the Piccadilly, District and Circle lines, a",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns Harrods store location and nearby tube stations, not about optimizing database queries.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Visiting the Store Home Visiting the Store How to find us Map data \u00a92018 Google Terms of Use Sign in Harrods View larger map Tube The nearest tube station to Harrods is Knightsbridge on the Piccadilly line. Use the Brompton Road exit for Harrods. South Kensingtonstation, on the Piccadilly, District and Circle lines, a",
+  "history": {
+    "url": "http://www.harrods.com/visiting-the-store",
+    "title": "Visiting the Store",
+    "description": "Home Visiting the Store How to find us Map data \u00a92018 Google Terms of Use Sign in Harrods View larger map Tube The nearest tube station to Harrods is Knightsbridge on the Piccadilly line. Use the Brompton Road exit for Harrods. South Kensingtonstation, on the Piccadilly, District and Circle lines, a",
+    "frecency": 694,
+    "url_hash": 78579785895671,
+    "last_visit_date": 1758203929066111
+  }
+}

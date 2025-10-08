@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Is IT a profit center or a cost center? Who cares? \\\"41There are several recurring debates in the IT management community. Most of us have read articles or perhaps engaged in debates over topics like IT \\\"alignment,\\\" the best way to implement an ERP, and that old favorite argument of whether IT should be a profit center or a cost center. In most org",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses IT management debates and alignment, not database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Is IT a profit center or a cost center? Who cares? \"41There are several recurring debates in the IT management community. Most of us have read articles or perhaps engaged in debates over topics like IT \"\"alignment,\"\" the best way to implement an ERP, and that old favorite argument of whether IT should be a profit center or a cost center. In most org",
+  "history": {
+    "url": "http://www.techrepublic.com/blog/tech-decision-maker/is-it-a-profit-center-or-a-cost-center-who-cares/",
+    "title": "Is IT a profit center or a cost center? Who cares?",
+    "description": "\"41There are several recurring debates in the IT management community. Most of us have read articles or perhaps engaged in debates over topics like IT \"\"alignment,\"\" the best way to implement an ERP, and that old favorite argument of whether IT should be a profit center or a cost center. In most org",
+    "frecency": 4634,
+    "url_hash": 47814781212422,
+    "last_visit_date": 1758203930598111
+  }
+}

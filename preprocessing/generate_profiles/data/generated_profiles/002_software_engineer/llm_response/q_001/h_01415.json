@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Geriatric Social Worker Salaries in Pittsburgh, PA \"Geriatric Social Worker Salaries in Pittsburgh, PA Salary estimated from 92 employees, users, and past and present job advertisements on Indeed in the past 24 months. Last updated: February 5, 2018Location Community & Social Service Average Salary Salary Distribution Social Worker68 salaries reporte",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses geriatric social worker salaries, not Python libraries for machine learning; no topical relevance.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Geriatric Social Worker Salaries in Pittsburgh, PA \"Geriatric Social Worker Salaries in Pittsburgh, PASalary estimated from 92 employees, users, and past and present job advertisements on Indeed in the past 24 months. Last updated: February 5, 2018Location Community & Social Service Average Salary Salary Distribution Social Worker68 salaries reporte",
+  "history": {
+    "url": "http://www.indeed.com/salary/q-Geriatric-Social-Worker-l-Pittsburgh,-PA.html",
+    "title": "Geriatric Social Worker Salaries in Pittsburgh, PA",
+    "description": "\"Geriatric Social Worker Salaries in Pittsburgh, PASalary estimated from 92 employees, users, and past and present job advertisements on Indeed in the past 24 months. Last updated: February 5, 2018Location Community & Social Service Average Salary Salary Distribution Social Worker68 salaries reporte",
+    "frecency": 2443,
+    "url_hash": 34472053977760,
+    "last_visit_date": 1758203929506111
+  }
+}

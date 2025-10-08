@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Corporations 101: The Role of Corporations and Corporate Governance I. Introduction In an era of increasing global competition and economic uncertainty, understanding the role that corporations play is more important than ever. Therefore, Business Roundtable has prepared this paper to provide a brief introduction to corporations, the economic benefits they provide,",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses corporations and corporate governance, not API integration debugging.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Corporations 101: The Role of Corporations and Corporate Governance I. Introduction In an era of increasing global competition and economic uncertainty, understanding the role that corporations play is more important than ever. Therefore, Business Roundtable has prepared this paper to provide a brief introduction to corporations, the economic benefits they provide,",
+  "history": {
+    "url": "http://businessroundtable.org/resources/corporations-101-the-role-of-corporations-and-corporate-governance",
+    "title": "Corporations 101: The Role of Corporations and Corporate Governance",
+    "description": "I. Introduction In an era of increasing global competition and economic uncertainty, understanding the role that corporations play is more important than ever. Therefore, Business Roundtable has prepared this paper to provide a brief introduction to corporations, the economic benefits they provide, ",
+    "frecency": 2227,
+    "url_hash": 59801708675907,
+    "last_visit_date": 1758203932048111
+  }
+}

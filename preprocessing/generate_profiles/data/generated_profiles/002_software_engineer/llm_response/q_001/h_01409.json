@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Stokes Pharmacy,inc Search Stokes Pharmacy,inc Community/Retail Pharmacy in Burley Idaho Home > Idaho > Burley > Community/Retail Pharmacy Profile Overview Stokes Pharmacy,inc is listed as a health care organization in Burley, ID with Community/Retail Pharmacy listed as their primary specialization. Their office phone",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a pharmacy (Stokes Pharmacy, Inc.) and does not pertain to Python libraries or machine learning, making it not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Stokes Pharmacy,inc Search Stokes Pharmacy,inc Community/Retail Pharmacy in Burley Idaho Home > Idaho > Burley > Community/Retail Pharmacy Profile Overview Stokes Pharmacy,inc is listed as a health care organization in Burley, ID with Community/Retail Pharmacy listed as their primary specialization. Their office phone",
+  "history": {
+    "url": "http://www.ehealthscores.com/providers/izd-lxzwqppfxp/STOKES-PHARMACY,INC.html",
+    "title": "Stokes Pharmacy,inc",
+    "description": "Search Stokes Pharmacy,inc Community/Retail Pharmacy in Burley Idaho Home > Idaho > Burley > Community/Retail Pharmacy Profile Overview Stokes Pharmacy,inc is listed as a health care organization in Burley, ID with Community/Retail Pharmacy listed as their primary specialization. Their office phone ",
+    "frecency": 2453,
+    "url_hash": 87997355503492,
+    "last_visit_date": 1758203931908111
+  }
+}

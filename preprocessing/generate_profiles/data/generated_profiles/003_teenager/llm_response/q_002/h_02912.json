@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Your Photos Your Brand. Your Story. Your Photos Your Brand. Your Story. TRY IT",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result consists of branding copy with no content related to DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Your Photos Your Brand. Your Story. Your Photos Your Brand. Your Story. TRY IT",
+  "history": {
+    "url": "http://www.meitu.com/",
+    "title": "Your Photos Your Brand. Your Story.",
+    "description": "Your Photos Your Brand. Your Story. TRY IT ",
+    "frecency": 1949,
+    "url_hash": 10957596944645,
+    "last_visit_date": 1758203929382735
+  }
+}

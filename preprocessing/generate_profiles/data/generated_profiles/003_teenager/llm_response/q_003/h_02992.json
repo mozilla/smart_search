@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "resident noun1. a person who resides in a place.2. a physician who joins the medical staff of a hospital as a salaried employee for a specified period to gain advanced training usually in a particular field, being in full-time attendance at the hospital and often living on the premises.3. a diplomatic repres",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a dictionary definition of 'resident' and is not related to apps or study habit improvement.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "resident noun1. a person who resides in a place.2. a physician who joins the medical staff of a hospital as a salaried employee for a specified period to gain advanced training usually in a particular field, being in full-time attendance at the hospital and often living on the premises.3. a diplomatic repres",
+  "history": {
+    "url": "http://www.dictionary.com/browse/residents",
+    "title": "resident",
+    "description": "noun1. a person who resides in a place.2. a physician who joins the medical staff of a hospital as a salaried employee for a specified period to gain advanced training usually in a particular field, being in full-time attendance at the hospital and often living on the premises.3. a diplomatic repres",
+    "frecency": 1846,
+    "url_hash": 35427600727365,
+    "last_visit_date": 1758203930057228
+  }
+}

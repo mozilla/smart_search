@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "\"\"\"Mom, when I can I sit in the shotgun seat?\"\"\" \"\"Mom, when I can I sit in the shotgun seat? \"\"July 19, 2013 | By Kristine Henry, The Baltimore Sun I'm not sure if this is a tale of distracted parenting or car safety, but either one works. My 10-year-old son -- who is about one inch shorter than me, if that -- has been begging to ride shotgun fo",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses parenting and car seating, not sports improvement or athletic performance, and is not relevant to the query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "\"\"\"Mom, when I can I sit in the shotgun seat?\"\"\" \"\"\"Mom, when I can I sit in the shotgun seat? \"\"July 19, 2013 | By Kristine Henry, The Baltimore Sun I'm not sure if this is a tale of distracted parenting or car safety, but either one works. My 10-year-old son -- who is about one inch shorter than me, if that -- has been begging to ride shotgun fo",
+  "history": {
+    "url": "http://articles.baltimoresun.com/2013-07-19/features/bal-mom-when-i-can-i-sit-in-the-shotgun-seat-20130719_1_car-safety-child-passenger-safety-laws-rear-facing-car-seat",
+    "title": "\"\"\"Mom, when I can I sit in the shotgun seat?\"\"\"",
+    "description": "\"\"\"Mom, when I can I sit in the shotgun seat? \"\"July 19, 2013 | By Kristine Henry, The Baltimore Sun I'm not sure if this is a tale of distracted parenting or car safety, but either one works. My 10-year-old son -- who is about one inch shorter than me, if that -- has been begging to ride shotgun fo",
+    "frecency": 121,
+    "url_hash": 82890078566153,
+    "last_visit_date": 1758203928167139
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "CGM File Format File Extension CGM File Format Computer Graphic Metafile CGM is a file extension for a computer graphics metafile file format commonly used in CAD (computer-aided design) and presentation graphics applications. CGM is a vector graphics format that supports three different encoding methods: binary (b",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses CGM file format and computer graphics metafiles, not API integration or debugging; thus it is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "CGM File Format File Extension CGM File Format Computer Graphic Metafile CGM is a file extension for a computer graphics metafile file format commonly used in CAD (computer-aided design) and presentation graphics applications. CGM is a vector graphics format that supports three different encoding methods: binary (b",
+  "history": {
+    "url": "http://whatis.techtarget.com/fileformat/CGM-Computer-Graphic-Metafile",
+    "title": "CGM File Format",
+    "description": "File Extension CGM File Format Computer Graphic Metafile CGM is a file extension for a computer graphics metafile file format commonly used in CAD (computer-aided design) and presentation graphics applications. CGM is a vector graphics format that supports three different encoding methods: binary (b",
+    "frecency": 2434,
+    "url_hash": 43217161453098,
+    "last_visit_date": 1758203928270111
+  }
+}

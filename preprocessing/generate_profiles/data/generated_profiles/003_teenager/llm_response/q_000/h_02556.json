@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "An Introduction to the Structure of Ferns and their Allies - a botanical document about fern structure, not related to starting a YouTube channel.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The result content is botanical, unrelated to the query about starting a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "An Introduction to the Structure of Ferns and their Allies \"An Introduction to the Structure of Ferns and their Allies Prepared by Jim Croft ( jim.croft@environment.gov.au)Introduction Habit, Lifeform Stems, Rhizomes Leaves, fronds Sporophyte fertility Cytology. Life Cycle. Gametophyte. Sporophyte. Terrestrial. Epiphyte. Aquatic. Growth form. Branching. Pro",
+  "history": {
+    "url": "http://www.anbg.gov.au/fern/structure.html",
+    "title": "An Introduction to the Structure of Ferns and their Allies",
+    "description": "\"An Introduction to the Structure of Ferns and their Allies Prepared by Jim Croft ( jim.croft@environment.gov.au)Introduction Habit, Lifeform Stems, Rhizomes Leaves, fronds Sporophyte fertility Cytology. Life Cycle. Gametophyte. Sporophyte. Terrestrial. Epiphyte. Aquatic. Growth form. Branching. Pro",
+    "frecency": 2372,
+    "url_hash": 72021516021076,
+    "last_visit_date": 1758203934073228
+  }
+}

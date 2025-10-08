@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Ansible Tower on AWS To deploy Ansible and Ansible Tower on AWS in about 20 minutes, follow the step-by-step instructions in the Quick Start deployment guide. For additional Quick Starts, see the complete catalog. This Quick Start deploys Ansible and Ansible Tower by Red Hat on the AWS Cloud to help manage your IT infra",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The result describes deploying Ansible Tower on AWS, not about integrated development environments or software development IDEs, hence not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Ansible Tower on AWS To deploy Ansible and Ansible Tower on AWS in about 20 minutes, follow the step-by-step instructions in the Quick Start deployment guide. For additional Quick Starts, see the complete catalog. This Quick Start deploys Ansible and Ansible Tower by Red Hat on the AWS Cloud to help manage your IT infra",
+  "history": {
+    "url": "https://aws.amazon.com/quickstart/architecture/ansible-tower/",
+    "title": "Ansible Tower on AWS",
+    "description": "To deploy Ansible and Ansible Tower on AWS in about 20 minutes, follow the step-by-step instructions in the Quick Start deployment guide. For additional Quick Starts, see the complete catalog. This Quick Start deploys Ansible and Ansible Tower by Red Hat on the AWS Cloud to help manage your IT infra",
+    "frecency": 865,
+    "url_hash": 72733766438698,
+    "last_visit_date": 1758203928336200
+  }
+}

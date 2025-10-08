@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Welcome to Home Base Welcome to Home Base Home Base is North Carolina\u2019s suite of digital tools and instructional resources designed to empower teachers, engage students, support administrators and connect parents to their child\u2019s personalized learning. Since its inception into the public schools of North Carolina in 202",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes an educational platform for North Carolina public schools and does not mention or relate to Python libraries or machine learning libraries.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Welcome to Home Base Welcome to Home Base Home Base is North Carolina\u2019s suite of digital tools and instructional resources designed to empower teachers, engage students, support administrators and connect parents to their child\u2019s personalized learning. Since its inception into the public schools of North Carolina in 201",
+  "history": {
+    "url": "http://www.dpi.state.nc.us/homebase/",
+    "title": "Welcome to Home Base",
+    "description": "Welcome to Home Base Home Base is North Carolina\u2019s suite of digital tools and instructional resources designed to empower teachers, engage students, support administrators and connect parents to their child\u2019s personalized learning. Since its inception into the public schools of North Carolina in 201",
+    "frecency": 3271,
+    "url_hash": 15301196061636,
+    "last_visit_date": 1758203929390111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Whittier Alaska Whittier Alaska Whittier is a small town of about 400 residents located on the western edge of Prince William Sound in south central Alaska. Whittier was established during world war two as a military supply port. Today Whittier\u2019s economy is comprised mainly of shipping and port related jobs, fishin",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Whittier, Alaska, a town, and contains no information related to Docker or beginner setup topics.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Whittier Alaska Whittier Alaska Whittier is a small town of about 400 residents located on the western edge of Prince William Sound in south central Alaska. Whittier was established during world war two as a military supply port. Today Whittier\u2019s economy is comprised mainly of shipping and port related jobs, fishin",
+  "history": {
+    "url": "http://www.alaskatravel.com/whittier/",
+    "title": "Whittier Alaska",
+    "description": "Whittier Alaska Whittier is a small town of about 400 residents located on the western edge of Prince William Sound in south central Alaska. Whittier was established during world war two as a military supply port. Today Whittier\u2019s economy is comprised mainly of shipping and port related jobs, fishin",
+    "frecency": 3424,
+    "url_hash": 26616263838342,
+    "last_visit_date": 1758203931360111
+  }
+}

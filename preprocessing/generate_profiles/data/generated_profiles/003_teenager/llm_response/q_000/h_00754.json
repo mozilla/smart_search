@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Curiosity Launch Vehicle, Artist's Concept Images | October 3, 2011Curiosity Launch Vehicle, Artist's Concept This is an artist concept of the Atlas V541 launch vehicle that will carry NASA's Curiosity rover on its way to Mars. The Atlas V 541 vehicle was selected for the Mars Science Laboratory mission because it has the right liftoff capab",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a space launch vehicle and NASA Curiosity rover, not about starting a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Curiosity Launch Vehicle, Artist's Concept Images | October 3, 2011Curiosity Launch Vehicle, Artist's Concept This is an artist concept of the Atlas V541 launch vehicle that will carry NASA's Curiosity rover on its way to Mars. The Atlas V 541 vehicle was selected for the Mars Science Laboratory mission because it has the right liftoff capab",
+  "history": {
+    "url": "https://www.jpl.nasa.gov/spaceimages/details.php?id=PIA14830",
+    "title": "Curiosity Launch Vehicle, Artist's Concept",
+    "description": "Images | October 3, 2011Curiosity Launch Vehicle, Artist's Concept This is an artist concept of the Atlas V541 launch vehicle that will carry NASA's Curiosity rover on its way to Mars. The Atlas V 541 vehicle was selected for the Mars Science Laboratory mission because it has the right liftoff capab",
+    "frecency": 4191,
+    "url_hash": 26180079278658,
+    "last_visit_date": 1758203930779228
+  }
+}

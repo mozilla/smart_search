@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "VMware ESXi 5.5 Active Directory authentication \u2013 step by step VMware ESXi 5.5 Active Directory authentication \u2013 step by stepby Wojciech Marusiak | Dec 24, 2013 | Tags: VMware ESXi | Categories: Security, VMware | 6 comments Have you ever wondered if it is possible to skip creation of local user on each ESXi host and use only one account to rule them all? If ye",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses VMware ESXi Active Directory authentication, not about debugging API integration; the content is unrelated to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "VMware ESXi 5.5 Active Directory authentication \u00e2 step by step VMware ESXi 5.5 Active Directory authentication \u2013 step by stepby Wojciech Marusiak | Dec 24, 2013 | Tags: VMware ESXi | Categories: Security, VMware | 6 comments Have you ever wondered if it is possible to skip creation of local user on each ESXi host and use only one account to rule them all? If ye",
+  "history": {
+    "url": "http://wojcieh.net/vmware-esxi-5-5-active-directory-authentication-step-by-step/",
+    "title": "VMware ESXi 5.5 Active Directory authentication \u00e2 step by step",
+    "description": "VMware ESXi 5.5 Active Directory authentication \u2013 step by stepby Wojciech Marusiak | Dec 24, 2013 | Tags: VMware ESXi | Categories: Security, VMware | 6 comments Have you ever wondered if it is possible to skip creation of local user on each ESXi host and use only one account to rule them all? If ye",
+    "frecency": 3465,
+    "url_hash": 9131467450615,
+    "last_visit_date": 1758203928260200
+  }
+}

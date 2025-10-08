@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Tobin Bell \"From Wikipedia, the free encyclopedianavigation search Tobin Bell Bell at the 2007 Scream Awards Born Joseph Henry Tobin, Jr. August 7, 1942 (age 75)Queens, New York, United States Occupation Actor Years active 1977\u2013present Children 2Website officialtobinbell .com Tobin Bell (born Joseph Henry Tobi",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns the actor Tobin Bell and does not relate to Docker setup or beginner-friendly instructions.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Tobin Bell \"From Wikipedia, the free encyclopedianavigation search Tobin Bell Bell at the 2007 Scream Awards Born Joseph Henry Tobin, Jr. August 7, 1942 (age 75)Queens, New York, United States Occupation Actor Years active 1977\u2013present Children 2Website officialtobinbell .com Tobin Bell (born Joseph Henry Tobi",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Tobin_Bell",
+    "title": "Tobin Bell",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search Tobin Bell Bell at the 2007 Scream Awards Born Joseph Henry Tobin, Jr. August 7, 1942 (age 75)Queens, New York, United States Occupation Actor Years active 1977\u2013present Children 2Website officialtobinbell .com Tobin Bell (born Joseph Henry Tobi",
+    "frecency": 3268,
+    "url_hash": 97166596054636,
+    "last_visit_date": 1758203928316111
+  }
+}

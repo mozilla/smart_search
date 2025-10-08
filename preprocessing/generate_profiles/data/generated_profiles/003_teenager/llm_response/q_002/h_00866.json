@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Saying No to College Fashion & Style Saying No to College By ALEX WILLIAMS NOV. 30, 2012Emily Flake BENJAMIN GOERING does not look like Facebook \u2019s Mark Zuckerberg, talk like him or inspire the same controversy. But he does apparently think like him. Two years ago, Mr. Goering was a sophomore at the University of Kansas",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses college fashion and a university-related profile, not DIY room decoration ideas; it is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Saying No to College Fashion & Style Saying No to College By ALEX WILLIAMS NOV. 30, 2012Emily Flake BENJAMIN GOERING does not look like Facebook \u2019s Mark Zuckerberg, talk like him or inspire the same controversy. But he does apparently think like him. Two years ago, Mr. Goering was a sophomore at the University of Kansas",
+  "history": {
+    "url": "http://www.nytimes.com/2012/12/02/fashion/saying-no-to-college.html",
+    "title": "Saying No to College",
+    "description": "Fashion & Style Saying No to College By ALEX WILLIAMS NOV. 30, 2012Emily Flake BENJAMIN GOERING does not look like Facebook \u2019s Mark Zuckerberg, talk like him or inspire the same controversy. But he does apparently think like him. Two years ago, Mr. Goering was a sophomore at the University of Kansas",
+    "frecency": 4089,
+    "url_hash": 52379668451604,
+    "last_visit_date": 1758203930103228
+  }
+}

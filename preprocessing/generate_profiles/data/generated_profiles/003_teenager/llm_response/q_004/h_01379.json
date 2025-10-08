@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "How to Learn Martial Arts \"Edit Article How to Learn Martial Arts Have you ever watched those amazing martial arts action films and thought, \\\"What if I could do that?\\\" Well, anybody who is dedicated and willing to learn can! All it takes is an open mind and some hard work before you're on your way to becoming a martial art",
+  "relevance_score": 0.25,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page focuses on learning martial arts, a specific activity, rather than providing general guidance on improving performance across sports. It is not strongly relevant to the query about getting better at sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "How to Learn Martial Arts \"Edit Article How to Learn Martial Arts Have you ever watched those amazing martial arts action films and thought, \"\"What if I could do that?\"\" Well, anybody who is dedicated and willing to learn can! All it takes is an open mind and some hard work before you're on your way to becoming a martial art",
+  "history": {
+    "url": "http://www.wikihow.com/Learn-Martial-Arts",
+    "title": "How to Learn Martial Arts",
+    "description": "\"Edit Article How to Learn Martial Arts Have you ever watched those amazing martial arts action films and thought, \"\"What if I could do that?\"\" Well, anybody who is dedicated and willing to learn can! All it takes is an open mind and some hard work before you're on your way to becoming a martial art",
+    "frecency": 3591,
+    "url_hash": 58534332137476,
+    "last_visit_date": 1758203930039228
+  }
+}

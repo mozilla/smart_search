@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Nevada  (1944 film) \"From Wikipedia, the free encyclopedianavigation search Nevada Directed by Edward Killy Written by Zane Grey (novel) Norman Houston Starring Robert Mitchum Anne Jeffreys Guinn \\\"\\\"Big Boy\\\"\\\" Williams Richard Martin Music by Paul Sawtell Dave Dreyer (uncredited) Roy Webb (uncredited)Cinematography Harry",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page is about a 1944 film and not about starting a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Nevada  (1944 film) \"From Wikipedia, the free encyclopedianavigation search Nevada Directed by Edward Killy Written by Zane Grey (novel) Norman Houston Starring Robert Mitchum Anne Jeffreys Guinn \"\"Big Boy\"\" Williams Richard Martin Music by Paul Sawtell Dave Dreyer (uncredited) Roy Webb (uncredited)Cinematography Harry",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Nevada_(1944_film)",
+    "title": "Nevada  (1944 film)",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search Nevada Directed by Edward Killy Written by Zane Grey (novel) Norman Houston Starring Robert Mitchum Anne Jeffreys Guinn \"\"Big Boy\"\" Williams Richard Martin Music by Paul Sawtell Dave Dreyer (uncredited) Roy Webb (uncredited)Cinematography Harry",
+    "frecency": 1844,
+    "url_hash": 83560026792826,
+    "last_visit_date": 1758203931859228
+  }
+}

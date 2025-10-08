@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Project Grad 2018 is already in the works! Project Grad 2018 is already in the works!CONGRATULATIONS to Cheyenne Kelekoma-You registered early and won a visit to KBXtreme!Others r EGISTER HERE",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is unrelated to DIY room decoration ideas; it mentions Project Grad events and registration rather than decorating ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Project Grad 2018 is already in the works! Project Grad 2018 is already in the works!CONGRATULATIONS to Cheyenne Kelekoma-You registered early and won a visit to KBXtreme!Others r EGISTER HERE",
+  "history": {
+    "url": "http://khsprojectgrad.com/",
+    "title": "Project Grad 2018 is already in the works!",
+    "description": "Project Grad 2018 is already in the works!CONGRATULATIONS to Cheyenne Kelekoma-You registered early and won a visit to KBXtreme!Others r EGISTER HERE ",
+    "frecency": 1062,
+    "url_hash": 14616022885994,
+    "last_visit_date": 1758203930165228
+  }
+}

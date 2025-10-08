@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Your solution to tax problems is here. Your solution to tax problems is here. Here to help you resolve issues with the IRS and the NC Department of Revenue so you can return to what you enjoy most.",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses tax problems and tax authorities, not study habits or apps; it is not related to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Your solution to tax problems is here. Your solution to tax problems is here. Here to help you resolve issues with the IRS and the NC Department of Revenue so you can return to what you enjoy most.",
+  "history": {
+    "url": "http://www.simplytaxesllc.com/educators/",
+    "title": "Your solution to tax problems is here.",
+    "description": "Your solution to tax problems is here. Here to help you resolve issues with the IRS and the NC Department of Revenue so you can return to what you enjoy most. ",
+    "frecency": 1286,
+    "url_hash": 50535065248523,
+    "last_visit_date": 1758203936317228
+  }
+}

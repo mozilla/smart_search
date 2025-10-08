@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Accounting Basics (Explanation) \\\"Sample Transactions #4 - #6Sample Transaction #4The fourth transaction occurs on December 3, when a customer gives Direct Delivery a check for $10 to deliver two parcels on that day. Because of double entry, we know there must be a minimum of two accounts involved\u2014one of the accounts must be debite",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about accounting concepts and double-entry bookkeeping, not related to Docker or container setup.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Accounting Basics (Explanation) \"Sample Transactions #4 - #6Sample Transaction #4The fourth transaction occurs on December 3, when a customer gives Direct Delivery a check for $10 to deliver two parcels on that day. Because of double entry, we know there must be a minimum of two accounts involved\u2014one of the accounts must be debite",
+  "history": {
+    "url": "http://www.accountingcoach.com/accounting-basics/explanation/7",
+    "title": "Accounting Basics (Explanation)",
+    "description": "\"Sample Transactions #4 - #6Sample Transaction #4The fourth transaction occurs on December 3, when a customer gives Direct Delivery a check for $10 to deliver two parcels on that day. Because of double entry, we know there must be a minimum of two accounts involved\u2014one of the accounts must be debite",
+    "frecency": 4743,
+    "url_hash": 79302871922092,
+    "last_visit_date": 1758203927192111
+  }
+}

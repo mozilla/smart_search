@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Johannesburg Landmarks and Monuments Johannesburg Landmarks and Monuments (Johannesburg, Gauteng, South Africa)A skyline of skyscrapers are amongst the main landmarks in the centre of Johannesburg. Harking back to the city centre's former role as the hub of the city's business sector, Hillbrow Tower, Sentech Tower and Carlton Centre st",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Johannesburg landmarks and monuments, not API integration or debugging, hence not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Johannesburg Landmarks and Monuments Johannesburg Landmarks and Monuments (Johannesburg, Gauteng, South Africa)A skyline of skyscrapers are amongst the main landmarks in the centre of Johannesburg. Harking back to the city centre's former role as the hub of the city's business sector, Hillbrow Tower, Sentech Tower and Carlton Centre st",
+  "history": {
+    "url": "http://www.world-guides.com/africa/south-africa/gauteng/johannesburg/johannesburg_landmarks.html",
+    "title": "Johannesburg Landmarks and Monuments",
+    "description": "Johannesburg Landmarks and Monuments (Johannesburg, Gauteng, South Africa)A skyline of skyscrapers are amongst the main landmarks in the centre of Johannesburg. Harking back to the city centre's former role as the hub of the city's business sector, Hillbrow Tower, Sentech Tower and Carlton Centre st",
+    "frecency": 4774,
+    "url_hash": 18672507402945,
+    "last_visit_date": 1758203927900200
+  }
+}

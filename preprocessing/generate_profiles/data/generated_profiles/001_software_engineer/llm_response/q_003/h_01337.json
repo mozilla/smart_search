@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "What is HAProxy? Philippe Kolaczek Answered Oct 25, 2014I would say ... HAProxy is a free, very fast and reliable solution offering high availability, load balancing, and proxying for TCP and HTTP-based applications. More details for descritpion at The Reliable, High Performance TCP/HTTP Load Balancer This solution",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes HAProxy (a load balancer) rather than techniques or guidance for optimizing database queries.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "What is HAProxy? Philippe Kolaczek Answered Oct 25, 2014I would say ... HAProxy is a free, very fast and reliable solution offering high availability, load balancing, and proxying for TCP and HTTP-based applications. More details for descritpion at The Reliable, High Performance TCP/HTTP Load Balancer This solution",
+  "history": {
+    "url": "https://www.quora.com/What-is-HAProxy",
+    "title": "What is HAProxy?",
+    "description": "Philippe Kolaczek Answered Oct 25, 2014I would say ... HAProxy is a free, very fast and reliable solution offering high availability, load balancing, and proxying for TCP and HTTP-based applications. More details for descritpion at The Reliable, High Performance TCP/HTTP Load Balancer This solution ",
+    "frecency": 289,
+    "url_hash": 84949247203924,
+    "last_visit_date": 1758203928482200
+  }
+}

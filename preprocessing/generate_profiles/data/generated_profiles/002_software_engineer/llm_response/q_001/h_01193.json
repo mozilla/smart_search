@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Fair Schedule \\\"Fair Schedule Friday, August 11, 2017All exhibit buildings are closed to the public, except Commercial Exhibits in Chilly Mall, Building 6. Fair Gates open from 3pm - 12midnight. Carnival open from 3pm - 12midnight. Animal Exhibits NOT open today. Exception: Horse Barn. ALL DAYOld Mac Donald's Barn\\\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a fair schedule/event page with content unrelated to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Fair Schedule \"Fair Schedule Friday, August 11, 2017All exhibit buildings are closed to the public, except Commercial Exhibits in Chilly Mall, Building 6. Fair Gates open from 3pm - 12midnight. Carnival open from 3pm - 12midnight. Animal Exhibits NOT open today. Exception: Horse Barn. ALL DAYOld Mac Donald's Barn",
+  "history": {
+    "url": "http://mcagfair.com/day-events/",
+    "title": "Fair Schedule",
+    "description": "\"Fair Schedule Friday, August 11, 2017All exhibit buildings are closed to the public, except Commercial Exhibits in Chilly Mall, Building 6. Fair Gates open from 3pm - 12midnight. Carnival open from 3pm - 12midnight. Animal Exhibits NOT open today. Exception: Horse Barn. ALL DAYOld Mac Donald's Barn",
+    "frecency": 2882,
+    "url_hash": 22127031067404,
+    "last_visit_date": 1758203931868111
+  }
+}

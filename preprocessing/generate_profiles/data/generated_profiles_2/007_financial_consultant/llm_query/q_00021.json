@@ -1,0 +1,5 @@
+{
+  "url": "http://archive.oreilly.com/pub/post/unraveling_the_mystery_of_soap.html",
+  "search_query": "purpose of the SOAPAction header",
+  "combined_text": "Unraveling the Mystery of SOAPAction \"Unraveling the Mystery of SOAPActionby Mark Baker The SOAPAction header in SOAP 1.1 has given many developers and implementors fits about understanding its purpose. I suggest that this is because of the two very different ways in which SOAP can be used, and that SOAPAction exists primarily to suppo"
+}

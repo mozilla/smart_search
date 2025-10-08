@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Average Babysitting Hourly Rates Babysitters can be a lifesaver for parents struggling to balance childcare responsibilities with jobs, household tasks and busy social calendars. Babysitters can tend infants, entertain youngsters with visits to the library or neighborhood park, or help older kids with homework. Some babysitters als",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about babysitting services and hourly rates, which is unrelated to IDEs or software development.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Average Babysitting Hourly Rates Babysitters can be a lifesaver for parents struggling to balance childcare responsibilities with jobs, household tasks and busy social calendars. Babysitters can tend infants, entertain youngsters with visits to the library or neighborhood park, or help older kids with homework. Some babysitters als",
+  "history": {
+    "url": "https://www.sapling.com/7763389/average-babysitting-hourly-rates",
+    "title": "Average Babysitting Hourly Rates",
+    "description": "Babysitters can be a lifesaver for parents struggling to balance childcare responsibilities with jobs, household tasks and busy social calendars. Babysitters can tend infants, entertain youngsters with visits to the library or neighborhood park, or help older kids with homework. Some babysitters als",
+    "frecency": 2819,
+    "url_hash": 47240800691683,
+    "last_visit_date": 1758203930452111
+  }
+}

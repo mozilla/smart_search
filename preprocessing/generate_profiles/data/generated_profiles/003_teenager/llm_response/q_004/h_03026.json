@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Transformers disambiguation page; unrelated to sports.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Transformers (a fictional media topic) and a disambiguation page, and has no relevance to improving athletic performance or sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Transformers \"For other uses, see Transformers (disambiguation). This page or section needs to be cleaned up. Please help clean the page if you can. For tips on making this article better, read \"\" How to edit a page \"\" and \"\" How to write Simple English pages \"\". (April 2009)Transformers are make-believe robots",
+  "history": {
+    "url": "https://simple.wikipedia.org/wiki/Transformers",
+    "title": "Transformers",
+    "description": "\"For other uses, see Transformers (disambiguation). This page or section needs to be cleaned up. Please help clean the page if you can. For tips on making this article better, read \"\" How to edit a page \"\" and \"\" How to write Simple English pages \"\". (April 2009)Transformers are make-believe robots ",
+    "frecency": 1814,
+    "url_hash": 24641948816014,
+    "last_visit_date": 1758203934621228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Microsoft Earnings Beat Estimates; Stock Rises \\\"Charley Blaine Contributor I cover Microsoft, Amazon.com and general tech news. Opinions expressed by Forbes Contributors are their own. Tech 10/22/2015 @ 4:40PM 3,254 views Microsoft Earnings Beat Estimates; Stock Rises After Thursday\u2019s close, Microsoft\u2019s fiscal-first-quarter results beat Wall Str",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a Microsoft-focused earnings article from Forbes and has no relation to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Microsoft Earnings Beat Estimates; Stock Rises \"Charley Blaine Contributor I cover Microsoft, Amazon.com and general tech news. Opinions expressed by Forbes Contributors are their own. Tech 10/22/2015 @ 4:40PM 3,254 views Microsoft Earnings Beat Estimates; Stock Rises After Thursday\u2019s close, Microsoft\u2019s fiscal-first-quarter results beat Wall Str",
+  "history": {
+    "url": "https://www.forbes.com/sites/charleyblaine/2015/10/22/microsoft-earnings-beat-estimates-stock-rises/",
+    "title": "Microsoft Earnings Beat Estimates; Stock Rises",
+    "description": "\"Charley Blaine Contributor I cover Microsoft, Amazon.com and general tech news. Opinions expressed by Forbes Contributors are their own. Tech 10/22/2015 @ 4:40PM 3,254 views Microsoft Earnings Beat Estimates; Stock Rises After Thursday\u2019s close, Microsoft\u2019s fiscal-first-quarter results beat Wall Str",
+    "frecency": 3401,
+    "url_hash": 33064509342852,
+    "last_visit_date": 1758203929530111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Burnt Store Marina 1 2 3BURNT STORE MARINABurnt Store Marina is every boater\u2019s dream. Located on beautiful Charlotte Harbor, ranked one of the top ten places to sail by Sail magazine, the basin is just 10 miles to the Gulf of Mexico. Charlotte Harbor is the second-largest estuary in Florida, encompassing 270 square mi",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses a marina and boating/sailing, not any guidance on improving sports performance.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Burnt Store Marina 1 2 3BURNT STORE MARINABurnt Store Marina is every boater\u2019s dream. Located on beautiful Charlotte Harbor, ranked one of the top ten places to sail by Sail magazine, the basin is just 10 miles to the Gulf of Mexico. Charlotte Harbor is the second-largest estuary in Florida, encompassing 270 square mi",
+  "history": {
+    "url": "http://burntstoremarina.com/",
+    "title": "Burnt Store Marina",
+    "description": "1 2 3BURNT STORE MARINABurnt Store Marina is every boater\u2019s dream. Located on beautiful Charlotte Harbor, ranked one of the top ten places to sail by Sail magazine, the basin is just 10 miles to the Gulf of Mexico. Charlotte Harbor is the second-largest estuary in Florida, encompassing 270 square mi",
+    "frecency": 4614,
+    "url_hash": 50251708483162,
+    "last_visit_date": 1758203931165228
+  }
+}

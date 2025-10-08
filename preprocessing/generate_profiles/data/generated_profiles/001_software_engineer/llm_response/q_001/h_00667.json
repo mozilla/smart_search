@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Certified Nursing Assistant Salaries in Mississippi Certified Nursing Assistant Salaries in Mississippi About This Data9,220 Salaries Updated Jan 19, 2018All Industries Accounting & Legal Aerospace & Defense Architecture & Civil Engineering Arts & Entertainment Automotive Banking & Financial Services Beauty & Fitness Biotech & Pharmaceuticals Busines",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The result is about nursing assistant salaries and unrelated to Python, libraries, or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Certified Nursing Assistant Salaries in Mississippi Certified Nursing Assistant Salaries in Mississippi About This Data9,220 Salaries Updated Jan 19, 2018All Industries Accounting & Legal Aerospace & Defense Architecture & Civil Engineering Arts & Entertainment Automotive Banking & Financial Services Beauty & Fitness Biotech & Pharmaceuticals Busines",
+  "history": {
+    "url": "https://www.glassdoor.com/Salaries/mississippi-certified-nursing-assistant-salary-SRCH_IL.0,11_IS1553_KO12,39.htm",
+    "title": "Certified Nursing Assistant Salaries in Mississippi",
+    "description": "Certified Nursing Assistant Salaries in Mississippi About This Data9,220 Salaries Updated Jan 19, 2018All Industries Accounting & Legal Aerospace & Defense Architecture & Civil Engineering Arts & Entertainment Automotive Banking & Financial Services Beauty & Fitness Biotech & Pharmaceuticals Busines",
+    "frecency": 2731,
+    "url_hash": 18284153975808,
+    "last_visit_date": 1758203928868200
+  }
+}

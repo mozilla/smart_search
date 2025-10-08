@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Careers & Internships \\\"Human Resource Analyst Add to Job Cart Work Schedule: Full Time and Part Time Salary: $77,109 \u2013 $119,597*Location: Washington, DC metropolitan area*Higher starting salary possible depending on experience level We are looking for highly motivated individuals interested in Human Resources (HR) career",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a human resources job listing and contains no content related to debugging, integrating, or API testing; thus it is not relevant to 'how to debug API integration'.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Careers & Internships \"Human Resource Analyst Add to Job Cart Work Schedule: Full Time and Part Time Salary: $77,109 \u2013 $119,597*Location: Washington, DC metropolitan area*Higher starting salary possible depending on experience level We are looking for highly motivated individuals interested in Human Resources (HR) career",
+  "history": {
+    "url": "https://www.cia.gov/careers/opportunities/support-professional/hr-analyst.html",
+    "title": "Careers & Internships",
+    "description": "\"Human Resource Analyst Add to Job Cart Work Schedule: Full Time and Part Time Salary: $77,109 \u2013 $119,597*Location: Washington, DC metropolitan area*Higher starting salary possible depending on experience level We are looking for highly motivated individuals interested in Human Resources (HR) career",
+    "frecency": 142,
+    "url_hash": 1025652451938,
+    "last_visit_date": 1758203928852200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Career Education School Locations About Career Education Investor Relations Jobs at Career Education Corporate Contact American Inter Continental University Colorado Technical University",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result points to a generic education/career site page rather than content about IDEs or software development tools.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Career Education School Locations About Career Education Investor Relations Jobs at Career Education Corporate Contact American Inter Continental University Colorado Technical University",
+  "history": {
+    "url": "http://www.careered.com/",
+    "title": "Career Education School Locations",
+    "description": "About Career Education Investor Relations Jobs at Career Education Corporate Contact American Inter Continental University Colorado Technical University ",
+    "frecency": 1431,
+    "url_hash": 12985829026285,
+    "last_visit_date": 1758203928614200
+  }
+}

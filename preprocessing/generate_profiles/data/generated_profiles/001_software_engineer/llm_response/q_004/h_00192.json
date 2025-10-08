@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Encyclopedia \"Encyclopedia Search Encyclopedia ABCDEFGHIJKLMNOPQRSTUVWXYZ0-9MISCDefinition of: programmable computerprogrammable computer A redundant term, because what makes a computer a computer is that it follows a set of instructions. Many electronic devices are computers that perform only one operation, but",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about programmable computers and lacks any Docker-related content, so it is not relevant to 'Docker setup for beginners'.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Encyclopedia \"Encyclopedia Search Encyclopedia ABCDEFGHIJKLMNOPQRSTUVWXYZ0-9MISCDefinition of: programmable computerprogrammable computer A redundant term, because what makes a computer a computer is that it follows a set of instructions. Many electronic devices are computers that perform only one operation, but",
+  "history": {
+    "url": "http://www.pcmag.com/encyclopedia/term/63683/programmable-computer",
+    "title": "Encyclopedia",
+    "description": "\"Encyclopedia Search Encyclopedia ABCDEFGHIJKLMNOPQRSTUVWXYZ0-9MISCDefinition of: programmable computerprogrammable computer A redundant term, because what makes a computer a computer is that it follows a set of instructions. Many electronic devices are computers that perform only one operation, but",
+    "frecency": 4338,
+    "url_hash": 62182047591751,
+    "last_visit_date": 1758203928278200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Skagit River Journal \"Site founded Sept. 1, 2000. We passed 2 million page views on Oct. 4, 2007 These home pages remain free of any charge. We need donations or subscriptions to continue. Please pass on this website link to your family, relatives, friends and clients. Skagit River Journalof History & Folklore Subscribe",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a history and folklore site, not about Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Skagit River Journal \"Site founded Sept. 1, 2000. We passed 2 million page views on Oct. 4, 2007 These home pages remain free of any charge. We need donations or subscriptions to continue. Please pass on this website link to your family, relatives, friends and clients. Skagit River Journalof History & Folklore Subscribe",
+  "history": {
+    "url": "http://www.stumpranchonline.com/skagitjournal/Upriver/Uto-Conc/Hamilton01-TownIntro.html",
+    "title": "Skagit River Journal",
+    "description": "\"Site founded Sept. 1, 2000. We passed 2 million page views on Oct. 4, 2007 These home pages remain free of any charge. We need donations or subscriptions to continue. Please pass on this website link to your family, relatives, friends and clients. Skagit River Journalof History & Folklore Subscribe",
+    "frecency": 3956,
+    "url_hash": 60218059127266,
+    "last_visit_date": 1758203929844111
+  }
+}

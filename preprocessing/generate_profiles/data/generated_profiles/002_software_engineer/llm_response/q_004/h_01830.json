@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Dealing with Doctors (Intensivists) \u2013 a video/URL about medical doctors and intensivists; not related to Docker setup for beginners.",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses doctors and intensivists, not Docker, container setup, or beginner topics.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Dealing with Doctors (Intensivists) \"Dealing with Doctors (Intensivists)Nurse Mendoza Subscribe 52KAdd to Share More9,444 views2323Published on Aug 30, 2016Here I explain my personal experiences with all type of Medical Doctors in their specialties and Intensivists which is also known as a critical care physician with special training",
+  "history": {
+    "url": "https://www.youtube.com/watch?v=Vfs3b423MvQ",
+    "title": "Dealing with Doctors (Intensivists)",
+    "description": "\"Dealing with Doctors (Intensivists)Nurse Mendoza Subscribe 52KAdd to Share More9,444 views2323Published on Aug 30, 2016Here I explain my personal experiences with all type of Medical Doctors in their specialties and Intensivists which is also known as a critical care physician with special training",
+    "frecency": 1661,
+    "url_hash": 87470654101616,
+    "last_visit_date": 1758203929990111
+  }
+}

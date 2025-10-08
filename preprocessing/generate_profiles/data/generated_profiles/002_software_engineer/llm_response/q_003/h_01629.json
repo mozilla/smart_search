@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Attorney Jobs in Florida Attorney Jobs in Florida794 Florida Attorney jobs found on Monster. Attorney Jobs in Florida Florida has traditionally been known for its low cost of living, affordable real estate, and lack of a state income tax. However, it's also one of the most litigious climates in the country, ranking among th",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about attorney jobs in Florida, not about database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Attorney Jobs in Florida Attorney Jobs in Florida794 Florida Attorney jobs found on Monster. Attorney Jobs in Florida Florida has traditionally been known for its low cost of living, affordable real estate, and lack of a state income tax. However, it's also one of the most litigious climates in the country, ranking among th",
+  "history": {
+    "url": "https://www.monster.com/jobs/q-attorney-jobs-l-florida.aspx",
+    "title": "Attorney Jobs in Florida",
+    "description": "Attorney Jobs in Florida794 Florida Attorney jobs found on Monster. Attorney Jobs in Florida Florida has traditionally been known for its low cost of living, affordable real estate, and lack of a state income tax. However, it's also one of the most litigious climates in the country, ranking among th",
+    "frecency": 2049,
+    "url_hash": 39016039270441,
+    "last_visit_date": 1758203929142111
+  }
+}

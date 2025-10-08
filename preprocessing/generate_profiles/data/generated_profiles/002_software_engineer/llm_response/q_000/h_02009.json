@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Overview Overview OPM works with your Agency's personnel and payroll office to process your annuity claim. Regardless of the type of retirement, there are actions your personnel office must take in order to process your retirement claim. You can help reduce delays in processing by submitting your application",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The content discusses processing an annuity claim with OPM and does not relate to API integration or debugging concepts.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Overview Overview OPM works with your Agency's personnel and payroll office to process your annuity claim. Regardless of the type of retirement, there are actions your personnel office must take in order to process your retirement claim. You can help reduce delays in processing by submitting your application",
+  "history": {
+    "url": "http://www.opm.gov/retirement-services/csrs-information/types-of-retirement/",
+    "title": "Overview",
+    "description": "Overview OPM works with your Agency's personnel and payroll office to process your annuity claim. Regardless of the type of retirement, there are actions your personnel office must take in order to process your retirement claim. You can help reduce delays in processing by submitting your application",
+    "frecency": 1358,
+    "url_hash": 12246451923970,
+    "last_visit_date": 1758203929290111
+  }
+}

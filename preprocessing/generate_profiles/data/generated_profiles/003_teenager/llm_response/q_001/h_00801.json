@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "Led Zeppelin \"From Wikipedia, the free encyclopedia (Redirected from Zeppelin, Led)navigation search This article is about the band. For their eponymous first album, see Led Zeppelin (album). For other uses, see Led Zeppelin (disambiguation). Led Zeppelin Clockwise, from top left: Jimmy Page, John Bonham, Robert",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Led Zeppelin, not about TikTok trends.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "Led Zeppelin \"From Wikipedia, the free encyclopedia (Redirected from Zeppelin, Led)navigation search This article is about the band. For their eponymous first album, see Led Zeppelin (album). For other uses, see Led Zeppelin (disambiguation). Led Zeppelin Clockwise, from top left: Jimmy Page, John Bonham, Robert",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Zeppelin,_Led",
+    "title": "Led Zeppelin",
+    "description": "\"From Wikipedia, the free encyclopedia (Redirected from Zeppelin, Led)navigation search This article is about the band. For their eponymous first album, see Led Zeppelin (album). For other uses, see Led Zeppelin (disambiguation). Led Zeppelin Clockwise, from top left: Jimmy Page, John Bonham, Robert",
+    "frecency": 4144,
+    "url_hash": 88990160659285,
+    "last_visit_date": 1758203933069228
+  }
+}

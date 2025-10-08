@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "chrome.extension \"chrome.extension Description: The chrome.extension API has utilities that can be used by any extension page. It includes support for exchanging messages between an extension and its content scripts or between extensions, as described in detail in Message Passing . Availability: Since Chrome 23. Con",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes Chrome extension APIs, not Python libraries or machine learning topics; therefore not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "chrome.extension \"chrome.extension Description: The chrome.extension API has utilities that can be used by any extension page. It includes support for exchanging messages between an extension and its content scripts or between extensions, as described in detail in Message Passing . Availability: Since Chrome 23. Con",
+  "history": {
+    "url": "https://developer.chrome.com/extensions/extension.html",
+    "title": "chrome.extension",
+    "description": "\"chrome.extension Description: The chrome.extension API has utilities that can be used by any extension page. It includes support for exchanging messages between an extension and its content scripts or between extensions, as described in detail in Message Passing . Availability: Since Chrome 23. Con",
+    "frecency": 3663,
+    "url_hash": 35888703467036,
+    "last_visit_date": 1758203932364111
+  }
+}

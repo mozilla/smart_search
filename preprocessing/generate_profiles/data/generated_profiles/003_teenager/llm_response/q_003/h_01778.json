@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "American Poems \"Browse and read this list of the most beautiful and best poems written by famous american poets from the classical poetry to the latest new modern ones... Best American Poetry Her Piano by Carol Lynn Grellas!blac by E. E. Cummings\"\"A Brave Refrain\"\" by James Whitcomb Riley\"\"A Noted Traveler\"\" by Ja",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about American poetry, not about apps or study habits. No relevance to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "American Poems \"Browse and read this list of the most beautiful and best poems written by famous american poets from the classical poetry to the latest new modern ones... Best American Poetry Her Piano by Carol Lynn Grellas!blac by E. E. Cummings\"\"A Brave Refrain\"\" by James Whitcomb Riley\"\"A Noted Traveler\"\" by Ja",
+  "history": {
+    "url": "http://www.best-poems.net/american-poetry/index.html",
+    "title": "American Poems",
+    "description": "\"Browse and read this list of the most beautiful and best poems written by famous american poets from the classical poetry to the latest new modern ones... Best American Poetry Her Piano by Carol Lynn Grellas!blac by E. E. Cummings\"\"A Brave Refrain\"\" by James Whitcomb Riley\"\"A Noted Traveler\"\" by Ja",
+    "frecency": 3184,
+    "url_hash": 48680291251017,
+    "last_visit_date": 1758203936335228
+  }
+}

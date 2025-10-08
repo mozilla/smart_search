@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Salesforce: Build Parent/Child Relationships Business Customers Salesforce: Build Parent/Child Relationships Salesforce: Build Parent/Child Relationships Related Book Salesforce.com For Dummies, 5th Edition By Tom Wong, Liz Kao, Matt Kaufman In Salesforce, you can link multiple offices of a company together by using the Parent Account field on",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Salesforce data modeling (Parent/Child Relationships) and related materials, not integrated development environments (IDEs) or software development tools. It is not about top IDEs for software development.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Salesforce: Build Parent/Child Relationships Business Customers Salesforce: Build Parent/Child Relationships Salesforce: Build Parent/Child Relationships Related Book Salesforce.com For Dummies, 5th Edition By Tom Wong, Liz Kao, Matt Kaufman In Salesforce, you can link multiple offices of a company together by using the Parent Account field on",
+  "history": {
+    "url": "http://www.dummies.com/business/customers/salesforce-build-parentchild-relationships/",
+    "title": "Salesforce: Build Parent/Child Relationships",
+    "description": "Business Customers Salesforce: Build Parent/Child Relationships Salesforce: Build Parent/Child Relationships Related Book Salesforce.com For Dummies, 5th Edition By Tom Wong, Liz Kao, Matt Kaufman In Salesforce, you can link multiple offices of a company together by using the Parent Account field on",
+    "frecency": 1223,
+    "url_hash": 26165028959913,
+    "last_visit_date": 1758203930126111
+  }
+}

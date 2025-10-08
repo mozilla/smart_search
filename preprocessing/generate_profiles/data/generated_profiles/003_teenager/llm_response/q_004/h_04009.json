@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "What year did the movie ET come out in theaters? \"Anonymous What year did the movie ET come out in theaters? Topics: Entertainment \u203a Movies \u203a Steven Spielberg, E. T. the Extra-Terrestrial, 1980s Movies, Drama Movies Answers Gillian Collins The film \"\"E. T.: The Extra Terrestrial\"\" was released in theaters in the United States on June 11, 1982. Tha",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns the release date of the movie E.T., which is unrelated to improving performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "What year did the movie ET come out in theaters? \"Anonymous What year did the movie ET come out in theaters? Topics: Entertainment \u203a Movies \u203a Steven Spielberg, E. T. the Extra-Terrestrial, 1980s Movies, Drama Movies Answers Gillian Collins The film \"\"E. T.: The Extra Terrestrial\"\" was released in theaters in the United States on June 11, 1982. Tha",
+  "history": {
+    "url": "http://www.chacha.com/question/what-year-did-the-movie-et-come-out-in-theaters",
+    "title": "What year did the movie ET come out in theaters?",
+    "description": "\"Anonymous What year did the movie ET come out in theaters? Topics: Entertainment \u203a Movies \u203a Steven Spielberg, E. T. the Extra-Terrestrial, 1980s Movies, Drama Movies Answers Gillian Collins The film \"\"E. T.: The Extra Terrestrial\"\" was released in theaters in the United States on June 11, 1982. Tha",
+    "frecency": 840,
+    "url_hash": 46125948539087,
+    "last_visit_date": 1758203928398735
+  }
+}

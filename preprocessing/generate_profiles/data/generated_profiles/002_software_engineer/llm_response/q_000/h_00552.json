@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "1. Introduction \\\"SSC home Using Excel for Statistics - Tips and Warnings On-line version 2 - March 2001This is one in a series of guides for research and support staff involved in natural resources projects. The subject-matter here is using Excel for statistics. Other guides give information on allied topics. Conte",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns Excel for statistics, not API integration or debugging; it is not relevant to the query about debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "1. Introduction \"SSC home Using Excel for Statistics - Tips and Warnings On-line version 2 - March 2001This is one in a series of guides for research and support staff involved in natural resources projects. The subject-matter here is using Excel for statistics. Other guides give information on allied topics. Conte",
+  "history": {
+    "url": "https://www.jic.ac.uk/services/statistics/readingadvice/booklets/topxfs.html",
+    "title": "1. Introduction",
+    "description": "\"SSC home Using Excel for Statistics - Tips and Warnings On-line version 2 - March 2001This is one in a series of guides for research and support staff involved in natural resources projects. The subject-matter here is using Excel for statistics. Other guides give information on allied topics. Conte",
+    "frecency": 4052,
+    "url_hash": 3579065838119,
+    "last_visit_date": 1758203931654111
+  }
+}

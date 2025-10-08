@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "AMC Westgate 20 Reserved Seating \u2022 Dolby Cinema at AMC \u2022 IMAX at AMC \u2022 Real D 3D \u2022 Mac Guffins Bar \u2022 Coca-Cola Freestyle AMC Westgate 209400 West Hanna Lane, Glendale, Arizona 85305Get Tickets Add Favorite Nearby Theatres",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a theater listing with showtimes and cinema features; it has no content related to improving athletic performance or sports training.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "AMC Westgate 20 Reserved Seating \u2022 Dolby Cinema at AMC \u2022 IMAX at AMC \u2022 Real D 3D \u2022 Mac Guffins Bar \u2022 Coca-Cola Freestyle AMC Westgate 209400 West Hanna Lane, Glendale, Arizona 85305Get Tickets Add Favorite Nearby Theatres",
+  "history": {
+    "url": "https://www.amctheatres.com/movie-theatres/phoenix/amc-westgate-20",
+    "title": "AMC Westgate 20",
+    "description": "Reserved Seating \u2022 Dolby Cinema at AMC \u2022 IMAX at AMC \u2022 Real D 3D \u2022 Mac Guffins Bar \u2022 Coca-Cola Freestyle AMC Westgate 209400 West Hanna Lane, Glendale, Arizona 85305Get Tickets Add Favorite Nearby Theatres ",
+    "frecency": 4069,
+    "url_hash": 61103342482307,
+    "last_visit_date": 1758203931487228
+  }
+}

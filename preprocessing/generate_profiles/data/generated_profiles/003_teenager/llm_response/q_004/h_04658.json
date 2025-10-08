@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Supplements To Grow On: What To Take And When \"You squat, you bench, you curl your way to a better body each and every day you set foot in the gym. Your goals are set, you drive up more weight for more reps. You are a disciplined hard worker who accepts nothing less than the best from your workouts and nutrition strategies. Sets and reps are co",
+  "relevance_score": 0.3,
+  "binary_decision": 0,
+  "Decision_Reason": "The page centers on bodybuilding supplements and gym routines rather than sport-specific performance improvement; it is only tangentially relevant to getting better at sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Supplements To Grow On: What To Take And When \"You squat, you bench, you curl your way to a better body each and every day you set foot in the gym. Your goals are set, you drive up more weight for more reps. You are a disciplined hard worker who accepts nothing less than the best from your workouts and nutrition strategies. Sets and reps are co",
+  "history": {
+    "url": "https://www.muscleandstrength.com/articles/supplements-to-grow-on.html",
+    "title": "Supplements To Grow On: What To Take And When",
+    "description": "\"You squat, you bench, you curl your way to a better body each and every day you set foot in the gym. Your goals are set, you drive up more weight for more reps. You are a disciplined hard worker who accepts nothing less than the best from your workouts and nutrition strategies. Sets and reps are co",
+    "frecency": 169,
+    "url_hash": 91544546152921,
+    "last_visit_date": 1758203929687228
+  }
+}

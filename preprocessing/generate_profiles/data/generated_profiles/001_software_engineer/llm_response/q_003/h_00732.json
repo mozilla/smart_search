@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Looking for a deal? Oklahoma shoppers preparing for tax-free weekend OKLAHOMA CITY \u2013 With many kids going back to school, parents are trying to find ways to save money. This weekend, Oklahoma families can head to the stores for the state\u2019s annual sales tax holiday. Officials say qualified items will be sold without a sales tax beginning at 12:01 a.m. on Friday, Aug.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses a tax-free weekend and shopping deals, not information related to optimizing database queries.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Looking for a deal? Oklahoma shoppers preparing for tax-free weekend OKLAHOMA CITY \u2013 With many kids going back to school, parents are trying to find ways to save money. This weekend, Oklahoma families can head to the stores for the state\u2019s annual sales tax holiday. Officials say qualified items will be sold without a sales tax beginning at 12:01 a.m. on Friday, Aug.",
+  "history": {
+    "url": "http://kfor.com/2016/08/02/looking-for-a-deal-oklahoma-shoppers-preparing-for-tax-free-weekend/",
+    "title": "Looking for a deal? Oklahoma shoppers preparing for tax-free weekend",
+    "description": "OKLAHOMA CITY \u2013 With many kids going back to school, parents are trying to find ways to save money. This weekend, Oklahoma families can head to the stores for the state\u2019s annual sales tax holiday. Officials say qualified items will be sold without a sales tax beginning at 12:01 a.m. on Friday, Aug. ",
+    "frecency": 2523,
+    "url_hash": 70993795537702,
+    "last_visit_date": 1758203927668200
+  }
+}

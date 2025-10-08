@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Police search for missing 18-year-old Maryland woman whose cousin, 15, was found dead in a gang-related murder earlier this month \\\"Police search for missing 18-year-old Maryland woman whose cousin, 15, was found dead in a gang-related murder earlier this month Angelica Ivania Barahona-Rivas was reported missing after she failed to return home from work in Gaithersburg, Maryland on Saturday Her disappearance came two weeks to t\\\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a missing person news story and not related to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Police search for missing 18-year-old Maryland woman whose cousin, 15, was found dead in a gang-related murder earlier this month \"Police search for missing 18-year-old Maryland woman whose cousin, 15, was found dead in a gang-related murder earlier this month Angelica Ivania Barahona-Rivas was reported missing after she failed to return home from work in Gaithersburg, Maryland on Saturday Her disappearance came two weeks to t",
+  "history": {
+    "url": "http://www.dailymail.co.uk/news/article-4264452/Police-search-missing-woman-cousin-killed.html",
+    "title": "Police search for missing 18-year-old Maryland woman whose cousin, 15, was found dead in a gang-related murder earlier this month",
+    "description": "\"Police search for missing 18-year-old Maryland woman whose cousin, 15, was found dead in a gang-related murder earlier this month Angelica Ivania Barahona-Rivas was reported missing after she failed to return home from work in Gaithersburg, Maryland on Saturday Her disappearance came two weeks to t",
+    "frecency": 3287,
+    "url_hash": 2788074935994,
+    "last_visit_date": 1758203927236111
+  }
+}

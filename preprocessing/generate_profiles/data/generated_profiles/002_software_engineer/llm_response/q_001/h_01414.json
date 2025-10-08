@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "How do electrical connectors work? Some work great, some not so well. Not kidding. Good ones are made from or plated with corrosion reistant material that is somewhat soft to allow more mating area. Gold and silver are great, but expensive. The connecting surfaces should be pressed together with some sort of spring. Multiple contact",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses electrical connectors, unrelated to Python libraries or machine learning topics; therefore not relevant.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "How do electrical connectors work? Some work great, some not so well. Not kidding. Good ones are made from or plated with corrosion reistant material that is somewhat soft to allow more mating area. Gold and silver are great, but expensive. The connecting surfaces should be pressed together with some sort of spring. Multiple contact",
+  "history": {
+    "url": "https://www.quora.com/How-do-electrical-connectors-work",
+    "title": "How do electrical connectors work?",
+    "description": "Some work great, some not so well. Not kidding. Good ones are made from or plated with corrosion reistant material that is somewhat soft to allow more mating area. Gold and silver are great, but expensive. The connecting surfaces should be pressed together with some sort of spring. Multiple contact ",
+    "frecency": 2446,
+    "url_hash": 39953660857427,
+    "last_visit_date": 1758203931734111
+  }
+}

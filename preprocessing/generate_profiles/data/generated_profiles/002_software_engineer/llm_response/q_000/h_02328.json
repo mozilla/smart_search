@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Height and Weight Requirements \u00e2 Marine Corps Height and Weight Requirements \u2013 Marine Corps All Marines are required to maintain their weight/body fat in accordance with Marine Corps standards. Marines who weigh more than allowed on the charts below must undergo a body-fat measurement. Those who are over the Marine Corps body-fat standards will",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Marine Corps height/weight standards, which has no relation to debugging or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Height and Weight Requirements \u00e2 Marine Corps Height and Weight Requirements \u2013 Marine Corps All Marines are required to maintain their weight/body fat in accordance with Marine Corps standards. Marines who weigh more than allowed on the charts below must undergo a body-fat measurement. Those who are over the Marine Corps body-fat standards will",
+  "history": {
+    "url": "http://www.militaryspot.com/marines/height-and-weight-requirements-marine-corps",
+    "title": "Height and Weight Requirements \u00e2 Marine Corps",
+    "description": "Height and Weight Requirements \u2013 Marine Corps All Marines are required to maintain their weight/body fat in accordance with Marine Corps standards. Marines who weigh more than allowed on the charts below must undergo a body-fat measurement. Those who are over the Marine Corps body-fat standards will",
+    "frecency": 807,
+    "url_hash": 71024579640519,
+    "last_visit_date": 1758203928568111
+  }
+}

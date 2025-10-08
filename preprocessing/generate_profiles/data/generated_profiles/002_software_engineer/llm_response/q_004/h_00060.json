@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Servicemembers Civil Relief Act The Servicemembers Civil Relief Act (SCRA) was enacted in 2003 to support members of the military and their families with the financial challenges of military finances during active duty. U. S. Bank can help you understand your rights as they relate to key provisions of this law. But it\u2019s important",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses the Servicemembers Civil Relief Act, which is unrelated to Docker or beginner setup guidance; thus not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Servicemembers Civil Relief Act The Servicemembers Civil Relief Act (SCRA) was enacted in 2003 to support members of the military and their families with the financial challenges of military finances during active duty. U. S. Bank can help you understand your rights as they relate to key provisions of this law. But it\u2019s important",
+  "history": {
+    "url": "https://wwws.usbank.com/military/servicemembers-civil-relief-act.aspx",
+    "title": "Servicemembers Civil Relief Act",
+    "description": "The Servicemembers Civil Relief Act (SCRA) was enacted in 2003 to support members of the military and their families with the financial challenges of military finances during active duty. U. S. Bank can help you understand your rights as they relate to key provisions of this law. But it\u2019s important ",
+    "frecency": 4901,
+    "url_hash": 55604787496552,
+    "last_visit_date": 1758203928816111
+  }
+}

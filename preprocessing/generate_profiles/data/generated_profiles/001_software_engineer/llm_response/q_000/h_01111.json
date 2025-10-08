@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "How Much Will My Move Cost? \\\"Get Free Moving Quotes Services: Service Needed: Moving From: Moving From Zip Code: *Moving To: City: *I am Moving To: *Moving Info: Size Of Move: *Date of Move: *Contact Information: First Name: *Last Name: *Email: *Day Phone: *Evening Phone: By clicking \\\"Submit to Get Free Quotes >>,\\\" I consent",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a moving quote form and does not relate to debugging or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "How Much Will My Move Cost? \"Get Free Moving Quotes Services: Service Needed: Moving From: Moving From Zip Code: *Moving To: City: *I am Moving To: *Moving Info: Size Of Move: *Date of Move: *Contact Information: First Name: *Last Name: *Email: *Day Phone: *Evening Phone: By clicking \"\"Submit to Get Free Quotes >>,\"\" I consent",
+  "history": {
+    "url": "http://www.relocation.com/library/moving_calculator.html",
+    "title": "How Much Will My Move Cost?",
+    "description": "\"Get Free Moving Quotes Services: Service Needed: Moving From: Moving From Zip Code: *Moving To: City: *I am Moving To: *Moving Info: Size Of Move: *Date of Move: *Contact Information: First Name: *Last Name: *Email: *Day Phone: *Evening Phone: By clicking \"\"Submit to Get Free Quotes >>,\"\" I consent",
+    "frecency": 1094,
+    "url_hash": 5271205560943,
+    "last_visit_date": 1758203928222200
+  }
+}

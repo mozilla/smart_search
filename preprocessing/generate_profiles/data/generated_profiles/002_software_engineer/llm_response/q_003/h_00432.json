@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Vet Tech Salary Information Vet Tech Salary Information According to the United States Bureau of Labor Statistics (BLS) the demand for veterinary technician assistants is on the rise, and the employment rate is expected to grow by 52% by the year 2020. These figures are above the national average and are brought about by the f",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses veterinary technician salaries and labor statistics, not database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Vet Tech Salary Information Vet Tech Salary Information According to the United States Bureau of Labor Statistics (BLS) the demand for veterinary technician assistants is on the rise, and the employment rate is expected to grow by 52% by the year 2020. These figures are above the national average and are brought about by the f",
+  "history": {
+    "url": "http://www.veterinarytechnicianinfo.com/vet-tech-salary/",
+    "title": "Vet Tech Salary Information",
+    "description": "Vet Tech Salary Information According to the United States Bureau of Labor Statistics (BLS) the demand for veterinary technician assistants is on the rise, and the employment rate is expected to grow by 52% by the year 2020. These figures are above the national average and are brought about by the f",
+    "frecency": 4264,
+    "url_hash": 24180199823006,
+    "last_visit_date": 1758203930434111
+  }
+}

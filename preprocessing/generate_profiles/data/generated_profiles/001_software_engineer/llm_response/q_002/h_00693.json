@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Is a 401k a Defined Benefit Plan? When it comes to retirement plans, you could have a defined contribution or a defined benefit plan. If you have a 401k plan offer from your employer, this is not known as a defined benefit plan. Instead, you are actually using a defined contribution plan in which you and your employer put money into",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses retirement plans and 401k definitions, not IDEs or software development tools; therefore it is not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Is a 401k a Defined Benefit Plan? When it comes to retirement plans, you could have a defined contribution or a defined benefit plan. If you have a 401k plan offer from your employer, this is not known as a defined benefit plan. Instead, you are actually using a defined contribution plan in which you and your employer put money into",
+  "history": {
+    "url": "https://www.sapling.com/7519457/401k-defined-benefit-plan",
+    "title": "Is a 401k a Defined Benefit Plan?",
+    "description": "When it comes to retirement plans, you could have a defined contribution or a defined benefit plan. If you have a 401k plan offer from your employer, this is not known as a defined benefit plan. Instead, you are actually using a defined contribution plan in which you and your employer put money into",
+    "frecency": 2642,
+    "url_hash": 79119715640443,
+    "last_visit_date": 1758203927496200
+  }
+}

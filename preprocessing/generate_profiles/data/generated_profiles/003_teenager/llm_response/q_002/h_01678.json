@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Assurant Health Important news regarding Assurant Health On June 10, 2015, Assurant Health\u2019s parent company, Assurant, Inc., announced an exit from the health insurance marketplace to focus on housing and lifestyle specialty protection products and services. Assurant is winding down its major medical operations. As",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about health insurance company news, unrelated to DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Assurant Health Important news regarding Assurant Health On June 10, 2015, Assurant Health\u2019s parent company, Assurant, Inc., announced an exit from the health insurance marketplace to focus on housing and lifestyle specialty protection products and services. Assurant is winding down its major medical operations. As",
+  "history": {
+    "url": "http://www.assuranthealth.com/",
+    "title": "Assurant Health",
+    "description": "Important news regarding Assurant Health On June 10, 2015, Assurant Health\u2019s parent company, Assurant, Inc., announced an exit from the health insurance marketplace to focus on housing and lifestyle specialty protection products and services. Assurant is winding down its major medical operations. As",
+    "frecency": 3283,
+    "url_hash": 89275642585269,
+    "last_visit_date": 1758203928050735
+  }
+}

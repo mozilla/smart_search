@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "Locations Locations Find Affordable Extended Stay Accommodations Looking for an affordable extended stay in Las Vegas? Siegel Select \u00ae is the perfect choice for both extended stay living with spacious fully furnished suites that include all utilities, feature a fully equipped kitchenette and more! Our suites",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about affordable extended stay accommodations in Las Vegas, not related to TikTok trends for 2024; no relevance.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "Locations Locations Find Affordable Extended Stay Accommodations Looking for an affordable extended stay in Las Vegas? Siegel Select \u00ae is the perfect choice for both extended stay living with spacious fully furnished suites that include all utilities, feature a fully equipped kitchenette and more! Our suites",
+  "history": {
+    "url": "http://www.siegelsuitesselect.com/extended-stay-locations/las-vegas-nevada-apartments/",
+    "title": "Locations",
+    "description": "Locations Find Affordable Extended Stay Accommodations Looking for an affordable extended stay in Las Vegas? Siegel Select \u00ae is the perfect choice for both extended stay living with spacious fully furnished suites that include all utilities, feature a fully equipped kitchenette and more! Our suites ",
+    "frecency": 4166,
+    "url_hash": 201389764835,
+    "last_visit_date": 1758203928670735
+  }
+}

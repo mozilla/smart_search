@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Lincoln Logs \"Lincoln Logs July 6, 2011 Written by Zim Share the History Love... Lincoln Logs The Imperial Hotel in Tokyo John Wright, the son of the famous architect Frank Lloyd Wright, invented the Lincoln Logs in 1918. During a trip to Tokyo with his father, John got the idea of interlocking wooden beams from",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Lincoln Logs (a toy) and does not relate to starting a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Lincoln Logs \"Lincoln Logs July 6, 2011 Written by Zim Share the History Love... Lincoln Logs The Imperial Hotel in Tokyo John Wright, the son of the famous architect Frank Lloyd Wright, invented the Lincoln Logs in 1918. During a trip to Tokyo with his father, John got the idea of interlocking wooden beams from",
+  "history": {
+    "url": "http://www.historybyzim.com/2011/07/interesting-facts-6/",
+    "title": "Lincoln Logs",
+    "description": "\"Lincoln Logs July 6, 2011 Written by Zim Share the History Love... Lincoln Logs The Imperial Hotel in Tokyo John Wright, the son of the famous architect Frank Lloyd Wright, invented the Lincoln Logs in 1918. During a trip to Tokyo with his father, John got the idea of interlocking wooden beams from",
+    "frecency": 4653,
+    "url_hash": 60709418157676,
+    "last_visit_date": 1758203930963228
+  }
+}

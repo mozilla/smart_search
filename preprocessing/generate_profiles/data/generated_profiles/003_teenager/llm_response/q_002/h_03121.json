@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Theatres Near You Theatres Near You Today Apr10Wed Apr11Thu Apr12Fri Apr13Sat Apr14Sun Apr15Mon Apr16Tue Apr17Wed Apr18Thu Apr19Fri Apr20Sat Apr21Sun Apr22Mon Apr23Tue Apr24Wed Apr25Thu Apr26Fri Apr27Sat Apr28Sun Apr29Mon Apr30Tue May01Wed May02Thu May03Fri May04Sat May05Sun May06Mon May07Tue May08Wed May09Thu May10F",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result contains information about theatres and dates, not about easy DIY room decoration ideas; it does not match the query topic.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Theatres Near You Theatres Near You Today Apr10Wed Apr11Thu Apr12Fri Apr13Sat Apr14Sun Apr15Mon Apr16Tue Apr17Wed Apr18Thu Apr19Fri Apr20Sat Apr21Sun Apr22Mon Apr23Tue Apr24Wed Apr25Thu Apr26Fri Apr27Sat Apr28Sun Apr29Mon Apr30Tue May01Wed May02Thu May03Fri May04Sat May05Sun May06Mon May07Tue May08Wed May09Thu May10F",
+  "history": {
+    "url": "https://www.imax.com/theatres/",
+    "title": "Theatres Near You",
+    "description": "Theatres Near You Today Apr10Wed Apr11Thu Apr12Fri Apr13Sat Apr14Sun Apr15Mon Apr16Tue Apr17Wed Apr18Thu Apr19Fri Apr20Sat Apr21Sun Apr22Mon Apr23Tue Apr24Wed Apr25Thu Apr26Fri Apr27Sat Apr28Sun Apr29Mon Apr30Tue May01Wed May02Thu May03Fri May04Sat May05Sun May06Mon May07Tue May08Wed May09Thu May10F",
+    "frecency": 1727,
+    "url_hash": 33591261604520,
+    "last_visit_date": 1758203927328735
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Rescue Heroes (TV series) page about a cartoon TV series; not relevant to apps for studying.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a TV series and has no connection to apps or study habit improvement.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Rescue Heroes  (TV series) \"Rescue Heroes (TV series)From Wikipedia, the free encyclopedianavigation search Rescue Heroes Created by Fisher-Price Developed by Nelvana Limited Starring Norm Spencer Lenore Zann Martin Roach Joseph Motiki Lisa Messinger (season one) Deborah Odell (seasons two and three) Rod Wilson Country of ori",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Rescue_Heroes_(TV_series)",
+    "title": "Rescue Heroes  (TV series)",
+    "description": "\"Rescue Heroes (TV series)From Wikipedia, the free encyclopedianavigation search Rescue Heroes Created by Fisher-Price Developed by Nelvana Limited Starring Norm Spencer Lenore Zann Martin Roach Joseph Motiki Lisa Messinger (season one) Deborah Odell (seasons two and three) Rod Wilson Country of ori",
+    "frecency": 253,
+    "url_hash": 29945779392549,
+    "last_visit_date": 1758203927482735
+  }
+}

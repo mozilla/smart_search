@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "First pants worn by horse riders 3,000 years ago News Archaeology First pants worn by horse riders 3,000 years ago Oldest known trousers originated in Central Asia By Bruce Bower 9:05am, May 30, 2014ROUGH RIDERS The oldest known trousers, including this roughly 3,000-year-old pair with woven leg decorations, belonged to nomadic horsemen in Central",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about ancient pants and archaeology, not about improving at sports or sports training.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "First pants worn by horse riders 3,000 years ago News Archaeology First pants worn by horse riders 3,000 years ago Oldest known trousers originated in Central Asia By Bruce Bower 9:05am, May 30, 2014ROUGH RIDERS The oldest known trousers, including this roughly 3,000-year-old pair with woven leg decorations, belonged to nomadic horsemen in Central",
+  "history": {
+    "url": "https://www.sciencenews.org/article/first-pants-worn-horse-riders-3000-years-ago",
+    "title": "First pants worn by horse riders 3,000 years ago",
+    "description": "News Archaeology First pants worn by horse riders 3,000 years ago Oldest known trousers originated in Central Asia By Bruce Bower 9:05am, May 30, 2014ROUGH RIDERS The oldest known trousers, including this roughly 3,000-year-old pair with woven leg decorations, belonged to nomadic horsemen in Central",
+    "frecency": 520,
+    "url_hash": 98147145614247,
+    "last_visit_date": 1758203928083139
+  }
+}

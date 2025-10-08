@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "What do American people usually eat at home? Katrina Spears, works at Self-Employment Answered Mar 13, 2016It really depends on the family. America is a melting pot of cultures with each family having a unique heritage and diet. We are also a very individualistic society meaning all of us like to find our own way in the world and tend to be ad",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses American eating habits and culture, not IDEs or software development tools; it is not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "What do American people usually eat at home? Katrina Spears, works at Self-Employment Answered Mar 13, 2016It really depends on the family. America is a melting pot of cultures with each family having a unique heritage and diet. We are also a very individualistic society meaning all of us like to find our own way in the world and tend to be ad",
+  "history": {
+    "url": "https://www.quora.com/What-do-American-people-usually-eat-at-home",
+    "title": "What do American people usually eat at home?",
+    "description": "Katrina Spears, works at Self-Employment Answered Mar 13, 2016It really depends on the family. America is a melting pot of cultures with each family having a unique heritage and diet. We are also a very individualistic society meaning all of us like to find our own way in the world and tend to be ad",
+    "frecency": 3723,
+    "url_hash": 5948420750571,
+    "last_visit_date": 1758203928802200
+  }
+}

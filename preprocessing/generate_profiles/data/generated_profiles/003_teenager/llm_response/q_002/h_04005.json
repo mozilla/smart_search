@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "How long do YOU feel strange after a seizure? \"How long do YOU feel strange after a seizure? Topic: Living With Epilepsy - Adults I figured I would share my situation and how I am feeling with people who hopefully can relate, because I am a bit scared currently. I had my first seizure some 8 years ago and have been dealing with them ever since.\"",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses seizures and epilepsy, not DIY room decoration ideas; it has no relevance to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "How long do YOU feel strange after a seizure? \"How long do YOU feel strange after a seizure? Topic: Living With Epilepsy - Adults I figured I would share my situation and how I am feeling with people who hopefully can relate, because I am a bit scared currently. I had my first seizure some 8 years ago and have been dealing with them ever since.",
+  "history": {
+    "url": "https://www.epilepsy.com/connect/forums/living-epilepsy-adults/how-long-do-you-feel-strange-after-seizure",
+    "title": "How long do YOU feel strange after a seizure?",
+    "description": "\"How long do YOU feel strange after a seizure? Topic: Living With Epilepsy - Adults I figured I would share my situation and how I am feeling with people who hopefully can relate, because I am a bit scared currently. I had my first seizure some 8 years ago and have been dealing with them ever since.",
+    "frecency": 843,
+    "url_hash": 8178776411895,
+    "last_visit_date": 1758203931281228
+  }
+}

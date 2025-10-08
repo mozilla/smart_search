@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Using WPS PIN Mode to Connect to a Network If you have a WPS-enabled wireless router or access point that supports PIN mode, you can use Wi-Fi Protected Setup (WPS) PIN mode to connect your scanner to the network. Set the connection mode switch on the scanner to AP mode. Open the input tray. Press and hold the Connect button and press the po",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses WPS PIN mode and network setup for a scanner, not Python libraries or machine learning; thus it is not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Using WPS PIN Mode to Connect to a Network If you have a WPS-enabled wireless router or access point that supports PIN mode, you can use Wi-Fi Protected Setup (WPS) PIN mode to connect your scanner to the network. Set the connection mode switch on the scanner to AP mode. Open the input tray. Press and hold the Connect button and press the po",
+  "history": {
+    "url": "https://files.support.epson.com/docid/cpd4/cpd40192/source/scanners/source/network/tasks/connecting_wps_pin_ds560.html",
+    "title": "Using WPS PIN Mode to Connect to a Network",
+    "description": "If you have a WPS-enabled wireless router or access point that supports PIN mode, you can use Wi-Fi Protected Setup (WPS) PIN mode to connect your scanner to the network. Set the connection mode switch on the scanner to AP mode. Open the input tray. Press and hold the Connect button and press the po",
+    "frecency": 1782,
+    "url_hash": 44080607041566,
+    "last_visit_date": 1758203931614111
+  }
+}

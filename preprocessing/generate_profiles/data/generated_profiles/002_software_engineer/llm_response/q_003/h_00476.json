@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "T-4 Eugene Roe, a WWII medic character from Easy Company (Band of Brothers); unrelated to database query optimization.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The result concerns a WWII TV show character, not information about optimizing database queries.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "T-4 Eugene Roe \"T-4 Eugene Roe Rank Technician 4th Grade Status Deceased as of 1998, from cancer. Nickname Doc Actor Shane Taylor T-4 Eugene G. \"\"Doc\"\" Roe Sr. was a medic and Paratrooper in Easy Company. He was the main focus of the episode Bastogne, where he befriended a nurse named Ren\u00e9e and discussed what trea",
+  "history": {
+    "url": "http://wikiofbrothers.wikia.com/wiki/T-4_Eugene_Roe",
+    "title": "T-4 Eugene Roe",
+    "description": "\"T-4 Eugene Roe Rank Technician 4th Grade Status Deceased as of 1998, from cancer. Nickname Doc Actor Shane Taylor T-4 Eugene G. \"\"Doc\"\" Roe Sr. was a medic and Paratrooper in Easy Company. He was the main focus of the episode Bastogne, where he befriended a nurse named Ren\u00e9e and discussed what trea",
+    "frecency": 4185,
+    "url_hash": 69440541581102,
+    "last_visit_date": 1758203932068111
+  }
+}

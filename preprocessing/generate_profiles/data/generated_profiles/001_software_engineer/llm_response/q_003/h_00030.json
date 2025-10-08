@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "How to Send a Computer Screen Wirelessly to a TV \"The appeal of using a television as a computer monitor is obvious: while computer monitors are usually compact and offer little in providing a crisp and detailed image, TVs are large, hardly movable and have quality images. Connecting your computer to your television with cords is often tedious and",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses wireless display to a TV, unrelated to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "How to Send a Computer Screen Wirelessly to a TV \"The appeal of using a television as a computer monitor is obvious: while computer monitors are usually compact and offer little in providing a crisp and detailed image, TVs are large, hardly movable and have quality images. Connecting your computer to your television with cords is often tedious and",
+  "history": {
+    "url": "http://www.ehow.com/how_7288745_send-computer-screen-wirelessly-tv.html",
+    "title": "How to Send a Computer Screen Wirelessly to a TV",
+    "description": "\"The appeal of using a television as a computer monitor is obvious: while computer monitors are usually compact and offer little in providing a crisp and detailed image, TVs are large, hardly movable and have quality images. Connecting your computer to your television with cords is often tedious and",
+    "frecency": 4888,
+    "url_hash": 29011928406399,
+    "last_visit_date": 1758203926804200
+  }
+}

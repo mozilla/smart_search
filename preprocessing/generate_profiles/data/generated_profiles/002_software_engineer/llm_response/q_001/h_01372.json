@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Mirror (disambiguation) page about the term 'mirror' and related topics; not about Python libraries or machine learning.",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a disambiguation page for 'mirror' with no connection to Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Mirror (disambiguation) \"For a list of alternative servers which have a copy of Wikipedia, see Wikipedia: Mirrors and forks. Look up mirror, cheval glass, handmirror, or looking glass in Wiktionary, the free dictionary. A mirror is an object whose surface reflects an image. Mirror may also refer to: Contents [ hide ]1 Comp",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Mirror_(computing)",
+    "title": "Mirror (disambiguation)",
+    "description": "\"For a list of alternative servers which have a copy of Wikipedia, see Wikipedia: Mirrors and forks. Look up mirror, cheval glass, handmirror, or looking glass in Wiktionary, the free dictionary. A mirror is an object whose surface reflects an image. Mirror may also refer to: Contents [ hide ]1 Comp",
+    "frecency": 2521,
+    "url_hash": 54136531312209,
+    "last_visit_date": 1758203928286111
+  }
+}

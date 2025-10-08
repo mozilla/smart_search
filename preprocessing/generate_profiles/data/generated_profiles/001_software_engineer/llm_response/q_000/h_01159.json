@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Nuremberg Trials \"From Wikipedia, the free encyclopedianavigation search There were two sets of Nuremberg Trials. The first, and most well known, were the trials of the leaders of Nazi Germany. This was organized by the International Military Tribunal (IMT). The judges and prosecutors were from the four wartime Alli",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Nuremberg Trials, unrelated to API debugging",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Nuremberg Trials \"From Wikipedia, the free encyclopedianavigation search There were two sets of Nuremberg Trials. The first, and most well known, were the trials of the leaders of Nazi Germany. This was organized by the International Military Tribunal (IMT). The judges and prosecutors were from the four wartime Alli",
+  "history": {
+    "url": "https://simple.wikipedia.org/wiki/Nuremberg_Trials",
+    "title": "Nuremberg Trials",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search There were two sets of Nuremberg Trials. The first, and most well known, were the trials of the leaders of Nazi Germany. This was organized by the International Military Tribunal (IMT). The judges and prosecutors were from the four wartime Alli",
+    "frecency": 912,
+    "url_hash": 52508039815336,
+    "last_visit_date": 1758203927074200
+  }
+}

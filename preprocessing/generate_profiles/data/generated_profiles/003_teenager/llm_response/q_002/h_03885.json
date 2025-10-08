@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "DEFINITION of 'Non-Accountable Plan' DEFINITION of 'Non-Accountable Plan'A system under which a business provides payments to its employees to cover business expenses incurred for meals, travel, transportation, or entertainment, but under which the employee does not have to substantiate the expenses or return advance payments in excess",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a 'Non-Accountable Plan' for employee expense reimbursements, not related to DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "DEFINITION of 'Non-Accountable Plan' DEFINITION of 'Non-Accountable Plan'A system under which a business provides payments to its employees to cover business expenses incurred for meals, travel, transportation, or entertainment, but under which the employee does not have to substantiate the expenses or return advance payments in excess",
+  "history": {
+    "url": "https://www.investopedia.com/terms/n/non-accountable-plan.asp",
+    "title": "DEFINITION of 'Non-Accountable Plan'",
+    "description": "DEFINITION of 'Non-Accountable Plan'A system under which a business provides payments to its employees to cover business expenses incurred for meals, travel, transportation, or entertainment, but under which the employee does not have to substantiate the expenses or return advance payments in excess",
+    "frecency": 976,
+    "url_hash": 80828485573729,
+    "last_visit_date": 1758203927532735
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Calculate Gross Pay Based on Net Pay Home > Payroll > Gross-up Calculate Gross Pay Based on Net Pay Use this calculator to gross up wages based on net pay. For example if an employee receives $100 in taxable benefits or cash, this calculator can be used to calculate the gross amount that must be used when calculating payroll taxes. Of",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses a payroll gross-up calculator, unrelated to Python libraries or machine learning, and does not address the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Calculate Gross Pay Based on Net Pay Home > Payroll > Gross-up Calculate Gross Pay Based on Net Pay Use this calculator to gross up wages based on net pay. For example if an employee receives $100 in taxable benefits or cash, this calculator can be used to calculate the gross amount that must be used when calculating payroll taxes. Of",
+  "history": {
+    "url": "http://www.gnjpc.com/calculators/payroll/grossup.php",
+    "title": "Calculate Gross Pay Based on Net Pay",
+    "description": "Home > Payroll > Gross-up Calculate Gross Pay Based on Net Pay Use this calculator to gross up wages based on net pay. For example if an employee receives $100 in taxable benefits or cash, this calculator can be used to calculate the gross amount that must be used when calculating payroll taxes. Of ",
+    "frecency": 4791,
+    "url_hash": 65645048564509,
+    "last_visit_date": 1758203927912111
+  }
+}

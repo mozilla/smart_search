@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Disney On Ice presents Magical Ice Festival,Birmingham Genting Arena Home The Midlands Birmingham Birmingham Genting Arena Disney On Ice presents Magical Ice Festival,Birmingham Genting Arena Add to Favourites Get ready to enter a world of enchantment featuring the most magical moments from across the kingdom in Disney On Ice presents Magical Ice Festival. You\u2019ll be",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes an entertainment show (Disney On Ice) and does not address improving performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Disney On Ice presents Magical Ice Festival,Birmingham Genting Arena Home The Midlands Birmingham Birmingham Genting Arena Disney On Ice presents Magical Ice Festival,Birmingham Genting Arena Add to Favourites Get ready to enter a world of enchantment featuring the most magical moments from across the kingdom in Disney On Ice presents Magical Ice Festival. You\u2019ll be",
+  "history": {
+    "url": "http://www.atgtickets.com/shows/disney-on-ice-presents-magical-ice-festival/birmingham-lg-arena/",
+    "title": "Disney On Ice presents Magical Ice Festival,Birmingham Genting Arena",
+    "description": "Home The Midlands Birmingham Birmingham Genting Arena Disney On Ice presents Magical Ice Festival,Birmingham Genting Arena Add to Favourites Get ready to enter a world of enchantment featuring the most magical moments from across the kingdom in Disney On Ice presents Magical Ice Festival. You\u2019ll be ",
+    "frecency": 4322,
+    "url_hash": 43636946980574,
+    "last_visit_date": 1758203929851228
+  }
+}

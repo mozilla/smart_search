@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Q: Moving iPhone contacts to Windows Phone (with contact pictures) \\\"AL alexmg2420 asked on April 19, 2012Q: Moving i Phone contacts to Windows Phone (with contact pictures)Today, I bought a Windows Phone. I'd like to transfer all my contacts from my i Phone to my new Windows Phone. When I used the built-in Contacts Transfer app, it did not bring over any contact pi",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses transferring contacts between mobile devices (iPhone/Windows Phone), not Docker setup; unrelated to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Q: Moving iPhone contacts to Windows Phone (with contact pictures) \"AL alexmg2420 asked on April 19, 2012Q: Moving i Phone contacts to Windows Phone (with contact pictures)Today, I bought a Windows Phone. I'd like to transfer all my contacts from my i Phone to my new Windows Phone. When I used the built-in Contacts Transfer app, it did not bring over any contact pi",
+  "history": {
+    "url": "http://answers.microsoft.com/en-us/mobiledevices/forum/mdlumia-mdupdate/moving-iphone-contacts-to-windows-phone-with/d359e333-24db-4385-a887-c539a001648f",
+    "title": "Q: Moving iPhone contacts to Windows Phone (with contact pictures)",
+    "description": "\"AL alexmg2420 asked on April 19, 2012Q: Moving i Phone contacts to Windows Phone (with contact pictures)Today, I bought a Windows Phone. I'd like to transfer all my contacts from my i Phone to my new Windows Phone. When I used the built-in Contacts Transfer app, it did not bring over any contact pi",
+    "frecency": 3864,
+    "url_hash": 35627554349678,
+    "last_visit_date": 1758203928106111
+  }
+}

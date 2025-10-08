@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Jake Arrieta \\\"Player Injury (Conditioning): Arrieta was a late free agent signing and it is undetermined if he will be ready for the start of the 2018 season. (Updated March 12, 2018)Projections Share & more Modify & Share Table Embed this Table Get as Excel Workbook (experimental)Get table as CSV (for Excel)Cop",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns a baseball player injury update (Jake Arrieta) and contains no information about IDEs or software development tools, thus not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Jake Arrieta \"Player Injury (Conditioning): Arrieta was a late free agent signing and it is undetermined if he will be ready for the start of the 2018 season. (Updated March 12, 2018)Projections Share & more Modify & Share Table Embed this Table Get as Excel Workbook (experimental)Get table as CSV (for Excel)Cop",
+  "history": {
+    "url": "https://www.baseball-reference.com/players/a/arrieja01.shtml",
+    "title": "Jake Arrieta",
+    "description": "\"Player Injury (Conditioning): Arrieta was a late free agent signing and it is undetermined if he will be ready for the start of the 2018 season. (Updated March 12, 2018)Projections Share & more Modify & Share Table Embed this Table Get as Excel Workbook (experimental)Get table as CSV (for Excel)Cop",
+    "frecency": 826,
+    "url_hash": 93799543294255,
+    "last_visit_date": 1758203929150111
+  }
+}

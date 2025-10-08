@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Current Students Current Students Student Life Student Life & Leadership Campus Recreation New Student Handbook Clubs and Organizations UCI Athletics Fraternities and Sororities Bren Events Center Student Government & Student Media KUCI 88.9 FMStudent Affairs New University (student newspaper)Anthology Yearbook Free",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The page appears to be a university student resource page, not a guide or information about starting a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Current Students Current Students Student Life Student Life & Leadership Campus Recreation New Student Handbook Clubs and Organizations UCI Athletics Fraternities and Sororities Bren Events Center Student Government & Student Media KUCI 88.9 FMStudent Affairs New University (student newspaper)Anthology Yearbook Free",
+  "history": {
+    "url": "http://students.uci.edu/",
+    "title": "Current Students",
+    "description": "Current Students Student Life Student Life & Leadership Campus Recreation New Student Handbook Clubs and Organizations UCI Athletics Fraternities and Sororities Bren Events Center Student Government & Student Media KUCI 88.9 FMStudent Affairs New University (student newspaper)Anthology Yearbook Free",
+    "frecency": 2586,
+    "url_hash": 26681584925051,
+    "last_visit_date": 1758203927098735
+  }
+}

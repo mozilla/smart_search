@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Solar power surging to forefront of Canadian energy Richard Blackwell Published July 26, 2014Updated June 19, 2017Dave Chan for The Globe and Mail In what was once a rocky hayfield in southeastern Ontario, a very 21st-century type of farm is taking shape. Construction workers are piecing together rectangular racks supported by galvanized steel posts.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses solar energy and a farm project, not database queries; it is unrelated to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Solar power surging to forefront of Canadian energy Richard Blackwell Published July 26, 2014Updated June 19, 2017Dave Chan for The Globe and Mail In what was once a rocky hayfield in southeastern Ontario, a very 21st-century type of farm is taking shape. Construction workers are piecing together rectangular racks supported by galvanized steel posts.",
+  "history": {
+    "url": "http://www.theglobeandmail.com/report-on-business/solar-power-surging-to-forefront-of-canadian-energy/article19786759/",
+    "title": "Solar power surging to forefront of Canadian energy",
+    "description": "Richard Blackwell Published July 26, 2014Updated June 19, 2017Dave Chan for The Globe and Mail In what was once a rocky hayfield in southeastern Ontario, a very 21st-century type of farm is taking shape. Construction workers are piecing together rectangular racks supported by galvanized steel posts.",
+    "frecency": 1916,
+    "url_hash": 89620306048825,
+    "last_visit_date": 1758203930466111
+  }
+}

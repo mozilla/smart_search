@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Grant Park \"Welcome to Grant Park!Buckingham Fountain in Grant Park Museum Campus in Grant Park\"\"Agora\" on Museum Campus The Great Lawn at Millennium Park Boeing Galleries in Millennium Park Skate Park at Grant Park Previous Next Location: Columbus Drive Chicago, IL 60601Supervisor: Jackie Guthrie (Maggie Dal)",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes Chicago parks and locations; it does not discuss strategies, training, or information on how to get better at sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Grant Park \"Welcome to Grant Park!Buckingham Fountain in Grant Park Museum Campus in Grant Park\"\"Agora\"\" on Museum Campus The Great Lawn at Millennium Park Boeing Galleries in Millennium Park Skate Park at Grant Park Previous Next Location: Columbus Drive Chicago, IL 60601Supervisor: Jackie Guthrie (Maggie Dal",
+  "history": {
+    "url": "http://www.chicagoparkdistrict.com/parks/grant-park/",
+    "title": "Grant Park",
+    "description": "\"Welcome to Grant Park!Buckingham Fountain in Grant Park Museum Campus in Grant Park\"\"Agora\"\" on Museum Campus The Great Lawn at Millennium Park Boeing Galleries in Millennium Park Skate Park at Grant Park Previous Next Location: Columbus Drive Chicago, IL 60601Supervisor: Jackie Guthrie (Maggie Dal",
+    "frecency": 1202,
+    "url_hash": 68055116058207,
+    "last_visit_date": 1758203928622735
+  }
+}

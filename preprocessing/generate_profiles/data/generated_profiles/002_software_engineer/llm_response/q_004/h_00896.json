@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Little Mexico in Woodburn \\\"City: Woodburn Region: Greater Portland Tags: Shopping, Sightseeing Mexican flavor, north of the border By Vicente Guzman-Orozco For Oregon.com Sometimes you just feel like leaving behind the drudgery of work, closing those books and fleeing the office for ma\u00f1ana-land, eating some ceviche and washi",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a travel/food article about a Mexican restaurant and has no relevance to Docker or beginner setup concepts.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Little Mexico in Woodburn \"City: Woodburn Region: Greater Portland Tags: Shopping, Sightseeing Mexican flavor, north of the border By Vicente Guzman-Orozco For Oregon.com Sometimes you just feel like leaving behind the drudgery of work, closing those books and fleeing the office for ma\u00f1ana-land, eating some ceviche and washi",
+  "history": {
+    "url": "http://www.oregon.com/attractions/little-mexico-woodburn",
+    "title": "Little Mexico in Woodburn",
+    "description": "\"City: Woodburn Region: Greater Portland Tags: Shopping, Sightseeing Mexican flavor, north of the border By Vicente Guzman-Orozco For Oregon.com Sometimes you just feel like leaving behind the drudgery of work, closing those books and fleeing the office for ma\u00f1ana-land, eating some ceviche and washi",
+    "frecency": 3381,
+    "url_hash": 55548646724040,
+    "last_visit_date": 1758203931692111
+  }
+}

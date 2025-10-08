@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Elkhart Co. / Middlebury KOA \\\"Northern Indiana's Amish Country! Great for Groups and Family Reunions!Antique Campers!Our Registration Desk and Info Center Full Hookup Pull Throughs Beautiful Deluxe Kabins Water Electric Patio Sites Ride a Fun Cycle! Our Fully Stocked Store Beautiful Pool!Spring is almost here! Are you making yo",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is an advertisement for a KOA campground and does not relate to Docker setup or beginner programming topics.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Elkhart Co. / Middlebury KOA \"Northern Indiana's Amish Country! Great for Groups and Family Reunions!Antique Campers!Our Registration Desk and Info Center Full Hookup Pull Throughs Beautiful Deluxe Kabins Water Electric Patio Sites Ride a Fun Cycle! Our Fully Stocked Store Beautiful Pool!Spring is almost here! Are you making yo",
+  "history": {
+    "url": "http://koa.com/campgrounds/elkhart-co/",
+    "title": "Elkhart Co. / Middlebury KOA",
+    "description": "\"Northern Indiana's Amish Country! Great for Groups and Family Reunions!Antique Campers!Our Registration Desk and Info Center Full Hookup Pull Throughs Beautiful Deluxe Kabins Water Electric Patio Sites Ride a Fun Cycle! Our Fully Stocked Store Beautiful Pool!Spring is almost here! Are you making yo",
+    "frecency": 3504,
+    "url_hash": 69683777853136,
+    "last_visit_date": 1758203927870111
+  }
+}

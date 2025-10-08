@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Boys & Girls Club of Yankton Boys & Girls Club of Yankton Mission statement - To enable all young people, especially those who need us most, to reach their full potential as productive, caring, responsible citizens. Our services - A safe, positive place for children grade 5 \u2013 12 to participate in after school programs in our Fi",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a youth organization\u2019s mission and programs and has no relation to debugging or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Boys & Girls Club of Yankton Boys & Girls Club of Yankton Mission statement - To enable all young people, especially those who need us most, to reach their full potential as productive, caring, responsible citizens. Our services - A safe, positive place for children grade 5 \u2013 12 to participate in after school programs in our Fi",
+  "history": {
+    "url": "http://www.yanktonunitedway.org/Community-Impact/Partners-Initiatives-/Boys-Girls-Club-of-Yankton",
+    "title": "Boys & Girls Club of Yankton",
+    "description": "Boys & Girls Club of Yankton Mission statement - To enable all young people, especially those who need us most, to reach their full potential as productive, caring, responsible citizens. Our services - A safe, positive place for children grade 5 \u2013 12 to participate in after school programs in our Fi",
+    "frecency": 1189,
+    "url_hash": 86025277033162,
+    "last_visit_date": 1758203929188200
+  }
+}

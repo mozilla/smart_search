@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "CLASSPATH The CLASSPATH tells the Java Virtual Machine and other Java applications and tools where to find the class libraries. The class libraries that the CLASSPATH points to may be the JDK classes (contained in the classes.zip file in the lib folder) and/or any classes that you want to use. Default CLASSPA",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved content discusses Java CLASSPATH, which is unrelated to Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "CLASSPATH The CLASSPATH tells the Java Virtual Machine and other Java applications and tools where to find the class libraries. The class libraries that the CLASSPATH points to may be the JDK classes (contained in the classes.zip file in the lib folder) and/or any classes that you want to use. Default CLASSPA",
+  "history": {
+    "url": "http://www.cis.upenn.edu/~bcpierce/courses/629/jdkdocs/tooldocs/win32/classpath.html",
+    "title": "CLASSPATH",
+    "description": "The CLASSPATH tells the Java Virtual Machine and other Java applications and tools where to find the class libraries. The class libraries that the CLASSPATH points to may be the JDK classes (contained in the classes.zip file in the lib folder) and/or any classes that you want to use. Default CLASSPA",
+    "frecency": 4357,
+    "url_hash": 20956992143354,
+    "last_visit_date": 1758203931608111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "About the Refuge Around the Refuge Get Involved The refuge draws a lot of strength and support from our volunteers. People have contributed a couple hours a month to nearly a hundred hours a month. Every piece counts to make a refuge whole. Check out the Get Involved page to learn about ways to volunteer at the refu",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses a refuge and volunteering, with no mention of Python, libraries, or machine learning, thus not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "About the Refuge Around the Refuge Get Involved The refuge draws a lot of strength and support from our volunteers. People have contributed a couple hours a month to nearly a hundred hours a month. Every piece counts to make a refuge whole. Check out the Get Involved page to learn about ways to volunteer at the refu",
+  "history": {
+    "url": "http://www.fws.gov/refuge/eastern_neck/",
+    "title": "About the Refuge",
+    "description": "Around the Refuge Get Involved The refuge draws a lot of strength and support from our volunteers. People have contributed a couple hours a month to nearly a hundred hours a month. Every piece counts to make a refuge whole. Check out the Get Involved page to learn about ways to volunteer at the refu",
+    "frecency": 4078,
+    "url_hash": 44529657737473,
+    "last_visit_date": 1758203927270200
+  }
+}

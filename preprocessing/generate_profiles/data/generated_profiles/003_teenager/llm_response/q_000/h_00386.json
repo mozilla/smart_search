@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "James Bond (Sean Connery) \\\"Literary \u2014 Connery \u2014 Lazenby \u2014 Moore \u2014 Dalton \u2014 Brosnan \u2014 Craig \u2014 Others Promo Dr. No You Only Live Twice Never Say Never Again James Bond Character information Alias (es)007David Somerset Jim Fisher Peter Franks Mr. Jones Title/rank Commander, Royal Navy Age53 (in 1983)Born1930 United Kingdom Hair",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns James Bond characters and unrelated metadata, not about how to start a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "James Bond (Sean Connery) \"Literary \u2014 Connery \u2014 Lazenby \u2014 Moore \u2014 Dalton \u2014 Brosnan \u2014 Craig \u2014 Others Promo Dr. No You Only Live Twice Never Say Never Again James Bond Character information Alias (es)007David Somerset Jim Fisher Peter Franks Mr. Jones Title/rank Commander, Royal Navy Age53 (in 1983)Born1930 United Kingdom Hair",
+  "history": {
+    "url": "http://jamesbond.wikia.com/wiki/James_Bond_(Sean_Connery)",
+    "title": "James Bond (Sean Connery)",
+    "description": "\"Literary \u2014 Connery \u2014 Lazenby \u2014 Moore \u2014 Dalton \u2014 Brosnan \u2014 Craig \u2014 Others Promo Dr. No You Only Live Twice Never Say Never Again James Bond Character information Alias (es)007David Somerset Jim Fisher Peter Franks Mr. Jones Title/rank Commander, Royal Navy Age53 (in 1983)Born1930 United Kingdom Hair",
+    "frecency": 4602,
+    "url_hash": 56914507411750,
+    "last_visit_date": 1758203927316735
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Burlington Clerk Office Burlington Clerk Office Home Government Administration Offices Clerk Offices Vermont Chittenden County Burlington Find Burlington Vermont clerk offices, including county, city, and circuit clerks, and clerks of court. Clerks provide information on public court records and legal documents, criminal,",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns clerk offices and court records; it has no content related to debugging APIs or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Burlington Clerk Office Burlington Clerk Office Home Government Administration Offices Clerk Offices Vermont Chittenden County Burlington Find Burlington Vermont clerk offices, including county, city, and circuit clerks, and clerks of court. Clerks provide information on public court records and legal documents, criminal,",
+  "history": {
+    "url": "http://www.countyoffice.org/burlington-vt-clerk/",
+    "title": "Burlington Clerk Office",
+    "description": "Burlington Clerk Office Home Government Administration Offices Clerk Offices Vermont Chittenden County Burlington Find Burlington Vermont clerk offices, including county, city, and circuit clerks, and clerks of court. Clerks provide information on public court records and legal documents, criminal, ",
+    "frecency": 3038,
+    "url_hash": 67043771817992,
+    "last_visit_date": 1758203931178111
+  }
+}

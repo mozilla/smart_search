@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Does New Mountain AVL require a membership? How do I become a member? Does New Mountain AVL require a membership? How do I become a member? How do I get there? Where do I park? Do you have a box office? Are you wheelchair accessible? Is seating provided during shows at New Mountain AVL? How do I get booked at New Mountain AVL? Do you rent the venue to outside promoter",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses New Mountain AVL venue membership, accessibility, and booking, which has no relevance to Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Does New Mountain AVL require a membership? How do I become a member? Does New Mountain AVL require a membership? How do I become a member? How do I get there? Where do I park? Do you have a box office? Are you wheelchair accessible? Is seating provided during shows at New Mountain AVL? How do I get booked at New Mountain AVL? Do you rent the venue to outside promoter",
+  "history": {
+    "url": "http://www.newmountainavl.com/about/faq",
+    "title": "Does New Mountain AVL require a membership? How do I become a member?",
+    "description": "Does New Mountain AVL require a membership? How do I become a member? How do I get there? Where do I park? Do you have a box office? Are you wheelchair accessible? Is seating provided during shows at New Mountain AVL? How do I get booked at New Mountain AVL? Do you rent the venue to outside promoter",
+    "frecency": 2195,
+    "url_hash": 12163570710255,
+    "last_visit_date": 1758203930078111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Deals in Indianapolis Neighborhoods Castleton Downtown Fairgrounds Fountain Square College Park More Neighborhood TRENDINGBowling for Two or Four with Shoe Rental at Royal Pin (Up to 47% Off)Brunswick automatic scoring keeps count as bowlers fling balls down 80 lanes in alleys with full-service bars, pool tables... Multi",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a local deals page about bowling, not a guide or resource on improving performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Deals in Indianapolis Neighborhoods Castleton Downtown Fairgrounds Fountain Square College Park More Neighborhood TRENDINGBowling for Two or Four with Shoe Rental at Royal Pin (Up to 47% Off)Brunswick automatic scoring keeps count as bowlers fling balls down 80 lanes in alleys with full-service bars, pool tables... Multi",
+  "history": {
+    "url": "https://www.groupon.com/local/indianapolis",
+    "title": "Deals in Indianapolis",
+    "description": "Neighborhoods Castleton Downtown Fairgrounds Fountain Square College Park More Neighborhood TRENDINGBowling for Two or Four with Shoe Rental at Royal Pin (Up to 47% Off)Brunswick automatic scoring keeps count as bowlers fling balls down 80 lanes in alleys with full-service bars, pool tables... Multi",
+    "frecency": 422,
+    "url_hash": 7399272113360,
+    "last_visit_date": 1758203928719139
+  }
+}

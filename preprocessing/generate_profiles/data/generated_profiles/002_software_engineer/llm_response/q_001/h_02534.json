@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "How to control the level of water in the toilet bowl? \\\"_Home Improvement Stack Exchange is a question and answer site for contractors and serious DIYers. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top How to control the level of water in the",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses toilet water level and Home Improvement Stack Exchange; it has nothing to do with Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "How to control the level of water in the toilet bowl? \"_Home Improvement Stack Exchange is a question and answer site for contractors and serious DIYers. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top How to control the level of water in the",
+  "history": {
+    "url": "https://diy.stackexchange.com/questions/56225/how-to-control-the-level-of-water-in-the-toilet-bowl",
+    "title": "How to control the level of water in the toilet bowl?",
+    "description": "\"_Home Improvement Stack Exchange is a question and answer site for contractors and serious DIYers. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top How to control the level of water in the",
+    "frecency": 422,
+    "url_hash": 38962499018990,
+    "last_visit_date": 1758203930162111
+  }
+}

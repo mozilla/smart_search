@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "BETTER DELIVERIES, HAPPIER CUSTOMERS \"Features Industries Blog Contact Sections Features Industries About us Resources Blog Contact us More content API Docs Support center Terms & conditions Privacy policy Home Features Industries About us Resources Blog Contact us Customer log in BETTER DELIVERIES, HAPPIER CUSTOMERSBoost your logistic",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result appears to be about logistics/delivery services and does not mention Docker, containers, or software setup; not relevant to 'Docker setup for beginners'.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "BETTER DELIVERIES, HAPPIER CUSTOMERS \"Features Industries Blog Contact Sections Features Industries About us Resources Blog Contact us More content API Docs Support center Terms & conditions Privacy policy Home Features Industries About us Resources Blog Contact us Customer log in BETTER DELIVERIES, HAPPIER CUSTOMERSBoost your logistic",
+  "history": {
+    "url": "https://www.beetrack.com/en/",
+    "title": "BETTER DELIVERIES, HAPPIER CUSTOMERS",
+    "description": "\"Features Industries Blog Contact Sections Features Industries About us Resources Blog Contact us More content API Docs Support center Terms & conditions Privacy policy Home Features Industries About us Resources Blog Contact us Customer log in BETTER DELIVERIES, HAPPIER CUSTOMERSBoost your logistic",
+    "frecency": 722,
+    "url_hash": 218898575380,
+    "last_visit_date": 1758203931916111
+  }
+}

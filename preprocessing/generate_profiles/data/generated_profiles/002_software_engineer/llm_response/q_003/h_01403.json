@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "digital marketing digital marketing Definition Popular Terms The promotion of products or brands via one or more forms of electronic media. For example, advertising mediums that might be used as part of the digital marketing strategy of a business could include promotional efforts made via the Internet, social media,",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses digital marketing, not database queries; there is topic mismatch and no relevance to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "digital marketing digital marketing Definition Popular Terms The promotion of products or brands via one or more forms of electronic media. For example, advertising mediums that might be used as part of the digital marketing strategy of a business could include promotional efforts made via the Internet, social media,",
+  "history": {
+    "url": "http://www.businessdictionary.com/definition/digital-marketing.html",
+    "title": "digital marketing",
+    "description": "digital marketing Definition Popular Terms The promotion of products or brands via one or more forms of electronic media. For example, advertising mediums that might be used as part of the digital marketing strategy of a business could include promotional efforts made via the Internet, social media,",
+    "frecency": 2480,
+    "url_hash": 41118038192343,
+    "last_visit_date": 1758203930218111
+  }
+}

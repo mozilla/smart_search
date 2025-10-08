@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Sziget 2018 Sziget 2018Aug 8-15, 2018 | Budapest, Hungary | Music102Photo: Sandor Csudai",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result appears to be about the Sziget music festival in Budapest and contains no information related to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Sziget 2018 Sziget 2018Aug 8-15, 2018 | Budapest, Hungary | Music102Photo: Sandor Csudai",
+  "history": {
+    "url": "https://www.fest300.com/festivals/sziget",
+    "title": "Sziget 2018",
+    "description": "Sziget 2018Aug 8-15, 2018 | Budapest, Hungary | Music102Photo: Sandor Csudai ",
+    "frecency": 646,
+    "url_hash": 31583239546858,
+    "last_visit_date": 1758203935127228
+  }
+}

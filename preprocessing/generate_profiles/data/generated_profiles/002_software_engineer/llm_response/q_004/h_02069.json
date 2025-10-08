@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Saint Katharine Drexel Biography Quick Facts Name Saint Katharine Drexel Occupation Missionary, Nun, Saint Birth Date November 26, 1858Death Date March 3, 1955Did You Know? Saint Katharine Drexel became the second native-born American saint, following St. Elizabeth Ann Seton. Place of Birth Philadelphia, Pennsylvania Place of Death",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns a biography of Saint Katharine Drexel and is not related to Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Saint Katharine Drexel Biography Quick Facts Name Saint Katharine Drexel Occupation Missionary, Nun, Saint Birth Date November 26, 1858Death Date March 3, 1955Did You Know? Saint Katharine Drexel became the second native-born American saint, following St. Elizabeth Ann Seton. Place of Birth Philadelphia, Pennsylvania Place of Death",
+  "history": {
+    "url": "http://www.biography.com/people/saint-katharine-drexel-38810",
+    "title": "Saint Katharine Drexel Biography",
+    "description": "Quick Facts Name Saint Katharine Drexel Occupation Missionary, Nun, Saint Birth Date November 26, 1858Death Date March 3, 1955Did You Know? Saint Katharine Drexel became the second native-born American saint, following St. Elizabeth Ann Seton. Place of Birth Philadelphia, Pennsylvania Place of Death",
+    "frecency": 1245,
+    "url_hash": 72446317374210,
+    "last_visit_date": 1758203928794111
+  }
+}

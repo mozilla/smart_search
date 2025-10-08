@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Senior chief petty officer article snippet about naval rank (not related to Docker).",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses naval ranks and is unrelated to Docker or beginner setup instructions.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Senior chief petty officer \"Senior chief petty officer From Wikipedia, the free encyclopedianavigation search Senior chief petty officer is an enlisted rank in the navies of some countries. Contents [ hide ]1 United States1.1 Command senior chief petty officer2 Ireland2.1 Irish Naval Service3 References4 See also5 External li",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Senior_chief_petty_officer",
+    "title": "Senior chief petty officer",
+    "description": "\"Senior chief petty officer From Wikipedia, the free encyclopedianavigation search Senior chief petty officer is an enlisted rank in the navies of some countries. Contents [ hide ]1 United States1.1 Command senior chief petty officer2 Ireland2.1 Irish Naval Service3 References4 See also5 External li",
+    "frecency": 3218,
+    "url_hash": 14983462331504,
+    "last_visit_date": 1758203927392111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Paramedic Training Discover schools in your local area that offer EMT or Paramedic training classes. LEARN MOREGet prepared for the NREMT examination with study guides and test questions. LEARN MORELearn how much EMT-Paramedic\u2019s in your city earn annually . LEARN MORECongratulations on your decision to pursue a parame",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about EMT/paramedic training, unrelated to Docker setup.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Paramedic Training Discover schools in your local area that offer EMT or Paramedic training classes. LEARN MOREGet prepared for the NREMT examination with study guides and test questions. LEARN MORELearn how much EMT-Paramedic\u2019s in your city earn annually . LEARN MORECongratulations on your decision to pursue a parame",
+  "history": {
+    "url": "http://www.paramedictrainingspot.com/",
+    "title": "Paramedic Training",
+    "description": "Discover schools in your local area that offer EMT or Paramedic training classes. LEARN MOREGet prepared for the NREMT examination with study guides and test questions. LEARN MORELearn how much EMT-Paramedic\u2019s in your city earn annually . LEARN MORECongratulations on your decision to pursue a parame",
+    "frecency": 4604,
+    "url_hash": 35715311221085,
+    "last_visit_date": 1758203928558200
+  }
+}

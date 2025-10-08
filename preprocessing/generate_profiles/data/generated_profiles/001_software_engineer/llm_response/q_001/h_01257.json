@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Department of Sociology WELCOME to the Department of Sociology at Florida State University! Our faculty and students are engaged in fascinating studies of the social inequalities that define our times, as seen in relationships, health outcomes, educational and professional careers, and interactions. We are also committed t",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page is a sociology department homepage and contains no information about Python libraries or machine learning; thus it is not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Department of Sociology WELCOME to the Department of Sociology at Florida State University! Our faculty and students are engaged in fascinating studies of the social inequalities that define our times, as seen in relationships, health outcomes, educational and professional careers, and interactions. We are also committed t",
+  "history": {
+    "url": "http://coss.fsu.edu/sociology/",
+    "title": "Department of Sociology",
+    "description": "WELCOME to the Department of Sociology at Florida State University! Our faculty and students are engaged in fascinating studies of the social inequalities that define our times, as seen in relationships, health outcomes, educational and professional careers, and interactions. We are also committed t",
+    "frecency": 572,
+    "url_hash": 25515521164611,
+    "last_visit_date": 1758203929124200
+  }
+}

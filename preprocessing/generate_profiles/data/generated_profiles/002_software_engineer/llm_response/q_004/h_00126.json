@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Nesting IF Functions in Excel - article about Excel IF functions (not related to Docker)",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Excel nested IF functions, not about Docker or Docker setup. Not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Nesting IF Functions in Excel \"Nesting IF Functions in Excelby Debra Dalgleish \u00b7 May 30, 2013The IF function lets you test something in Excel, and show one result if the test result is TRUE, and another result for FALSE. For example:=IF (\u201cDebra met Excel MVPs last week\u201d,\u201dShow Picture\u201d,\u201dNo Picture\u201d)And yes, I did meet some Excel",
+  "history": {
+    "url": "http://blog.contextures.com/archives/2013/05/30/nesting-if-functions-in-excel/",
+    "title": "Nesting IF Functions in Excel",
+    "description": "\"Nesting IF Functions in Excelby Debra Dalgleish \u00b7 May 30, 2013The IF function lets you test something in Excel, and show one result if the test result is TRUE, and another result for FALSE. For example:=IF (\u201cDebra met Excel MVPs last week\u201d,\u201dShow Picture\u201d,\u201dNo Picture\u201d)And yes, I did meet some Excel ",
+    "frecency": 4791,
+    "url_hash": 69944808306669,
+    "last_visit_date": 1758203929400111
+  }
+}

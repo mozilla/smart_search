@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "What does a Fashion Designer do? A fashion designer designs clothes, accessories, or shoes for consumers and retail companies. They create new designs that may use a variety of materials and and specify the measurements of those designs. During the design process, they decide on fabrics, colors, styles and the accessories needed to",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses fashion design, not database query optimization, so it is not relevant to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "What does a Fashion Designer do? A fashion designer designs clothes, accessories, or shoes for consumers and retail companies. They create new designs that may use a variety of materials and and specify the measurements of those designs. During the design process, they decide on fabrics, colors, styles and the accessories needed to",
+  "history": {
+    "url": "https://www.yourfreecareertest.com/fashion-designer/",
+    "title": "What does a Fashion Designer do?",
+    "description": "A fashion designer designs clothes, accessories, or shoes for consumers and retail companies. They create new designs that may use a variety of materials and and specify the measurements of those designs. During the design process, they decide on fabrics, colors, styles and the accessories needed to",
+    "frecency": 812,
+    "url_hash": 33318460903229,
+    "last_visit_date": 1758203929458111
+  }
+}

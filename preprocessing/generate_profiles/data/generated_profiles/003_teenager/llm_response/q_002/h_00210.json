@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "James Frey\u00e2s Morning After Scandal James Frey\u2019s Morning After What\u2019s it like to write a mega-selling memoir, then become a household word for \u201cliar\u201d? Was James Frey\u2019s A Million Little Pieces an ex-junkie\u2019s con job, part of a proud literary tradition, or just the standard hype of an increasingly embattled publishing industry?",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses James Frey and a memoir scandal, which is unrelated to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "James Frey\u00e2s Morning After Scandal James Frey\u2019s Morning After What\u2019s it like to write a mega-selling memoir, then become a household word for \u201cliar\u201d? Was James Frey\u2019s A Million Little Pieces an ex-junkie\u2019s con job, part of a proud literary tradition, or just the standard hype of an increasingly embattled publishing industry?",
+  "history": {
+    "url": "http://www.vanityfair.com/culture/2008/06/frey200806",
+    "title": "James Frey\u00e2s Morning After",
+    "description": "Scandal James Frey\u2019s Morning After What\u2019s it like to write a mega-selling memoir, then become a household word for \u201cliar\u201d? Was James Frey\u2019s A Million Little Pieces an ex-junkie\u2019s con job, part of a proud literary tradition, or just the standard hype of an increasingly embattled publishing industry? ",
+    "frecency": 4790,
+    "url_hash": 40339890751070,
+    "last_visit_date": 1758203931743228
+  }
+}

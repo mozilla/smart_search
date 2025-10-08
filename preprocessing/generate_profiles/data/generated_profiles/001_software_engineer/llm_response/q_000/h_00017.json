@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Tops Friendly Markets - a grocery store chain page, not related to API integration or debugging.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a grocery retailer, which is unrelated to debugging or integrating APIs.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Tops Friendly Markets \"Tops Friendly Markets From Wikipedia, the free encyclopedianavigation search This article is about the American grocery chain. For the Thai grocery chain, see Tops Supermarket. TOPS Markets, LLC\"\"Tops - Your neighborhood store with more\"\"Type Private Industry Retail (Grocery)Founded 1962Headquarter",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Tops_Friendly_Markets",
+    "title": "Tops Friendly Markets",
+    "description": "\"Tops Friendly Markets From Wikipedia, the free encyclopedianavigation search This article is about the American grocery chain. For the Thai grocery chain, see Tops Supermarket. TOPS Markets, LLC\"\"Tops - Your neighborhood store with more\"\"Type Private Industry Retail (Grocery)Founded 1962Headquarter",
+    "frecency": 4958,
+    "url_hash": 66614337563483,
+    "last_visit_date": 1758203927292200
+  }
+}

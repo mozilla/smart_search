@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Hallmark Gold Crown Stores | Illinois Store Locations: Illinois Hallmark Gold Crown Stores | Illinois Find a store Use current location Addison Algonquin Alton Arlington Heights Batavia Beecher Belleville Bloomingdale Bloomington Bolingbrook Carol Stream Champaign Chicago Chicago Ridge Chillicothe Clarendon Hills Collinsville Columbia C",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Hallmark Gold Crown store locations in Illinois, which is unrelated to IDEs or software development.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Hallmark Gold Crown Stores | Illinois Store Locations: Illinois Hallmark Gold Crown Stores | Illinois Find a store Use current location Addison Algonquin Alton Arlington Heights Batavia Beecher Belleville Bloomingdale Bloomington Bolingbrook Carol Stream Champaign Chicago Chicago Ridge Chillicothe Clarendon Hills Collinsville Columbia C",
+  "history": {
+    "url": "https://stores.hallmark.com/il/",
+    "title": "Hallmark Gold Crown Stores | Illinois",
+    "description": "Store Locations: Illinois Hallmark Gold Crown Stores | Illinois Find a store Use current location Addison Algonquin Alton Arlington Heights Batavia Beecher Belleville Bloomingdale Bloomington Bolingbrook Carol Stream Champaign Chicago Chicago Ridge Chillicothe Clarendon Hills Collinsville Columbia C",
+    "frecency": 4029,
+    "url_hash": 31916486738837,
+    "last_visit_date": 1758203928916111
+  }
+}

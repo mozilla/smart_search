@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "STEP File Format \\\"File Extension STEP File Format Standardized graphic exchange format STEP is a standardized graphic exchange file format. Here`s an explanation from Wikipedia`s entry for ISO 10303: ISO 10303 is an ISO standard for the computer-interpretable representation and exchange of product manufacturing info",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses STEP file format and ISO 10303, which is unrelated to database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "STEP File Format \"File Extension STEP File Format Standardized graphic exchange format STEP is a standardized graphic exchange file format. Here`s an explanation from Wikipedia`s entry for ISO 10303: ISO 10303 is an ISO standard for the computer-interpretable representation and exchange of product manufacturing info",
+  "history": {
+    "url": "http://whatis.techtarget.com/fileformat/STEP-Standardized-graphic-exchange-format",
+    "title": "STEP File Format",
+    "description": "\"File Extension STEP File Format Standardized graphic exchange format STEP is a standardized graphic exchange file format. Here`s an explanation from Wikipedia`s entry for ISO 10303: ISO 10303 is an ISO standard for the computer-interpretable representation and exchange of product manufacturing info",
+    "frecency": 3366,
+    "url_hash": 34450278636123,
+    "last_visit_date": 1758203928418200
+  }
+}

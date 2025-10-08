@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Sensor \\\"From Wikipedia, the free encyclopedianavigation search For other uses, see Sensor (disambiguation). \\\"Sensors\\\" redirects here. For other uses, see Sensors (disambiguation). \\\"Detector\\\" redirects here. For detector circuits in radio and other signal-related electronics, see Detector (radio). This",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses sensors and disambiguation pages, unrelated to Python libraries or machine learning topics.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Sensor \"From Wikipedia, the free encyclopedianavigation search For other uses, see Sensor (disambiguation). \"\"Sensors\"\" redirects here. For other uses, see Sensors (disambiguation). \"\"Detector\"\" redirects here. For detector circuits in radio and other signal-related electronics, see Detector (radio). This",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Sensor",
+    "title": "Sensor",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search For other uses, see Sensor (disambiguation). \"\"Sensors\"\" redirects here. For other uses, see Sensors (disambiguation). \"\"Detector\"\" redirects here. For detector circuits in radio and other signal-related electronics, see Detector (radio). This ",
+    "frecency": 3214,
+    "url_hash": 15482110409325,
+    "last_visit_date": 1758203927336200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "Explore Bar Cart, Cocktail Recipes, and more!",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result appears to be about bar carts and cocktail recipes, not about TikTok trends for 2024; thus not relevant.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "Explore Bar Cart, Cocktail Recipes, and more!",
+  "history": {
+    "url": "https://www.pinterest.com/pin/60587557459141420/",
+    "title": "Explore Bar Cart, Cocktail Recipes, and more!",
+    "description": "",
+    "frecency": 4617,
+    "url_hash": 39905851280213,
+    "last_visit_date": 1758203927502735
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "select.surnames4.website \"Select Barrett Surname Genealogy Barrett origins are unclear. One line of thinking is that the word was derived from the Old French barat and barater meaning \\\"commerce\\\" or \\\"dealings\\\" and described a market trader; or possibly it could have been a nickname for someone quarrelsome. Alternative sugges",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns surname genealogy rather than debugging API integration; it does not address API debugging or integration topics.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "select.surnames4.website \"Select Barrett Surname Genealogy Barrett origins are unclear. One line of thinking is that the word was derived from the Old French barat and barater meaning \u201ccommerce\u201d or \u201cdealings\u201d and described a market trader; or possibly it could have been a nickname for someone quarrelsome. Alternative sugges",
+  "history": {
+    "url": "http://www.selectsurnames4.com/barrett.html",
+    "title": "select.surnames4.website",
+    "description": "\"Select Barrett Surname Genealogy Barrett origins are unclear. One line of thinking is that the word was derived from the Old French barat and barater meaning \u201ccommerce\u201d or \u201cdealings\u201d and described a market trader; or possibly it could have been a nickname for someone quarrelsome. Alternative sugges",
+    "frecency": 1402,
+    "url_hash": 36487319352697,
+    "last_visit_date": 1758203929600111
+  }
+}

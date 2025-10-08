@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Test Grade Percentage Calculator Test Grade Percentage Calculator This calculator requires the use of Javascript enabled and capable browsers. This script simply tells you the percentage and test grade earned on a test. Input the points possible and the points given. The grade percentage is calculated by dividing the earned points",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a grade calculator, which is unrelated to Docker or Docker setup concepts; therefore it is not relevant to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Test Grade Percentage Calculator Test Grade Percentage Calculator This calculator requires the use of Javascript enabled and capable browsers. This script simply tells you the percentage and test grade earned on a test. Input the points possible and the points given. The grade percentage is calculated by dividing the earned points",
+  "history": {
+    "url": "http://www.csgnetwork.com/test_grade_percentage_calculator.html",
+    "title": "Test Grade Percentage Calculator",
+    "description": "Test Grade Percentage Calculator This calculator requires the use of Javascript enabled and capable browsers. This script simply tells you the percentage and test grade earned on a test. Input the points possible and the points given. The grade percentage is calculated by dividing the earned points ",
+    "frecency": 3754,
+    "url_hash": 67846584887187,
+    "last_visit_date": 1758203929660111
+  }
+}

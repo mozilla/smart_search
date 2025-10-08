@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Business Legal Forms Business Legal Forms Rocket Lawyer offers hundreds of legal forms that cover a range of business legal needs. Click on any document name for more information. All by category Business/Corporate Construction Contracts/Agreements Credit Employment Financial General Business Government Letters Landlord",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns legal forms and Rocket Lawyer, not IDEs or software development topics, and is not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Business Legal Forms Business Legal Forms Rocket Lawyer offers hundreds of legal forms that cover a range of business legal needs. Click on any document name for more information. All by category Business/Corporate Construction Contracts/Agreements Credit Employment Financial General Business Government Letters Landlord",
+  "history": {
+    "url": "https://www.rocketlawyer.com/legal-forms-business.rl",
+    "title": "Business Legal Forms",
+    "description": "Business Legal Forms Rocket Lawyer offers hundreds of legal forms that cover a range of business legal needs. Click on any document name for more information. All by category Business/Corporate Construction Contracts/Agreements Credit Employment Financial General Business Government Letters Landlord",
+    "frecency": 3506,
+    "url_hash": 10169134570675,
+    "last_visit_date": 1758203929044200
+  }
+}

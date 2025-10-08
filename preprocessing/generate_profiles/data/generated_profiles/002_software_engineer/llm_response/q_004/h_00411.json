@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Updating firmware on Dell PowerEdge R710 Updating firmware on Dell Power Edge R710Introduction Updating firmware used to be an uncomplicated, albeit slightly dangerous process. Unfortunately, as the server hardware developed over time, it did not become any simpler, but rather evolved into even more of an arcane rite. Moreover, it seems th",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses firmware updates for Dell PowerEdge servers, which is unrelated to Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Updating firmware on Dell PowerEdge R710 Updating firmware on Dell Power Edge R710Introduction Updating firmware used to be an uncomplicated, albeit slightly dangerous process. Unfortunately, as the server hardware developed over time, it did not become any simpler, but rather evolved into even more of an arcane rite. Moreover, it seems th",
+  "history": {
+    "url": "http://yury.zaytsev.net/press/2011/06/04/dell-poweredge-r710-firmware.html",
+    "title": "Updating firmware on Dell PowerEdge R710",
+    "description": "Updating firmware on Dell Power Edge R710Introduction Updating firmware used to be an uncomplicated, albeit slightly dangerous process. Unfortunately, as the server hardware developed over time, it did not become any simpler, but rather evolved into even more of an arcane rite. Moreover, it seems th",
+    "frecency": 4297,
+    "url_hash": 73999272459107,
+    "last_visit_date": 1758203927348111
+  }
+}

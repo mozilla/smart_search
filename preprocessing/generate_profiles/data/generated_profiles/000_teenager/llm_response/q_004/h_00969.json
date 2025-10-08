@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "1. Wyoming 1 of 10Wyoming1 of 10Wyoming is the best state to retire in, according to a list from Bankrate. The group ranked all 50 states based on weather, cost of living, crime, quality of health care, state and local taxes, and general well-being. Wyoming is at the top largely because it has the lowest tax rate",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Wyoming's retirement and taxes, not information about improving athletic performance or sports skills.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "1. Wyoming 1. Wyoming1 of 10Wyoming is the best state to retire in, according to a list from Bankrate. The group ranked all 50 states based on weather, cost of living, crime, quality of health care, state and local taxes, and general well-being. Wyoming is at the top largely because it has the lowest tax rate",
+  "history": {
+    "url": "http://money.cnn.com/gallery/retirement/2015/03/23/best-states-retirement/index.html",
+    "title": "1. Wyoming",
+    "description": "1. Wyoming1 of 10Wyoming is the best state to retire in, according to a list from Bankrate. The group ranked all 50 states based on weather, cost of living, crime, quality of health care, state and local taxes, and general well-being. Wyoming is at the top largely because it has the lowest tax rate ",
+    "frecency": 716,
+    "url_hash": 70633085318237,
+    "last_visit_date": 1758203927255139
+  }
+}

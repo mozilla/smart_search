@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "BB&T Merchant Services BB&T Merchant Services Request a Quote Get Started For over 40 years, BB&T Merchant Services has been processing payments for businesses like yours with safety and soundness. With more payment options than ever to consider, we have the expertise to provide you with the latest solutions to fit your u",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result pertains to BB&T Merchant Services and payment processing, not Docker or beginner setup topics.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "BB&T Merchant Services BB&T Merchant Services Request a Quote Get Started For over 40 years, BB&T Merchant Services has been processing payments for businesses like yours with safety and soundness. With more payment options than ever to consider, we have the expertise to provide you with the latest solutions to fit your u",
+  "history": {
+    "url": "https://www.bbt.com/business/banking/merchant-services/default.page",
+    "title": "BB&T Merchant Services",
+    "description": "BB&T Merchant Services Request a Quote Get Started For over 40 years, BB&T Merchant Services has been processing payments for businesses like yours with safety and soundness. With more payment options than ever to consider, we have the expertise to provide you with the latest solutions to fit your u",
+    "frecency": 784,
+    "url_hash": 89887831647685,
+    "last_visit_date": 1758203928372111
+  }
+}

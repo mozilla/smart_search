@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Make Every Moment Sparkle Sparkling Mineral Water View Products Sparkling Spring Water View Products Crystal Geyser Create a Celebration Crystal Geyser Sparkling Water elevates everyday experiences to meaningful moments. We believe that life is about creating special moments with the ones we love, and celebrating them every",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about sparkling water products and branding rather than content about improving sports performance or athletic skills.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Make Every Moment Sparkle Sparkling Mineral Water View Products Sparkling Spring Water View Products Crystal Geyser Create a Celebration Crystal Geyser Sparkling Water elevates everyday experiences to meaningful moments. We believe that life is about creating special moments with the ones we love, and celebrating them every",
+  "history": {
+    "url": "http://www.crystalgeyser.com/",
+    "title": "Make Every Moment Sparkle",
+    "description": "Sparkling Mineral Water View Products Sparkling Spring Water View Products Crystal Geyser Create a Celebration Crystal Geyser Sparkling Water elevates everyday experiences to meaningful moments. We believe that life is about creating special moments with the ones we love, and celebrating them every ",
+    "frecency": 4280,
+    "url_hash": 63481051129791,
+    "last_visit_date": 1758203933919228
+  }
+}

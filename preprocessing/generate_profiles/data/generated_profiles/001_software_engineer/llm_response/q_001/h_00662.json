@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Brian Bemis Toyota Brian Bemis Toyota1890 Sycamore Road, De Kalb, IL 60115Today's Hours 7:30 AM to 8:00 PMPhone Number Sales (815) 748-7300Service (815) 748-7300Contact Dealer Get Directions Dealer Website Dealer Details Anderson Toyota4100 N. Perryville Road, Loves Park, IL 61111Today's Hours 7:30 AM to 9:00 PMPhone",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes car dealerships and contact details, not Python libraries or machine learning topics.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Brian Bemis Toyota Brian Bemis Toyota1890 Sycamore Road, De Kalb, IL 60115Today's Hours 7:30 AM to 8:00 PMPhone Number Sales (815) 748-7300Service (815) 748-7300Contact Dealer Get Directions Dealer Website Dealer Details Anderson Toyota4100 N. Perryville Road, Loves Park, IL 61111Today's Hours 7:30 AM to 9:00 PMPhone",
+  "history": {
+    "url": "https://www.toyota.com/dealers/Illinois/Kingston/dealers",
+    "title": "Brian Bemis Toyota",
+    "description": "Brian Bemis Toyota1890 Sycamore Road, De Kalb, IL 60115Today's Hours 7:30 AM to 8:00 PMPhone Number Sales (815) 748-7300Service (815) 748-7300Contact Dealer Get Directions Dealer Website Dealer Details Anderson Toyota4100 N. Perryville Road, Loves Park, IL 61111Today's Hours 7:30 AM to 9:00 PMPhone ",
+    "frecency": 2747,
+    "url_hash": 54594734576703,
+    "last_visit_date": 1758203927468200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Monitor Deadlock in SQL 2012 \\\"Monitor Deadlock in SQL 2012jamesxu98918 Posted on 12 August 2012 Comments Briefcase Print Do you still use trace flag 1204 and 1222 to monitor Deadlock? or using profile to capture deadlock? Now we are in SQL Server 2012! One of the biggest improvement of SQL 2012 is Extended Events. Extended Even",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses monitoring and debugging deadlocks in SQL Server 2012, not API integration debugging.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Monitor Deadlock in SQL 2012 \"Monitor Deadlock in SQL 2012jamesxu98918 Posted on 12 August 2012 Comments Briefcase Print Do you still use trace flag 1204 and 1222 to monitor Deadlock? or using profile to capture deadlock? Now we are in SQL Server 2012! One of the biggest improvement of SQL 2012 is Extended Events. Extended Even",
+  "history": {
+    "url": "http://www.sqlservercentral.com/blogs/james-sql-footprint/2012/08/12/monitor-deadlock-in-sql-2012/",
+    "title": "Monitor Deadlock in SQL 2012",
+    "description": "\"Monitor Deadlock in SQL 2012jamesxu98918 Posted on 12 August 2012 Comments Briefcase Print Do you still use trace flag 1204 and 1222 to monitor Deadlock? or using profile to capture deadlock? Now we are in SQL Server 2012! One of the biggest improvement of SQL 2012 is Extended Events. Extended Even",
+    "frecency": 3979,
+    "url_hash": 84398824472950,
+    "last_visit_date": 1758203929350200
+  }
+}

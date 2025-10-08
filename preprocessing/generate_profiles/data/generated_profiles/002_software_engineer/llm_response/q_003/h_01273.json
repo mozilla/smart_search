@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "How Job Candidates Can Prepare For Employment Tests \"How Job Candidates Can Prepare For Employment Tests Have you applied for a job and been asked to take a pre-employment test? It may seem intimidating, but there's no reason to stress! Whether you're taking an aptitude test, personality test, or skills test, there are a couple of steps you can take",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses preparation for employment tests, not database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "How Job Candidates Can Prepare For Employment Tests \"How Job Candidates Can Prepare For Employment Tests Have you applied for a job and been asked to take a pre-employment test? It may seem intimidating, but there's no reason to stress! Whether you're taking an aptitude test, personality test, or skills test, there are a couple of steps you can take",
+  "history": {
+    "url": "https://www.criteriacorp.com/resources/candidates.php",
+    "title": "How Job Candidates Can Prepare For Employment Tests",
+    "description": "\"How Job Candidates Can Prepare For Employment Tests Have you applied for a job and been asked to take a pre-employment test? It may seem intimidating, but there's no reason to stress! Whether you're taking an aptitude test, personality test, or skills test, there are a couple of steps you can take ",
+    "frecency": 2712,
+    "url_hash": 48312444009406,
+    "last_visit_date": 1758203928938111
+  }
+}

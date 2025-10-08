@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "A brief history of Android phones \\\"Mobile A brief history of Android phones Three years ago, the Android OS was just a buzzword. But quite a few handsets later, it's a powerful force. CNET takes a look back at all the Android goodness that has come.by Kent German August 2, 2011 5:30 PM PDTAlmost three years after the birth of the T-",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Android devices, not Python libraries or machine learning; it is not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "A brief history of Android phones \"Mobile A brief history of Android phones Three years ago, the Android OS was just a buzzword. But quite a few handsets later, it's a powerful force. CNET takes a look back at all the Android goodness that has come.by Kent German August 2, 2011 5:30 PM PDTAlmost three years after the birth of the T-",
+  "history": {
+    "url": "https://www.cnet.com/news/a-brief-history-of-android-phones/",
+    "title": "A brief history of Android phones",
+    "description": "\"Mobile A brief history of Android phones Three years ago, the Android OS was just a buzzword. But quite a few handsets later, it's a powerful force. CNET takes a look back at all the Android goodness that has come.by Kent German August 2, 2011 5:30 PM PDTAlmost three years after the birth of the T-",
+    "frecency": 980,
+    "url_hash": 4524877911903,
+    "last_visit_date": 1758203928518200
+  }
+}

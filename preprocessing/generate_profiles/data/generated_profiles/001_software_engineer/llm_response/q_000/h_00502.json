@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Pros & Cons to Being a Hospital Administrator \"Pros & Cons to Being a Hospital Administrator by Luke Arthur; Updated September 26, 2017 The job of a hospital administrator involves overseeing the day-to-day operations of a hospital and working with employees at every level of the business. Each day is different for the hospital administrator and",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about hospital administration, not API debugging or API integration; it does not address the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Pros & Cons to Being a Hospital Administrator \"Pros & Cons to Being a Hospital Administratorby Luke Arthur; Updated September 26, 2017The job of a hospital administrator involves overseeing the day-to-day operations of a hospital and working with employees at every level of the business. Each day is different for the hospital administrator and",
+  "history": {
+    "url": "http://www.ehow.com/info_8646903_much-hospital-unit-secretary-earn.html",
+    "title": "Pros & Cons to Being a Hospital Administrator",
+    "description": "\"Pros & Cons to Being a Hospital Administratorby Luke Arthur; Updated September 26, 2017The job of a hospital administrator involves overseeing the day-to-day operations of a hospital and working with employees at every level of the business. Each day is different for the hospital administrator and ",
+    "frecency": 3266,
+    "url_hash": 67193440409009,
+    "last_visit_date": 1758203927596200
+  }
+}

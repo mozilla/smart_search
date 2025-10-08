@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Free Teacher Resources Discovery Education offers a broad range of free classroom resources that complement and extend learning beyond the bell. Foster deeper engagement and opportunities for students to take charge of their own learning with high quality, engaging, relevant tools designed for today\u2019s busy teachers and pa",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes teacher resources from Discovery Education, not content about Docker or beginner setup; relevance to 'Docker setup for beginners' is negligible.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Free Teacher Resources Discovery Education offers a broad range of free classroom resources that complement and extend learning beyond the bell. Foster deeper engagement and opportunities for students to take charge of their own learning with high quality, engaging, relevant tools designed for today\u2019s busy teachers and pa",
+  "history": {
+    "url": "http://school.discoveryeducation.com/lessonplans/programs/BP_openocean/",
+    "title": "Free Teacher Resources",
+    "description": "Discovery Education offers a broad range of free classroom resources that complement and extend learning beyond the bell. Foster deeper engagement and opportunities for students to take charge of their own learning with high quality, engaging, relevant tools designed for today\u2019s busy teachers and pa",
+    "frecency": 4725,
+    "url_hash": 47809753565805,
+    "last_visit_date": 1758203926928200
+  }
+}

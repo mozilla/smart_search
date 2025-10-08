@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Diabetes and Travel \\\"Diabetes and Travel You are here: Home Healthy Travel Facts Diabetes and Travel Travel should be fun, safe and easy. Remember some basic rules for travelling with diabetes: Always have food at your usual time and carry an extra supply Keep as active as possible Monitor your diabetes Wear or carry i",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses diabetes and travel, not strategies or information about improving performance in sports; it is not relevant to the query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Diabetes and Travel \"Diabetes and Travel You are here: Home Healthy Travel Facts Diabetes and Travel Travel should be fun, safe and easy. Remember some basic rules for travelling with diabetes: Always have food at your usual time and carry an extra supply Keep as active as possible Monitor your diabetes Wear or carry i",
+  "history": {
+    "url": "http://www.traveldoctor.com.au/Page/Knowledge-Hub/Travel-Health-Fact-Sheets/Diabetes-and-travel",
+    "title": "Diabetes and Travel",
+    "description": "\"Diabetes and Travel You are here: Home Healthy Travel Facts Diabetes and Travel Travel should be fun, safe and easy. Remember some basic rules for travelling with diabetes: Always have food at your usual time and carry an extra supply Keep as active as possible Monitor your diabetes Wear or carry i",
+    "frecency": 2700,
+    "url_hash": 75384716994253,
+    "last_visit_date": 1758203928202735
+  }
+}

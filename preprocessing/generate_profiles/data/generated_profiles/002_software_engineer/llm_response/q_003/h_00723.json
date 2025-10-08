@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "IDisposable: What Your Mother Never Told You About Resource Deallocation \"IDisposable: What Your Mother Never Told You About Resource Deallocation Stephen Cleary, 10 Nov 2014 4.94 (153 votes)Rate this: vote 1 vote 2 vote 3 vote 4 vote 5One difficulty of the IDisposable interface overcome with the Disposable Design Principle. Introduction - Recommended Reading A lot of the",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The page discusses resource deallocation and the IDisposable interface, not database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "IDisposable: What Your Mother Never Told You About Resource Deallocation \"IDisposable: What Your Mother Never Told You About Resource Deallocation Stephen Cleary, 10 Nov 20144.94 (153 votes)Rate this: vote 1 vote 2 vote 3 vote 4 vote 5One difficulty of the IDisposable interface overcome with the Disposable Design Principle. Introduction - Recommended Reading A lot of the",
+  "history": {
+    "url": "https://www.codeproject.com/articles/29534/idisposable-what-your-mother-never-told-you-about",
+    "title": "IDisposable: What Your Mother Never Told You About Resource Deallocation",
+    "description": "\"IDisposable: What Your Mother Never Told You About Resource Deallocation Stephen Cleary, 10 Nov 20144.94 (153 votes)Rate this: vote 1 vote 2 vote 3 vote 4 vote 5One difficulty of the IDisposable interface overcome with the Disposable Design Principle. Introduction - Recommended Reading A lot of the",
+    "frecency": 3718,
+    "url_hash": 74759823854486,
+    "last_visit_date": 1758203929584111
+  }
+}

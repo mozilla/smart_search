@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Card throwing \"Card throwing From Wikipedia, the free encyclopedianavigation search Card throwing is the art of throwing standard playing cards with great accuracy and/or force. It is performed both as part of stage magic shows and as a competitive physical feat among magicians, with official records existing for\"",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about card throwing, not about DIY room decoration ideas, so it is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Card throwing \"Card throwing From Wikipedia, the free encyclopedianavigation search Card throwing is the art of throwing standard playing cards with great accuracy and/or force. It is performed both as part of stage magic shows and as a competitive physical feat among magicians, with official records existing for",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Card_throwing",
+    "title": "Card throwing",
+    "description": "\"Card throwing From Wikipedia, the free encyclopedianavigation search Card throwing is the art of throwing standard playing cards with great accuracy and/or force. It is performed both as part of stage magic shows and as a competitive physical feat among magicians, with official records existing for",
+    "frecency": 2882,
+    "url_hash": 61164841086354,
+    "last_visit_date": 1758203934303228
+  }
+}

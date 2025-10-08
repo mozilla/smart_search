@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Writing Your First VBA Function in Excel \"Writing Your First VBA Function in Excel About User Defined Functions Excel provides the user with a large collection of ready-made functions, more than enough to satisfy the average user. Many more can be added by installing the various add-ins that are available. Most calculations can be achieved",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Excel VBA functions and user-defined functions, not Docker or container setup; no relevance to the Docker for beginners query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Writing Your First VBA Function in Excel \"Writing Your First VBA Function in Excel About User Defined Functions Excel provides the user with a large collection of ready-made functions, more than enough to satisfy the average user. Many more can be added by installing the various add-ins that are available. Most calculations can be achieved",
+  "history": {
+    "url": "http://www.fontstuff.com/vba/vbatut01.htm",
+    "title": "Writing Your First VBA Function in Excel",
+    "description": "\"Writing Your First VBA Function in Excel About User Defined Functions Excel provides the user with a large collection of ready-made functions, more than enough to satisfy the average user. Many more can be added by installing the various add-ins that are available. Most calculations can be achieved",
+    "frecency": 1156,
+    "url_hash": 44103031115120,
+    "last_visit_date": 1758203930004111
+  }
+}

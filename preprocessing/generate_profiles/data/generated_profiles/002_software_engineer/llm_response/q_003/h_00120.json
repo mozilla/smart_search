@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Connecting headphones or external speakers to your Mac mini: The Mac mini has a 3.5 mm stereo audio output and a single built-in speaker. If you want to hear stereo sound, connect headphones or a pair of amplified external speakers to the audio output. When speakers or headphones are connected, the audio is output through the chosen device.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses audio output on a Mac mini, not database query optimization; it is not relevant to the search query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Connecting headphones or external speakers to your Mac mini \"Connecting headphones or external speakers to your Mac mini The Mac mini has a 3.5 mm stereo audio output and a single built-in speaker. If you want to hear stereo sound, connect headphones or a pair of amplified external speakers to the audio output. When speakers or headphones are connected, the",
+  "history": {
+    "url": "https://support.apple.com/en-us/HT201814",
+    "title": "Connecting headphones or external speakers to your Mac mini",
+    "description": "\"Connecting headphones or external speakers to your Mac mini The Mac mini has a 3.5 mm stereo audio output and a single built-in speaker. If you want to hear stereo sound, connect headphones or a pair of amplified external speakers to the audio output. When speakers or headphones are connected, the ",
+    "frecency": 4794,
+    "url_hash": 17589309079893,
+    "last_visit_date": 1758203930398111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Camping World Holdings, Inc. Stock Research - Analyst Summary \\\"Summary Recommendations EPS Earnings Surprise Forecast Momentum P/E Ratio Earnings Growth P/E & Growth Rates PEG Ratio Wall Street employs a veritable army of stock analysts who spend all of their time analyzing companies, issuing earnings guidance and providing \\\\\"Buy\\\\\" and \\\\\"Sell\\\\\" recommendations",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about stock market research and investment analysis, not Docker or container setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Camping World Holdings, Inc. Stock Research - Analyst Summary \"Summary Recommendations EPS Earnings Surprise Forecast Momentum P/E Ratio Earnings Growth P/E & Growth Rates PEG Ratio Wall Street employs a veritable army of stock analysts who spend all of their time analyzing companies, issuing earnings guidance and providing \"\"Buy\"\" and \"\"Sell\"\" recommendations",
+  "history": {
+    "url": "https://www.nasdaq.com/symbol/cwh/analyst-research",
+    "title": "Camping World Holdings, Inc. Stock Research - Analyst Summary",
+    "description": "\"Summary Recommendations EPS Earnings Surprise Forecast Momentum P/E Ratio Earnings Growth P/E & Growth Rates PEG Ratio Wall Street employs a veritable army of stock analysts who spend all of their time analyzing companies, issuing earnings guidance and providing \"\"Buy\"\" and \"\"Sell\"\" recommendations",
+    "frecency": 2545,
+    "url_hash": 22770500143453,
+    "last_visit_date": 1758203929762111
+  }
+}

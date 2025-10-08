@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Regis College \"Overview Location & Contact Majors & Degrees Admissions Tuition & Fees Student Body Campus Life Athletics Faculty Request More Info Overview Regis is a leading, Catholic university in Greater Boston with 2,000 undergraduate, graduate, and doctoral students in the arts, sciences, and health professi",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page is an overview of Regis College and not about apps or study habits; it does not discuss tools or methods for improving study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Regis College \"Overview Location & Contact Majors & Degrees Admissions Tuition & Fees Student Body Campus Life Athletics Faculty Request More Info Overview Regis is a leading, Catholic university in Greater Boston with 2,000 undergraduate, graduate, and doctoral students in the arts, sciences, and health professi",
+  "history": {
+    "url": "https://www.petersons.com/college-search/regis-college-000_10003481.aspx",
+    "title": "Regis College",
+    "description": "\"Overview Location & Contact Majors & Degrees Admissions Tuition & Fees Student Body Campus Life Athletics Faculty Request More Info Overview Regis is a leading, Catholic university in Greater Boston with 2,000 undergraduate, graduate, and doctoral students in the arts, sciences, and health professi",
+    "frecency": 1323,
+    "url_hash": 80485969012216,
+    "last_visit_date": 1758203928960735
+  }
+}

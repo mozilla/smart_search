@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "\"\"\"Doctor Faustus - FULL Audio...\"\" The YouTube account associated with this video has been terminated due to multiple third-party notifications of copyright infringement.\" \"\"\"Doctor Faustus - FULL Audio...\"\" The You Tube account associated with this video has been terminated due to multiple third-party notifications of copyright infringement. Sorry about that. \"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns Doctor Faustus audio and copyright termination, which is not related to improving sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "\"\"\"Doctor Faustus - FULL Audio...\"\" The YouTube account associated with this video has been terminated due to multiple third-party notifications of copyright infringement.\" \"\"\"Doctor Faustus - FULL Audio...\"\" The You Tube account associated with this video has been terminated due to multiple third-party notifications of copyright infringement. Sorry about that. \"",
+  "history": {
+    "url": "http://www.youtube.com/watch?v=ZF3o-svLH5o",
+    "title": "\"\"\"Doctor Faustus - FULL Audio...\"\" The YouTube account associated with this video has been terminated due to multiple third-party notifications of copyright infringement.\"",
+    "description": "\"\"\"Doctor Faustus - FULL Audio...\"\" The You Tube account associated with this video has been terminated due to multiple third-party notifications of copyright infringement. Sorry about that. \"",
+    "frecency": 3420,
+    "url_hash": 21891273830042,
+    "last_visit_date": 1758203930465228
+  }
+}

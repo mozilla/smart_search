@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Breeds Breeds The Ayrshire Breed The Ayrshire breed originated in the County of Ayr in Scotland prior to 1800, with the first importation to the U. S. around 1822. The breed is medium in size with various red and white markings. Dairymen appreciate Ayrshires because of their efficiency, udder quality, long",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns the Ayrshire cattle breed, not API debugging or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Breeds Breeds The Ayrshire Breed The Ayrshire breed originated in the County of Ayr in Scotland prior to 1800, with the first importation to the U. S. around 1822. The breed is medium in size with various red and white markings. Dairymen appreciate Ayrshires because of their efficiency, udder quality, long",
+  "history": {
+    "url": "http://www.purebreddairycattle.com/pages/Breeds.php",
+    "title": "Breeds",
+    "description": "Breeds The Ayrshire Breed The Ayrshire breed originated in the County of Ayr in Scotland prior to 1800, with the first importation to the U. S. around 1822. The breed is medium in size with various red and white markings. Dairymen appreciate Ayrshires because of their efficiency, udder quality, long",
+    "frecency": 1735,
+    "url_hash": 49750086485327,
+    "last_visit_date": 1758203927744200
+  }
+}

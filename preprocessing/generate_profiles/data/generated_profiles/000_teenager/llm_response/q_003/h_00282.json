@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Will Amazon raise the price of Prime? \\\"Amazon.com ( AMZN ), which yesterday reported disappointing earnings, is faced with a dilemma regarding Amazon Prime, its popular $79.95 per year service that gives customers free two-day shipping as well as access to video content and a library of e-books. Amazon Prime reportedly has more than 10",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Amazon Prime pricing and is not about study habit apps.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Will Amazon raise the price of Prime? \"Amazon.com ( AMZN ), which yesterday reported disappointing earnings, is faced with a dilemma regarding Amazon Prime, its popular $79.95 per year service that gives customers free two-day shipping as well as access to video content and a library of e-books. Amazon Prime reportedly has more than 10",
+  "history": {
+    "url": "https://www.cbsnews.com/news/amazons-has-a-dilemma-with-the-money-losing-yet-popular-amazon-prime-service/",
+    "title": "Will Amazon raise the price of Prime?",
+    "description": "\"Amazon.com ( AMZN ), which yesterday reported disappointing earnings, is faced with a dilemma regarding Amazon Prime, its popular $79.95 per year service that gives customers free two-day shipping as well as access to video content and a library of e-books. Amazon Prime reportedly has more than 10 ",
+    "frecency": 3790,
+    "url_hash": 9102212182851,
+    "last_visit_date": 1758203928171139
+  }
+}

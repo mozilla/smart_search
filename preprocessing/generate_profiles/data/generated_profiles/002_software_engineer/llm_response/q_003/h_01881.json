@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Researchers abuzz over caffeine as 'cancer-cell killer' \"Science News from research organizations Researchers abuzz over caffeine as 'cancer-cell killer'Date: April 18, 2013Source: University of Alberta Summary: Scientists are using caffeine and fruit flies to pinpoint genetic pathways that guide DNA repair in cancer cells. Share: FULL STORYImages showin",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses caffeine and cancer-cell biology, not database queries or optimization techniques; there is no relevance to the search query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Researchers abuzz over caffeine as 'cancer-cell killer' \"Science News from research organizations Researchers abuzz over caffeine as 'cancer-cell killer'Date: April 18, 2013Source: University of Alberta Summary: Scientists are using caffeine and fruit flies to pinpoint genetic pathways that guide DNA repair in cancer cells. Share: FULL STORYImages showin",
+  "history": {
+    "url": "https://www.sciencedaily.com/releases/2013/04/130418100150.htm",
+    "title": "Researchers abuzz over caffeine as 'cancer-cell killer'",
+    "description": "\"Science News from research organizations Researchers abuzz over caffeine as 'cancer-cell killer'Date: April 18, 2013Source: University of Alberta Summary: Scientists are using caffeine and fruit flies to pinpoint genetic pathways that guide DNA repair in cancer cells. Share: FULL STORYImages showin",
+    "frecency": 1562,
+    "url_hash": 70953782274817,
+    "last_visit_date": 1758203931920111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Specifications for Gradients Specifications for Gradients The MR sales representative is telling me about his scanner's strong gradients. How do I interpret the specification sheet? Key gradient specifications: Slew rate is defined as Peak gradient strength \u00f7 Rise time. Both spatial resolution and imaging speed depend upon good",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses MRI gradient specifications, not API integration debugging; no relevant content to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Specifications for Gradients Specifications for Gradients The MR sales representative is telling me about his scanner's strong gradients. How do I interpret the specification sheet? Key gradient specifications: Slew rate is defined as Peak gradient strength \u00f7 Rise time. Both spatial resolution and imaging speed depend upon good",
+  "history": {
+    "url": "http://mri-q.com/gradient-specifications.html",
+    "title": "Specifications for Gradients",
+    "description": "Specifications for Gradients The MR sales representative is telling me about his scanner's strong gradients. How do I interpret the specification sheet? Key gradient specifications: Slew rate is defined as Peak gradient strength \u00f7 Rise time. Both spatial resolution and imaging speed depend upon good",
+    "frecency": 1695,
+    "url_hash": 46906545110384,
+    "last_visit_date": 1758203931754111
+  }
+}

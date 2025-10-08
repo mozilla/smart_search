@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Average Temperatures for Georgia in October Average Temperatures for Georgia in October Average temperatures for October at cities, towns, and parks throughout Georgia are listed below in degrees Fahrenheit and Celsius. The tables give the normals for maximum and minimum temperatures based on weather data collected from 1981 to 2010 by the US",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns weather temperatures in Georgia, not about study apps or improving study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Average Temperatures for Georgia in October Average Temperatures for Georgia in October Average temperatures for October at cities, towns, and parks throughout Georgia are listed below in degrees Fahrenheit and Celsius. The tables give the normals for maximum and minimum temperatures based on weather data collected from 1981 to 2010 by the US",
+  "history": {
+    "url": "http://www.currentresults.com/Weather/Georgia/temperature-october.php",
+    "title": "Average Temperatures for Georgia in October",
+    "description": "Average Temperatures for Georgia in October Average temperatures for October at cities, towns, and parks throughout Georgia are listed below in degrees Fahrenheit and Celsius. The tables give the normals for maximum and minimum temperatures based on weather data collected from 1981 to 2010 by the US",
+    "frecency": 3684,
+    "url_hash": 27756457401551,
+    "last_visit_date": 1758203927426735
+  }
+}

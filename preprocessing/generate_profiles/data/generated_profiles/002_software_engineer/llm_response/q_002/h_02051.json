@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Oracle Application Framework \"Oracle Application Framework From Wikipedia, the free encyclopedianavigation search Oracle Application Framework (OA Framework or OAF) is a proprietary framework developed by Oracle Corporation for application development within the Oracle E-Business Suite (EBS). [1] The framework is also available",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes Oracle Application Framework (OA Framework) for Oracle E-Business Suite, not IDEs; therefore it is not relevant to 'top IDEs for software development'.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Oracle Application Framework \"Oracle Application Framework From Wikipedia, the free encyclopedianavigation search Oracle Application Framework (OA Framework or OAF) is a proprietary framework developed by Oracle Corporation for application development within the Oracle E-Business Suite (EBS). [1] The framework is also available",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Oracle_Application_Framework",
+    "title": "Oracle Application Framework",
+    "description": "\"Oracle Application Framework From Wikipedia, the free encyclopedianavigation search Oracle Application Framework (OA Framework or OAF) is a proprietary framework developed by Oracle Corporation for application development within the Oracle E-Business Suite (EBS). [1] The framework is also available",
+    "frecency": 1269,
+    "url_hash": 66218620080912,
+    "last_visit_date": 1758203931480111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "business business [ biz -nis]Spell Syllables Synonyms Examples Word Origin See more synonyms on Thesaurus.comnoun1. an occupation, profession, or trade: His business is poultry farming.2. the purchase and sale of goods in an attempt to make a profit.3. a person, partnership, or corporation engaged in commerc",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a dictionary entry about 'business', not about database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "business business [ biz -nis]Spell Syllables Synonyms Examples Word Origin See more synonyms on Thesaurus.comnoun1. an occupation, profession, or trade: His business is poultry farming.2. the purchase and sale of goods in an attempt to make a profit.3. a person, partnership, or corporation engaged in commerc",
+  "history": {
+    "url": "http://www.dictionary.com/browse/businesses",
+    "title": "business",
+    "description": "business [ biz -nis]Spell Syllables Synonyms Examples Word Origin See more synonyms on Thesaurus.comnoun1. an occupation, profession, or trade: His business is poultry farming.2. the purchase and sale of goods in an attempt to make a profit.3. a person, partnership, or corporation engaged in commerc",
+    "frecency": 4376,
+    "url_hash": 26859906809512,
+    "last_visit_date": 1758203930478111
+  }
+}

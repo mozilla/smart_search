@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Positives & Negatives of Joining the Military Home \u00bb Classroom Positives & Negatives of Joining the Military By Liz Frazier; Updated September 29, 2017Army enlistees recite the military's Oath of Enlistment in front of the Jefferson Memorial. Generally, most servicemembers stay in the armed services -- Army, Navy, Air Force and Marine Corps --",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses military service, not API integration or debugging; it is not relevant to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Positives & Negatives of Joining the Military Home \u00bb Classroom Positives & Negatives of Joining the Military By Liz Frazier; Updated September 29, 2017Army enlistees recite the military's Oath of Enlistment in front of the Jefferson Memorial. Generally, most servicemembers stay in the armed services -- Army, Navy, Air Force and Marine Corps --",
+  "history": {
+    "url": "http://www.ehow.com/list_6856228_pros-being-officer-navy-seals.html",
+    "title": "Positives & Negatives of Joining the Military",
+    "description": "Home \u00bb Classroom Positives & Negatives of Joining the Military By Liz Frazier; Updated September 29, 2017Army enlistees recite the military's Oath of Enlistment in front of the Jefferson Memorial. Generally, most servicemembers stay in the armed services -- Army, Navy, Air Force and Marine Corps -- ",
+    "frecency": 2975,
+    "url_hash": 93517574249883,
+    "last_visit_date": 1758203927208200
+  }
+}

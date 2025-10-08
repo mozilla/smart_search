@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Haverstraw Assessor Office Haverstraw Assessor Office Home Business, Finance, & Real Estate Offices Assessor Offices New York Rockland County Haverstraw Find Haverstraw New York assessor, assessment, auditor's, and appraiser's offices, revenue commissions, GIS, and tax equalization departments. Assessors provide information o",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about local government assessor offices, not about Python libraries or machine learning; it is not relevant to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Haverstraw Assessor Office Haverstraw Assessor Office Home Business, Finance, & Real Estate Offices Assessor Offices New York Rockland County Haverstraw Find Haverstraw New York assessor, assessment, auditor's, and appraiser's offices, revenue commissions, GIS, and tax equalization departments. Assessors provide information o",
+  "history": {
+    "url": "http://www.countyoffice.org/haverstraw-ny-assessor/",
+    "title": "Haverstraw Assessor Office",
+    "description": "Haverstraw Assessor Office Home Business, Finance, & Real Estate Offices Assessor Offices New York Rockland County Haverstraw Find Haverstraw New York assessor, assessment, auditor's, and appraiser's offices, revenue commissions, GIS, and tax equalization departments. Assessors provide information o",
+    "frecency": 1679,
+    "url_hash": 40469221369504,
+    "last_visit_date": 1758203928930200
+  }
+}

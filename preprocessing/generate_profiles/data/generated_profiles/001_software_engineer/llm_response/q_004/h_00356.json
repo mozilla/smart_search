@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Hospitality industry \"This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (September 2017) ( Learn how and when to remove this template message)The hospitality industry is a broad category of",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses the hospitality industry, not Docker or container setup. No relevant content to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Hospitality industry \"This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (September 2017) ( Learn how and when to remove this template message)The hospitality industry is a broad category of",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Hospitality_industry",
+    "title": "Hospitality industry",
+    "description": "\"This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (September 2017) ( Learn how and when to remove this template message)The hospitality industry is a broad category of",
+    "frecency": 3777,
+    "url_hash": 19378149043037,
+    "last_visit_date": 1758203927464200
+  }
+}

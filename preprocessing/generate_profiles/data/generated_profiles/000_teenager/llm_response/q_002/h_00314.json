@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "U RDUD ICTIONARY Home Urdu Dictionary U RDUD ICTIONARYFind meanings of Urdu words especially used in sher o shayari. Please type the word in search box to get its meaning.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is an Urdu dictionary page and does not pertain to DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "U RDUD ICTIONARY Home Urdu Dictionary U RDUD ICTIONARYFind meanings of Urdu words especially used in sher o shayari. Please type the word in search box to get its meaning.",
+  "history": {
+    "url": "https://rekhta.org/urdudictionary",
+    "title": "U RDUD ICTIONARY",
+    "description": "Home Urdu Dictionary U RDUD ICTIONARYFind meanings of Urdu words especially used in sher o shayari. Please type the word in search box to get its meaning. ",
+    "frecency": 3661,
+    "url_hash": 72492762650996,
+    "last_visit_date": 1758203926783139
+  }
+}

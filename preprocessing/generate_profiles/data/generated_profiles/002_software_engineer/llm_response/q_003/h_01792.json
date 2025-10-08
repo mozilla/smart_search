@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Why do Internal Medicine doctors make so little? \"Science & Mathematics Medicine Why do Internal Medicine doctors make so little? I read on wiki answers that Internal medicine makes only about 150,000. Sure, that's not that little, but I also read that doctors specialized in Anesthesiology make about double. Isn't that kind of strange? What exactl",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about salaries in medicine, not about database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Why do Internal Medicine doctors make so little? \"Science & Mathematics Medicine Why do Internal Medicine doctors make so little? I read on wiki answers that Internal medicine makes only about 150,000. Sure, that's not that little, but I also read that doctors specialized in Anesthesiology make about double. Isn't that kind of strange? What exactl",
+  "history": {
+    "url": "https://answers.yahoo.com/question/index?qid=20080701103610AAPCI3I",
+    "title": "Why do Internal Medicine doctors make so little?",
+    "description": "\"Science & Mathematics Medicine Why do Internal Medicine doctors make so little? I read on wiki answers that Internal medicine makes only about 150,000. Sure, that's not that little, but I also read that doctors specialized in Anesthesiology make about double. Isn't that kind of strange? What exactl",
+    "frecency": 1745,
+    "url_hash": 96286510481673,
+    "last_visit_date": 1758203930602111
+  }
+}

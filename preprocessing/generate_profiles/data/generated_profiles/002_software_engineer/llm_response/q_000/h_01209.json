@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "How can I tell whether my wireless network is secure? For Windows 10From the Start menu, select Settings. Click Network & Internet. Click Network and Sharing Center. In the Connections section, click Wi-Fi. Click Wireless Properties. Click the Security tab. If the Security type is something such as WPA2, your network is secured. If the Security type is",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses wireless network security settings, not API integration or debugging APIs.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "How can I tell whether my wireless network is secure? For Windows 10From the Start menu, select Settings. Click Network & Internet. Click Network and Sharing Center. In the Connections section, click Wi-Fi. Click Wireless Properties. Click the Security tab. If the Security type is something such as WPA2, your network is secured. If the Security type is",
+  "history": {
+    "url": "http://support.brighthouse.com/Article/Determine-If-Wireless-Network-Is-Secure-9793/",
+    "title": "How can I tell whether my wireless network is secure?",
+    "description": "For Windows 10From the Start menu, select Settings. Click Network & Internet. Click Network and Sharing Center. In the Connections section, click Wi-Fi. Click Wireless Properties. Click the Security tab. If the Security type is something such as WPA2, your network is secured. If the Security type is",
+    "frecency": 2842,
+    "url_hash": 93939231743329,
+    "last_visit_date": 1758203927456111
+  }
+}

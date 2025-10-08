@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Recording Locations United Through Reading has more than 200 recording locations around the world including commands/units, ships, airports, and USO host sites. Click here for a list of our Current Program Locations which is updated each month. For questions about our locations please contact military@utr.org. Request",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses recording locations and USO host sites, unrelated to Docker or setup topics.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Recording Locations United Through Reading has more than 200 recording locations around the world including commands/units, ships, airports, and USO host sites. Click here for a list of our Current Program Locations which is updated each month. For questions about our locations please contact military@utr.org. Request",
+  "history": {
+    "url": "http://www.unitedthroughreading.org/military-program/utr-recording-locations/",
+    "title": "Recording Locations",
+    "description": "United Through Reading has more than 200 recording locations around the world including commands/units, ships, airports, and USO host sites. Click here for a list of our Current Program Locations which is updated each month. For questions about our locations please contact military@utr.org. Request ",
+    "frecency": 3200,
+    "url_hash": 75815226049884,
+    "last_visit_date": 1758203931342111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Parainfluenza \"Parainfluenza Intro Symptoms Types Causes Tests Treatment Prevention Misdiagnosis Videos Must Reads in Health Protecting Your Skin During Winter Watch: My Personal Psoriasis Journey Are You Getting The Best Cancer Care? Keeping An Active Lifestyle With COPD Liver Disease? Find a Doc Who Treats PBCAr",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result content is health topics unrelated to improving sports performance; no sports training guidance or sports-focused content was present.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Parainfluenza \"Parainfluenza Intro Symptoms Types Causes Tests Treatment Prevention Misdiagnosis Videos Must Reads in Health Protecting Your Skin During Winter Watch: My Personal Psoriasis Journey Are You Getting The Best Cancer Care? Keeping An Active Lifestyle With COPDLiver Disease? Find a Doc Who Treats PBCAr",
+  "history": {
+    "url": "http://www.rightdiagnosis.com/p/parainfluenza/intro.htm",
+    "title": "Parainfluenza",
+    "description": "\"Parainfluenza Intro Symptoms Types Causes Tests Treatment Prevention Misdiagnosis Videos Must Reads in Health Protecting Your Skin During Winter Watch: My Personal Psoriasis Journey Are You Getting The Best Cancer Care? Keeping An Active Lifestyle With COPDLiver Disease? Find a Doc Who Treats PBCAr",
+    "frecency": 3309,
+    "url_hash": 99972152633223,
+    "last_visit_date": 1758203936253228
+  }
+}

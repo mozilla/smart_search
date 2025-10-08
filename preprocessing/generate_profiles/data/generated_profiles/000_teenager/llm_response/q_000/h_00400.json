@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Map of Morgan Hill Hotels Morgan Hill Morgan Hill Tourism Morgan Hill Hotels Vacation Rentals Morgan Hill Vacation Packages Morgan Hill Hotel Deals Restaurants Things to Do Travel Forum Photos & Videos Map Travel Guide Refine search Price per night All (13)$75 - $125 (8)$125 - $200 (12)$200+ (5)Traveler rating All (13) (0) (",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a map/travel page about Morgan Hill hotels and tourism, not related to starting a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Map of Morgan Hill Hotels Morgan Hill Morgan Hill Tourism Morgan Hill Hotels Vacation Rentals Morgan Hill Vacation Packages Morgan Hill Hotel Deals Restaurants Things to Do Travel Forum Photos & Videos Map Travel Guide Refine search Price per night All (13)$75 - $125 (8)$125 - $200 (12)$200+ (5)Traveler rating All (13) (0) (",
+  "history": {
+    "url": "https://www.tripadvisor.com/LocalMaps-g32744-Morgan_Hill-Area.html",
+    "title": "Map of Morgan Hill Hotels",
+    "description": "Morgan Hill Morgan Hill Tourism Morgan Hill Hotels Vacation Rentals Morgan Hill Vacation Packages Morgan Hill Hotel Deals Restaurants Things to Do Travel Forum Photos & Videos Map Travel Guide Refine search Price per night All (13)$75 - $125 (8)$125 - $200 (12)$200+ (5)Traveler rating All (13) (0) (",
+    "frecency": 3255,
+    "url_hash": 94221924566071,
+    "last_visit_date": 1758203927397139
+  }
+}

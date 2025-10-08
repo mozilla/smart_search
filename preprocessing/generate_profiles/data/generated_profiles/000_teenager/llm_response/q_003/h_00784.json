@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "We proudly serve Military Members and Their Families INSURANCE | BANKING | INVESTMENTS | RETIREMENTWe proudly serve Military Members and Their Families Since 1922, we have stood by our members. We've provided years of guidance and assistance \u2014 from helping establish financial independence, to raising a family, to retirement. Who We Serve Join Now",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result pertains to military financial services and does not discuss study apps or strategies to improve study habits; it is not relevant to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "We proudly serve Military Members and Their Families INSURANCE | BANKING | INVESTMENTS | RETIREMENTWe proudly serve Military Members and Their Families Since 1922, we have stood by our members. We've provided years of guidance and assistance \u2014 from helping establish financial independence, to raising a family, to retirement. Who We Serve Join Now",
+  "history": {
+    "url": "https://www.usaa.com/inet/pages/financial_pnc_help",
+    "title": "We proudly serve Military Members and Their Families",
+    "description": "INSURANCE | BANKING | INVESTMENTS | RETIREMENTWe proudly serve Military Members and Their Families Since 1922, we have stood by our members. We've provided years of guidance and assistance \u2014 from helping establish financial independence, to raising a family, to retirement. Who We Serve Join Now ",
+    "frecency": 1610,
+    "url_hash": 1664182948337,
+    "last_visit_date": 1758203928081139
+  }
+}

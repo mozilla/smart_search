@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Getting Started Rock Climbing \"If you\u2019re looking for fitness, fun and a healthy dose of adrenaline, then rock climbing is a worthy pursuit. Though it attracts its share of daredevils, rock climbing is also enjoyed by legions of everyday adventurers. If you\u2019re reasonably fit and get yourself proper equipment and instruction, you,\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses rock climbing, not content or guidance about starting a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Getting Started Rock Climbing \"If you\u2019re looking for fitness, fun and a healthy dose of adrenaline, then rock climbing is a worthy pursuit. Though it attracts its share of daredevils, rock climbing is also enjoyed by legions of everyday adventurers. If you\u2019re reasonably fit and get yourself proper equipment and instruction, you,",
+  "history": {
+    "url": "https://www.rei.com/learn/expert-advice/getting-started-rock-climbing.html",
+    "title": "Getting Started Rock Climbing",
+    "description": "\"If you\u2019re looking for fitness, fun and a healthy dose of adrenaline, then rock climbing is a worthy pursuit. Though it attracts its share of daredevils, rock climbing is also enjoyed by legions of everyday adventurers. If you\u2019re reasonably fit and get yourself proper equipment and instruction, you,",
+    "frecency": 2322,
+    "url_hash": 98354637480469,
+    "last_visit_date": 1758203928040735
+  }
+}

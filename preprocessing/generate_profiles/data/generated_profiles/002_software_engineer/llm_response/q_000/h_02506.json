@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Attack Vector Attack Vector Definition - What does Attack Vectormean? An attack vector is defined as the technique by means of which unauthorized access can be gained to a device or a network by hackers for nefarious purposes. In other words, it is used for assaulting or exploiting a network, computer or device.",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses attack vectors in cybersecurity, not guidance or information on debugging API integrations.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Attack Vector Attack Vector Definition - What does Attack Vectormean? An attack vector is defined as the technique by means of which unauthorized access can be gained to a device or a network by hackers for nefarious purposes. In other words, it is used for assaulting or exploiting a network, computer or device.",
+  "history": {
+    "url": "https://www.techopedia.com/definition/15793/attack-vector",
+    "title": "Attack Vector",
+    "description": "Attack Vector Definition - What does Attack Vectormean? An attack vector is defined as the technique by means of which unauthorized access can be gained to a device or a network by hackers for nefarious purposes. In other words, it is used for assaulting or exploiting a network, computer or device. ",
+    "frecency": 475,
+    "url_hash": 18503027933716,
+    "last_visit_date": 1758203930230111
+  }
+}

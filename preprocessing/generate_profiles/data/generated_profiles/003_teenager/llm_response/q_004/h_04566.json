@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "\u00e2Vikings\u00e2 Renewed for Fourth Season on History Channel \u201cVikings\u201d will return for a fourth season on the History Channel, the network\u2019s EVP and general manager, Dirk Hoogstra, announced on Thursday. Five new episodes remain in the current season airing Thursdays, and the finale will air Apr. 23 in its regular 10 p.m. time slot. Production on the new seas",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The result is about a TV show (Vikings) on History Channel, not about improving sports performance or training; it does not address the query.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "\u00e2Vikings\u00e2 Renewed for Fourth Season on History Channel \u201cVikings\u201d will return for a fourth season on the History Channel, the network\u2019s EVP and general manager, Dirk Hoogstra, announced on Thursday. Five new episodes remain in the current season airing Thursdays, and the finale will air Apr. 23 in its regular 10 p.m. time slot. Production on the new seas",
+  "history": {
+    "url": "http://www.thewrap.com/vikings-renewed-for-fourth-season-on-history-channel/",
+    "title": "\u00e2Vikings\u00e2 Renewed for Fourth Season on History Channel",
+    "description": "\u201cVikings\u201d will return for a fourth season on the History Channel, the network\u2019s EVP and general manager, Dirk Hoogstra, announced on Thursday. Five new episodes remain in the current season airing Thursdays, and the finale will air Apr. 23 in its regular 10 p.m. time slot. Production on the new seas",
+    "frecency": 267,
+    "url_hash": 57686458352349,
+    "last_visit_date": 1758203931725228
+  }
+}

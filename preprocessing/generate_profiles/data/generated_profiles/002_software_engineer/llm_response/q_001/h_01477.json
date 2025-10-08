@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Johannesburg Landmarks and Monuments Johannesburg Landmarks and Monuments (Johannesburg, Gauteng, South Africa)A skyline of skyscrapers are amongst the main landmarks in the centre of Johannesburg. Harking back to the city centre's former role as the hub of the city's business sector, Hillbrow Tower, Sentech Tower and Carlton Centre st",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page is about Johannesburg landmarks and monuments, not about Python libraries or machine learning. It has no relevance to the query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Johannesburg Landmarks and Monuments Johannesburg Landmarks and Monuments (Johannesburg, Gauteng, South Africa)A skyline of skyscrapers are amongst the main landmarks in the centre of Johannesburg. Harking back to the city centre's former role as the hub of the city's business sector, Hillbrow Tower, Sentech Tower and Carlton Centre st",
+  "history": {
+    "url": "http://www.world-guides.com/africa/south-africa/gauteng/johannesburg/johannesburg_landmarks.html",
+    "title": "Johannesburg Landmarks and Monuments",
+    "description": "Johannesburg Landmarks and Monuments (Johannesburg, Gauteng, South Africa)A skyline of skyscrapers are amongst the main landmarks in the centre of Johannesburg. Harking back to the city centre's former role as the hub of the city's business sector, Hillbrow Tower, Sentech Tower and Carlton Centre st",
+    "frecency": 2322,
+    "url_hash": 18672507402945,
+    "last_visit_date": 1758203928534111
+  }
+}

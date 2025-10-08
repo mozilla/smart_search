@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Neck swelling - health articles covering neck swelling, types, causes, tests, treatment, symptom checker, and other health topics (psoriasis journey, cancer care, COPD, etc.).",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is health/medical content unrelated to apps or study habits; thus not relevant.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Neck swelling \"Neck swelling Intro Types Causes Tests Treatment Symptom Checker Checklist Misdiagnosis Deaths Must Reads in Health Protecting Your Skin During Winter Watch: My Personal Psoriasis Journey Are You Getting The Best Cancer Care? Keeping An Active Lifestyle With COPDLiver Disease? Find a Doc Who Treats",
+  "history": {
+    "url": "http://www.rightdiagnosis.com/sym/neck_swelling.htm",
+    "title": "Neck swelling",
+    "description": "\"Neck swelling Intro Types Causes Tests Treatment Symptom Checker Checklist Misdiagnosis Deaths Must Reads in Health Protecting Your Skin During Winter Watch: My Personal Psoriasis Journey Are You Getting The Best Cancer Care? Keeping An Active Lifestyle With COPDLiver Disease? Find a Doc Who Treats",
+    "frecency": 985,
+    "url_hash": 41265845803827,
+    "last_visit_date": 1758203931497228
+  }
+}

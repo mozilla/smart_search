@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Alejandro Rey \u2013 a Wikipedia entry about an actor; not related to IDEs or software development.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns an actor named Alejandro Rey, not anything about integrated development environments or software development.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Alejandro Rey \"Alejandro Rey From Wikipedia, the free encyclopedianavigation search Alejandro Rey Born February 8, 1930 Buenos Aires, Argentina Died May 21, 1987 (aged 57) Los Angeles, California, U. S. Cause of death Lung cancer Occupation Actor, director Years active 1953\u201386Spouse (s) Cristina Rudy (1966\u201368) Jo",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Alejandro_Rey",
+    "title": "Alejandro Rey",
+    "description": "\"Alejandro Rey From Wikipedia, the free encyclopedianavigation search Alejandro Rey Born February 8, 1930 Buenos Aires, Argentina Died May 21, 1987 (aged 57) Los Angeles, California, U. S. Cause of death Lung cancer Occupation Actor, director Years active 1953\u201386Spouse (s) Cristina Rudy (1966\u201368) Jo",
+    "frecency": 1717,
+    "url_hash": 9611080561204,
+    "last_visit_date": 1758203931106111
+  }
+}

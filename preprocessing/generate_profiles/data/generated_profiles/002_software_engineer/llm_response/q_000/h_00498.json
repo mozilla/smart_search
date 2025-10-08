@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Eucalyptus tea: is it safe to drink? \\\"_Seasoned Advice is a question and answer site for professional and amateur chefs. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Eucalyptus tea: is it safe to drink?up vote7down votefav",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page is about eucalyptus tea safety on a cooking Q&A site, not related to debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Eucalyptus tea: is it safe to drink? \"_Seasoned Advice is a question and answer site for professional and amateur chefs. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Eucalyptus tea: is it safe to drink?up vote7down votefav",
+  "history": {
+    "url": "http://cooking.stackexchange.com/questions/23816/eucalyptus-tea-is-it-safe-to-drink",
+    "title": "Eucalyptus tea: is it safe to drink?",
+    "description": "\"_Seasoned Advice is a question and answer site for professional and amateur chefs. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Eucalyptus tea: is it safe to drink?up vote7down votefav",
+    "frecency": 4133,
+    "url_hash": 80354376123035,
+    "last_visit_date": 1758203930488111
+  }
+}

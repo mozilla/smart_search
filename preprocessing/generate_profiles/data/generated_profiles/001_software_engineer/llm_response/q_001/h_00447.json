@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "How Donald Trump Proves the Equal Time Rule Is a Joke Donald Trump gets twice as much news coverage as the other candidates for president. Cable networks broadcast his rallies and news conferences end-to-end, he\u2019s mentioned nightly on late night comedy shows, and he even hosted \u201cSaturday Night Live\u201d in November. His rivals aren\u2019t the only ones asking:",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses political media coverage, not Python libraries or machine learning; no relevance to the search query.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "How Donald Trump Proves the Equal Time Rule Is a Joke Donald Trump gets twice as much news coverage as the other candidates for president. Cable networks broadcast his rallies and news conferences end-to-end, he\u2019s mentioned nightly on late night comedy shows, and he even hosted \u201cSaturday Night Live\u201d in November. His rivals aren\u2019t the only ones asking:",
+  "history": {
+    "url": "http://www.thewrap.com/how-donald-trump-proves-the-equal-time-rule-is-a-joke/",
+    "title": "How Donald Trump Proves the Equal Time Rule Is a Joke",
+    "description": "Donald Trump gets twice as much news coverage as the other candidates for president. Cable networks broadcast his rallies and news conferences end-to-end, he\u2019s mentioned nightly on late night comedy shows, and he even hosted \u201cSaturday Night Live\u201d in November. His rivals aren\u2019t the only ones asking: ",
+    "frecency": 3480,
+    "url_hash": 11332534022396,
+    "last_visit_date": 1758203929366200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "How Much do Business Operations Managers Make? How Much do Business Operations Managers Make? Business operations managers earned a median salary of $99,310 in 2016, with the highest-paid 10 percent earning $208,000 or more per year and the lowest-paid earning $44,290. Salary Outlook Best Paying Cities for Business Operations Managers The highes",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about salaries for business operations managers, not about Python libraries or machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "How Much do Business Operations Managers Make? How Much do Business Operations Managers Make? Business operations managers earned a median salary of $99,310 in 2016, with the highest-paid 10 percent earning $208,000 or more per year and the lowest-paid earning $44,290. Salary Outlook Best Paying Cities for Business Operations Managers The highes",
+  "history": {
+    "url": "https://money.usnews.com/careers/best-jobs/business-operations-manager/salary",
+    "title": "How Much do Business Operations Managers Make?",
+    "description": "How Much do Business Operations Managers Make? Business operations managers earned a median salary of $99,310 in 2016, with the highest-paid 10 percent earning $208,000 or more per year and the lowest-paid earning $44,290. Salary Outlook Best Paying Cities for Business Operations Managers The highes",
+    "frecency": 2427,
+    "url_hash": 23809681167155,
+    "last_visit_date": 1758203932318111
+  }
+}

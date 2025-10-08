@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Harry Black Appointed Cincinnati's Next City Manager \u2014 Aug. 6, 2014. This is a city news article about a city manager appointment.",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is unrelated to IDEs or software development; it's a news article about a city manager appointment.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Harry Black Appointed Cincinnati\u00e2s Next City Manager \"Harry Black Appointed Cincinnati\u2019s Next City Manager Aug. 6Aug. 6, 2014Today, City Council voted to unanimously approve the appointment of Harry Black as the 15th City Manager of the City of Cincinnati. He will begin on Sept. 8, 2014.\u201cI am humbled and honored to have been chosen,\"\" Black said. \"\"I",
+  "history": {
+    "url": "http://www.cincinnati-oh.gov/manager/news/harry-black-appointed-next-city-manager/",
+    "title": "Harry Black Appointed Cincinnati\u00e2s Next City Manager",
+    "description": "\"Harry Black Appointed Cincinnati\u2019s Next City Manager Aug. 6Aug. 6, 2014Today, City Council voted to unanimously approve the appointment of Harry Black as the 15th City Manager of the City of Cincinnati. He will begin on Sept. 8, 2014.\u201cI am humbled and honored to have been chosen,\"\" Black said. \"\"I ",
+    "frecency": 927,
+    "url_hash": 70199344216014,
+    "last_visit_date": 1758203930120111
+  }
+}

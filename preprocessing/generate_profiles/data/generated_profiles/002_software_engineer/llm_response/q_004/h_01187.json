@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "10 Things to Look for When Buying a House 1.4k SHARES103.8k VIEWSBuying a house is a bit like planning for your wedding day \u2014 there are months packed with excitement, stress, planning, and then, finally, the big payoff. I know because I have 2 exceedingly interesting sisters (a hummus-making social worker and a gluten-free marketing maven)",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about buying a house, not about Docker setup for beginners; it has no relevance to the query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "10 Things to Look for When Buying a House 1.4k SHARES103.8k VIEWSBuying a house is a bit like planning for your wedding day \u2014 there are months packed with excitement, stress, planning, and then, finally, the big payoff. I know because I have 2 exceedingly interesting sisters (a hummus-making social worker and a gluten-free marketing maven)",
+  "history": {
+    "url": "http://blog.esurance.com/10-things-to-look-for-when-buying-a-house/",
+    "title": "10 Things to Look for When Buying a House",
+    "description": "1.4k SHARES103.8k VIEWSBuying a house is a bit like planning for your wedding day \u2014 there are months packed with excitement, stress, planning, and then, finally, the big payoff. I know because I have 2 exceedingly interesting sisters (a hummus-making social worker and a gluten-free marketing maven) ",
+    "frecency": 2900,
+    "url_hash": 50675251116832,
+    "last_visit_date": 1758203929224111
+  }
+}

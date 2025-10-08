@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Antiretrovirals: HIV and AIDS Drugs \\\"Antiretrovirals: HIV and AIDS Drugs Articles On HIV Treatments How to Treat HIV Symptoms Medications List Antiretroviral Therapy (ART)Antiretroviral Drugs Side Effects of HIV Drugs Alternative Medicine HIV medications can help lower your viral load, fight infections, and improve your quality of lif\\\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses antiretroviral drugs for HIV/AIDS, which is unrelated to apps or strategies for improving study habits.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Antiretrovirals: HIV and AIDS Drugs \"Antiretrovirals: HIV and AIDS Drugs Articles On HIV Treatments How to Treat HIV Symptoms Medications List Antiretroviral Therapy (ART)Antiretroviral Drugs Side Effects of HIV Drugs Alternative Medicine HIV medications can help lower your viral load, fight infections, and improve your quality of lif",
+  "history": {
+    "url": "http://www.webmd.com/hiv-aids/guide/aids-hiv-medication",
+    "title": "Antiretrovirals: HIV and AIDS Drugs",
+    "description": "\"Antiretrovirals: HIV and AIDS Drugs Articles On HIV Treatments How to Treat HIV Symptoms Medications List Antiretroviral Therapy (ART)Antiretroviral Drugs Side Effects of HIV Drugs Alternative Medicine HIV medications can help lower your viral load, fight infections, and improve your quality of lif",
+    "frecency": 3750,
+    "url_hash": 80674826263888,
+    "last_visit_date": 1758203927846735
+  }
+}

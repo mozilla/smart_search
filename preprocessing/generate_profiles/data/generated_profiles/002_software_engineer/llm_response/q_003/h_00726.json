@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Mariza \\\"From Wikipedia, the free encyclopedianavigation search Mariza Mariza performing in 2008Background information Birth name Marisa dos Reis Nunes Born 16 December 1973 (age 44)Origin Overseas Province of Mozambique, Portugal Genres Fado World music Occupation (s)Musician songwriter Instruments Vocals",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes the musician Mariza, not content about database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Mariza \"From Wikipedia, the free encyclopedianavigation search Mariza Mariza performing in 2008Background information Birth name Marisa dos Reis Nunes Born 16 December 1973 (age 44)Origin Overseas Province of Mozambique, Portugal Genres Fado World music Occupation (s)Musician songwriter Instruments Vocals",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Mariza",
+    "title": "Mariza",
+    "description": "\"From Wikipedia, the free encyclopedianavigation search Mariza Mariza performing in 2008Background information Birth name Marisa dos Reis Nunes Born 16 December 1973 (age 44)Origin Overseas Province of Mozambique, Portugal Genres Fado World music Occupation (s)Musician songwriter Instruments Vocals ",
+    "frecency": 3710,
+    "url_hash": 98099126574347,
+    "last_visit_date": 1758203930310111
+  }
+}

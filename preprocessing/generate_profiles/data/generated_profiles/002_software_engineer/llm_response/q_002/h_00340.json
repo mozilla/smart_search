@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "How To Create an RFC \"How To Create an RFCNewcomers to PHP core development should read The Mysterious PHP RFC Process and How You Can Change the Web before starting the RFC process. If you don't have the skills to fully implement your RFC and no-one volunteers to code it, there is little chance your RFC will be success",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about creating an RFC for PHP core development, not about IDEs or software development IDEs.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "How To Create an RFC \"How To Create an RFCNewcomers to PHP core development should read The Mysterious PHP RFC Process and How You Can Change the Web before starting the RFC process. If you don't have the skills to fully implement your RFC and no-one volunteers to code it, there is little chance your RFC will be success",
+  "history": {
+    "url": "https://wiki.php.net/rfc/howto",
+    "title": "How To Create an RFC",
+    "description": "\"How To Create an RFCNewcomers to PHP core development should read The Mysterious PHP RFC Process and How You Can Change the Web before starting the RFC process. If you don't have the skills to fully implement your RFC and no-one volunteers to code it, there is little chance your RFC will be success",
+    "frecency": 4415,
+    "url_hash": 43696526984286,
+    "last_visit_date": 1758203932326111
+  }
+}

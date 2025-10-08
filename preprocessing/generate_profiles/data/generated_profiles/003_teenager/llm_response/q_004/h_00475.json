@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Accessibility Accessibility It is a priority for CBC to create a website that is accessible to all Canadians including people with visual, hearing, motor and cognitive challenges. Closed Captioning and Described Video is available for many CBC-TV shows offered on CBC Watch. More about CBC Accessibility Accessibil",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses website accessibility features, not information related to improving performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Accessibility Accessibility It is a priority for CBC to create a website that is accessible to all Canadians including people with visual, hearing, motor and cognitive challenges. Closed Captioning and Described Video is available for many CBC-TV shows offered on CBC Watch. More about CBC Accessibility Accessibil",
+  "history": {
+    "url": "http://www.cbc.ca/news/canada/migrant-workers-who-they-are-where-they-re-coming-from-1.1137930",
+    "title": "Accessibility",
+    "description": "Accessibility It is a priority for CBC to create a website that is accessible to all Canadians including people with visual, hearing, motor and cognitive challenges. Closed Captioning and Described Video is available for many CBC-TV shows offered on CBC Watch. More about CBC Accessibility Accessibil",
+    "frecency": 4494,
+    "url_hash": 39228713790987,
+    "last_visit_date": 1758203935013228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Guy Lombardo (1902\u00e21977) \\\"SEE RANKGuy Lombardo (1902\u20131977)Soundtrack | Actor | Music Department Guy Lombardo was born on June 19, 1902 in London, Ontario, Canada as Gaetano Albert Lombardo. He was married to Lilliebell Glenn. He died on November 5, 1977 in Houston, Texas, USA. See full bio \u00bbBorn: June 19, 1902 in London, On",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a biography of Guy Lombardo and unrelated to Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Guy Lombardo (1902\u00e21977) \"SEE RANKGuy Lombardo (1902\u20131977)Soundtrack | Actor | Music Department Guy Lombardo was born on June 19, 1902 in London, Ontario, Canada as Gaetano Albert Lombardo. He was married to Lilliebell Glenn. He died on November 5, 1977 in Houston, Texas, USA. See full bio \u00bbBorn: June 19, 1902 in London, On",
+  "history": {
+    "url": "http://www.imdb.com/name/nm0518456/",
+    "title": "Guy Lombardo (1902\u00e21977)",
+    "description": "\"SEE RANKGuy Lombardo (1902\u20131977)Soundtrack | Actor | Music Department Guy Lombardo was born on June 19, 1902 in London, Ontario, Canada as Gaetano Albert Lombardo. He was married to Lilliebell Glenn. He died on November 5, 1977 in Houston, Texas, USA. See full bio \u00bbBorn: June 19, 1902 in London, On",
+    "frecency": 3466,
+    "url_hash": 68871666504101,
+    "last_visit_date": 1758203931420111
+  }
+}

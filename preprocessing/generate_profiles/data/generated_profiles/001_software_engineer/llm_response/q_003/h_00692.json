@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Metal-Oxide-Semiconductor Field-Effect Transistors Next: MOSFET Amplifier Up: ch4 Previous: Colpitts Oscillators Metal-Oxide-Semiconductor Field-Effect Transistors A metal-oxide-semiconductor field-effect transistor (MOSFET) has three terminals, source, gate, and drain. In an n-MOSFET (or p-MOSFET), both the source S and drain D are N-type (or P-typ",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses MOSFET electronics, not database query optimization; it does not match the search intent.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Metal-Oxide-Semiconductor Field-Effect Transistors Next: MOSFET Amplifier Up: ch4 Previous: Colpitts Oscillators Metal-Oxide-Semiconductor Field-Effect Transistors A metal-oxide-semiconductor field-effect transistor (MOSFET) has three terminals, source, gate, and drain. In an n-MOSFET (or p-MOSFET), both the source S and drain D are N-type (or P-typ",
+  "history": {
+    "url": "http://fourier.eng.hmc.edu/e84/lectures/ch4/node13.html",
+    "title": "Metal-Oxide-Semiconductor Field-Effect Transistors",
+    "description": "Next: MOSFET Amplifier Up: ch4 Previous: Colpitts Oscillators Metal-Oxide-Semiconductor Field-Effect Transistors A metal-oxide-semiconductor field-effect transistor (MOSFET) has three terminals, source, gate, and drain. In an n-MOSFET (or p-MOSFET), both the source S and drain D are N-type (or P-typ",
+    "frecency": 2647,
+    "url_hash": 16162786731322,
+    "last_visit_date": 1758203929022200
+  }
+}

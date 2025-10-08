@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "History of Single Member Districts for Congress \"History of Single Member Districts for Congress Seeking Fair Representation Before PRTory Mast Section II of Article 1 of the Constitution states \"\"The House of Representatives shall be composed of Members chosen every second year by the People of the several States.... Representatives...shall be a\"\"",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses history of congressional districts and constitutional text, not related to optimizing or database queries.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "History of Single Member Districts for Congress \"History of Single Member Districts for Congress Seeking Fair Representation Before PRTory Mast Section II of Article 1 of the Constitution states \"\"The House of Representatives shall be composed of Members chosen every second year by the People of the several States.... Representatives...shall be a",
+  "history": {
+    "url": "http://archive.fairvote.org/reports/monopoly/mast.html",
+    "title": "History of Single Member Districts for Congress",
+    "description": "\"History of Single Member Districts for Congress Seeking Fair Representation Before PRTory Mast Section II of Article 1 of the Constitution states \"\"The House of Representatives shall be composed of Members chosen every second year by the People of the several States.... Representatives...shall be a",
+    "frecency": 1984,
+    "url_hash": 53122050048599,
+    "last_visit_date": 1758203931380111
+  }
+}

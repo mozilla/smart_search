@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "12 Healthy Fruits For Diabetics Diabetics have to be very careful while preparing their diet chart. There are few foods that a diabetics can have without worry. However, there are a majority of foods that can raise their blood sugar levels. For example, artificial sweeteners and any food that is prepared with it can be dangerous f",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses healthy fruits for diabetics, not DIY room decoration ideas; unrelated content.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "12 Healthy Fruits For Diabetics Diabetics have to be very careful while preparing their diet chart. There are few foods that a diabetics can have without worry. However, there are a majority of foods that can raise their blood sugar levels. For example, artificial sweeteners and any food that is prepared with it can be dangerous f",
+  "history": {
+    "url": "http://www.boldsky.com/health/disorders-cure/2013/twelve-healthy-fruits-diabetics-032321.html",
+    "title": "12 Healthy Fruits For Diabetics",
+    "description": "Diabetics have to be very careful while preparing their diet chart. There are few foods that a diabetics can have without worry. However, there are a majority of foods that can raise their blood sugar levels. For example, artificial sweeteners and any food that is prepared with it can be dangerous f",
+    "frecency": 4642,
+    "url_hash": 71029547298085,
+    "last_visit_date": 1758203927452735
+  }
+}

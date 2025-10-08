@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "1,400 Workers 'Devastated' by Carrier's Plan to Move Indianapolis Facility to Mexico - a news article about manufacturing layoffs, not related to IDEs or software development.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses a manufacturing facility relocation and layoffs, which has no relevance to IDEs or software development.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "1,400 Workers 'Devastated' by Carrier's Plan to Move Indianapolis Facility to Mexico \"1,400 Workers 'Devastated' by Carrier's Plan to Move Indianapolis Facility to Mexico By Enjoli Francis Feb 16, 2016, 5:50 PM ETJean-Philippe-Ksiazek/AFP/Getty Images The Carrier logo is pictured here in this undated file photo. Email Editor\u2019s Note: In a story broadcast on \"\"America This Morning\"\" t",
+  "history": {
+    "url": "http://abcnews.go.com/Business/1400-workers-devastated-carriers-plan-move-indianapolis-facility/story?id=36986150",
+    "title": "1,400 Workers 'Devastated' by Carrier's Plan to Move Indianapolis Facility to Mexico",
+    "description": "\"1,400 Workers 'Devastated' by Carrier's Plan to Move Indianapolis Facility to Mexico By Enjoli Francis Feb 16, 2016, 5:50 PM ETJean-Philippe-Ksiazek/AFP/Getty Images The Carrier logo is pictured here in this undated file photo. Email Editor\u2019s Note: In a story broadcast on \"\"America This Morning\"\" t",
+    "frecency": 2406,
+    "url_hash": 34782357444446,
+    "last_visit_date": 1758203929272111
+  }
+}

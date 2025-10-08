@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "How Cost of Living Raises Work Average Cost-of-Living Raise Prev NEXTThe level of inflation has varied widely and so have cost of living raises. Regular Social Security cost-of-living adjustments (COLAs) began in 1975 when inflation was running high. The first COLA was 8 percent. The raise reached a high of 14.3 percent in 1980.",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses cost-of-living raises and inflation, not DIY room decoration ideas; it is not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "How Cost of Living Raises Work Average Cost-of-Living Raise Prev NEXTThe level of inflation has varied widely and so have cost of living raises. Regular Social Security cost-of-living adjustments (COLAs) began in 1975 when inflation was running high. The first COLA was 8 percent. The raise reached a high of 14.3 percent in 1980.",
+  "history": {
+    "url": "http://money.howstuffworks.com/business/professional-development/cost-of-living-raises1.htm",
+    "title": "How Cost of Living Raises Work",
+    "description": "Average Cost-of-Living Raise Prev NEXTThe level of inflation has varied widely and so have cost of living raises. Regular Social Security cost-of-living adjustments (COLAs) began in 1975 when inflation was running high. The first COLA was 8 percent. The raise reached a high of 14.3 percent in 1980. ",
+    "frecency": 4304,
+    "url_hash": 40175490599456,
+    "last_visit_date": 1758203933507228
+  }
+}

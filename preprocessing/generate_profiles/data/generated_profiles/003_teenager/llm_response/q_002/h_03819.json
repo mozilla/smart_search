@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "HBO sets premiere dates for Westworld and more Article HBO sets premiere dates for Westworld and more Twitter.com/HBONatalie Abrams July 30, 2016 AT 12:00 PM EDTHBO has set premiere dates for comedies starring Sarah Jessica Parker and Issa Rae, as well as new drama Westworld. At the Television Critics Association\u2019s press tour Saturday, the premi",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The result is about HBO premiere dates and entertainment news, not about easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "HBO sets premiere dates for Westworld and more Article HBO sets premiere dates for Westworld and more Twitter.com/HBONatalie Abrams July 30, 2016 AT 12:00 PM EDTHBO has set premiere dates for comedies starring Sarah Jessica Parker and Issa Rae, as well as new drama Westworld. At the Television Critics Association\u2019s press tour Saturday, the premi",
+  "history": {
+    "url": "http://ew.com/article/2016/07/30/hbo-westworld-divorce-insecure-premiere-dates/",
+    "title": "HBO sets premiere dates for Westworld and more",
+    "description": "Article HBO sets premiere dates for Westworld and more Twitter.com/HBONatalie Abrams July 30, 2016 AT 12:00 PM EDTHBO has set premiere dates for comedies starring Sarah Jessica Parker and Issa Rae, as well as new drama Westworld. At the Television Critics Association\u2019s press tour Saturday, the premi",
+    "frecency": 1039,
+    "url_hash": 77390600993328,
+    "last_visit_date": 1758203935187228
+  }
+}

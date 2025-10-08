@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Shona calendar Days [ edit]Sunday Svondo Monday Muvhuro Tuesday Chipiri Wednesday Chitatu Thursday China Friday Chishanu Saturday Mugovera. Months [ edit]The months in Shona are named after relevant events to the Shona. Things involving spiritual activities, agriculture as well animals and fruits serve as derivati",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Shona calendar days, not about DIY room decoration ideas; it does not address the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Shona calendar Days [ edit]Sunday Svondo Monday Muvhuro Tuesday Chipiri Wednesday Chitatu Thursday China Friday Chishanu Saturday Mugovera. Months [ edit]The months in Shona are named after relevant events to the Shona. Things involving spiritual activities, agriculture as well animals and fruits serve as derivati",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Shona_calendar",
+    "title": "Shona calendar",
+    "description": "Days [ edit]Sunday Svondo Monday Muvhuro Tuesday Chipiri Wednesday Chitatu Thursday China Friday Chishanu Saturday Mugovera. Months [ edit]The months in Shona are named after relevant events to the Shona. Things involving spiritual activities, agriculture as well animals and fruits serve as derivati",
+    "frecency": 1850,
+    "url_hash": 79114079814660,
+    "last_visit_date": 1758203927483139
+  }
+}

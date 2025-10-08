@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Unit Trust Investing Unit Trust Investing Collective investments (or unit trusts) are investments in which investors\u2019 funds are pooled and managed by professional managers. Investing in shares has traditionally yielded unrivalled returns, offering investors the opportunity to build real wealth. Yet, the large amounts of",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses investments and unit trusts, not Docker or container setup. It has no relevance to 'Docker setup for beginners'.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Unit Trust Investing Unit Trust Investing Collective investments (or unit trusts) are investments in which investors\u2019 funds are pooled and managed by professional managers. Investing in shares has traditionally yielded unrivalled returns, offering investors the opportunity to build real wealth. Yet, the large amounts of",
+  "history": {
+    "url": "http://www.stanlib.com/Individuals/knowledgecentre/Pages/UnitTrustInvesting.aspx",
+    "title": "Unit Trust Investing",
+    "description": "Unit Trust Investing Collective investments (or unit trusts) are investments in which investors\u2019 funds are pooled and managed by professional managers. Investing in shares has traditionally yielded unrivalled returns, offering investors the opportunity to build real wealth. Yet, the large amounts of",
+    "frecency": 3869,
+    "url_hash": 21188877898995,
+    "last_visit_date": 1758203927386200
+  }
+}

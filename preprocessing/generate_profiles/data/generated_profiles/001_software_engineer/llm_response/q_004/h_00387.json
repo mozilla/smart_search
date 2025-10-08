@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "What Is Avionics? What Is Avionics? Essentially, avionics refer to aviation electronics. Demand exists for well-trained technicians, commonly called aircraft mechanics, who can maintain, troubleshoot, and repair aviation electronics. This article contains an expanded definition of avionics, an explanation of avionics",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses avionics and aviation electronics, not Docker or its setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "What Is Avionics? What Is Avionics? Essentially, avionics refer to aviation electronics. Demand exists for well-trained technicians, commonly called aircraft mechanics, who can maintain, troubleshoot, and repair aviation electronics. This article contains an expanded definition of avionics, an explanation of avionics",
+  "history": {
+    "url": "http://learn.org/articles/What_is_Avionics.html",
+    "title": "What Is Avionics?",
+    "description": "What Is Avionics? Essentially, avionics refer to aviation electronics. Demand exists for well-trained technicians, commonly called aircraft mechanics, who can maintain, troubleshoot, and repair aviation electronics. This article contains an expanded definition of avionics, an explanation of avionics",
+    "frecency": 3689,
+    "url_hash": 15425523799304,
+    "last_visit_date": 1758203928106200
+  }
+}

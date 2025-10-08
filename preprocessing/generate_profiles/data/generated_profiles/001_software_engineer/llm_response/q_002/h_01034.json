@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "How to Saute Shrimp 1 Select fresh or frozen shrimp from a fish market or grocery store. Fresh shrimp does not store well, and you should saut\u00e9 it within 24 hours. Most grocery stores sell frozen shrimp that they have thawed, and these shrimp should be cooked within 2 to 3 days. Look for fresh shrimp that has transpare",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses cooking shrimp, not software development or IDEs; therefore it is not relevant to the query.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "How to Saute Shrimp 1 Select fresh or frozen shrimp from a fish market or grocery store. Fresh shrimp does not store well, and you should saut\u00e9 it within 24 hours. Most grocery stores sell frozen shrimp that they have thawed, and these shrimp should be cooked within 2 to 3 days. Look for fresh shrimp that has transpare",
+  "history": {
+    "url": "http://www.wikihow.com/Saute-Shrimp",
+    "title": "How to Saute Shrimp",
+    "description": "1 Select fresh or frozen shrimp from a fish market or grocery store. Fresh shrimp does not store well, and you should saut\u00e9 it within 24 hours. Most grocery stores sell frozen shrimp that they have thawed, and these shrimp should be cooked within 2 to 3 days. Look for fresh shrimp that has transpare",
+    "frecency": 1320,
+    "url_hash": 77805422473870,
+    "last_visit_date": 1758203928604200
+  }
+}

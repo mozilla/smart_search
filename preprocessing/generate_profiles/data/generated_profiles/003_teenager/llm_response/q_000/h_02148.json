@@ -1,0 +1,17 @@
+{
+  "search_query": "how to start a YouTube channel",
+  "retrieved_result": "Average Precipitation for Oregon in January The tables below give monthly averages for rainfall plus snowfall during January at cities, towns and parks in Oregon. Each place has a total for the amount of precipitation it usually receives this month. Most sites also have information on the number of days with wet weather. That includes the day",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The page is about weather data for Oregon in January, not about starting a YouTube channel.",
+  "query": "how to start a YouTube channel",
+  "combined_text_for_llm": "Average Precipitation for Oregon in January The tables below give monthly averages for rainfall plus snowfall during January at cities, towns and parks in Oregon. Each place has a total for the amount of precipitation it usually receives this month. Most sites also have information on the number of days with wet weather. That includes the day",
+  "history": {
+    "url": "http://www.currentresults.com/Weather/Oregon/precipitation-january.php",
+    "title": "Average Precipitation for Oregon in January",
+    "description": "The tables below give monthly averages for rainfall plus snowfall during January at cities, towns and parks in Oregon. Each place has a total for the amount of precipitation it usually receives this month. Most sites also have information on the number of days with wet weather. That includes the day",
+    "frecency": 2778,
+    "url_hash": 99619369358867,
+    "last_visit_date": 1758203931527228
+  }
+}

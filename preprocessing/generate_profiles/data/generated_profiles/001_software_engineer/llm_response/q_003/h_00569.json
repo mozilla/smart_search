@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "A Modest Proposal \"Paragraphs 1-7<< Prev Section Next Section >>Summary The author invokes the \\\"melancholly\\\" and all-too-common sight of women and children begging on the streets of Ireland. These mothers, unable to work for their livelihood, \\\"are forced to employ all their Time\\\" panhandling for food. The childre",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is a historical satirical essay about Ireland, not related to databases or query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "A Modest Proposal \"Paragraphs 1-7<< Prev Section Next Section >>Summary The author invokes the \"\"melancholly\"\" and all-too-common sight of women and children begging on the streets of Ireland. These mothers, unable to work for their livelihood, \"\"are forced to employ all their Time\"\" panhandling for food. The childre",
+  "history": {
+    "url": "http://www.sparknotes.com/lit/modestproposal/section1/",
+    "title": "A Modest Proposal",
+    "description": "\"Paragraphs 1-7<< Prev Section Next Section >>Summary The author invokes the \"\"melancholly\"\" and all-too-common sight of women and children begging on the streets of Ireland. These mothers, unable to work for their livelihood, \"\"are forced to employ all their Time\"\" panhandling for food. The childre",
+    "frecency": 3065,
+    "url_hash": 66238919372719,
+    "last_visit_date": 1758203927002200
+  }
+}

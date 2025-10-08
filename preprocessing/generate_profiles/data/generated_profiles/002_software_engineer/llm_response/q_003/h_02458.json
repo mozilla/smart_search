@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "How far is sanibel island from Tampa airport? Charlie N. 122,923 Contributions I have spent many years renovating buildings and leading a commercial handyman crew. How far is sanibel island from Tampa airport? Approximately 220 miles. Edit Eric Barnes 481,004 Contributions How far is Marco Island from Sanibel Island?67 miles Edit How long does",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses distances between locations in Florida, not database query optimization; it is not relevant to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "How far is sanibel island from Tampa airport? Charlie N. 122,923 Contributions I have spent many years renovating buildings and leading a commercial handyman crew. How far is sanibel island from Tampa airport? Approximately 220 miles. Edit Eric Barnes 481,004 Contributions How far is Marco Island from Sanibel Island?67 miles Edit How long does",
+  "history": {
+    "url": "http://www.answers.com/Q/How_far_is_it_from_Tampa_to_Marco_Island",
+    "title": "How far is sanibel island from Tampa airport?",
+    "description": "Charlie N. 122,923 Contributions I have spent many years renovating buildings and leading a commercial handyman crew. How far is sanibel island from Tampa airport? Approximately 220 miles. Edit Eric Barnes 481,004 Contributions How far is Marco Island from Sanibel Island?67 miles Edit How long does ",
+    "frecency": 559,
+    "url_hash": 73852831497230,
+    "last_visit_date": 1758203927166111
+  }
+}

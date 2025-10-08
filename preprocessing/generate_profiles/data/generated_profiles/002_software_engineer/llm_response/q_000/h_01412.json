@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Audits, Internal \\\"Related Terms: Accounting Methods Internal auditing is an independent appraisal function that is performed in a wide variety of companies, institutions, and governments. What distinguishes internal auditors from governmental auditors and public accountants is the fact that they are employees of the",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about internal auditing, unrelated to debugging API integrations.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Audits, Internal \"Related Terms: Accounting Methods Internal auditing is an independent appraisal function that is performed in a wide variety of companies, institutions, and governments. What distinguishes internal auditors from governmental auditors and public accountants is the fact that they are employees of the",
+  "history": {
+    "url": "https://www.inc.com/encyclopedia/audits-internal.html",
+    "title": "Audits, Internal",
+    "description": "\"Related Terms: Accounting Methods Internal auditing is an independent appraisal function that is performed in a wide variety of companies, institutions, and governments. What distinguishes internal auditors from governmental auditors and public accountants is the fact that they are employees of the",
+    "frecency": 2447,
+    "url_hash": 43291448369042,
+    "last_visit_date": 1758203930662111
+  }
+}

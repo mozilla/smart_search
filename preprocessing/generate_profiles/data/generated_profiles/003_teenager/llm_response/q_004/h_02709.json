@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "Vera Farmiga \\\"Top 500Vera Farmiga Actress | Producer | Soundtrack Official Photos \u00bbVera Farmiga is an American actress who received an Academy Award nomination for Best Supporting Actress for her role in Up in the Air (2009) and a Primetime Emmy Award nomination for Outstanding Lead Actress in a Drama Series for",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses actress Vera Farmiga and provides biographical/entertainment information unrelated to improving performance in sports; therefore it is not relevant to the query about getting better at sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "Vera Farmiga \"Top 500Vera Farmiga Actress | Producer | Soundtrack Official Photos \u00bbVera Farmiga is an American actress who received an Academy Award nomination for Best Supporting Actress for her role in Up in the Air (2009) and a Primetime Emmy Award nomination for Outstanding Lead Actress in a Drama Series for",
+  "history": {
+    "url": "http://www.imdb.com/name/nm0267812/",
+    "title": "Vera Farmiga",
+    "description": "\"Top 500Vera Farmiga Actress | Producer | Soundtrack Official Photos \u00bbVera Farmiga is an American actress who received an Academy Award nomination for Best Supporting Actress for her role in Up in the Air (2009) and a Primetime Emmy Award nomination for Outstanding Lead Actress in a Drama Series for",
+    "frecency": 2184,
+    "url_hash": 1007211751921,
+    "last_visit_date": 1758203928718735
+  }
+}

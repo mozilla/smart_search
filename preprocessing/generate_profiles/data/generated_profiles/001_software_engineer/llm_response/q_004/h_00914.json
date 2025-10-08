@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Brad's TechTips - Windows Brad's Tech Tips - Windows [ << Full list of Windows tips.] Windows: Copy a Local Profile to a Domain Profile in Windows 7 In Windows XP it was fairly easy to copy one profile to another. Not so for Windows 7. Use the following procedure to copy a Windows 7 local user profile to a domain user profil",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Windows user profile migration, not Docker or Docker setup for beginners.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Brad's TechTips - Windows Brad's Tech Tips - Windows [ << Full list of Windows tips.] Windows: Copy a Local Profile to a Domain Profile in Windows 7 In Windows XP it was fairly easy to copy one profile to another. Not so for Windows 7. Use the following procedure to copy a Windows 7 local user profile to a domain user profil",
+  "history": {
+    "url": "http://www.fieldbrook.net/TechTips/Windows/CopyLocalProfileToDomainProfile.asp",
+    "title": "Brad's TechTips - Windows",
+    "description": "Brad's Tech Tips - Windows [ << Full list of Windows tips.] Windows: Copy a Local Profile to a Domain Profile in Windows 7 In Windows XP it was fairly easy to copy one profile to another. Not so for Windows 7. Use the following procedure to copy a Windows 7 local user profile to a domain user profil",
+    "frecency": 1835,
+    "url_hash": 52147879985079,
+    "last_visit_date": 1758203929426200
+  }
+}

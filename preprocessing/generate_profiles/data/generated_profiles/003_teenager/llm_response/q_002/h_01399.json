@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "The drugs found in Michael Jackson's body after he died \"The drugs found in Michael Jackson's body after he died8 Nov 2011Michael Jackson's physician, Doctor Conrad Murray, has been found guilty of involuntary manslaughter by a jury in Los Angeles. During the trial they were shown images of the singer lying dead in a hospital and rehearsing the day befor",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns Michael Jackson's death and a trial, not DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "The drugs found in Michael Jackson's body after he died \"The drugs found in Michael Jackson's body after he died8 Nov 2011Michael Jackson's physician, Doctor Conrad Murray, has been found guilty of involuntary manslaughter by a jury in Los Angeles. During the trial they were shown images of the singer lying dead in a hospital and rehearsing the day befor",
+  "history": {
+    "url": "http://www.bbc.co.uk/newsbeat/article/15634083/the-drugs-found-in-michael-jacksons-body-after-he-died",
+    "title": "The drugs found in Michael Jackson's body after he died",
+    "description": "\"The drugs found in Michael Jackson's body after he died8 Nov 2011Michael Jackson's physician, Doctor Conrad Murray, has been found guilty of involuntary manslaughter by a jury in Los Angeles. During the trial they were shown images of the singer lying dead in a hospital and rehearsing the day befor",
+    "frecency": 3571,
+    "url_hash": 69871560701265,
+    "last_visit_date": 1758203932055228
+  }
+}

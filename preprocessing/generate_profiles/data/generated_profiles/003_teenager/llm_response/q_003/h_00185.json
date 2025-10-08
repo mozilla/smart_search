@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "Directory of Charities and Nonprofit Organizations All Categories Arts, Culture and Humanities Arts, culture, and humanities organizations bring the performing arts to the public; preserve and commemorate the events, places, and cultures that created and continue to shape the nation; and promote the distribution of ideas. They range from internation",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes charities and arts/nonprofit organizations, not apps or study-habit resources; it is not relevant to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "Directory of Charities and Nonprofit Organizations All Categories Arts, Culture and Humanities Arts, culture, and humanities organizations bring the performing arts to the public; preserve and commemorate the events, places, and cultures that created and continue to shape the nation; and promote the distribution of ideas. They range from internation",
+  "history": {
+    "url": "http://www.guidestar.org/NonprofitDirectory.aspx",
+    "title": "Directory of Charities and Nonprofit Organizations",
+    "description": "All Categories Arts, Culture and Humanities Arts, culture, and humanities organizations bring the performing arts to the public; preserve and commemorate the events, places, and cultures that created and continue to shape the nation; and promote the distribution of ideas. They range from internation",
+    "frecency": 4812,
+    "url_hash": 92797535580847,
+    "last_visit_date": 1758203931053228
+  }
+}

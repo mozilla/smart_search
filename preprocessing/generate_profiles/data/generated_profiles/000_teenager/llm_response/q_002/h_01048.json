@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Burning Fat vs. Burning Calories \"Burning Fat vs. Burning Calories To lose weight and get in shape you must have a good diet and exercise regularly to burn fat. The first thing you must understand about exercise is that just because you are burning calories does not mean you are burning fat. Your main focus when you exercise should",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses weight loss and exercise, not DIY room decoration ideas; not relevant to the query.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Burning Fat vs. Burning Calories \"Burning Fat vs. Burning Calories To lose weight and get in shape you must have a good diet and exercise regularly to burn fat. The first thing you must understand about exercise is that just because you are burning calories does not mean you are burning fat. Your main focus when you exercise should",
+  "history": {
+    "url": "http://www.boxingscene.com/weight-loss/41811.php",
+    "title": "Burning Fat vs. Burning Calories",
+    "description": "\"Burning Fat vs. Burning Calories To lose weight and get in shape you must have a good diet and exercise regularly to burn fat. The first thing you must understand about exercise is that just because you are burning calories does not mean you are burning fat. Your main focus when you exercise should",
+    "frecency": 373,
+    "url_hash": 51763206687421,
+    "last_visit_date": 1758203928725139
+  }
+}

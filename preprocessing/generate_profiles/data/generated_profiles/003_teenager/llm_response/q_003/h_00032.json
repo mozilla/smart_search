@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "What is the best way to teach a 9 year old to ride a bike? \"Pregnancy &amp; Parenting Parenting What is the best way to teach a 9 year old to ride a bike? He's not very keen, but it's something he needs to do to go on a cycling holiday. Follow 12 answers Answers Relevance Rating Newest Oldest Best Answer: give him a crash course... joking. he is 9 and he still\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about teaching a child to ride a bike, not about apps for improving study habits; it is not relevant to the query.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "What is the best way to teach a 9 year old to ride a bike? \"Pregnancy & Parenting Parenting What is the best way to teach a 9 year old to ride a bike? He's not very keen, but it's something he needs to do to go on a cycling holiday. Follow 12 answers Answers Relevance Rating Newest Oldest Best Answer: give him a crash course... joking. he is 9 and he still",
+  "history": {
+    "url": "https://answers.yahoo.com/question/index?qid=20060924123005AA4lydP",
+    "title": "What is the best way to teach a 9 year old to ride a bike?",
+    "description": "\"Pregnancy & Parenting Parenting What is the best way to teach a 9 year old to ride a bike? He's not very keen, but it's something he needs to do to go on a cycling holiday. Follow 12 answers Answers Relevance Rating Newest Oldest Best Answer: give him a crash course... joking. he is 9 and he still ",
+    "frecency": 4967,
+    "url_hash": 72829648865612,
+    "last_visit_date": 1758203929721228
+  }
+}

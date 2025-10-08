@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "JQuery not defined in Internet Explorer; a forum post about UI concerns and hover image links, not related to Docker or container setup.",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The page content discusses JavaScript/jQuery in IE and UI topics, not Docker or container setup.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "JQuery not defined in Internet Explorer \"Posted by icosa on 2 Aug 2010 at 01:03 UTCHi all Sorry, this is not directly theme development but it seems like the best forum for UI stuff. I'm trying to do some simple image links that change on hover. I have the following in a block.< script type = \"\" text/javascript \"\" > $ ( function () { $ (",
+  "history": {
+    "url": "https://www.drupal.org/node/871146",
+    "title": "JQuery not defined in Internet Explorer",
+    "description": "\"Posted by icosa on 2 Aug 2010 at 01:03 UTCHi all Sorry, this is not directly theme development but it seems like the best forum for UI stuff. I'm trying to do some simple image links that change on hover. I have the following in a block.< script type = \"\" text/javascript \"\" > $ ( function () { $ ( ",
+    "frecency": 4237,
+    "url_hash": 24174908520968,
+    "last_visit_date": 1758203929644111
+  }
+}

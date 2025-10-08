@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "The Pardoner's Tale \\\"The Young Man Meets Death, a 15th century Dutch print. \\\"\\\"The Pardoner's Tale\\\"\\\" (written in the original Middle English as \\\"\\\"The Pardoners Tale\\\"\\\" without an apostrophe) is a short story in verse from The Canterbury Tales by Geoffrey Chaucer. The tale takes the form of a religious fable which warns o",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about a medieval literary work and is not relevant to the query about improving performance in sports.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "The Pardoner's Tale \"The Young Man Meets Death, a 15th century Dutch print. \"\"The Pardoner's Tale\"\" (written in the original Middle English as \"\"The Pardoners Tale\"\" without an apostrophe) is a short story in verse from The Canterbury Tales by Geoffrey Chaucer. The tale takes the form of a religious fable which warns o",
+  "history": {
+    "url": "http://literature.wikia.com/wiki/The_Pardoner%27s_Tale",
+    "title": "The Pardoner's Tale",
+    "description": "\"The Young Man Meets Death, a 15th century Dutch print. \"\"The Pardoner's Tale\"\" (written in the original Middle English as \"\"The Pardoners Tale\"\" without an apostrophe) is a short story in verse from The Canterbury Tales by Geoffrey Chaucer. The tale takes the form of a religious fable which warns o",
+    "frecency": 2389,
+    "url_hash": 75953773305184,
+    "last_visit_date": 1758203933945228
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Admission to the Bar (Standard 504) \\\"ABA Required Disclosures The American Bar Association (ABA) Standards and Rules of Procedure for Approval of Law Schools requires all law schools to publicly disclose certain categories of information on their websites. Standard 509 (a) requires that all consumer information reported by law schools\\\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses ABA law school disclosures, not database query optimization.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Admission to the Bar (Standard 504) \"ABA Required Disclosures The American Bar Association (ABA) Standards and Rules of Procedure for Approval of Law Schools requires all law schools to publicly disclose certain categories of information on their websites. Standard 509 (a) requires that all consumer information reported by law schools",
+  "history": {
+    "url": "http://www.law.udc.edu/?page=ABADisclosures",
+    "title": "Admission to the Bar (Standard 504)",
+    "description": "\"ABA Required Disclosures The American Bar Association (ABA) Standards and Rules of Procedure for Approval of Law Schools requires all law schools to publicly disclose certain categories of information on their websites. Standard 509 (a) requires that all consumer information reported by law schools",
+    "frecency": 506,
+    "url_hash": 29195201906792,
+    "last_visit_date": 1758203929686111
+  }
+}

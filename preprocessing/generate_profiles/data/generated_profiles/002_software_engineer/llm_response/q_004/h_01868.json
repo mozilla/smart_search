@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Tennessee \"Tennessee Tennessee Data Series Back Data Sept 2017 Oct 2017 Nov 2017 Dec 2017 Jan 2018 Feb 2018Labor Force Data Civilian Labor Force ( 1) ( 2) 3,217.3 ( 2) 3,220.7 ( 2) 3,219.9 ( 2) 3,218.6 3,218.4 ( p) 3,222.1Employment ( 1) ( 2) 3,110.6 ( 2) 3,114.7 ( 2) 3,113.5 ( 2) 3,111.8 3,111.6 ( p) 3,113.6",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is data about Tennessee labor force; no mention of Docker or setup; not relevant to query.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Tennessee \"Tennessee Tennessee Data Series Back Data Sept 2017 Oct 2017 Nov 2017 Dec 2017 Jan 2018 Feb 2018Labor Force Data Civilian Labor Force ( 1) ( 2) 3,217.3 ( 2) 3,220.7 ( 2) 3,219.9 ( 2) 3,218.6 3,218.4 ( p) 3,222.1Employment ( 1) ( 2) 3,110.6 ( 2) 3,114.7 ( 2) 3,113.5 ( 2) 3,111.8 3,111.6 ( p) 3,113.6",
+  "history": {
+    "url": "https://www.bls.gov/eag/eag.tn.htm",
+    "title": "Tennessee",
+    "description": "\"Tennessee Tennessee Data Series Back Data Sept 2017 Oct 2017 Nov 2017 Dec 2017 Jan 2018 Feb 2018Labor Force Data Civilian Labor Force ( 1) ( 2) 3,217.3 ( 2) 3,220.7 ( 2) 3,219.9 ( 2) 3,218.6 3,218.4 ( p) 3,222.1Employment ( 1) ( 2) 3,110.6 ( 2) 3,114.7 ( 2) 3,113.5 ( 2) 3,111.8 3,111.6 ( p) 3,113.6",
+    "frecency": 1584,
+    "url_hash": 78647507129976,
+    "last_visit_date": 1758203930292111
+  }
+}

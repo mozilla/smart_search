@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "How much do engineers make? \"Science & Mathematics Engineering How much do engineers make? Hi, I am thinking about becoming an engineer and I have been doing some research. I found many different results from 50-120 thousand. I am interested in the mechanical-robot-aerospace kind of engineer. Please tell me about salaries. Exp",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses engineers' salaries, not Docker setup for beginners; unrelated topic.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "How much do engineers make? \"Science & Mathematics Engineering How much do engineers make? Hi, I am thinking about becoming an engineer and I have been doing some research. I found many different results from 50-120 thousand. I am interested in the mechanical-robot-aerospace kind of engineer. Please tell me about salaries. Exp",
+  "history": {
+    "url": "https://answers.yahoo.com/question/index?qid=20100403173844AAvxh3m",
+    "title": "How much do engineers make?",
+    "description": "\"Science & Mathematics Engineering How much do engineers make? Hi, I am thinking about becoming an engineer and I have been doing some research. I found many different results from 50-120 thousand. I am interested in the mechanical-robot-aerospace kind of engineer. Please tell me about salaries. Exp",
+    "frecency": 2742,
+    "url_hash": 8826792448448,
+    "last_visit_date": 1758203929080111
+  }
+}

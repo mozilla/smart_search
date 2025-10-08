@@ -1,0 +1,17 @@
+{
+  "search_query": "Docker setup for beginners",
+  "retrieved_result": "Office Documents Viewer \"Office Documents Viewer Joerg Jahnke Business Everyone23,386Contains Ads \u00b7 Offers in-app purchases Add to Wishlist Install (formerly Mobile Document Viewer) Small and fast document viewing application for Open Document Format (Open Office, Libre Office) and other productiv",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a mobile document viewer app, not related to Docker or container setup; content is not relevant to 'Docker setup for beginners'.",
+  "query": "Docker setup for beginners",
+  "combined_text_for_llm": "Office Documents Viewer \"Office Documents Viewer Joerg Jahnke Business Everyone23,386Contains Ads \u00b7 Offers in-app purchases Add to Wishlist Install (formerly Mobile Document Viewer) Small and fast document viewing application for Open Document Format (Open Office, Libre Office), OOXML (Microsoft Office) and other productiv",
+  "history": {
+    "url": "https://play.google.com/store/apps/details?id=de.joergjahnke.documentviewer.android.free",
+    "title": "Office Documents Viewer",
+    "description": "\"Office Documents Viewer Joerg Jahnke Business Everyone23,386Contains Ads \u00b7 Offers in-app purchases Add to Wishlist Install (formerly Mobile Document Viewer) Small and fast document viewing application for Open Document Format (Open Office, Libre Office), OOXML (Microsoft Office) and other productiv",
+    "frecency": 3621,
+    "url_hash": 83993084516133,
+    "last_visit_date": 1758203927286200
+  }
+}

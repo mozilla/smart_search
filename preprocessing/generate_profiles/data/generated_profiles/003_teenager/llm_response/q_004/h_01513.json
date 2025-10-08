@@ -1,0 +1,17 @@
+{
+  "search_query": "how to get better at sports",
+  "retrieved_result": "What are the names of the Everly Brothers? \"Entertainment & Music Music What are the names of the Everly Brothers? Follow 10 answers Answers Relevance Rating Newest Oldest Best Answer: The Everly Brothers respective names are Isaac Donald Everly (Don) who was born on February 1, 1937 in Brownie, Kentucky and his brother Philip Everly (Phil)",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result concerns the names of the Everly Brothers, not sports improvement.",
+  "query": "how to get better at sports",
+  "combined_text_for_llm": "What are the names of the Everly Brothers? \"Entertainment & Music Music What are the names of the Everly Brothers? Follow 10 answers Answers Relevance Rating Newest Oldest Best Answer: The Everly Brothers respective names are Isaac Donald Everly (Don) who was born on February 1, 1937 in Brownie, Kentucky and his brother Philip Everly (Phil)",
+  "history": {
+    "url": "https://answers.yahoo.com/question/index?qid=20060901083959AAJGUdu",
+    "title": "What are the names of the Everly Brothers?",
+    "description": "\"Entertainment & Music Music What are the names of the Everly Brothers? Follow 10 answers Answers Relevance Rating Newest Oldest Best Answer: The Everly Brothers respective names are Isaac Donald Everly (Don) who was born on February 1, 1937 in Brownie, Kentucky and his brother Philip Everly (Phil) ",
+    "frecency": 3465,
+    "url_hash": 95528162129409,
+    "last_visit_date": 1758203935003228
+  }
+}

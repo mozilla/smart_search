@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Emma Watson \"Emma Watson Profile Full Name Emma Brand-Watson Occupation Mayberry Resident First Episode The New Housekeeper (As Emma Brand)Last Episode The Manicurist Spin-off Appearances Relationships Family Spouse Romances Children Portrayed by Cheerio Meredith Emma Watson (sometimes referred to as Emma Brand",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Emma Watson and related media content, not about debugging API integration; there is no content related to debugging APIs or integrations.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Emma Watson \"Emma Watson Profile Full Name Emma Brand-Watson Occupation Mayberry Resident First Episode The New Housekeeper (As Emma Brand)Last Episode The Manicurist Spin-off Appearances Relationships Family Spouse Romances Children Portrayed by Cheerio Meredith Emma Watson (sometimes referred to as Emma Brand",
+  "history": {
+    "url": "http://mayberry.wikia.com/wiki/Emma_Watson",
+    "title": "Emma Watson",
+    "description": "\"Emma Watson Profile Full Name Emma Brand-Watson Occupation Mayberry Resident First Episode The New Housekeeper (As Emma Brand)Last Episode The Manicurist Spin-off Appearances Relationships Family Spouse Romances Children Portrayed by Cheerio Meredith Emma Watson (sometimes referred to as Emma Brand",
+    "frecency": 1165,
+    "url_hash": 80371467904863,
+    "last_visit_date": 1758203927128200
+  }
+}

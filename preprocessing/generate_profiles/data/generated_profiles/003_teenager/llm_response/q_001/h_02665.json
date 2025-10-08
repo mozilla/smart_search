@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "Help Center Dining Reservations \u2013 Frequently Asked Questions Q. Which Walt Disney World restaurants take reservations? A. Select restaurants at our 4 theme parks, Disney Resort hotels and Disney Springs take reservations. In addition, select dinner shows and special dining events also take reservations. However",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Disney World dining reservations and is unrelated to TikTok trends.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "Help Center Dining Reservations \u2013 Frequently Asked Questions Q. Which Walt Disney World restaurants take reservations? A. Select restaurants at our 4 theme parks, Disney Resort hotels and Disney Springs take reservations. In addition, select dinner shows and special dining events also take reservations. However",
+  "history": {
+    "url": "https://disneyworld.disney.go.com/faq/dining-reservations/advance-reservation-restaurants/",
+    "title": "Help Center",
+    "description": "Dining Reservations \u2013 Frequently Asked Questions Q. Which Walt Disney World restaurants take reservations? A. Select restaurants at our 4 theme parks, Disney Resort hotels and Disney Springs take reservations. In addition, select dinner shows and special dining events also take reservations. However",
+    "frecency": 2233,
+    "url_hash": 2367782469028,
+    "last_visit_date": 1758203932429228
+  }
+}

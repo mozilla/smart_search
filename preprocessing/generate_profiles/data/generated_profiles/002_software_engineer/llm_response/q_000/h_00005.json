@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "How many hours do you have to work before you have a break? \\\"Answers.com \u00ae Wiki Answers \u00ae Categories Law & Legal Issues Business Law Labor and Employment Law How many hours do you have to work before you have a break? Flag How many hours do you have to work before you have a break? Edit Answered by The Wiki Answers \u00aeCommunity Answers.com \u00ae is making the worl",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses labor laws and working hours, not API integration or debugging topics; it is unrelated to the query.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "How many hours do you have to work before you have a break? \"Answers.com \u00ae Wiki Answers \u00ae Categories Law & Legal Issues Business Law Labor and Employment Law How many hours do you have to work before you have a break? Flag How many hours do you have to work before you have a break? Edit Answered by The Wiki Answers \u00aeCommunity Answers.com \u00ae is making the worl",
+  "history": {
+    "url": "http://www.answers.com/Q/How_many_hours_do_you_have_to_work_before_you_have_a_break",
+    "title": "How many hours do you have to work before you have a break?",
+    "description": "\"Answers.com \u00ae Wiki Answers \u00ae Categories Law & Legal Issues Business Law Labor and Employment Law How many hours do you have to work before you have a break? Flag How many hours do you have to work before you have a break? Edit Answered by The Wiki Answers \u00aeCommunity Answers.com \u00ae is making the worl",
+    "frecency": 4990,
+    "url_hash": 20322844491399,
+    "last_visit_date": 1758203927364111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "how to optimize database queries",
+  "retrieved_result": "Disability Support Services Disability Support Services Disability is an aspect of diversity that is integral to our society and to the Towson University community. Disability Support Services' (DSS) mission is to provide leadership in promoting equal access to educational opportunities to students with disabilities. DSS colla",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page discusses disability support services at Towson University, not database querying or optimization; content is unrelated to the query.",
+  "query": "how to optimize database queries",
+  "combined_text_for_llm": "Disability Support Services Disability Support Services Disability is an aspect of diversity that is integral to our society and to the Towson University community. Disability Support Services' (DSS) mission is to provide leadership in promoting equal access to educational opportunities to students with disabilities. DSS colla",
+  "history": {
+    "url": "http://www.towson.edu/dss/",
+    "title": "Disability Support Services",
+    "description": "Disability Support Services Disability is an aspect of diversity that is integral to our society and to the Towson University community. Disability Support Services' (DSS) mission is to provide leadership in promoting equal access to educational opportunities to students with disabilities. DSS colla",
+    "frecency": 1599,
+    "url_hash": 13012657002154,
+    "last_visit_date": 1758203927800111
+  }
+}

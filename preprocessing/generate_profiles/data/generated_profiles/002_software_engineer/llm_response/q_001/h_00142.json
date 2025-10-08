@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "STMicroelectronics N.V.STM  (U.S.: NYSE) \"STMicroelectronics N. V. STM (U. S.: NYSE)search View All companies AT CLOSE 4:02 PM EDT 04/11/18$ 21.75USD-0.42 -1.89%PRE MARKET 6:50 AM EDT 04/12/18$ 22.47 0.72 3.31%PRE MARKET Vol 18,266Volume2,110,14365 Day Avg Vol3,837,5921 Day Range21.61 - 22.0352 Week Range14.07 - 25.30 (06/29/17 - 01/19/18)\"",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The page is stock market data for STMicroelectronics and not about Python libraries for machine learning.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "STMicroelectronics N.V.STM  (U.S.: NYSE) \"STMicroelectronics N. V. STM (U. S.: NYSE)search View All companies AT CLOSE 4:02 PM EDT 04/11/18$ 21.75USD-0.42 -1.89%PRE MARKET 6:50 AM EDT 04/12/18$ 22.47 0.72 3.31%PRE MARKET Vol 18,266Volume2,110,14365 Day Avg Vol3,837,5921 Day Range21.61 - 22.0352 Week Range14.07 - 25.30 (06/29/17 - 01/19/18)",
+  "history": {
+    "url": "http://quotes.wsj.com/STM",
+    "title": "STMicroelectronics N.V.STM  (U.S.: NYSE)",
+    "description": "\"STMicroelectronics N. V. STM (U. S.: NYSE)search View All companies AT CLOSE 4:02 PM EDT 04/11/18$ 21.75USD-0.42 -1.89%PRE MARKET 6:50 AM EDT 04/12/18$ 22.47 0.72 3.31%PRE MARKET Vol 18,266Volume2,110,14365 Day Avg Vol3,837,5921 Day Range21.61 - 22.0352 Week Range14.07 - 25.30 (06/29/17 - 01/19/18)",
+    "frecency": 4764,
+    "url_hash": 79515680525882,
+    "last_visit_date": 1758203929920111
+  }
+}

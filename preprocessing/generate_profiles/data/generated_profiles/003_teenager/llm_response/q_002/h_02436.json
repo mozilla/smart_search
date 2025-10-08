@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Complementary and Alternative Medicine \\\"Complementary and alternative medicine includes practices such as massage, acupuncture, tai chi, and drinking green tea. Credit: i Stock Complementary and alternative medicine (CAM) is the term for medical products and practices that are not part of standard m",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses complementary and alternative medicine, not related to DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Complementary and Alternative Medicine \"Complementary and Alternative Medicine Complementary and alternative medicine includes practices such as massage, acupuncture, tai chi, and drinking green tea. Credit: i Stock Complementary and alternative medicine (CAM) is the term for medical products and practices that are not part of standard m",
+  "history": {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam",
+    "title": "Complementary and Alternative Medicine",
+    "description": "\"Complementary and Alternative Medicine Complementary and alternative medicine includes practices such as massage, acupuncture, tai chi, and drinking green tea. Credit: i Stock Complementary and alternative medicine (CAM) is the term for medical products and practices that are not part of standard m",
+    "frecency": 2501,
+    "url_hash": 39809267834618,
+    "last_visit_date": 1758203930631228
+  }
+}

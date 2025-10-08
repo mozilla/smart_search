@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "At a Glance At a Glancea comfy home from home in southeastern Arkansas. Enjoy outdoor adventures from your base at Hampton Inn Monticello, AR. Head to Lake Monticello, Cut-Off Creek and Seven Devils\u2019 Swamp to enjoy great fishing and scenic walking trails, only five miles from the hotel. Stroll through the Monti",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result describes a hotel and local outdoor activities, not to easy DIY room decoration ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "At a Glance At a Glancea comfy home from home in southeastern Arkansas. Enjoy outdoor adventures from your base at Hampton Inn Monticello, AR. Head to Lake Monticello, Cut-Off Creek and Seven Devils\u2019 Swamp to enjoy great fishing and scenic walking trails, only five miles from the hotel. Stroll through the Monti",
+  "history": {
+    "url": "http://hamptoninn3.hilton.com/en/hotels/arkansas/hampton-inn-monticello-ar-PBFMOHX/index.html",
+    "title": "At a Glance",
+    "description": "At a Glancea comfy home from home in southeastern Arkansas. Enjoy outdoor adventures from your base at Hampton Inn Monticello, AR. Head to Lake Monticello, Cut-Off Creek and Seven Devils\u2019 Swamp to enjoy great fishing and scenic walking trails, only five miles from the hotel. Stroll through the Monti",
+    "frecency": 4671,
+    "url_hash": 56703443039854,
+    "last_visit_date": 1758203927576735
+  }
+}

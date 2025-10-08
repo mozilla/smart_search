@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Use a passcode with your iPhone, iPad, or iPod touch Use a passcode with your i Phone, i Pad, or i Pod touch Learn how to set, use, and change a passcode on your i OS device. Set a passcode on your i OS device to help protect your data. (If your device supports Touch ID, you can often use your fingerprint instead of your passcode. If your device suppo",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses setting a passcode on iOS devices, not debugging or integrating APIs. It is not relevant to the query about debugging API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Use a passcode with your iPhone, iPad, or iPod touch Use a passcode with your i Phone, i Pad, or i Pod touch Learn how to set, use, and change a passcode on your i OS device. Set a passcode on your i OS device to help protect your data. (If your device supports Touch ID, you can often use your fingerprint instead of your passcode. If your device suppo",
+  "history": {
+    "url": "https://support.apple.com/en-gb/HT204060",
+    "title": "Use a passcode with your iPhone, iPad, or iPod touch",
+    "description": "Use a passcode with your i Phone, i Pad, or i Pod touch Learn how to set, use, and change a passcode on your i OS device. Set a passcode on your i OS device to help protect your data. (If your device supports Touch ID, you can often use your fingerprint instead of your passcode. If your device suppo",
+    "frecency": 4622,
+    "url_hash": 92936303392527,
+    "last_visit_date": 1758203929442200
+  }
+}

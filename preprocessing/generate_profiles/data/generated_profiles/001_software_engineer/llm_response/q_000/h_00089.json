@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "The Epicurious Blog \"The Epicurious Blogshare Facebook Tweet pinit googleplus emailprint Eat Your Beet Greens!by Kemp Minifieon 08/28/13 at 11:00 AM\"\"What happened to the beet greens?\" I cried to the produce clerk. I adore beet greens, even more than the big red root, so I always look for beets with the bushiest tops.",
+  "relevance_score": 0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about cooking and beet greens, not about debugging APIs or API integration.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "The Epicurious Blog \"The Epicurious Blogshare Facebook Tweet pinit googleplus emailprint Eat Your Beet Greens!by Kemp Minifieon 08/28/13 at 11:00 AM\"\"What happened to the beet greens?\"\" I cried to the produce clerk. I adore beet greens, even more than the big red root, so I always look for beets with the bushiest tops.",
+  "history": {
+    "url": "http://www.epicurious.com/archive/blogs/editor/2013/08/beet-green-recipes.html",
+    "title": "The Epicurious Blog",
+    "description": "\"The Epicurious Blogshare Facebook Tweet pinit googleplus emailprint Eat Your Beet Greens!by Kemp Minifieon 08/28/13 at 11:00 AM\"\"What happened to the beet greens?\"\" I cried to the produce clerk. I adore beet greens, even more than the big red root, so I always look for beets with the bushiest tops.",
+    "frecency": 4678,
+    "url_hash": 72658831747608,
+    "last_visit_date": 1758203927626200
+  }
+}

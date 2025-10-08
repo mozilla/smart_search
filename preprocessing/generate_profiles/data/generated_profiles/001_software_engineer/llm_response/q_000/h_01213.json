@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "SKYPE FOR BUSINESS FAQ about phone dialing, call transfer, and forwarding",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The result is about Skype for Business call handling, not about API integration debugging; no relevant API debugging content.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "SKYPE FOR BUSINESS FREQUENTLY ASKED QUESTIONS \"PHONESDo I need to dial \u201c9\u201d or \u201c1\u201d before the phone number to make an outgoing call? I use Skype for Business and when someone calls in and asks to be transferred to a second person, can I consult with that second person before transferring the call? Is it possible to forward all incoming calls to",
+  "history": {
+    "url": "http://www.marquette.edu/its/help/skype/faq.shtml",
+    "title": "SKYPE FOR BUSINESS FREQUENTLY ASKED QUESTIONS",
+    "description": "\"PHONESDo I need to dial \u201c9\u201d or \u201c1\u201d before the phone number to make an outgoing call? I use Skype for Business and when someone calls in and asks to be transferred to a second person, can I consult with that second person before transferring the call? Is it possible to forward all incoming calls to ",
+    "frecency": 725,
+    "url_hash": 37154169893073,
+    "last_visit_date": 1758203927420200
+  }
+}

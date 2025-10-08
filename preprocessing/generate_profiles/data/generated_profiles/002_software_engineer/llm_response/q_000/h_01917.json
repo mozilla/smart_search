@@ -1,0 +1,17 @@
+{
+  "search_query": "how to debug API integration",
+  "retrieved_result": "Q: Keyboard shortcut for minimizing maximized windows \\\"NS Nathan Sokalski asked on April 18, 2010Q: Keyboard shortcut for minimizing maximized windows On the website: http://windows.microsoft.com/en-us/windows7/Keyboard-shortcuts It lists the following keyboard shortcut under \\\"Windows logo key keyboard shortcuts\\\": Windows logo key+Down Arrow = Minimi",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses Windows keyboard shortcuts, not API integration debugging; topic mismatch.",
+  "query": "how to debug API integration",
+  "combined_text_for_llm": "Q: Keyboard shortcut for minimizing maximized windows \"NS Nathan Sokalski asked on April 18, 2010Q: Keyboard shortcut for minimizing maximized windows On the website: http://windows.microsoft.com/en-us/windows7/Keyboard-shortcuts It lists the following keyboard shortcut under \"\"Windows logo key keyboard shortcuts\"\": Windows logo key+Down Arrow = Minimi",
+  "history": {
+    "url": "http://answers.microsoft.com/en-us/windows/forum/windows_7-desktop/keyboard-shortcut-for-minimizing-maximized-windows/56fa8575-7873-4915-b560-aaff55045bd9",
+    "title": "Q: Keyboard shortcut for minimizing maximized windows",
+    "description": "\"NS Nathan Sokalski asked on April 18, 2010Q: Keyboard shortcut for minimizing maximized windows On the website: http://windows.microsoft.com/en-us/windows7/Keyboard-shortcuts It lists the following keyboard shortcut under \"\"Windows logo key keyboard shortcuts\"\": Windows logo key+Down Arrow = Minimi",
+    "frecency": 1513,
+    "url_hash": 31366849250794,
+    "last_visit_date": 1758203927780111
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "search_query": "top IDEs for software development",
+  "retrieved_result": "Can you schedule an Uber ahead of time? How do you do this? Can I set the pickup time in advance? Kumar Thangudu, Growth Consultant | Engineer | YC Alum | Blockchain Student Answered May 9, 2015 \u00b7 Author has 143 answers and 1.2m answer views No. You could, but UBER chose to do subpar incentivization design of their API. Unfortunately, UBER's current API offering doesnt allow 3rd parties any sort",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result discusses scheduling Uber pickups and API design, not IDEs or software development environments; thus not relevant to the query about top IDEs.",
+  "query": "top IDEs for software development",
+  "combined_text_for_llm": "Can you schedule an Uber ahead of time? How do you do this? Can I set the pickup time in advance? Kumar Thangudu, Growth Consultant | Engineer | YC Alum | Blockchain Student Answered May 9, 2015 \u00b7 Author has 143 answers and 1.2m answer views No. You could, but UBER chose to do subpar incentivization design of their API. Unfortunately, UBER's current API offering doesnt allow 3rd parties any sort",
+  "history": {
+    "url": "https://www.quora.com/Can-you-schedule-an-Uber-ahead-of-time-How-do-you-do-this-Can-I-set-the-pickup-time-in-advance",
+    "title": "Can you schedule an Uber ahead of time? How do you do this? Can I set the pickup time in advance?",
+    "description": "Kumar Thangudu, Growth Consultant | Engineer | YC Alum | Blockchain Student Answered May 9, 2015 \u00b7 Author has 143 answers and 1.2m answer views No. You could, but UBER chose to do subpar incentivization design of their API. Unfortunately, UBER's current API offering doesnt allow 3rd parties any sort",
+    "frecency": 730,
+    "url_hash": 51808970254397,
+    "last_visit_date": 1758203927224111
+  }
+}

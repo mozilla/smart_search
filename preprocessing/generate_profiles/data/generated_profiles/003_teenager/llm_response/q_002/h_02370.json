@@ -1,0 +1,17 @@
+{
+  "search_query": "easy DIY room decoration ideas",
+  "retrieved_result": "Cherokee National Holiday \\\"Arts and crafts booths on the Cherokee Heritage Center grounds, Cherokee National Holiday, 2007The Cherokee National Holiday is an annual event held each Labor Day weekend in Tahlequah, Oklahoma. The event celebrates the September 6, 1839 signing of the Constitution of the Cherokee Nation in Oklaho",
+  "relevance_score": 0.1,
+  "binary_decision": 0,
+  "Decision_Reason": "The page discusses Cherokee National Holiday and arts and crafts booths, not easy DIY room decoration ideas; content is not about room decor or easy DIY ideas.",
+  "query": "easy DIY room decoration ideas",
+  "combined_text_for_llm": "Cherokee National Holiday \"Arts and crafts booths on the Cherokee Heritage Center grounds, Cherokee National Holiday, 2007The Cherokee National Holiday is an annual event held each Labor Day weekend in Tahlequah, Oklahoma. The event celebrates the September 6, 1839 signing of the Constitution of the Cherokee Nation in Oklaho",
+  "history": {
+    "url": "https://en.wikipedia.org/wiki/Cherokee_National_Holiday",
+    "title": "Cherokee National Holiday",
+    "description": "\"Arts and crafts booths on the Cherokee Heritage Center grounds, Cherokee National Holiday, 2007The Cherokee National Holiday is an annual event held each Labor Day weekend in Tahlequah, Oklahoma. The event celebrates the September 6, 1839 signing of the Constitution of the Cherokee Nation in Oklaho",
+    "frecency": 2570,
+    "url_hash": 63438182808781,
+    "last_visit_date": 1758203933313228
+  }
+}

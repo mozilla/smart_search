@@ -1,0 +1,17 @@
+{
+  "search_query": "latest Python libraries for machine learning",
+  "retrieved_result": "Safeguard Your Thanksgiving Leftovers (content about Thanksgiving leftovers)",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is unrelated to Python libraries or machine learning; it discusses Thanksgiving leftovers.",
+  "query": "latest Python libraries for machine learning",
+  "combined_text_for_llm": "Safeguard Your Thanksgiving Leftovers \"Safeguard Your Thanksgiving Leftovers Thanksgiving dinner usually ends with a lot of leftovers for days. To keep your food fresh and your stomach happy, be sure to follow the 2-2-4 formula for reusing leftovers. From the Web MD Archives They used to say that Chicago stockyard workers used \"\"everyth",
+  "history": {
+    "url": "https://www.webmd.com/food-recipes/features/safeguard-your-thanksgiving-leftovers",
+    "title": "Safeguard Your Thanksgiving Leftovers",
+    "description": "\"Safeguard Your Thanksgiving Leftovers Thanksgiving dinner usually ends with a lot of leftovers for days. To keep your food fresh and your stomach happy, be sure to follow the 2-2-4 formula for reusing leftovers. From the Web MD Archives They used to say that Chicago stockyard workers used \"\"everyth",
+    "frecency": 1952,
+    "url_hash": 77268248183695,
+    "last_visit_date": 1758203928170111
+  }
+}

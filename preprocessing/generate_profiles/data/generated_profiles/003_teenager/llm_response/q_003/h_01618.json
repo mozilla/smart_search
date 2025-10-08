@@ -1,0 +1,17 @@
+{
+  "search_query": "best apps for improving study habits",
+  "retrieved_result": "The Weather in Tenerife Home > The Weather in Tenerife The Weather in Tenerife On this page you can find out about the weather forecast for today and the next seven days for all areas of Tenerife and the golf courses. You can also find out the forecast for sea conditions. Normal weather conditions Districts Coasts and beac",
+  "relevance_score": 0.0,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved page is about weather in Tenerife and contains no information related to study apps or study habit improvement.",
+  "query": "best apps for improving study habits",
+  "combined_text_for_llm": "The Weather in Tenerife Home > The Weather in Tenerife The Weather in Tenerife On this page you can find out about the weather forecast for today and the next seven days for all areas of Tenerife and the golf courses. You can also find out the forecast for sea conditions. Normal weather conditions Districts Coasts and beac",
+  "history": {
+    "url": "http://www.webtenerife.co.uk/weather.htm",
+    "title": "The Weather in Tenerife",
+    "description": "Home > The Weather in Tenerife The Weather in Tenerife On this page you can find out about the weather forecast for today and the next seven days for all areas of Tenerife and the golf courses. You can also find out the forecast for sea conditions. Normal weather conditions Districts Coasts and beac",
+    "frecency": 3334,
+    "url_hash": 25873875769081,
+    "last_visit_date": 1758203933477228
+  }
+}

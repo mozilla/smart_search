@@ -1,0 +1,17 @@
+{
+  "search_query": "top TikTok trends for 2024",
+  "retrieved_result": "Winnie-the-Pooh gets a new friend",
+  "relevance_score": 0.05,
+  "binary_decision": 0,
+  "Decision_Reason": "The retrieved result is about Winnie-the-Pooh and has no evident connection to TikTok trends for 2024; thus not relevant to the query.",
+  "query": "top TikTok trends for 2024",
+  "combined_text_for_llm": "Winnie-the-Pooh gets a new friend",
+  "history": {
+    "url": "http://www.cnn.com/2016/10/14/health/winnie-the-pooh-new-friend/",
+    "title": "Winnie-the-Pooh gets a new friend",
+    "description": "",
+    "frecency": 4530,
+    "url_hash": 75568519782589,
+    "last_visit_date": 1758203933329228
+  }
+}
