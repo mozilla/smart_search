@@ -1,0 +1,86 @@
+query,ground_truth_count,can_parse_window,unit_pass,unit_reason,in_topW,W
+what did I search 06/2024,90,True,False,boundary/ranking: 89/90 in-window in top-W; 1 out-of-window ahead,89,90
+what did I search 08/2025,93,True,False,boundary/ranking: 91/93 in-window in top-W; 2 out-of-window ahead,91,93
+what did I search 2024,1098,True,False,boundary/ranking: 1096/1098 in-window in top-W; 2 out-of-window ahead,1096,1098
+what did I search 20240229,3,False,False,parser failed to resolve window,0,3
+what did I search 2025 09 28,3,True,False,boundary/ranking: 0/3 in-window in top-W; 3 out-of-window ahead,0,3
+what did I search Aug 2025,93,True,False,boundary/ranking: 91/93 in-window in top-W; 2 out-of-window ahead,91,93
+what did I search August 2025,93,True,False,boundary/ranking: 91/93 in-window in top-W; 2 out-of-window ahead,91,93
+what did I search Jun 2024,90,True,False,boundary/ranking: 89/90 in-window in top-W; 1 out-of-window ahead,89,90
+what did I search June 2024,90,True,False,boundary/ranking: 89/90 in-window in top-W; 1 out-of-window ahead,89,90
+what did I search Q2 2024,273,True,False,boundary/ranking: 272/273 in-window in top-W; 1 out-of-window ahead,272,273
+what did I search Sep 2024,90,True,False,boundary/ranking: 89/90 in-window in top-W; 1 out-of-window ahead,89,90
+what did I search September 2024,90,True,False,boundary/ranking: 89/90 in-window in top-W; 1 out-of-window ahead,89,90
+what did I search after 2025-09-01,84,True,False,boundary/ranking: 83/84 in-window in top-W; 1 out-of-window ahead,83,84
+what did I search aug 2025,93,True,False,boundary/ranking: 91/93 in-window in top-W; 2 out-of-window ahead,91,93
+what did I search aug-2025,93,True,False,boundary/ranking: 91/93 in-window in top-W; 2 out-of-window ahead,91,93
+what did I search august 2025,93,True,False,boundary/ranking: 91/93 in-window in top-W; 2 out-of-window ahead,91,93
+what did I search august25,93,True,False,boundary/ranking: 3/93 in-window in top-W; 0 out-of-window ahead,3,93
+what did I search before 2025-09-01,729,True,False,boundary/ranking: 0/729 in-window in top-W; 729 out-of-window ahead,0,729
+what did I search bf 2024,3,True,False,boundary/ranking: 0/3 in-window in top-W; 3 out-of-window ahead,0,3
+what did I search black friday 2024,3,False,False,parser failed to resolve window,0,3
+what did I search last 14 days,42,True,False,boundary/ranking: 41/42 in-window in top-W; 1 out-of-window ahead,41,42
+what did I search last 3 days,9,True,False,boundary/ranking: 8/9 in-window in top-W; 1 out-of-window ahead,8,9
+what did I search last 30 days,90,True,False,boundary/ranking: 89/90 in-window in top-W; 1 out-of-window ahead,89,90
+what did I search last 7 days,21,True,False,boundary/ranking: 20/21 in-window in top-W; 1 out-of-window ahead,20,21
+what did I search last mo,93,False,False,parser failed to resolve window,6,93
+what did I search last seven days,21,True,False,boundary/ranking: 20/21 in-window in top-W; 1 out-of-window ahead,20,21
+what did I search last two days,6,True,False,boundary/ranking: 5/6 in-window in top-W; 1 out-of-window ahead,5,6
+what did I search last week,21,True,False,boundary/ranking: 19/21 in-window in top-W; 2 out-of-window ahead,19,21
+what did I search last weekend,6,True,False,boundary/ranking: 4/6 in-window in top-W; 2 out-of-window ahead,4,6
+what did I search last wk,21,False,False,parser failed to resolve window,18,21
+what did I search last yr,1098,False,False,parser failed to resolve window,282,1098
+what did I search last-week,21,False,False,parser failed to resolve window,18,21
+what did I search lastweek,21,False,False,parser failed to resolve window,18,21
+what did I search past 14 days,42,True,False,boundary/ranking: 41/42 in-window in top-W; 1 out-of-window ahead,41,42
+what did I search past 30 days,90,True,False,boundary/ranking: 89/90 in-window in top-W; 1 out-of-window ahead,89,90
+what did I search past 7 days,21,True,False,boundary/ranking: 20/21 in-window in top-W; 1 out-of-window ahead,20,21
+what did I search prev week,21,False,False,parser failed to resolve window,18,21
+what did I search previous week,21,True,False,boundary/ranking: 19/21 in-window in top-W; 2 out-of-window ahead,19,21
+what did I search q1 2023,270,True,False,boundary/ranking: 269/270 in-window in top-W; 1 out-of-window ahead,269,270
+what did I search sept 2024,90,True,False,boundary/ranking: 89/90 in-window in top-W; 1 out-of-window ahead,89,90
+what did I search summer 2024,276,False,False,parser failed to resolve window,0,276
+what did I search this weekend,6,True,False,boundary/ranking: 0/6 in-window in top-W; 0 out-of-window ahead,0,6
+what did I search until 2025-09-15,774,True,False,boundary/ranking: 0/774 in-window in top-W; 774 out-of-window ahead,0,774
+what did I search week of 2025-09-22,21,True,False,boundary/ranking: 19/21 in-window in top-W; 2 out-of-window ahead,19,21
+"what did I search week of Sep 22, 2025",21,True,False,boundary/ranking: 19/21 in-window in top-W; 2 out-of-window ahead,19,21
+"what did I search week of Sept 22, 2025",21,True,False,boundary/ranking: 19/21 in-window in top-W; 2 out-of-window ahead,19,21
+what did I search winter 2023,273,False,False,parser failed to resolve window,0,273
+what did I search wknd,6,False,False,parser failed to resolve window,3,6
+what did I search yday,3,False,False,parser failed to resolve window,0,3
+what did I search 02/29/2024,3,True,True,,3,3
+what did I search 2/29/2024,3,True,True,,3,3
+what did I search 2025.09.28,3,True,True,,3,3
+what did I search 29 Feb 2024,3,True,True,,3,3
+what did I search 9/1/2025 - 9/15/2025,45,True,True,,45,45
+"what did I search Feb 29, 2024",3,True,True,,3,3
+"what did I search Sep 1 to Sep 15, 2025",45,True,True,,45,45
+"what did I search Sept 1–15, 2025",45,True,True,,45,45
+what did I search between 2025-09-01 and 2025-09-15,45,True,True,,45,45
+what did I search day before yesterday,3,True,True,,3,3
+what did I search from 2025-09-01 to 2025-09-15,45,True,True,,45,45
+what did I search last 30d,90,False,True,,90,90
+what did I search last monday,3,True,True,,3,3
+what did I search last7days,21,False,True,,21,21
+what did I search mon,3,True,True,,3,3
+what did I search monday,3,True,True,,3,3
+what did I search on 2024-02-29,3,True,True,,3,3
+what did I search on 2025/09/28,3,True,True,,3,3
+what did I search on Mon,3,True,True,,3,3
+what did I search on Monday,3,True,True,,3,3
+what did I search on Sunday,3,True,True,,3,3
+what did I search on mon,3,True,True,,3,3
+what did I search on sunday,3,True,True,,3,3
+what did I search past 30d,90,False,True,,90,90
+what did I search past mo,90,False,True,,90,90
+what did I search sep 28 2025,3,True,True,,3,3
+"what did I search sept 28, 2025",3,True,True,,3,3
+what did I search since 2025-09-01,87,True,True,,87,87
+what did I search since 9/1/2025,87,True,True,,87,87
+"what did I search since Sep 1, 2025",87,True,True,,87,87
+what did I search sun,3,True,True,,3,3
+what did I search today,3,True,True,,3,3
+what did I search yeasterday,3,True,True,,3,3
+what did I search yestday,3,True,True,,3,3
+what did I search yesterday,3,True,True,,3,3
+what did I search yesturday,3,True,True,,3,3

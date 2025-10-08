@@ -168,3 +168,4 @@ data/
 .DS_Store
 .idea/
 !preprocessing/generate_profiles/data/
+!temporal_awareness/temporal_rescorer/data/
