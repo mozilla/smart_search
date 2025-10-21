@@ -1,0 +1,101 @@
+,query_id,query,retrieved_ids,relevant_docs,precision@2,recall@2,ndcg@2,reciprocal_rank,average_precision,model_name
+0,8051757018388273129,clear all favorites in edge,"[1340, 1348]",[1340],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+1,1192460306434764450,arthur ashe award winners gallery,"[1601, 3512]",[1601],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+2,1695016561319737255,angela duckworth on grit,"[3549, 1186]",[3549],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+3,6269531664513400534,wyoming january average temperatures by city,"[3575, 3197]",[3575],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+4,-9064243860827020148,Inglewood CA city stats and maps,"[211, 3554]",[211],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+5,3550118415047297325,best quiet tires for highway driving,"[3515, 2863]",[3515],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+6,479283766507032316,unincorporated community near aspen co,"[1465, 1242]",[1465],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+7,504696972446063708,mlk day classroom activities and ideas,"[134, 623]",[134],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+8,-2835333457761170048,dallas rideshare driver forum,"[2677, 707]",[2677],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+9,-8153579815333663769,noida city map with metro and roads,"[1742, 3066]",[1742],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+10,6004197241757860436,are otters suitable pets,"[2316, 47]",[2316],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+11,-3650032187984628030,how to treat a painful eyelid bump,"[26, 2537]",[26],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+12,658712846742624758,accessible lakes in Yosemite,"[929, 3127]",[929],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+13,3173040390206678187,how to quote poetry in essays,"[32, 3557]",[32],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+14,-9029174087614155778,how to improve power grid efficiency,"[315, 168]",[315],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+15,5277948040761638700,do green buildings save money,"[2707, 150]",[2707],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+16,-5900814286735626657,adding sex discrimination services effect on desegregation,"[2887, 2891]",[2887],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+17,6941159307371214716,Thief River Falls MN community profile,"[1509, 2082]",[1509],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+18,-3433049526710597750,download movies and shows to watch offline,"[477, 266]",[270],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+19,5042537436083920482,toshiba laptops optimized for windows 10,"[1965, 3465]",[1965],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+20,6664505699985469754,haltom city tx stats and photos,"[879, 1500]",[879],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+21,6623112761133156283,tilbury essex travel guide reviews,"[1924, 3019]",[1924],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+22,672854406869106673,requirements to teach nursing assistants,"[1057, 2318]",[1057],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+23,-2954553848831034754,northern pike fishing season colorado,"[2377, 39]",[2377],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+24,-9081342559577845598,did kafka base metamorphosis on his life,"[1231, 666]",[1231],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+25,2291557923357588255,Mount Holly Springs community Facebook page,"[439, 37]",[439],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+26,3072943020500531257,honolulu map directions and attractions,"[415, 2658]",[415],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+27,-5325513079181129545,tricare health plan for military families,"[670, 1538]",[670],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+28,7088253035214508641,how militaries jam and spoof radar,"[2843, 1386]",[2843],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+29,2688933744652197693,transport from heathrow to loughborough,"[3019, 2740]",[3019],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+30,-8490951470492121084,pearland tx travel reviews and hotels,"[811, 2520]",[811],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+31,-996406045881719096,dinosaur mod for minecraft 1.7.10,"[2357, 2786]",[2357],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+32,-7417543177348806172,us education department priorities 2018,"[179, 3566]",[179],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+33,4308049185912439952,can dogs have cheese without getting sick,"[2762, 1422]",[2762],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+34,-7220794767500469058,handmade cement tiles ready to ship,"[2988, 3521]",[2988],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+35,-5145814096974902332,maiden name meaning and origin,"[2563, 2456]",[2456],0.5,1.0,0.6309297535714573,0.5,0.25,Xenova_all_MiniLM_L6_v2
+36,7247193648923121982,why were japanese americans interned,"[1226, 2260]",[1226],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+37,-2115175500338126454,how fast do border collies run,"[999, 3026]",[999],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+38,2393093042285708935,company page for global online payments,"[2967, 817]",[817],0.5,1.0,0.6309297535714573,0.5,0.25,Xenova_all_MiniLM_L6_v2
+39,4204991868419199210,mixing two chick breeds in brooder,"[927, 151]",[927],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+40,6276772910657336969,oak island family beach vacation,"[2696, 2925]",[2696],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+41,5105910384725376627,history of Michigan electronics retailer Fretter,"[3033, 2429]",[3033],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+42,8116869427602311779,small affectionate british toy spaniel,"[1717, 2955]",[2955],0.5,1.0,0.6309297535714573,0.5,0.25,Xenova_all_MiniLM_L6_v2
+43,2852884526641407772,ducks unlimited film tweet,"[120, 2076]",[120],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+44,-2599251823317747613,navy admiral retirement pay estimate,"[1786, 2886]",[1786],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+45,7569702082523685783,steps to start a business in hawaii,"[1403, 3235]",[1403],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+46,-7683980865968974944,set gmail as default email windows 7,"[387, 1291]",[387],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+47,7411821512038252698,who handles burial for unclaimed homeless,"[2581, 1510]",[1510],0.5,1.0,0.6309297535714573,0.5,0.25,Xenova_all_MiniLM_L6_v2
+48,-3154914976116610370,how to safely clean home surfaces,"[3351, 2104]",[2104],0.5,1.0,0.6309297535714573,0.5,0.25,Xenova_all_MiniLM_L6_v2
+49,-742889668252246114,are eggplants safe for dogs,"[2962, 1648]",[2962],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+50,-8448569996155891729,1786 western massachusetts farmer uprising,"[1957, 1994]",[1957],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+51,-3122644290891700080,how to hand-tie a quilt,"[842, 3380]",[842],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+52,8505095142748795137,when do texas hunting and fishing licenses start,"[184, 39]",[184],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+53,5450955456176468064,raising rabbit antibodies against proteus vulgaris,"[495, 1222]",[495],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+54,-3589968371844134343,loud toilet noise after flushing,"[2211, 488]",[2211],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+55,4222907067827250769,why do floods cause so much damage,"[3201, 2148]",[3201],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+56,-5749920012371494398,convert yard to square feet,"[926, 2908]",[926],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+57,-7844354018924575829,how to pass wealth to heirs australia,"[461, 642]",[461],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+58,-2275934364526301968,why un peacekeepers failed srebrenica,"[33, 3023]",[33],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+59,-480312867888807461,homemade potting mix recipe for containers,"[1632, 121]",[1793],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+60,1518846156154282358,basis for Congress creating federal courts,"[289, 2602]",[289],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+61,7711719615821602969,how valances differ from cornices,"[2589, 2779]",[2589],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+62,3260055452262711778,diy home gel manicure tutorial,"[1539, 2546]",[1539],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+63,8321824151080512485,modern school library as learning commons,"[644, 3254]",[644],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+64,-6797684264245877923,whale shark mouth size,"[93, 2144]",[93],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+65,-4666123222281219723,who made the first video game,"[969, 2409]",[969],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+66,-2008209197167979893,deduct mortgage interest on unimproved land,"[1554, 1956]",[1554],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+67,-4861023042545598421,chainsmokers song about identity lyrics,"[3474, 1174]",[1174],0.5,1.0,0.6309297535714573,0.5,0.25,Xenova_all_MiniLM_L6_v2
+68,-7942442836549606557,des moines certified home inspector,"[2575, 3536]",[2575],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+69,-1748180271249763806,diy cooler using clay pots,"[1310, 1793]",[3153],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+70,-1290667099458180786,kid clown recites Shel Silverstein,"[803, 2786]",[803],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+71,-6785694649404063237,what Pavlov's dogs teach about learning,"[930, 1474]",[1474],0.5,1.0,0.6309297535714573,0.5,0.25,Xenova_all_MiniLM_L6_v2
+72,-3449838515600759274,eliminate burnt popcorn odor in microwave,"[602, 883]",[602],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+73,2848924733022692083,ponazuril for coccidia in kittens,"[1964, 3545]",[1964],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+74,-5334624661660753888,once-daily osteoarthritis medication for dogs,"[2743, 530]",[2728],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+75,-5670110493369262989,basic marijuana facts THC effects,"[1336, 1804]",[1336],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+76,8155520076411687648,what does yardarm to yardarm mean,"[948, 926]",[948],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+77,-3696226704201381468,playpen vs bassinet for newborn,"[3176, 2861]",[3176],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+78,6610126359552290044,can soil regenerate naturally,"[802, 2249]",[802],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+79,7938526613162554417,replace conservatory roof without altering exterior,"[1765, 2561]",[1765],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+80,-6111643596244217227,barnstead nh genealogy vital records,"[70, 1581]",[70],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+81,1909340001864678248,how emancipation proclamation changed public opinion,"[443, 3414]",[443],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+82,-4840790365039563995,how ecotourism impacts Kenya's environment and communities,"[2329, 3037]",[2329],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+83,-3484518857699508107,china cracking down on vpns,"[2453, 380]",[2453],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+84,-9178272010009827511,how to freeze avocados for guacamole,"[1067, 841]",[1067],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+85,-5115935822965473403,is admiral car insurance worth it,"[2636, 3080]",[2636],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+86,6058361590160514632,history of black walnut trees,"[2772, 379]",[2772],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+87,4435423025443501612,setting up a new fridge freezer,"[2334, 1337]",[2334],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+88,2718825095831662878,Fern Park FL city profile,"[2282, 37]",[2282],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+89,-5414687602307694742,how to get ohio in-state tuition,"[1414, 2015]",[1414],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+90,7919479605022961405,sustainable commuting options Flemington,"[605, 2132]",[605],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+91,-6084371098427604189,do microvisor hoods need power,"[291, 157]",[291],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+92,-8501457032829026941,testing positive for alcohol after days without drinking,"[564, 3181]",[564],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+93,-2090626420948964435,paul manafort obituary new britain,"[2567, 565]",[2567],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+94,-8491406267382805044,how soon are STDs detectable,"[3581, 1235]",[3581],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+95,-2439538668457126402,mount flat screen TV without studs,"[1106, 3004]",[1106],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+96,-1379405290479741643,people named Merle Ambrose social profiles,"[2384, 3160]",[2384],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+97,7559811613770207127,purpose of swim bladder in fish,"[551, 988]",[551],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+98,2703805302348692387,policies affecting us auto manufacturers,"[1236, 1431]",[1236],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+99,488515386833369793,quitclaim deed fees and costs,"[1572, 1554]",[1572],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2

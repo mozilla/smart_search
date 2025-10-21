@@ -1,0 +1,2802 @@
+{
+  "4372396383755263125": {
+    "query_id": "4372396383755263125",
+    "query": "day trips and tours from montreal",
+    "relevants": [
+      {
+        "relevant_doc": 3450,
+        "relevant_url": "https://www.viator.com/Montreal/d625-ttd"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3450,
+        "title": "Montreal Tours, Tickets, Activities & Things To Do",
+        "url": "https://www.viator.com/Montreal/d625-ttd",
+        "combined_text": "Montreal Tours, Tickets, Activities & Things To Do Quebec City and Montmorency Falls Day Trip from Montreal1344 Reviews Montreal, Canada 12 hours Top Insider's Pick From USD$ 88.03Montreal City Guided Sightseeing Tour1085 Reviews Montreal, Canada 3 hours 30 minutes Top Insider's Pick From USD$ 44.02Montreal Attraction Pass58 Reviews Montreal, Canada",
+        "distance": 0.3308962285518646
+      },
+      {
+        "id": 484,
+        "title": "Things to Do in Chicago",
+        "url": "https://www.tripadvisor.com/Attractions-g35805-Activities-Chicago_Illinois.html",
+        "combined_text": "Things to Do in Chicago View Map Types of Things to Do Top Attractions Shop Tours & Tickets Types of Attractions Sights & Landmarks (242)Museums (118)Tours (193)Nature & Parks (73)Outdoor Activities (104)Concerts & Shows (183)Boat Tours & Water Sports (54)More Neighborhoods Downtown / The Loop (244)Near North Side (128)Lin",
+        "distance": 0.6088829636573792
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-6173519391260506977": {
+    "query_id": "-6173519391260506977",
+    "query": "kudo3d titan dlp desktop printer",
+    "relevants": [
+      {
+        "relevant_doc": 1114,
+        "relevant_url": "http://www.3ders.org/articles/20140408-high-speed-high-resolution-dlp-3d-printer-titan-1-with-psp-tech.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1114,
+        "title": "High speed, high resolution DLP 3D printer Titan 1 set to launch soon",
+        "url": "http://www.3ders.org/articles/20140408-high-speed-high-resolution-dlp-3d-printer-titan-1-with-psp-tech.html",
+        "combined_text": "High speed, high resolution DLP 3D printer Titan 1 set to launch soon \"April 8, 2014Inspired by an article \"\"A third industrial revolution\"\" from \"\"The Economist\"\" magazine, Tedd Syao started Kudo3D in 2012 aiming to make a perfect tool for anybody interested to explore the potential of 3D printer. Kudo3D's first product is Titan 1, an easy to use and upgradable deskt",
+        "distance": 0.27128463983535767
+      },
+      {
+        "id": 1928,
+        "title": "How to Completely Delete and Uninstall the HP Printer Deskjet Driver Software",
+        "url": "http://smallbusiness.chron.com/completely-delete-uninstall-hp-printer-deskjet-driver-software-57954.html",
+        "combined_text": "How to Completely Delete and Uninstall the HP Printer Deskjet Driver Software \"Related Articles1How to Delete a HP Printer Driver & Install a New Driver2How to Remove a Printer Driver From the Registry3How to Uninstall an Okidata Printer Driver4Which Folder Has the Printer Driver Files in Windows 7? The HP Deskjet printer comes with a suite of software and utilities, includin",
+        "distance": 0.6670233607292175
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "6901079948508517341": {
+    "query_id": "6901079948508517341",
+    "query": "twitch prime fall game rewards",
+    "relevants": [
+      {
+        "relevant_doc": 351,
+        "relevant_url": "https://blog.twitch.tv/new-loot-from-twitch-prime-this-fall-44740843978"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 351,
+        "title": "New Loot From Twitch Prime this Fall!",
+        "url": "https://blog.twitch.tv/new-loot-from-twitch-prime-this-fall-44740843978",
+        "combined_text": "New Loot From Twitch Prime this Fall! New Loot From Twitch Prime this Fall!In-Game Content for Watch_Dogs® 2 + Punch Club and This War of Mine: Anniversary Edition Each month we’ll be announcing the lineup of games and in-game loot that Twitch Prime members will get as part of their membership. If you’re not a Twitch Prime member yet, y",
+        "distance": 0.251449853181839
+      },
+      {
+        "id": 427,
+        "title": "PLAYERUNKNOWNâs BATTLEGROUNDS",
+        "url": "https://www.earlyaccessclub.com/playerunknowns-battlegrounds/",
+        "combined_text": "PLAYERUNKNOWNâs BATTLEGROUNDS by Early Access Club | Beta new Upcoming | Comments | 06 Mar 2017These are survival games with a last-man-standing spin, somewhat inspired by the Hunger Games. Now PLAYERUNKNOWN, creator of the Battle Royale game modes for ARMA 3 & H1Z1, partnered with Korean developer Bluehole (mostly known for TER",
+        "distance": 0.6768261790275574
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4350143629940146145": {
+    "query_id": "-4350143629940146145",
+    "query": "atlas v illustration for curiosity rover",
+    "relevants": [
+      {
+        "relevant_doc": 1983,
+        "relevant_url": "https://www.jpl.nasa.gov/spaceimages/details.php?id=PIA14830"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1983,
+        "title": "Curiosity Launch Vehicle, Artist's Concept",
+        "url": "https://www.jpl.nasa.gov/spaceimages/details.php?id=PIA14830",
+        "combined_text": "Curiosity Launch Vehicle, Artist's Concept Images | October 3, 2011Curiosity Launch Vehicle, Artist's Concept This is an artist concept of the Atlas V541 launch vehicle that will carry NASA's Curiosity rover on its way to Mars. The Atlas V 541 vehicle was selected for the Mars Science Laboratory mission because it has the right liftoff capab",
+        "distance": 0.317478209733963
+      },
+      {
+        "id": 1493,
+        "title": "It isnât rocket science.",
+        "url": "http://models.com/help/005-what_are_requirements.html",
+        "combined_text": "It isnât rocket science. It isn’t rocket science. (But it’s pretty close). Artists/Models FAQ Learn how the Models.com database works, how to get a database page, how to upload work and more. Aspiring Model FAQ Answers your questions about becoming a model, using our portfolio section, avoiding scammers and more. Agency FAQ",
+        "distance": 0.7648060917854309
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "2066642684486436408": {
+    "query_id": "2066642684486436408",
+    "query": "who wrote Miley Cyrus see you again",
+    "relevants": [
+      {
+        "relevant_doc": 2321,
+        "relevant_url": "http://www.answers.com/Q/Who_wrote_the_song_miley_cyrus%27s_song_see_you_again"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2321,
+        "title": "What is Miley Cyrus's favorite song?",
+        "url": "http://www.answers.com/Q/Who_wrote_the_song_miley_cyrus%27s_song_see_you_again",
+        "combined_text": "What is Miley Cyrus's favorite song? Emlewison 79 Contributions What is Miley Cyrus's favorite song?her favorite song is wake up by Hilary duff Kate Chan 15 Contributions What was Miley Cyrus's first song? The 1st song she ever sung was not Hannah Montanans best of both world and the 1st one she wrote was not the bottom of the ocean. H",
+        "distance": 0.2861514985561371
+      },
+      {
+        "id": 1913,
+        "title": "Billy Ray Cyrus",
+        "url": "https://itunes.apple.com/us/artist/billy-ray-cyrus/id411913",
+        "combined_text": "Billy Ray Cyrus \"Billy Ray Cyrus Garth Brooks was far and away the biggest country music star of the 1990s, but Billy Ray Cyrus was the artist who best exemplified how Nashville's take on the music business had changed in that decade. Brooks was the first country act who was introduced to the world with the same de",
+        "distance": 0.5664166808128357
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4080873214017870521": {
+    "query_id": "-4080873214017870521",
+    "query": "boruto returns home after two years fanfic",
+    "relevants": [
+      {
+        "relevant_doc": 2148,
+        "relevant_url": "https://www.quotev.com/story/7300106/Boruto-Shippuden-a-Naruto-future-fanfic/1"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2148,
+        "title": "Boruto Shippuden a Naruto future fanfic",
+        "url": "https://www.quotev.com/story/7300106/Boruto-Shippuden-a-Naruto-future-fanfic/1",
+        "combined_text": "Boruto Shippuden a Naruto future fanfic \"Boruto Shippuden a Naruto future fanfic Returning homecolbertciera Tags Action Anime/Manga Fanfiction Naruto Anime Boruto Shippuden Future Fanfic Returning home \"\"It's been two years already! I wonder what's happened since we've been gone?\"\" A familiar yet slightly older teenage voice asked while w",
+        "distance": 0.32719171047210693
+      },
+      {
+        "id": 1799,
+        "title": "CPU Fan Speeds up and Slows Down",
+        "url": "http://www.techspot.com/community/topics/cpu-fan-speeds-up-and-slows-down.28199/",
+        "combined_text": "CPU Fan Speeds up and Slows Down Hi All, I'm sort of new with all of this, but I'm having a problem with the fan on the MB. When I turned on the computer today, I could tell that the fan speed was really high, but then it went really low. Every 15 minutes or so, the fan would try to increase in speed, but go back to being really sl",
+        "distance": 0.6893141269683838
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "1242328756781106765": {
+    "query_id": "1242328756781106765",
+    "query": "should I replace laptop internal battery",
+    "relevants": [
+      {
+        "relevant_doc": 93,
+        "relevant_url": "http://www.justanswer.com/laptop/7a43k-message-re-internal-battery-601-do-need-purchase-new.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2032,
+        "title": "Can an iPad Replace a Laptop (2015 Edition)",
+        "url": "http://www.gottabemobile.com/2015/04/04/ipad-replace-laptop-vs-ipad/",
+        "combined_text": "Can an iPad Replace a Laptop (2015 Edition) Can an i Pad Replace a Laptop (2015 Edition)By Josh Smith Posted on 04/04/2015When it comes time to replace your aging laptop the most common question we hear is, “Can an i Pad replace a Laptop?”The second most common questions are about the i Pad vs laptop comparisons asking what each device does b",
+        "distance": 0.4152289628982544
+      },
+      {
+        "id": 2874,
+        "title": "Acer Laptop Batteries - Popular Groupings",
+        "url": "https://www.batteriesplus.com/Battery/Laptop/Acer",
+        "combined_text": "Acer Laptop Batteries - Popular Groupings Home Batteries Laptop Acer Acer Laptop Batteries - Popular Groupings Batteries Plus Bulbs is your source for quality Acer laptop batteries. Each of our laptop battery packs are made with the highest quality battery cells, from leading manufacturers. They are engineered to meet or surpass OEM specifi",
+        "distance": 0.4205556809902191
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-3549487511836225898": {
+    "query_id": "-3549487511836225898",
+    "query": "Kevin Gates Dreka love story",
+    "relevants": [
+      {
+        "relevant_doc": 358,
+        "relevant_url": "http://www.upandcomingmagazine.com/dreka-kevin-gates.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 358,
+        "title": "Dreka and Kevin Gatesâ¦ A Louisiana Love Story",
+        "url": "http://www.upandcomingmagazine.com/dreka-kevin-gates.html",
+        "combined_text": "Dreka and Kevin Gatesâ¦ A Louisiana Love Story Feature Sip on this tea Dreka and Kevin Gates… A Louisiana Love Storywritten by De Shonna Watson August 18, 2016A Louisiana Love Story You want to talk about a couple holding each other down? Meet twenty nine year- old Dreka Haynes and Louisiana’s newest hip-hop heavyweight Marcellus “Kevin” Gates.",
+        "distance": 0.21986350417137146
+      },
+      {
+        "id": 2002,
+        "title": "How Dr. Dre Built His $830 Million Empire By His 52nd Birthday",
+        "url": "https://www.gobankingrates.com/net-worth/dr-dre-net-worth/",
+        "combined_text": "How Dr. Dre Built His $830 Million Empire By His 52nd Birthday How Dr. Dre Built His $830 Million Empire By His 52nd Birthday From N. W. A. to Beats by Dre, Andre Romelle Young has nearly reached billionaire status. By Laura Woods February 16, 2017Hip-hop king and business mogul Dr. Dre turns 52 years old on Feb. 18., and he certainly has a lot of success to ce",
+        "distance": 0.6498423218727112
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7302221144314793107": {
+    "query_id": "7302221144314793107",
+    "query": "Grant Wood 1930 painting farmer and daughter",
+    "relevants": [
+      {
+        "relevant_doc": 3676,
+        "relevant_url": "http://totallyhistory.com/american-gothic/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3676,
+        "title": "American Gothic",
+        "url": "http://totallyhistory.com/american-gothic/",
+        "combined_text": "American Gothic American Gothic Artist Grant Wood Year 1930Medium Oil on beaverboard Location Art Institute of Chicago Dimensions 29.25 in × 24.25 in74.3 cm × 62.4 cm American Gothic is a painting by American artist Grant Wood in 1930. Shown is a farmer and his spinster daughter in front of their house. The models",
+        "distance": 0.4214422106742859
+      },
+      {
+        "id": 315,
+        "title": "The Painting",
+        "url": "http://www.americangothichouse.net/about/the-painting/",
+        "combined_text": "The Painting The Painting American Gothic, 1930 by Grant Wood. All rights reserved Wood Graham Beneficiaries/Licensed by VAGA, New York, NY. When viewing the painting, it is important to realize the extent to which Wood designed and conceptualized American Gothic. At first look, many believe American Gothic is a",
+        "distance": 0.5369685292243958
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "47968713534446856": {
+    "query_id": "47968713534446856",
+    "query": "watch oscars winners and extras",
+    "relevants": [
+      {
+        "relevant_doc": 1233,
+        "relevant_url": "http://oscars.ctv.ca/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1233,
+        "title": "The Oscars Â®",
+        "url": "http://oscars.ctv.ca/",
+        "combined_text": "The Oscars Â® Catch the Shows You Love Looking for Something? SEARCHLooking for Something? The Oscars ®Watch Tons of Extras On Demand Now Available Online: Day After Broadcast Home Video Winners News Winners See the full list of winners from the 90th Oscars. See All Winners Winners See the full list of winners fr",
+        "distance": 0.2990516126155853
+      },
+      {
+        "id": 3456,
+        "title": "Walt's Oscars: The First Academy Awards",
+        "url": "http://www.waltdisney.org/blog/walts-oscars-first-academy-awards",
+        "combined_text": "Walt's Oscars: The First Academy Awards Feb 3, 2012Share |Walt's Oscars: The First Academy Awards February is Awards Season, and The Walt Disney Family Museum is celebrating, with film presentations and visitor programs throughout the month. Walt personally won 32 Academy Awards® throughout his career. To this day, Walt still holds the re",
+        "distance": 0.5071656107902527
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-2049233658032578771": {
+    "query_id": "-2049233658032578771",
+    "query": "classic bollywood family drama 2001",
+    "relevants": [
+      {
+        "relevant_doc": 2947,
+        "relevant_url": "https://in.bookmyshow.com/movies/kabhi-khushi-kabhi-gham/ET00003004"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 786,
+        "title": "Salman Khan",
+        "url": "https://en.wikipedia.org/wiki/Salman_Khan",
+        "combined_text": "Salman Khan \"From Wikipedia, the free encyclopedianavigation search This article is about the Indian film actor. For other people with the same name, see Salman Khan (disambiguation). Salman Khan Khan in 2016 at the Filmfare Awards Born Abdul Rashid Salim Salman Khan 27 December 1965 (age 52)Indore, Madhya Prad",
+        "distance": 0.7363129258155823
+      },
+      {
+        "id": 619,
+        "title": "Operating Calendar",
+        "url": "https://www.castlepark.com/hours-and-directions/operating-hours",
+        "combined_text": "Operating Calendar Operating Calendar Looking for the best place for fun family activities in Riverside? You have come to the right place! Castle Park is where you will find family-friendly activities, rides, miniature golf, and even a water play area! Plan your next group event or bring the family for a day of fun. T",
+        "distance": 0.7503929734230042
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "9014620207225960421": {
+    "query_id": "9014620207225960421",
+    "query": "restrict windows authentication to specific users",
+    "relevants": [
+      {
+        "relevant_doc": 564,
+        "relevant_url": "https://serverfault.com/questions/350653/enable-windows-authentication-on-website-allow-only-some-users"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2113,
+        "title": "Authentication Types in Reporting Services",
+        "url": "https://technet.microsoft.com/en-us/library/cc281310(v=sql.105).aspx",
+        "combined_text": "Authentication Types in Reporting Services Authentication Types in Reporting Services Reporting Services handles all authentication functions for HTTP requests through either the Windows Authentication extension that is installed with the server or a custom authentication extension that you deploy. The Windows Authentication extension suppor",
+        "distance": 0.36776772141456604
+      },
+      {
+        "id": 258,
+        "title": "How can I change user passwords in Windows 7 and 8.1 without knowing current password?",
+        "url": "http://www.softwareok.com/?seite=faq-Windows-7&faq=58",
+        "combined_text": "How can I change user passwords in Windows 7 and 8.1 without knowing current password? \"How can I change user passwords in Windows 7 and 8.1 without knowing current password? To change the password of a specific user in windows 7 or 10 and 8.1, without knowing the current password, no hacker knowledge required. Please start the Windows 7 (Windows-8, Vista, Server 2008) cmd.exe in admi",
+        "distance": 0.4669862687587738
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7530719542809035492": {
+    "query_id": "7530719542809035492",
+    "query": "how to follow up after applying",
+    "relevants": [
+      {
+        "relevant_doc": 1731,
+        "relevant_url": "https://www.livecareer.com/quintessential/following-job-leads"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 372,
+        "title": "iPhone Owner's Guide",
+        "url": "https://www.gazelle.com/how-to/iphone/if-your-iphone-gets-wet",
+        "combined_text": "iPhone Owner's Guide i Phone Owner's Guide What to Do If Your i Phone Gets Wet If your i Phone comes into contact with water or another liquid, resist the urge to panic while the liquid saturates the internal components. Instead, follow these simple steps in order to prevent lasting damage: Remove your i Phone from the",
+        "distance": 0.6552703976631165
+      },
+      {
+        "id": 1731,
+        "title": "Follow Up All Job Leads: Donât Wait by the Phone (or Computer)",
+        "url": "https://www.livecareer.com/quintessential/following-job-leads",
+        "combined_text": "Follow Up All Job Leads: Donât Wait by the Phone (or Computer) Follow Up All Job Leads: Don’t Wait by the Phone (or Computer)by Live Career Staff Writerby Randall S. Hansen, Ph. D. Does this scenario sound familiar? You’re in the market for a new job, and after conducting all your research, you send out 20 cover letters and resumes to potential hiring managers.",
+        "distance": 0.696813702583313
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8562744173437084401": {
+    "query_id": "8562744173437084401",
+    "query": "anyone seen headless horseman skyrim",
+    "relevants": [
+      {
+        "relevant_doc": 2632,
+        "relevant_url": "https://www.gamefaqs.com/xbox360/615803-the-elder-scrolls-v-skyrim/answers/305964-have-u-seen-the-headless-horseman"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2632,
+        "title": "The Elder Scrolls V: Skyrim",
+        "url": "https://www.gamefaqs.com/xbox360/615803-the-elder-scrolls-v-skyrim/answers/305964-have-u-seen-the-headless-horseman",
+        "combined_text": "The Elder Scrolls V: Skyrim Xbox 360 Role-Playing Western-Style The Elder Scrolls V: Skyrim Home FAQs Cheats Reviews Images Videos Answers Board Have u seen the headless horseman? Just curious when i first got the game when it came out i did a lil exploring i seen a headless horseman has ne one seen this in the game i have onl",
+        "distance": 0.3254799544811249
+      },
+      {
+        "id": 2119,
+        "title": "Voice Cast (Skyrim)",
+        "url": "http://elderscrolls.wikia.com/wiki/Voice_Cast_(Skyrim)",
+        "combined_text": "Voice Cast (Skyrim) This The Elder Scrolls V: Skyrim article or section is in need of immediate attention because: Is the trivia truly trivia? Please improve this article however you can remove this notice once finished. For other uses, see Voice Cast. Bethesda employed over seventy voice actors to record the voices of",
+        "distance": 0.6946704983711243
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3367332040229207342": {
+    "query_id": "3367332040229207342",
+    "query": "how to build large home theater screen",
+    "relevants": [
+      {
+        "relevant_doc": 443,
+        "relevant_url": "http://www.stesoft.com/htscreen/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3693,
+        "title": "How to Set Up a Home Theater: Selecting the Right Screen Size",
+        "url": "http://www.technologyguide.com/howto/home-theater-beyond-the-gear-how-to-set-up-a-home-theater/",
+        "combined_text": "How to Set Up a Home Theater: Selecting the Right Screen Size How to Set Up a Home Theater: Selecting the Right Screen Size March 5, 2013 by Barney Morisette Reads (29,816)Tweet Comments (0) Email Print There is a huge amount of information out there on what speakers, wires, Blu-ray players, receiver, televisions, remotes, etc. are best for home theater. Howev",
+        "distance": 0.3681032359600067
+      },
+      {
+        "id": 443,
+        "title": "\"Building a 110\"\" screen from wood & blackout cloth.\"",
+        "url": "http://www.stesoft.com/htscreen/",
+        "combined_text": "\"Building a 110\"\" screen from wood & blackout cloth.\" \"Building a 110\"\" screen from wood & blackout cloth. Home Theater Room Pics here Without reading anything but this link I decided to try building a screen out of 54\"\" wide blackout cloth, wood, bracket things, and some black felt. What follows are some pictures and descriptions of how it went, and w",
+        "distance": 0.5560664534568787
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "6418625282644135994": {
+    "query_id": "6418625282644135994",
+    "query": "jane lynch biography and personal stats",
+    "relevants": [
+      {
+        "relevant_doc": 2304,
+        "relevant_url": "http://bollysuperstar.com/jane-lynch-age-height-weight-net-worth-husband-family-instagram/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2304,
+        "title": "Jane Lynch Measurements, Height, Age, Wiki, Husband, Biography",
+        "url": "http://bollysuperstar.com/jane-lynch-age-height-weight-net-worth-husband-family-instagram/",
+        "combined_text": "Jane Lynch Measurements, Height, Age, Wiki, Husband, Biography Jane Lynch Measurements, Height, Age, Wiki, Husband, Biography Bollysuperstar December 16, 2016 Hollywood Actress, Model, Television Actress Jane Lynch Measurements, Height, Age, Wiki, Husband, Biography. Jane Lynch was born 14 July 1960 ( Age 57 Years) in Evergreen Park, Illinois, U. S. Jane Lynch",
+        "distance": 0.27595189213752747
+      },
+      {
+        "id": 2201,
+        "title": "About Jane",
+        "url": "http://www.janeray.com/about/",
+        "combined_text": "About Jane About Jane Born in London, Jane studied art and design at Middlesex University. Her main study was ceramics and she didn't start to illustrate until she left college. Her first published work was a series of greetings cards for Roger la Borde, followed by some book jackets, and eventually black and",
+        "distance": 0.7014870643615723
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "2120069292798526800": {
+    "query_id": "2120069292798526800",
+    "query": "legal definition of copyright violation",
+    "relevants": [
+      {
+        "relevant_doc": 184,
+        "relevant_url": "http://legal-dictionary.thefreedictionary.com/copyright+infringement"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 184,
+        "title": "copyright infringement",
+        "url": "http://legal-dictionary.thefreedictionary.com/copyright+infringement",
+        "combined_text": "copyright infringement \"copyright infringement Also found in: Dictionary, Thesaurus, Financial, Acronyms, Encyclopedia, Wikipedia . Copyright A bundle of intangible rights granted by statute to the author or originator of certain literary or artistic productions, whereby, for a limited period, the exclusive privilege is g",
+        "distance": 0.3728216588497162
+      },
+      {
+        "id": 139,
+        "title": "\"\"\"Doctor Faustus - FULL Audio...\"\" The YouTube account associated with this video has been terminated due to multiple third-party notifications of copyright infringement.\"",
+        "url": "http://www.youtube.com/watch?v=ZF3o-svLH5o",
+        "combined_text": "\"\"\"Doctor Faustus - FULL Audio...\"\" The YouTube account associated with this video has been terminated due to multiple third-party notifications of copyright infringement.\" \"\"\"Doctor Faustus - FULL Audio...\"\" The You Tube account associated with this video has been terminated due to multiple third-party notifications of copyright infringement. Sorry about that. \"",
+        "distance": 0.6794393062591553
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7636587338099612238": {
+    "query_id": "7636587338099612238",
+    "query": "vinyl cutter for stickers and decals",
+    "relevants": [
+      {
+        "relevant_doc": 3502,
+        "relevant_url": "http://www.ebay.com/sch/i.html?_nkw=vinyl+lettering+machine"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3502,
+        "title": "10 results for vinyl lettering machine",
+        "url": "http://www.ebay.com/sch/i.html?_nkw=vinyl+lettering+machine",
+        "combined_text": "10 results for vinyl lettering machine \"Items in search results Bernie Sanders 4\"\" x 7\"\"Die Cut Vinyl Decal Window Wall Car Bumper Sticker New (Other)$5.00Buy It Now+$3.50 shipping Wall Vinyl Sticker Room Decal Mural Design Write Printing Machine Letter bo2200Brand New$23.19Was: $28.99Buy It Now+$4.99 shipping20% off Rage Against The Mac",
+        "distance": 0.4584721326828003
+      },
+      {
+        "id": 3238,
+        "title": "24 results for what is rubber stamp",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=what+is+rubber+stamp",
+        "combined_text": "24 results for what is rubber stamp \"Items in search results New listing Stampin Up Rubber Stamp Life is what happens while your busy making other plans Pre-Owned$4.99or Best Offer+$3.25 shipping Accept What Is Text, Wood Mounted Rubber Stamp IMPRESSION OBSESSION - NEW E17081Brand New$13.40Buy It Now Free Shipping5 Watching FAST 'N FR",
+        "distance": 0.7015990018844604
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-6112023032440321177": {
+    "query_id": "-6112023032440321177",
+    "query": "charlie harper cameo in series finale",
+    "relevants": [
+      {
+        "relevant_doc": 1444,
+        "relevant_url": "http://nypost.com/2015/02/19/charlie-harper-but-not-sheen-returns-for-two-and-a-half-men-finale/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1444,
+        "title": "Charlie Harper â but not Sheen â returns for âTwo and a Half Menâ finale",
+        "url": "http://nypost.com/2015/02/19/charlie-harper-but-not-sheen-returns-for-two-and-a-half-men-finale/",
+        "combined_text": "Charlie Harper â but not Sheen â returns for âTwo and a Half Menâ finale Entertainment Charlie Harper – but not Sheen – returns for ‘Two and a Half Men’ finale By Andrea Morabito February 19, 2015 | 11:02pm Modal Trigger Ashton Kutcher, Chuck Lorre and Jon Cryer CBSMore On:two and a half men The most vicious behind-the-scenes feuds in TV history You'll never believe what",
+        "distance": 0.45165374875068665
+      },
+      {
+        "id": 1916,
+        "title": "Laura Bell Bundy",
+        "url": "http://www.tvguide.com/celebrities/laura-bell-bundy/251732",
+        "combined_text": "Laura Bell Bundy Overview News Biography Photos Video Clips Credits TV Listings Latest News See all »Exclusive: Charlie Sheen Pursues a Return to Two and a Half Men Sep 22, 2014 10:52 AM EDTAs Anger Management nears the end of its 100-episode order, Charlie Sheen is bracing for what may be the FX sitcom's wrap. Simu",
+        "distance": 0.5627192258834839
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-7598561368326860641": {
+    "query_id": "-7598561368326860641",
+    "query": "do I need a licence for great crested newts",
+    "relevants": [
+      {
+        "relevant_doc": 3615,
+        "relevant_url": "https://www.gov.uk/guidance/great-crested-newts-protection-surveys-and-licences"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3615,
+        "title": "Great crested newts: protection and licences",
+        "url": "https://www.gov.uk/guidance/great-crested-newts-protection-surveys-and-licences",
+        "combined_text": "Great crested newts: protection and licences Guidance Great crested newts: protection and licences What you must do to avoid harming great crested newts and when you’ll need a licence. Published 9 October 2014 Last updated 18 May 2015 — see all updates From: Natural England Applies to: England Contents What you must not do Activities that can",
+        "distance": 0.12682299315929413
+      },
+      {
+        "id": 1717,
+        "title": "Chagrin River Park",
+        "url": "http://www.lakemetroparks.com/parks-trails/chagrin-river-park",
+        "combined_text": "Chagrin River Park Alert: The playground located at the park's Reeves Road access will be replaced between April 10 and April 13. Most of the park's natural areas are made up of dense shrubs with pockets of mature forest bordering wetland areas. Look for great blue herons, kingfishers, bank swallows and sandpipers nea",
+        "distance": 0.7504354119300842
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-5570663910342484578": {
+    "query_id": "-5570663910342484578",
+    "query": "do i need multiple visual c++ redistributables",
+    "relevants": [
+      {
+        "relevant_doc": 1356,
+        "relevant_url": "https://answers.microsoft.com/en-us/windows/forum/windows_8-performance/how-many-versions-of-microsoft-visual-c-do-i-need/da50f3f0-827a-4551-912a-fd1b7ddc341e"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1356,
+        "title": "Q: How many versions of Microsoft Visual C++ do I need? And are they all necessary?",
+        "url": "https://answers.microsoft.com/en-us/windows/forum/windows_8-performance/how-many-versions-of-microsoft-visual-c-do-i-need/da50f3f0-827a-4551-912a-fd1b7ddc341e",
+        "combined_text": "Q: How many versions of Microsoft Visual C++ do I need? And are they all necessary? P _Phenom asked on November 15, 2012Q: How many versions of Microsoft Visual C++ do I need? And are they all necessary? I recently upgraded to Windows 8 and have since reinstalled several apps I previously had on Windows Vista 64 bit. Throughout the several installation processes, different versions",
+        "distance": 0.6016843914985657
+      },
+      {
+        "id": 3696,
+        "title": "Early and Late Binding (Visual Basic)",
+        "url": "https://msdn.microsoft.com/en-us/library/0tcf61s1.aspx",
+        "combined_text": "Early and Late Binding (Visual Basic) \"Early and Late Binding (Visual Basic)July 20, 2015 2 minutes to read Contributorsall In this article Advantages of Early Binding See Also The Visual Basic compiler performs a process called binding when an object is assigned to an object variable. An object is early bound when it is assigned to a v",
+        "distance": 0.6516326069831848
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "6628429797119916746": {
+    "query_id": "6628429797119916746",
+    "query": "who is todd griglio at microsoft",
+    "relevants": [
+      {
+        "relevant_doc": 1278,
+        "relevant_url": "https://www.linkedin.com/in/todd-griglio-55a073a4"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1278,
+        "title": "Todd Griglio",
+        "url": "https://www.linkedin.com/in/todd-griglio-55a073a4",
+        "combined_text": "Todd Griglio Todd Griglio Director World Wide Incentive Compensation at Microsoft Computer Software Current Microsoft500+ connections See what Todd Griglio is interested in today. Your colleagues, classmates, and 500 million other professionals are on Linked In. View Todd’s Full Profile Todd Griglio’s Activity T",
+        "distance": 0.100646011531353
+      },
+      {
+        "id": 3709,
+        "title": "Microsoft Office Customer Service Number",
+        "url": "https://contactforhelp.com/microsoft-tech-support/",
+        "combined_text": "Microsoft Office Customer Service Number Microsoft Office Customer Service Number Microsoft plans, creates, produces, certifies, supports and market personal computers, consumer electronics and computer software. It has bestowed world with some of the best products like Internet Explorer, Microsoft Office and Windows. Founded by Bill Gates",
+        "distance": 0.7534161806106567
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7518318709997576547": {
+    "query_id": "7518318709997576547",
+    "query": "meaning of being main character",
+    "relevants": [
+      {
+        "relevant_doc": 3020,
+        "relevant_url": "https://www.vocabulary.com/dictionary/starring"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2781,
+        "title": "Definitions Of Fiction Categories And Genres",
+        "url": "http://resources.writersonlineworkshops.com/resources/definitions-of-fiction-categories-and-genres/",
+        "combined_text": "Definitions Of Fiction Categories And Genres Definitions Of Fiction Categories And Genres The following definitions have been excerpted with permission from Writer’s Encyclopedia, (Writer’s Digest Books)Adventure Story A genre of fiction in which action is the key element, overshadowing characters, theme and setting. … The conflict in an adven",
+        "distance": 0.6145163774490356
+      },
+      {
+        "id": 23,
+        "title": "adaptation- definition and synonyms",
+        "url": "https://www.macmillandictionary.com/dictionary/british/adaptation",
+        "combined_text": "adaptation- definition and synonyms Show lessadaptation- definition and synonyms What are red words? Using the thesaurusnoun/ ˌædæpˈteɪʃ (ə)n /or adaption / əˈdæpʃ (ə)n /Contribute to our Open Dictionary Other entries for this word1 [ countable] a film, TV programme etc that has been made from a book or play The television adaptation",
+        "distance": 0.6617813110351562
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8579966052729198552": {
+    "query_id": "8579966052729198552",
+    "query": "ivan parker gospel lyrics",
+    "relevants": [
+      {
+        "relevant_doc": 3642,
+        "relevant_url": "http://www.metrolyrics.com/ivan-parker-lyrics.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2003,
+        "title": "Hymns Lyrics : At The Cross",
+        "url": "http://www.greatchristianhymns.com/at-the-cross.html",
+        "combined_text": "Hymns Lyrics : At The Cross \"Print This Page Hymns Lyrics : At The Cross To print \"\"At The Cross\"\", just highlight the words of the hymn and copy and paste into your word editor. This is one of the many hymns written by Isaac Watts (1674 - 1748) and was published in the year 1707. It is a very popular hymn used by many evangel",
+        "distance": 0.7489649653434753
+      },
+      {
+        "id": 2606,
+        "title": "Hank Williams - Where The Soul Never Dies Lyrics",
+        "url": "http://www.songlyrics.com/hank-williams/where-the-soul-never-dies-lyrics/",
+        "combined_text": "Hank Williams - Where The Soul Never Dies Lyrics Hank Williams - Where The Soul Never Dies Lyrics Artist: Hank Williams Album: Unreleased Recordings: Gospel Keepsakes Genre: Country Heyo! SONGLYRICS just got interactive. Highlight. Review: RIFF-it. RIFF-it good. Listen while you read!To Canaan's land I'm on my way Where the soul of man never dies",
+        "distance": 0.798721194267273
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "4526980090396227807": {
+    "query_id": "4526980090396227807",
+    "query": "craft beer event franklin park zoo",
+    "relevants": [
+      {
+        "relevant_doc": 790,
+        "relevant_url": "https://www.groupon.com/deals/goldstar-franklin-park-zoo"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 790,
+        "title": "\"\"\"Brew at the Zoo\"\" - Saturday August 20, 2016 / 3:30pm - 7:30pm\"",
+        "url": "https://www.groupon.com/deals/goldstar-franklin-park-zoo",
+        "combined_text": "\"\"\"Brew at the Zoo\"\" - Saturday August 20, 2016 / 3:30pm - 7:30pm\" \"\"\"Brew at the Zoo\"\" - Saturday August 20, 2016 / 3:30pm - 7:30pm Franklin Park Zoo Boston Saturday August 20, 2016 / 3:30pm - 7:30pm - General Admission Discount 2%$60Not yet availablenot yet available Up to 2% Off SHARE THIS DEALWhat You'll Get Walk on the wild side, craft beer in hand, at Frankli",
+        "distance": 0.4655231237411499
+      },
+      {
+        "id": 1513,
+        "title": "Washington Park",
+        "url": "https://www.travelportland.com/article/washington-park/",
+        "combined_text": "Washington Park Home Portland with kids Washington Park Washington Park Portland's signature park offers gardens, museums, memorials, a zoo, wilderness and more. By Brian Barker | July 9, 2013 (updated April 6, 2018)Tags: good for kids, cult status, museums/galleries, parks/natural spaces, attractions Share this pa",
+        "distance": 0.5743818879127502
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-7423914381494219773": {
+    "query_id": "-7423914381494219773",
+    "query": "preschool number printables and activities",
+    "relevants": [
+      {
+        "relevant_doc": 402,
+        "relevant_url": "http://www.first-school.ws/theme/numbers_preschool_printables.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 402,
+        "title": "First-School.ws Numbers Printable Activities: Coloring Pages, Flash Cards, Worksheets",
+        "url": "http://www.first-school.ws/theme/numbers_preschool_printables.htm",
+        "combined_text": "First-School.ws Numbers Printable Activities: Coloring Pages, Flash Cards, Worksheets Calendars Featuring U. S. and some international holidays and events, or blank. Print your own activities and/or simple chores for young children. Learn numerals (1-31), days of the week, months of the year, seasons and holidays. Domino Math Printable dominoes and addition worksheets Dot-to-Dots Con",
+        "distance": 0.5134009122848511
+      },
+      {
+        "id": 3219,
+        "title": "4 Kindergarten Lesson Plans to Help your School's Language Arts Curriculum",
+        "url": "http://education.cu-portland.edu/blog/educator-tips/4-kindergarten-lesson-plans-to-help-your-schools-language-arts-curriculum/",
+        "combined_text": "4 Kindergarten Lesson Plans to Help your School's Language Arts Curriculum For Teachers Updated November 8, 20174 Kindergarten Lesson Plans to Help your School's Language Arts Curriculum By Room 241 Team • February 13, 2013The kindergarten school curriculum is structured to give children a foundation on which to build their language skills. Pictures, sounds and activities",
+        "distance": 0.638631284236908
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4247002116206834415": {
+    "query_id": "-4247002116206834415",
+    "query": "set up ipv6 on windows server 2008 r2",
+    "relevants": [
+      {
+        "relevant_doc": 325,
+        "relevant_url": "http://www.programming4.us/desktop/2794.aspx"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 325,
+        "title": "How to Configure IPv6 on Windows Server 2008 R2",
+        "url": "http://www.programming4.us/desktop/2794.aspx",
+        "combined_text": "How to Configure IPv6 on Windows Server 2008 R2 How to Configure IPv6 on Windows Server 2008 R2- How To Install Windows Server 2012 On Virtual Box- How To Bypass Torrent Connection Blocking By Your ISP- How To Install Actual Facebook App On Kindle Fire2/15/2011 9:16:44 AMMany of the tasks for configuring IPv6 are exactly the same as those for IPv",
+        "distance": 0.21906429529190063
+      },
+      {
+        "id": 2739,
+        "title": "All Group Policy Settings for Remote Desktop Services in Windows Server 2008 R2",
+        "url": "https://technet.microsoft.com/en-us/library/ee791756(v=ws.10).aspx",
+        "combined_text": "All Group Policy Settings for Remote Desktop Services in Windows Server 2008 R2 Docs Previous Versions Windows All Group Policy Settings for Remote Desktop Services in Windows Server 2008 R2July 2, 2012 4 minutes to read In this article Computer Configuration Group Policy Settings User Configuration Group Policy Settings Applies To: Windows Server 2008 R2The following is a list",
+        "distance": 0.33550506830215454
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "6614176067052613258": {
+    "query_id": "6614176067052613258",
+    "query": "how vinyl records produce sound",
+    "relevants": [
+      {
+        "relevant_doc": 415,
+        "relevant_url": "http://www.livescience.com/33793-record-players-work.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3387,
+        "title": "Who Invented the Microphone?",
+        "url": "http://www.whoinventedit.net/who-invented-the-microphone.html",
+        "combined_text": "Who Invented the Microphone? Who Invented the Microphone? Tweet A microphone is an instrument that converts sound waves into electric signals. These signals are then changed back into sound waves in speakers. Microphones are universally employed in media and telecommunications to increase the volume of sound. The word microphon",
+        "distance": 0.5982421636581421
+      },
+      {
+        "id": 3205,
+        "title": "Sound Card",
+        "url": "https://pc.net/glossary/definition/soundcard",
+        "combined_text": "Sound Card \"Home : Glossary : Sound Card Solid State | Source Code Tweet Sound Card The sound card is a component inside the computer that provides audio input and output capabilities. Most sound cards have at least one analog line input and one stereo line output connection. The connectors are typically 3.5 m",
+        "distance": 0.6404672265052795
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7541017095613779680": {
+    "query_id": "7541017095613779680",
+    "query": "port macquarie activities video guide",
+    "relevants": [
+      {
+        "relevant_doc": 3126,
+        "relevant_url": "http://www.portmacquarieinfo.com.au/explore/location.aspx?id=376"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3126,
+        "title": "watch the 52+ things to do video",
+        "url": "http://www.portmacquarieinfo.com.au/explore/location.aspx?id=376",
+        "combined_text": "watch the 52+ things to do video See & Do Greater Port Macquarie has things to see and do for all ages of various interests who can enjoy activities such as high-speed boats, scenic river cruises and much more. With the Pacific Ocean, golden beaches, lush rainforests and abundant wildlife, these are just some of the reasons that so",
+        "distance": 0.6119834780693054
+      },
+      {
+        "id": 2603,
+        "title": "DataPro's DisplayPort Guide and FAQ",
+        "url": "https://www.datapro.net/techinfo/displayport_info.html",
+        "combined_text": "DataPro's DisplayPort Guide and FAQ \"Data Pro's Display Port Guide and FAQData Pro Tech Info > Data Pro's Display Port Guide and FAQDisplay Port is a digital display and data transfer interface developed by the Video Electronics Standards Association (VESA). Although typically seen as a video connection on higher-end desktop computers",
+        "distance": 0.6309518814086914
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "1735505205189374203": {
+    "query_id": "1735505205189374203",
+    "query": "curse client installation aborted windows 7",
+    "relevants": [
+      {
+        "relevant_doc": 1825,
+        "relevant_url": "http://answers.microsoft.com/en-us/windows/forum/windows_7-windows_programs/error-or-problem-after-attempting-to-install-a/19a0fc89-3e34-40e0-93ce-c51d3b07545e"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1825,
+        "title": "\"Q: Error or problem after attempting to install a program or two,\"\"CAG2901L\"\" Program is not installed, it's just aborted.\"",
+        "url": "http://answers.microsoft.com/en-us/windows/forum/windows_7-windows_programs/error-or-problem-after-attempting-to-install-a/19a0fc89-3e34-40e0-93ce-c51d3b07545e",
+        "combined_text": "\"Q: Error or problem after attempting to install a program or two,\"\"CAG2901L\"\" Program is not installed, it's just aborted.\" \"JE Jeremy Jay Jay asked on February 10, 2013Q: Error or problem after attempting to install a program or two,\"\"CAG2901L\"\" Program is not installed, it's just aborted. Iv'e been trying to install a Curse client which is a tool for installing addons onto games, and I've been trying to download and in",
+        "distance": 0.5245230793952942
+      },
+      {
+        "id": 3425,
+        "title": "How To Disable Windows Update In Windows 10",
+        "url": "http://www.intowindows.com/how-to-disable-windows-update-in-windows-10/",
+        "combined_text": "How To Disable Windows Update In Windows 10 How To Disable Windows Update In Windows 10Last Updated on November 22, 2016 by admin 15 Comments RECOMMENDED: Click here to fix Windows errors and improve PC performance Want to turn off or disable Windows Update in Windows 10? Here are thee ways to stop Windows 10 from automatically downloading up",
+        "distance": 0.5408741235733032
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8204265660182721430": {
+    "query_id": "-8204265660182721430",
+    "query": "turn off host profile MAC address prompts",
+    "relevants": [
+      {
+        "relevant_doc": 3608,
+        "relevant_url": "https://blogs.vmware.com/vsphere/2013/03/how-to-prevent-host-profiles-from-prompting-for-mac-addresses.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3608,
+        "title": "How To Prevent Host Profiles From Prompting for MAC Addresses",
+        "url": "https://blogs.vmware.com/vsphere/2013/03/how-to-prevent-host-profiles-from-prompting-for-mac-addresses.html",
+        "combined_text": "How To Prevent Host Profiles From Prompting for MAC Addresses How To Prevent Host Profiles From Prompting for MAC Addresses Kyle Gleed posted March 18, 20132 Comments Tweet I’ve been asked several times if there is a way to get a host profile to stop prompting for MAC addresses. This is actually pretty easy, although arguably not very intuitive. Lets start wit",
+        "distance": 0.34361156821250916
+      },
+      {
+        "id": 2377,
+        "title": "When good Macs go bad: Steps to take when your Mac won't start up",
+        "url": "http://www.macworld.com/article/2018853/when-good-macs-go-bad-steps-to-take-when-your-mac-wont-start-up.html",
+        "combined_text": "When good Macs go bad: Steps to take when your Mac won't start up \"Home Laptops Working Mac By Lex Friedman , Senior Contributor, Macworld |Dec 11, 2012 3:30 AM PTHow-To When good Macs go bad: Steps to take when your Mac won't start up More like this Review: Refined i OS 6 highlighted by stunning Maps overhaul Bugs & Fixes: Work-arounds for sound loss, trailer fai",
+        "distance": 0.5616424679756165
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "1871395687690731609": {
+    "query_id": "1871395687690731609",
+    "query": "when good to mama lyrics chicago",
+    "relevants": [
+      {
+        "relevant_doc": 3473,
+        "relevant_url": "http://www.songlyrics.com/chicago/when-you-re-good-to-mama-lyrics/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3473,
+        "title": "Chicago - When You're Good to Mama Lyrics",
+        "url": "http://www.songlyrics.com/chicago/when-you-re-good-to-mama-lyrics/",
+        "combined_text": "Chicago - When You're Good to Mama Lyrics Chicago - When You're Good to Mama Lyrics Artist: Chicago Album: Miscellaneous Genre: Rock Heyo! SONGLYRICS just got interactive. Highlight. Review: RIFF-it. RIFF-it good. Listen while you read!Ladies and gentlemen The Keeper of the keys, the Countess of the clink The Mistress of murderers row Matro",
+        "distance": 0.33749836683273315
+      },
+      {
+        "id": 2629,
+        "title": "Stoney End Lyrics",
+        "url": "http://www.metrolyrics.com/stoney-end-lyrics-barbra-streisand.html",
+        "combined_text": "Stoney End Lyrics I was born from love and my poor mother worked the mines I was raised on the good book Jesus Till I read between the lines Now I don't believe, I want to see the whole morning Going down the stoney end I never wanted to go down the stoney end Mama let me start all over Cradle me, Mama, cradle me aga",
+        "distance": 0.5216447710990906
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8736438373915328528": {
+    "query_id": "-8736438373915328528",
+    "query": "army helicopter pilot career",
+    "relevants": [
+      {
+        "relevant_doc": 776,
+        "relevant_url": "https://www.thebalance.com/army-rotary-wing-aviator-2356446"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 776,
+        "title": "Career Profile: Army Rotary Wing Aviator",
+        "url": "https://www.thebalance.com/army-rotary-wing-aviator-2356446",
+        "combined_text": "Career Profile: Army Rotary Wing Aviator US Military Careers Military Jobs Career Profile: Army Rotary Wing Aviator Share Flip Pin Share Email•••By Adam Luckwaldt Updated April 16, 2017As a child of the 80’s, my original inspiration for joining the military was to be Tom Cruise -- the Top Gun in a leather flight jacket, not the couch-jumpi",
+        "distance": 0.5234844088554382
+      },
+      {
+        "id": 1166,
+        "title": "Quadcopter Flight Controller Board Comparison",
+        "url": "http://www.rcdronegood.com/flight-controller-board-comparison/",
+        "combined_text": "Quadcopter Flight Controller Board Comparison Quadcopter Flight Controller Quadcopter Flight Controller Board Comparison By Jack Posted on May 30, 2017 14 min read 190Please check out latest Best Drone Flight Controllers 2017Before you purchasing the best quadcopter flight controller, I suggest you making the flight controller comparison, then",
+        "distance": 0.6511763334274292
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8701583225298867891": {
+    "query_id": "-8701583225298867891",
+    "query": "age of empires 3 all expansions bundle",
+    "relevants": [
+      {
+        "relevant_doc": 3512,
+        "relevant_url": "http://download.cnet.com/Age-of-Empires-III-Complete-Collection/3000-2119_4-76033538.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3512,
+        "title": "Age of Empires III: Complete Collection",
+        "url": "http://download.cnet.com/Age-of-Empires-III-Complete-Collection/3000-2119_4-76033538.html",
+        "combined_text": "Age of Empires III: Complete Collection Home Windows Software Games Strategy Games Age of Empires III: Complete Collection Age of Empires III: Complete Collection Visit Site External Download Site Average User Rating: Be the first to rate this product!Clicking on the Download Now (Visit Site) button above will open a connection to a third",
+        "distance": 0.37327203154563904
+      },
+      {
+        "id": 695,
+        "title": "0 Forge of Empires Guide: Earning Gold",
+        "url": "http://games.bbgsite.com/content/forge-of-empires/guide/earning-gold.shtml",
+        "combined_text": "0 Forge of Empires Guide: Earning Gold \"0 Forge of Empires Guide: Earning Gold Date: May 14 2012 03:04:15 Source: Blogspot Views: Key Word: Forge of Empires, Guide, Earning Gold, Browser game, Strategy, Forge of empires guide By Surge Gold is the most important thing in Forge of Empires. And you know - the more the better. Yeah! Welcome",
+        "distance": 0.4687638580799103
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "6004467793120940773": {
+    "query_id": "6004467793120940773",
+    "query": "iphone text-to-speech reader app",
+    "relevants": [
+      {
+        "relevant_doc": 881,
+        "relevant_url": "http://download.cnet.com/Voice-Dream-Reader/3000-20415_4-75659901.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 881,
+        "title": "Voice Dream Reader for iPhone",
+        "url": "http://download.cnet.com/Voice-Dream-Reader/3000-20415_4-75659901.html",
+        "combined_text": "Voice Dream Reader for iPhone \"Home i OS Software Educational Software Student Tools Voice Dream Reader Voice Dream Reader for i Phone Visit Site External Download Site Average User Rating: Be the first to rate this product!Large play-pause toggle Play pause00:00 00:00Closed captions Settings Volume Fullscreen Publisher's Descri",
+        "distance": 0.47972601652145386
+      },
+      {
+        "id": 150,
+        "title": "How to Use Voice Memos on Your iPhone",
+        "url": "http://www.dummies.com/consumer-electronics/smartphones/iphone/how-to-use-voice-memos-on-your-iphone/",
+        "combined_text": "How to Use Voice Memos on Your iPhone Consumer Electronics Smartphones i Phone How to Use Voice Memos on Your i Phone How to Use Voice Memos on Your i Phone Related Book IPhone 5 For Dummies, 6th Edition By Edward C. Baig, Bob Le Vitus Apple includes a built-in digital voice recorder in the i Phone. Why would you need a recorder? Consid",
+        "distance": 0.5189173817634583
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-6865044822015202712": {
+    "query_id": "-6865044822015202712",
+    "query": "does nfc drain battery on razr m",
+    "relevants": [
+      {
+        "relevant_doc": 2787,
+        "relevant_url": "http://forums.androidcentral.com/droid-razr-m/219056-nfc-battery-life.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2787,
+        "title": "NFC and Battery Life",
+        "url": "http://forums.androidcentral.com/droid-razr-m/219056-nfc-battery-life.html",
+        "combined_text": "NFC and Battery Life Forum Motorola Android Phones More Motorola Phones Verizon Droid Forums Droid RAZR MNFC and Battery Life DID YOU KNOW: We're hosting TWO member meetup events on Tuesday, April 3rd in NYC and San Francisco. Click here for all the details!11-02-2012 07:27 AM tools588https://forums.androidcentral.com/s",
+        "distance": 0.4706386923789978
+      },
+      {
+        "id": 2451,
+        "title": "Does a Larger mAh Number on Your Cell Phone Battery Mean a Better Battery?",
+        "url": "http://classroom.synonym.com/larger-mah-number-cell-phone-battery-mean-better-battery-15015.html",
+        "combined_text": "Does a Larger mAh Number on Your Cell Phone Battery Mean a Better Battery? \"Home »Electronics Does a Larger m Ah Number on Your Cell Phone Battery Mean a Better Battery? By Andy Walton; Updated March 13, 2018Batteries with larger m Ah ratings generally last longer than those with smaller ratings, assuming that the batteries are subjected to the same patterns of usage, but",
+        "distance": 0.49875080585479736
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3228069418788393737": {
+    "query_id": "3228069418788393737",
+    "query": "madden 15 early play limited to ea access",
+    "relevants": [
+      {
+        "relevant_doc": 544,
+        "relevant_url": "https://www.cnet.com/news/madden-15-only-available-prerelease-on-ea-access/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 544,
+        "title": "Madden 15 only available prerelease on EA Access",
+        "url": "https://www.cnet.com/news/madden-15-only-available-prerelease-on-ea-access/",
+        "combined_text": "Madden 15 only available prerelease on EA Access \"Consoles Madden 15 only available prerelease on EA Access The newest Madden iteration will only be playable before its release date if you're a customer of EA's new subscription service.by Nick Statt August 11, 2014 10:51 AM PDTEAElectronic Arts will not be releasing a publicly available demo for M",
+        "distance": 0.2522512972354889
+      },
+      {
+        "id": 2012,
+        "title": "Halo Reach by  Microsoft",
+        "url": "http://www.gamestop.com/games/halo-reach/75976",
+        "combined_text": "Halo Reach by  Microsoft \"Pick My Home Store Get access to great in-store deals and local pick-up Exclusive Deals Sign up for our email deals newsletter!Xbox 360Action Casual Collectibles DLCFighting Kinect Movies & TVMusic & Party Puzzle & Cards Role-Playing Shooter Simulation Sports Strategy Strategy Guides Xbox 360 Acces",
+        "distance": 0.7157770395278931
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "4113922003514828154": {
+    "query_id": "4113922003514828154",
+    "query": "film about an fbi trainee confronting a cannibal",
+    "relevants": [
+      {
+        "relevant_doc": 2633,
+        "relevant_url": "https://www.commonsensemedia.org/movie-reviews/the-silence-of-the-lambs"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1875,
+        "title": "OSCARS 2015: Eddie Redmayne too choked to speak as he takes best actor Oscar for Hawking biopic while Birdman flies off with four statues - and Julianne Moore wins best actress for Still Alice",
+        "url": "http://www.dailymail.co.uk/tvshowbiz/article-2958902/Eddie-Redmayne-wins-best-acting-Oscar-2015-Academy-Awards.html",
+        "combined_text": "OSCARS 2015: Eddie Redmayne too choked to speak as he takes best actor Oscar for Hawking biopic while Birdman flies off with four statues - and Julianne Moore wins best actress for Still Alice \"Trump explodes in fury at Robert Mueller as he brands FBI raid on his attorney Michael Cohen 'an attack on our country and what we stand for', after agents seize Stormy hush-money documents in campaign finance and bank fraud probe Fire and fury: Read every word of Trump's rant after Mueller's FBI a",
+        "distance": 0.7044135332107544
+      },
+      {
+        "id": 1936,
+        "title": "Which horror movie villain killed the most people?",
+        "url": "http://www.answers.com/Q/Who_is_the_villain_of_the_Halloween_horror_movies",
+        "combined_text": "Which horror movie villain killed the most people? \"Ma2941 400 Contributions Which horror movie villain killed the most people? ANSWER . that has to be \"\"leatherface\"\" it was 52 massacre`s in all, and two survivors and one of them shot herself! . ANSWER . That would be Friday the 13th's Jason Voorhe …Chharrise 87 Contributions Is John carpenter's Ha",
+        "distance": 0.7444377541542053
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "1354766354090916010": {
+    "query_id": "1354766354090916010",
+    "query": "what order to read debbie macomber",
+    "relevants": [
+      {
+        "relevant_doc": 322,
+        "relevant_url": "http://www.bookseriesinorder.com/debbie-macomber/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 322,
+        "title": "Debbie Macomber Books In Order",
+        "url": "http://www.bookseriesinorder.com/debbie-macomber/",
+        "combined_text": "Debbie Macomber Books In Order Debbie Macomber Books In Order Publication Order of Men: Made In America Books Borrowed Dreams: Alaska (1985) Hardcover Paperback Kindle Publication Order of Legendary Lovers Books Cindy and the Prince (1987) Hardcover Paperback Kindle Some Kind of Wonderful (1988) Hardcover Paperback Kindle Almost",
+        "distance": 0.46507009863853455
+      },
+      {
+        "id": 2644,
+        "title": "Debbie Taylor",
+        "url": "https://www.goodreads.com/author/show/196825.Debbie_Taylor",
+        "combined_text": "Debbie Taylor Debbie Taylor Born in Cardiff, The United Kingdom March 05, 1963Website http://www.debbietaylor.co/Genre Modern & Contemporary Fiction, Historical Fictionedit data Debbie Taylor is the founder and Editorial Director of Mslexia. She has worked as Editor at New Internationalist and Writing Women magaz",
+        "distance": 0.6649037003517151
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8890160500177477515": {
+    "query_id": "-8890160500177477515",
+    "query": "concatenate strings in t-sql",
+    "relevants": [
+      {
+        "relevant_doc": 2185,
+        "relevant_url": "https://docs.microsoft.com/en-us/sql/t-sql/language-elements/string-concatenation-transact-sql"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2185,
+        "title": "+ (String Concatenation) (Transact-SQL)",
+        "url": "https://docs.microsoft.com/en-us/sql/t-sql/language-elements/string-concatenation-transact-sql",
+        "combined_text": "+ (String Concatenation) (Transact-SQL) + (String Concatenation) (Transact-SQL)December 6, 2016 4 minutes to read Contributors In this article Syntax Arguments Result Types Remarks Examples Examples: Azure SQL Data Warehouse and Parallel Data Warehouse See Also THIS TOPIC APPLIES TO: SQL Server (starting with 2008) Azure SQL Database Azur",
+        "distance": 0.4362197816371918
+      },
+      {
+        "id": 3094,
+        "title": "Working with Strings in VB.NET",
+        "url": "http://www.dotnetheaven.com/article/working-with-strings-in-vb.net",
+        "combined_text": "Working with Strings in VB.NET \"Home » VB. NET » VISUAL BASIC LANGUAGEWorking with Strings in VB. NETPosted in VB. NET | VISUAL BASIC LANGUAGE on November 07, 2012Tags: Comparing Strings, concatenate Strings, Copy String, Padding Strings, String Builder Class, String This tutorial explains how to represent strings in . NET using",
+        "distance": 0.4876101315021515
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-3571546262506382363": {
+    "query_id": "-3571546262506382363",
+    "query": "remove pen ink from microfiber couch cushions",
+    "relevants": [
+      {
+        "relevant_doc": 2972,
+        "relevant_url": "https://answers.yahoo.com/question/index?qid=20090214114453AAqXIgh"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2972,
+        "title": "How do you get INK out of couch cushions?",
+        "url": "https://answers.yahoo.com/question/index?qid=20090214114453AAqXIgh",
+        "combined_text": "How do you get INK out of couch cushions? Home & Garden Cleaning & Laundry How do you get INK out of couch cushions?my cat was playing with a pen while we were sleeping and it happened to doodle on couch. : ( They don't unzip (the cushions) to take off the cover and neither do the throw pillows. They are microfiber material. Please help! An",
+        "distance": 0.2410280704498291
+      },
+      {
+        "id": 748,
+        "title": "Marker pen",
+        "url": "https://en.wikipedia.org/wiki/Marker_pen",
+        "combined_text": "Marker pen \"From Wikipedia, the free encyclopedianavigation search\"\"Felt tip\"\" redirects here. For the EP by Love Is All, see Felt Tip (EP). A box of colored felt-tip pens (made by Caran d'Ache ). Highlighters Sharpie markers Marker A marker pen, fineliner, marking pen, felt-tip marker, felt-tip pen, flowmarke",
+        "distance": 0.632603108882904
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7906218443046339575": {
+    "query_id": "7906218443046339575",
+    "query": "disable location tracking on smartphone",
+    "relevants": [
+      {
+        "relevant_doc": 1801,
+        "relevant_url": "http://time.com/3716950/location-tracking-turn-off/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1801,
+        "title": "How to Stop Your Phone From Tracking Your Location",
+        "url": "http://time.com/3716950/location-tracking-turn-off/",
+        "combined_text": "How to Stop Your Phone From Tracking Your Location Tech How-To How to Stop Your Phone From Tracking Your Location The Google Maps app is seen on an Apple i Phone 4S on December 13, 2012 in Fairfax, California. Justin Sullivan—Getty Images By Alexander Aciman February 20, 2015While scrolling through your photos, you may notice your smartphone has cre",
+        "distance": 0.41739609837532043
+      },
+      {
+        "id": 955,
+        "title": "A Closer Look At Blackphone, The Android Smartphone That Simplifies Privacy",
+        "url": "https://techcrunch.com/2014/02/26/close-look-at-blackphone/",
+        "combined_text": "A Closer Look At Blackphone, The Android Smartphone That Simplifies Privacy An error occurred with this part of the page, sorry for the inconvenience. A Closer Look At Blackphone, The Android Smartphone That Simplifies Privacy Feb 26, 2014 Natasha Lomas One of the more interesting devices here at Mobile World Congress is Blackphone: a pro-privacy handset being developed by",
+        "distance": 0.5590426921844482
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "687997482469288035": {
+    "query_id": "687997482469288035",
+    "query": "transform support functions into business partners",
+    "relevants": [
+      {
+        "relevant_doc": 798,
+        "relevant_url": "http://www.bain.com/consulting-services/performance-improvement/g-and-a-management.aspx"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 798,
+        "title": "Support Function Advantage",
+        "url": "http://www.bain.com/consulting-services/performance-improvement/g-and-a-management.aspx",
+        "combined_text": "Support Function Advantage Support Function Advantage Go beyond efficiency to act as effective, valued business partners. Bain Support Function Advantage partners with IT, finance, HR, legal, real estate and facilities management, and other support functions to shift their focus to more value-added activities while reducing c",
+        "distance": 0.3800305128097534
+      },
+      {
+        "id": 965,
+        "title": "Integrated tactical logistics Management Benefit Defense Forces Transformation, Readiness",
+        "url": "http://defense-update.com/products/s/sap.htm",
+        "combined_text": "Integrated tactical logistics Management Benefit Defense Forces Transformation, Readiness \"Integrated tactical logistics Management Benefit Defense Forces Transformation, Readiness A new Enterprise Resource Planning (ERP) Information Technology solution designed by SAP is providing end-to-end management of logistics aspects by modern military forces. The new suite of applications support",
+        "distance": 0.644332230091095
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "1567149216798792312": {
+    "query_id": "1567149216798792312",
+    "query": "wheel of fortune game answers ps3 xbox",
+    "relevants": [
+      {
+        "relevant_doc": 179,
+        "relevant_url": "http://gameguidefaq.blogspot.com/2013/04/wheel-of-fortune-cheat-list-puzzle.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 179,
+        "title": "GameGuideFAQ",
+        "url": "http://gameguidefaq.blogspot.com/2013/04/wheel-of-fortune-cheat-list-puzzle.html",
+        "combined_text": "GameGuideFAQ \"Wheel of Fortune Cheat List - Puzzle Answers for PS3 Xbox 360Wheel of Fortune Puzzle Answers – Biggest List on the Web!I have compiled a pretty extensive list of a lot of the puzzle answers to the Wheel of Fortune video game for the PS3 and Xbox 360. The list is by no means complete, as there are t",
+        "distance": 0.20290985703468323
+      },
+      {
+        "id": 3054,
+        "title": "How to Make Money in GTA 5",
+        "url": "http://www.ign.com/wikis/gta-5/How_to_Make_Money_in_GTA_5",
+        "combined_text": "How to Make Money in GTA 5 Grand Theft Auto V| Xbox 360 Xbox One PC PS4Game Highlights Wiki Guide Review Videos Images Walkthroughs All Articles Message Boards Best Deal: $32.95 @ Amazon How to Make Money in GTA 5Last Edit: September 6, 2017 - 7 months 2 days ago Cash is scarce in the first few hours of GTA 5, and this page d",
+        "distance": 0.5121782422065735
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3422095999574432040": {
+    "query_id": "3422095999574432040",
+    "query": "what is f1 racing",
+    "relevants": [
+      {
+        "relevant_doc": 461,
+        "relevant_url": "https://en.wikipedia.org/wiki/Formula_One"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 461,
+        "title": "Formula One",
+        "url": "https://en.wikipedia.org/wiki/Formula_One",
+        "combined_text": "Formula One \"From Wikipedia, the free encyclopedianavigation search\"\"Formula 1\"\" redirects here. For the video game, see Formula 1 (video game). \"\"F1\"\" redirects here. For other uses, see F1 (disambiguation) and Formula One (disambiguation). \"\"FIA World Championship\"\" redirects here. For other world championshi",
+        "distance": 0.43457669019699097
+      },
+      {
+        "id": 2398,
+        "title": "Is NASCAR really that bad for the environment?",
+        "url": "http://science.howstuffworks.com/environmental/green-science/nascar-environment.htm",
+        "combined_text": "Is NASCAR really that bad for the environment? \"NEXTCars speed through the NASCAR Sprint Cup Series. Chris Graythen/ Getty Images for NASCARIn the United States, more people watch NASCAR racing than baseball, supposedly \"\"America's pastime.\"\" It's second only to football, with 75 million dedicated fans who tune in (or show up) almost every weeke",
+        "distance": 0.5927205085754395
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "5771607968618605732": {
+    "query_id": "5771607968618605732",
+    "query": "square reader skimming vulnerability",
+    "relevants": [
+      {
+        "relevant_doc": 2807,
+        "relevant_url": "http://www.pcmag.com/article2/0,2817,2390491,00.asp"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2807,
+        "title": "Black Hat: Square Credit-Card Reader Hacked!",
+        "url": "http://www.pcmag.com/article2/0,2817,2390491,00.asp",
+        "combined_text": "Black Hat: Square Credit-Card Reader Hacked! \"Black Hat: Square Credit-Card Reader Hacked!The handy Square reader lets any i Phone function as a credit card reader. Experts at Black Hat showed that it can also be used to skim credit card data. By Neil J. Rubenking August 4, 2011 9:00PM ESTFacebook Twitter Linkedin Pinterest Reddit Email Copy T",
+        "distance": 0.47933414578437805
+      },
+      {
+        "id": 3233,
+        "title": "Accelerated Reading Program",
+        "url": "http://www.cps.k12.in.us/domain/525",
+        "combined_text": "Accelerated Reading Program Accelerated Reader Program The Accelerated Reader program is a computerized program that tests reading comprehension. Students select books on their reading level, read independently, and take an independent comprehension test on the computer. Each book is worth a certain number of points based on i",
+        "distance": 0.6734598875045776
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-5017844688408566190": {
+    "query_id": "-5017844688408566190",
+    "query": "blake shelton miranda lambert super bowl performance",
+    "relevants": [
+      {
+        "relevant_doc": 3140,
+        "relevant_url": "https://www.allaccess.com/net-news/archive/story/101771/blake-shelton-and-miranda-lambert-to-perform-at-su"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3140,
+        "title": "Blake Shelton And Miranda Lambert To Perform At Super Bowl",
+        "url": "https://www.allaccess.com/net-news/archive/story/101771/blake-shelton-and-miranda-lambert-to-perform-at-su",
+        "combined_text": "Blake Shelton And Miranda Lambert To Perform At Super Bowl Tweet Blake Shelton And Miranda Lambert To Perform At Super Bowl January 31, 2012 at 11:09 AM (PT)Be the first to comment!Blake Shelton & Miranda Lambert WARNER MUSIC NASHVILLE artist BLAKE SHELTON and his wife RCA NASHVILLE artist MIRANDA LAMBERT will perform at the SUPER BOWL XLVI on SUNDAY, FEBRU",
+        "distance": 0.06904372572898865
+      },
+      {
+        "id": 18,
+        "title": "Florida Georgia Line, Miranda Lambert, Brantley Gilbert, Brett Eldredge, Dustin Lynch, Kip Moore, Josh Turner, Brett Young, Tucker Beathard, Trent Harmon, Walker Hayes, Country Jam, Devin Dawson",
+        "url": "https://thrillcall.com/artist/Tucker-Beathard",
+        "combined_text": "Florida Georgia Line, Miranda Lambert, Brantley Gilbert, Brett Eldredge, Dustin Lynch, Kip Moore, Josh Turner, Brett Young, Tucker Beathard, Trent Harmon, Walker Hayes, Country Jam, Devin Dawson Tucker Beathard's Upcoming Concerts Thu Jun 1412:00 PMFlorida Georgia Line, Miranda Lambert, Brantley Gilbert, Brett Eldredge, Dustin Lynch, Kip Moore, Josh Turner, Brett Young, Tucker Beathard, Trent Harmon, Walker Hayes, Country Jam, Devin Dawsonat Country Jam USA | Grand Junction , COFind Tickets",
+        "distance": 0.6440105438232422
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8246734187847028033": {
+    "query_id": "8246734187847028033",
+    "query": "washington statewide student assessment information",
+    "relevants": [
+      {
+        "relevant_doc": 486,
+        "relevant_url": "http://www.k12.wa.us/assessment/StateTesting/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 486,
+        "title": "Overview",
+        "url": "http://www.k12.wa.us/assessment/StateTesting/",
+        "combined_text": "Overview \"Overview Updated March 23, 2018Email me when this page is updated Washington students are tested regularly by the state to assess their progress as they move through school. State tests include the following, and may be taken with or without tools, supports, or accommodations*: Smarter Balanced: En",
+        "distance": 0.5413334965705872
+      },
+      {
+        "id": 2556,
+        "title": "Current Students",
+        "url": "http://students.uci.edu/",
+        "combined_text": "Current Students Current Students Student Life Student Life & Leadership Campus Recreation New Student Handbook Clubs and Organizations UCI Athletics Fraternities and Sororities Bren Events Center Student Government & Student Media KUCI 88.9 FMStudent Affairs New University (student newspaper)Anthology Yearbook Free",
+        "distance": 0.6392725706100464
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-1054549194533518383": {
+    "query_id": "-1054549194533518383",
+    "query": "make custom class iterable c#",
+    "relevants": [
+      {
+        "relevant_doc": 721,
+        "relevant_url": "http://www.c-sharpcorner.com/UploadFile/dacca2/implement-ienumerable-interface-in-C-Sharp/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2102,
+        "title": "\"Percent (\"\"P\"\") Format Specifier In C#\"",
+        "url": "http://www.c-sharpcorner.com/UploadFile/c25b6d/percent-p-format-specifier-in-C-Sharp/",
+        "combined_text": "\"Percent (\"\"P\"\") Format Specifier In C#\" \"Percent (\"\"P\"\") Format Specifier In C#Richa Garg Oct 19 2012 Article0 0 104.8kfacebook twitter linked In google Plus Reddit Email Bookmark Other Artcile Expand Introduction The Percent (\"\"P\"\") Format Specifier in C# is used to convert any number to the string type by multiplying the number by 100.",
+        "distance": 0.7465588450431824
+      },
+      {
+        "id": 57,
+        "title": "Python: Temperature Conversion - Celsius / Fahrenheit",
+        "url": "https://www.youtube.com/watch?v=dpG7qwQXFv4",
+        "combined_text": "Python: Temperature Conversion - Celsius / Fahrenheit Python: Temperature Conversion - Celsius / Fahrenheit Joe James Subscribe 18KAdd to Share More15,762 views556Published on May 23, 2014Learn to write a temperature conversion program in Python in under 12 minutes. Converts C to F and F to C. Show more Loading...",
+        "distance": 0.7551758289337158
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7635305345611855336": {
+    "query_id": "7635305345611855336",
+    "query": "how to uninstall GeekBuddy from Comodo",
+    "relevants": [
+      {
+        "relevant_doc": 2676,
+        "relevant_url": "http://www.shouldiremoveit.com/GeekBuddy-14240-program.aspx"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2676,
+        "title": "GeekBuddy",
+        "url": "http://www.shouldiremoveit.com/GeekBuddy-14240-program.aspx",
+        "combined_text": "GeekBuddy \"2Geek Buddyfrom COMODORemove Geek Buddy What is Geek Buddy? (from COMODO)Geek Buddy is part of the Comodo Group, one of the world's most trusted Internet Security and Antivirus technology providers. With over 45 million PCs around the world protected by Comodo security software - including its awar",
+        "distance": 0.39209386706352234
+      },
+      {
+        "id": 3427,
+        "title": "How to Uninstall a Program From Your Computer",
+        "url": "http://lifehacker.com/5827175/how-to-uninstall-a-program-from-your-computer",
+        "combined_text": "How to Uninstall a Program From Your Computer \"How to Uninstall a Program From Your Computer Whitson Gordon8/03/11 9:00am Filed to: Emailable Tech Support 48So you've downloaded that cool new app everyone's talking about, but it isn't all it's cracked up to be. Here's how to remove it from your computer. Removing a program from your programs me",
+        "distance": 0.6235277056694031
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-3437692049733447564": {
+    "query_id": "-3437692049733447564",
+    "query": "voltage drop across 60k from current source",
+    "relevants": [
+      {
+        "relevant_doc": 1338,
+        "relevant_url": "http://www.chegg.com/homework-help/questions-and-answers/part-find-output-voltage-due-current-source-i1-going-calculate-voltage-drop-across-60-k-re-q5779533"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1338,
+        "title": "Question: Part A:  Find the output voltage due to the current source i1 You are going to calculate the volt...",
+        "url": "http://www.chegg.com/homework-help/questions-and-answers/part-find-output-voltage-due-current-source-i1-going-calculate-voltage-drop-across-60-k-re-q5779533",
+        "combined_text": "Question: Part A:  Find the output voltage due to the current source i1 You are going to calculate the volt... Question: Part A: Find the output voltage due to the current source i1 You are going to calculate the volt... Part A: Find the output voltage due to the current source i1You are going to calculate the voltage drop across the 60 k? resistor due only to the current source i 1. Which of the following c",
+        "distance": 0.4214021861553192
+      },
+      {
+        "id": 766,
+        "title": "Null Measurements",
+        "url": "http://philschatz.com/physics-book/contents/m42362.html",
+        "combined_text": "Null Measurements \"Null Measurements Standard measurements of voltage and current alter the circuit being measured, introducing uncertainties in the measurements. Voltmeters draw some extra current, whereas ammeters reduce current flow. Null measurements balance voltages so that there is no current flowing through th",
+        "distance": 0.5960163474082947
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7327903981007770936": {
+    "query_id": "7327903981007770936",
+    "query": "port orleans riverside resort info rates map",
+    "relevants": [
+      {
+        "relevant_doc": 270,
+        "relevant_url": "https://www.dreamsunlimitedtravel.com/resorts/Port_Orleans_river/riversidemainpage.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 270,
+        "title": "Disney's Port Orleans Resort - Riverside",
+        "url": "https://www.dreamsunlimitedtravel.com/resorts/Port_Orleans_river/riversidemainpage.htm",
+        "combined_text": "Disney's Port Orleans Resort - Riverside Disney's Port Orleans Resort - Riverside251 Riverside Drive Lake Buena Vista, FL, 32830 Phone: 407-934-6000 Fax: 407-934-5777 Check In: 3:00pm Check Out: 11:00am Number of Rooms: 2048Rates: $149 - $248Walt Disney World Resorts Port Orleans Riverside Main | Rooms | Dining | Recreation | Resort Map Po",
+        "distance": 0.28011104464530945
+      },
+      {
+        "id": 3201,
+        "title": "Search hotels near Gulf Shores Beach in Gulf Shores",
+        "url": "https://www.hotels.com/de1680407/hotels-near-gulf-shores-beach-gulf-shores-united-states-of-america/",
+        "combined_text": "Search hotels near Gulf Shores Beach in Gulf Shores Pay now or later on most rooms Free cancellation on most rooms Price Guarantee Map of hotels near Gulf Shores Beach Landmarks Schafberg Railway Mozart Memorial House Hochseilpark Teufelsgraben High Ropes Park Trumer Lakes Marina Musikinstrument Museum Hallstatt Central Square Hallstatt Salt Mines Ha",
+        "distance": 0.7000309228897095
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-5603239885257340960": {
+    "query_id": "-5603239885257340960",
+    "query": "firehouse love ballad lyrics",
+    "relevants": [
+      {
+        "relevant_doc": 463,
+        "relevant_url": "http://www.metrolyrics.com/when-i-look-into-your-eyes-lyrics-firehouse.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3369,
+        "title": "This Is Dedicated To The One I Love",
+        "url": "https://genius.com/The-temprees-this-is-dedicated-to-the-one-i-love-lyrics",
+        "combined_text": "This Is Dedicated To The One I Love \"This Is Dedicated To The One I Love The Temprees This Is Dedicated To The One I Love Lyrics While I'm away from you (ooh Baby) I know it's hard for you (ooh Baby) Because it's hard for me And the darkest hour, is just before dawn Each night before you go to bed (ooh Baby) Whisper a little prayer fo",
+        "distance": 0.6367058157920837
+      },
+      {
+        "id": 3630,
+        "title": "It's a Sin to Tell a Lie Lyrics",
+        "url": "http://www.metrolyrics.com/its-a-sin-to-tell-a-lie-lyrics-billie-holiday.html",
+        "combined_text": "It's a Sin to Tell a Lie Lyrics Be sure it's true when you say, 'I love you' It's a sin to tell a lie Millions of hearts have been broken Just because these words were spoken I love you, yes, I do, I love you If you break my heart I'll die So be sure that it's true when you say, 'I love you' It's a sin to tell a lie I love you, ye",
+        "distance": 0.6387849450111389
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7614517814969879185": {
+    "query_id": "7614517814969879185",
+    "query": "computer classroom layout space guidelines",
+    "relevants": [
+      {
+        "relevant_doc": 857,
+        "relevant_url": "http://www.crlt.umich.edu/learningspaceguidelines/computerclassroom"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 857,
+        "title": "Computer Classroom Design",
+        "url": "http://www.crlt.umich.edu/learningspaceguidelines/computerclassroom",
+        "combined_text": "Computer Classroom Design Computer Classroom Design Computer classrooms are rooms that require regular use of computers as part of the learning process. Examples include—but are not limited to–libraries, computer science classrooms and layout and design classrooms. Classroom Size30-40 sq. ft. should be allotted per student w",
+        "distance": 0.3476792275905609
+      },
+      {
+        "id": 2205,
+        "title": "Technology in the Science Classroom",
+        "url": "http://www.resa.net/curriculum/curriculum/science/technology/classroom/",
+        "combined_text": "Technology in the Science Classroom \"Technology in the Science Classroom Teachers do not have to be experts in a particular technology before they use it in their classroom. However, the technology must support the identified learning outcomes. Some creative ways to integrate technology to motivate students and reach educational goals",
+        "distance": 0.6163467168807983
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-1023619327694095404": {
+    "query_id": "-1023619327694095404",
+    "query": "blossom tv actress became neuroscientist",
+    "relevants": [
+      {
+        "relevant_doc": 3196,
+        "relevant_url": "http://www.todayifoundout.com/index.php/2012/04/the-actress-who-played-tvs-blossom-now-has-a-phd-in-neuroscience/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3196,
+        "title": "The Actress Who Played TVâs âBlossomâ Now Has a PhD in Neuroscience",
+        "url": "http://www.todayifoundout.com/index.php/2012/04/the-actress-who-played-tvs-blossom-now-has-a-phd-in-neuroscience/",
+        "combined_text": "The Actress Who Played TVâs âBlossomâ Now Has a PhD in Neuroscience \"The Actress Who Played TV’s “Blossom” Now Has a Ph D in Neuroscience April 24, 2012 Daven Hiskey 4 comments Today I found out the actress who played TV’s “Blossom” has a Ph D in Neuroscience. After starring in the TV show Blossom, Mayim Bialik decided to go to college rather than continue her actin",
+        "distance": 0.27926331758499146
+      },
+      {
+        "id": 3105,
+        "title": "Roberts Blossom dies at 87; character played neighbor in 'Home Alone'",
+        "url": "http://articles.latimes.com/2011/jul/14/local/la-me-roberts-blossom-20110714",
+        "combined_text": "Roberts Blossom dies at 87; character played neighbor in 'Home Alone' \"Roberts Blossom dies at 87; character played neighbor in 'Home Alone'Roberts Blossom also won three Obie Awards for his off-Broadway work and performed on Broadway and TV and in many other films. He was a poet whose works were published in several books. July 14, 2011 | Dennis Mc Lellan, Los Angele",
+        "distance": 0.5924181938171387
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "5630619189815900821": {
+    "query_id": "5630619189815900821",
+    "query": "how car active noise cancellation works",
+    "relevants": [
+      {
+        "relevant_doc": 1295,
+        "relevant_url": "https://www.honda.co.nz/technology/driving/anc/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1295,
+        "title": "Active Noise Cancellation (ANC)",
+        "url": "https://www.honda.co.nz/technology/driving/anc/",
+        "combined_text": "Active Noise Cancellation (ANC) Active Noise Cancellation (ANC)How the system works Active Noise Cancellation (ANC) is designed to dramatically reduce low frequency noise in the interior. The system operates whenever the car is running, regardless of whether the audio system is on or off. There are two microphones in the cabin are",
+        "distance": 0.30158182978630066
+      },
+      {
+        "id": 1930,
+        "title": "How do you know if a car has a negative or positive grounded battery?",
+        "url": "http://www.answers.com/Q/How_do_you_know_if_a_car_has_a_negative_or_positive_grounded_battery",
+        "combined_text": "How do you know if a car has a negative or positive grounded battery? \"Answers.com ® Wiki Answers ® Categories Cars & Vehicles Auto Parts and Repairs Car Electronics and Lights Car Batteries How do you know if a car has a negative or positive grounded battery? Flag How do you know if a car has a negative or positive grounded battery? Answer by David Warnick Confidence",
+        "distance": 0.6909739375114441
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8996878936205096246": {
+    "query_id": "8996878936205096246",
+    "query": "bill nye educational tv show",
+    "relevants": [
+      {
+        "relevant_doc": 3609,
+        "relevant_url": "https://en.wikipedia.org/wiki/Bill_Nye_the_Science_Guy"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3609,
+        "title": "Bill Nye the Science Guy",
+        "url": "https://en.wikipedia.org/wiki/Bill_Nye_the_Science_Guy",
+        "combined_text": "Bill Nye the Science Guy \"Bill Nye the Science Guy From Wikipedia, the free encyclopedianavigation search This article is about the TV show. For the host with the same nickname, see Bill Nye. Bill Nye the Science Guy Created by Bill Nye James Mc Kenna Erren Gottlieb Presented by Bill Nye Starring Chais Dean Suzanne Mikawa I",
+        "distance": 0.16313737630844116
+      },
+      {
+        "id": 21,
+        "title": "The NBC App - Watch Live TV and Full Episodes",
+        "url": "https://play.google.com/store/apps/details?id=com.nbcuni.nbc&hl=en",
+        "combined_text": "The NBC App - Watch Live TV and Full Episodes \"The NBC App - Watch Live TV and Full Episodes NBCUniversal Media, LLC Entertainment Teen53,832Contains Ads Add to Wishlist Install GET THE NBC APP NOW TO WATCH ALL YOUR FAVORITE TV SHOWS ANYTIME, ANYWHERE! Are you ready for the 2018 Winter Olympic Games? Watch Winter Olympics videos on the go and c",
+        "distance": 0.6697711944580078
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3827195213808235739": {
+    "query_id": "3827195213808235739",
+    "query": "programming tools for data science certificate",
+    "relevants": [
+      {
+        "relevant_doc": 1200,
+        "relevant_url": "http://www.statistics.com/programming-for-data-science"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1200,
+        "title": "Programming for Data Science Certificate Program",
+        "url": "http://www.statistics.com/programming-for-data-science",
+        "combined_text": "Programming for Data Science Certificate Program Programming for Data Science Certificate Program This program is for you if: You are a programmer and want to learn how to harness predictive models, machine learning algorithms, and statistical methods in your work You are an IT or database professional and looking to learn the programming tools fo",
+        "distance": 0.2712499499320984
+      },
+      {
+        "id": 820,
+        "title": "Generating Test Data for Databases by Using Data Generators",
+        "url": "https://msdn.microsoft.com/en-us/library/dd193262(v=vs.100).aspx",
+        "combined_text": "Generating Test Data for Databases by Using Data Generators Generating Test Data for Databases by Using Data Generators Visual Studio 2010 Other Versions You can use Visual Studio Premium to create test data that you need to verify the behavior of the database objects in your database project. You can generate data that is appropriate for the schema of the d",
+        "distance": 0.5259078145027161
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-6530205202719280013": {
+    "query_id": "-6530205202719280013",
+    "query": "sonnet quatrain count and rhyme scheme",
+    "relevants": [
+      {
+        "relevant_doc": 2226,
+        "relevant_url": "https://answers.yahoo.com/question/index?qid=20110413045202AAyUX4D"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2226,
+        "title": "How many Quatrains are in a Sonnet,and what is the rhyme scheme of any Quatrain? (Thanks for the help)?",
+        "url": "https://answers.yahoo.com/question/index?qid=20110413045202AAyUX4D",
+        "combined_text": "How many Quatrains are in a Sonnet,and what is the rhyme scheme of any Quatrain? (Thanks for the help)? Arts & Humanities Poetry How many Quatrains are in a Sonnet,and what is the rhyme scheme of any Quatrain? (Thanks for the help)? Follow 3 answers Answers Relevance Rating Newest Oldest Best Answer: There are several different types of sonnets with different rhyme schemes. You're probably asking abou",
+        "distance": 0.11548475176095963
+      },
+      {
+        "id": 2591,
+        "title": "How to Write a Sonnet",
+        "url": "http://www.wikihow.com/Write-a-Sonnet",
+        "combined_text": "How to Write a Sonnet 1 Use the Shakespearean rhyme scheme. The Shakespearean sonnet is a good place to start if you’re a novice sonneteer because it has the most regular and straightforward rhyme scheme and structure. The rhyme scheme of a Shakespearean sonnet always follows this pattern: ABABCDCDEFEFGG [1]These letters",
+        "distance": 0.21836738288402557
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "2311882092518452364": {
+    "query_id": "2311882092518452364",
+    "query": "javascript overview for beginners",
+    "relevants": [
+      {
+        "relevant_doc": 3145,
+        "relevant_url": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3145,
+        "title": "What is J ava Script?",
+        "url": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript",
+        "combined_text": "What is J ava Script? \"Overview: First steps Next Welcome to the MDN beginner's Java Script course! In this article we will look at Java Script from a high level, answering questions such as \"\"What is it?\"\" and \"\"What can you do with it? \"\", and making sure you are comfortable with Java Script's purpose. Prerequisites: B",
+        "distance": 0.4785497486591339
+      },
+      {
+        "id": 2593,
+        "title": "Scripting",
+        "url": "http://wiki.roblox.com/?title=Scripting",
+        "combined_text": "Scripting This article is a portal for reference articles for scripting in Roblox. If you want beginner tutorials instead, go to the Intro_to_Scripting page. Contents [ hide ]1 Lua Programming Language2 Tutorials3 Environments and Libraries4 Math5 Types5.1 Basic Types5.2 Roblox-Defined Types6 Global Functions",
+        "distance": 0.5819671154022217
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8757896319482058636": {
+    "query_id": "-8757896319482058636",
+    "query": "walt disney haunted mansion ring in concrete",
+    "relevants": [
+      {
+        "relevant_doc": 32,
+        "relevant_url": "https://justoffmainstreet.wordpress.com/2011/04/15/haunted-mansion-wedding-ring/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 32,
+        "title": "Haunted Mansion Wedding Ring Updated!",
+        "url": "https://justoffmainstreet.wordpress.com/2011/04/15/haunted-mansion-wedding-ring/",
+        "combined_text": "Haunted Mansion Wedding Ring Updated! \"Haunted Mansion Wedding Ring Updated!April 15, 2011Those in the know remember that at Walt Disney World, there was a small silver ring in the concrete outside the exit of the Haunted Mansion. The story I always heard was it was left over from the construction, but guests began talking of it as the",
+        "distance": 0.18473486602306366
+      },
+      {
+        "id": 3172,
+        "title": "Walt Disney World-Orlando Disney World-Disney Orlando",
+        "url": "http://www.orlandodiscountticketsusa.com/walt_disney_world.html",
+        "combined_text": "Walt Disney World-Orlando Disney World-Disney Orlando \"Walt Disney World-Orlando Disney World-Disney Orlando Walt Disney World. is home to four of the world's most famous Theme Parks. Magic Kingdom, Hollywood Studios, Epcot Center & Animal Kingdom. So if you are a kid at heart and looking for your fill of Mickey Mouse & Donald Duck or maybe you want yo",
+        "distance": 0.49270978569984436
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-5891579973225468742": {
+    "query_id": "-5891579973225468742",
+    "query": "make a small cozy lap blanket",
+    "relevants": [
+      {
+        "relevant_doc": 2313,
+        "relevant_url": "http://www.ehow.com/how_5756856_make-lap-blanket.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2313,
+        "title": "How to Make a Lap Blanket",
+        "url": "http://www.ehow.com/how_5756856_make-lap-blanket.html",
+        "combined_text": "How to Make a Lap Blanket Lap blankets make excellent winter gifts. Because of their smaller, more manageable size, they're perfect for curling up under while reading, watching television, or crafting. Lap blankets are small enough to take along to outdoor winter sporting events, a chilly workplace, or anywhere else you migh",
+        "distance": 0.2951105535030365
+      },
+      {
+        "id": 1767,
+        "title": "Yarn Bra",
+        "url": "http://www.spinfoolish.com/yarn-bra/",
+        "combined_text": "Yarn Bra Yarn Bra1 Comment Yes, I agree. Yarn “bra” is a particularly inelegant phrase, but such a useful item! I was recently asked how I make the small bags I use to tame my yarn while I am knitting. Most people call them yarn bras. You can buy them for crazy amounts of money from online stores, but I am a",
+        "distance": 0.7609501481056213
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "4438408522861218035": {
+    "query_id": "4438408522861218035",
+    "query": "legacy microsoft version control system",
+    "relevants": [
+      {
+        "relevant_doc": 1550,
+        "relevant_url": "https://en.wikipedia.org/wiki/Microsoft_Visual_SourceSafe"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1550,
+        "title": "Microsoft Visual SourceSafe",
+        "url": "https://en.wikipedia.org/wiki/Microsoft_Visual_SourceSafe",
+        "combined_text": "Microsoft Visual SourceSafe \"Microsoft Visual Source Safe From Wikipedia, the free encyclopedianavigation search Visual Source Safe Developer (s) Microsoft Initial release 1994; 24 years ago Stable release 2005 (8.0.50727.42) / October 2005; 12 years ago Operating system Windows Type Revision control License Proprietary commer",
+        "distance": 0.551812469959259
+      },
+      {
+        "id": 3112,
+        "title": "Did Microsoft Delay Windows 10 Mobile Anniversary Update?",
+        "url": "http://www.ibtimes.com/did-microsoft-delay-windows-10-mobile-anniversary-update-2399699",
+        "combined_text": "Did Microsoft Delay Windows 10 Mobile Anniversary Update? Did Microsoft Delay Windows 10 Mobile Anniversary Update? By Mike Luces On 08/10/16 AT 8:59 AMThe release date of the Windows 10 Mobile Anniversary Update may have been pushed back. Photo: You Tube/MSPower User Microsoft was expected to release its Windows 10 Mobile Anniversary Update on Aug. 9, a w",
+        "distance": 0.607406497001648
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3575398929161164043": {
+    "query_id": "3575398929161164043",
+    "query": "dez character austin and ally bio",
+    "relevants": [
+      {
+        "relevant_doc": 1671,
+        "relevant_url": "http://austinally.wikia.com/wiki/Dez_Wade"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1671,
+        "title": "Dez Wade",
+        "url": "http://austinally.wikia.com/wiki/Dez_Wade",
+        "combined_text": "Dez Wade \"This page was once a Featured Article!“ (in a high pitched tone) But, I like purple! ”— Dez, in Seniors & Señors Dez Wade Information Full Name Dezmond Hatfield Wade Nickname (s)Dezzy-Cakes (by Mindy) Dezzy-Roo (by Mindy and Trish) The Amazing Dezmo (by himself in the episode \"\" Deejays & Demos \"\")",
+        "distance": 0.5218232274055481
+      },
+      {
+        "id": 2598,
+        "title": "Austin Loses Its Hometown Hero",
+        "url": "http://prospect.org/article/austin-loses-its-hometown-hero",
+        "combined_text": "Austin Loses Its Hometown Hero \"Austin Loses Its Hometown Hero Abby Rapoport January 18, 2013For Lance Armstrong's Texas hometown, his downfall has been about a whole lot more than cycling. Pin It Instapaper Email AP Photo/Laurent Rebours Tour de France winner Lance Armstrong rides down the Champs Elysees in Paris with an America",
+        "distance": 0.6273483037948608
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-1250049741496965036": {
+    "query_id": "-1250049741496965036",
+    "query": "symptoms of a failing pcm",
+    "relevants": [
+      {
+        "relevant_doc": 2727,
+        "relevant_url": "http://www.obdii.com/articles/When_To_Replace_PCM.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2430,
+        "title": "PC Matic",
+        "url": "https://www.pcmatic.com/pcmatic_rob_search.asp?ad_id=503485&share-ad-id=1",
+        "combined_text": "PC Matic PC Maticis all you'll ever need!Free Download Buy Now PC Matic provides superior security protection over all security products, free or otherwise, on the market. On top of that, PC Matic keeps your computers running at peak performance even after years of use. PC Matic pricing options include:$50 f",
+        "distance": 0.7112751007080078
+      },
+      {
+        "id": 612,
+        "title": "Carpal Tunnel Syndrome: Myths, Facts, Diagnosis, and Treatment",
+        "url": "https://www.hss.edu/conditions_carpal-tunnel-syndrome-myths-facts-diagnosis-treatment.asp",
+        "combined_text": "Carpal Tunnel Syndrome: Myths, Facts, Diagnosis, and Treatment Introduction What is carpal tunnel syndrome? What causes it? How is it diagnosed? What are the treatment options? What are the chances of pain alleviation and recovery after surgery? Conclusion Introduction The use of computer keyboards, cell phones, PDA’s, gaming controls, and other handheld device",
+        "distance": 0.7560500502586365
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "2318651084569576130": {
+    "query_id": "2318651084569576130",
+    "query": "bermuda monthly sea temperatures",
+    "relevants": [
+      {
+        "relevant_doc": 3736,
+        "relevant_url": "http://www.guidetocaribbeanvacations.com/bermuda/water_temperature.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3736,
+        "title": "Bermuda Water Temperatures by Month",
+        "url": "http://www.guidetocaribbeanvacations.com/bermuda/water_temperature.html",
+        "combined_text": "Bermuda Water Temperatures by Month Bermuda Water Temperatures Month by Month When you see the water temperatures during winter, you'll understand why Bermuda is mostly a summer destination. But before you consider Bermuda's water temperatures, compare them with other popular watersports destinations to put them in perspective. And re",
+        "distance": 0.24582435190677643
+      },
+      {
+        "id": 659,
+        "title": "Average Temperatures for Georgia in October",
+        "url": "http://www.currentresults.com/Weather/Georgia/temperature-october.php",
+        "combined_text": "Average Temperatures for Georgia in October Average Temperatures for Georgia in October Average temperatures for October at cities, towns, and parks throughout Georgia are listed below in degrees Fahrenheit and Celsius. The tables give the normals for maximum and minimum temperatures based on weather data collected from 1981 to 2010 by the US",
+        "distance": 0.700851559638977
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-9105185607130073072": {
+    "query_id": "-9105185607130073072",
+    "query": "where was top chef season 14 filmed",
+    "relevants": [
+      {
+        "relevant_doc": 1938,
+        "relevant_url": "http://ew.com/article/2016/03/18/top-chef-season-14-location/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1938,
+        "title": "Top Chef season 14 location revealed: Exclusive",
+        "url": "http://ew.com/article/2016/03/18/top-chef-season-14-location/",
+        "combined_text": "Top Chef season 14 location revealed: Exclusive Dale Berman/Bravo Nina Terrero March 18, 2016 AT 04:06 PM EDTTop Chef is heading south. EW can exclusively reveal that season 14 of Bravo’s culinary competition will take place in Charleston, South Carolina. Charleston — a historically significant city and popular vacation spot that’s home to plenty",
+        "distance": 0.44206109642982483
+      },
+      {
+        "id": 1430,
+        "title": "Filming & Production",
+        "url": "http://www.imdb.com/title/tt0948470/locations",
+        "combined_text": "Filming & Production The Amazing Spider-Man (2012)Filming & Production Showing all 14 items Jump to: Filming Locations (13) Filming Dates (1)Filming Locations Edit Richmond Hill, Queens, New York City, New York, USA3 of 3 found this interesting Taft High School - 5461 Winnetka Avenue, Woodland Hills, Los Angeles, Califo",
+        "distance": 0.6119285821914673
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8157422731193424426": {
+    "query_id": "-8157422731193424426",
+    "query": "movie about tobacco whistleblower",
+    "relevants": [
+      {
+        "relevant_doc": 3260,
+        "relevant_url": "https://en.wikipedia.org/wiki/The_Insider_(film)"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 819,
+        "title": "The Real Dangers Of Liquid Nicotine",
+        "url": "https://www.forbes.com/sites/robertglatter/2014/03/24/the-real-danger-of-liquid-nicotine/",
+        "combined_text": "The Real Dangers Of Liquid Nicotine Robert Glatter, MD Contributor I cover breaking news in medicine, med tech and public health Opinions expressed by Forbes Contributors are their own. Pharma & Healthcare 3/24/2014 @ 10:42AM 111,047 views The Real Dangers Of Liquid Nicotine As vaping becomes more popular with new flavors, aromas and",
+        "distance": 0.6838042736053467
+      },
+      {
+        "id": 2410,
+        "title": "Learning To Play The Tin Whistle",
+        "url": "http://www.irish-folk-songs.com/learning-tin-whistle.html",
+        "combined_text": "Learning To Play The Tin Whistle Learning To Play The Tin Whistle In total there are about 90 video lessons on this site which include the easy to follow letter notes. On this page I give just a hand-full of links to some of those easy to learn songs. Learning The Tin Whistle, here's a few of my own videos to help you learn how to",
+        "distance": 0.7046335339546204
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4464505332791414966": {
+    "query_id": "-4464505332791414966",
+    "query": "hp support assistant plugin file info",
+    "relevants": [
+      {
+        "relevant_doc": 2897,
+        "relevant_url": "http://www.file.net/process/hpnetworkcheckplugin.dll.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2897,
+        "title": "What is HPNetworkCheckPlugin.dll?",
+        "url": "http://www.file.net/process/hpnetworkcheckplugin.dll.html",
+        "combined_text": "What is HPNetworkCheckPlugin.dll? \"Microsoft Partner Silver Application Developmentfile. net Home Files Software News Contact What is HPNetwork Check Plugin.dll? The genuine HPNetwork Check Plugin.dll file is a software component of HP Support Assistant by Hewlett-Packard. HP Support Assistant is an application that provides trouble",
+        "distance": 0.3169381320476532
+      },
+      {
+        "id": 2605,
+        "title": "HP UltraSlim Docking Station (D9Y32AA) - Product documentation",
+        "url": "http://h20195.www2.hp.com/v2/default.aspx?cc=us&lc=en&oid=5422417",
+        "combined_text": "HP UltraSlim Docking Station (D9Y32AA) - Product documentation HP Ultra Slim Docking Station (D9Y32AA) - Product documentation Please wait - loading... Quick Specs Language Last modified date To view PDF files, you need to have Adobe Acrobat Reader installed on your computer. Acrobat Reader is a free plug-in. Adobe and Adobe Acrobat Reader are trademarks of Ado",
+        "distance": 0.566348671913147
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7937871392196453515": {
+    "query_id": "7937871392196453515",
+    "query": "what killed slayer guitarist jeff hanneman",
+    "relevants": [
+      {
+        "relevant_doc": 2791,
+        "relevant_url": "http://www.foxnews.com/entertainment/2013/05/10/slayer-jeff-hanneman-died-cirrhosis/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2791,
+        "title": "Slayer: Jeff Hanneman died of cirrhosis",
+        "url": "http://www.foxnews.com/entertainment/2013/05/10/slayer-jeff-hanneman-died-cirrhosis/",
+        "combined_text": "Slayer: Jeff Hanneman died of cirrhosis Departed Slayer: Jeff Hanneman died of cirrhosis Published May 10, 2013 Associated Press Facebook Twitter Email This 2009 publicity photo provided courtesy of Slayer shows, from left, Dave Lombardo, Kerry King, Jeff Hanneman and Tom Araya. Hanneman, 49, a founding member of the heavy metal band Slay",
+        "distance": 0.14258597791194916
+      },
+      {
+        "id": 252,
+        "title": "Jeff Dunham",
+        "url": "https://en.wikipedia.org/wiki/Jeff_Dunham",
+        "combined_text": "Jeff Dunham \"Jeff Dunham From Wikipedia, the free encyclopedianavigation search Not to be confused with Jeff Denham. Jeff Dunham Dunham with his puppet \"\"Achmed the Dead Terrorist\"\"Birth name Jeffrey Dunham Born April 18, 1962 (age 55)Dallas, Texas, U. S. Medium Stand-up Film Television Years active 1976–presen",
+        "distance": 0.747620701789856
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "454042705596389976": {
+    "query_id": "454042705596389976",
+    "query": "Roost beer garden live music schedule",
+    "relevants": [
+      {
+        "relevant_doc": 3536,
+        "relevant_url": "https://www.fearrington.com/events/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3536,
+        "title": "Village Calendar",
+        "url": "https://www.fearrington.com/events/",
+        "combined_text": "Village Calendar April 2018Live Music Live Music: Elderberry Jam Thursday, April 12 | 5:00 pm - 8:00 pm Join us at Roost, our seasonal beer garden, for live music on the porch, local beer on tap, wine by the glass and artisan wood-fired pizza! Pull up a chair around the water fountain or under large oaks, and enjoy",
+        "distance": 0.44093096256256104
+      },
+      {
+        "id": 1505,
+        "title": "John Cage's genius an L.A. story",
+        "url": "http://www.latimes.com/entertainment/arts/culture/la-et-cm-john-cage-htmlstory.html",
+        "combined_text": "John Cage's genius an L.A. story \"ENTERTAINMENT ARTS & CULTURECULTURE MONSTERJohn Cage's genius an L. A. story Entertainment Music Arts and Culture Road Transportation Music Industry Concerts Musical Theater The composer is among the most innovative music figures of the 20th century. Yet his formative years in the cultural stew of",
+        "distance": 0.7096549868583679
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8613177062780253767": {
+    "query_id": "8613177062780253767",
+    "query": "how to open odm file",
+    "relevants": [
+      {
+        "relevant_doc": 321,
+        "relevant_url": "http://file.org/extension/odm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 321,
+        "title": "What is an ODM file?",
+        "url": "http://file.org/extension/odm",
+        "combined_text": "What is an ODM file? \"What is an ODM file? Files that contain the .odm file extension are most commonly associated with the Open Office Open Document software application. This freeware application was created to allow for the exchange of word processing documents across a variety of different word processing applicatio",
+        "distance": 0.2864866256713867
+      },
+      {
+        "id": 621,
+        "title": "How to Use OpenOffice to Automatically Open Word Files",
+        "url": "http://smallbusiness.chron.com/use-openoffice-automatically-open-word-files-63248.html",
+        "combined_text": "How to Use OpenOffice to Automatically Open Word Files Related Articles1How to Open WPS Files in Open Office2How to Make Open Office the Default for Windows 83How to Open Open Office Documents in Word4How to Open Pages Documents With Open Office Writer Any business looking for a cost-effective alternative to the Microsoft Office suite may do well to loo",
+        "distance": 0.45561254024505615
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7507410200454312445": {
+    "query_id": "7507410200454312445",
+    "query": "Emerson Thoreau nature philosophy",
+    "relevants": [
+      {
+        "relevant_doc": 14,
+        "relevant_url": "http://workingtropes.lmc.gatech.edu/wiki/index.php/Transcendentalism"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 674,
+        "title": "Romanticism, Nature, Ecology",
+        "url": "https://www.rc.umd.edu/pedagogies/commons/ecology/harrison/harrison.html",
+        "combined_text": "Romanticism, Nature, Ecology \"Romanticism, Nature, Ecology Gary Harrison, University of New Mexico I: Introduction The connection between Romanticism and ecology has often been recognized in the critical literature on Romanticism and in the writings of ecologists and naturalists. Recently Jonathan Bate, Karl Kroeber, Jim Mc Kus",
+        "distance": 0.6253036856651306
+      },
+      {
+        "id": 1153,
+        "title": "metaphysical poets",
+        "url": "http://encyclopedia2.thefreedictionary.com/Metaphysical+poetry",
+        "combined_text": "metaphysical poets \"metaphysical poets (redirected from Metaphysical poetry)metaphysical poets,name given to a group of English lyric poets of the 17th cent. The term was first used by Samuel Johnson (1744). The hallmark of their poetry is the metaphysicalconceit (a figure of speech that employs unusual and paradoxica",
+        "distance": 0.7285215854644775
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "6823078699561974828": {
+    "query_id": "6823078699561974828",
+    "query": "vera farmiga films and awards",
+    "relevants": [
+      {
+        "relevant_doc": 2309,
+        "relevant_url": "http://www.imdb.com/name/nm0267812/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2309,
+        "title": "Vera Farmiga",
+        "url": "http://www.imdb.com/name/nm0267812/",
+        "combined_text": "Vera Farmiga \"Top 500Vera Farmiga Actress | Producer | Soundtrack Official Photos »Vera Farmiga is an American actress who received an Academy Award nomination for Best Supporting Actress for her role in Up in the Air (2009) and a Primetime Emmy Award nomination for Outstanding Lead Actress in a Drama Series for",
+        "distance": 0.21189376711845398
+      },
+      {
+        "id": 2643,
+        "title": "How are the release dates for US movies determined?",
+        "url": "https://www.quora.com/How-are-the-release-dates-for-US-movies-determined",
+        "combined_text": "How are the release dates for US movies determined? Anthony Ferreri, made movies professionally, watched movies, still sort of like movies Answered Aug 12, 2012 · Author has 2.8k answers and 2.9m answer views The time of the year, past performance and subject matter tend to dictate the release of films. The biggest seasons are Summer and Winter. Summ",
+        "distance": 0.731167733669281
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-1426995754132138800": {
+    "query_id": "-1426995754132138800",
+    "query": "museum of british art millbank london",
+    "relevants": [
+      {
+        "relevant_doc": 1600,
+        "relevant_url": "http://www.aboutbritain.com/TateBritain.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1600,
+        "title": "Tate Britain",
+        "url": "http://www.aboutbritain.com/TateBritain.htm",
+        "combined_text": "Tate Britain You are here: Attractions -> Things to Do in Greater London -> Tate Britain Tate Britain Click Photo for Slideshow Millbank London SW1P 4RGTate Britain is the national gallery of British art. It is no longer part of the National Gallery. Today, Tate Britain is the home of British art from 1500 to th",
+        "distance": 0.44909679889678955
+      },
+      {
+        "id": 1886,
+        "title": "The best boat trips in London",
+        "url": "https://www.timeout.com/london/things-to-do/boat-trips-in-london",
+        "combined_text": "The best boat trips in London London boat tours are a truly fabulous way to see the city’s top spots. The River Thames is a destination in itself, of course, and most London boat tours will take in famous landmarks such as the Tate Modern, St Paul’s Cathedral, Tower Bridge and the Tower of London, The O2 and Canary Wharf. You’ll",
+        "distance": 0.6517696380615234
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3001782006706180809": {
+    "query_id": "3001782006706180809",
+    "query": "lil wayne shooting incidents count",
+    "relevants": [
+      {
+        "relevant_doc": 3447,
+        "relevant_url": "http://www.chacha.com/question/how-many-times-has-lil'-wayne-been-shot"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3447,
+        "title": "How many times has Lil' Wayne been shot",
+        "url": "http://www.chacha.com/question/how-many-times-has-lil'-wayne-been-shot",
+        "combined_text": "How many times has Lil' Wayne been shot \"Anonymous How many times has Lil' Wayne been shot Topics: Entertainment Answer He's been shot twice. Can I help you with0 3 months ago Do you know the answer? Login or Sign Up to answer this question.data-config-site-section=\"\"chacha\"\">Related Entertainment Questions Was Lil Wayne shot 6 times? No,",
+        "distance": 0.2880910038948059
+      },
+      {
+        "id": 2121,
+        "title": "Lil Peep",
+        "url": "http://www.newsday.com/entertainment/celebrities/celebrities-who-died-young-1.3331358",
+        "combined_text": "Lil Peep \"Their celebrity was sometimes brief, sometimes felt for decades. What they had in common was a death that came too soon. Lil Peep Photo Credit: Getty Images / Pascal Le Segretain Long Beach-raised rapper Lil Peep, who blurred the lines of hip-hop and Emo music, was confirmed dead on Thursday, Nov.",
+        "distance": 0.6532301902770996
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "2507872289014404549": {
+    "query_id": "2507872289014404549",
+    "query": "activate voicemail on ting phone",
+    "relevants": [
+      {
+        "relevant_doc": 2918,
+        "relevant_url": "https://help.ting.com/hc/en-us/articles/205422008-Voicemail"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2918,
+        "title": "1. How do I set up voicemail for the first time?",
+        "url": "https://help.ting.com/hc/en-us/articles/205422008-Voicemail",
+        "combined_text": "1. How do I set up voicemail for the first time? \"1. How do I set up voicemail for the first time? Ensure you have the voicemail option checked in the Device Settings on your account. If your phone is locked, unlock it. CDMA Devices Press and hold 1 on the dial pad. You will be automatically connected to your voice mailbox and be prompted to initi",
+        "distance": 0.37364208698272705
+      },
+      {
+        "id": 478,
+        "title": "Check Google voicemail",
+        "url": "https://support.google.com/voice/answer/164648?hl=en",
+        "combined_text": "Check Google voicemail \"Check Google voicemail Listen to your voicemail, or read a transcript of the message. Computer Android i Phone & i Pad Check from a computer On your computer, open Google Voice. Open the tab for Voicemail. Voicemails you haven't read yet are in bold. Select a voicemail. Read the transcript. To list",
+        "distance": 0.41342130303382874
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "1865268289768225040": {
+    "query_id": "1865268289768225040",
+    "query": "network packet analyzer tools comparison",
+    "relevants": [
+      {
+        "relevant_doc": 3526,
+        "relevant_url": "http://windowsitpro.com/hardware/6-network-protocol-analyzers"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3526,
+        "title": "6 Network Protocol Analyzers",
+        "url": "http://windowsitpro.com/hardware/6-network-protocol-analyzers",
+        "combined_text": "6 Network Protocol Analyzers \"Management & Mobility6 Network Protocol Analyzers Do you know what's passing over the wire? These products can tell you. Roger Grimes | Jun 28, 2004A network protocol analyzer is a vital part of a network administrator's toolkit. Network protocol analysis is the truth serum of network communication",
+        "distance": 0.4172062575817108
+      },
+      {
+        "id": 2347,
+        "title": "GPRS (General Packet Radio Services)",
+        "url": "http://searchmobilecomputing.techtarget.com/definition/GPRS",
+        "combined_text": "GPRS (General Packet Radio Services) General Packet Radio Services (GPRS) is a packet -based wireless communication service that promises data rates from 56 up to 114 Kbps and continuous connection to the Internet for mobile phone and computer users. The higher data rates allow users to take part in video conferences and interact with",
+        "distance": 0.575378954410553
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7481904456867988244": {
+    "query_id": "7481904456867988244",
+    "query": "fort hall slot machines and coupons",
+    "relevants": [
+      {
+        "relevant_doc": 3010,
+        "relevant_url": "http://idaho.casinocity.com/fort-hall/fort-hall-casino/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3010,
+        "title": "Fort Hall Casino",
+        "url": "http://idaho.casinocity.com/fort-hall/fort-hall-casino/",
+        "combined_text": "Fort Hall Casino Fort Hall Casino Casino Coupons? The American Casino Guide has over $1,000 in money-saving coupons from all over the country!Fort Hall Casino is a Native American Casino in Fort Hall, Idaho and is open daily 24 hours. The casino's 20,000 square foot gaming space features 850 gaming machines. The pro",
+        "distance": 0.338880330324173
+      },
+      {
+        "id": 1245,
+        "title": "Best Payout Casinos",
+        "url": "http://www.casinosonline.com/best-payout-casinos/",
+        "combined_text": "Best Payout Casinos US Online Casino Multi-Software50+ Mobile Games$3,000 Welcome Bonus Visit Casino Euro Online Casino Licensed UK Casino Top Playtech Casino Amazing Live Dealer Games Visit Casino AUS Online Casino400% Match Bonus Huge Jackpots AU$25 Free Chip Visit Casino Best Payout Casinos Home » Best Payout Casino",
+        "distance": 0.6946301460266113
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-5183856530086885779": {
+    "query_id": "-5183856530086885779",
+    "query": "things to do in nyack ny",
+    "relevants": [
+      {
+        "relevant_doc": 1032,
+        "relevant_url": "https://www.tripadvisor.com/Tourism-g48310-Nyack_New_York-Vacations.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1032,
+        "title": "Nyack, New York",
+        "url": "https://www.tripadvisor.com/Tourism-g48310-Nyack_New_York-Vacations.html",
+        "combined_text": "Nyack, New York \"4,331 reviews and opinions Nyack, New York (misstravel1005, Jan 2008)Lodging (3)1,390 Reviews Vacation Rentals (1)Flightsfrom $347Things to Do (18)290 Reviews Restaurants (57)2,644 Reviews Forum5 Posts Overview Places to Stay Location Things to Do Want to save up to 30% on your Nyack hotel? We chec",
+        "distance": 0.32086944580078125
+      },
+      {
+        "id": 3609,
+        "title": "Bill Nye the Science Guy",
+        "url": "https://en.wikipedia.org/wiki/Bill_Nye_the_Science_Guy",
+        "combined_text": "Bill Nye the Science Guy \"Bill Nye the Science Guy From Wikipedia, the free encyclopedianavigation search This article is about the TV show. For the host with the same nickname, see Bill Nye. Bill Nye the Science Guy Created by Bill Nye James Mc Kenna Erren Gottlieb Presented by Bill Nye Starring Chais Dean Suzanne Mikawa I",
+        "distance": 0.7177616953849792
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-3704459070711237574": {
+    "query_id": "-3704459070711237574",
+    "query": "bill nighy david hare spy drama",
+    "relevants": [
+      {
+        "relevant_doc": 1993,
+        "relevant_url": "http://www.bbc.co.uk/mediacentre/latestnews/2014/worricker-press-pack"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1993,
+        "title": "Bill Nighy returns as Johnny Worricker in David Hareâs Emmy-winning spy thriller on BBC Two",
+        "url": "http://www.bbc.co.uk/mediacentre/latestnews/2014/worricker-press-pack",
+        "combined_text": "Bill Nighy returns as Johnny Worricker in David Hareâs Emmy-winning spy thriller on BBC Two \"Bill Nighy returns as Johnny Worricker in David Hare’s Emmy-winning spy thriller on BBC Two David Hare’s outstanding films and incredible cast are testament to the BBC’s commitment to original British drama and I am excited to welcome him and Bill Nighy back to BBC Two.”Janice Hadlow, Controller, B",
+        "distance": 0.26407721638679504
+      },
+      {
+        "id": 483,
+        "title": "LGBTGay Actors Who Play Straight Characters",
+        "url": "http://www.ranker.com/list/gay-actors-who-play-straight-characters-v1/celebrity-lists",
+        "combined_text": "LGBTGay Actors Who Play Straight Characters \"LGBTGay Actors Who Play Straight Characters Celebrity Lists10.3M views 31 items Follow Embed This list of gay actors who play straight characters is loosely ranked by fame and popularity. One of the great things about being an actor or public figure is you can play characters that are different fro",
+        "distance": 0.7139429450035095
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-3602758106453120727": {
+    "query_id": "-3602758106453120727",
+    "query": "clear past searches on Google and Bing",
+    "relevants": [
+      {
+        "relevant_doc": 149,
+        "relevant_url": "http://smallbusiness.chron.com/remove-previous-searches-bing-google-70518.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 149,
+        "title": "How to Remove Any Previous Searches on Bing & Google",
+        "url": "http://smallbusiness.chron.com/remove-previous-searches-bing-google-70518.html",
+        "combined_text": "How to Remove Any Previous Searches on Bing & Google \"Related Articles1How to Clear the Recent Searches That Show Below Bing2How to Look Up Previous Searches on Your Computer3How to Delete Search Entries on the Google Drop-Down4How to Remove Personal Information on Bing Every time you perform a Web search, you send information to someone else's comput",
+        "distance": 0.30518803000450134
+      },
+      {
+        "id": 2444,
+        "title": "Cache :: Search Commands",
+        "url": "http://searchcommands.com/cache/",
+        "combined_text": "Cache :: Search Commands \"Cache :: Search Commands Google, Yahoo and MSN each offer cached copies of web pages. Google offers the cache search command as an additional way of accessing the page cached copy. A cache is a copy of the web page the search engine saw when it visited the URL. The cache recalls the HTML of a web p",
+        "distance": 0.5197425484657288
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-2892169954186862914": {
+    "query_id": "-2892169954186862914",
+    "query": "which canadian city should i move to",
+    "relevants": [
+      {
+        "relevant_doc": 2359,
+        "relevant_url": "https://www.buzzfeed.com/perpetua/where-should-you-live-in-canada"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 339,
+        "title": "Similar Artists",
+        "url": "https://www.last.fm/music/Breaking+Benjamin/+similar",
+        "combined_text": "Similar Artists Similar Artists Three Days Grace Three Days Grace is a Canadian rock band, formed under the name Groundswell in Norwood, Ontario, Canada in 1992. After a breakup in 1995, the…Red There are several artists using this name: 1. An American Christian rock band 2. An American post-punk band 3. A Canadian",
+        "distance": 0.6694996953010559
+      },
+      {
+        "id": 3450,
+        "title": "Montreal Tours, Tickets, Activities & Things To Do",
+        "url": "https://www.viator.com/Montreal/d625-ttd",
+        "combined_text": "Montreal Tours, Tickets, Activities & Things To Do Quebec City and Montmorency Falls Day Trip from Montreal1344 Reviews Montreal, Canada 12 hours Top Insider's Pick From USD$ 88.03Montreal City Guided Sightseeing Tour1085 Reviews Montreal, Canada 3 hours 30 minutes Top Insider's Pick From USD$ 44.02Montreal Attraction Pass58 Reviews Montreal, Canada",
+        "distance": 0.6715564131736755
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7900513359353274931": {
+    "query_id": "7900513359353274931",
+    "query": "alexander graham bell early life edinburgh",
+    "relevants": [
+      {
+        "relevant_doc": 465,
+        "relevant_url": "http://www.acsu.buffalo.edu/~duchan/new_history/hist19c/subpages/gbell.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 465,
+        "title": "1847-1922",
+        "url": "http://www.acsu.buffalo.edu/~duchan/new_history/hist19c/subpages/gbell.html",
+        "combined_text": "1847-1922 \"Alexander Graham Bell1847-1922Alexander Graham Bell was born in Edinburgh Scotland in 1847. His grandfather, for whom he was named, was an actor, orator, and elocutionist. The elder Alexander Bell wrote two well-recognized books “The Practical Elocutionist,” and “Stammering and Other Impediments of",
+        "distance": 0.33672648668289185
+      },
+      {
+        "id": 1853,
+        "title": "Alexander Graham Bell Family Papers at the Library of Congress, 1862-1939 History",
+        "url": "http://loc.gov/teachers/classroommaterials/connections/alexander-graham-bell/history3.html",
+        "combined_text": "Alexander Graham Bell Family Papers at the Library of Congress, 1862-1939 History \"Print Subscribe Share/Save Give Feedback Alexander Graham Bell Family Papers at the Library of Congress, 1862-1939 History [Detail] Alexander Graham Bell's design sketch of the telephone Overview | History | Critical Thinking | Arts & Humanities Bell: A Man of Broad Knowledge | Assisting the Deaf:",
+        "distance": 0.3697408139705658
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8333470516050382347": {
+    "query_id": "8333470516050382347",
+    "query": "how search bots find new pages",
+    "relevants": [
+      {
+        "relevant_doc": 2302,
+        "relevant_url": "http://www.wpthemesplanet.com/2009/09/how-does-web-crawler-spider-work/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2302,
+        "title": "How does a Web Crawler work?",
+        "url": "http://www.wpthemesplanet.com/2009/09/how-does-web-crawler-spider-work/",
+        "combined_text": "How does a Web Crawler work? How does a Web Crawler work?admin Articles, Search Engines The first thing you need to understand is what a Web Crawler or Spider is and how it works. A Search Engine Spider (also known as a crawler, Robot, Search Bot or simply a Bot) is a program that most search engines use to find what’s new on t",
+        "distance": 0.45270654559135437
+      },
+      {
+        "id": 2444,
+        "title": "Cache :: Search Commands",
+        "url": "http://searchcommands.com/cache/",
+        "combined_text": "Cache :: Search Commands \"Cache :: Search Commands Google, Yahoo and MSN each offer cached copies of web pages. Google offers the cache search command as an additional way of accessing the page cached copy. A cache is a copy of the web page the search engine saw when it visited the URL. The cache recalls the HTML of a web p",
+        "distance": 0.5431200861930847
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-2725995819459334133": {
+    "query_id": "-2725995819459334133",
+    "query": "what was peanuts first called",
+    "relevants": [
+      {
+        "relevant_doc": 3665,
+        "relevant_url": "http://www.answers.com/Q/What_is_the_original_name_of_the_Peanuts_comic_strip"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3665,
+        "title": "Who created the peanuts comic strip?",
+        "url": "http://www.answers.com/Q/What_is_the_original_name_of_the_Peanuts_comic_strip",
+        "combined_text": "Who created the peanuts comic strip? \"Conehat 4 Contributions Who created the peanuts comic strip? Charles Schultz On the Wallaby 2,874,808 Contributions Passionate about all things Australian What was Snoopy's brother's name in the Peanuts comic strip? Snoopy had several brothers. His most well-known brother was Spike, but others incl",
+        "distance": 0.305675208568573
+      },
+      {
+        "id": 50,
+        "title": "Peanut",
+        "url": "https://simple.wikipedia.org/wiki/Peanut",
+        "combined_text": "Peanut \"This article is about the nut. For comic strip, see Peanuts. The English used in this article or section may not be easy for everybody to understand. You can help Wikipedia by reading Wikipedia: How to write Simple English pages, then simplifying the article. (May 2012)Peanut Peanut ( Arachis hypog",
+        "distance": 0.45000702142715454
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8026978039860498990": {
+    "query_id": "-8026978039860498990",
+    "query": "entry level it technician pay by state",
+    "relevants": [
+      {
+        "relevant_doc": 2691,
+        "relevant_url": "http://salarybystate.org/tag/entry-level-it-technician-salary"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2691,
+        "title": "IT Technician Salary By State",
+        "url": "http://salarybystate.org/tag/entry-level-it-technician-salary",
+        "combined_text": "IT Technician Salary By State IT Technician Salary By State Google Trend graph interest shows a decline from 2006 into the consistent trend we see today. The career of IT Technicians is still highly needed and a great stepping stone in the business of IT for budding professionals to get their feet wet in information technology.",
+        "distance": 0.4785923957824707
+      },
+      {
+        "id": 1003,
+        "title": "Overview",
+        "url": "http://www.cisco.com/c/en/us/training-events/training-certifications/certifications/entry/ccent.html",
+        "combined_text": "Overview Overview The CCENT certification validates the skills required for entry-level network support positions, the starting point for many successful careers in networking. CCENT certified professionals have the knowledge and skill to install, operate, and troubleshoot a small enterprise branch network,",
+        "distance": 0.6283623576164246
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8917826809561139443": {
+    "query_id": "-8917826809561139443",
+    "query": "mvc partial views and layout guide",
+    "relevants": [
+      {
+        "relevant_doc": 3727,
+        "relevant_url": "http://www.codeproject.com/Articles/698246/ASP-Net-MVC-Special-Views-Partial-View-and-Layout"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3727,
+        "title": "ASP.NET MVC Special Views - Partial View and Layout",
+        "url": "http://www.codeproject.com/Articles/698246/ASP-Net-MVC-Special-Views-Partial-View-and-Layout",
+        "combined_text": "ASP.NET MVC Special Views - Partial View and Layout \"ASP. NET MVC Special Views - Partial View and Layouttechbird, 25 Nov 20144.68 (42 votes)Rate this: vote 1 vote 2 vote 3 vote 4 vote 5Details about ASP. NET MVC Layout and Partial View Download Student Management Source - 809 KBQuick Guide PDFIntroduction ASP. NET MVC consists of three main parts -",
+        "distance": 0.3582182824611664
+      },
+      {
+        "id": 2120,
+        "title": "Follow Google Developers on WeChat",
+        "url": "https://developer.android.com/training/material/drawables.html",
+        "combined_text": "Follow Google Developers on WeChat \"Material design is a comprehensive guide for visual, motion, and interaction design across platforms and devices. To use material design in your Android apps, follow the guidelines defined in the material design specification and use the new components and styles available in the material design su",
+        "distance": 0.6370481252670288
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-2438654286123309120": {
+    "query_id": "-2438654286123309120",
+    "query": "mendeecees harris released on bond",
+    "relevants": [
+      {
+        "relevant_doc": 907,
+        "relevant_url": "http://www.realitytea.com/2014/04/02/love-hip-hops-mendeecees-harris-out-of-prison-on-600000-bond/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 907,
+        "title": "Love & Hip Hopâs Mendeecees Harris Out Of Jail On $600,000 Bond!",
+        "url": "http://www.realitytea.com/2014/04/02/love-hip-hops-mendeecees-harris-out-of-prison-on-600000-bond/",
+        "combined_text": "Love & Hip Hopâs Mendeecees Harris Out Of Jail On $600,000 Bond! \"Teen Mom Young And Pregnant Recap: Parenting 101Vanderpump Rules Recap: World War Jax Kate Gosselin Will Return To Reality TV For A Show About Her Dating Life Bethenny Frankel Is Working On A TV Show With Meghan Markle's Ex-Husband Love & Hip Hop’s Mendeecees Harris Out Of Jail On $600,000 Bond!by",
+        "distance": 0.4627473056316376
+      },
+      {
+        "id": 504,
+        "title": "James Bond (Sean Connery)",
+        "url": "http://jamesbond.wikia.com/wiki/James_Bond_(Sean_Connery)",
+        "combined_text": "James Bond (Sean Connery) \"Literary — Connery — Lazenby — Moore — Dalton — Brosnan — Craig — Others Promo Dr. No You Only Live Twice Never Say Never Again James Bond Character information Alias (es)007David Somerset Jim Fisher Peter Franks Mr. Jones Title/rank Commander, Royal Navy Age53 (in 1983)Born1930 United Kingdom Hair",
+        "distance": 0.7455481886863708
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "6344531972610156188": {
+    "query_id": "6344531972610156188",
+    "query": "how neoliberal political propaganda works",
+    "relevants": [
+      {
+        "relevant_doc": 811,
+        "relevant_url": "http://www.softpanorama.org/Skeptics/Political_skeptic/Propaganda/patterns_of_propaganda.shtml"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 811,
+        "title": "Patterns of Propaganda",
+        "url": "http://www.softpanorama.org/Skeptics/Political_skeptic/Propaganda/patterns_of_propaganda.shtml",
+        "combined_text": "Patterns of Propaganda \"Softpanorama Home Switchboard Unix Administration Red Hat TCP/IP Networks Neoliberalism Toxic Managers May the source be with you, but remember the KISS principle ;-)Patterns of Propaganda Skeptisim and Pseudo Science > Who Rules America > Neoliberal Brainwashing News Neoliberal Brainwashing -- Jou",
+        "distance": 0.49053752422332764
+      },
+      {
+        "id": 28,
+        "title": "What Is A Social Justice Warrior (SJW)?",
+        "url": "http://www.rooshv.com/what-is-a-social-justice-warrior-sjw",
+        "combined_text": "What Is A Social Justice Warrior (SJW)? What Is A Social Justice Warrior (SJW)? October 6, 2014 Culture Roosh Social justice warriors believe in an extreme left-wing ideology that combines feminism, progressivism, and political correctness into a totalitarian system that attempts to censor speech and promote fringe lifestyles while active",
+        "distance": 0.7379520535469055
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "4806723285425111441": {
+    "query_id": "4806723285425111441",
+    "query": "meaning of jordan almonds at weddings",
+    "relevants": [
+      {
+        "relevant_doc": 1621,
+        "relevant_url": "http://www.mamalisa.com/blog/the-symbolism-of-jordan-almonds/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1621,
+        "title": "International Music & Culture",
+        "url": "http://www.mamalisa.com/blog/the-symbolism-of-jordan-almonds/",
+        "combined_text": "International Music & Culture \"The Symbolism of Jordan Almonds December 23rd, 2014Jordan Almonds are given out as favors at weddings, bridal showers and baby showers in the US, France, Italy, Greece and the Middle East. It’s believed that the name for Jordan Almonds does not come from Jordan, but is a corruption of the French wo",
+        "distance": 0.19440743327140808
+      },
+      {
+        "id": 532,
+        "title": "Wedding Invitations",
+        "url": "https://www.zazzle.com/wedding+invitations",
+        "combined_text": "Wedding Invitations Popular Themes Disney Rustic Lace Elegant Floral Modern Vintage Simple Typography Geometric Watercolor Beach Country Photo Nautical Shop by Season Spring Summer Fall Winter Wedding Timeline Engagement Party Save the Dates Will You Be My Bridesmaid Couple's Shower Bridal Shower Bachelorette Party Bac",
+        "distance": 0.7986774444580078
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8166145514043291140": {
+    "query_id": "-8166145514043291140",
+    "query": "pike stranded in lake roosevelt drawdown",
+    "relevants": [
+      {
+        "relevant_doc": 736,
+        "relevant_url": "http://www.spokesman.com/blogs/outdoors/2015/mar/09/numerous-pike-found-roosevelts-kettle-arm/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 736,
+        "title": "Numerous pike found in Rooseveltâs Kettle Arm",
+        "url": "http://www.spokesman.com/blogs/outdoors/2015/mar/09/numerous-pike-found-roosevelts-kettle-arm/",
+        "combined_text": "Numerous pike found in Rooseveltâs Kettle Arm Mon., March 9, 2015, 7:20 a.m. Numerous pike found in Roosevelt’s Kettle Arm Twitter Facebook Reddit An anglers says this unconfirmed photo shows two dozen northern pike stranded on dry ground in the Kettle River Arm of Lake Roosevelt during a March 2015 reservoir drawdown. (Courtesy)FISHING – An an",
+        "distance": 0.3038594424724579
+      },
+      {
+        "id": 2293,
+        "title": "Itâs transition time for northern pike in Colorado waters",
+        "url": "http://www.denverpost.com/2011/06/14/its-transition-time-for-northern-pike-in-colorado-waters/",
+        "combined_text": "Itâs transition time for northern pike in Colorado waters Sports Outdoors It’s transition time for northern pike in Colorado waters Previous Next1 of 2Nathan Zelinsky holds a pike caught by Fre Willard of Colorado Springs. By Scott Willoughby | The Denver Post PUBLISHED: June 14, 2011 at 4:11 pm | UPDATED: May 3, 2016 at 12:47 pm SOUTH PARK — In the anglin",
+        "distance": 0.6149148941040039
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4109147542709473703": {
+    "query_id": "-4109147542709473703",
+    "query": "ingrid bergman hitchcock collaborations",
+    "relevants": [
+      {
+        "relevant_doc": 969,
+        "relevant_url": "http://www.answers.com/Q/What_movies_did_Ingrid_Bergman_make_with_Alfred_Hitchcock"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 969,
+        "title": "What movies did Alfred Hitchcock create?",
+        "url": "http://www.answers.com/Q/What_movies_did_Ingrid_Bergman_make_with_Alfred_Hitchcock",
+        "combined_text": "What movies did Alfred Hitchcock create? What movies did Alfred Hitchcock create? The Lodger (1926 - Silent) The Ring (1927 - Silent) Easy Virtue (1927 - Silent) Champagne (1928 - Silent) The Farmer's Wife (1928 Silent) Manxman (1929) Blac …What are the two music pieces played in the Hitchcock movie 'Notorious' 1946 while Ingrid Bergman an",
+        "distance": 0.5744675993919373
+      },
+      {
+        "id": 2552,
+        "title": "What is Suspense?",
+        "url": "http://www.writersdigest.com/writing-articles/by-writing-genre/mystery-thriller/what_is_suspense",
+        "combined_text": "What is Suspense? What is Suspense? By: The Writers Encyclopedia | March 11, 2008Suspense is the element of both fiction and some nonfiction that makes the reader uncertain about the outcome. While most obvious in mystery stories such as those published in Ellery Queen”s Mystery Magazine or Alfred Hitchcock”s Mystery",
+        "distance": 0.7531728148460388
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-6331660122500557098": {
+    "query_id": "-6331660122500557098",
+    "query": "buy white king squab pigeons",
+    "relevants": [
+      {
+        "relevant_doc": 263,
+        "relevant_url": "http://africanowlscom.ipage.com/pigeons-for-sale/utility-white-king-squabbing-pigeons-for-sale/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 263,
+        "title": "Fancy Pigeons For Sale Fancy Pigeons, Show Pigeon Breeds Sale. Scroll Down & See All: Â» Utility White King Squabbing Pigeons For Sale",
+        "url": "http://africanowlscom.ipage.com/pigeons-for-sale/utility-white-king-squabbing-pigeons-for-sale/",
+        "combined_text": "Fancy Pigeons For Sale Fancy Pigeons, Show Pigeon Breeds Sale. Scroll Down & See All: Â» Utility White King Squabbing Pigeons For Sale Fancy Pigeons For Sale Fancy Pigeons, Show Pigeon Breeds Sale. Scroll Down & See All: » Utility White King Squabbing Pigeons For Sale Utility White King Squabbing Pigeons For Sale Utility White King Squabbing Pigeons For Sale This entry was posted on Sunday, March 30th, 2014 at 9:45 pm and is filed",
+        "distance": 0.19493094086647034
+      },
+      {
+        "id": 109,
+        "title": "The White Stripes Biography",
+        "url": "http://www.notablebiographies.com/news/Sh-Z/The-White-Stripes.html",
+        "combined_text": "The White Stripes Biography \"The White Stripes Biography Follow City-Data.com founder on our Forum or @Lech Mazur Jack White July 1975 • Detroit, Michigan Guitarist, pianist, singer, songwriter Meg Whitec. 1974 • Grosse Pointe, Michigan Drummer Jack White and Meg White of the White Stripes. AP/Wide World Photos. Reproduced by",
+        "distance": 0.7298902273178101
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "6855080134086073492": {
+    "query_id": "6855080134086073492",
+    "query": "cisco beginner network certification",
+    "relevants": [
+      {
+        "relevant_doc": 1003,
+        "relevant_url": "http://www.cisco.com/c/en/us/training-events/training-certifications/certifications/entry/ccent.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1003,
+        "title": "Overview",
+        "url": "http://www.cisco.com/c/en/us/training-events/training-certifications/certifications/entry/ccent.html",
+        "combined_text": "Overview Overview The CCENT certification validates the skills required for entry-level network support positions, the starting point for many successful careers in networking. CCENT certified professionals have the knowledge and skill to install, operate, and troubleshoot a small enterprise branch network,",
+        "distance": 0.49837011098861694
+      },
+      {
+        "id": 1892,
+        "title": "Catalyst 6500 Release 12.2SX Software Configuration Guide",
+        "url": "http://www.cisco.com/c/en/us/td/docs/switches/lan/catalyst6500/ios/12-2SX/configuration/guide/book/ipsrcgrd.html",
+        "combined_text": "Catalyst 6500 Release 12.2SX Software Configuration Guide This chapter describes how to configure IP Source Guard. Cisco IOS Release 12.2 (33)SXH and later releases support IP Source Guard. Note For complete syntax and usage information for the commands used in this chapter, see the Cisco IOS Master Command List, at this URL:http://www.cisco.com/en/US/docs",
+        "distance": 0.5048246383666992
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-7943926726860063598": {
+    "query_id": "-7943926726860063598",
+    "query": "how to calculate imei check digit",
+    "relevants": [
+      {
+        "relevant_doc": 818,
+        "relevant_url": "http://www.imei.info/calc"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 818,
+        "title": "IMEI calculator",
+        "url": "http://www.imei.info/calc",
+        "combined_text": "IMEI calculator The Check Digit is a function of all other digits in the IMEI. The purpose of the Check Digit is to help guard against the possibility of incorrect entries to the CEIR and EIR equipment. The check digit is validated in three steps:1. Starting from the right, double a digit every two digits (e.g., 5",
+        "distance": 0.23429754376411438
+      },
+      {
+        "id": 1950,
+        "title": "Bought a OBD II Code Reader for Check Engine Light",
+        "url": "http://www.mymoneyblog.com/bought-a-obd-ii-code-reader-for-check-engine-light.html",
+        "combined_text": "Bought a OBD II Code Reader for Check Engine Light \"Bought a OBD II Code Reader for Check Engine Light January 27, 2009 By Jonathan Ping 55 Comments Several months ago my “check engine” light went on. I went to my local mechanic, who plugged in a code scanner and found my error. Since it didn’t re-appear after resetting, he said he could try to fix",
+        "distance": 0.6437531113624573
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-7988776718700120731": {
+    "query_id": "-7988776718700120731",
+    "query": "how wealthy is mariah carey",
+    "relevants": [
+      {
+        "relevant_doc": 17,
+        "relevant_url": "http://www.cownetworth.com/mariah-carey-net-worth/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 17,
+        "title": "Mariah Carey Net Worth",
+        "url": "http://www.cownetworth.com/mariah-carey-net-worth/",
+        "combined_text": "Mariah Carey Net Worth Lamar Odom Net Worth Lynda Carter Net Worth Mariah Carey Net Worth August 29, 2014 anupam Singer3 comments Mariah Carey is one of the many millionaires churned out by the entertainment industry of America. The 44 years old celebrity born at Huntington, New York has had an illustrious career with man",
+        "distance": 0.36878010630607605
+      },
+      {
+        "id": 1227,
+        "title": "Why did Adele write the song someone like you?",
+        "url": "http://www.answers.com/Q/Who_wrote_someone_like_you_by_Adele",
+        "combined_text": "Why did Adele write the song someone like you? \"Why did Adele write the song someone like you?because she had a boy firend that cheated on adele and then left her What is the song structure for someone like you by adele? A A B C A B C D C Verse Verse Pre-Hook Chorus Verse Pre-Hook Chorus Bridge Chorus What date did Adele release someone like you",
+        "distance": 0.7402176260948181
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8061703277650624661": {
+    "query_id": "-8061703277650624661",
+    "query": "windows thread priority levels",
+    "relevants": [
+      {
+        "relevant_doc": 3616,
+        "relevant_url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ms685100(v=vs.85).aspx"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3616,
+        "title": "Scheduling Priorities",
+        "url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ms685100(v=vs.85).aspx",
+        "combined_text": "Scheduling Priorities \"Scheduling Priorities Threads are scheduled to run based on their scheduling priority. Each thread is assigned a scheduling priority. The priority levels range from zero (lowest priority) to 31 (highest priority). Only the zero-page thread can have a priority of zero. (The zero-page thread is a sys",
+        "distance": 0.34837955236434937
+      },
+      {
+        "id": 2436,
+        "title": "max worker threads Option",
+        "url": "https://technet.microsoft.com/en-us/library/ms187024(v=sql.105).aspx",
+        "combined_text": "max worker threads Option max worker threads Option Use the max worker threads option to configure the number of worker threads available to Microsoft SQL Server processes. SQL Server uses the native thread services of the Microsoft Windows 2000 and Windows Server 2003 operating systems so that one or more threads support ea",
+        "distance": 0.4922553300857544
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-3705535549578977607": {
+    "query_id": "-3705535549578977607",
+    "query": "samuel l jackson toughest movie roles",
+    "relevants": [
+      {
+        "relevant_doc": 229,
+        "relevant_url": "http://www.ifc.com/2013/12/samuel-l-jacksons-16-most-badass-movie-roles"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 229,
+        "title": "Samuel L. Jacksonâs 16 Most Badass Movie Roles",
+        "url": "http://www.ifc.com/2013/12/samuel-l-jacksons-16-most-badass-movie-roles",
+        "combined_text": "Samuel L. Jacksonâs 16 Most Badass Movie Roles Samuel L. Jackson’s 16 Most Badass Movie Roles Posted by IFC on December 31st16. Derrick Vann, The Man He is, simply put, the man. Apologies to Eugene Levy. Photo courtesy of New Line Cinema15. Octopus, The Spirit Just look at him! Obvious badassery at hand. Photo courtesy of Superior Pics /Lions Ga",
+        "distance": 0.4905802011489868
+      },
+      {
+        "id": 368,
+        "title": "List of The Jackson 5 band members",
+        "url": "https://en.wikipedia.org/wiki/List_of_The_Jackson_5_band_members",
+        "combined_text": "List of The Jackson 5 band members \"List of The Jackson 5 band members From Wikipedia, the free encyclopedianavigation search The band member history of American R&B and pop group The Jackson 5 shows how the band has comprised different members of the Jackson family at various times during its chronology, with differing names as The",
+        "distance": 0.6697589159011841
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-2144060862130449717": {
+    "query_id": "-2144060862130449717",
+    "query": "where to watch christina moore",
+    "relevants": [
+      {
+        "relevant_doc": 1960,
+        "relevant_url": "http://www.tvguide.com/celebrities/christina-moore/tv-listings/189684"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1163,
+        "title": "\"Demi Moore Opens Up About Split from Bruce Willis: \"\"It Had the Biggest Impact on Rumer\"\"\"",
+        "url": "http://toofab.com/2015/05/12/demi-moore-bruce-willis-divorce-dancing-with-the-stars/",
+        "combined_text": "\"Demi Moore Opens Up About Split from Bruce Willis: \"\"It Had the Biggest Impact on Rumer\"\"\" \"News By Too Fab Staff | May 12, 2015 6:30 AMRumer Willis may seem confident on the dance floor, but she's dealt with her share of body image issues. Before she performed on \"\"Dancing With the Stars\"\" on Monday night, fans got a glimpse into her childhood as her family -- mother Demi Moore, father B",
+        "distance": 0.6184765696525574
+      },
+      {
+        "id": 1960,
+        "title": "Christina Moore",
+        "url": "http://www.tvguide.com/celebrities/christina-moore/tv-listings/189684",
+        "combined_text": "Christina Moore Overview News Biography Photos Video Clips Credits TV Listings Provider: Eastern (ET) Change Fri Nov 1011:30am That '70s Show — Who Wants It More (Season 3, Episode 11)POPDonna and Eric's tiff leads to a mutual withholding of affection; Red becomes nice after a near death experience; Kelso thinks he",
+        "distance": 0.668051540851593
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  }
+}

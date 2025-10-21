@@ -1,0 +1,101 @@
+,query_id,query,retrieved_ids,relevant_docs,precision@2,recall@2,ndcg@2,reciprocal_rank,average_precision,model_name
+0,2616851185720658144,connect Zyxel NBG-416N to cable modem,"[368, 260]",[368],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+1,-8477029128523451786,is dividing customers between competitors illegal,"[1418, 2385]",[1418],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+2,-7925435544174135135,who are institutional clients in finance,"[1765, 1743]",[1765],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+3,-6248066143282910534,find paramedic training near me,"[1419, 1426]",[1419],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+4,-8783797670240482422,Surface Pro 3 cost and release details,"[1452, 2034]",[1452],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+5,1767210390119624850,how to manage clinical trial data,"[93, 1976]",[93],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+6,-8862029053078334844,RLQ slang abbreviation meaning,"[1509, 1566]",[1509],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+7,1396351638131207343,most common mineral in Earth's crust,"[1589, 727]",[727],0.5,1.0,0.6309297535714573,0.5,0.25,minishlab_potion_retrieval_32M
+8,-6735425840302228230,spec for implementing JavaScript promises,"[1521, 1725]",[1521],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+9,-5182446573446886128,Fretter Michigan electronics chain history,"[2055, 1443]",[2055],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+10,-4253320597435926311,black designer handbags online,"[2321, 2324]",[2321],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+11,1362469422820064627,Shopify stock price and profile,"[354, 1862]",[354],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+12,7341502608375551104,when 2015 Sierra Elevation hits dealerships,"[532, 715]",[532],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+13,-5207903627478083248,how employers calculate and report payroll taxes,"[471, 124]",[471],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+14,-450253891999712734,1950s wisecracking private detective series,"[2104, 2258]",[2104],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+15,-8555144393769955195,install Java without root on Linux,"[2334, 916]",[2334],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+16,407962876864988066,Malabar FL municipal fire vendor profile,"[1234, 1999]",[1234],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+17,5873263450842548912,average cost for Supercuts haircut,"[2359, 598]",[2359],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+18,7979000977210503415,growing watermelons in Florida,"[1146, 1629]",[1146],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+19,3071588144346366568,who is considered father of computing,"[1987, 2610]",[1987],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+20,-591544719572937255,why metals corrode and prevention,"[221, 806]",[221],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+21,7733456900962973007,high voltage pulsed power systems,"[1689, 1104]",[1689],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+22,-7452336958280101587,best diamond cuts for sparkle,"[1702, 1619]",[1702],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+23,5611895761075153047,Priyanka Chopra wealth and background,"[175, 1291]",[175],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+24,7701521291223041900,Should I choose i5 or i7,"[705, 1880]",[705],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+25,738364187659517906,standard boxing round duration,"[1422, 1140]",[1422],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+26,-8350239017650775268,why surgeon-owned orthopedic hospitals succeed,"[1873, 2276]",[1873],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+27,3854083209244059466,KPO vs BPO career prospects,"[521, 201]",[521],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+28,6982018474910224468,dental assistant pay in Washington DC,"[324, 2174]",[324],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+29,-771271075563712731,Do Puerto Rico residents pay federal taxes,"[1783, 214]",[1783],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+30,2364702953796490005,US substitute for golden syrup,"[1370, 1959]",[1370],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+31,-1701740001612688348,help for homeless magazine vendors,"[1814, 1165]",[1814],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+32,6096127965166425500,how much movie stars really earn,"[2231, 1296]",[2231],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+33,-6040782313757712400,Marius Petipa ballet master biography,"[1374, 65]",[1374],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+34,3059750615636312476,cost per kg for 12mm iron rod,"[1058, 462]",[1058],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+35,3050682936494462397,costs and tradeoffs of buried vs aerial power lines,"[457, 1499]",[457],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+36,-8948363945192018511,buy Microsoft Office suite,"[2125, 2485]",[2125],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+37,3849492868261136931,meaning of common telecom acronyms,"[2149, 1509]",[2149],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+38,-3586836546594056495,Joe Mauer raising twins private life,"[1278, 1856]",[1278],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+39,1236726204015403827,idiom for getting familiar at work,"[2668, 996]",[2668],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+40,-7086921742132862218,open DBF database file Windows,"[978, 2666]",[978],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+41,314206454036103673,services to help people with disabilities work,"[1861, 393]",[393],0.5,1.0,0.6309297535714573,0.5,0.25,minishlab_potion_retrieval_32M
+42,545717278095721188,become a Slimming World consultant cost,"[479, 2109]",[479],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+43,-5578373690607863988,life of June Carter country star,"[1195, 1874]",[1195],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+44,9080791364333566825,how to contact Conair online store,"[2636, 490]",[2636],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+45,8206984054889039574,KDE Phonon user and developer docs,"[1928, 2689]",[1928],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+46,-4078708593638282443,Detroit filmmaker tackles teen bullying,"[239, 2371]",[239],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+47,-8538248792198408844,midcentury American method actor,"[1235, 2676]",[2474],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+48,-6979504225683288152,EKG tech training certificate program,"[2289, 719]",[2289],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+49,-4104252789966896364,study of how campaigns use digital media,"[1403, 1812]",[196],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+50,-862045631238777730,avoid scams when selling on eBay,"[2221, 150]",[2221],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+51,2190632136166386275,easy sausage soup recipe,"[1183, 1447]",[1842],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+52,538105764901868179,mapping process inputs to outputs,"[1975, 1603]",[1870],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+53,-3400765560558939156,Lancaster NY court records clerk,"[32, 1564]",[32],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+54,-3398569679235683550,ideal pedaling speed for cyclists,"[941, 2257]",[941],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+55,5691097224527231466,health risks of eucalyptus tea,"[498, 311]",[498],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+56,4545930904227738733,methods to prevent turbocharger lag,"[460, 1923]",[460],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+57,-1666626406737986883,tips for becoming an inspiring speaker,"[1840, 1584]",[1840],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+58,4150695854321863060,how college students cite sources,"[573, 2096]",[2183],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+59,581263123469958412,how expertise gives leaders influence,"[2173, 2575]",[2173],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+60,4768947245674234857,disable Defender when using other antivirus,"[430, 1454]",[430],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+61,2676471125112177228,skills needed to be a crop insurance agent,"[387, 2248]",[387],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+62,-8922843277772398438,Facebook page Impressum meaning,"[657, 765]",[657],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+63,1778905183447713621,explain TAM SAM SOM for startups,"[1544, 1495]",[1544],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+64,-1448240700956359143,Dell R710 firmware update instructions,"[411, 273]",[411],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+65,-4121989782214066187,how much to hire construction engineers,"[1501, 13]",[1501],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+66,-8774730669888543990,Mark and Donnie Wahlberg open burger chain,"[414, 1485]",[414],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+67,-4993515417770929119,cruise deals and travel agents,"[1260, 791]",[1260],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+68,-2132427337999254619,who won BGT 2012 with dog act,"[1214, 65]",[1712],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+69,-5326975080665256798,capturing missed dealership service revenue,"[565, 1967]",[565],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+70,1335216530709160315,early US parties farmers vs bankers,"[2039, 2290]",[2039],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+71,-7884553398120768368,breakdown of firefighter gear weight,"[783, 2129]",[783],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+72,8277926148073665273,send certified letters with proof online,"[810, 1724]",[810],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+73,4037245118556110358,Spencer Sachs Seattle content creator,"[1900, 217]",[1900],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+74,-4593016177518816262,how to tell car battery polarity,"[436, 135]",[436],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+75,-9094053439595809089,who played the young drovers in The Cowboys,"[2598, 1909]",[2598],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+76,-7348631400774314228,Do circuit breakers wear out,"[188, 999]",[188],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+77,4177470744824543283,directions to Harrods from tube,"[2397, 1974]",[2397],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+78,3062466972339357754,who plays Megan in ACT CDL ad,"[1135, 365]",[1135],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+79,-4344631723697568499,long-lasting lipstick tips from pros,"[812, 1344]",[812],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+80,-4339710958973121351,Burlington VT clerk offices and records,"[1106, 1138]",[1106],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+81,5653484090083941625,steelworkers union latest news,"[1241, 360]",[1241],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+82,-7739532571634607830,voice changer MorphVOX download,"[2502, 2190]",[2502],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+83,1841408989478665856,jobs at cancer nonprofit Indianapolis,"[258, 679]",[679],0.5,1.0,0.6309297535714573,0.5,0.25,minishlab_potion_retrieval_32M
+84,-2252689724033201475,how MU-MIMO boosts WiFi capacity,"[254, 2124]",[254],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+85,5803232378167278283,China cracking down on VPNs,"[1207, 224]",[1207],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+86,3793874725932968274,free tools to securely erase files,"[649, 1538]",[1538],0.5,1.0,0.6309297535714573,0.5,0.25,minishlab_potion_retrieval_32M
+87,-5863483491360078921,The Shard tickets hotel restaurants,"[321, 16]",[321],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+88,749919337462031002,connect phone to Samsung TV remote,"[2022, 2018]",[2022],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+89,7300264927498119224,typical babysitting rate per hour,"[1213, 2381]",[1213],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+90,3395947775870265332,can zero be negative,"[2561, 1325]",[2561],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+91,3554810165112499726,convert net paycheck to gross,"[124, 2136]",[124],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+92,-1934535074718392105,tour of massive private backyard pool,"[611, 1136]",[611],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+93,-2190990267360595079,setting and updating baselines in MS Project,"[2631, 207]",[2631],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+94,-1696838149644439688,buy replacement battery for Acer laptop,"[2621, 2150]",[2621],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+95,-5208580014105804301,starting telemetry unit as new nurse,"[1099, 930]",[1099],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+96,9189542952267602718,tips for relocating to Portland,"[940, 957]",[940],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+97,-3102429003483418924,build a home virtualization server,"[543, 998]",[543],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+98,6992665481310100312,DHCP port 67 conflict Windows Server,"[70, 1473]",[70],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+99,7085049008510576778,clear space on Mac boot drive,"[1672, 2306]",[1672],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M

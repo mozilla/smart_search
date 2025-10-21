@@ -1,0 +1,101 @@
+,query_id,query,retrieved_ids,relevant_docs,precision@2,recall@2,ndcg@2,reciprocal_rank,average_precision,model_name
+0,4739593504521967606,how does strict foreclosure work,"[2789, 88]",[2789],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+1,766632431385987012,epa section 608 certification requirements,"[2970, 293]",[2970],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+2,-3250902976494280328,download california employment forms,"[3126, 1405]",[1064],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+3,3900489098238524301,kerry argues iran deal isn't a treaty,"[2895, 2257]",[2895],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+4,-3736065736247484765,estimate monthly utility bills,"[2989, 2498]",[2989],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+5,-3709150075320686821,calculate depreciation for business car,"[2400, 474]",[2400],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+6,-4147936259609146426,chinese robotic telescope on moon,"[1344, 1583]",[1344],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+7,-5291191062530265760,how to become a special ed aide,"[2172, 871]",[2172],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+8,7035456723531816792,how researchers unintentionally influence results,"[120, 907]",[1334],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+9,-2649702664323995246,James K. Polk final resting place,"[1480, 83]",[1480],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+10,-8788146853499686735,what investors feared from Smoot Hawley,"[365, 1629]",[819],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+11,5401249761443287881,ex mi6 spy behind trump dossier,"[1179, 2132]",[1179],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+12,-4344756668888388927,how much is tj miller worth,"[611, 2661]",[611],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+13,-1505968622321231900,working at Vision Express reviews,"[2856, 2305]",[2856],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+14,-6867379020653663948,how states ceded powers to the federal government,"[1817, 2149]",[2149],0.5,1.0,0.6309297535714573,0.5,0.25,minishlab_potion_retrieval_32M
+15,-796124396868849129,stephen lawrence timeline undercover police,"[2493, 1590]",[2493],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+16,4631421696826037737,word for long bitter family rivalry,"[332, 2352]",[332],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+17,5011824443478472390,what is root canal treatment,"[2719, 2460]",[2719],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+18,-7823839666098125571,send large attachments via google drive,"[2560, 1680]",[2560],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+19,4687713443821044203,what does expenditure mean,"[1983, 1613]",[1613],0.5,1.0,0.6309297535714573,0.5,0.25,minishlab_potion_retrieval_32M
+20,9123044499536041186,meaning of dosing in medicine,"[2527, 2056]",[2527],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+21,3396157897082486137,how to tell if banned from uae,"[1537, 2029]",[1537],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+22,5987514341839403895,federal contract cost disallowance procedures,"[1543, 2451]",[1543],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+23,-2346201705834737673,how long do drains stay after breast reconstruction,"[1830, 1311]",[1830],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+24,9080428078066835695,trump interview godfather attitude democratic strategy,"[2292, 2467]",[2292],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+25,3630329113433306134,how to report crime anonymously,"[218, 2493]",[218],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+26,-5835728207138137066,illinois state employee health and insurance,"[2455, 1063]",[291],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+27,-1873909375794926979,samantha fox girlfriend dies after cancer,"[2340, 3024]",[2340],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+28,8569035523545902179,how to swear in quebecois fast,"[857, 1409]",[857],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+29,3504320194317198783,are patch burns good for biodiversity,"[2202, 17]",[2202],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+30,3257597145812249672,five towns long island news roundup,"[80, 113]",[17],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+31,-6230954498399183411,meaning of ANR relationship,"[225, 1917]",[170],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+32,2594921659121902854,most toxic substances in the world,"[1270, 2029]",[2478],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+33,-2540054045036234472,pot dealer creates fake family comedy,"[1609, 2299]",[2299],0.5,1.0,0.6309297535714573,0.5,0.25,minishlab_potion_retrieval_32M
+34,-327068610579828974,"what county is Alma, Georgia in","[1677, 2832]",[1677],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+35,4971728883907613777,employee reimbursements no receipts required,"[1967, 1068]",[1068],0.5,1.0,0.6309297535714573,0.5,0.25,minishlab_potion_retrieval_32M
+36,-2633893730611831793,sofia vergara flashes ring in hawaii,"[178, 2601]",[178],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+37,5485560611833968903,words that mean allow,"[1283, 1400]",[2776],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+38,-475846407686602167,liability coverage for indiana small businesses,"[1665, 3046]",[1665],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+39,6403050668420922883,is windows command prompt dos,"[1317, 1514]",[1317],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+40,6551465825500847130,political pluralism meaning and example,"[1110, 2051]",[1110],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+41,8657024515808222887,restaurant hostess hourly pay range,"[1146, 1216]",[1146],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+42,3551845742031561286,apply for medical financing card,"[2056, 2654]",[2167],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+43,4599116999418838708,legal term for refusing rights,"[919, 606]",[927],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+44,1316762935042460724,anatomical meaning of fissure,"[596, 2521]",[596],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+45,-9088831260685813824,apply for victoria library card,"[1103, 1199]",[1103],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+46,7229844641395323083,what to do in vienna in january,"[889, 173]",[889],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+47,-7478572516645885171,visiting Fort Lewis College Durango,"[134, 2236]",[134],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+48,3141449778601363052,film about Louisiana sharecropping family,"[2838, 1081]",[2838],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+49,-2071691888588433093,little-known facts about apple inc,"[2998, 2956]",[2998],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+50,-5708285642326965386,historical quarantine for leprosy patients,"[102, 1233]",[102],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+51,4267422765282505019,financial aid options for college students,"[414, 1410]",[414],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+52,4031425818329711159,clint eastwood western farmer joins guerrillas,"[376, 568]",[568],0.5,1.0,0.6309297535714573,0.5,0.25,minishlab_potion_retrieval_32M
+53,-1436563541084846553,how to open motorola sre file,"[2717, 2768]",[2717],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+54,2562162999899448200,app for six-second looping videos,"[1778, 510]",[1778],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+55,-4608990502659074818,what policies raise worker pay,"[1451, 2579]",[1451],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+56,6170998321819213874,step files for product manufacturing data,"[1302, 47]",[1302],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+57,5842733018242812382,brodie name origin and meaning,"[2147, 1140]",[2147],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+58,-7894817205049137395,how to dye hair burgundy,"[727, 2513]",[727],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+59,-8070430423223667731,investment options for small business owners,"[654, 1023]",[654],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+60,-9109138426532238555,leadership qualities that inspire organizational growth,"[309, 571]",[309],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+61,-7955752082033836724,which assets avoid probate in wisconsin,"[2014, 1841]",[2014],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+62,-6695072531869931774,register to vend at nyc street fairs,"[879, 2074]",[879],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+63,-4575675823446188322,history of greek hair and fashion,"[192, 109]",[192],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+64,-7877029606110214599,why argentina fell from prosperity,"[194, 161]",[194],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+65,7044993316244276855,get insurance to waive hail deductible,"[1924, 2269]",[1924],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+66,2504415905940756204,major global migration trends,"[2233, 1663]",[2233],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+67,-4095050417491222621,1628 parliamentary petition limiting monarch,"[1234, 2622]",[1234],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+68,-5210025128840587133,why Amazon uses pinless debit,"[2862, 2716]",[2862],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+69,2531580442520655469,female hunter waitress from Supernatural,"[44, 2790]",[44],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+70,5431664571109045036,Natalbany Louisiana demographics and maps,"[1727, 133]",[1727],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+71,-6776394771258499545,how poverty and homelessness affect children,"[1553, 2355]",[1553],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+72,712049079771614617,post-hospital rehab center Rockville MD,"[2040, 1094]",[1094],0.5,1.0,0.6309297535714573,0.5,0.25,minishlab_potion_retrieval_32M
+73,7057232633279285530,campus emergency response system,"[2344, 2531]",[2531],0.5,1.0,0.6309297535714573,0.5,0.25,minishlab_potion_retrieval_32M
+74,-5156120036738933049,how routines and groups relieve stress,"[759, 1842]",[759],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+75,3329484579515789290,how much to pay an electrician,"[2914, 843]",[2914],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+76,-2160822894063580036,solarwinds msp evaluation,"[2170, 1248]",[2170],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+77,3885116834289967303,nixon secret tapes racist comments,"[1730, 1179]",[1730],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+78,-4370030414560570884,AAA assistance for international members visiting US,"[1517, 2858]",[1517],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+79,-7170865888708487094,how veterans get college help in Florida,"[578, 2508]",[578],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+80,6823869069923504212,she said she'll think about it meaning,"[485, 1073]",[485],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+81,-369920727417730502,word meaning between different species,"[2679, 726]",[1487],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+82,-3375394828262103643,los fresnos tx population schools crime,"[442, 122]",[442],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+83,-2126082170520580379,who inherits if no will pennsylvania,"[1637, 2114]",[1637],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+84,7017040361689517896,synonyms for lacking skill,"[1283, 862]",[862],0.5,1.0,0.6309297535714573,0.5,0.25,minishlab_potion_retrieval_32M
+85,-7363345820224097415,risks of virtual colonoscopy compared to colonoscopy,"[1662, 3024]",[1662],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+86,-2500221883406357503,difference between birth and naturalization papers,"[2648, 2854]",[2648],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+87,2691723337419646091,english renaissance timeline events,"[859, 2641]",[859],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+88,4029408555757337620,legally remove family member from home,"[2143, 1894]",[1874],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+89,-2585049972220273270,how nonprofits attract corporate sponsors,"[240, 3054]",[240],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+90,5792768591630523805,how to create site map provider,"[2347, 295]",[2347],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+91,-1908891973947097383,salary for 30-year-old physician,"[2925, 1710]",[2925],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+92,4072379337225601317,what to expect at a Moroccan hammam,"[2423, 2288]",[2423],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+93,-6671183285062689744,air force fighter pilot earnings,"[695, 483]",[695],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+94,3581866523720759033,yolanda hadid early life holland,"[139, 3012]",[139],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+95,856614537723333204,what is an endoscopic exam,"[2940, 2988]",[2988],0.5,1.0,0.6309297535714573,0.5,0.25,minishlab_potion_retrieval_32M
+96,-5931393772264591928,how deep to bury electrical cable,"[1323, 346]",[346],0.5,1.0,0.6309297535714573,0.5,0.25,minishlab_potion_retrieval_32M
+97,-938643861936068278,how many us soldiers in wwi france,"[25, 1641]",[1641],0.5,1.0,0.6309297535714573,0.5,0.25,minishlab_potion_retrieval_32M
+98,7467325479724518422,benefits of becoming an advanced practice nurse,"[1796, 314]",[314],0.5,1.0,0.6309297535714573,0.5,0.25,minishlab_potion_retrieval_32M
+99,7600710540401811661,Bethalto Illinois acreage for sale,"[1738, 1063]",[1738],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M

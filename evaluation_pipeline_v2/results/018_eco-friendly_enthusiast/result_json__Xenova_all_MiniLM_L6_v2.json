@@ -1,0 +1,2802 @@
+{
+  "-3953082338946657302": {
+    "query_id": "-3953082338946657302",
+    "query": "current and voltage in series vs parallel",
+    "relevants": [
+      {
+        "relevant_doc": 2442,
+        "relevant_url": "https://learn.sparkfun.com/tutorials/series-and-parallel-circuits"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2442,
+        "title": "Series and Parallel Circuits",
+        "url": "https://learn.sparkfun.com/tutorials/series-and-parallel-circuits",
+        "combined_text": "Series and Parallel Circuits Find a Retailer Need Help? Shop Learn Blog Support0 log in register Product Menu Education Forum Home Tutorials Series and Parallel Circuits Series and Parallel Circuits Contributors: Pete-OFavorite 32 Share Series and Parallel Circuits Simple circuits (ones with only a few components) are usually f",
+        "distance": 0.5116878747940063
+      },
+      {
+        "id": 1483,
+        "title": "Alternating Current (AC) Transformers",
+        "url": "http://www.school-for-champions.com/science/ac_transformers.htm",
+        "combined_text": "Alternating Current (AC) Transformers Sf C Home > Physics > Electricity >Alternating Current (AC) Transformersby Ron Kurtus (revised 19 October 2013)A transformer is an electrical device that is used to change the voltage in alternating current (AC) electrical circuits. The ability of this device to change voltage is a major advantage o",
+        "distance": 0.7480854988098145
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "3041289951361205067": {
+    "query_id": "3041289951361205067",
+    "query": "term for animals without a body cavity",
+    "relevants": [
+      {
+        "relevant_doc": 2318,
+        "relevant_url": "http://www.dictionary.com/browse/acoelomate"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 418,
+        "title": "cavity",
+        "url": "http://www.dictionary.com/browse/cavity",
+        "combined_text": "cavity cavity [ kav -i-tee]Spell Syllables Synonyms Examples Word Origin See more synonyms on Thesaurus.comnoun, plural cavities.1. any hollow place; hollow.2. Anatomy. a hollow space within the body, an organ, a bone, etc.3. a hollow space or a pit in a tooth, most commonly produced by caries. A cavity ma",
+        "distance": 0.4010421633720398
+      },
+      {
+        "id": 2318,
+        "title": "acoelomate",
+        "url": "http://www.dictionary.com/browse/acoelomate",
+        "combined_text": "acoelomate acoelomate [ey- see -l uh -meyt, ey-see- loh -mit]Zoology Spell Syllables Word Originadjective1. Also, acoelomatous [ey-see- lom - uh -t uh s, - loh -m uh -] ( Show IPA ), acoelomous. having no coelum.noun2. any organism that lacks a cavity between the body wall and the digestive tract, including th",
+        "distance": 0.4637954533100128
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "1092164457215367353": {
+    "query_id": "1092164457215367353",
+    "query": "what does portend mean",
+    "relevants": [
+      {
+        "relevant_doc": 351,
+        "relevant_url": "http://www.dictionary.com/browse/portend"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 351,
+        "title": "portend",
+        "url": "http://www.dictionary.com/browse/portend",
+        "combined_text": "portend \"portend [pawr- tend, pohr-]Spell Syllables Synonyms Examples Word Origin See more synonyms on Thesaurus.comverb (used with object)1. to indicate in advance; to foreshadow or presage, as an omen does: The street incident may portend a general uprising.2. to signify; mean. Origin of portend Expandlat",
+        "distance": 0.13794440031051636
+      },
+      {
+        "id": 2068,
+        "title": "Definitions &Translations",
+        "url": "http://www.definitions.net/definition/pathos",
+        "combined_text": "Definitions &Translations \"Princeton's Word Net (0.00 / 0 votes)Rate this definition:pathos, poignancy (noun)a quality that arouses emotions (especially pity or sorrow)\"\"the film captured all the pathos of their situation\"\"commiseration, pity, ruth, pathos (noun)a feeling of sympathy and sorrow for the misfortunes of others\"",
+        "distance": 0.7096935510635376
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "5525703207433232298": {
+    "query_id": "5525703207433232298",
+    "query": "tips for choosing a learning platform",
+    "relevants": [
+      {
+        "relevant_doc": 2288,
+        "relevant_url": "http://theelearningcoach.com/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2288,
+        "title": "ELC 048: The Strategic Use of Learning Management Systems",
+        "url": "http://theelearningcoach.com/",
+        "combined_text": "ELC 048: The Strategic Use of Learning Management Systems Most Recent Articles ELC 048: The Strategic Use of Learning Management Systems If you want to get the most out of your learning management system or if you want to purchase or research one, this interview will help you make a more informed decision. Does Humor Enhance Learning? If humor grabs and su",
+        "distance": 0.6320846080780029
+      },
+      {
+        "id": 1469,
+        "title": "About Universal Design for Learning",
+        "url": "http://www.cast.org/our-work/about-udl.html",
+        "combined_text": "About Universal Design for Learning Universal design for learning (UDL) is a framework to improve and optimize teaching and learning for all people based on scientific insights into how humans learn. UDL at a Glance See how the UDL framework guides the design of instructional goals, assessments, methods, and materials that can be cust",
+        "distance": 0.6596135497093201
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-5701476972439523136": {
+    "query_id": "-5701476972439523136",
+    "query": "mylanta antacid definition",
+    "relevants": [
+      {
+        "relevant_doc": 2044,
+        "relevant_url": "http://www.thefreedictionary.com/Mylanta"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2044,
+        "title": "Mylanta",
+        "url": "http://www.thefreedictionary.com/Mylanta",
+        "combined_text": "Mylanta Mylanta Also found in: Thesaurus, Medical, Encyclopedia, Wikipedia. Related to Mylanta: Maalox Thesaurus Antonyms Related Words Synonyms Legend: Switch to new thesaurus Noun 1. Mylanta - an antacidtrademark - a formally registered symbol identifying the manufacturer or distributor of a productalkali",
+        "distance": 0.3978263735771179
+      },
+      {
+        "id": 1696,
+        "title": "Sarcosuchus",
+        "url": "https://en.wikipedia.org/wiki/Sarcosuchus",
+        "combined_text": "Sarcosuchus \"From Wikipedia, the free encyclopedianavigation search For the theropod dinosaur, see Sarcosaurus. Sarcosuchus Temporal range: Aptian - Albian ~ 112 Ma PreЄ Є O S D C P T J K Pg NS. imperator, Muséum national d'histoire naturelle, Paris Scientific classification Kingdom: Animalia Phylum: Chordata C",
+        "distance": 0.6904395818710327
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "5727239889888827929": {
+    "query_id": "5727239889888827929",
+    "query": "liberal arts college in newberry sc",
+    "relevants": [
+      {
+        "relevant_doc": 2031,
+        "relevant_url": "http://www.citytowninfo.com/school-profiles/newberry-college"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2031,
+        "title": "Newberry College",
+        "url": "http://www.citytowninfo.com/school-profiles/newberry-college",
+        "combined_text": "Newberry College Newberry College Home > College Directory > Newberry College Newberry College Newberry College, located in Newberry, South Carolina, was founded in 1828. It is a coeducational, undergraduate institution focused on liberal arts and science education. Newberry is supported by the Evangelical Lutheran",
+        "distance": 0.367561012506485
+      },
+      {
+        "id": 4030,
+        "title": "Newberry, South Carolina",
+        "url": "http://www.city-data.com/city/Newberry-South-Carolina.html",
+        "combined_text": "Newberry, South Carolina \"Follow city-data.com founder on our Forum or@Lech Mazur Newberry, South Carolinaadd your We are giving away $1200 in prizes - enter simply by sending us your own city pictures! See promotion details and to upload your Newberry, South Carolina photos OSM Map General Map Google Map MSN Map54°F10 mile",
+        "distance": 0.5726595520973206
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-4228602394756576617": {
+    "query_id": "-4228602394756576617",
+    "query": "how big is a normal thyroid",
+    "relevants": [
+      {
+        "relevant_doc": 3164,
+        "relevant_url": "https://bodytomy.com/normal-size-of-thyroid-gland"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3164,
+        "title": "Normal Size of Thyroid Gland",
+        "url": "https://bodytomy.com/normal-size-of-thyroid-gland",
+        "combined_text": "Normal Size of Thyroid Gland Normal Size of Thyroid Gland The thyroid gland is located in the throat. In this article, you will find more about the anatomy, size, structure and functions of the thyroid gland. Among, all the glands of the endocrine system, the thyroid is one of the largest. The endocrine system consists of gland",
+        "distance": 0.31291982531547546
+      },
+      {
+        "id": 3485,
+        "title": "Thyroglossal cyst",
+        "url": "https://en.wikipedia.org/wiki/Thyroglossal_cyst",
+        "combined_text": "Thyroglossal cyst \"From Wikipedia, the free encyclopedianavigation search Thyroglossal cyst Thyroglossal cyst Specialty Medical genetics A thyroglossal cyst is a fibrous cyst that forms from a persistent thyroglossal duct. Thyroglossal cysts can be defined as an irregular neck mass or a lump which develops from cells",
+        "distance": 0.6975911259651184
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-1735443170193150801": {
+    "query_id": "-1735443170193150801",
+    "query": "steps to calculate moles of calcium carbonate",
+    "relevants": [
+      {
+        "relevant_doc": 1866,
+        "relevant_url": "https://answers.yahoo.com/question/index?qid=20090226191208AAm0xq2"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1866,
+        "title": "How Many Moles in CaCO3?",
+        "url": "https://answers.yahoo.com/question/index?qid=20090226191208AAm0xq2",
+        "combined_text": "How Many Moles in CaCO3? \"Science & Mathematics Chemistry How Many Moles in Ca CO3? Thanks. I have a not to good Student Teacher teaching us and her teaching is making no sense to me on how to convert to moles an everything. And if you could for my benifet so your not just telling me the answer, can you do steps to show me",
+        "distance": 0.27521994709968567
+      },
+      {
+        "id": 3371,
+        "title": "Calcium;carbonate",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/compound/516889",
+        "combined_text": "Calcium;carbonate Compound Summary for CID 516889Download Share Help Calcium;carbonate Cite this Record Structure Pub Chem CID: 516889Chemical Names: Calcium carbonate (calcite); Calcium carbonate (precipitated) More... Molecular Formula: CCa O 3Molecular Weight: 100.086 g/mol In Ch I Key: VTYYLEPIZMXCLO-UHFFFAOYSA-L",
+        "distance": 0.37552300095558167
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "8336010941429635137": {
+    "query_id": "8336010941429635137",
+    "query": "surgical procedure to open windpipe",
+    "relevants": [
+      {
+        "relevant_doc": 594,
+        "relevant_url": "https://en.wikipedia.org/wiki/Tracheotomy"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 594,
+        "title": "Tracheotomy",
+        "url": "https://en.wikipedia.org/wiki/Tracheotomy",
+        "combined_text": "Tracheotomy \"From Wikipedia, the free encyclopedianavigation search This article is about the surgical procedure called a tracheotomy. For a similar procedure, see Cricothyrotomy. Tracheotomy Completed tracheotomy:1 – Vocal folds 2 – Thyroid cartilage 3 – Cricoid cartilage 4 – Tracheal rings5 – Balloon cuff ICD",
+        "distance": 0.5376491546630859
+      },
+      {
+        "id": 1122,
+        "title": "Varicose Vein Surgery Treatment & Management",
+        "url": "http://emedicine.medscape.com/article/462579-treatment",
+        "combined_text": "Varicose Vein Surgery Treatment & Management Drugs & Diseases > Vascular Surgery Varicose Vein Surgery Treatment & Management Updated: Dec 14, 2017Author: Wesley K Lew, MD; Chief Editor: Vincent Lopez Rowe, MD more... Share Email Print Feedback Approach Considerations Surgical removal or obliteration of varicose veins is often for cosmetic rea",
+        "distance": 0.6381509304046631
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-6602323320345827623": {
+    "query_id": "-6602323320345827623",
+    "query": "scholarships for lawyers to attend IBA conference",
+    "relevants": [
+      {
+        "relevant_doc": 3260,
+        "relevant_url": "http://www.ibanet.org/Committees/Divisions/Legal_Practice/IBA-Annual-Conference-scholarships.aspx"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3260,
+        "title": "IBA Annual Conference scholarships",
+        "url": "http://www.ibanet.org/Committees/Divisions/Legal_Practice/IBA-Annual-Conference-scholarships.aspx",
+        "combined_text": "IBA Annual Conference scholarships IBA Annual Conference scholarships IBA Conference scholarships Each year the International Bar Association (IBA), the world's largest international organisation of law societies, bar associations and individual lawyers engaged in transnational law, holds an Annual Conference, which attracts the part",
+        "distance": 0.1904451698064804
+      },
+      {
+        "id": 2118,
+        "title": "Scholarships",
+        "url": "https://www.suny.edu/smarttrack/types-of-financial-aid/scholarships/",
+        "combined_text": "Scholarships Scholarships SUNY is committed to recognizing and rewarding student excellence, which is why we offer a variety of scholarships across our 64 campuses. Some of these awards are for academic excellence, while others recognize extraordinary artistic or athletic talent. And, others take into account sp",
+        "distance": 0.613905131816864
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "8607503295496926594": {
+    "query_id": "8607503295496926594",
+    "query": "how did the Great Awakening change religion",
+    "relevants": [
+      {
+        "relevant_doc": 690,
+        "relevant_url": "http://www.answers.com/Q/What_was_one_effect_of_the_Great_Awakening"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 690,
+        "title": "What was one effect of the Great Awakening?",
+        "url": "http://www.answers.com/Q/What_was_one_effect_of_the_Great_Awakening",
+        "combined_text": "What was one effect of the Great Awakening? Flag What was one effect of the Great Awakening? Answer by selena holmes Confidence votes 61well here is a couple.... The Movement caused a rise in church membership, particularly in new denomonations such as the Baptists Several colleges were founded to train new ministers, including Kings College,",
+        "distance": 0.3546443283557892
+      },
+      {
+        "id": 1811,
+        "title": "How has beliefs values and lifestyles in India changed or continued over a long period of time?",
+        "url": "http://www.answers.com/Q/What_area_of_India_are_the_tensions_over_border_demarcation_still_continuing",
+        "combined_text": "How has beliefs values and lifestyles in India changed or continued over a long period of time? \"How has beliefs values and lifestyles in India changed or continued over a long period of time?italys beliefs were different by they thought god would comeback to save them one day How can you get over someone and still continue talkin to them? I guess the answer to your question depends on how oft",
+        "distance": 0.6091474890708923
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "4184823072675443338": {
+    "query_id": "4184823072675443338",
+    "query": "how to start a nonprofit in michigan",
+    "relevants": [
+      {
+        "relevant_doc": 2281,
+        "relevant_url": "http://www.nolo.com/legal-encyclopedia/forming-nonprofit-corporation-michigan-36070.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2281,
+        "title": "How to Form a Michigan Nonprofit Corporation",
+        "url": "http://www.nolo.com/legal-encyclopedia/forming-nonprofit-corporation-michigan-36070.html",
+        "combined_text": "How to Form a Michigan Nonprofit Corporation Most nonprofits are 501 (c) (3) organizations, which means they are formed for religious, charitable, scientific, literary, or educational purposes and are eligible for federal and state tax exemptions. To create a 501 (c) (3) tax-exempt organization, first you need to form a Michigan nonprofit corp",
+        "distance": 0.21059241890907288
+      },
+      {
+        "id": 3278,
+        "title": "10 Step Guide to Cultivating Corporate Sponsors",
+        "url": "http://www.thefundraisingauthority.com/fundraising-events/cultivating-corporate-sponsors/",
+        "combined_text": "10 Step Guide to Cultivating Corporate Sponsors 10 Step Guide to Cultivating Corporate Sponsorsby Joe Garecht Guest Post by Vivanista Why Cultivate Corporate Sponsors for Your Non-Profit Event? First, it’s all about relationship-building. Second, in a tough economy the expanding number of nonprofits vying for the same corporate dollars makes the",
+        "distance": 0.5236911773681641
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "1603985430451796526": {
+    "query_id": "1603985430451796526",
+    "query": "best time to eat around workouts",
+    "relevants": [
+      {
+        "relevant_doc": 150,
+        "relevant_url": "http://time.com/3387314/eat-before-or-after-workout/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 150,
+        "title": "You Asked: Should I Eat Before or After a Workout?",
+        "url": "http://time.com/3387314/eat-before-or-after-workout/",
+        "combined_text": "You Asked: Should I Eat Before or After a Workout? Illustration by Peter Oumanski for TIMEBy Markham Heid September 17, 2014TIME Health For more, visit TIME Health. Short answer: Both. Long answer: How and when to fuel your body is the same for all exercisers to some extent, but your routine may warrant a few nutritional tweaks, says Dr. Nancy Cohen",
+        "distance": 0.23694497346878052
+      },
+      {
+        "id": 3138,
+        "title": "Acai Protein Bowl",
+        "url": "http://www.cookiestokale.com/2015/06/14/acai-protein-bowl/",
+        "combined_text": "Acai Protein Bowl \"Acai Protein Bowl June 14, 2015 By Cookiestokale@gmail.com Happy Sunday!One of my favorite things to do on a Sunday morning is to sleep in, make a delicious breakfast, and RELAX. The weeks can get so hectic, and I think it is important to take at least one day a week to simply veg out! I don’t get",
+        "distance": 0.5333803296089172
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "6433737454602104749": {
+    "query_id": "6433737454602104749",
+    "query": "can my manufactured home be repossessed",
+    "relevants": [
+      {
+        "relevant_doc": 1652,
+        "relevant_url": "http://www.nolo.com/legal-encyclopedia/manufactured-home-foreclosures-repossessions.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1652,
+        "title": "Manufactured Home Foreclosures & Repossessions",
+        "url": "http://www.nolo.com/legal-encyclopedia/manufactured-home-foreclosures-repossessions.html",
+        "combined_text": "Manufactured Home Foreclosures & Repossessions \"A manufactured home is a type of housing that is delivered to a destination and once there, is normally secured to the ground or a foundation. Read on to learn more about the nature of manufactured housing and what happens if you stop making loan payments on your manufactured home or on the land it",
+        "distance": 0.34729620814323425
+      },
+      {
+        "id": 2509,
+        "title": "Manufactured Homes For Sale in New Mexico",
+        "url": "http://www.solitairehomes.com/locations/new-mexico/default.aspx",
+        "combined_text": "Manufactured Homes For Sale in New Mexico FIND A FACTORY DIRECT OUTLET IN NEW MEXICOAlbuquerque Deming Hobbs Las Cruces Roswell Manufactured Homes For Sale in New Mexico Nothing provides more freedom and flexibility than a manufactured home. No one knows that better than our team at Solitaire Homes. In addition to serving the families of Ne",
+        "distance": 0.5993162989616394
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-3315816365164085160": {
+    "query_id": "-3315816365164085160",
+    "query": "recognize high or low blood sugar",
+    "relevants": [
+      {
+        "relevant_doc": 238,
+        "relevant_url": "http://www.diabetes.ca/diabetes-and-you/healthy-living-resources/blood-glucose-insulin/lows-highs-blood-sugar-levels"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3188,
+        "title": "Diabetes and Dizziness",
+        "url": "http://dm2.newlifeoutlook.com/infographics/diabetes-dizziness/",
+        "combined_text": "Diabetes and Dizziness \"Advertisement How to Keep Your Brain Sharp When You’re Feeling Low The most immediate symptoms of low blood-sugar include dizziness and light-headedness, and can lead to confusion and sometimes fainting. Those who live with diabetes can alleviate all of this by eating a healthy diet and exercising,",
+        "distance": 0.356371134519577
+      },
+      {
+        "id": 1785,
+        "title": "Hyperglycemia (High Blood Sugar) Symptoms, Levels, Diet and Causes",
+        "url": "http://www.medicinenet.com/hyperglycemia/page2.htm",
+        "combined_text": "Hyperglycemia (High Blood Sugar) Symptoms, Levels, Diet and Causes \"Hyperglycemia (high blood sugar) definition and facts Hyperglycemia or high blood sugar is an abnormally high blood glucose (blood sugar) level in the blood. Hyperglycemia is a hallmark sign of diabetes (both type 1 diabetes and type 2 diabetes) and prediabetes. Diabetes is the most common cause of",
+        "distance": 0.3936128616333008
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-9103655948031658014": {
+    "query_id": "-9103655948031658014",
+    "query": "principles of good governance in development",
+    "relevants": [
+      {
+        "relevant_doc": 3130,
+        "relevant_url": "http://unu.edu/publications/articles/what-does-good-governance-mean.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3130,
+        "title": "What Does âGood Governanceâ Mean?",
+        "url": "http://unu.edu/publications/articles/what-does-good-governance-mean.html",
+        "combined_text": "What Does âGood Governanceâ Mean? Article2012•02•09Rachel Gisselquist Security Council meeting and voting on Syrian matters. Photo: UN Photo/Paulo Filgueiras“Good governance” is a term that has become a part of the vernacular of a large range of development institutions and other actors within the intenational arena. What it means e",
+        "distance": 0.3746660649776459
+      },
+      {
+        "id": 3061,
+        "title": "govern",
+        "url": "http://www.dictionary.com/browse/governed",
+        "combined_text": "govern govern [ guhv -ern]Spell Syllables Synonyms Examples Word Origin See more synonyms on Thesaurus.comverb (used with object)1. to rule over by right of authority: to govern a nation.2. to exercise a directing or restraining influence over; guide: the motives governing a decision.3. to hold in check; c",
+        "distance": 0.6294588446617126
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-8732019279986480992": {
+    "query_id": "-8732019279986480992",
+    "query": "which gecko species live in south florida",
+    "relevants": [
+      {
+        "relevant_doc": 1034,
+        "relevant_url": "http://animals.mom.me/geckos-found-south-florida-9639.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1034,
+        "title": "Geckos Found in South Florida",
+        "url": "http://animals.mom.me/geckos-found-south-florida-9639.html",
+        "combined_text": "Geckos Found in South Florida \"South Florida has almost a dozen species of geckos. Only one of its geckos is native to the state; the other 10 are imports. Most of these lizards are found from the northern edge of Lake Okeechobee to the Florida Keys. Some geckos are longtime residents while others are relatively new arrivals. Th",
+        "distance": 0.14882983267307281
+      },
+      {
+        "id": 1095,
+        "title": "Laughing Gull",
+        "url": "http://oceana.org/marine-life/seabirds/laughing-gull",
+        "combined_text": "Laughing Gull Seabirds Laughing Gull Larus atricilla Cephalopods, Crustaceans, & Other Shellfish Corals and Other Invertebrates Marine Mammals Marine Science and Ecosystems Ocean Fishes Sea Turtles & Reptiles Seabirds Sharks & Rays Home Marine Life Seabirds Distribution Tropical to temperate latitudes of North an",
+        "distance": 0.5604539513587952
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "3907933845486153055": {
+    "query_id": "3907933845486153055",
+    "query": "definition and examples of disparage",
+    "relevants": [
+      {
+        "relevant_doc": 3209,
+        "relevant_url": "http://www.dictionary.com/browse/disparage"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3209,
+        "title": "disparage",
+        "url": "http://www.dictionary.com/browse/disparage",
+        "combined_text": "disparage \"disparage [dih- spar -ij]Spell Syllables Synonyms Examples Word Origin See more synonyms on Thesaurus.comverb (used with object), disparaged,disparaging.1. to speak of or treat slightingly; depreciate; belittle: Do not disparage good manners.2. to bring reproach or discredit upon; lower the estimat",
+        "distance": 0.21037249267101288
+      },
+      {
+        "id": 2610,
+        "title": "Paronym",
+        "url": "http://encyclopedia2.thefreedictionary.com/Paronyms",
+        "combined_text": "Paronym Paronym (redirected from paronyms) Also found in: Dictionary . The following article is from The Great Soviet Encyclopedia (1979). It might be outdated or ideologically biased. Paronyma word similar to another in sound; the partial coincidence in outward form occurs simply by chanceand is not condit",
+        "distance": 0.6174847483634949
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "876607847205230067": {
+    "query_id": "876607847205230067",
+    "query": "boudin san francisco calorie guide",
+    "relevants": [
+      {
+        "relevant_doc": 1992,
+        "relevant_url": "http://www.nutrition-charts.com/boudin-sf-nutrition-facts-calorie-information/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1992,
+        "title": "Boudin SF Nutrition Facts & Calorie Information",
+        "url": "http://www.nutrition-charts.com/boudin-sf-nutrition-facts-calorie-information/",
+        "combined_text": "Boudin SF Nutrition Facts & Calorie Information Home > Coffee / Cafe > Boudin SF Nutrition Facts & Calorie Information Boudin SF Nutrition Facts & Calorie Information A Nutrition Guide to the Boudin Sf Menu for Healthy Eating Are you looking for a Boudin SF calorie counter online? Well, the chart below will help you find nutritional information a",
+        "distance": 0.24143211543560028
+      },
+      {
+        "id": 3213,
+        "title": "Einstein Bros Bagels Nutrition Facts & Calorie Information",
+        "url": "http://www.nutrition-charts.com/einstein-bros-bagels-nutrition-facts-calorie-information/",
+        "combined_text": "Einstein Bros Bagels Nutrition Facts & Calorie Information Home > Coffee / Cafe > Einstein Bros Bagels Nutrition Facts & Calorie Information Einstein Bros Bagels Nutrition Facts & Calorie Information A Nutrition Guide to the Einstein Bros Bagels Menu for Healthy Eating Are you looking for a Einstein Bros Bagels calorie counter online? Well, the chart below",
+        "distance": 0.5503430962562561
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "405113964407719720": {
+    "query_id": "405113964407719720",
+    "query": "things to do in Gironde",
+    "relevants": [
+      {
+        "relevant_doc": 2628,
+        "relevant_url": "http://www.justtourfrance.com/aquitaine/gironde.asp?area=Gironde&county=Aquitaine"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2628,
+        "title": "Gironde tourist information",
+        "url": "http://www.justtourfrance.com/aquitaine/gironde.asp?area=Gironde&county=Aquitaine",
+        "combined_text": "Gironde tourist information Gironde tourist informationwhere to go - what to see - what to do La Gironde is the largest department in France - 126 kms of sandy coast backed by 480,000 hectares of pine trees to the east. Inland there are numerous lakes and rivers. The Gironde estuary is the largest in Europe and is the only pla",
+        "distance": 0.39621758460998535
+      },
+      {
+        "id": 3071,
+        "title": "France holidays: Six things you must do in... Biarritz",
+        "url": "http://www.dailymail.co.uk/travel/article-1259602/Six-things--Biarritz.html",
+        "combined_text": "France holidays: Six things you must do in... Biarritz France holidays: Six things you must do in... Biarritz By Gareth Huw Davies for The Mail on Sunday Updated: 14:41 EDT, 21 March 2010View comments One of the many Royal visitors to Biarritz would set off for the Queen of Resorts with the battle cry: 'Chill the champagne, pack the pearls and tune up t",
+        "distance": 0.5190337896347046
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "5495358780662719329": {
+    "query_id": "5495358780662719329",
+    "query": "becoming a hampton inn franchisee",
+    "relevants": [
+      {
+        "relevant_doc": 1952,
+        "relevant_url": "http://www.findafranchise.com/franchise-opportunities/hampton-inn-hampton-inn-and-suites-franchise-for-sale/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1952,
+        "title": "Hampton Inn/Hampton Inn & Suites Description",
+        "url": "http://www.findafranchise.com/franchise-opportunities/hampton-inn-hampton-inn-and-suites-franchise-for-sale/",
+        "combined_text": "Hampton Inn/Hampton Inn & Suites Description Hampton Inn/Hampton Inn & Suites Description In the single largest and fastest transformation ever undertaken by a hotel brand to dramatically enhance the guest experience at each of its hotels, Hampton, a leading mid-priced hotel brand, added more than 120 new products and service standards to its",
+        "distance": 0.3584149181842804
+      },
+      {
+        "id": 852,
+        "title": "Hampton Inn Richmond - Airport",
+        "url": "http://hamptoninn3.hilton.com/en/hotels/virginia/hampton-inn-richmond-airport-RICARHX/offers/index.htm",
+        "combined_text": "Hampton Inn Richmond - Airport Hampton Inn Richmond - Airport421 International Center Drive, Sandston, Virginia, 23150, USA TEL: +1-804-226-1888 FAX: +1-804-222-7815Show Caption Skip secondary navigation Hotel Home Amenities & Services Maps & Directions Rooms & Suites Plan an Event Special Offers Dining Things To Do",
+        "distance": 0.45235759019851685
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-1067178449691660668": {
+    "query_id": "-1067178449691660668",
+    "query": "where does the body store triglycerides",
+    "relevants": [
+      {
+        "relevant_doc": 1598,
+        "relevant_url": "http://www.answers.com/Q/Where_are_triglycerides_found_in_the_human_body"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1598,
+        "title": "Where are triglycerides found in the human body?",
+        "url": "http://www.answers.com/Q/Where_are_triglycerides_found_in_the_human_body",
+        "combined_text": "Where are triglycerides found in the human body? Answers.com ® Wiki Answers ® Categories Science Biology Genetics Where are triglycerides found in the human body? Flag Where are triglycerides found in the human body? Answered by The Wiki Answers ®Community Answers.com ® is making the world better one answer at a time. Triglycerides are found in yo",
+        "distance": 0.46786370873451233
+      },
+      {
+        "id": 2775,
+        "title": "How are fats absorbed in the lymphatic system?",
+        "url": "https://answers.yahoo.com/question/index?qid=20120307232941AA3l21o",
+        "combined_text": "How are fats absorbed in the lymphatic system? \"Science & Mathematics Biology How are fats absorbed in the lymphatic system?please help. i am so confused with the digestive system. any information on the digestive system will be really helpful. thanks :)Follow 1 answer Answers Best Answer: The lymphatic system has three main functions. First, it",
+        "distance": 0.6581841707229614
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-2699408206839766501": {
+    "query_id": "-2699408206839766501",
+    "query": "what does financing mean",
+    "relevants": [
+      {
+        "relevant_doc": 1467,
+        "relevant_url": "https://www.merriam-webster.com/dictionary/financing"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1467,
+        "title": "financing",
+        "url": "https://www.merriam-webster.com/dictionary/financing",
+        "combined_text": "financing \"financingnoun fi·nanc·ing \\ fə-ˈnan (t)-siŋ, ˈfī-ˌnan (t)-, fī-ˈnan (t)- \\Popularity: Bottom 30% of words Trending Now:oligarch glib depose omnibus acrimony ALLTime Traveler! Explore the year a word first appeared Definition of financing: the act or process or an instance of raising or providing fu",
+        "distance": 0.3317578434944153
+      },
+      {
+        "id": 1426,
+        "title": "XarJ Blog and Podcast",
+        "url": "http://www.xarj.net/2011/top-10-purposes-for-loan/",
+        "combined_text": "XarJ Blog and Podcast \"It seems that not everybody could live luxuriously and we should be thankful that financial institutions are aware of that. So, here are the top 10 reasons and purposes for a loan. Business Launching A few other businesses are capital intensive whereas others are labor intensive. Whenever a busines",
+        "distance": 0.48131173849105835
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-5201781837210395195": {
+    "query_id": "-5201781837210395195",
+    "query": "meaning of day-to-day operations",
+    "relevants": [
+      {
+        "relevant_doc": 3907,
+        "relevant_url": "http://dictionary.reverso.net/english-definition/day-to-day%20management"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3907,
+        "title": "day-to-day management definition, day-to-day management meaning | English dictionary",
+        "url": "http://dictionary.reverso.net/english-definition/day-to-day%20management",
+        "combined_text": "day-to-day management definition, day-to-day management meaning | English dictionary Search Synonyms Conjugate Speak Suggest new translation/definitionday-to-dayadj routine; everydayday-to-day chores English Collins Dictionary - English Definition & Thesaurus See also:day after day, day by day, day in, day out, Days of Awe Collaborative Dictionary English Definition CRM n. customer",
+        "distance": 0.29561057686805725
+      },
+      {
+        "id": 202,
+        "title": "intercalary",
+        "url": "https://www.merriam-webster.com/dictionary/intercalary",
+        "combined_text": "intercalary \"intercalaryadjective in·ter·ca·la·ry \\ in-ˈtər-kə-ˌler-ē, ˌin-tər-ˈka-lə-rē \\Popularity: Bottom 30% of words Trending Now:oligarch glib depose omnibus acrimony ALLTime Traveler! Explore the year a word first appeared Definition of intercalary1 a: inserted in a calendaran intercalary dayb of a year:",
+        "distance": 0.6210247278213501
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "2855975560016267809": {
+    "query_id": "2855975560016267809",
+    "query": "meaning of SIC description field",
+    "relevants": [
+      {
+        "relevant_doc": 3595,
+        "relevant_url": "https://success.salesforce.com/answers?id=90630000000gn5mAAA"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3595,
+        "title": "what does SIC mean?",
+        "url": "https://success.salesforce.com/answers?id=90630000000gn5mAAA",
+        "combined_text": "what does SIC mean? \"Elise Butlerwhat does SIC mean? I want to be able to see the descriptions of organizations when I search for them, so I included the field \"\"SIC Description,\"\" but clearly this refers to something else, because their descriptions are not showing up. What is the SIC desription? May 10, 2012 · Answer",
+        "distance": 0.1986769735813141
+      },
+      {
+        "id": 2572,
+        "title": "SICU Patients, Families & Public Information",
+        "url": "https://healthsciences.ucsd.edu/som/surgery/divisions/trauma-burn/about/sicu/Pages/info.aspx",
+        "combined_text": "SICU Patients, Families & Public Information \"SICU Patients, Families & Public Information Having a loved one with a critical illness or injuries in the Surgical Intensive Care Unit (SICU) is a stressful and challenging time in your life and the life of your family. The SICU is an unfamiliar environment where a very large team of specialized s",
+        "distance": 0.5608563423156738
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "5223994805368882807": {
+    "query_id": "5223994805368882807",
+    "query": "how can 27 be a quotient",
+    "relevants": [
+      {
+        "relevant_doc": 3719,
+        "relevant_url": "https://socratic.org/questions/what-is-a-quotient-of-27"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3719,
+        "title": "What is a quotient of 27?",
+        "url": "https://socratic.org/questions/what-is-a-quotient-of-27",
+        "combined_text": "What is a quotient of 27? \"What is a quotient of 27? Algebra Properties of Real Numbers Division of Rational Numbers1 Answer3George C. Share Sep 20, 2015Answer: Depending on the context, it could mean: (1) The result of dividing 27 by another number. (2) That 27 is the result of dividing one number by another. Explanation: T",
+        "distance": 0.1763223260641098
+      },
+      {
+        "id": 2753,
+        "title": "What are the factors of 26?",
+        "url": "http://www.answers.com/Q/What_are_the_factors_of_26",
+        "combined_text": "What are the factors of 26? Flag What are the factors of 26? Expert answer by Anand Mehta Confidence votes 155Kmehtamatics = mathematics with a difference There are infinitely many possible answers. Some of these are: 1 * 26 10 * 2.6 100 * 0.26 52 * 0.58 people found this useful Was this answer useful? Yes Somewhat No Answer b",
+        "distance": 0.5378599166870117
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "1584948585031417682": {
+    "query_id": "1584948585031417682",
+    "query": "pre-Columbian Americas and oceania history",
+    "relevants": [
+      {
+        "relevant_doc": 2132,
+        "relevant_url": "http://apworldhistorywiki.wikispaces.com/The+Americas+and+Oceania"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2132,
+        "title": "The Americas and Oceania",
+        "url": "http://apworldhistorywiki.wikispaces.com/The+Americas+and+Oceania",
+        "combined_text": "The Americas and Oceania \"The Americas and Oceania Edit 0 194 …0 Tags No tags Notify RSSBacklinks Source Print Export (PDF)Early Societies in the Americas and Oceana (H. M)In September of 683 C. E., a man named Chan Bahlum and his brother performed rituals which caused a large flow of blood from their bodies. These sorts of",
+        "distance": 0.3900488615036011
+      },
+      {
+        "id": 419,
+        "title": "Earth before Pangaea",
+        "url": "https://www.scientificamerican.com/article/earth-before-pangaea/?page=6",
+        "combined_text": "Earth before Pangaea \"The Sciences Earth before Pangaea The North American continent may be more nomadic than most of its inhabitants By Ian W. D. Dalziel on July 1, 2005The little airplane banked to the right. From my seat on the port side I could see its shadow crossing the ice. The skis made it look rather like a duc",
+        "distance": 0.4850032925605774
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "7937537989750659397": {
+    "query_id": "7937537989750659397",
+    "query": "best areas to stay in krabi ao nang",
+    "relevants": [
+      {
+        "relevant_doc": 3751,
+        "relevant_url": "http://www.phuket-holiday-guide.com/Where_to_Stay_in_Krabi.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3751,
+        "title": "Where to Stay in Krabi",
+        "url": "http://www.phuket-holiday-guide.com/Where_to_Stay_in_Krabi.html",
+        "combined_text": "Where to Stay in Krabi A Quick Guide to Krabi and Ao Nang Beach A scenic three hour's drive to the east of Phuket is the province of Krabi. While not as well known internationally as Phuket, it is considered by many to be an even more attractive area of Thailand and is fast growing in popularity. Towering limestone format",
+        "distance": 0.3027471899986267
+      },
+      {
+        "id": 2609,
+        "title": "The Best Time to Travel to Bali",
+        "url": "http://traveltips.usatoday.com/time-travel-bali-16326.html",
+        "combined_text": "The Best Time to Travel to Bali Dancers in Bali's traditional garb Bali sits in the exotic reaches of the Indonesian archipelago. Known for its captivating jungles and scenic beaches, Bali serves as a welcoming haven for tourists in search of mystical temples and seaside respite. As with any destination, determining the best time",
+        "distance": 0.5804526209831238
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-4622687789750958005": {
+    "query_id": "-4622687789750958005",
+    "query": "how to contact land registry",
+    "relevants": [
+      {
+        "relevant_doc": 1128,
+        "relevant_url": "https://www.gov.uk/guidance/contact-hm-land-registry"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1128,
+        "title": "Contact HM Land Registry",
+        "url": "https://www.gov.uk/guidance/contact-hm-land-registry",
+        "combined_text": "Contact HM Land Registry Applies to: England and Wales Contact for members of the public What to do when someone has died If you have questions about how to deal with land and property when someone has died, read our short guide. Support forum If you have a general enquiry, use our public support forum to find answers or as",
+        "distance": 0.32511162757873535
+      },
+      {
+        "id": 2421,
+        "title": "Contact Us",
+        "url": "https://www.library.unlv.edu/contact",
+        "combined_text": "Contact Us General Number: (702) 895-2111General Comments »Driving Directions »Parking info »Report a disturbance (eg. inappropriate use of study rooms, excessive noise, or disruptive behavior)Phone Numbers Department Phone Administration (Lied Library) (702) 895-2286Architecture Studies Library (702) 895-1959",
+        "distance": 0.604286789894104
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-6329861589772703556": {
+    "query_id": "-6329861589772703556",
+    "query": "strong smell in early pregnancy predict sex",
+    "relevants": [
+      {
+        "relevant_doc": 2342,
+        "relevant_url": "http://babyandbump.momtastic.com/pregnancy-third-trimester/891032-heightened-sense-smell-1st-tri-gender-related.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2342,
+        "title": "Pregnancy, Trying to conceive & Parenting Forum",
+        "url": "http://babyandbump.momtastic.com/pregnancy-third-trimester/891032-heightened-sense-smell-1st-tri-gender-related.html",
+        "combined_text": "Pregnancy, Trying to conceive & Parenting Forum Babyand Bump Pregnancy Forums Pregnancy - Third Trimester Is heightened sense of smell in 1st tri gender related? Search Today's Posts Mark Forums Read Notices Welcome to Babyand Bump -Pregnancy, Trying to conceive & Parenting Forum Our community is dedicated to offering a friendly environment in wh",
+        "distance": 0.39226874709129333
+      },
+      {
+        "id": 1341,
+        "title": "Why all of New York City smells like sex these days",
+        "url": "http://www.businessinsider.com/bradford-pear-tree-semen-sex-smell-2013-4",
+        "combined_text": "Why all of New York City smells like sex these days \"Dina Spector Apr. 25, 2013, 1:28 PM 152,691The source of the smell. Wikipedia This spring, New Yorkers will have their noses assaulted by an unpleasant odor coming from the army of white-blossom covered trees that line many of the city's streets. These flowers, though lovely in appearance, smell li",
+        "distance": 0.5188837647438049
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-4419930310445827582": {
+    "query_id": "-4419930310445827582",
+    "query": "late night bars and clubs albufeira",
+    "relevants": [
+      {
+        "relevant_doc": 3914,
+        "relevant_url": "http://www.thespainevent.com/by-area/albufeira-algarve/nightlife-in-albufeira/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3914,
+        "title": "Nightlife in Albufeira",
+        "url": "http://www.thespainevent.com/by-area/albufeira-algarve/nightlife-in-albufeira/",
+        "combined_text": "Nightlife in Albufeira Nightlife in Albufeira Nightlife in Albufeira is lively, late and jaunty. It’s paradise for the Algarve bar crawl lover, with club and eating options focussed around the Albufeira strip. Book a night time Algarve activity with our experienced local team. Browse our options, clicking to see activitie",
+        "distance": 0.2858912944793701
+      },
+      {
+        "id": 487,
+        "title": "Etiquette in Las Vegas Gentlemen's Clubs And Other Tips",
+        "url": "http://www.lasvegas-entertainment-guide.com/las-vegas-gentlemens-clubs.html",
+        "combined_text": "Etiquette in Las Vegas Gentlemen's Clubs And Other Tips \"Etiquette in Las Vegas Gentlemen's Clubs And Other Tips Las Vegas gentlemen's clubs are an integral part of the city's night life. Here you can relax, get an intimate one on one time with a hottie from your dreams, fall in love with a couple of beauties or have a crazy bachelor party! Do not shy aw",
+        "distance": 0.5145521759986877
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-1245511734592969731": {
+    "query_id": "-1245511734592969731",
+    "query": "knee problems in nail patella syndrome",
+    "relevants": [
+      {
+        "relevant_doc": 298,
+        "relevant_url": "http://www.sciencedirect.com/science/article/pii/S1877056815002790"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 298,
+        "title": "Original articleNail patella syndrome: Knee symptoms and surgical outcomes. A questionnaire-based survey",
+        "url": "http://www.sciencedirect.com/science/article/pii/S1877056815002790",
+        "combined_text": "Original articleNail patella syndrome: Knee symptoms and surgical outcomes. A questionnaire-based survey Orthopaedics & Traumatology: Surgery & Research Volume 101, Issue 8, December 2015, Pages 959-962Original article Nail patella syndrome: Knee symptoms and surgical outcomes. A questionnaire-based survey S. Tigchelaar a A. Lenting a E. M. H. F. Bongers b A. van Kampen a Show morehttps://doi.org/10.10",
+        "distance": 0.207372784614563
+      },
+      {
+        "id": 1230,
+        "title": "Patel Hospital Karachi Number (Phone) & Address Details",
+        "url": "http://www.awamiweb.com/patel-hospital-karachi-number-phone-address-details-82239.html",
+        "combined_text": "Patel Hospital Karachi Number (Phone) & Address Details Patel Hospital Karachi Number (Phone) & Address Details Patel hospital was founded in 1997 by the famous humanitarian of Bantva Memon community social worker Mr. Abdul Ghaffar Abdul Rehman alias Mithu Patel (Late). Hospital provides clinical specialties, diagnostic services, burn unit, dialysis unit",
+        "distance": 0.6454166173934937
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "4728237806260531552": {
+    "query_id": "4728237806260531552",
+    "query": "7th grade medieval China flashcards",
+    "relevants": [
+      {
+        "relevant_doc": 2564,
+        "relevant_url": "https://www.flashcardmachine.com/chapter-4143.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2564,
+        "title": "Shared Flashcard Set",
+        "url": "https://www.flashcardmachine.com/chapter-4143.html",
+        "combined_text": "Shared Flashcard Set \"Shared Flashcard Set Details Title Chapter 4Description China in the Middle Ages Total Cards 44Subject History Level 7th Grade Created 12/29/2008Click here to study/print these flashcards . Create your own flash cards! Sign up here . Additional History Flashcards Cards Term What dynasty was in powe",
+        "distance": 0.2683198153972626
+      },
+      {
+        "id": 441,
+        "title": "Shared Flashcard Set",
+        "url": "https://www.flashcardmachine.com/ait3.html",
+        "combined_text": "Shared Flashcard Set Shared Flashcard Set Details Title AITDescription Chapter 1: Introduction to Information Technology // Your Digital World Total Cards 40Subject Computer Science Level Professional Created 08/27/2013Click here to study/print these flashcards . Create your own flash cards! Sign up here . Additional Co",
+        "distance": 0.5723375678062439
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-4532703867844129841": {
+    "query_id": "-4532703867844129841",
+    "query": "drugs that block aldosterone",
+    "relevants": [
+      {
+        "relevant_doc": 2114,
+        "relevant_url": "https://en.wikipedia.org/wiki/Antimineralocorticoid"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2114,
+        "title": "Antimineralocorticoid",
+        "url": "https://en.wikipedia.org/wiki/Antimineralocorticoid",
+        "combined_text": "Antimineralocorticoid \"From Wikipedia, the free encyclopedianavigation search Antimineralocorticoid Drug class Spironolactone, the most widely used antimineralocorticoid. Class identifiers Synonyms Aldosterone antagonist; Mineralocorticoid antagonist Use Diuretic; Chronic heart failure; Hypertension; Hyperaldosteronism;",
+        "distance": 0.4474334716796875
+      },
+      {
+        "id": 3771,
+        "title": "Anti-diabetic medication",
+        "url": "https://en.wikipedia.org/wiki/Anti-diabetic_medication",
+        "combined_text": "Anti-diabetic medication \"From Wikipedia, the free encyclopedianavigation search Drugs used in diabetes treat diabetes mellitus by lowering glucose levels in the blood. With the exceptions of Insulin, exenatide, liraglutide and pramlintide, all are administered orally and are thus also called oral hypoglycemic agents or ora",
+        "distance": 0.5329082012176514
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-7218054133551030562": {
+    "query_id": "-7218054133551030562",
+    "query": "how tutors differ from teachers",
+    "relevants": [
+      {
+        "relevant_doc": 1309,
+        "relevant_url": "http://www.differencebetween.com/difference-between-tutor-and-vs-teacher/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1309,
+        "title": "Difference Between Tutor and Teacher",
+        "url": "http://www.differencebetween.com/difference-between-tutor-and-vs-teacher/",
+        "combined_text": "Difference Between Tutor and Teacher \"Difference Between Tutor and Teacher Posted on August 10, 2013 by admin Tutor vs Teacher We all know who a teacher is and the importance of teachers in our lives. Most of us come in contact with a teacher only when we are grown up sufficiently to be able to sit and learn in a classroom environment.",
+        "distance": 0.3517671227455139
+      },
+      {
+        "id": 4191,
+        "title": "Why Do Teachers Quit?",
+        "url": "http://www.theatlantic.com/education/archive/2013/10/why-do-teachers-quit/280699/",
+        "combined_text": "Why Do Teachers Quit? \"Why Do Teachers Quit? And why do they stay? Natacha Pisarenko / APLiz Riggs Oct 18, 2013 Education Share Tweet…Linked In Email Print Text Size Like The Atlantic? Subscribe to The Atlantic Daily, our free weekday email newsletter. Richard Ingersoll taught high-school social studies and algebra in bo",
+        "distance": 0.5805565118789673
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-5813835246190428785": {
+    "query_id": "-5813835246190428785",
+    "query": "which bikini wax style suits me",
+    "relevants": [
+      {
+        "relevant_doc": 371,
+        "relevant_url": "http://mollyswaxshop.com/which-bikini-wax-is-right-for-me/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 371,
+        "title": "Which bikini wax is right for me?",
+        "url": "http://mollyswaxshop.com/which-bikini-wax-is-right-for-me/",
+        "combined_text": "Which bikini wax is right for me? Which bikini wax is right for me? November 30, 2012 By Molly Too much hair? Dare to bare? Don’t really care? And hearts, diamonds, and four leaf clovers? My God is this a bikini wax or a box of Lucky Charms? Here are some general guidelines…and remember, there will always be variations of waxing sty",
+        "distance": 0.33031442761421204
+      },
+      {
+        "id": 403,
+        "title": "Body Lotion",
+        "url": "http://www.bathandbodyworks.com/family/index.jsp?categoryId=4191845",
+        "combined_text": "Body Lotion Body Lotion96 Items1 2Filter Product Type Fragrance Name Fragrance Category Waikiki Beach Coconut Super Smooth Body Lotion$12.50Mix & Match: Buy 3, Get 2 Free or Buy 2, Get 1 Free– +Add Island White Sand Super Smooth Body Lotion$12.50Mix & Match: Buy 3, Get 2 Free or Buy 2, Get 1 Free– +Add Pink Lil",
+        "distance": 0.5682091116905212
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-4705278390912479116": {
+    "query_id": "-4705278390912479116",
+    "query": "steps to start a mechanical engineering career",
+    "relevants": [
+      {
+        "relevant_doc": 2627,
+        "relevant_url": "http://www.wikihow.com/Become-a-Mechanical-Engineer"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2627,
+        "title": "How to Become a Mechanical Engineer",
+        "url": "http://www.wikihow.com/Become-a-Mechanical-Engineer",
+        "combined_text": "How to Become a Mechanical Engineer Reader Approved How to Become a Mechanical Engineer Two Methods: Becoming an Engineer Sample Resume Community Q&AMechanical engineers will find their skills in demand in a variety of fields and industries including medical, scientific research, construction, aerospace, acoustics, combustion, and aut",
+        "distance": 0.3417258560657501
+      },
+      {
+        "id": 934,
+        "title": "What is Mechanical Engineering?",
+        "url": "http://me.columbia.edu/what-mechanical-engineering",
+        "combined_text": "What is Mechanical Engineering? What is Mechanical Engineering? Mechanical engineering is a diverse subject that derives its breadth from the need to design and manufacture everything from small individual parts and devices (e.g., microscale sensors and inkjet printer nozzles) to large systems (e.g., spacecraft and machine tools).",
+        "distance": 0.4557311534881592
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "2152306438710641735": {
+    "query_id": "2152306438710641735",
+    "query": "how duke ellington influenced the harlem renaissance",
+    "relevants": [
+      {
+        "relevant_doc": 2619,
+        "relevant_url": "http://bloggingtonybennett.com/duke-ellington-and-the-harlem-renaissance/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2619,
+        "title": "Duke Ellington and the Harlem Renaissance",
+        "url": "http://bloggingtonybennett.com/duke-ellington-and-the-harlem-renaissance/",
+        "combined_text": "Duke Ellington and the Harlem Renaissance April 28, 2013 By Suzanne 5 Comments Duke Ellington and the Harlem Renaissance The Harlem Renaissance was an extraordinary time of cultural and artistic growth in the African-American community and that began in 1919 and flourished until the stock market crash in 1929 and was centered in Harlem, whi",
+        "distance": 0.19750864803791046
+      },
+      {
+        "id": 1789,
+        "title": "Impact and Influence Martin Luther had in society",
+        "url": "http://mlksociology.weebly.com/impact-in-society.html",
+        "combined_text": "Impact and Influence Martin Luther had in society Kings biggest legacy was to secure the progress on civil rights with in the United States, and is a human rights icon today because of what he did. Not only did Martin Luther King change society and how African Americans where looked at in America but his stand on civil rights inspired Albert Luthul",
+        "distance": 0.6171334981918335
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-1407137208308338226": {
+    "query_id": "-1407137208308338226",
+    "query": "gmu graduate student survey ratings",
+    "relevants": [
+      {
+        "relevant_doc": 3374,
+        "relevant_url": "http://www.studentsreview.com/VA/GMU_g.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3374,
+        "title": "George Mason University",
+        "url": "http://www.studentsreview.com/VA/GMU_g.html",
+        "combined_text": "George Mason University \"Total Grad Surveys 34Females 16Males 18Avg years at University 2.6Research Quality C+ (5.4)Research Availability C (4.7)Research Funding C- (4.2)Graduate Politics C (4.3)Not Errand Runners C (4.7)Degree Completion C+ (5.4)Alternative pay [ta/gsi] C (4.2)Sufficient Pay C- (4.1)Competitiveness C (4.3",
+        "distance": 0.4483645558357239
+      },
+      {
+        "id": 344,
+        "title": "ccp unit 2",
+        "url": "https://quizlet.com/45392878/ccp-unit-2-flash-cards/",
+        "combined_text": "ccp unit 2 34 terms lindseydifanteccp unit 2Learn Flashcards Write Spell Test Match Gravity Advertisement Upgrade to remove ads Like this study set? Create a free account to save it. Create a free account Maybe later Sortdefine two-year college a regional higher education offering certificates and two-year deg",
+        "distance": 0.5974412560462952
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-194514318338987026": {
+    "query_id": "-194514318338987026",
+    "query": "do gel manicures damage nails",
+    "relevants": [
+      {
+        "relevant_doc": 366,
+        "relevant_url": "http://www.webmd.com/beauty/nails/20130301/gel-manicures-durable-but-can-cause-lasting-problems"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 366,
+        "title": "Gel Manicures Can Cause Lasting Problems",
+        "url": "http://www.webmd.com/beauty/nails/20130301/gel-manicures-durable-but-can-cause-lasting-problems",
+        "combined_text": "Gel Manicures Can Cause Lasting Problems \"Gel Manicures Can Cause Lasting Problems From the Web MD Archives By Robert Preidt Health Day Reporter FRIDAY, March 1 (Health Day News) -- Many women like gel manicures because they are durable and long-lasting, but frequent use can cause nail thinning, brittleness, peeling and cracking, and also",
+        "distance": 0.22017034888267517
+      },
+      {
+        "id": 171,
+        "title": "Fingernails: Possible problems",
+        "url": "http://www.mayoclinic.org/healthy-lifestyle/adult-health/multimedia/nails/sls-20076131",
+        "combined_text": "Fingernails: Possible problems Appointments at Mayo Clinic Mayo Clinic offers appointments in Arizona, Florida and Minnesota and at Mayo Clinic Health System locations. Request Appointment Healthy Lifestyle Fingernails: Possible problems Products and services Free E-newsletter Subscribe to Housecall Our general interest e-newslet",
+        "distance": 0.6207215189933777
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "6963588837848114818": {
+    "query_id": "6963588837848114818",
+    "query": "list of independent federal agencies",
+    "relevants": [
+      {
+        "relevant_doc": 4082,
+        "relevant_url": "https://www.hg.org/independent.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 4082,
+        "title": "United States Government - Independent Agencies",
+        "url": "https://www.hg.org/independent.html",
+        "combined_text": "United States Government - Independent Agencies \"Share: Share on Facebook Share on Twitter Share on Linked In Share on Google+United States Government - Independent Agencies Independent Agencies of the Unites States government are tasked with administering the law as regarding specific areas such as the environment, social security, and veteran a",
+        "distance": 0.2511778175830841
+      },
+      {
+        "id": 3879,
+        "title": "Bureau of Benefits",
+        "url": "https://www2.illinois.gov/cms/benefits/Pages/default.aspx",
+        "combined_text": "Bureau of Benefits The Illinois Department of Central Management Services Bureau of Benefits is the primary health care and insurance administrator for state universities, community colleges, teachers, state employees and retirees. In addition, the Bureau of Benefits also administers a wide range of other programs inc",
+        "distance": 0.5700002908706665
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "7997949418914843866": {
+    "query_id": "7997949418914843866",
+    "query": "where major shipping ports cluster",
+    "relevants": [
+      {
+        "relevant_doc": 3859,
+        "relevant_url": "http://www.businessinsider.com/busiest-shipping-ports-in-the-world-2013-11"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3859,
+        "title": "This Map Shows The Biggest Shipping Ports In The World, And How Most Of Them Are Clustered In The Same Area",
+        "url": "http://www.businessinsider.com/busiest-shipping-ports-in-the-world-2013-11",
+        "combined_text": "This Map Shows The Biggest Shipping Ports In The World, And How Most Of Them Are Clustered In The Same Area This Map Shows The Biggest Shipping Ports In The World, And How Most Of Them Are Clustered In The Same Area Max Nisen Nov. 13, 2013, 11:01 AM 16,095A surprising earlier map from Seth Kadish at Vizual Statistix showed that none of the world's busiest flight paths by passenger volume so much as touch",
+        "distance": 0.33006492257118225
+      },
+      {
+        "id": 1793,
+        "title": "Burnt Store Marina",
+        "url": "http://burntstoremarina.com/",
+        "combined_text": "Burnt Store Marina 1 2 3BURNT STORE MARINABurnt Store Marina is every boater’s dream. Located on beautiful Charlotte Harbor, ranked one of the top ten places to sail by Sail magazine, the basin is just 10 miles to the Gulf of Mexico. Charlotte Harbor is the second-largest estuary in Florida, encompassing 270 square mi",
+        "distance": 0.622113823890686
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "3829450792517387811": {
+    "query_id": "3829450792517387811",
+    "query": "where to buy serum for cell culture",
+    "relevants": [
+      {
+        "relevant_doc": 2086,
+        "relevant_url": "http://www.sigmaaldrich.com/life-science/cell-culture/cell-culture-products.html?TablePage=9628642"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2086,
+        "title": "Fetal Bovine Serum (FBS)",
+        "url": "http://www.sigmaaldrich.com/life-science/cell-culture/cell-culture-products.html?TablePage=9628642",
+        "combined_text": "Fetal Bovine Serum (FBS) United States Sigma-Aldrich ®Products Service Industries Hello. Sign in. 0 Items USA Home > Product Directory > Cell Culture > Fetal Bovine Serum (FBS) and Other Animal Sera > Fetal Bovine Serum (FBS)3D Cell Culture Cell Culture Reagents Cell Culture Supplements ECACC Cell Lines Primary Cell Culture",
+        "distance": 0.5790704488754272
+      },
+      {
+        "id": 725,
+        "title": "Bovine Serum Albumin",
+        "url": "http://www.biowest.net/products/serum/bovine-serum-albumin-bsa/",
+        "combined_text": "Bovine Serum Albumin Bovine Serum Albumin Bovine Serum Albumin (BSA) is commonly used in cell culture protocols, particularly where protein supplementation is necessary and the other serum components are unwanted. In cell culture, it acts as a small molecule carrier. Because of its negative charge, Bovine Serum Albumin:",
+        "distance": 0.5957421064376831
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-311842692446923937": {
+    "query_id": "-311842692446923937",
+    "query": "loves park il population weather maps",
+    "relevants": [
+      {
+        "relevant_doc": 2413,
+        "relevant_url": "http://www.city-data.com/city/Loves-Park-Illinois.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2413,
+        "title": "Loves Park, Illinois",
+        "url": "http://www.city-data.com/city/Loves-Park-Illinois.html",
+        "combined_text": "Loves Park, Illinois \"Follow city-data.com founder on our Forum or@Lech Mazur Loves Park, Illinoisadd your We are giving away $1200 in prizes - enter simply by sending us your own city pictures! See promotion details and to upload your Loves Park, Illinois photos OSM Map General Map Google Map MSN Map30°F7 miles Wind: 7",
+        "distance": 0.28946903347969055
+      },
+      {
+        "id": 2942,
+        "title": "Things to Do in Chicago",
+        "url": "https://www.tripadvisor.com/Attractions-g35805-Activities-Chicago_Illinois.html",
+        "combined_text": "Things to Do in Chicago View Map Types of Things to Do Top Attractions Shop Tours & Tickets Types of Attractions Sights & Landmarks (242)Museums (118)Tours (193)Nature & Parks (73)Outdoor Activities (104)Concerts & Shows (183)Boat Tours & Water Sports (54)More Neighborhoods Downtown / The Loop (244)Near North Side (128)Lin",
+        "distance": 0.5417587161064148
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-8849420286198225046": {
+    "query_id": "-8849420286198225046",
+    "query": "intro to human diversity flashcards",
+    "relevants": [
+      {
+        "relevant_doc": 2406,
+        "relevant_url": "https://quizlet.com/4552644/anthropology-flash-cards/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2406,
+        "title": "Anthropology",
+        "url": "https://quizlet.com/4552644/anthropology-flash-cards/",
+        "combined_text": "Anthropology \"82 terms bmemerson8Anthropology Learn Flashcards Write Spell Test Match Gravity Advertisement Upgrade to remove ads Like this study set? Create a free account to save it. Create a free account Maybe later Sort Anthropology study of human diversity; four fields: archaeology, physical anthropology, l",
+        "distance": 0.5327959060668945
+      },
+      {
+        "id": 2245,
+        "title": "How Many Races Are There in the World?",
+        "url": "https://www.reference.com/world-view/many-races-world-bb7c1ea95ddd1c57",
+        "combined_text": "How Many Races Are There in the World? \"Full Answer Anthropologists in the 1800s to the early 1900s made a mistake of dividing people according to geographical groups basing their categories on what they viewed as the routine occurrence of selected traits. They were using the typological model of racial classification that can be traced",
+        "distance": 0.5944322347640991
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-3921260394033826153": {
+    "query_id": "-3921260394033826153",
+    "query": "udon thani travel reviews and hotels",
+    "relevants": [
+      {
+        "relevant_doc": 764,
+        "relevant_url": "https://www.tripadvisor.com/Tourism-g297939-Udon_Thani_Udon_Thani_Province-Vacations.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 764,
+        "title": "Udon Thani, Thailand",
+        "url": "https://www.tripadvisor.com/Tourism-g297939-Udon_Thani_Udon_Thani_Province-Vacations.html",
+        "combined_text": "Udon Thani, Thailand \"8,858 reviews and opinions Udon Thani, Thailand (malsol, Aug 2013)Hotels (58)3,891 Reviews Vacation Rentals (8)20 Reviews Flightsfrom $1,446Things to Do (45)1,838 Reviews Restaurants (141)2,956 Reviews Forum147 Posts Overview Places to Stay Location Things to Do Want to save up to 30% on your Udon",
+        "distance": 0.25341537594795227
+      },
+      {
+        "id": 3160,
+        "title": "Creede, Colorado",
+        "url": "https://www.tripadvisor.com/Tourism-g33376-Creede_Colorado-Vacations.html",
+        "combined_text": "Creede, Colorado \"2,450 reviews and opinions Creede, Colorado (tdb2013, Sep 2015)Lodging (18)465 Reviews Vacation Rentals (5)1 Review Flights Things to Do (14)723 Reviews Restaurants (12)1,246 Reviews Forum14 Posts Overview Places to Stay Location Things to Do Want to save up to 30% on your Creede hotel? We check up",
+        "distance": 0.6005552411079407
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "5526203743777967165": {
+    "query_id": "5526203743777967165",
+    "query": "luxury all-inclusive Montego Bay resort",
+    "relevants": [
+      {
+        "relevant_doc": 879,
+        "relevant_url": "https://www.travelocity.com/Montego-Bay-Hotels-Secrets-Wild-Orchid-Montego-Bay-Luxury-All-Inclusive.h3141707.Hotel-Information"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 879,
+        "title": "About the Secrets Wild Orchid Montego Bay - Luxury All Inclusive",
+        "url": "https://www.travelocity.com/Montego-Bay-Hotels-Secrets-Wild-Orchid-Montego-Bay-Luxury-All-Inclusive.h3141707.Hotel-Information",
+        "combined_text": "About the Secrets Wild Orchid Montego Bay - Luxury All Inclusive \"Skip to main content 1Account Sign in to see exclusive Member Discount. Create an Account My Lists My Trips Support Home Vacation Packages Hotels Cars Flights Cruises Things to Do Discover Travel Deals Vacation Rentals Get Inspired Mobile See all hotels Montego Bay (and vicinity) • 1 Room Book onli",
+        "distance": 0.308174192905426
+      },
+      {
+        "id": 32,
+        "title": "South Carolina Beach Resorts",
+        "url": "https://www.tripadvisor.com/HotelsList-South_Carolina-Beach-Resorts-zfp3908.html",
+        "combined_text": "South Carolina Beach Resorts Wild Dunes Resort Show Prices4,351 reviews#1 Best Value of 1,162 hotels in South Carolina“ Perfect for Charleston stay, away from the crowds downtown, a little hidden gem! Units super clean and well decorated, great to be ableto walk to the beach as well as having pool options, just great ambiance -",
+        "distance": 0.5499013662338257
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "8536955236500706181": {
+    "query_id": "8536955236500706181",
+    "query": "tiger top running speed",
+    "relevants": [
+      {
+        "relevant_doc": 1593,
+        "relevant_url": "http://www.answers.com/Q/How_fast_can_a_tiger_run"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3818,
+        "title": "Can camels run fast?",
+        "url": "http://www.chacha.com/question/can-camels-run-fast",
+        "combined_text": "Can camels run fast? \"Anonymous Can camels run fast? Topics: Animals › Mammals › Camels Answer Laura Collins Yes about 25mph they are a fast runner, they can travel up to 80-100 miles/day.0 12 months ago Do you know the answer? Login or Sign Up to answer this question.data-config-site-section=\"\"chacha\"\">Related Camels Q",
+        "distance": 0.5538694262504578
+      },
+      {
+        "id": 1593,
+        "title": "How fast can a tiger run?",
+        "url": "http://www.answers.com/Q/How_fast_can_a_tiger_run",
+        "combined_text": "How fast can a tiger run? Answers.com ® Wiki Answers ® Categories Animal Life Mammals Land Mammals Cats (Felines) Wild Cats Tigers How fast can a tiger run? Flag How fast can a tiger run? Answer by Ericsturner Confidence votes 61Tigers are the heaviest of the big-cats, but are heavily muscled enough, to reach speeds capable",
+        "distance": 0.5650142431259155
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "814711663602548512": {
+    "query_id": "814711663602548512",
+    "query": "where do ny lottery proceeds go",
+    "relevants": [
+      {
+        "relevant_doc": 2090,
+        "relevant_url": "http://www.syracuse.com/news/index.ssf/2013/03/how_much_new_york_state_lotter.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2090,
+        "title": "Does the New York lottery money really go to schools?",
+        "url": "http://www.syracuse.com/news/index.ssf/2013/03/how_much_new_york_state_lotter.html",
+        "combined_text": "Does the New York lottery money really go to schools? Georgia Anchikites, on right, buying a mega millions ticket from Lisa Gray, left, at Rocky's, Syracuse, NY. By Dick Blume | dblume@syracuse.com Albany, NY - The New York State Lottery advertises that all proceeds go to the schools. Readers ask us again and again if that is true. Hey, you never know,",
+        "distance": 0.28850066661834717
+      },
+      {
+        "id": 3182,
+        "title": "New York State Volunteer Generation Fund 2016",
+        "url": "http://www.newyorkersvolunteer.ny.gov/VolunteerOrganizations/Overview.aspx",
+        "combined_text": "New York State Volunteer Generation Fund 2016 \"New York State Volunteer Generation Fund 2016New York is a state of contrasts. It is home to one of the largest cities in the world, nearly seven million acres of farmland and the largest state park in the country. While much of New York State's (NYS) strength lies in its diversity, the gap between",
+        "distance": 0.5612832903862
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "5125956773970453818": {
+    "query_id": "5125956773970453818",
+    "query": "reasons behind andrew johnson's impeachment",
+    "relevants": [
+      {
+        "relevant_doc": 1621,
+        "relevant_url": "https://www.nps.gov/anjo/learn/historyculture/impeachment.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1621,
+        "title": "The Impeachment of Andrew Johnson",
+        "url": "https://www.nps.gov/anjo/learn/historyculture/impeachment.htm",
+        "combined_text": "The Impeachment of Andrew Johnson The Impeachment of Andrew Johnson WHY WAS ANDREW JOHNSON IMPEACHED? The impeachment of President Andrew Johnson was a result of political conflict and the rupture of ideologies in the aftermath of the American Civil War. It rose from uncompromised beliefs and a contest for power in a nation struggli",
+        "distance": 0.20242956280708313
+      },
+      {
+        "id": 3580,
+        "title": "Why is impeachment part of the constitution?",
+        "url": "http://www.answers.com/Q/What_constitutes_a_impeachment",
+        "combined_text": "Why is impeachment part of the constitution? \"Sosobra 80 Contributions Why is impeachment part of the constitution? Answer The framers of the Constitution felt it was important for the people to have a way to peacefully remove individuals that were abusing their power. Keep in …Melissa Mac Farlane 176,164 Contributions Love theatre, art, trave",
+        "distance": 0.4534187614917755
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "2096251186893042488": {
+    "query_id": "2096251186893042488",
+    "query": "cells with membrane-bound nucleus",
+    "relevants": [
+      {
+        "relevant_doc": 3697,
+        "relevant_url": "https://en.wikibooks.org/wiki/Cell_Biology/Cell_types/Eukaryotes"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3697,
+        "title": "Cell Biology/Cell types/Eukaryotes",
+        "url": "https://en.wikibooks.org/wiki/Cell_Biology/Cell_types/Eukaryotes",
+        "combined_text": "Cell Biology/Cell types/Eukaryotes \"< Cell Biology | Cell typesnavigation search An animal Cell Eukaryotes house a distinct nucleus, a structure in which the genetic material (DNA) is contained, surrounded by a membrane much like the outer cell membrane. Eukaryotic cells are found in most algae, protozoa, all multicellular organisms",
+        "distance": 0.48548179864883423
+      },
+      {
+        "id": 3558,
+        "title": "Mastering Biology Chapter 6",
+        "url": "https://quizlet.com/21458814/mastering-biology-chapter-6-flash-cards/",
+        "combined_text": "Mastering Biology Chapter 6 48 terms tankisoernest Mastering Biology Chapter 6Learn Flashcards Write Spell Test Match Gravity Advertisement Upgrade to remove ads Like this study set? Create a free account to save it. Create a free account Maybe later Sort Cell Fractionation Used to seperate the major organelles so their specif",
+        "distance": 0.5741764307022095
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "9036170314383540556": {
+    "query_id": "9036170314383540556",
+    "query": "claire underwood power dressing",
+    "relevants": [
+      {
+        "relevant_doc": 794,
+        "relevant_url": "http://www.nydailynews.com/entertainment/house-cards-clothes-match-character-article-1.1724986"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 794,
+        "title": "On 'House of Cards,' the clothes match the character",
+        "url": "http://www.nydailynews.com/entertainment/house-cards-clothes-match-character-article-1.1724986",
+        "combined_text": "On 'House of Cards,' the clothes match the character \"On 'House of Cards,' the clothes match the character BY Lisa Marsh NEW YORK DAILY NEWS Tuesday, March 18, 2014, 2:00 AMfacebook Tweet email Robin Wright's character, Claire Underwood, has become the nation's Second Lady in \"\"House of Cards. \"\"Claire Underwood has redefined power dressing. The steel",
+        "distance": 0.3694966733455658
+      },
+      {
+        "id": 1402,
+        "title": "Karen's Story",
+        "url": "https://www.karenwillisholmes.com/wedding-dress-designer",
+        "combined_text": "Karen's Story Karen Willis Holmes is a renowned Australian designer, widely acclaimed in today's fashion marketplace for offering trend conscious women their perfect wedding gown. The KAREN WILLIS HOLMES brand has established a reputation for constantly exceeding customers' expectations both with the product and",
+        "distance": 0.5703392028808594
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-905182533673892634": {
+    "query_id": "-905182533673892634",
+    "query": "when to visit a kidney specialist",
+    "relevants": [
+      {
+        "relevant_doc": 1436,
+        "relevant_url": "http://www.kidneydoctorbradenton.org/2013/11/when-do-you-really-need-to-start-seeing.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1436,
+        "title": "Demystifying Kidney Disease for the Average Joe!",
+        "url": "http://www.kidneydoctorbradenton.org/2013/11/when-do-you-really-need-to-start-seeing.html",
+        "combined_text": "Demystifying Kidney Disease for the Average Joe! \"When do you really need to start seeing a nephrologist (a kidney doctor)? April 25, 2017I often call kidney disease the \"\"Rodney Dangerfield of Medicine\"\". It gets no respect! Well, outside of the medical community, the same could be said for nephrologists (to a certain extent)! No one is quite sur",
+        "distance": 0.33704081177711487
+      },
+      {
+        "id": 2046,
+        "title": "Nephrology",
+        "url": "https://en.wikipedia.org/wiki/Nephrology",
+        "combined_text": "Nephrology \"From Wikipedia, the free encyclopedianavigation search Nephrology A human kidney (click on image for description). System Urinary Significant diseases Hypertension, Kidney cancer Significant tests Kidney biopsy, Urinalysis Specialist Nephrologist Nephrology (from Greek nephros \"\" kidney \"\", combine",
+        "distance": 0.5283145904541016
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "3267503459401040765": {
+    "query_id": "3267503459401040765",
+    "query": "phone number for holiday inn booking",
+    "relevants": [
+      {
+        "relevant_doc": 2464,
+        "relevant_url": "http://tollfreecontactnumber.com/category/reservations-phone-number-1-800/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2464,
+        "title": "Holiday Inn & Holiday Inn Express 1-800 Toll Free Reservations",
+        "url": "http://tollfreecontactnumber.com/category/reservations-phone-number-1-800/",
+        "combined_text": "Holiday Inn & Holiday Inn Express 1-800 Toll Free Reservations Holiday Inn & Holiday Inn Express 1-800 Toll Free Reservations Posted on July 21, 2017Reply Holiday Inn & Holiday Inn Express Call Center Phone Number: 888-653-4858A toll free phone number for Holiday Inn & Holiday Inn 1-800 Toll Free Reservations is 888-653-4858. Call now to make your reservations.",
+        "distance": 0.17549969255924225
+      },
+      {
+        "id": 220,
+        "title": "Contact Hotel Travel.com",
+        "url": "http://www.hoteltravel.com/switzerland/lucerne/currency-of-lucerne.htm",
+        "combined_text": "Contact Hotel Travel.com \"Contact Hotel Travel.com If you would like to amend, cancel or check the status of your booking Hotel Travel.com is also available to assist you by telephone and live chat. While our English speaking Customer Service Agents are available to assist you 24 hours 7 days a week, please refer to the inf",
+        "distance": 0.4761289954185486
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-4212487482012053358": {
+    "query_id": "-4212487482012053358",
+    "query": "nashville efforts to end chronic homelessness",
+    "relevants": [
+      {
+        "relevant_doc": 205,
+        "relevant_url": "http://www.nashville.gov/Social-Services/Homelessness-Commission.aspx"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 205,
+        "title": "Metropolitan Homelessness Commission",
+        "url": "http://www.nashville.gov/Social-Services/Homelessness-Commission.aspx",
+        "combined_text": "Metropolitan Homelessness Commission Metropolitan Homelessness Commission Homelessness Commission launches How's Nashville campaign The Metropolitan Homelessness Commission launched a community campaign called How's Nashville to end chronic homelessness. Read More Partnership between MDHA and Homelessness Commission MDHA is partnering",
+        "distance": 0.40011659264564514
+      },
+      {
+        "id": 4155,
+        "title": "Homelessness Among Veterans: Self-Inflicted or Government Betrayal?",
+        "url": "http://www.veteranstoday.com/2013/09/02/homelessness-among-veterans-self-inflicted-or-government-betrayal/",
+        "combined_text": "Homelessness Among Veterans: Self-Inflicted or Government Betrayal? Veterans News Veterans Administration (VA)Homelessness Among Veterans: Self-Inflicted or Government Betrayal? By VT - September 2, 2013 21514Introduction Homelessness among veterans is a major problem in United States. There are programs and services to help veterans, but these efforts are inadequat",
+        "distance": 0.4668099880218506
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "6252991276069255254": {
+    "query_id": "6252991276069255254",
+    "query": "when did oklahoma join the union",
+    "relevants": [
+      {
+        "relevant_doc": 3951,
+        "relevant_url": "http://www.answers.com/Q/When_did_Oklahoma_become_a_state"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3951,
+        "title": "When did Oklahoma become a US state?",
+        "url": "http://www.answers.com/Q/When_did_Oklahoma_become_a_state",
+        "combined_text": "When did Oklahoma become a US state? Answers.com ® Wiki Answers ® Categories Travel & Places Countries, States, and Cities United States of America Oklahoma When did Oklahoma become a US state? Flag When did Oklahoma become a US state? Answer by USCitizen Confidence votes 254KOklahoma became the 46th US State on Saturday, November 16,",
+        "distance": 0.49578857421875
+      },
+      {
+        "id": 1855,
+        "title": "PORTER, WAGONER COUNTY, GREEN COUNTRY, OKLAHOMA LAND FOR SALE: 1 - 15 of 19 listings",
+        "url": "http://www.landwatch.com/Oklahoma_land_for_sale/Porter",
+        "combined_text": "PORTER, WAGONER COUNTY, GREEN COUNTRY, OKLAHOMA LAND FOR SALE: 1 - 15 of 19 listings \"PORTER, WAGONER COUNTY, GREEN COUNTRY, OKLAHOMA LAND FOR SALE: 1 - 15 of 19 listings Showcase Properties90 Acres $3,250,000Wagoner, Wagoner County, OKThe Luxury Resort and Spa formerly known as The Canebrake is situated on 90 +/- ... View Details New Advertising Opportunity Reach a larger audience",
+        "distance": 0.6204238533973694
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-7180125349822366886": {
+    "query_id": "-7180125349822366886",
+    "query": "what creates light pollution",
+    "relevants": [
+      {
+        "relevant_doc": 2333,
+        "relevant_url": "http://helpsavenature.com/causes-of-light-pollution"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2333,
+        "title": "Causes of Light Pollution",
+        "url": "http://helpsavenature.com/causes-of-light-pollution",
+        "combined_text": "Causes of Light Pollution Causes of Light Pollution We all are aware about air, water and noise pollution but light pollution is an issue that isn't given much attention and we quickly dismiss it as an issue which impacts astronomers. In this article we will learn about the global menace of light pollution and will do some f",
+        "distance": 0.24263811111450195
+      },
+      {
+        "id": 1812,
+        "title": "Why do plants not absorb green light?",
+        "url": "https://answers.yahoo.com/question/index?qid=20100216080804AAaUd9G",
+        "combined_text": "Why do plants not absorb green light? \"Science & Mathematics Botany Why do plants not absorb green light? Would a plant not be more efficient if it could absorb all light rays. I would imagine that in a rain-forest the top layer gets enough sunlight but the bottom layer, or the ground vegetation, only receive the green light and the lit",
+        "distance": 0.5288726687431335
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "1327289990035927041": {
+    "query_id": "1327289990035927041",
+    "query": "metformin sitagliptin combination uses and safety",
+    "relevants": [
+      {
+        "relevant_doc": 3673,
+        "relevant_url": "http://www.medicinenet.com/metformin_and_sitagliptin/article.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3673,
+        "title": "metformin and sitagliptin",
+        "url": "http://www.medicinenet.com/metformin_and_sitagliptin/article.htm",
+        "combined_text": "metformin and sitagliptin Type 2 Diabetes: Learn the Warning Signs Diabetes Friendly Dining Type 2 Diabetes: Test Your Medical IQWhat is metformin and sitagliptin, and how does it work (mechanism of action)? What brand names are available for metformin and sitagliptin? Is metformin and sitagliptin available as a generic drug",
+        "distance": 0.4251970052719116
+      },
+      {
+        "id": 3354,
+        "title": "Methotrexate",
+        "url": "https://en.wikipedia.org/wiki/Methotrexate",
+        "combined_text": "Methotrexate \"Methotrexate From Wikipedia, the free encyclopedianavigation search\"\"Amethopterin\"\" redirects here. It is not to be confused with Aminopterin. Methotrexate Clinical data Pronunciation / ˌ m ɛ θ ə ˈ t r ɛ k ˌ s eɪ t, ˌ m iː -, - θ oʊ -/ ( listen) [2] [3] [4]Trade names Trexall, Rheumatrex, others [1",
+        "distance": 0.6554762721061707
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-71958734461026929": {
+    "query_id": "-71958734461026929",
+    "query": "hand numbness causes besides typing",
+    "relevants": [
+      {
+        "relevant_doc": 175,
+        "relevant_url": "http://www.ergoblog.com/2009/05/b12-deficiency-can-cause-numbness-tingling-in-hands-among-other-symptoms.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 175,
+        "title": "Ergoblog",
+        "url": "http://www.ergoblog.com/2009/05/b12-deficiency-can-cause-numbness-tingling-in-hands-among-other-symptoms.html",
+        "combined_text": "Ergoblog \"« Laptops vs. Ergonomics | Main | Writing Fiction with Voice Recognition Software? »B-12 Deficiency Can Cause Numbness & Tingling in Hands (Among Other Symptoms)I'm always interested in causes behind symptoms that often get lumped in under \"\"repetitive stress injuries\"\" (RSI). We blame typing and p",
+        "distance": 0.3907946050167084
+      },
+      {
+        "id": 2456,
+        "title": "Tremor",
+        "url": "https://www.drugs.com/symptom/tremor-4.html",
+        "combined_text": "Tremor \"Tremor The most common cause of tremors in the hands that decreases with use and increases in certain positions is \"\"essential tremor\"\" (ET), a condition that affects up to 5% of the population. It's thought to develop as a result of abnormal activity in a deep part of the brain, called the brain s",
+        "distance": 0.448748916387558
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-726503382171051464": {
+    "query_id": "-726503382171051464",
+    "query": "which jet sounds loudest without afterburners",
+    "relevants": [
+      {
+        "relevant_doc": 2873,
+        "relevant_url": "http://forums.airshows.co.uk/viewtopic.php?f=2&t=3560"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2873,
+        "title": "loudest plane without afterburners",
+        "url": "http://forums.airshows.co.uk/viewtopic.php?f=2&t=3560",
+        "combined_text": "loudest plane without afterburners \"loudest plane without afterburnersloudest plane without afterburners Tue 25 Nov 2008, 4:35 pm Hi all whats the loudest plane without afterburners? Re: loudist plane without afterburners Tue 25 Nov 2008, 4:47 pm I know it's not the loudest but many years ago I was at Brize and a visiting Jet Provost",
+        "distance": 0.1866140514612198
+      },
+      {
+        "id": 1049,
+        "title": "Speedbird 9 Suffers Quadruple Flameout",
+        "url": "http://deicinginnovations.com/?p=2765",
+        "combined_text": "Speedbird 9 Suffers Quadruple Flameout Speedbird 9 Suffers Quadruple Flameout June 24, 2015 By Mike On June 24, 1982, a British Airways Boeing 747 on a scheduled flight with multiple legs from London to Auckland flew through a cloud of volcanic ash in Indonesia, resulting in the failure of all four engines. At approximately 20:40 local t",
+        "distance": 0.6541998386383057
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-3734793355842300677": {
+    "query_id": "-3734793355842300677",
+    "query": "book shinkansen after arriving Narita or Haneda",
+    "relevants": [
+      {
+        "relevant_doc": 149,
+        "relevant_url": "http://www.eki-net.com/pc/jreast-shinkansen-reservation/English/wb/Common/faq/faq.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1922,
+        "title": "25 Things To Do in Tokyo, Japan (Watch This Before You Go)",
+        "url": "http://www.youtube.com/watch?v=lDoLLhswOwY",
+        "combined_text": "25 Things To Do in Tokyo, Japan (Watch This Before You Go) 25 Things To Do in Tokyo, Japan (Watch This Before You Go)Mark Wiens Subscribe 1.7MAdd to Share More4,291,998 views54,7781,919Published on Mar 30, 2014Get info about things to do, where to stay, and the best food to eat on your visit to Tokyo, Japan. Here's the guide: https://migrationology.com/toky",
+        "distance": 0.6094193458557129
+      },
+      {
+        "id": 786,
+        "title": "247th G-View: Mikagura Gakuen Kumikyoku",
+        "url": "https://yurination.wordpress.com/2015/06/24/247th-g-view-mikagura-gakuen-kumikyoku/",
+        "combined_text": "247th G-View: Mikagura Gakuen Kumikyoku \"This show reminded me of Dog Days season 2. Whether that’s good or bad readers will have to find out as we take a look at Mikagura Gakuen Kumikyoku. Alternate Title: Mikagura Academy Suite Genres: Comedy, Slice of Life, Supernatural, School Life Themes: School Clubs, Yuri Number of episodes: 12G-Ra",
+        "distance": 0.6670722365379333
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-3533200285386686": {
+    "query_id": "-3533200285386686",
+    "query": "ways to add antioxidant-rich foods",
+    "relevants": [
+      {
+        "relevant_doc": 3973,
+        "relevant_url": "http://www.wikihow.com/Eat-More-Foods-Rich-in-Antioxidants"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3973,
+        "title": "How to Eat More Foods Rich in Antioxidants",
+        "url": "http://www.wikihow.com/Eat-More-Foods-Rich-in-Antioxidants",
+        "combined_text": "How to Eat More Foods Rich in Antioxidants Edit Article How to Eat More Foods Rich in Antioxidants Four Methods: Follow the 5-a-Day Program Go Beyond Fruits and Vegetables Drink Your Antioxidants Make Eating Antioxidant-Rich Foods Convenient Community Q&AAntioxidants are the latest media nutrition darling for superb health benefits. Some foo",
+        "distance": 0.3306567072868347
+      },
+      {
+        "id": 528,
+        "title": "25 Best Foods For Your Skin",
+        "url": "https://www.prevention.com/beauty/25-best-foods-for-your-skin",
+        "combined_text": "25 Best Foods For Your Skin 1/26 Lew Robertson/Getty Images You already know that filling your diet with power foods—like dark leafy greens, dark chocolate, citrus—can help beat chronic conditions like heart disease and diabetes. But did you know that certain foods can also work wonders on your skin?“There’s a growing body of",
+        "distance": 0.5255691409111023
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-290979239442577395": {
+    "query_id": "-290979239442577395",
+    "query": "how long germs survive on surfaces",
+    "relevants": [
+      {
+        "relevant_doc": 3273,
+        "relevant_url": "http://sciencenetlinks.com/science-news/science-updates/germy-surfaces/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3273,
+        "title": "Germy Surfaces",
+        "url": "http://sciencenetlinks.com/science-news/science-updates/germy-surfaces/",
+        "combined_text": "Germy Surfaces \"Photo Credit: Lucille Pine (CC BY-NC-ND 2.0), via Flickr.play stop mute00:00 00:00If your brother or sister gets a cold, there’s a good chance that you’ll pick up the same bug—either directly or from something he or she touched or sneezed on. In this Science Update, you’ll find out how long a germ",
+        "distance": 0.45748117566108704
+      },
+      {
+        "id": 97,
+        "title": "Great white sharks 'live for 70 years'",
+        "url": "http://www.bbc.co.uk/news/science-environment-25655666",
+        "combined_text": "Great white sharks 'live for 70 years' \"Great white sharks 'live for 70 years'By Jonathan Amos Science correspondent, BBC News9 January 2014Share Greg Skomal / MA Marine Fisheries Knowing how long a species takes to get to maturity is critical conservation information Great white sharks live far longer than was previously thought. Using",
+        "distance": 0.6454461812973022
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-7196038989535548487": {
+    "query_id": "-7196038989535548487",
+    "query": "walk-in flu shots no appointment",
+    "relevants": [
+      {
+        "relevant_doc": 1626,
+        "relevant_url": "https://www.heb.com/pharmacy/services/immunizations.jsp"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2994,
+        "title": "Carle Flu Clinic",
+        "url": "https://carle.org/services/Flu",
+        "combined_text": "Carle Flu Clinic Protect Yourself From the Flu With the increase in influenza in our community, we join public health officials in encouraging flu shots while the vaccine is available. Supply will continue to be limited as the flu season continues. We remind patients to call ahead to the provider’s office to check a",
+        "distance": 0.4602391719818115
+      },
+      {
+        "id": 1626,
+        "title": "Immunizations",
+        "url": "https://www.heb.com/pharmacy/services/immunizations.jsp",
+        "combined_text": "Immunizations Immunizations demonstrate our commitment to being the health and wellness destination of choice for Texans. With flexible payment options and no appointments necessary, we're always here to help. Walk-ins welcome. 1Flu shots available during regular pharmacy hours. Flu- no prescription needed for ag",
+        "distance": 0.460723876953125
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "1267096660524331921": {
+    "query_id": "1267096660524331921",
+    "query": "grieving mothers endorse Clinton at DNC",
+    "relevants": [
+      {
+        "relevant_doc": 3016,
+        "relevant_url": "https://www.cnn.com/2016/07/26/politics/mothers-movement-dnc-hillary-clinton/index.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3016,
+        "title": "'Mothers of the Movement' makes case for Hillary Clinton",
+        "url": "https://www.cnn.com/2016/07/26/politics/mothers-movement-dnc-hillary-clinton/index.html",
+        "combined_text": "'Mothers of the Movement' makes case for Hillary Clinton \"'Mothers of the Movement' makes case for Hillary Clinton By Eric Bradner and Eugene Scott, CNNUpdated 9:48 PM ET, Tue July 26, 2016JUST WATCHEDMothers take stage at DNC to 'Black Lives Matter' chant Replay MUST WATCHBernie Sanders gets emotional at DNC roll call Elizabeth Banks mocks Trump's conven",
+        "distance": 0.3959059715270996
+      },
+      {
+        "id": 2294,
+        "title": "40 Hilarious Memes That Moms Will Love",
+        "url": "http://redtri.com/mom-memes-that-will-crack-you-up/",
+        "combined_text": "40 Hilarious Memes That Moms Will Love \"Mom memes are the antidote for a tough day of parenting (or even an average one), and we’re betting there’s a few out there you can really relate to. From “Yes! This happened to me five minutes ago!” to out-and-out guffaws because it happens every night, lock yourself in the bathroom and scroll thr",
+        "distance": 0.6505969166755676
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "7235884972453564877": {
+    "query_id": "7235884972453564877",
+    "query": "body system that transports oxygen and nutrients",
+    "relevants": [
+      {
+        "relevant_doc": 903,
+        "relevant_url": "http://www.answers.com/Q/What_body_system_is_responsible_for_carrying_oxygen_and_nutrients_to_the_body_systems"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 903,
+        "title": "What body system distributes oxygen and nutrients?",
+        "url": "http://www.answers.com/Q/What_body_system_is_responsible_for_carrying_oxygen_and_nutrients_to_the_body_systems",
+        "combined_text": "What body system distributes oxygen and nutrients? \"Ringo Lyvingstone 55 Contributions Answered In Science What body system distributes oxygen and nutrients? The Circulatory System (i.e. the blood system). Mac Kenzie Wade 16 Contributions Answered In Human Anatomy and Physiology Which body system carries nutrients and wastes throughout the body? The",
+        "distance": 0.27506375312805176
+      },
+      {
+        "id": 3120,
+        "title": "Overview of the Circulatory System",
+        "url": "https://courses.lumenlearning.com/boundless-biology/chapter/overview-of-the-circulatory-system/",
+        "combined_text": "Overview of the Circulatory System The Role of the Circulatory System The circulatory systems is a network of blood vessels supplying the body with oxygen and nutrients, while removing carbon dioxide and waste. Learning Objectives Describe the basic properties of the circulatory systems Key Takeaways Key Points The heart is central t",
+        "distance": 0.3553650379180908
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "7480524582057420292": {
+    "query_id": "7480524582057420292",
+    "query": "how csf circulates in the brain",
+    "relevants": [
+      {
+        "relevant_doc": 2498,
+        "relevant_url": "http://www.internalizemedicine.com/2012/02/circulation-of-cerebrospinal-fluid-csf.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2498,
+        "title": "Circulation of Cerebrospinal Fluid (CSF)",
+        "url": "http://www.internalizemedicine.com/2012/02/circulation-of-cerebrospinal-fluid-csf.html",
+        "combined_text": "Circulation of Cerebrospinal Fluid (CSF) Feb042012Circulation of Cerebrospinal Fluid (CSF)By Internalize Medicine in Anatomy, Medicine, Mnemonic, Neurology The flow of CSF through the Central Nervous System is important to understand for the many conditions that can affect it including hydrocephalus, infections, masses, or bleeds. I have c",
+        "distance": 0.33469659090042114
+      },
+      {
+        "id": 1641,
+        "title": "Protection of the Brain",
+        "url": "https://www.boundless.com/physiology/textbooks/boundless-anatomy-and-physiology-textbook/central-nervous-system-12/protection-of-the-brain-116/ventricles-636-9194/",
+        "combined_text": "Protection of the Brain Blood-Brain Barrier Tight junctions present in the blood-brain barrier separate circulating blood from cerebrospinal fluid, regulating diffusion into the brain. Learning Objectives Describe the function of the blood-brain barrier Key Takeaways Key Points The blood – brain barrier (BBB) endothelial c",
+        "distance": 0.5175765156745911
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-188964432730606241": {
+    "query_id": "-188964432730606241",
+    "query": "ancient exposed precambrian rock region canada",
+    "relevants": [
+      {
+        "relevant_doc": 2989,
+        "relevant_url": "https://en.wikipedia.org/wiki/Canadian_Shield"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2989,
+        "title": "Canadian Shield",
+        "url": "https://en.wikipedia.org/wiki/Canadian_Shield",
+        "combined_text": "Canadian Shield \"From Wikipedia, the free encyclopedianavigation search Canadian Shield Stratigraphic range: Precambrian Had'n Archean Proterozoic Pha. Type Shield Unit of North American craton Sub-units Laurentian Upland Kazan [1]Area 8 000 000 km 2 [2]Location Region North America Country Canada United States The",
+        "distance": 0.4289543926715851
+      },
+      {
+        "id": 1872,
+        "title": "Oldest fossils on Earth discovered in 3.7bn-year-old Greenland rocks",
+        "url": "https://www.theguardian.com/science/2016/aug/31/oldest-fossils-on-earth-discovered-in-37bn-year-old-greenland-rocks-stromatolites",
+        "combined_text": "Oldest fossils on Earth discovered in 3.7bn-year-old Greenland rocks Fossils Oldest fossils on Earth discovered in 3.7bn-year-old Greenland rocks Fossils are 220 million years older than any previously found, dating life on Earth to an earlier point than thought and raising questions about life on Mars Nicola Davis@Nicola KSDavis Wed 31 Aug 2016 13.00 EDT15.45 ESTThi",
+        "distance": 0.5781759023666382
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-5222693242873164475": {
+    "query_id": "-5222693242873164475",
+    "query": "how oracle sql patches work",
+    "relevants": [
+      {
+        "relevant_doc": 3423,
+        "relevant_url": "https://blogs.oracle.com/optimizer/entry/additional_information_on_sql_patches"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3423,
+        "title": "Additional Information on SQL Patches",
+        "url": "https://blogs.oracle.com/optimizer/entry/additional_information_on_sql_patches",
+        "combined_text": "Additional Information on SQL Patches Share Facebook Linked In Twitter Google Plus Email Comment Additional Information on SQL Patches By: Guest Author Our last post on SQL patches generated a lot of comments and questions. Today I will address a couple of questions that are quick to answer. For those that require more discussion, we'll",
+        "distance": 0.41961678862571716
+      },
+      {
+        "id": 357,
+        "title": "Where I can find the tnsnames.ora file for my Oracle Windows client? [duplicate]",
+        "url": "https://dba.stackexchange.com/questions/45204/where-i-can-find-the-tnsnames-ora-file-for-my-oracle-windows-client",
+        "combined_text": "Where I can find the tnsnames.ora file for my Oracle Windows client? [duplicate] _Database Administrators Stack Exchange is a question and answer site for database professionals who wish to improve their database skills and learn from others in the community. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best an",
+        "distance": 0.7105306386947632
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-7549311530425494764": {
+    "query_id": "-7549311530425494764",
+    "query": "pregnancy symptoms and baby milestones",
+    "relevants": [
+      {
+        "relevant_doc": 330,
+        "relevant_url": "https://www.thebump.com/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 330,
+        "title": "PREGNANCY SYMPTOMS FROM A-Z",
+        "url": "https://www.thebump.com/",
+        "combined_text": "PREGNANCY SYMPTOMS FROM A-Z Previous PARTNERS & LOVED ONESExcited to welcome a new baby into the family? Learn how you can help (without stepping on any toes!). PREGNANCY WEEK BY WEEKGet updates on baby's development, decode your pregnancy symptoms and see your weekly to-dos. BABY MONTH BY MONTHLearn about baby's milestones at",
+        "distance": 0.48556435108184814
+      },
+      {
+        "id": 2163,
+        "title": "Timeline of a Breastfed Baby",
+        "url": "http://www.thealphaparent.com/2011/12/timeline-of-breastfed-baby.html",
+        "combined_text": "Timeline of a Breastfed Baby Timelines Timeline of a Breastfed Baby By Alpha Parent - January 14, 2018 045217All babies reach milestones on their own developmental timeline. A multitude of factors influence the rate of each baby’s individual growth such as genetics, form of delivery, gestation at delivery, medical issues, effec",
+        "distance": 0.5638024210929871
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-387931727355275948": {
+    "query_id": "-387931727355275948",
+    "query": "internal medicine doctor Grace Cho Cooper",
+    "relevants": [
+      {
+        "relevant_doc": 1322,
+        "relevant_url": "http://www.cooperhealth.org/physicians/grace-s-cho-md"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1322,
+        "title": "Find a Doctor",
+        "url": "http://www.cooperhealth.org/physicians/grace-s-cho-md",
+        "combined_text": "Find a Doctor Grace S. Cho, MD, FACPDepartments: Internal Medicine Primary Care at Cooper Departmental Title: Internal Medicine Physician Primary Care Physician Academic Title: Assistant Professor of Medicine Board Certification: Internal Medicine Medical Group: Cooper University Physician Medical School: Medical",
+        "distance": 0.3275296092033386
+      },
+      {
+        "id": 0,
+        "title": "Overview",
+        "url": "https://health.usnews.com/doctors/david-manning-967598",
+        "combined_text": "Overview Overview Dr. David Manning is an orthopedic surgeon in Chicago, Illinois and is affiliated with Northwestern Memorial Hospital. He received his medical degree from Georgetown University School of Medicine and has been in practice between 11-20 years. Dr. Manning accepts several types of health insur",
+        "distance": 0.5576201677322388
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "3902800277770564616": {
+    "query_id": "3902800277770564616",
+    "query": "is Himalayan red honey toxic",
+    "relevants": [
+      {
+        "relevant_doc": 2144,
+        "relevant_url": "http://healthywithhoney.com/himalayan-red-honey-aka-mad-toxic-hallucinogenic-honey-from-nepal/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2144,
+        "title": "Himalayan Red Honey â aka mad, toxic, hallucinogenic honey from Nepal.",
+        "url": "http://healthywithhoney.com/himalayan-red-honey-aka-mad-toxic-hallucinogenic-honey-from-nepal/",
+        "combined_text": "Himalayan Red Honey â aka mad, toxic, hallucinogenic honey from Nepal. Himalayan Red Honey – aka mad, toxic, hallucinogenic honey from Nepal. Home Himalayan red honey Mad honey Toxic honey Himalayan Red Honey – aka mad, toxic, hallucinogenic honey from Nepal. It’s a tough world! And searching for something, anything, that makes us happier is a normal thing. The reputat",
+        "distance": 0.17418596148490906
+      },
+      {
+        "id": 931,
+        "title": "Eat Garlic and Honey on an Empty Stomach for 7 Days and THIS WILL Happen To Your Body!",
+        "url": "http://bloggersarena.com/health/Eat-Garlic-and-Honey-on-an-Empty-Stomach-for-7-Days-and-THIS/",
+        "combined_text": "Eat Garlic and Honey on an Empty Stomach for 7 Days and THIS WILL Happen To Your Body! Eat Garlic and Honey on an Empty Stomach for 7 Days and THIS WILL Happen To Your Body!Garlic and Honey may seem like odd ingredients to put together, but combining them results in an impressive immune-boosting substance that will keep your body healthy and strong.#8 Garlic – A food Ingredient Garlic",
+        "distance": 0.6855081915855408
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-2975555881301060026": {
+    "query_id": "-2975555881301060026",
+    "query": "accessible spa hotel Salou Costa Dorada",
+    "relevants": [
+      {
+        "relevant_doc": 96,
+        "relevant_url": "http://www.disabledaccessholidays.com/disabled-holidays/wheelchair-accessible-accommodation/Spain_Golden_Port_Salou_Hotel_&_Spa.asp"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 96,
+        "title": "HOLIDAYS FOR THE DISABLED - SALOU,COSTA DORADA,SPAIN - GOLDEN PORT SALOU HOTEL & SPA",
+        "url": "http://www.disabledaccessholidays.com/disabled-holidays/wheelchair-accessible-accommodation/Spain_Golden_Port_Salou_Hotel_&_Spa.asp",
+        "combined_text": "HOLIDAYS FOR THE DISABLED - SALOU,COSTA DORADA,SPAIN - GOLDEN PORT SALOU HOTEL & SPA HOLIDAYS FOR THE DISABLED - SALOU,COSTA DORADA,SPAIN - GOLDEN PORT SALOU HOTEL & SPADisabled Holidays > Destinations > Atol Holidays > Spain > Costa Dorada > Salou > Golden Port Salou Hotel & Spa Search for another accessible hotel in Costa Dorada, Spain Golden Port Salou Hotel & Spa, Salou, Costa D",
+        "distance": 0.27572473883628845
+      },
+      {
+        "id": 1318,
+        "title": "Palm Harbor Hotels",
+        "url": "https://www.tripadvisor.com/Hotels-g34535-Palm_Harbor_Florida-Hotels.html",
+        "combined_text": "Palm Harbor Hotels Innisbrook, A Salamander Golf & Spa Resort Show Prices1,106 reviews#1 Best Value of 7 places to stay in Palm Harbor Free Wifi Free Parking Hotel website Special offer Sherwood Forest RV Park Show Prices Cabin/Campground18 reviews#2 Best Value of 7 places to stay in Palm Harbor Vista Hotel on Lake Ta",
+        "distance": 0.5347902774810791
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-7540275141885339161": {
+    "query_id": "-7540275141885339161",
+    "query": "how relationships affect success and happiness",
+    "relevants": [
+      {
+        "relevant_doc": 1163,
+        "relevant_url": "http://www.thomasnelson.com/the-people-factor"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1163,
+        "title": "The People Factor",
+        "url": "http://www.thomasnelson.com/the-people-factor",
+        "combined_text": "The People Factor \"Product Description Additional Information Reviews The relationships in your life will make the difference between happiness and misery. The right relationship will launch you to the heights of achievement; the wrong one will tether you to mediocrity. Your relationships will be your sources of grea",
+        "distance": 0.3912985920906067
+      },
+      {
+        "id": 2955,
+        "title": "25 Benefits To Living A Married Life",
+        "url": "http://list25.com/25-benefits-to-living-a-married-life/",
+        "combined_text": "25 Benefits To Living A Married Life Miscellaneous25 Benefits To Living A Married Life Posted by Juan Castillo, Updated on October 18, 2016Shares5652 4Some people believe that being single is more fun than being married. One of the most common reasons why some people choose to stay single is the lure of a free lifestyle with no one to",
+        "distance": 0.6269581913948059
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-4535855000572387279": {
+    "query_id": "-4535855000572387279",
+    "query": "meaning of beaner slur",
+    "relevants": [
+      {
+        "relevant_doc": 1556,
+        "relevant_url": "http://www.answers.com/Q/What_is_a_%27beaner%27"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1556,
+        "title": "What is a 'beaner'?",
+        "url": "http://www.answers.com/Q/What_is_a_%27beaner%27",
+        "combined_text": "What is a 'beaner'? \"Answers.com ® Wiki Answers ® Categories Literature & Language Languages and Cultures English Language Definitions What is a 'beaner'? Flag What is a 'beaner'? Answer by Notyouraveragedummy ... Confidence votes 160KA beaner is an insulting term for an illegal alien, usually from Mexico, but they cou",
+        "distance": 0.49172911047935486
+      },
+      {
+        "id": 3705,
+        "title": "tuberous sclerosis",
+        "url": "http://medical-dictionary.thefreedictionary.com/tuberous+sclerosis",
+        "combined_text": "tuberous sclerosis \"tuberous sclerosis Also found in: Dictionary, Thesaurus, Acronyms, Encyclopedia, Wikipedia .sclerosis [ sklĕ-ro´sis] an induration or hardening, especially of a part from inflammation, or in disease of the interstitialsubstance. The term is used chiefly for such a hardening of the nervous system du",
+        "distance": 0.6900495290756226
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "2014762569863901176": {
+    "query_id": "2014762569863901176",
+    "query": "celebrity trainer belly fat tips",
+    "relevants": [
+      {
+        "relevant_doc": 2884,
+        "relevant_url": "http://www.shape.com/celebrities/star-trainers/ask-celebrity-trainer-how-can-i-get-rid-love-handles"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2884,
+        "title": "How to Get Rid of Love Handles",
+        "url": "http://www.shape.com/celebrities/star-trainers/ask-celebrity-trainer-how-can-i-get-rid-love-handles",
+        "combined_text": "How to Get Rid of Love Handles \"Let's be real: no matter how confident we feel, we still worry about them—a celebrity trainer shares the real secret to burning belly fat and losing love... Joe Dowdell, CSCSTopics: alcohol, ask the celebrity trainer, belly fat, breakfast, stress, fat burning Shutterstock Q: How can I get rid of lo",
+        "distance": 0.32092854380607605
+      },
+      {
+        "id": 311,
+        "title": "10 Stylish Ways to Hide Your Beer Belly",
+        "url": "http://www.complex.com/style/2013/08/ways-to-hide-beer-belly/",
+        "combined_text": "10 Stylish Ways to Hide Your Beer Belly \"10 Stylish Ways to Hide Your Beer Belly By Jian De Leon Jian De Leon is a former editor at Complex. More info: Twitter / Google+. Aug 04, 2013Share Tweet Some guys push weight, and others just carry it around. While heavyset dudes have a different set of rules for looking good, there's some crossov",
+        "distance": 0.45336923003196716
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-7602394159290865859": {
+    "query_id": "-7602394159290865859",
+    "query": "current weather conditions fall city washington",
+    "relevants": [
+      {
+        "relevant_doc": 705,
+        "relevant_url": "http://www.usa.com/fall-city-wa-weather.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 705,
+        "title": "Fall City, WA Weather",
+        "url": "http://www.usa.com/fall-city-wa-weather.htm",
+        "combined_text": "Fall City, WA Weather USA.com / Washington / King County / Fall City, WA / Weather Fall City, WA Weather Basic Info Population/Races Income/Careers Housing Education Others Weather | Natural Extremes | Air Quality | Environmental Watch Hot Rankings Fastest / Slowest Growing Cities Nearby Best / Worst Cities by Crime Rate",
+        "distance": 0.4048980176448822
+      },
+      {
+        "id": 1637,
+        "title": "Regional Weather & Seasons",
+        "url": "https://www.allmccall.com/weather/",
+        "combined_text": "Regional Weather & Seasons With an average of 174 inches of beautiful powder in the winter and pleasantly warm and sunny days in the summer, Mc Call weather makes this the perfect outdoor recreation destination year round. Overview Mc Call ID weather is great for the outdoor enthusiast. Late spring through early fall brings p",
+        "distance": 0.5763099193572998
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-896876405886309702": {
+    "query_id": "-896876405886309702",
+    "query": "books Darwin carried on the Beagle",
+    "relevants": [
+      {
+        "relevant_doc": 2439,
+        "relevant_url": "http://darwin-online.org.uk/BeagleLibrary/Beagle_Library_Introduction.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2439,
+        "title": "Charles Darwin's Beagle library",
+        "url": "http://darwin-online.org.uk/BeagleLibrary/Beagle_Library_Introduction.htm",
+        "combined_text": "Charles Darwin's Beagle library \"Charles Darwin's Beagle library\"\"books; those most valuable of all valuable things\"\" Darwin to Catherine Darwin 1833The voyage of the Beagle (1831-1836) was one of the most important scientific expeditions in history. On board was the young naturalist Charles Darwin. His investigations would change",
+        "distance": 0.22790035605430603
+      },
+      {
+        "id": 2592,
+        "title": "Biology: How Life Works: w/LaunchPad (24 month access)",
+        "url": "https://www.valorebooks.com/textbooks/biology-how-life-works-wlaunchpad-24-month-access-first-editionth-edition/9781464138263",
+        "combined_text": "Biology: How Life Works: w/LaunchPad (24 month access) Books Biology: How Life Works: w/Launch Pad (24 month access)Biology: How Life Works: w/Launch Pad (24 month access)by Naomi Pierce, Robert A. Lue, Andrew Biewener, James R. Morris, Andrew Berry, Brian Farrell, N. Michele Holbrook, Daniel L. Hartl,Andrew H. Knoll,Alain Viel Recommend this!Marketplac",
+        "distance": 0.6548725962638855
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-4903183424396896973": {
+    "query_id": "-4903183424396896973",
+    "query": "name for a seven-sided shape",
+    "relevants": [
+      {
+        "relevant_doc": 3730,
+        "relevant_url": "http://www.answers.com/Q/What_polygon_has_7_sides"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3730,
+        "title": "What is 7 sides polygon called?",
+        "url": "http://www.answers.com/Q/What_polygon_has_7_sides",
+        "combined_text": "What is 7 sides polygon called? David Gambell 112,042 Contributions Answered In Math and Arithmetic What is 7 sides polygon called? An heptagon and sometimes called a septagon Answered In Geometry What do you call the 7 sided polygon? Heptagon Al Cohen 126,337 Contributions Senior Fellow in Electrical Engineering Answered In Math",
+        "distance": 0.28861844539642334
+      },
+      {
+        "id": 2902,
+        "title": "What Are Fractals, And Why Should I Care?",
+        "url": "https://gizmodo.com/what-are-fractals-and-why-should-i-care-1571280482",
+        "combined_text": "What Are Fractals, And Why Should I Care? Fractal geometry is a field of math born in the 1970s and mainly developed by Benoit Mandelbrot. If you've already heard of fractals, you've probably seen the picture above. It's called the Mandelbrot Set and is an example of a fractal shape. This article originally appeared on George Dallas's blog,",
+        "distance": 0.5956593155860901
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-4214984425641464774": {
+    "query_id": "-4214984425641464774",
+    "query": "what materials conduct heat and electricity",
+    "relevants": [
+      {
+        "relevant_doc": 3707,
+        "relevant_url": "http://www.softschools.com/examples/science/conductors_examples/168/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3707,
+        "title": "Conductors Examples",
+        "url": "http://www.softschools.com/examples/science/conductors_examples/168/",
+        "combined_text": "Conductors Examples \"Home > Examples > Science Examples > Conductors Examples Conductors Examples Conductors A conductor is any piece of material that easily allows heat or electricity to pass through it. Many different materials can be conductors but metals are the best conducting materials that are available to us. A",
+        "distance": 0.33658716082572937
+      },
+      {
+        "id": 34,
+        "title": "What is resistance, and who discovered it?",
+        "url": "https://uk.answers.yahoo.com/question/index?qid=20090222115716AApYDLH",
+        "combined_text": "What is resistance, and who discovered it? Science & Mathematics Physics What is resistance, and who discovered it? Follow 4 answers Answers Relevance Rating Newest Oldest Best Answer: Resistance is the restriction of electricity flowing through a conductor. Resistance also causes heat. An example being a light bulb or heating element. Its m",
+        "distance": 0.5061603784561157
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "2934881095546202611": {
+    "query_id": "2934881095546202611",
+    "query": "clinton donor influence over cnn",
+    "relevants": [
+      {
+        "relevant_doc": 2354,
+        "relevant_url": "https://randomnerds.com/one-of-hillary-clintons-biggest-donors-owns-cnn-hows-that-fair/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2354,
+        "title": "One of Hillary Clintonâs biggest donors owns CNN. Howâs that fair?",
+        "url": "https://randomnerds.com/one-of-hillary-clintons-biggest-donors-owns-cnn-hows-that-fair/",
+        "combined_text": "One of Hillary Clintonâs biggest donors owns CNN. Howâs that fair? One of Hillary Clinton’s biggest donors owns CNN. How’s that fair? By Bryce Rudow Filed In Politics October 16, 2015UPDATE (9/16/16): So it looks like this piece — published on October 16th of 2015 — has recently been adopted and shared by a lot of Trump supporters who apparently don’t read past the",
+        "distance": 0.3258056938648224
+      },
+      {
+        "id": 3484,
+        "title": "Bernie Sanders",
+        "url": "http://www.politico.com/news/bernie-sanders",
+        "combined_text": "Bernie Sanders Bernie Sanders News, Analysis and Opinion from POLITICOFacebook Twitter Google +Technology In his Amazon tiff, Trump bullies the big kid By BEN WHITE and STEVEN OVERLY04/04/2018 05:00 AM EDTSanders: 'We know nothing' about Trump's VA pick By CONNOR O’BRIEN04/01/2018 12:44 PM EDT‘My first reaction wa",
+        "distance": 0.5494219064712524
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-3685490509903287931": {
+    "query_id": "-3685490509903287931",
+    "query": "when to see doctor for low back pain",
+    "relevants": [
+      {
+        "relevant_doc": 2827,
+        "relevant_url": "http://advancingyourhealth.org/orthopedics/2013/05/23/low-back-pain-symptom-treatment/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2827,
+        "title": "Advancing Your Health Blog",
+        "url": "http://advancingyourhealth.org/orthopedics/2013/05/23/low-back-pain-symptom-treatment/",
+        "combined_text": "Advancing Your Health Blog 8 Types of Low Back Pain that Mean You Should Visit Your Doctor May 23, 2013, 2:02 pm By Emory Orthopaedics & Spine Center Over 80% of the population will suffer from lower back pain at some point in their lives. Low back pain is a common complaint in medical offices and is a common issue causing ma",
+        "distance": 0.2403886616230011
+      },
+      {
+        "id": 1062,
+        "title": "24 Secrets Pain Doctors Wonât Tell You",
+        "url": "https://www.rd.com/health/conditions/13-things-your-pain-doctor-wont-tell-you/",
+        "combined_text": "24 Secrets Pain Doctors Wonât Tell You Sure, I can give you some meds to dampen the painistock/kupicoo But the best doctors will talk to you about the cause of your pain, whether it’s your lack of activity, your stress level, a condition like arthritis, your mattress, or one of these surprising back pain causes. Heat or ice?istock/1Tatom",
+        "distance": 0.4380248188972473
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-1004006720022992306": {
+    "query_id": "-1004006720022992306",
+    "query": "fix worn wooden drawer slides",
+    "relevants": [
+      {
+        "relevant_doc": 84,
+        "relevant_url": "https://www.woodtalkonline.com/topic/3089-repair-antique-drawer-slides/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 84,
+        "title": "Repair antique drawer slides",
+        "url": "https://www.woodtalkonline.com/topic/3089-repair-antique-drawer-slides/",
+        "combined_text": "Repair antique drawer slides Pete Bennett Journeyman Poster Members4322 posts Location France Report post Posted February 25, 2011On February 25, 2011 at 9:10 AM, oetti said: The bottom of the side (the slides) of the drawers for by antique desk are worn. The desk wood is mahoganny. Most advice on the web mentions reversing the",
+        "distance": 0.24727755784988403
+      },
+      {
+        "id": 2897,
+        "title": "Spring Cleaning: How To Remove Stickers From Furniture",
+        "url": "http://www.huffingtonpost.com/2012/03/23/spring-cleaning-remove-stickers-furniture_n_1373862.html",
+        "combined_text": "Spring Cleaning: How To Remove Stickers From Furniture HOME & LIVING 03/23/2012 09:03 am ET Updated Oct 11, 2012Spring Cleaning: How To Remove Stickers From Furniture By Diana N. Nguyen Whether you’re repurposing a thrift store find or trying to salvage your old childhood dresser, don’t waste time tediously peeling off timeworn stickers. With our adhesi",
+        "distance": 0.6368917226791382
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "6030592821178043048": {
+    "query_id": "6030592821178043048",
+    "query": "state-by-state car tint limits",
+    "relevants": [
+      {
+        "relevant_doc": 3391,
+        "relevant_url": "https://www.windowtint.com/pages/state-window-tint-laws"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3391,
+        "title": "State Window Tinting Laws",
+        "url": "https://www.windowtint.com/pages/state-window-tint-laws",
+        "combined_text": "State Window Tinting Laws State Window Tinting Laws For safety, each State sets limits on the Visible Light Transmission (VLT) that must be allowed to pass through car window film. We have compiled the following reference for your convenience, but for the most up-to-date tinting laws, check with your local law enforcement ag",
+        "distance": 0.3116234540939331
+      },
+      {
+        "id": 3259,
+        "title": "Definitions &Translations",
+        "url": "http://www.definitions.net/definition/tincture",
+        "combined_text": "Definitions &Translations \"Princeton's Word Net (0.00 / 0 votes)Rate this definition:tincture (noun)a substances that colors metalstrace, vestige, tincture, shadow (noun)an indication that something has been present\"\"there wasn't a trace of evidence for the claim\"\"; \"\"a tincture of condescension\"\"shade, tint, tincture, tone",
+        "distance": 0.6989157795906067
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-5570493198767894876": {
+    "query_id": "-5570493198767894876",
+    "query": "pay maryville utilities and taxes online",
+    "relevants": [
+      {
+        "relevant_doc": 270,
+        "relevant_url": "http://www.maryvillegov.com/online-payments.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 270,
+        "title": "âOnline PaymentsFinancial Services Department",
+        "url": "http://www.maryvillegov.com/online-payments.html",
+        "combined_text": "âOnline PaymentsFinancial Services Department \"Online Payments Financial Services Department Welcome to the Financial Services Department. We serve our citizens, businesses, and customers with the following information related to City Government. If there is anything you cannot find, please contact us. We offer online utility and property tax p",
+        "distance": 0.5991435050964355
+      },
+      {
+        "id": 1485,
+        "title": "Farm Bill",
+        "url": "http://www.usda.gov/FarmBill",
+        "combined_text": "Farm Bill Farm Bill USDA Works to Deliver Broadband to Rural Communities Thanks to USDA Rural Development’s Rural Utilities Service funding and Home Communications, Inc., those who live and work in a rural Kansas community don’t have to travel miles for broadband service. High school and college students can",
+        "distance": 0.6060752272605896
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "493080671075588901": {
+    "query_id": "493080671075588901",
+    "query": "what factors change the weather",
+    "relevants": [
+      {
+        "relevant_doc": 1370,
+        "relevant_url": "https://answers.yahoo.com/question/index?qid=20090211051022AAKIBtZ"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1370,
+        "title": "What are weather variables?",
+        "url": "https://answers.yahoo.com/question/index?qid=20090211051022AAKIBtZ",
+        "combined_text": "What are weather variables? Science & Mathematics Weather What are weather variables? What are weather variables? What are the factors that affect the weather condition? Follow 1 answer Answers Best Answer: Weather variables are conditions of the atmosphere that change with time. These are also known as dependent variables, be",
+        "distance": 0.4946592450141907
+      },
+      {
+        "id": 2962,
+        "title": "What is air mass and how does it influence UK weather?",
+        "url": "https://weather.com/en-GB/unitedkingdom/weather/news/uk-weather-forecast-how-air-mass-affect-polar-arctic-temperatures-cold",
+        "combined_text": "What is air mass and how does it influence UK weather? Brits up and down the country are set to warm up this week as thermometres are set to rise, following a bitter weekend of plunging temperatures. The cause of this changeable and unsettled but mild weather over the next few days is down to a tropical maritime air mass moving across the British Isles",
+        "distance": 0.5572632551193237
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-4964420079564463439": {
+    "query_id": "-4964420079564463439",
+    "query": "budget circle island and pearl harbor tour honolulu",
+    "relevants": [
+      {
+        "relevant_doc": 184,
+        "relevant_url": "https://www.tripadvisor.com/ShowUserReviews-g60982-d1727140-r57558325-E_Noa_Tours-Honolulu_Oahu_Hawaii.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 184,
+        "title": "âEnoa Tours in HonoluluâReview of E Noa Tours",
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g60982-d1727140-r57558325-E_Noa_Tours-Honolulu_Oahu_Hawaii.html",
+        "combined_text": "âEnoa Tours in HonoluluâReview of E Noa Tours aburarcm Mc Donough, Georgia79 57Reviewed March 2, 2010Enoa Tours in Honolulu Only had 2 days in Honolulu before boarding cruise ship and wanted to see as much as possible. Booked the Enoa Pearl Harbor/Circle Island Tour. Excellent value - less than $60 for adults and approx. 8 hours long. Excellent",
+        "distance": 0.37658771872520447
+      },
+      {
+        "id": 3362,
+        "title": "Honolulu",
+        "url": "https://www.lonelyplanet.com/usa/honolulu-and-waikiki",
+        "combined_text": "Honolulu \"Honolulu activities$103.66 Water Sports Oahu Submarine Scooter Adventure Meet your friendly guide on Keahole Street in Honolulu at your selected departure time. Board a 50-foot (12-meter) power catamaran boat and enjoy views of Diamond Head Crater, the Koolau mountain range and Koko Crater as you c",
+        "distance": 0.4647417962551117
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "8039459330351244258": {
+    "query_id": "8039459330351244258",
+    "query": "what does ethnic composition mean",
+    "relevants": [
+      {
+        "relevant_doc": 109,
+        "relevant_url": "http://dictionary.reverso.net/english-cobuild/ethnic%20makeup"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 109,
+        "title": "ethnic makeup meaning, ethnic makeup definition | English Cobuild dictionary",
+        "url": "http://dictionary.reverso.net/english-cobuild/ethnic%20makeup",
+        "combined_text": "ethnic makeup meaning, ethnic makeup definition | English Cobuild dictionary ethnic1 adj Ethnic means connected with or relating to different racial or cultural groups of people.usu ADJ n...a survey of Britain's ethnic minorities., ...ethnic tensions. ♦ ethnically adv usu ADV -ed/adj...a predominantly young, ethnically mixed audience.2 adj You can use ethnic to describe peop",
+        "distance": 0.3478454351425171
+      },
+      {
+        "id": 2231,
+        "title": "Australia: Ethnic groups as of 2011",
+        "url": "https://www.statista.com/statistics/260502/ethnic-groups-in-australia/",
+        "combined_text": "Australia: Ethnic groups as of 2011 International › Australia ›Ethnic groups in Australia in 2011Australia: Ethnic groups as of 2011Share in total population25.9% 25.9% 25.4% 25.4%7.5% 7.5%6.4% 6.4%3.3% 3.3% 3.2% 3.2% 3.1% 3.1%1.4% 1.4% 1.4% 1.4% 1.2% 1.2%15.8% 15.8%5.4% 5.4%English Australian Irish Scottish Italian German Chinese Ind",
+        "distance": 0.5186719298362732
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "3792148542535642749": {
+    "query_id": "3792148542535642749",
+    "query": "how occupational science studies daily function",
+    "relevants": [
+      {
+        "relevant_doc": 490,
+        "relevant_url": "http://www.hadassah-med.com/hadassah-schools/occupational-therapy-school/what-is-occupational-science"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 490,
+        "title": "What is Occupational Science?",
+        "url": "http://www.hadassah-med.com/hadassah-schools/occupational-therapy-school/what-is-occupational-science",
+        "combined_text": "What is Occupational Science? Home > Hadassah Schools > The Hebrew Universit... > What is Occupational... What is Occupational Science? While the primary focus of occupational therapy is the promotion of health and well-being through functional activity, occupational science studies the nature, function and meaning of those acti",
+        "distance": 0.4295165538787842
+      },
+      {
+        "id": 1915,
+        "title": "Life Skills: Definitions, Ideas, Resources",
+        "url": "http://www.lifeskillshandbooks.com/2009/11/life-skills-definitions-ideas-resources/",
+        "combined_text": "Life Skills: Definitions, Ideas, Resources Life Skills: Definitions, Ideas, Resources November 25, 2009 by Clare Hanbury Leave a Comment I am thrilled that so many folks have downloaded The Life Skills E-Handbook from the site www.lifeskillshandbooks.com and I am getting some great comments too. So glad its useful…So what are life skills and",
+        "distance": 0.5946988463401794
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "5509167194957109867": {
+    "query_id": "5509167194957109867",
+    "query": "muskegon opinion on 50th anniversary of mlk letter",
+    "relevants": [
+      {
+        "relevant_doc": 999,
+        "relevant_url": "http://www.mlive.com/opinion/muskegon/index.ssf/2013/04/clayton_hardiman_96.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 999,
+        "title": "403 Forbidden",
+        "url": "http://www.mlive.com/opinion/muskegon/index.ssf/2013/04/clayton_hardiman_96.html",
+        "combined_text": "403 Forbidden \"Print Email By Paula Holmes-Greeley | pholmes@mlive.com Follow on Twitter on April 21, 2013 at 8:35 AM, updated April 21, 2013 at 12:19 PMThis week marked the 50th anniversary of Martin Luther King's \"\"letter from Birmingham jail. Clayton Hardiman thanked all of the organizations that celebrated th",
+        "distance": 0.585769772529602
+      },
+      {
+        "id": 1789,
+        "title": "Impact and Influence Martin Luther had in society",
+        "url": "http://mlksociology.weebly.com/impact-in-society.html",
+        "combined_text": "Impact and Influence Martin Luther had in society Kings biggest legacy was to secure the progress on civil rights with in the United States, and is a human rights icon today because of what he did. Not only did Martin Luther King change society and how African Americans where looked at in America but his stand on civil rights inspired Albert Luthul",
+        "distance": 0.6318924427032471
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "5996977300522734787": {
+    "query_id": "5996977300522734787",
+    "query": "letters and accent marks in french",
+    "relevants": [
+      {
+        "relevant_doc": 2949,
+        "relevant_url": "https://en.wikipedia.org/wiki/French_alphabet"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2949,
+        "title": "French orthography",
+        "url": "https://en.wikipedia.org/wiki/French_alphabet",
+        "combined_text": "French orthography \"From Wikipedia, the free encyclopedia (Redirected from French alphabet)navigation search Part of a series on the French language Langues d'oïl Dialects Creoles Francophonie History Phonological history Oaths of Strasbourg Ordinance of Villers-Cotterêts Anglo-Norman Grammar Adverbs Articles and dete",
+        "distance": 0.43479400873184204
+      },
+      {
+        "id": 1759,
+        "title": "Spanish Alphabet Pronunciation",
+        "url": "https://www.123teachme.com/learn_spanish/spanish_alphabet",
+        "combined_text": "Spanish Alphabet Pronunciation \"Spanish Alphabet Pronunciation Spanish for Beginners Spanish Alphabet Pronunciation Overview of Pronunciation Spanish Alphabet - l and ll Spanish Alphabet - h and ch Spanish Alphabet - n and ñSpanish Alphabet - c and z Spanish Alphabet - c and g Spanish Alphabet - g and gu Spanish Alphabet - j and",
+        "distance": 0.6696128249168396
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "3340636172833989360": {
+    "query_id": "3340636172833989360",
+    "query": "lind washington community profile",
+    "relevants": [
+      {
+        "relevant_doc": 1108,
+        "relevant_url": "http://washington.hometownlocator.com/wa/adams/lind.cfm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1108,
+        "title": "Lind, WA Profile: Facts, Map & Data",
+        "url": "http://washington.hometownlocator.com/wa/adams/lind.cfm",
+        "combined_text": "Lind, WA Profile: Facts, Map & Data \"Lind Local Links & Resources: Hotels | Resources | ALL Lind Content Also See: Lind, WA ZIP Codes & ZIP Code Maps | Local Area Photos Lind, Washington - Basic Facts Real Estate Resources Adams County Land, Farms, & Ranches The Town of Lind had a population of 580 as of July 1, 2017. The primary coor",
+        "distance": 0.483425110578537
+      },
+      {
+        "id": 1945,
+        "title": "David Whyte",
+        "url": "https://www.facebook.com/pages/David-Whyte/213407562018588",
+        "combined_text": "David Whyte \"David Whyte Home Posts About Events Photos Videos Community Subscribe Create a Page See more of David Whyte on Facebook Log Inor Create New Account Author in Langley, Washington Community See All148,328 people like this146,199 people follow this About See All (360) 221-1324Typically replies within",
+        "distance": 0.5911051630973816
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-8051919279393792125": {
+    "query_id": "-8051919279393792125",
+    "query": "key findings of ipcc fourth report",
+    "relevants": [
+      {
+        "relevant_doc": 4058,
+        "relevant_url": "https://www.thoughtco.com/global-warming-ipccs-fourth-assessment-report-1203861"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 4058,
+        "title": "Global Warming: IPCC's Fourth Assessment Report",
+        "url": "https://www.thoughtco.com/global-warming-ipccs-fourth-assessment-report-1203861",
+        "combined_text": "Global Warming: IPCC's Fourth Assessment Report Science, Tech, Math ›Social Sciences Global Warming: IPCC's Fourth Assessment Report IPCC reports show the extent of global warming and offer potential strategies Share Flipboard Email Print Ulet Ifansasti/Stringer/Getty Images News/Getty Imagesby Larry West Updated July 24, 2017The Intergovernmenta",
+        "distance": 0.42715883255004883
+      },
+      {
+        "id": 3848,
+        "title": "Overview",
+        "url": "https://archive.epa.gov/mtbe/web/html/faq.html",
+        "combined_text": "Overview \"Overview Note: EPA no longer updates this information, but it may be useful as a reference or resource. The following list of Frequently Asked Questions is the inquiries we received on MTBE intended to provide basic background information on MTBE. If you want more detailed information, please see t",
+        "distance": 0.6384596228599548
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-4826519258479160499": {
+    "query_id": "-4826519258479160499",
+    "query": "definitions of common sewing terms",
+    "relevants": [
+      {
+        "relevant_doc": 4111,
+        "relevant_url": "http://www.sewing.org/html/terminology.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 4111,
+        "title": "Sewing Terminology",
+        "url": "http://www.sewing.org/html/terminology.html",
+        "combined_text": "Sewing Terminology \"Sewing Terminology A number of terms used in sewing may be puzzling to you at first. The ones listed below are all defined in their proper places in the book (see the INDEX). In case you should come upon them without their explanation, however, here are some quick definitions. Back-tack - A few sti",
+        "distance": 0.1471155732870102
+      },
+      {
+        "id": 1778,
+        "title": "drapery",
+        "url": "http://www.thesaurus.com/browse/drapery",
+        "combined_text": "drapery Relevance A-Z Complexity + Length +lists blocks Common Informal Synonyms for draperynoun clothing; coveringdress starequipment stargarment stargear staraccoutrement stararray starattire starclothes starcostume starduds stargarb stargetup starhabiliment starhabit staroutfit starraiment starrig starro",
+        "distance": 0.5646861791610718
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "4132137427946187271": {
+    "query_id": "4132137427946187271",
+    "query": "kenya ecotourism environmental and community impacts",
+    "relevants": [
+      {
+        "relevant_doc": 3452,
+        "relevant_url": "http://traveltips.usatoday.com/effects-ecotourism-kenya-111508.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3452,
+        "title": "The Effects of Ecotourism in Kenya",
+        "url": "http://traveltips.usatoday.com/effects-ecotourism-kenya-111508.html",
+        "combined_text": "The Effects of Ecotourism in Kenya \"The Effects of Ecotourism in Kenya Among travelers and industry stakeholders in the international community, the ecotourism movement evolved from awareness that in many destination countries, mass tourism was contributing to environmental degradation. A key mandate of the ecotourism philosophy, esp",
+        "distance": 0.14745889604091644
+      },
+      {
+        "id": 3811,
+        "title": "Mall of Africa",
+        "url": "http://waterfall-estate.co.za/developments/mall-of-africa/",
+        "combined_text": "Mall of Africa Mall of Africa Overview At the heart of Waterfall is the Mall of Africa, a 116 000 square meter shopping centre. The combination of its sheer scale – it is larger than Cape Town’s V&A Waterfront and will rival Sandton City in size and breadth – this landmark design is set to change the face of the M",
+        "distance": 0.5843833684921265
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "8075971988473629166": {
+    "query_id": "8075971988473629166",
+    "query": "stephen lawrence case timeline undercover policing",
+    "relevants": [
+      {
+        "relevant_doc": 3657,
+        "relevant_url": "http://www.bbc.com/news/uk-26465916"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3657,
+        "title": "Stephen Lawrence murder: A timeline of how the story unfolded",
+        "url": "http://www.bbc.com/news/uk-26465916",
+        "combined_text": "Stephen Lawrence murder: A timeline of how the story unfolded \"Stephen Lawrence murder: A timeline of how the story unfolded6 March 2014Share A public inquiry has been launched following revelations that an undercover police officer spied on the family of murdered teenager Stephen Lawrence. Home Secretary Theresa May described the findings of a report by Mark",
+        "distance": 0.2669427990913391
+      },
+      {
+        "id": 4196,
+        "title": "DOC NYC 2014: âThe Seven Fiveâ + âThe Life and Mind of Mark DeFriestâ",
+        "url": "http://www.popmatters.com/review/188079-doc-nyc-2014-the-seven-five-the-life-and-mind-of-mark-defriest/",
+        "combined_text": "DOC NYC 2014: âThe Seven Fiveâ + âThe Life and Mind of Mark DeFriestâ Film DOC NYC 2014: ‘The Seven Five’ + ‘The Life and Mind of Mark De Friest’Chris Barsanti 13 Nov 2014One of New York’s most crooked cops tells his story in an electric film, and a tragicomic story looks at the troubled life of Florida’s most dedicated prison escape artist. The Seven Five Director: T",
+        "distance": 0.6517411470413208
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-2130132200862212319": {
+    "query_id": "-2130132200862212319",
+    "query": "which countries operate aircraft carriers",
+    "relevants": [
+      {
+        "relevant_doc": 2496,
+        "relevant_url": "http://www.popularmechanics.com/military/navy-ships/g2412/a-global-roundup-of-aircraft-carriers/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2496,
+        "title": "Here Is Every Aircraft Carrier in the World",
+        "url": "http://www.popularmechanics.com/military/navy-ships/g2412/a-global-roundup-of-aircraft-carriers/",
+        "combined_text": "Here Is Every Aircraft Carrier in the World \"By Kyle Mizokami Jan 25, 2016 3.3k Only a handful of countries have aircraft carriers in their arsenals. They form an exclusive club, one whose members who have decided their interests stretch so far from their own waters they need to put air power at sea. Broadly speaking, there are three kinds of",
+        "distance": 0.28597140312194824
+      },
+      {
+        "id": 2539,
+        "title": "Carrier",
+        "url": "http://www.biology-online.org/dictionary/Carrier",
+        "combined_text": "Carrier Carriernavigation search Definitionnoun, plural: carriers (general) A person or object that transports or conveys. ( immunology) An asymptomatic person or animal harboring the pathogen, and acts as a vector transmitting the pathogen to others. ( genetics) (1) A heterozygous individual bearing an une",
+        "distance": 0.5968332290649414
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "4897719958305809403": {
+    "query_id": "4897719958305809403",
+    "query": "documents needed for international shipments",
+    "relevants": [
+      {
+        "relevant_doc": 3013,
+        "relevant_url": "https://cargofromchina.com/shipping-documents/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3013,
+        "title": "What Shipping Documents are Required at the Destination?",
+        "url": "https://cargofromchina.com/shipping-documents/",
+        "combined_text": "What Shipping Documents are Required at the Destination? Accurate documentation is one of the most important elements in international logistics and customs clearance. Properly completed documentation will help your shipment reach its international destination on time and reduce the risk of it being delayed at customs. To make sure your products get to th",
+        "distance": 0.2772722542285919
+      },
+      {
+        "id": 2024,
+        "title": "Document Authentication and Apostille",
+        "url": "http://www.azsos.gov/services/authentication-and-apostille",
+        "combined_text": "Document Authentication and Apostille \"If you are travelling overseas, or sending documents for use in a foreign country, you may be required to have the documents certified by our office. Depending on the country requesting the certificate, that certification may be called an “Apostille” or a certificate of “Authentication”. An “aposti",
+        "distance": 0.5594010949134827
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "4152739358738281567": {
+    "query_id": "4152739358738281567",
+    "query": "when do hormones settle after having a baby",
+    "relevants": [
+      {
+        "relevant_doc": 3544,
+        "relevant_url": "https://www.quora.com/How-long-does-it-take-for-hormones-to-go-back-to-normal-after-giving-birth"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3544,
+        "title": "How long does it take for hormones to go back to normal after giving birth?",
+        "url": "https://www.quora.com/How-long-does-it-take-for-hormones-to-go-back-to-normal-after-giving-birth",
+        "combined_text": "How long does it take for hormones to go back to normal after giving birth? Lee Ballentine, Parent, Lamaze coach, veteran of past sleep deprivation, never been pregnant. Answered Dec 26, 2016 · Author has 8.4k answers and 20m answer views Basically, never. Life is a one-way ticket down the road to successive destinations. Once you go through conception, pregnancy, birth, br",
+        "distance": 0.39172112941741943
+      },
+      {
+        "id": 2163,
+        "title": "Timeline of a Breastfed Baby",
+        "url": "http://www.thealphaparent.com/2011/12/timeline-of-breastfed-baby.html",
+        "combined_text": "Timeline of a Breastfed Baby Timelines Timeline of a Breastfed Baby By Alpha Parent - January 14, 2018 045217All babies reach milestones on their own developmental timeline. A multitude of factors influence the rate of each baby’s individual growth such as genetics, form of delivery, gestation at delivery, medical issues, effec",
+        "distance": 0.5139849185943604
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-6392978621254646389": {
+    "query_id": "-6392978621254646389",
+    "query": "meaning of blossom as a verb",
+    "relevants": [
+      {
+        "relevant_doc": 3678,
+        "relevant_url": "https://www.macmillandictionary.com/dictionary/british/blossom_2"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3678,
+        "title": "blossom- definition and synonyms",
+        "url": "https://www.macmillandictionary.com/dictionary/british/blossom_2",
+        "combined_text": "blossom- definition and synonyms Show lessblossom- definition and synonyms Using the thesaurusverb [ intransitive]/ ˈblɒs (ə)m /Contribute to our Open Dictionary Other entries for this word1 to develop and become more successful Their romance blossomed on a trip to Key West.blossom into: The town has blossomed into the country ’s m",
+        "distance": 0.3421301245689392
+      },
+      {
+        "id": 2319,
+        "title": "Flower Meanings and Symbolism",
+        "url": "https://www.ftd.com/blog/flower-meanings-and-symbolism",
+        "combined_text": "Flower Meanings and Symbolism Flower Meanings and Symbolism It seems like common knowledge that roses symbolize love, but have you ever wondered where flower meanings come from? Using flowers symbolically dates back to before the nineteenth century, but it wasn’t until the nineteenth century that floriography became formalized.",
+        "distance": 0.5005955100059509
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  }
+}

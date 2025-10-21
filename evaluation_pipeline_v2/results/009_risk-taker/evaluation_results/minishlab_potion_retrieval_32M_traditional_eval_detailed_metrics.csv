@@ -1,0 +1,101 @@
+,query_id,query,retrieved_ids,relevant_docs,precision@2,recall@2,ndcg@2,reciprocal_rank,average_precision,model_name
+0,-1303906948020451448,cost to treat pyometra in dogs,"[84, 89]",[84],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+1,-6009394748490492366,massage for athlete recovery,"[3036, 2674]",[3036],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+2,-8283422314641221289,how to become a tile setter,"[1497, 3592]",[1497],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+3,-286151976902330356,affordable elliptical machines for home,"[653, 2353]",[653],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+4,5095775116891252347,heel pain in young athletes,"[4986, 4610]",[877],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+5,5356219976805105603,surprising global entry facts,"[1964, 2897]",[2897],0.5,1.0,0.6309297535714573,0.5,0.25,minishlab_potion_retrieval_32M
+6,-7382632861498924849,definition of assets in accounting,"[157, 870]",[157],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+7,26301628516921170,internal medicine clinic westminster md,"[3610, 4667]",[3610],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+8,6723476779285476000,sabrina le beauf wealth estimate,"[751, 1408]",[751],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+9,-7870208441013594140,UK life sciences policy office,"[4113, 3225]",[3225],0.5,1.0,0.6309297535714573,0.5,0.25,minishlab_potion_retrieval_32M
+10,-7598888184211274826,chase fedwire routing number houston,"[3960, 2025]",[3960],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+11,-9067662974577572549,what does business mean,"[724, 547]",[724],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+12,-5303579861400476438,new york medicaid DSRIP collaboration network,"[1723, 3694]",[1723],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+13,-6429714920050556888,unit cost picture frame fixed assembly,"[4525, 4341]",[4525],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+14,738380762086095376,canada inflation history by month and year,"[3102, 248]",[3102],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+15,4447463855807768275,reasons for rising prices in economy,"[4899, 2425]",[248],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+16,6450719004042762467,economic evaluation of design options,"[1902, 1971]",[1902],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+17,6826408929283040456,how much tax benefit per child,"[224, 4253]",[4253],0.5,1.0,0.6309297535714573,0.5,0.25,minishlab_potion_retrieval_32M
+18,-2936249594108876390,private vs for-hire motor carriers,"[586, 4477]",[586],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+19,-8916429387690503021,how much do fertility specialists earn,"[1327, 2855]",[1413],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+20,-8445216820371047555,past recipients of the Arthur Ashe award,"[1392, 1686]",[1392],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+21,5997732274057158771,filing taxes with an hsa,"[3167, 58]",[3167],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+22,-2628085770234387391,how much do general surgeons make,"[2100, 1327]",[2100],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+23,7247792090699425022,how expensive is living in Orlando,"[3353, 3883]",[3353],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+24,7707522235490055209,okpay online payments company profile,"[4223, 726]",[4223],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+25,8959648801911229334,how collateral blood vessels form,"[3262, 3207]",[3262],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+26,6907736866588475271,buy tickets for celine dion vegas,"[1583, 3803]",[1583],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+27,7218121798176249125,sign up for phone banking,"[4427, 661]",[889],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+28,6871206380115601978,what happens if I default on a loan,"[1455, 3587]",[2812],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+29,795270123281621940,pricing lawn mowing jobs in neighborhood,"[4988, 2028]",[4988],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+30,-7127821461664855815,man sentenced over palin email hack,"[3691, 3567]",[3691],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+31,3110036935585544244,do men pay for maternity care under obamacare,"[393, 4281]",[393],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+32,-92685224734792582,invest fixed amounts over time,"[1794, 1574]",[29],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+33,5513632677185820815,honda finance customer reviews torrance,"[1117, 2667]",[1117],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+34,3549331740650054281,what does a soccer midfielder do,"[435, 4452]",[416],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+35,3638976699014626166,becoming a slimming world consultant cost,"[577, 2495]",[577],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+36,6345058864486901508,how welfare reform affected SSI recipients,"[1049, 3639]",[1049],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+37,-7769714004135785629,things to do at gulf shores beaches,"[2468, 3363]",[2468],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+38,-3969660780283794319,slang term for open-mouthed kissing,"[4580, 2127]",[2127],0.5,1.0,0.6309297535714573,0.5,0.25,minishlab_potion_retrieval_32M
+39,6437952427952103416,states that rank highest for retirement,"[4344, 2584]",[2584],0.5,1.0,0.6309297535714573,0.5,0.25,minishlab_potion_retrieval_32M
+40,-7535406850903245024,username ideas from hobbies and interests,"[1853, 2752]",[4443],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+41,-1811082329571018878,vf brands relocate to sustainable Alameda campus,"[3666, 1927]",[3666],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+42,6629616771321736462,belinda carlisle lyrics about heavenly love,"[426, 3955]",[426],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+43,7612356681744987572,dark hazing story at citadel,"[2997, 4305]",[2997],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+44,3351256970580434621,blackhawks jets game recap copp,"[230, 820]",[230],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+45,7314669241777559645,when luxuries become necessities,"[1039, 3069]",[3268],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+46,4758339499777393975,smart sensors monitoring bridges and buildings,"[1397, 412]",[1397],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+47,-3618734358980531759,how professional golfers are ranked,"[65, 3612]",[65],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+48,2946006556575028841,how much to fix a transmission,"[1419, 1575]",[1419],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+49,-6380580322239731064,average hourly pay for chefs,"[4442, 1660]",[4442],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+50,-2558166965816862475,molecules that assist enzyme activity,"[3139, 23]",[23],0.5,1.0,0.6309297535714573,0.5,0.25,minishlab_potion_retrieval_32M
+51,-5409229325615802074,top female amateur golf rankings,"[3612, 65]",[3612],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+52,5041069259441442521,what it's like to work at sonoco,"[4408, 4114]",[4408],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+53,-6978812067357722439,low-impact arc trainer for athletes,"[1844, 4610]",[1844],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+54,-2392189960588455867,huey lewis personal life net worth,"[4210, 3224]",[4210],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+55,-5613124119615316923,mets event unveiling citi field changes,"[1041, 2620]",[1041],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+56,-2408860654686670215,Australia vs New Zealand quality of life,"[1274, 2292]",[2705],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+57,2991988282753556602,get my VA loan eligibility letter,"[4299, 2908]",[106],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+58,7478188451737921497,great smoky mountains railroad pay online,"[2482, 4230]",[4854],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+59,-6032272517767611250,charlotte water utility payment online,"[3247, 4141]",[3247],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+60,4290027133680590530,concentrated beef paste hot drink 250g,"[4251, 2804]",[4251],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+61,3608487332810467945,what legal rules govern stocks and bonds,"[4684, 4089]",[4089],0.5,1.0,0.6309297535714573,0.5,0.25,minishlab_potion_retrieval_32M
+62,8910276471657381037,play tournament-style texas hold'em online,"[4925, 2523]",[4925],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+63,-8700757126626508952,cal poly san luis obispo overview,"[1927, 969]",[969],0.5,1.0,0.6309297535714573,0.5,0.25,minishlab_potion_retrieval_32M
+64,-6817343578634540362,golf simulators for home office club,"[4324, 876]",[4324],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+65,2172669313393451029,how wealthy is eduardo saverin,"[373, 2277]",[373],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+66,3788256270231355932,typical number of cigarettes per pack,"[1729, 1258]",[1729],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+67,-4676664017501480263,how to pay a capital one credit card,"[2174, 4712]",[2174],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+68,-1868578695257234344,arginine supplement benefits for athletes,"[4911, 2765]",[2819],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+69,9085302366184584227,founders insurance complaints des plaines,"[3618, 1074]",[3618],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+70,9199020309868798840,what does intravitreal mean medically,"[763, 3680]",[763],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+71,8735074859605050391,how much do sports account execs make,"[4169, 4092]",[4169],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+72,8785106268678983691,word for boosting one's own power,"[2044, 68]",[1862],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+73,-8595363203414416924,choose right personal checking account,"[3919, 675]",[3919],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+74,-5064599754376081253,why are san diego water bills rising,"[2940, 4808]",[2940],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+75,-5000311838961388672,darlington sc property tax rate,"[4230, 2929]",[4230],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+76,-1826830814746081331,highest cost hospital procedures and transplants,"[4716, 1248]",[4716],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+77,-392589661814713221,hottest baseball rookie cards to buy,"[296, 3911]",[296],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+78,-3484263463370081270,topeka million dollar high school history,"[1412, 2523]",[1412],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+79,8863070923151954074,Florida acreage and golf course listings,"[1330, 4537]",[1330],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+80,6621016891712827042,armour thyroid 60 mg price near me,"[1370, 703]",[1370],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+81,3100582275409251145,how much is a 1944 steel penny worth,"[810, 1985]",[810],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+82,-8849721023915575120,options or margin for higher returns,"[1805, 328]",[4177],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+83,-1515056741852001194,building design technician salary and duties,"[4222, 2502]",[4222],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+84,-1381319861792686511,vip access to nfl events,"[505, 1753]",[505],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+85,-4506975830256936,why a strong resume matters,"[4764, 1981]",[4764],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+86,-2366976218620769706,true worth of a stock beyond market price,"[769, 479]",[2835],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+87,2805992853508587086,volusia county property valuation process,"[168, 323]",[168],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+88,-986325528327376092,how do pacs work,"[2288, 4272]",[2288],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+89,2571850209552954499,how to tell port vs starboard,"[1094, 769]",[1094],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+90,-7644316193888495555,how to choose car wax,"[79, 1180]",[79],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+91,6104982781200319880,hospitality company career development programs,"[3279, 3013]",[3279],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+92,-4362430420122788298,best all-around athlete bo or deion,"[2642, 4155]",[2642],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+93,5153904167675972468,managing heavy patient load in small practice,"[2776, 3483]",[2776],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+94,-8457895726095747076,husky energy investor news and reports,"[687, 1694]",[4286],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+95,-3991151550632570828,qualify for 401k hardship withdrawal,"[2518, 123]",[2518],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+96,-9040068579058520008,davenport fl population and housing stats,"[3685, 1661]",[3685],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+97,6941950626552405086,payment processing options for businesses,"[4793, 4238]",[4793],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+98,5682195625665788100,judge rules college cheerleading not a sport,"[1374, 3044]",[1374],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+99,1204019872665206181,lalah hathaway biography and facts,"[227, 4120]",[227],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M

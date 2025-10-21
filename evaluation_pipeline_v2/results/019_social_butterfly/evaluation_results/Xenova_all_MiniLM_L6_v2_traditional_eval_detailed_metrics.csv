@@ -1,0 +1,101 @@
+,query_id,query,retrieved_ids,relevant_docs,precision@2,recall@2,ndcg@2,reciprocal_rank,average_precision,model_name
+0,-3692492707713943796,how to choose and use an LMS,"[3027, 592]",[325],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+1,-2516219603237165950,buy facebook page likes fast,"[3078, 2284]",[3078],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+2,-5965035614412751398,what counts as good governance,"[2867, 770]",[2867],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+3,-2379070015506203381,broken fibula recovery time and treatment,"[746, 1035]",[746],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+4,-9126622463175678501,global citizenship teaching slides,"[299, 1150]",[299],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+5,900719351301069152,what does a DNI order do,"[3227, 1393]",[3227],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+6,8199490419413653861,why alphabet song uses twinkle tune,"[2420, 3432]",[2420],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+7,1768711082883912909,which turks and caicos beaches to visit,"[1614, 2166]",[1614],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+8,7045847527312236131,word for someone who writes slogans,"[139, 2064]",[139],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+9,5812687337632344156,tips for becoming an inspiring speaker,"[2064, 150]",[2064],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+10,6479145821333174161,why were witches persecuted in early modern Europe,"[564, 683]",[564],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+11,-6591797797195072498,bikini bottom trivia quiz,"[1483, 1224]",[1483],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+12,8402621046871819373,approximate number of US cities,"[2964, 810]",[2964],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+13,7141585704773532266,pendant meaning in French,"[840, 369]",[840],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+14,2247331961650966,jazz style with rhythmic groove,"[2548, 2777]",[2548],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+15,6582431414933112007,lawn fertilizing tips for greener grass,"[2805, 2126]",[2805],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+16,3385399552835616654,houston observatory weekend hours,"[3115, 2112]",[3115],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+17,5876640207460871880,zimmerman mn city profile maps,"[2314, 717]",[2314],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+18,72160085487763582,best burger joint central illinois hours,"[857, 335]",[857],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+19,7260526175539114853,are peanuts safe for celiac,"[3074, 2137]",[3011],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+20,-84664471669632217,what are spanish question words,"[1727, 627]",[1727],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+21,5458604996128026597,bobby fischer news and archives,"[2282, 2423]",[2282],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+22,153125677558224880,roads with no through traffic,"[2927, 947]",[1235],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+23,4352890714503788364,compress video files to smaller size,"[2189, 2366]",[2189],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+24,-1740658481212791688,symbolism behind celtic knotwork,"[881, 2410]",[881],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+25,-8845503825211082847,USO ETF live price chart,"[495, 1548]",[495],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+26,-4068547399413981558,do rappers write lyrics to beats,"[679, 2986]",[679],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+27,156825330252088872,song inspired by warrington bombing,"[1134, 2747]",[1134],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+28,3490795759237689040,1964 movie about talking fish and nazis review,"[2493, 2236]",[2493],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+29,516638733371530136,adult brain neurogenesis and sensory function,"[2855, 637]",[2855],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+30,7748823226367900353,home alone neighbor actor obituary,"[358, 2445]",[358],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+31,-168834828453139936,acton california demographics and photos,"[70, 267]",[70],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+32,-1022246105626872353,ihg corporate rate codes,"[1163, 1754]",[1163],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+33,35358691018383680,sinus pressure relief massage techniques,"[594, 2323]",[594],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+34,-7585647942785995554,Anderson Cooper on Vanderbilt family history,"[1220, 374]",[1220],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+35,-8378659176362921432,rooftop park with amphitheater over transit center,"[817, 2514]",[817],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+36,1345928443610697328,when do arrow and the flash return,"[2063, 1146]",[2063],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+37,2699748401609537513,do green buildings save money,"[1935, 544]",[544],0.5,1.0,0.6309297535714573,0.5,0.25,Xenova_all_MiniLM_L6_v2
+38,-2180509582874059160,groundhog day date and traditions,"[432, 758]",[432],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+39,-5587126711416044183,luton travel guide and reviews,"[1904, 2908]",[1904],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+40,789397005947367132,which olsen twin appeared more on full house,"[1891, 1496]",[1891],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+41,-3170969571433451563,German name pronunciation guide,"[2860, 2519]",[2860],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+42,7086128646487376348,can i transfer my RMD to charity,"[2333, 1375]",[2333],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+43,-2161177528939422912,why does in-call ui appear in call history,"[811, 1113]",[811],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+44,-3026582223092657373,brussels griffon puppy cost breakdown,"[211, 648]",[211],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+45,7108495676779688320,taylor swift selfie with ina garten,"[1728, 779]",[1728],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+46,395524974562530206,olmec writing and calendar innovations,"[3282, 3089]",[3282],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+47,6983996753131301679,is my group a 527 organization,"[2057, 3473]",[2057],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+48,-6970929652686941171,pflugerville tx demographics and stats,"[501, 936]",[501],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+49,9109043797619659788,tom hanks cold war negotiation movie,"[3060, 1948]",[2522],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+50,-9099711840233919281,new krispy kreme cookie doughnuts,"[2406, 1522]",[2406],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+51,3743146049235593737,incredibles movie character guide,"[2456, 747]",[2456],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+52,-3166234171911080797,do ants sleep or just rest,"[657, 277]",[657],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+53,-6298794862087075892,what does jobbing actor mean uk,"[650, 870]",[650],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+54,-9060914788272569014,nebraska state park with aquatic center,"[3406, 1513]",[1513],0.5,1.0,0.6309297535714573,0.5,0.25,Xenova_all_MiniLM_L6_v2
+55,4169880520271761570,roundtrip flights seattle to kuala lumpur,"[1110, 1601]",[1110],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+56,9098922388957286544,st john caneel bay mid may weather,"[864, 3387]",[864],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+57,7621031609696291773,next working day mail delivery UK,"[2708, 758]",[2708],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+58,7644815927122602125,why corporate values matter for culture,"[1937, 9]",[1937],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+59,4199623131010383642,dorothy yellow brick road glowing green city,"[1385, 79]",[1385],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+60,-4414704745784119682,old children's tv show hosted by bob emery,"[1720, 2705]",[1720],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+61,4012086782151224020,prevent urinary stones in guinea pigs,"[1859, 3]",[1859],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+62,3074549450266287534,walton ny early settlers and lenape,"[2312, 1045]",[2312],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+63,7202003721108405438,trailer widow receives late husband's letters,"[3148, 1293]",[3331],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+64,-4272179415154702955,how payroll taxes work for employers,"[26, 305]",[26],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+65,4293754591701676368,seattle wedding venue lodge with wetlands,"[387, 1373]",[387],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+66,6566035185290365625,new york knicks news and events,"[1444, 659]",[1444],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+67,-871980151483035824,when to go to Bali,"[2452, 1557]",[2452],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+68,6163213855764704301,considering a ninja 250r purchase,"[32, 2298]",[32],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+69,8782218594049461464,definition and examples of facility,"[3496, 1864]",[3496],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+70,-5068173817848566879,Lahnstein Germany travel deals,"[3132, 2198]",[3132],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+71,2501225884646290132,flights from northwest florida airport,"[51, 263]",[51],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+72,-7584939149290135675,how race shapes civil war beliefs,"[2470, 1574]",[2470],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+73,5666410694986844755,stages theatre lois lowry adaptation,"[2739, 1980]",[2739],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+74,-5391396078382813202,meaning and synonyms of trailblazer,"[93, 3446]",[93],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+75,-4019999831191629715,maroon 5 don't want to know words,"[2157, 3355]",[3355],0.5,1.0,0.6309297535714573,0.5,0.25,Xenova_all_MiniLM_L6_v2
+76,-5828977879097816032,how to craft a compelling hook,"[912, 47]",[912],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+77,-2848479212876749628,george rr martin book series,"[1734, 134]",[134],0.5,1.0,0.6309297535714573,0.5,0.25,Xenova_all_MiniLM_L6_v2
+78,1732428242304068835,why richard dreyfuss stores oscar in fridge,"[1659, 290]",[1659],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+79,930782406458459384,upenn campus and city life,"[1546, 1316]",[1546],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+80,-9103789283300596081,driving distance and time Barcelona Avignon,"[3416, 3103]",[3416],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+81,7197409643642376161,twin vs double hotel room,"[203, 1425]",[203],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+82,1286939343093253391,Orlando Disney World ticket deals,"[1573, 1125]",[680],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+83,-1648969898650359848,surprising trivia about it's a wonderful life,"[3319, 999]",[3319],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+84,-5770943334724042162,classroom simulation for macroeconomic goals,"[1226, 2355]",[1226],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+85,-7723960306956426552,who bought mills fleet farm 2016,"[3138, 2231]",[3138],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+86,-5987765239664052637,clark lake lakeside pizza bar,"[3310, 1373]",[3310],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+87,-3651855166936839758,spider handling therapy at London Zoo,"[270, 3251]",[270],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+88,-3124346847262726973,anime suggestions about war,"[2266, 3341]",[2266],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+89,-5409368226265787751,new leader of hawaii health exchange,"[2585, 808]",[2585],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+90,-8061709333974615035,s pen note taking app,"[2273, 2576]",[2273],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+91,-8728015164154025423,farming and food security in ancient China,"[2638, 2168]",[2638],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+92,-7947225546965252998,global subway history photo gallery,"[196, 112]",[196],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+93,8347357097973521773,bryan dattilo relationship history,"[1135, 2882]",[1135],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+94,5064341977823413804,origin of the global coordinate grid,"[1288, 2983]",[1288],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+95,4662810043007950240,christiansted st croix weather now,"[3156, 864]",[3156],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+96,170537345623385957,criminal justice week 8 practice test,"[3052, 1900]",[3052],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+97,-5134731035711068453,kid rock assistant found dead nashville,"[2636, 144]",[2636],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+98,6215340160460550862,fort monroe center membership cost,"[744, 1176]",[744],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+99,8153446696330808133,junior colleges influence on 2015 draft,"[573, 730]",[573],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2

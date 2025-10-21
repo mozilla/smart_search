@@ -1,0 +1,101 @@
+,query_id,query,retrieved_ids,relevant_docs,precision@2,recall@2,ndcg@2,reciprocal_rank,average_precision,model_name
+0,-2776246609617438904,dhcp server port 67 in use,"[2151, 1821]",[2151],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+1,-2818865324010170744,how nyc got the big apple nickname,"[368, 553]",[368],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+2,6102267507023081906,us pharmacist licensing exam,"[1930, 350]",[527],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+3,3285499941811636551,getting started with apache spark,"[1047, 118]",[1047],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+4,-2575394918286460110,who first discovered blood types,"[56, 1727]",[56],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+5,2915984195126408561,can i safely skip my period,"[1286, 1666]",[1286],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+6,2506713856357884976,service-learning project design framework,"[1769, 266]",[1769],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+7,561466849039927907,how the idea of atoms developed,"[1090, 285]",[1090],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+8,-3929554502432659399,how to capture photos with google glass,"[111, 1037]",[111],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+9,-2897018918777529299,what causes hair to turn gray,"[369, 402]",[402],0.5,1.0,0.6309297535714573,0.5,0.25,Xenova_all_MiniLM_L6_v2
+10,-9179771545668842287,venus williams biography and photos,"[679, 1103]",[679],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+11,-8454577612251111053,method to extract piperine from pepper,"[1456, 1585]",[1456],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+12,-1300651294347926967,women suing cosby win court ruling,"[196, 288]",[196],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+13,-667702876694287786,bottlenose dolphin status and threats,"[1689, 292]",[1689],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+14,8135869467197803511,how to make pici pasta,"[2036, 1340]",[1944],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+15,-8583343885289507367,politician's son presumed dead returns tv mystery,"[1677, 2231]",[1677],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+16,1794753153451461209,NH3 gas properties and uses,"[1838, 1852]",[1838],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+17,6075474084597300173,word meaning artificial or forced,"[1186, 227]",[651],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+18,-7268019478501827744,gigo meaning in computing,"[2190, 1612]",[2190],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+19,2295081026295942174,health risks from radium watch paint,"[463, 2107]",[463],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+20,898372491191668890,who pays transfer tax on home sale,"[1234, 628]",[1234],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+21,-5615264362417540676,seeing the same doctor over time,"[1903, 858]",[1381],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+22,-1389886354737855197,chapter 5 world history review flashcards,"[1378, 1190]",[478],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+23,6506069576595461625,history book about Soviet-era gold,"[2059, 715]",[2059],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+24,-1579424372416172567,how did philip seymour hoffman die,"[1202, 957]",[1202],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+25,2768447551427932525,ways plasmids are like chromosomal DNA,"[963, 911]",[963],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+26,-7670070453493858787,how tornadoes form and are rated,"[694, 217]",[694],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+27,6173965099059318912,impact of james k polk presidency,"[2225, 2062]",[2225],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+28,-7569860447730245719,how to use potentiometer to divide voltage,"[179, 190]",[179],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+29,-3779100592969715704,what does micro mean,"[1985, 1410]",[1410],0.5,1.0,0.6309297535714573,0.5,0.25,Xenova_all_MiniLM_L6_v2
+30,-4253945897195210678,ounces in a 750 ml wine bottle,"[100, 521]",[100],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+31,-7087699676153057888,calculate insulin resistance from fasting labs,"[1273, 1409]",[1273],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+32,1663717715536885391,meaning and synonyms of conjecture,"[1572, 60]",[1572],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+33,5751669206167479640,do rubber bands stretch more when hot,"[1171, 946]",[1171],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+34,-7423181923663726555,geoffrey arend tribute to windell middlebrooks,"[990, 38]",[990],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+35,-1634514452726105644,wytheville va unemployment office contact,"[1043, 1519]",[1043],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+36,-6217582368417294496,common nonsteroidal pain relievers,"[290, 2178]",[2178],0.5,1.0,0.6309297535714573,0.5,0.25,Xenova_all_MiniLM_L6_v2
+37,-6715416234463512207,everyday uses of semimetals,"[1143, 2110]",[1143],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+38,-9153136532430665042,how diseases spread through the air,"[366, 217]",[366],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+39,2795128747979232494,how butterflies and bees compare,"[2099, 431]",[2099],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+40,-8851069724009516042,congenital myotonia and bone deformities,"[2181, 2006]",[1036],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+41,-1334397837586149317,how much is central michigan tuition,"[705, 308]",[705],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+42,-4609188537395005530,sentences without conjunctions,"[2153, 1112]",[406],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+43,-7791272740936376225,medical prefix meaning fish,"[668, 1928]",[668],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+44,2593047190223048422,are mosquitoes drawn to foot odor,"[1601, 2154]",[1601],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+45,-7989460899747528735,graves disease impact on body systems,"[1448, 4]",[1448],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+46,7897023754199462060,most lethal poisons worldwide,"[2107, 1050]",[2107],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+47,-1007130485361285177,alcohol poisoning risks in toddlers,"[1783, 2245]",[1783],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+48,11731095248944974,what does extracurricular mean,"[552, 1122]",[552],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+49,4475341626172555177,what happened to Helloween drummer,"[957, 145]",[1581],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+50,-7845811351876315879,apush review terms chapters 11-13,"[96, 2038]",[96],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+51,3338855930898000869,how objects gain or lose charge,"[321, 653]",[321],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+52,-6756702527363341765,flashcards for microbiology chapters 14-18,"[1288, 1158]",[1288],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+53,-4249143714629586047,turn digital images into 35mm slides,"[1037, 1589]",[1037],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+54,-6535404717645202844,st. paul early cyclecar history,"[642, 518]",[642],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+55,4404400033606410305,isabel name meaning and pronunciation,"[1513, 55]",[1513],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+56,8714018313314794941,diagram of life's evolutionary relationships,"[916, 1723]",[916],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+57,8691204515651775691,newfoundland province geography and facts,"[599, 1500]",[599],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+58,-2315048376828514894,credit union student loans online,"[1208, 1667]",[1667],0.5,1.0,0.6309297535714573,0.5,0.25,Xenova_all_MiniLM_L6_v2
+59,-5032666225436127591,paris weather statistics march,"[1999, 305]",[1999],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+60,8860612330916252850,GABP seating sections and prices,"[952, 1651]",[952],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+61,946956887636369929,south asia climate change impacts,"[134, 1185]",[134],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+62,-5012771447312431964,best cardio for losing weight,"[602, 616]",[602],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+63,-7806825820838240199,philosopher of gender performativity,"[1795, 1084]",[2202],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+64,543766877415789434,grasshopper body part for movement,"[1886, 2005]",[1886],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+65,8870893824738229566,bitter kola tree medicinal uses,"[1585, 482]",[482],0.5,1.0,0.6309297535714573,0.5,0.25,Xenova_all_MiniLM_L6_v2
+66,4268476861337547477,Josh Turner acoustic guitar channel,"[649, 625]",[649],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+67,2312291567421019367,ap human geography models overview,"[1791, 1597]",[1791],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+68,-6472614540905115785,luffa sponge gourd growing tips,"[1064, 1321]",[1064],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+69,-6895072527897223553,states struggling with synthetic drug threat,"[410, 2107]",[410],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+70,-5534186357593544935,reasons for high blood lipids,"[1062, 1379]",[1379],0.5,1.0,0.6309297535714573,0.5,0.25,Xenova_all_MiniLM_L6_v2
+71,3855757868737253831,ny probation vs parole and resources,"[1222, 539]",[1222],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+72,3696679194148733260,girl from iconic Katrina photo now in Houston,"[240, 1360]",[240],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+73,-5563669971827716650,how long after exposure get std test,"[742, 817]",[742],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+74,4331711318741603725,how to prepare spring artichokes,"[508, 1650]",[508],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+75,-6426684806682447668,blank slate theory psychology,"[354, 1795]",[354],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+76,-2914401992062250304,visiting Hilton Head common questions,"[617, 1910]",[617],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+77,3778207161002938490,do non organic foods have high fluoride,"[440, 1633]",[440],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+78,715273865238645740,convert liters of water to milligrams,"[2045, 298]",[2045],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+79,2253600315458309541,average prison guard pay in nj,"[2194, 1222]",[2080],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+80,-2580107249229377634,john maynard keynes life and ideas,"[461, 1626]",[461],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+81,-1635808220864153740,carb counts for different milks,"[563, 2048]",[2048],0.5,1.0,0.6309297535714573,0.5,0.25,Xenova_all_MiniLM_L6_v2
+82,-8545178753193934888,optimize radiographic image quality and dose,"[2141, 1450]",[2141],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+83,-3086541184344888977,does heating increase or decrease conductivity,"[1245, 824]",[1245],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+84,3673628593758175627,is a bachelor's enough for physical therapy,"[1289, 1711]",[1289],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+85,872395233229136494,sogo information desk and alterations,"[1602, 1676]",[1602],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+86,5710948385517682401,how to get government funded health coverage,"[930, 898]",[930],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+87,-2206807882911609039,meaning of yucatan peninsula,"[254, 907]",[254],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+88,5713692385854485808,how cancer-causing genes push cells to divide,"[1580, 1277]",[1580],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+89,-5637896074615593247,origin and meaning of name ivo,"[422, 229]",[422],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+90,-2254610066189068866,what are absence seizures,"[251, 718]",[251],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+91,7637370160024296407,alternate wording for government taking responsibility,"[611, 60]",[1041],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+92,-1861446340399675674,scurried meaning and pronunciation,"[44, 528]",[44],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+93,6378752034699806844,boudin san francisco calorie chart,"[450, 563]",[450],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+94,6364895456922977093,native son narrative style and structure,"[2004, 1001]",[2004],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+95,2947713808130186323,how to choose properly fitting athletic shoes,"[188, 1144]",[188],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+96,4605848112071174023,hp support assistant plugin file info,"[999, 1589]",[999],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+97,-1670875616760282522,what does at anchor mean,"[1403, 1300]",[1403],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+98,-3760946400305757294,how common is on a tear,"[1131, 1132]",[1132],0.5,1.0,0.6309297535714573,0.5,0.25,Xenova_all_MiniLM_L6_v2
+99,6469225684771152646,mla formatting and sample papers,"[289, 1054]",[289],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2

@@ -1,0 +1,16 @@
+,query_id,query,retrieved_ids,relevant_docs,precision@2,recall@2,ndcg@2,reciprocal_rank,average_precision,model_name
+0,7365909480476391502,healthy rice,"[0, 1]","[0, 1]",1.0,1.0,1.0,1.0,1.0,minishlab_potion_retrieval_32M
+1,9184081289876503900,endodontist,"[2, 3]","[2, 3]",1.0,1.0,1.0,1.0,1.0,minishlab_potion_retrieval_32M
+2,-2385395849126763567,arsenal,"[4, 5]","[4, 5]",1.0,1.0,1.0,1.0,1.0,minishlab_potion_retrieval_32M
+3,1469127702351254918,gavaskar border trophy,"[6, 7]","[6, 7]",1.0,1.0,1.0,1.0,1.0,minishlab_potion_retrieval_32M
+4,2717111109416926266,grand slam champion,"[8, 9]","[8, 9]",1.0,1.0,1.0,1.0,1.0,minishlab_potion_retrieval_32M
+5,2048072221772363304,capital gain,"[10, 11]","[10, 11]",1.0,1.0,1.0,1.0,1.0,minishlab_potion_retrieval_32M
+6,-3908998630858148654,credit limit,"[12, 13]","[12, 13]",1.0,1.0,1.0,1.0,1.0,minishlab_potion_retrieval_32M
+7,8020544216898425590,annuity,"[14, 15]","[14, 15]",1.0,1.0,1.0,1.0,1.0,minishlab_potion_retrieval_32M
+8,35706021503240422,physiology,"[16, 17]","[16, 17]",1.0,1.0,1.0,1.0,1.0,minishlab_potion_retrieval_32M
+9,8946233849176454605,myopia,"[18, 19]","[18, 19]",1.0,1.0,1.0,1.0,1.0,minishlab_potion_retrieval_32M
+10,7577751738607570921,amyloidosis,"[20, 21]","[20, 21]",1.0,1.0,1.0,1.0,1.0,minishlab_potion_retrieval_32M
+11,3682881595009606778,alopecia,"[22, 23]","[22, 23]",1.0,1.0,1.0,1.0,1.0,minishlab_potion_retrieval_32M
+12,6701595817394559204,dermatitis,"[24, 25]","[24, 25]",1.0,1.0,1.0,1.0,1.0,minishlab_potion_retrieval_32M
+13,26761005987604417,coffee shop,"[26, 27]","[26, 27]",1.0,1.0,1.0,1.0,1.0,minishlab_potion_retrieval_32M
+14,1634293866369494831,ball drop,"[28, 29]","[28, 29]",1.0,1.0,1.0,1.0,1.0,minishlab_potion_retrieval_32M

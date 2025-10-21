@@ -1,0 +1,101 @@
+,query_id,query,retrieved_ids,relevant_docs,precision@2,recall@2,ndcg@2,reciprocal_rank,average_precision,model_name
+0,-747076891317086963,how does strict foreclosure work,"[2789, 2312]",[2789],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+1,7616201324371687740,epa section 608 certification requirements,"[2970, 1353]",[2970],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+2,-6430937214721612349,download california employment forms,"[3126, 677]",[1064],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+3,2862826271522539842,kerry argues iran deal isn't a treaty,"[2895, 1]",[2895],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+4,-1471415673948540285,estimate monthly utility bills,"[2989, 1356]",[2989],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+5,-5319240218764479626,calculate depreciation for business car,"[2400, 474]",[2400],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+6,4465166827605663161,chinese robotic telescope on moon,"[1344, 2425]",[1344],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+7,349209092861669057,how to become a special ed aide,"[2172, 975]",[2172],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+8,1784615862224671945,how researchers unintentionally influence results,"[810, 2985]",[1334],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+9,3436845773907104130,James K. Polk final resting place,"[1480, 83]",[1480],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+10,5295616607374596435,what investors feared from Smoot Hawley,"[779, 2955]",[819],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+11,-6991969835679966249,ex mi6 spy behind trump dossier,"[1179, 2300]",[1179],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+12,-4404300788650636691,how much is tj miller worth,"[611, 1626]",[611],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+13,-6992550827732182234,working at Vision Express reviews,"[2856, 2305]",[2856],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+14,-6756156772769929998,how states ceded powers to the federal government,"[2149, 2879]",[2149],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+15,-4174652883248606735,stephen lawrence timeline undercover police,"[2493, 2685]",[2493],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+16,3195982828948575995,word for long bitter family rivalry,"[332, 196]",[332],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+17,-6404627708329979333,what is root canal treatment,"[2719, 1554]",[2719],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+18,4864762088103963393,send large attachments via google drive,"[2560, 2768]",[2560],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+19,7857919588812691439,what does expenditure mean,"[1613, 1983]",[1613],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+20,371913480060230260,meaning of dosing in medicine,"[2527, 2056]",[2527],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+21,4285281005927966755,how to tell if banned from uae,"[1537, 1325]",[1537],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+22,-881742848732494336,federal contract cost disallowance procedures,"[1543, 1973]",[1543],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+23,-7924013054052885518,how long do drains stay after breast reconstruction,"[1830, 3074]",[1830],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+24,6229831971777380682,trump interview godfather attitude democratic strategy,"[2292, 2732]",[2292],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+25,7705286432726851865,how to report crime anonymously,"[2900, 1759]",[218],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+26,-4478313937230875354,illinois state employee health and insurance,"[291, 2455]",[291],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+27,5577102221862983557,samantha fox girlfriend dies after cancer,"[2340, 665]",[2340],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+28,770005841838218264,how to swear in quebecois fast,"[857, 1409]",[857],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+29,-4699783312493143905,are patch burns good for biodiversity,"[2202, 1241]",[2202],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+30,-4578740113119299359,five towns long island news roundup,"[361, 2097]",[17],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+31,-2967153554151263559,meaning of ANR relationship,"[170, 2379]",[170],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+32,5255077626959545527,most toxic substances in the world,"[1270, 2478]",[2478],0.5,1.0,0.6309297535714573,0.5,0.25,Xenova_all_MiniLM_L6_v2
+33,-5363476789391995045,pot dealer creates fake family comedy,"[2299, 243]",[2299],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+34,-4585239817047543212,"what county is Alma, Georgia in","[1677, 2832]",[1677],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+35,-1317151337403623470,employee reimbursements no receipts required,"[1068, 560]",[1068],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+36,-9051180891996839265,sofia vergara flashes ring in hawaii,"[178, 1564]",[178],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+37,1273423189690694514,words that mean allow,"[2776, 514]",[2776],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+38,-4849314838727816422,liability coverage for indiana small businesses,"[1665, 2455]",[1665],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+39,6120562652347067398,is windows command prompt dos,"[1317, 2527]",[1317],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+40,-7428329211594698400,political pluralism meaning and example,"[1110, 1095]",[1110],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+41,4533125296832789626,restaurant hostess hourly pay range,"[1146, 1216]",[1146],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+42,8837649946070567892,apply for medical financing card,"[2167, 1410]",[2167],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+43,6082073789392451683,legal term for refusing rights,"[919, 927]",[927],0.5,1.0,0.6309297535714573,0.5,0.25,Xenova_all_MiniLM_L6_v2
+44,1719510580193381491,anatomical meaning of fissure,"[596, 765]",[596],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+45,-1270639917690880765,apply for victoria library card,"[1103, 2167]",[1103],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+46,-3055854215416700364,what to do in vienna in january,"[889, 2191]",[889],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+47,2668173789280791008,visiting Fort Lewis College Durango,"[134, 1093]",[134],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+48,-7533681925973608629,film about Louisiana sharecropping family,"[2838, 968]",[2838],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+49,-6132661869485331652,little-known facts about apple inc,"[2998, 2956]",[2998],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+50,1294753327095233921,historical quarantine for leprosy patients,"[102, 1858]",[102],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+51,-5908080276174745627,financial aid options for college students,"[414, 1410]",[414],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+52,-360637906614728207,clint eastwood western farmer joins guerrillas,"[376, 219]",[568],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+53,-4541464964724169998,how to open motorola sre file,"[2717, 1153]",[2717],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+54,3965573719735507391,app for six-second looping videos,"[1778, 620]",[1778],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+55,-1617889857728250706,what policies raise worker pay,"[1451, 2462]",[1451],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+56,-5057603112399793140,step files for product manufacturing data,"[1302, 614]",[1302],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+57,-7546016143560678271,brodie name origin and meaning,"[2147, 1140]",[2147],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+58,-6330198492150369306,how to dye hair burgundy,"[727, 731]",[727],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+59,2956110253621781211,investment options for small business owners,"[654, 2466]",[654],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+60,-1540524161416058160,leadership qualities that inspire organizational growth,"[309, 471]",[309],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+61,7222813459823568005,which assets avoid probate in wisconsin,"[2014, 1637]",[2014],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+62,1051076704668775932,register to vend at nyc street fairs,"[879, 3139]",[879],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+63,4265821520190866500,history of greek hair and fashion,"[140, 1593]",[192],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+64,6564252279438751433,why argentina fell from prosperity,"[194, 161]",[194],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+65,891759973559419085,get insurance to waive hail deductible,"[1924, 2269]",[1924],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+66,-6950328124738649880,major global migration trends,"[2233, 1039]",[2233],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+67,-78690521686458839,1628 parliamentary petition limiting monarch,"[1234, 2118]",[1234],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+68,5158803866885536381,why Amazon uses pinless debit,"[2862, 1231]",[2862],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+69,-3523879838016105235,female hunter waitress from Supernatural,"[44, 53]",[44],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+70,215271870342316094,Natalbany Louisiana demographics and maps,"[1727, 2600]",[1727],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+71,-4744418980758087960,how poverty and homelessness affect children,"[1553, 60]",[1553],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+72,8517829964464880741,post-hospital rehab center Rockville MD,"[1094, 2040]",[1094],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+73,7149922024734711478,campus emergency response system,"[2531, 1562]",[2531],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+74,4901064328364168128,how routines and groups relieve stress,"[759, 2553]",[759],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+75,2841064330697576663,how much to pay an electrician,"[2914, 2924]",[2914],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+76,-7053562131610159589,solarwinds msp evaluation,"[2170, 1150]",[2170],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+77,-3338046360410820953,nixon secret tapes racist comments,"[1730, 1057]",[1730],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+78,-8782468871806600845,AAA assistance for international members visiting US,"[1517, 1039]",[1517],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+79,-519043587953882204,how veterans get college help in Florida,"[578, 1410]",[578],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+80,9071980032407503195,she said she'll think about it meaning,"[485, 1086]",[485],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+81,7025824587788165229,word meaning between different species,"[1625, 899]",[1487],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+82,-6851692486628998297,los fresnos tx population schools crime,"[442, 547]",[442],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+83,-6356741169550982971,who inherits if no will pennsylvania,"[1637, 2906]",[1637],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+84,-1584752494781646122,synonyms for lacking skill,"[862, 1283]",[862],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+85,1433550195863284310,risks of virtual colonoscopy compared to colonoscopy,"[1662, 2692]",[1662],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+86,1555335510481786215,difference between birth and naturalization papers,"[2648, 340]",[2648],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+87,3902956394903601528,english renaissance timeline events,"[859, 2641]",[859],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+88,7224350373519747667,legally remove family member from home,"[2143, 1874]",[1874],0.5,1.0,0.6309297535714573,0.5,0.25,Xenova_all_MiniLM_L6_v2
+89,2848566192694936006,how nonprofits attract corporate sponsors,"[240, 3054]",[240],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+90,670045915864264716,how to create site map provider,"[2347, 2095]",[2347],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+91,3176147460285706392,salary for 30-year-old physician,"[2925, 1812]",[2925],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+92,8164873192554166561,what to expect at a Moroccan hammam,"[2423, 633]",[2423],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+93,6375809859273134778,air force fighter pilot earnings,"[695, 2977]",[695],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+94,-8924161785924288644,yolanda hadid early life holland,"[139, 1804]",[139],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+95,560023638174809951,what is an endoscopic exam,"[2988, 2940]",[2988],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+96,7213413751258836581,how deep to bury electrical cable,"[1323, 346]",[346],0.5,1.0,0.6309297535714573,0.5,0.25,Xenova_all_MiniLM_L6_v2
+97,-1645069127246202437,how many us soldiers in wwi france,"[1641, 168]",[1641],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+98,-320979934763251376,benefits of becoming an advanced practice nurse,"[2954, 314]",[314],0.5,1.0,0.6309297535714573,0.5,0.25,Xenova_all_MiniLM_L6_v2
+99,6580065770248704987,Bethalto Illinois acreage for sale,"[1738, 2728]",[1738],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2

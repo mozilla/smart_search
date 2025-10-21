@@ -1,0 +1,16 @@
+,query_id,query,retrieved_ids,relevant_docs,precision@2,recall@2,ndcg@2,reciprocal_rank,average_precision,model_name
+0,3095790724802880410,alternative medicine to manage ringing in my ear,"[1, 5258]","[0, 1]",0.5,0.5,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+1,-4866469698126079344,solutions for noisy neighbors,"[2, 5573]","[2, 3]",0.5,0.5,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+2,-7081425987163808211,how to train a cat to use the litter box,"[5, 3117]","[4, 5]",0.5,0.5,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+3,571801171536194541,how to make your dog loss weight,"[3684, 5210]","[6, 7]",0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+4,5269038553943618676,what are the best foods for dogs,"[9, 8]","[8, 9]",1.0,1.0,1.0,1.0,1.0,Xenova_all_MiniLM_L6_v2
+5,-8073139003667676193,how to keep your kids safe online,"[11, 1254]","[10, 11]",0.5,0.5,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+6,-3941906528267182702,some recommendations for vegan recipes for kids,"[12, 6214]","[12, 13]",0.5,0.5,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+7,-1582703994662056332,best places to visit in new york in summer,"[8115, 14]","[14, 15]",0.5,0.5,0.6309297535714573,0.5,0.25,Xenova_all_MiniLM_L6_v2
+8,412471599255217462,how much does it cost to go to niagara falls,"[17, 16]","[16, 17]",1.0,1.0,1.0,1.0,1.0,Xenova_all_MiniLM_L6_v2
+9,-3217614552487105199,how to take screenshot on windows 11,"[19, 18]","[18, 19]",1.0,1.0,1.0,1.0,1.0,Xenova_all_MiniLM_L6_v2
+10,-1311850854430207651,what are some of the symptoms of high blood pressure,"[564, 8396]","[20, 21]",0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+11,2074456134471306130,what are some treatment options for stroke,"[4553, 22]","[22, 23]",0.5,0.5,0.6309297535714573,0.5,0.25,Xenova_all_MiniLM_L6_v2
+12,2951276699925577161,organic dog food for sensitive stomachs,"[1021, 87]","[24, 25]",0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+13,7582751163005650639,best budget-friendly family vacation spots in California,"[26, 3689]","[26, 27]",0.5,0.5,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+14,-5208256950996155480,what are some popular open source projects,"[8675, 28]","[28, 29]",0.5,0.5,0.6309297535714573,0.5,0.25,Xenova_all_MiniLM_L6_v2

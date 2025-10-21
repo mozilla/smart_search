@@ -1,0 +1,31 @@
+query_id,query,relevant_doc,relevant_url,retrieved_id,retrieved_title,retrieved_url,retrieved_combined_text,retrieved_combined_distance,rank
+-6228926133452113274,healthy rice,0,http://getfit.jillianmichaels.com/eating-rice-healthy-1183.html,0,Is Eating Rice Healthy?,http://getfit.jillianmichaels.com/eating-rice-healthy-1183.html,Is Eating Rice Healthy?,0.13120727241039276,1
+,,1,http://encyclopedia2.thefreedictionary.com/Rice+(crop),1,rice,http://encyclopedia2.thefreedictionary.com/Rice+(crop),rice,0.168068528175354,2
+-9045203990400867459,endodontist,2,http://www.thefreedictionary.com/endodontist,2,endodontist,http://www.thefreedictionary.com/endodontist,endodontist,0.0,1
+,,3,http://www.learnersdictionary.com/definition/endow,3,endow,http://www.learnersdictionary.com/definition/endow,endow,0.453261137008667,2
+3707272916825310329,arsenal,4,https://www.rottentomatoes.com/m/arsenal_2017/,4,Arsenal,https://www.rottentomatoes.com/m/arsenal_2017/,Arsenal,0.0,1
+,,5,https://www.premierleague.com/page/arsenal,5,Arsenal,https://www.premierleague.com/page/arsenal,Arsenal,0.0,2
+-3155287227620259385,gavaskar border trophy,6,http://www.dictionary.com/browse/trophy,6,trophy,http://www.dictionary.com/browse/trophy,trophy,0.46149730682373047,1
+,,7,http://www.thefreedictionary.com/extravasation,7,extravasation,http://www.thefreedictionary.com/extravasation,extravasation,0.5844522714614868,2
+307707437160407178,grand slam champion,8,http://www.dictionary.com/browse/grand-slam,8,grand slam,http://www.dictionary.com/browse/grand-slam,grand slam,0.12189523130655289,1
+,,9,https://en.wikipedia.org/wiki/Grand_Slam_(tennis),9,Grand Slam (tennis),https://en.wikipedia.org/wiki/Grand_Slam_(tennis),Grand Slam (tennis),0.1933554708957672,2
+-4218617831271547778,capital gain,10,https://www.inc.com/encyclopedia/capital-gain-loss.html,10,Capital Gain/Loss,https://www.inc.com/encyclopedia/capital-gain-loss.html,Capital Gain/Loss,0.18008072674274445,1
+,,11,https://en.wikipedia.org/wiki/Capital_One,11,Capital One,https://en.wikipedia.org/wiki/Capital_One,Capital One,0.2551022469997406,2
+-4560794658415750881,credit limit,12,http://www.thefreedictionary.com/credit+limit,12,credit limit,http://www.thefreedictionary.com/credit+limit,credit limit,0.0,1
+,,13,https://cs.kohls.com/app/answers/detail/a_id/216/~/credit-limit-increases,13,Credit Limit Increases,https://cs.kohls.com/app/answers/detail/a_id/216/~/credit-limit-increases,Credit Limit Increases,0.088689886033535,2
+-80104652699521851,annuity,14,http://www.investorwords.com/225/annuity.html,14,annuity,http://www.investorwords.com/225/annuity.html,annuity,0.0,1
+,,15,http://www.dictionary.com/browse/annuity,15,annuity,http://www.dictionary.com/browse/annuity,annuity,0.0,2
+2933403728085579050,physiology,16,https://medicalsciences.med.unsw.edu.au/students/disciplines/physiology,16,Physiology,https://medicalsciences.med.unsw.edu.au/students/disciplines/physiology,Physiology,0.0,1
+,,17,https://quizlet.com/30005569/physiology-flash-cards/,17,physiology,https://quizlet.com/30005569/physiology-flash-cards/,physiology,0.0,2
+-4771646699456553057,myopia,18,http://www.innovateus.net/innopedia/what-myopia,18,What is Myopia?,http://www.innovateus.net/innopedia/what-myopia,What is Myopia?,0.03153112158179283,1
+,,19,https://eyecaretyler.com/resources/how-the-eye-works/the-nearsighted-eye-myopia/,19,The Nearsighted Eye (Myopia),https://eyecaretyler.com/resources/how-the-eye-works/the-nearsighted-eye-myopia/,The Nearsighted Eye (Myopia),0.2968217730522156,2
+-4018404194856441546,amyloidosis,20,https://www.seattlecca.org/diseases/amyloidosis,20,Amyloidosis,https://www.seattlecca.org/diseases/amyloidosis,Amyloidosis,0.0,1
+,,21,http://www.thefreedictionary.com/amyloidosis,21,amyloidosis,http://www.thefreedictionary.com/amyloidosis,amyloidosis,0.0,2
+-2634501501259578966,alopecia,22,https://www.drugs.com/health-guide/alopecia-areata.html,22,Alopecia Areata,https://www.drugs.com/health-guide/alopecia-areata.html,Alopecia Areata,0.18723614513874054,1
+,,23,https://medlineplus.gov/ency/article/001450.htm,23,Alopecia areata,https://medlineplus.gov/ency/article/001450.htm,Alopecia areata,0.18723614513874054,2
+5782008469215420037,dermatitis,24,https://en.wikipedia.org/wiki/Eczema,24,Dermatitis,https://en.wikipedia.org/wiki/Eczema,Dermatitis,0.0,1
+,,25,http://medical-dictionary.thefreedictionary.com/viral+contagious+dermatitis,25,dermatitis,http://medical-dictionary.thefreedictionary.com/viral+contagious+dermatitis,dermatitis,0.0,2
+9040282400481552578,coffee shop,26,http://uptv.com/movies/coffee-shop/,26,Coffee Shop,http://uptv.com/movies/coffee-shop/,Coffee Shop,0.0,1
+,,27,http://www.coffeeam.com/coffee-storage.html,27,How to Store Coffee,http://www.coffeeam.com/coffee-storage.html,How to Store Coffee,0.17242856323719025,2
+-5650114323313508818,ball drop,28,https://www.balldrop.com/article/history-of-times-square-ball-drop,28,Times Square Ball Drop,https://www.balldrop.com/article/history-of-times-square-ball-drop,Times Square Ball Drop,0.237295463681221,1
+,,29,http://www.dictionary.com/browse/drops,29,drop,http://www.dictionary.com/browse/drops,drop,0.29130157828330994,2

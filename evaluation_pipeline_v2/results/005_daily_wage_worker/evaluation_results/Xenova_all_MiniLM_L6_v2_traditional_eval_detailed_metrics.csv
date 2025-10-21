@@ -1,0 +1,101 @@
+,query_id,query,retrieved_ids,relevant_docs,precision@2,recall@2,ndcg@2,reciprocal_rank,average_precision,model_name
+0,2739640691260037415,renewal info for WV physicians,"[2949, 1702]",[2949],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+1,8410394986346664485,causes of ivory vertebra on x-ray,"[2389, 1190]",[2389],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+2,-2477105050541357340,how semi-structured job interviews work,"[1644, 1937]",[1644],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+3,7848186786940447955,start a career as a leasing agent,"[70, 1592]",[70],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+4,6773561125149764465,remove skunk odor from pets and house,"[2045, 3175]",[2045],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+5,-4316456249829516673,article on hazing at the citadel,"[263, 540]",[263],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+6,-8635535613089024851,how bones and muscles work together,"[1042, 1787]",[1042],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+7,2975752486779585283,southern california disneyland 3-day discount,"[2917, 2538]",[2917],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+8,-6456159322073100799,chianti wine region travel guide,"[450, 1842]",[450],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+9,4980930279098116205,how much wet food for diabetic cat,"[1832, 1626]",[1832],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+10,-2021280953725217508,who is guanyin in chinese buddhism,"[538, 1684]",[538],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+11,-8045523057911457658,how wealthy is gabe kaplan,"[1506, 2235]",[1506],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+12,5803700007190704289,actor who married most onscreen,"[2907, 1897]",[2907],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+13,3426592990868471665,is nuclear power cleaner than coal,"[729, 2324]",[729],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+14,-8754932163276608156,when to report PPACA overpayments,"[2415, 1804]",[2415],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+15,3283748845148694963,professional vegan 12-free nail polish,"[1025, 358]",[1025],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+16,-4452142742351209460,how to say charboneau,"[3047, 72]",[1268],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+17,2612621933609740998,court ruling that clarifies legal rights,"[201, 2196]",[1477],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+18,-5355572323399436974,key largo court records and clerk contacts,"[457, 2812]",[457],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+19,6283342636619713631,dining and attractions in Wilson NC,"[2766, 999]",[2766],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+20,897289339601696029,advantages and disadvantages of hospital administration,"[3087, 1538]",[3087],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+21,-8968955618445130573,lincoln treasury secretary turned chief justice,"[3039, 2423]",[3039],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+22,875559010370155125,land corruption impact on women africa,"[2470, 2154]",[2470],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+23,-6416550368444714577,victim identified in Lincoln police shooting,"[442, 1243]",[442],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+24,1043785063951063636,insect repellent safety during pregnancy,"[1425, 3065]",[1425],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+25,-7129029933414821894,release engineering role at appian,"[544, 2157]",[544],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+26,6000156801747266138,Katherine Jackson AEG lawsuit testimony,"[438, 979]",[438],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+27,-1250548074564913896,restaurant hostess hourly wage,"[2519, 2635]",[2519],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+28,-2145752048744527131,marine engineer job responsibilities,"[599, 2684]",[599],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+29,-8767870144246775184,is PTE easier than IELTS,"[2620, 2807]",[2620],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+30,2614352477413845030,what to say to insurer after accident,"[1037, 2181]",[1037],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+31,-4823918035498256602,how much to form a delaware llc,"[1385, 2553]",[1385],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+32,-2280371360362475028,entry level land surveyor salary,"[1795, 2133]",[1795],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+33,9076392376711786003,difference between na and nan korean,"[139, 1195]",[139],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+34,-2855324068298827166,people sharing longest Nigerian names,"[1859, 290]",[1859],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+35,7008425358154117697,gloucester nj fire department phone hours,"[1080, 693]",[1080],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+36,-4527739152620342347,what blocked users can still view,"[2210, 1258]",[1258],0.5,1.0,0.6309297535714573,0.5,0.25,Xenova_all_MiniLM_L6_v2
+37,8633495860924830037,job options after BSN degree,"[93, 866]",[93],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+38,646238395331806073,difference between information and indictment canada,"[1651, 672]",[1651],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+39,8683027418193725154,why become a family nurse practitioner,"[1221, 1341]",[1221],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+40,-4640516747655461246,how officers spell letters over radio,"[1426, 3028]",[1426],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+41,-3736640710008661331,find public records southfield mi,"[2371, 2159]",[2371],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+42,-3778451238263346201,how much does pci compliance cost uk,"[346, 1427]",[346],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+43,-3078754171103696642,list of researchers h-index above 100,"[30, 1778]",[30],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+44,-1059826575024455404,how tort law determines liability,"[864, 2010]",[864],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+45,-401217037871007852,how furloughs affect employee benefits,"[1891, 3001]",[1891],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+46,-6990449672331590495,Tylertown town hall address directions,"[257, 888]",[257],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+47,4483476606691909705,it consultant role and responsibilities,"[2849, 1911]",[2849],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+48,-8707740118300176037,mackenzie ziegler dance moms bio,"[1657, 1113]",[1657],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+49,4403907407782984814,ancient origins of plastic surgery,"[1251, 1724]",[1251],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+50,-3473754441957663310,madrid neighborhood map walking guide,"[2980, 582]",[2980],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+51,559819944479035046,ssn randomization explained,"[755, 2743]",[755],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+52,6952999033104862810,difference between sdr and dr pipes,"[2499, 467]",[2499],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+53,-2715765914779480840,how to reach Money Network support,"[3108, 1921]",[3108],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+54,530217379842004465,meaning of french word papillon,"[134, 1279]",[134],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+55,4925482331901622485,cowlitz tribal substance abuse help,"[80, 3157]",[80],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+56,-8191908723252441867,civil war effects on american life,"[594, 2437]",[594],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+57,1985681841092190208,essential skills to learn in computer science,"[229, 2849]",[229],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+58,-6296167510907196429,meaning of inquiry in English,"[1323, 761]",[1323],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+59,-1349977987837563388,drugs used to relieve anxiety,"[461, 2174]",[461],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+60,-7772527683629064824,Tyler Perry Madea film starring Taraji P Henson,"[2973, 2355]",[2973],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+61,9109248198341453612,budapest september packing advice,"[331, 2657]",[331],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+62,-6795451210039807059,meaning of OTMA on minor bank account,"[734, 3226]",[734],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+63,6273338319917994093,architecture career path and prospects,"[52, 796]",[52],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+64,-4994857173745658347,political challenges planting flag on moon,"[2033, 2618]",[2033],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+65,559019440720934192,meaning of problema in english,"[1800, 1878]",[1800],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+66,-8232857096923261078,how unisys improved hr service delivery,"[812, 526]",[812],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+67,-4489246323666222608,words meaning lacking skill,"[3120, 2142]",[3120],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+68,4672393210190965328,how to cleanse colon of toxic buildup,"[3269, 787]",[3269],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+69,882696471607971302,bureau veritas classed fleet information,"[2947, 1565]",[2947],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+70,527985769736569669,randy the scarer monsters inc,"[2469, 1368]",[2469],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+71,-5896034952073341432,Stevensville MD sheriff office info,"[1220, 2633]",[1220],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+72,8905665986790579834,how teen parenthood affects graduation,"[486, 214]",[486],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+73,-9053607871860546868,what causes poor leg circulation,"[1053, 1698]",[1053],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+74,6227157339164369555,concerns about florida involuntary psychiatric commitment,"[839, 2969]",[839],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+75,-8611633047016401357,reasons behind Japanese American internment,"[279, 326]",[279],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+76,4627876890601937910,time to clear marijuana after one puff,"[254, 2785]",[254],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+77,-3083136800172935885,wv driver's license renewal cost,"[765, 1943]",[765],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+78,6704617341062741001,maldives islands travel aerial video,"[842, 3096]",[842],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+79,-6512196428884747974,property license vs easement explained,"[3081, 2139]",[203],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+80,2195837463302225907,what are Hungarians like,"[3245, 1442]",[3245],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+81,5498465499347081554,languages spoken in the Amazon rainforest,"[3016, 965]",[2764],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+82,3640511791056092672,view project costs by task or resource,"[557, 541]",[557],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+83,6916859040310923981,bemidji paul bunyan and babe statues,"[1378, 2778]",[1378],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+84,1346056037299406208,internet service options from dish,"[1953, 1241]",[1953],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+85,-7636050225685201413,urologic complications and management in hiv,"[1264, 980]",[1264],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+86,-1062065855522191619,annual Newcastle surf competition,"[3127, 1431]",[3127],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+87,-3390608643505573972,seattle sales tax increase for transit,"[1187, 1185]",[1187],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+88,8156530970585176298,prevent children from accessing firearms,"[1023, 2520]",[1023],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+89,-2814774643101409543,asp.net provider model for sitemaps,"[17, 1627]",[17],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+90,4099202553299912724,inglewood ca maps photos stats,"[811, 582]",[811],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+91,699064602061525406,word for projecting emotions onto others,"[612, 90]",[612],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+92,2754730701838777182,english professional golfer from southport,"[3116, 1012]",[3116],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+93,-5114311927729521823,chandler az city demographics maps,"[2676, 582]",[2676],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+94,203416418415354729,how to encourage teens to volunteer,"[962, 205]",[962],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+95,-7216732017972220036,considering blood transfusions instead of transplant,"[1333, 1871]",[1411],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+96,-585997066530222202,how ants use pheromones,"[2500, 1425]",[2500],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+97,-1842801571483508956,how to attract wildlife to backyard,"[411, 898]",[411],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+98,-2879282094063349974,how to become a childminder uk,"[1017, 2309]",[1017],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+99,-7745586724977941812,baker college distance programs accreditation,"[1929, 352]",[1929],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2

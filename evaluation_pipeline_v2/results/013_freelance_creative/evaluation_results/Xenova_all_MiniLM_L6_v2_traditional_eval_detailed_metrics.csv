@@ -1,0 +1,101 @@
+,query_id,query,retrieved_ids,relevant_docs,precision@2,recall@2,ndcg@2,reciprocal_rank,average_precision,model_name
+0,7708637546414761405,type 2 diabetes combination drug info,"[1492, 1241]",[1492],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+1,3486489829751520355,what printer should I buy,"[1156, 101]",[1156],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+2,3671010002286102952,torrey devitto dating history and children,"[1253, 882]",[1253],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+3,-4123745373007358668,what are high g low f harmonicas,"[561, 944]",[561],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+4,7780961781349625805,mayflower voyage 1620 history,"[410, 1181]",[1098],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+5,-2489937728133050143,über meaning in English,"[582, 749]",[582],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+6,-7870373265316449684,optimal time to eat in morning,"[967, 159]",[1511],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+7,8383588691880871701,can i get shingles vaccine at walgreens,"[1322, 219]",[1322],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+8,-5634025117240784363,save audio from youtube videos,"[368, 1097]",[1202],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+9,3462567542087626012,small white disposable dessert plates,"[1320, 1531]",[1320],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+10,8531618524397798669,teen essay on education and success,"[1298, 347]",[1298],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+11,-5191347917694020439,how metaphysical poets use conceits,"[567, 550]",[567],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+12,6898696628679475015,discount dog crates and kennels,"[1416, 666]",[1416],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+13,2478699293908957589,how different mountain dulcimers sound,"[316, 499]",[316],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+14,-4285507096865667721,is two-face coming to gotham,"[30, 1206]",[30],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+15,1422836661288141472,heal liver after heavy drinking,"[929, 529]",[529],0.5,1.0,0.6309297535714573,0.5,0.25,Xenova_all_MiniLM_L6_v2
+16,3306467684771305984,free piano score for america's patriotic song,"[1448, 306]",[306],0.5,1.0,0.6309297535714573,0.5,0.25,Xenova_all_MiniLM_L6_v2
+17,3722102973820651588,greatest left-handed baseball pitchers,"[843, 1389]",[843],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+18,3387677530940569496,movie about a cop and congresswoman,"[820, 177]",[332],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+19,1401403524952257135,activities to avoid after pacemaker surgery,"[1284, 591]",[1284],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+20,726795405913600918,acreage listings near Carl Junction MO,"[478, 1119]",[478],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+21,5076978117600157883,morgan hill hotel map and prices,"[483, 1265]",[483],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+22,-5976765068132707119,lakeview neches river orange county history,"[615, 675]",[615],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+23,-6425688194227186655,creative ways to eat cream of wheat,"[1507, 439]",[1507],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+24,3449211733626871250,postmenopausal vaginal dryness causes treatment,"[290, 1277]",[619],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+25,-4737470109090186411,kennedy on conformity and growth,"[275, 333]",[275],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+26,5246348990584491134,ray charles early R&B hit,"[147, 258]",[1339],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+27,-3027451802932446876,dennis quaid 2004 movies and marriage,"[674, 1145]",[674],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+28,-3568946658380441412,healthy whole grain alternatives to rice,"[439, 1241]",[439],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+29,1072516813204027391,wahlburgers vegan gluten free options,"[636, 204]",[636],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+30,8111775809523022285,women's watches for sport and dress,"[1312, 330]",[1312],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+31,6609441870215081835,blue eyed son song lyrics,"[1290, 896]",[1290],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+32,-5885015593595590929,are the kardashians getting cancelled over scandals,"[383, 1380]",[383],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+33,6759350252592788072,how people perceive beauty,"[941, 1375]",[941],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+34,-724717793180867593,local imax showtimes and locations,"[99, 909]",[99],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+35,-2539209321205120026,definition of a large marine billfish,"[1197, 880]",[1197],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+36,4874109450916532751,which olsen twin played michelle more,"[1459, 1186]",[978],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+37,7554084033246931226,west side story song about feeling beautiful,"[1283, 306]",[1283],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+38,-6314402509707041384,how to tell if it is sinusitis,"[382, 935]",[382],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+39,3145284863759761740,does marijuana reduce motivation,"[679, 69]",[679],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+40,5364680972277316422,pale humanoid creepypasta creature,"[916, 482]",[482],0.5,1.0,0.6309297535714573,0.5,0.25,Xenova_all_MiniLM_L6_v2
+41,48630280853903524,crossword clue for awards emcee,"[168, 770]",[168],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+42,1638934311728449349,choosing between haemodialysis and peritoneal,"[59, 787]",[59],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+43,-425932844338909800,average lifespan by country,"[905, 23]",[23],0.5,1.0,0.6309297535714573,0.5,0.25,Xenova_all_MiniLM_L6_v2
+44,7159299909454938709,definition of official rebuke,"[898, 1019]",[898],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+45,7692326012725811839,viggo mortensen interview on turning down tarantino,"[416, 148]",[416],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+46,-1397221231584197593,Chaucer tale about greed and death,"[49, 564]",[49],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+47,4972106377725745899,who is josh temple hgtv host,"[1285, 447]",[1285],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+48,3415658347961960643,how much eye relief for hunting,"[1063, 1205]",[1063],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+49,2236496347099528807,how to map a story plot,"[752, 1129]",[752],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+50,5118190780811820981,does dehydration raise resting pulse,"[1158, 69]",[513],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+51,-4174847046166304945,do i need a habitat stamp in colorado,"[220, 804]",[220],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+52,4265984179562752503,oregon september typical temps,"[548, 10]",[548],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+53,-4103567256616444160,most terrifying natural phenomena ever,"[1001, 572]",[1001],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+54,5405996416411563203,managing depression with chronic illness,"[65, 867]",[65],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+55,8022101253918646228,women's easy weekend outfits new arrivals,"[342, 512]",[342],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+56,6451717491836329621,how wealthy is jennifer lopez,"[538, 893]",[538],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+57,-8821820034630484085,real shopper reviews for aliexpress,"[621, 521]",[621],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+58,-2647255842492573493,how to repaint over existing paint,"[1268, 1472]",[1268],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+59,-6730266716367042962,buy rs3 gold safely online,"[614, 783]",[614],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+60,6519366809542904771,partner experiencing pregnancy symptoms,"[1149, 434]",[1149],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+61,-2362151113352938374,programs that connect veterans to community,"[861, 36]",[861],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+62,3772472891754090934,managing blood sugar by avoiding sweets,"[680, 1196]",[680],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+63,-9025317478426494632,types of felt tip markers,"[239, 921]",[239],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+64,-4260573990305948474,high-performance full coverage makeup,"[123, 101]",[123],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+65,8304131472932245125,austin weather and seasonal overview,"[1344, 10]",[1344],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+66,8625036945269727796,bloodhound gang egged at russian festival,"[76, 997]",[76],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+67,-5673331373662180692,seed leaves role in plants,"[1504, 1338]",[1504],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+68,-4873315294068195869,paper towel absorbency comparison by brand,"[1474, 1112]",[1474],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+69,-6925426464424612708,trotsky personal life biography review,"[1100, 604]",[1100],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+70,-6020867061155028618,why is my leg numb,"[51, 1259]",[51],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+71,8228595413523067708,seated rehearsal for singers and orchestra,"[70, 1346]",[70],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+72,5359881377722089720,best months to visit Bali,"[432, 1143]",[432],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+73,-5993061598227883579,last jedi opening weekend gross,"[664, 1397]",[664],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+74,-6741719354750005757,criticisms of social justice warriors,"[240, 1212]",[240],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+75,4581279142070635097,who is actor william devane,"[124, 487]",[124],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+76,-3666522310164064443,Pete Townshend estimated fortune,"[1211, 1407]",[1211],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+77,9067526245634931933,excel show optional decimal places,"[744, 1060]",[744],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+78,4317225488008892885,katherine jackson testifies in aeg lawsuit,"[1037, 1051]",[1037],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+79,5160709076679935661,little women la couple expecting baby,"[1288, 992]",[1288],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+80,7242707890703894996,carbonating keg beer without CO2,"[1453, 1297]",[1453],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+81,-4970225547204928372,Avalon song by Roxy Music video,"[331, 653]",[331],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+82,-6732696714283209830,how long is alcohol detectable,"[514, 590]",[514],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+83,4232443176246462736,ancient descriptions of Hera's appearance,"[259, 1478]",[259],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+84,4333767836796126025,fate of marie antoinette's remains,"[175, 1053]",[175],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+85,2165714774588544791,"how composer, musician and producer differ","[371, 142]",[371],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+86,-5870642720612242098,does dkny apple perfume smell realistic,"[1083, 205]",[1083],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+87,760866492080283914,princess leia actress biography,"[1478, 599]",[599],0.5,1.0,0.6309297535714573,0.5,0.25,Xenova_all_MiniLM_L6_v2
+88,-1415252529388051930,how many calories in a serving of chili,"[721, 520]",[721],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+89,3449214934607805580,street jazz dance classes Tulsa,"[1089, 154]",[1089],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+90,2000718938840990654,how to become a night person,"[777, 1190]",[777],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+91,5012205882084921255,what did prehistoric humans eat,"[1491, 828]",[1491],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+92,-3777746982344753600,ground-digging wasp that hunts cicadas,"[707, 82]",[707],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+93,-249239413255125793,regis college boston programs and tuition,"[844, 1488]",[844],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+94,7403702476467816841,average price and lifespan eyelash extensions,"[1305, 798]",[1305],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+95,-5816457608799063573,use aa miles to upgrade ba business,"[354, 678]",[354],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+96,-5560429540529047310,smashing pumpkins single from siamese dream,"[351, 1307]",[351],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+97,-2149361988929884333,origins and evolution of porsche 911,"[67, 1329]",[67],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+98,-6641316625360290387,wolverine claws look odd in new image,"[485, 575]",[485],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+99,-1453900570968507085,wrist pain and numbness from typing,"[468, 1274]",[468],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2

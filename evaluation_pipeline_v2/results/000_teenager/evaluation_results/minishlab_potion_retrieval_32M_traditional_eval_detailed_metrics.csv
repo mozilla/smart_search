@@ -1,0 +1,101 @@
+,query_id,query,retrieved_ids,relevant_docs,precision@2,recall@2,ndcg@2,reciprocal_rank,average_precision,model_name
+0,4774392031636169915,risks of HCG weight loss plan,"[309, 443]",[309],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+1,-5904435602652576188,heart-healthy diet for cardiomyopathy,"[1040, 870]",[1040],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+2,2687229092221572985,Marquee nightclub expensive bottle service,"[381, 692]",[381],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+3,-9009602022966755122,Slovenia travel highlights and events 2015,"[497, 546]",[497],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+4,-559872298129953111,Ice Cube Iverson BIG3 3-on-3 league,"[914, 243]",[914],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+5,-1191417342126532885,One Ring inscription verse,"[974, 949]",[974],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+6,4006267926633206298,Ricola honey-herb throat drops nutrition,"[96, 341]",[96],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+7,3851899070741354730,DPA Gold fish oil 180 count,"[289, 889]",[289],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+8,8313933637264827456,AHS Asylum Emmy nominations and wins,"[644, 474]",[644],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+9,3317027704835123350,DKNY apple fragrance natural or artificial,"[101, 797]",[101],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+10,1779580926768840035,typical recovery timeline after stroke,"[1100, 584]",[1100],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+11,-7480742742932216733,Baker's cyst causing knee pain,"[70, 52]",[70],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+12,-2694634385924726615,DC legal massage parlors and brothels,"[668, 1041]",[668],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+13,233412967855464814,health risks of not brushing teeth,"[481, 1002]",[481],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+14,6156948881859464730,Hufflepuff house traits and famous members,"[439, 91]",[439],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+15,2696102029743684798,reasons Britain granted Indian independence 1947,"[875, 558]",[875],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+16,7920767792395618214,how to make salads more nutritious,"[294, 1021]",[294],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+17,-4392094682342153914,definition of the conjunction or,"[328, 418]",[328],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+18,5177419802394116624,arguments that chess is a sport,"[432, 747]",[432],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+19,-4694932209840694536,Fats Waller jazz pianist profile,"[141, 895]",[141],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+20,-5071146976750656166,non-surgical treatment chronic shoulder dislocation,"[760, 324]",[760],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+21,-3144633994722554739,art photography movement late 19th century,"[803, 458]",[458],0.5,1.0,0.6309297535714573,0.5,0.25,minishlab_potion_retrieval_32M
+22,-5374375445776773590,Bret Hart filmography and bio,"[761, 888]",[761],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+23,-4052346815444887789,ethnic food guide pyramids,"[869, 989]",[869],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+24,4808289788738952069,BBC stars earning over half a million,"[853, 541]",[853],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+25,-6418692119482103313,Sphero BB-8 smartphone-controlled droid review,"[790, 859]",[790],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+26,-4129814870525325610,diabetes-friendly grocery shopping list,"[535, 128]",[535],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+27,1578731963301368100,Swizz Beatz ethnic background and bio,"[361, 189]",[361],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+28,-5463456791668369537,impacts of makerspaces in libraries,"[887, 831]",[887],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+29,8894960354218040174,Albemarle community college career resources,"[398, 409]",[398],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+30,9140780640810418643,Game of Thrones season one details,"[447, 134]",[447],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+31,2883801461580964623,posthumous publication of Emily Dickinson,"[209, 599]",[209],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+32,-5470965747193660870,Montgomery County TN demographics and housing,"[501, 409]",[501],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+33,-24878631592305041,Hamlin Marsh conservation area Clay NY,"[780, 907]",[780],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+34,6990231389188594566,Can multiple devices stream Netflix simultaneously,"[910, 715]",[910],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+35,2313293362674797357,Justin Bieber collaborator and producer,"[411, 154]",[411],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+36,3672228589193636412,Randy Travis marries Mary Davis 2015,"[688, 1030]",[688],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+37,2064211915100039916,Johnny Worricker David Hare drama,"[696, 725]",[696],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+38,676516961641046645,create 35mm slides from digital photos,"[44, 756]",[44],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+39,-4986818374960842283,video poker odds and payouts,"[533, 405]",[533],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+40,562927177886078643,extra-large beach towel for two,"[764, 543]",[764],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+41,-403735139741181698,Welsh baby name meaning butterfly,"[334, 122]",[334],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+42,408989002564630945,accounts payable clerk salary averages,"[693, 853]",[693],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+43,-4934155904272538275,Linksys wireless routers for home,"[601, 117]",[601],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+44,1282295172181400802,Surgical ICU information for families,"[525, 760]",[525],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+45,4831593602140531418,Italian avant-garde music movement 1910s,"[467, 395]",[467],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+46,5342236022186624054,what is a golf hazard,"[941, 1087]",[941],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+47,4747812337316073085,Michael Kaufman actor Bulworth Nixon,"[1028, 1054]",[1028],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+48,3653057016538938725,how to identify and prevent spiders,"[448, 744]",[448],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+49,-1599217397946725841,songwriter of Angel of the Morning,"[1035, 737]",[917],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+50,-309364938791378766,James Bond theme sung by Shirley Bassey,"[51, 953]",[51],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+51,2973102422045473145,comedic hip-hop song about dogs,"[730, 9]",[730],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+52,-2379857122179339956,Time Warner Cable adds CW channel,"[620, 38]",[620],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+53,-1473046635240404531,meaning of happening without warning,"[968, 469]",[968],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+54,-6790841737216176516,Mark Harmon NCIS salary per episode,"[198, 574]",[198],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+55,-7965391830474428636,Clarice Taylor obituary Cosby Show grandmother,"[56, 453]",[56],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+56,-1731167576623147217,Tenerife 7-day weather and sea forecast,"[506, 766]",[506],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+57,-319403995587384071,Victorious theme song lyrics Victoria Justice,"[298, 179]",[298],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+58,8182186631151594140,Asking Alexandria new vocalist single release,"[529, 1071]",[529],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+59,-3234828953780994734,Frank Sinatra death 1998 obituary,"[737, 259]",[737],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+60,7409339054045761657,origin of saying yoohoo,"[1009, 192]",[192],0.5,1.0,0.6309297535714573,0.5,0.25,minishlab_potion_retrieval_32M
+61,-69483579783654169,dry drowning symptoms in children,"[138, 990]",[138],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+62,-7434046759708453873,New Mountain AVL visitor information,"[1090, 85]",[1090],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+63,-8758587362676886839,online tournament-style all-in poker,"[533, 405]",[405],0.5,1.0,0.6309297535714573,0.5,0.25,minishlab_potion_retrieval_32M
+64,4628407540985234387,Crossgates Mall shopping and dining,"[628, 535]",[628],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+65,5524951657093192398,normal breathing rate and frequency,"[711, 801]",[711],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+66,-4012511151135527289,Audrey Hepburn portrait exhibition photos,"[1054, 950]",[1054],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+67,2285911683804727168,1997 TV miniseries about Teddy Roosevelt's cavalry,"[1013, 1058]",[1058],0.5,1.0,0.6309297535714573,0.5,0.25,minishlab_potion_retrieval_32M
+68,1410028580550828399,SNL premiere 1975 original cast,"[109, 878]",[109],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+69,-8815790811237668020,UVA Greek life overview,"[277, 370]",[277],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+70,198864657345734993,grandmother Noxzema skincare experiment,"[31, 801]",[31],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+71,1900218781475118818,Leon Redbone crossword clue,"[86, 290]",[86],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+72,8786211268794810978,Australian writer Cory Taylor biography,"[453, 917]",[453],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+73,-3166389318691616763,book genre with Latin root meaning life,"[88, 845]",[88],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+74,543406083570193090,foods to eat with gastritis,"[107, 913]",[107],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+75,997936518670409952,Michael Jackson owned memorabilia collection,"[332, 931]",[332],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+76,4066617772612486639,tomato macronutrient content,"[796, 92]",[796],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+77,9092656178355992636,how did Flip Wilson die,"[964, 815]",[964],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+78,-3203399483849819501,Pulitzer Prize winning books list,"[714, 290]",[714],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+79,8861721757262302852,Nickelodeon undersea animated sitcom,"[575, 919]",[575],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+80,8730603023740376550,five kinds of conflict in stories,"[465, 759]",[465],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+81,-662427262486432001,best quiet tires 2018,"[1005, 716]",[1005],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+82,-2643161026729092485,copper for building exteriors,"[425, 901]",[425],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+83,-8400330164074919198,remove hard water film from dishes,"[920, 76]",[920],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+84,5885009119192731619,Germany country information maps tourism,"[617, 1073]",[617],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+85,1455568239791072731,ingots as currency in Murder Mystery,"[736, 889]",[736],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+86,1326779297129165245,Alfonzo Rachel actor filmography,"[936, 474]",[936],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+87,8792416638907560214,atrial fibrillation causes symptoms treatment,"[10, 74]",[10],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+88,-4779071704244232499,Ermias Asghedom Los Angeles rapper biography,"[1091, 231]",[1091],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+89,7097333311489810446,Expose lead singer meth trafficking,"[932, 808]",[932],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+90,-2078759095835266523,Ricardo Hurtado Jada Facer dating rumors,"[723, 1085]",[723],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+91,-6616196479895608768,kids daffodil crafts and activities,"[327, 287]",[327],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+92,-5668526706501109786,how to get a name tag in Minecraft,"[178, 82]",[178],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+93,1831770429202318649,Facebook Solitaire game offering prizes,"[566, 1079]",[566],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+94,777453736278006453,Monkees deluxe CD with extra tracks,"[972, 87]",[972],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+95,-3279703569199011591,artist behind If I Were a Boy,"[589, 122]",[589],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+96,-257993139930898631,Mi'kmaq genealogy and cultural history,"[595, 1099]",[595],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+97,-391300003861070381,post stroke rehabilitation and recovery,"[584, 1100]",[584],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+98,6852636668153300165,how to start as a TV presenter,"[113, 955]",[113],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+99,3128146790023819863,Apple Watch activity and workout guide,"[841, 1069]",[841],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M

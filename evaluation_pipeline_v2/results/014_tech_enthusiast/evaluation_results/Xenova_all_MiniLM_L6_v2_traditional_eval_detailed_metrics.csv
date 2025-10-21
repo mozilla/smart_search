@@ -1,0 +1,101 @@
+,query_id,query,retrieved_ids,relevant_docs,precision@2,recall@2,ndcg@2,reciprocal_rank,average_precision,model_name
+0,6735371139931324852,how technology changes classroom learning,"[393, 1993]",[393],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+1,1826053816765270709,flashcards for kidney and adrenal anatomy,"[3559, 1694]",[3559],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+2,-4504693176410931355,bowling party spot North Brunswick,"[551, 843]",[551],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+3,-2402640680378729043,productagentservice.exe bitdefender file info,"[1295, 113]",[1295],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+4,4426231227371471004,Grace Cho internal medicine physician Cooper,"[818, 3001]",[818],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+5,-2598990871020436935,transfer music photos to galaxy s5,"[2662, 2197]",[2662],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+6,-1013736684785258619,colors produced by a prism,"[567, 3675]",[567],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+7,9014898515567234138,how to conduct academic research,"[1727, 889]",[1727],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+8,-6695244721218613678,wunderlist app syncing across devices,"[1565, 919]",[1565],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+9,-8206026752876900297,what are the fastest things in space,"[2084, 82]",[2084],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+10,1560694587928556684,tmz channel number on dish,"[298, 1665]",[298],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+11,-2122804543462832248,different classes of computers and uses,"[109, 1795]",[109],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+12,8425853924462315883,identify subject and object in sentences,"[2271, 1503]",[2271],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+13,1599497066652890395,open zip files on windows,"[2932, 1204]",[2932],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+14,2290766045944775152,do female mantises eat their mates,"[1334, 620]",[1334],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+15,4500610959081970405,flashcards for family kinship terms,"[3376, 1610]",[3376],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+16,326475514193367808,sensual massage for spiritual awakening,"[605, 2005]",[605],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+17,7734538181820193503,socket in temporal bone for lower jaw,"[1680, 3594]",[2126],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+18,7251640091801856142,could wake pathway problems cause insomnia,"[1702, 3611]",[1702],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+19,-2540545551187428050,how reading coaches support teachers,"[2725, 2166]",[2725],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+20,8654501336350064105,age groups of US gamers 2017,"[3648, 1088]",[3648],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+21,-8446575305971604728,how teen parenthood affects graduation,"[1457, 2697]",[1457],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+22,-7887068064922258526,goosebumps books made obsolete by smartphones,"[527, 449]",[527],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+23,-5088996619966648678,fix iphone screen scratches,"[3640, 2139]",[3640],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+24,7295224728271006096,how did Enlightenment shape US Constitution,"[1084, 2235]",[1084],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+25,285441622164981990,why some cycles release multiple eggs,"[3592, 2748]",[3592],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+26,-5093142889153958453,why is my bass amp distorted,"[1642, 2796]",[1642],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+27,3488437105915029730,what are bike spokes made of,"[387, 2916]",[387],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+28,-382694837623974150,how to cook eggs with runny yolks,"[3403, 1530]",[3403],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+29,-4763447169167713822,identify and prevent household spiders,"[620, 1141]",[93],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+30,808362188122824022,free online small business classes,"[997, 2600]",[997],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+31,444020290244836152,differences between ear and balance specialists,"[32, 2715]",[32],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+32,-5486781689178387179,microsoft javascript dialect for windows,"[486, 3111]",[486],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+33,8858188847869856997,convert cups to grams for baking,"[621, 964]",[621],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+34,8852048998318285060,dobbies garden centre perth opening times,"[1940, 1443]",[1940],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+35,3216642273583315090,total poems by Emily Dickinson,"[1110, 2514]",[1110],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+36,-358700172791873056,oklahoma gin rummy tutorial,"[2689, 492]",[2689],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+37,3408735077943849203,respiratory acidosis symptoms and treatment,"[9, 149]",[149],0.5,1.0,0.6309297535714573,0.5,0.25,Xenova_all_MiniLM_L6_v2
+38,7753323435205709547,physical map meaning in geography and genetics,"[952, 2317]",[952],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+39,-4796607589150844653,which photosynthesis stage produces oxygen,"[1764, 1293]",[1764],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+40,-8532962987042329433,how tile drainage improves yields,"[3216, 3482]",[3216],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+41,2924880850683159244,mixing pedvax and comvax schedule,"[2649, 3509]",[2649],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+42,-7263428965869948460,how to hide google search bar,"[2658, 2153]",[2658],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+43,-2937255893826057940,how to throw a child's birthday,"[1272, 1472]",[1272],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+44,961365648154721837,beginner guide organizing usb files,"[1820, 1373]",[1820],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+45,9111026693235037666,review questions big bang cosmology,"[1553, 1021]",[1553],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+46,-3939209383253848825,why does water dissolve many things,"[1917, 218]",[3275],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+47,6273846196977836939,burt reynolds longest yard quiz,"[179, 3463]",[179],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+48,-1553282489508762433,secondary effect with no causal power,"[3519, 3570]",[196],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+49,130695066855542197,how much to charge for cat5 installation,"[3668, 368]",[3668],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+50,4779312452565463476,create boxplot from five-number summary,"[907, 3176]",[907],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+51,6256698056971585164,basic elisa protocol and troubleshooting,"[3558, 770]",[3558],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+52,-5504778794262731519,which scientist discovered pepsin,"[3520, 1801]",[3520],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+53,-7669448312799805121,pool water green after shock treatment,"[3489, 3661]",[3489],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+54,-1779801868656724005,achievements of America's first government,"[1015, 2235]",[1507],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+55,8401907190811766882,what does landmark mean in research,"[120, 3630]",[120],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+56,8778880222131957396,average pay for ski instructors,"[14, 1073]",[14],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+57,-3654256560492708079,why some gels liquefy when stirred,"[1107, 1437]",[2965],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+58,-5022854392224823562,new deal impact on black americans,"[2677, 2354]",[2677],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+59,6744617327189821908,tools and equipment outlet with free shipping,"[752, 2888]",[752],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+60,-1598147813096890457,b12 needs for birth control users,"[1929, 616]",[1929],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+61,6945132826986486813,temperate evergreen forest climate and vegetation,"[3288, 1786]",[3288],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+62,-7875323468945178304,safe rappelling techniques for rock climbing,"[1765, 1547]",[1765],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+63,-3038959111289206258,how to forward ports for xbox one,"[17, 1612]",[17],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+64,1252008285245450840,meaning of http/1.1 status codes,"[2921, 297]",[2921],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+65,-6336103477995380565,how dietary fats enter lymph,"[314, 2959]",[314],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+66,559890003923746077,annual environmental science prize with cash award,"[1235, 2108]",[1235],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+67,1655893488032707515,how do plants get energy to make food,"[1513, 2910]",[1513],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+68,-4660919102934126309,stop host profiles asking for mac,"[1483, 2571]",[1483],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+69,2582411407167209393,tip of the tongue brain regions,"[2636, 893]",[2740],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+70,5126665985594446266,meaning and usage of snickered,"[1620, 1528]",[1620],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+71,4763447722214737880,progesterone cream experiences for acne,"[2005, 2058]",[2005],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+72,6785224440312574887,missouri park for trout fishing and camping,"[1200, 1090]",[3264],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+73,-1714385914039542577,best probiotic supplements 2018 buying tips,"[1798, 3618]",[1798],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+74,4583674449311828169,remove uTorrent from Windows 8,"[1105, 3609]",[1105],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+75,-4721362962352829671,satellite internet options near me,"[3352, 2199]",[3352],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+76,-665511937403201378,deindividuation theory explained with examples,"[3066, 1870]",[3066],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+77,2804584259425288788,7th grade china medieval history flashcards,"[1738, 3642]",[1738],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+78,-962182274171237396,remove and reinstall hardware windows 7,"[897, 640]",[897],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+79,7157983533158104016,antacid brand similar to maalox,"[3177, 880]",[3177],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+80,8598011024107726066,reroute directions on garmin nuvi,"[2802, 820]",[2802],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+81,2468927334574618659,device to reduce scarring after vascular surgery,"[461, 3153]",[461],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+82,4337542265664268517,psychology notes in APA format,"[3129, 92]",[746],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+83,832397819361955215,which college teams had longest home streaks,"[2645, 3330]",[2645],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+84,-1052024064486600881,how output current depends on input voltage,"[1897, 1616]",[1616],0.5,1.0,0.6309297535714573,0.5,0.25,Xenova_all_MiniLM_L6_v2
+85,-7380579743988656459,how to choose medical schools to apply,"[2225, 1037]",[2225],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+86,4482672404514560182,what does conflation mean,"[3094, 2798]",[3094],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+87,8822195557078179239,are polio cases still happening and curable,"[3215, 898]",[3215],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+88,-5286708737268947839,eunice cardinals high school sports,"[676, 3550]",[676],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+89,5002293764759116397,word keeps crashing on exit,"[790, 2299]",[790],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+90,5101846260629745579,legal disposal of old office printers,"[2962, 1975]",[2962],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+91,-4796281802774974341,definition of a unit in retrieval systems,"[1922, 370]",[1922],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+92,547524442630062279,net ionic equation for silver chloride precipitate,"[351, 2617]",[351],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+93,2017167519883740431,sudden unexplained death during sleep,"[438, 3611]",[438],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+94,5530405076176829220,play blu-ray discs with vlc player,"[744, 2213]",[744],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+95,-1608117376462722184,how to pour a perfect Guinness,"[2221, 1634]",[2221],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+96,-1456275642100527989,origins and causes of thirty years war,"[1770, 352]",[1770],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+97,2759699964863387253,when to withhold furosemide dose,"[1984, 950]",[781],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+98,3227445697730849781,natural disaster lab study flashcards,"[693, 25]",[693],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+99,1875640115861664033,Molefi Kete Asante theory origins,"[410, 799]",[410],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2

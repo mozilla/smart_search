@@ -1,0 +1,482 @@
+{
+  "3671331595970530544": {
+    "query_id": "3671331595970530544",
+    "query": "alternative medicine to manage ringing in my ear",
+    "relevants": [
+      {
+        "relevant_doc": 0,
+        "relevant_url": "http://symptomchecker.webmd.com/single-symptom?symptom=ringing-in-ears&symid=193"
+      },
+      {
+        "relevant_doc": 1,
+        "relevant_url": "http://www.rightdiagnosis.com/sym/ringing_in_ears.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 0,
+        "title": "Ringing in ears",
+        "url": "http://symptomchecker.webmd.com/single-symptom?symptom=ringing-in-ears&symid=193",
+        "combined_text": "Ringing in ears",
+        "distance": 0.33442482352256775
+      },
+      {
+        "id": 1,
+        "title": "Ringing in ears",
+        "url": "http://www.rightdiagnosis.com/sym/ringing_in_ears.htm",
+        "combined_text": "Ringing in ears",
+        "distance": 0.33442482352256775
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4454221199831456886": {
+    "query_id": "-4454221199831456886",
+    "query": "solutions for noisy neighbors",
+    "relevants": [
+      {
+        "relevant_doc": 2,
+        "relevant_url": "http://www.thefreedictionary.com/noisy"
+      },
+      {
+        "relevant_doc": 3,
+        "relevant_url": "http://www.noisehelp.com/loud-neighbors.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2,
+        "title": "noisy",
+        "url": "http://www.thefreedictionary.com/noisy",
+        "combined_text": "noisy",
+        "distance": 0.4004109501838684
+      },
+      {
+        "id": 3,
+        "title": "Types of Loud Neighbors",
+        "url": "http://www.noisehelp.com/loud-neighbors.html",
+        "combined_text": "Types of Loud Neighbors",
+        "distance": 0.42597582936286926
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-7758016915635062400": {
+    "query_id": "-7758016915635062400",
+    "query": "how to train a cat to use the litter box",
+    "relevants": [
+      {
+        "relevant_doc": 4,
+        "relevant_url": "http://www.askthecatdoctor.com/cats-first-litter-of-kittens.html"
+      },
+      {
+        "relevant_doc": 5,
+        "relevant_url": "http://www.ehow.com/how-does_4794981_potty-training-kittens.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 4,
+        "title": "Cat's First Litter of Kittens",
+        "url": "http://www.askthecatdoctor.com/cats-first-litter-of-kittens.html",
+        "combined_text": "Cat's First Litter of Kittens",
+        "distance": 0.34147927165031433
+      },
+      {
+        "id": 5,
+        "title": "How to Potty Train a Cat",
+        "url": "http://www.ehow.com/how-does_4794981_potty-training-kittens.html",
+        "combined_text": "How to Potty Train a Cat",
+        "distance": 0.3428124785423279
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "6115443047303656876": {
+    "query_id": "6115443047303656876",
+    "query": "how to make your dog loss weight",
+    "relevants": [
+      {
+        "relevant_doc": 6,
+        "relevant_url": "http://www.overcomestress.com/weight-loss.php"
+      },
+      {
+        "relevant_doc": 7,
+        "relevant_url": "http://www.mayoclinic.org/healthy-lifestyle/weight-loss/expert-answers/coconut-oil-and-weight-loss/faq-20058081"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 6,
+        "title": "Weight Loss",
+        "url": "http://www.overcomestress.com/weight-loss.php",
+        "combined_text": "Weight Loss",
+        "distance": 0.32518470287323
+      },
+      {
+        "id": 7,
+        "title": "Weight loss",
+        "url": "http://www.mayoclinic.org/healthy-lifestyle/weight-loss/expert-answers/coconut-oil-and-weight-loss/faq-20058081",
+        "combined_text": "Weight loss",
+        "distance": 0.32518470287323
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "2384601580431737950": {
+    "query_id": "2384601580431737950",
+    "query": "what are the best foods for dogs",
+    "relevants": [
+      {
+        "relevant_doc": 8,
+        "relevant_url": "http://www.answers.com/Q/What_do_dogs_eat"
+      },
+      {
+        "relevant_doc": 9,
+        "relevant_url": "https://nwseed.com/content/dogs/Cordoba_Fighting_Dog.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 8,
+        "title": "What do dogs eat?",
+        "url": "http://www.answers.com/Q/What_do_dogs_eat",
+        "combined_text": "What do dogs eat?",
+        "distance": 0.31469449400901794
+      },
+      {
+        "id": 9,
+        "title": "Dogs",
+        "url": "https://nwseed.com/content/dogs/Cordoba_Fighting_Dog.html",
+        "combined_text": "Dogs",
+        "distance": 0.34093955159187317
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "6479326773986308426": {
+    "query_id": "6479326773986308426",
+    "query": "how to keep your kids safe online",
+    "relevants": [
+      {
+        "relevant_doc": 10,
+        "relevant_url": "http://www.stopbullying.gov/kids/what-you-can-do/index.html"
+      },
+      {
+        "relevant_doc": 11,
+        "relevant_url": "https://kb.iu.edu/d/akln"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 10,
+        "title": "What Kids Can Do",
+        "url": "http://www.stopbullying.gov/kids/what-you-can-do/index.html",
+        "combined_text": "What Kids Can Do",
+        "distance": 0.379739910364151
+      },
+      {
+        "id": 11,
+        "title": "Tips for staying safe online",
+        "url": "https://kb.iu.edu/d/akln",
+        "combined_text": "Tips for staying safe online",
+        "distance": 0.3833584189414978
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "1215437556609386599": {
+    "query_id": "1215437556609386599",
+    "query": "some recommendations for vegan recipes for kids",
+    "relevants": [
+      {
+        "relevant_doc": 12,
+        "relevant_url": "https://www.merriam-webster.com/dictionary/vegan"
+      },
+      {
+        "relevant_doc": 13,
+        "relevant_url": "http://www.veganwolf.com/vegan_cooking_substitutions.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 12,
+        "title": "vegan",
+        "url": "https://www.merriam-webster.com/dictionary/vegan",
+        "combined_text": "vegan",
+        "distance": 0.39098918437957764
+      },
+      {
+        "id": 13,
+        "title": "Vegan Cooking Substitutions.",
+        "url": "http://www.veganwolf.com/vegan_cooking_substitutions.htm",
+        "combined_text": "Vegan Cooking Substitutions.",
+        "distance": 0.4113330543041229
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7726544773839014009": {
+    "query_id": "7726544773839014009",
+    "query": "best places to visit in new york in summer",
+    "relevants": [
+      {
+        "relevant_doc": 14,
+        "relevant_url": "http://www.sitka.org/"
+      },
+      {
+        "relevant_doc": 15,
+        "relevant_url": "http://northeastmd.org/government/places-to-visit/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 14,
+        "title": "Places to Visit",
+        "url": "http://www.sitka.org/",
+        "combined_text": "Places to Visit",
+        "distance": 0.29727914929389954
+      },
+      {
+        "id": 15,
+        "title": "Places to Visit",
+        "url": "http://northeastmd.org/government/places-to-visit/",
+        "combined_text": "Places to Visit",
+        "distance": 0.29727914929389954
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-2966199105782218155": {
+    "query_id": "-2966199105782218155",
+    "query": "how much does it cost to go to niagara falls",
+    "relevants": [
+      {
+        "relevant_doc": 16,
+        "relevant_url": "http://www.history.com/topics/niagara-falls"
+      },
+      {
+        "relevant_doc": 17,
+        "relevant_url": "http://www.thefreedictionary.com/Niagara+Falls"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 16,
+        "title": "Niagara Falls",
+        "url": "http://www.history.com/topics/niagara-falls",
+        "combined_text": "Niagara Falls",
+        "distance": 0.12159325927495956
+      },
+      {
+        "id": 17,
+        "title": "Niagara Falls",
+        "url": "http://www.thefreedictionary.com/Niagara+Falls",
+        "combined_text": "Niagara Falls",
+        "distance": 0.12159325927495956
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-1361171318759370171": {
+    "query_id": "-1361171318759370171",
+    "query": "how to take screenshot on windows 11",
+    "relevants": [
+      {
+        "relevant_doc": 18,
+        "relevant_url": "http://geekitdown.com/how-to-take-a-screenshot/"
+      },
+      {
+        "relevant_doc": 19,
+        "relevant_url": "https://www.microsoft.com/en-us/store/p/star-trek-online/c3lf9pcrp9rp"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 18,
+        "title": "How To Take A Screenshot",
+        "url": "http://geekitdown.com/how-to-take-a-screenshot/",
+        "combined_text": "How To Take A Screenshot",
+        "distance": 0.15346281230449677
+      },
+      {
+        "id": 19,
+        "title": "Screenshots",
+        "url": "https://www.microsoft.com/en-us/store/p/star-trek-online/c3lf9pcrp9rp",
+        "combined_text": "Screenshots",
+        "distance": 0.28591951727867126
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-2279897084048003720": {
+    "query_id": "-2279897084048003720",
+    "query": "what are some of the symptoms of high blood pressure",
+    "relevants": [
+      {
+        "relevant_doc": 20,
+        "relevant_url": "https://www.webmd.com/hypertension-high-blood-pressure/guide/understanding-high-blood-pressure-basics"
+      },
+      {
+        "relevant_doc": 21,
+        "relevant_url": "https://www.heart.org/HEARTORG/Conditions/HighBloodPressure/AboutHighBloodPressure/What-is-High-Blood-Pressure_UCM_301759_Article.jsp"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 20,
+        "title": "What Is High Blood Pressure?",
+        "url": "https://www.webmd.com/hypertension-high-blood-pressure/guide/understanding-high-blood-pressure-basics",
+        "combined_text": "What Is High Blood Pressure?",
+        "distance": 0.22106711566448212
+      },
+      {
+        "id": 21,
+        "title": "What is High Blood Pressure?",
+        "url": "https://www.heart.org/HEARTORG/Conditions/HighBloodPressure/AboutHighBloodPressure/What-is-High-Blood-Pressure_UCM_301759_Article.jsp",
+        "combined_text": "What is High Blood Pressure?",
+        "distance": 0.22106711566448212
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7150231657016803772": {
+    "query_id": "7150231657016803772",
+    "query": "what are some treatment options for stroke",
+    "relevants": [
+      {
+        "relevant_doc": 22,
+        "relevant_url": "http://www.heartandstroke.ca/stroke/what-is-stroke"
+      },
+      {
+        "relevant_doc": 23,
+        "relevant_url": "https://www.thompsoncancer.com/barretts/information-barretts-esophagus-gerd/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 22,
+        "title": "What is stroke?",
+        "url": "http://www.heartandstroke.ca/stroke/what-is-stroke",
+        "combined_text": "What is stroke?",
+        "distance": 0.3141767382621765
+      },
+      {
+        "id": 23,
+        "title": "Treatment Options",
+        "url": "https://www.thompsoncancer.com/barretts/information-barretts-esophagus-gerd/",
+        "combined_text": "Treatment Options",
+        "distance": 0.3173650801181793
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "4637611522714130276": {
+    "query_id": "4637611522714130276",
+    "query": "organic dog food for sensitive stomachs",
+    "relevants": [
+      {
+        "relevant_doc": 24,
+        "relevant_url": "https://www.k9cuisine.com/dog-products/dog-food"
+      },
+      {
+        "relevant_doc": 25,
+        "relevant_url": "https://en.wikipedia.org/wiki/Dog_food"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 24,
+        "title": "Dog Food",
+        "url": "https://www.k9cuisine.com/dog-products/dog-food",
+        "combined_text": "Dog Food",
+        "distance": 0.36213016510009766
+      },
+      {
+        "id": 25,
+        "title": "Dog food",
+        "url": "https://en.wikipedia.org/wiki/Dog_food",
+        "combined_text": "Dog food",
+        "distance": 0.36213016510009766
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "5208116894154676470": {
+    "query_id": "5208116894154676470",
+    "query": "best budget-friendly family vacation spots in California",
+    "relevants": [
+      {
+        "relevant_doc": 26,
+        "relevant_url": "http://www.travelchannel.com/interests/travel-tips/articles/top-10-vacation-spots"
+      },
+      {
+        "relevant_doc": 27,
+        "relevant_url": "http://www.webster-dictionary.org/definition/vacation"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 26,
+        "title": "Top 10 Vacation Spots",
+        "url": "http://www.travelchannel.com/interests/travel-tips/articles/top-10-vacation-spots",
+        "combined_text": "Top 10 Vacation Spots",
+        "distance": 0.34994810819625854
+      },
+      {
+        "id": 27,
+        "title": "Vacation",
+        "url": "http://www.webster-dictionary.org/definition/vacation",
+        "combined_text": "Vacation",
+        "distance": 0.39560726284980774
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-3471102684593280009": {
+    "query_id": "-3471102684593280009",
+    "query": "what are some popular open source projects",
+    "relevants": [
+      {
+        "relevant_doc": 28,
+        "relevant_url": "http://www.mobileburn.com/definition.jsp?term=open+source"
+      },
+      {
+        "relevant_doc": 29,
+        "relevant_url": "https://www.techopedia.com/definition/8687/open-source-license"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 28,
+        "title": "What is \"open source\"?",
+        "url": "http://www.mobileburn.com/definition.jsp?term=open+source",
+        "combined_text": "What is \"open source\"?",
+        "distance": 0.19046226143836975
+      },
+      {
+        "id": 29,
+        "title": "Open-Source License",
+        "url": "https://www.techopedia.com/definition/8687/open-source-license",
+        "combined_text": "Open-Source License",
+        "distance": 0.3424149453639984
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  }
+}

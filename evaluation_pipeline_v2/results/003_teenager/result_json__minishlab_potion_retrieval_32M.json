@@ -1,0 +1,2802 @@
+{
+  "5180053558536920181": {
+    "query_id": "5180053558536920181",
+    "query": "did marilyn monroe ever win an oscar",
+    "relevants": [
+      {
+        "relevant_doc": 3259,
+        "relevant_url": "http://www.answers.com/Q/How_many_Academy_Awards_did_Marilyn_Monroe_win"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3259,
+        "title": "How many Academy Awards did Marilyn Monroe win?",
+        "url": "http://www.answers.com/Q/How_many_Academy_Awards_did_Marilyn_Monroe_win",
+        "combined_text": "How many Academy Awards did Marilyn Monroe win? \"Answers.com ® Wiki Answers ® Categories Entertainment & Arts Movies Movie Awards and Events Oscars How many Academy Awards did Marilyn Monroe win? Flag How many Academy Awards did Marilyn Monroe win? Answer by Fuzzy Logic Confidence votes 17.1KMarilyn Monroe and the Academy Awards Marilyn Monroe wa",
+        "distance": 0.20573067665100098
+      },
+      {
+        "id": 3023,
+        "title": "Who did Marilyn McCoo play on Days of your Lives?",
+        "url": "http://www.answers.com/Q/How_old_is_Marilyn_McCoo",
+        "combined_text": "Who did Marilyn McCoo play on Days of your Lives? \"Who did Marilyn Mc Coo play on Days of your Lives? \"\"Days of Our Lives\"\" (1965) TV series .... Tamara Price (unknown episodes, 1986-1987)Dhadley123 12 Contributions Does Marilyn Mc Coo have a child also known as The Ladder Guy? No, Marilyn has no natural children. She has one stepson from Billy Dav",
+        "distance": 0.6300323009490967
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8643126830887310889": {
+    "query_id": "8643126830887310889",
+    "query": "what is a yule log cake",
+    "relevants": [
+      {
+        "relevant_doc": 1881,
+        "relevant_url": "http://www.answers.com/Q/What_is_a_buche_de_noel"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3770,
+        "title": "Are Rice Cakes Healthy to Eat",
+        "url": "http://healthyeating.sfgate.com/rice-cakes-healthy-eat-1953.html",
+        "combined_text": "Are Rice Cakes Healthy to Eat Related Articles Are Boiled Eggs Healthy to Eat? Are Baked Potato Chips Healthy? White Cheddar Rice Cake Nutrients What Are the Health Benefits of Nutella Hazelnut Spread? Rice cakes are commonly thought of as a diet food because they are low in fat and calories. Though a rice cake doesn't supply yo",
+        "distance": 0.6982006430625916
+      },
+      {
+        "id": 4167,
+        "title": "Birthday cake",
+        "url": "http://sims.wikia.com/wiki/Birthday_Cake",
+        "combined_text": "Birthday cake \"A birthday cake is an item that appears in The Sims: House Party, The Sims 2, The Sims 3, and The Sims 4. It is used to celebrate a Sim's birthday and ages up Sims to the next life stage. [ TS3]Contents [ show]The Sims Edit Birthday Cake Talk about an instant party!!! What better way to cheer up a",
+        "distance": 0.7170343995094299
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3375157135360723068": {
+    "query_id": "3375157135360723068",
+    "query": "quick DIY string art tutorial",
+    "relevants": [
+      {
+        "relevant_doc": 1010,
+        "relevant_url": "http://www.wikihow.com/Do-String-Art"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1516,
+        "title": "Create a Fabulous Word Art",
+        "url": "http://www.photoshoplady.com/photoshop-tutorial/create-a-fabulous-word-art/",
+        "combined_text": "Create a Fabulous Word Art Create a Fabulous Word Art Tweet Pin It September 14, 2011 Photoshop Tutorial, Text Effect To a successful art work, the word art is an important element. Therefore, many designers are working on the design for the word art. Different design and combination could yield different nice results. Here i",
+        "distance": 0.6354288458824158
+      },
+      {
+        "id": 1010,
+        "title": "How to Do String Art",
+        "url": "http://www.wikihow.com/Do-String-Art",
+        "combined_text": "How to Do String Art In a Hurry? In a Hurry? Watch this video To do string art on canvas or wood, cut out a design from a piece of paper and attach it to your surface. You can also use a pre-made stencil. Hammer pins or nails into your surface along the edge of your design. Remove your paper or stencil once you have all",
+        "distance": 0.6483100652694702
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-7826200545172276364": {
+    "query_id": "-7826200545172276364",
+    "query": "ibsen play film starring wallace shawn",
+    "relevants": [
+      {
+        "relevant_doc": 3758,
+        "relevant_url": "https://en.wikipedia.org/wiki/A_Master_Builder"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3758,
+        "title": "A Master Builder",
+        "url": "https://en.wikipedia.org/wiki/A_Master_Builder",
+        "combined_text": "A Master Builder \"A Master Builder From Wikipedia, the free encyclopedianavigation search A Master Builder Directed by Jonathan Demme Written by Wallace Shawn Based on The Master Builder by Henrik Ibsen Starring Wallace Shawn Julie Hagerty Andre Gregory Cinematography Declan Quinn Edited by Tim Squyres Release date",
+        "distance": 0.5348249077796936
+      },
+      {
+        "id": 2409,
+        "title": "Irritable Bowel Syndrome",
+        "url": "http://www.webmd.com/ibs/guide/digestive-diseases-irritable-bowel-syndrome",
+        "combined_text": "Irritable Bowel Syndrome Irritable Bowel Syndrome In this Article What Are the Symptoms of IBS? What Are the Causes? How Is It Diagnosed? How Is IBS Treated? Diet and Lifestyle Changes Medications IBS affects between 25 and 45 million Americans. Most of them are women. People are most likely to get the condition in their la",
+        "distance": 0.5832855701446533
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3374692032915281353": {
+    "query_id": "3374692032915281353",
+    "query": "how annuities defer taxes in retirement",
+    "relevants": [
+      {
+        "relevant_doc": 1580,
+        "relevant_url": "http://www.prudential.com/view/page/public/12609?param=12624"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1580,
+        "title": "Tax Strategies: Tax-Deferred Annuities",
+        "url": "http://www.prudential.com/view/page/public/12609?param=12624",
+        "combined_text": "Tax Strategies: Tax-Deferred Annuities \"Tax Strategies: Tax-Deferred Annuities Investments / Tax Strategies: Tax-Deferred Annuities Skip to: As you approach retirement, you will be faced with the need for a secure source of income. If you are looking toward retirement, you may want to consider annuities as an integral part of your financ",
+        "distance": 0.22447913885116577
+      },
+      {
+        "id": 4206,
+        "title": "What is an Annuity and How does it Work?",
+        "url": "http://personaldividends.com/what-is-an-annuity-and-how-does-it-work/",
+        "combined_text": "What is an Annuity and How does it Work? What is an Annuity and How does it Work?by Miranda | Finance, Investing, Retirement | 12 comments Tweet Share Share Source: sxc.hu Photo: forwardcom Thanks to the recent stock market crash, and the subsequent losses many have seen in their retirement plans, annuities are gaining in popularity. Annui",
+        "distance": 0.48386237025260925
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-3940256212655349247": {
+    "query_id": "-3940256212655349247",
+    "query": "lupus causing psoriasis-like skin lesions",
+    "relevants": [
+      {
+        "relevant_doc": 1738,
+        "relevant_url": "http://www.rightdiagnosis.com/s/subcutaneous_lupus_erythematosus_psoariasiform_type/symptoms.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1738,
+        "title": "Symptoms of Subcutaneous lupus erythematosus psoariasiform type",
+        "url": "http://www.rightdiagnosis.com/s/subcutaneous_lupus_erythematosus_psoariasiform_type/symptoms.htm",
+        "combined_text": "Symptoms of Subcutaneous lupus erythematosus psoariasiform type Symptoms of Subcutaneous lupus erythematosus psoariasiform type Intro Symptoms Types Causes Tests Treatment Misdiagnosis Videos Doctors Must Reads in Health Protecting Your Skin During Winter Watch: My Personal Psoriasis Journey Are You Getting The Best Cancer Care? Keeping An Active Lifestyle With",
+        "distance": 0.43669766187667847
+      },
+      {
+        "id": 418,
+        "title": "Symptoms of Lupus",
+        "url": "https://www.verywell.com/lupus-signs-and-symptoms-2249999",
+        "combined_text": "Symptoms of Lupus Lupus Symptoms & Causes Symptoms of Lupus By Jeri Jewett-Tennant, MPH | Reviewed by Richard N. Fogoros, MDUpdated April 04, 2018Share Pin Email Print Lupus Overview Symptoms Causes Diagnosis Treatment Coping Article Table of Contents Frequent Symptoms Less Common Symptoms Complications When to See a",
+        "distance": 0.4791445732116699
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "6663131117378239751": {
+    "query_id": "6663131117378239751",
+    "query": "park car arcade game arrow keys",
+    "relevants": [
+      {
+        "relevant_doc": 1057,
+        "relevant_url": "https://www.coolmath-games.com/0-parking-fury-3"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1057,
+        "title": "Parking Fury 3",
+        "url": "https://www.coolmath-games.com/0-parking-fury-3",
+        "combined_text": "Parking Fury 3 Parking Fury 3You'll Also Like... Subscribe-to-unlock Just a moment while your game loads Continue in 15Instructions Use WASD or the arrow keys to drive your car. Follow the arrows and stop in the yellow parking space. Be careful not to crash into walls or vehicles!Coolmath top picks Clicker Heroes",
+        "distance": 0.515041172504425
+      },
+      {
+        "id": 1430,
+        "title": "REVEALED: The Odds That You'll Win A Toy Playing The 'Claw' Arcade Game",
+        "url": "http://www.businessinsider.com/revealed-here-are-the-odds-that-youll-win-a-toy-playing-the-claw-arcade-game-2012-8",
+        "combined_text": "REVEALED: The Odds That You'll Win A Toy Playing The 'Claw' Arcade Game \"REVEALED: The Odds That You'll Win A Toy Playing The 'Claw' Arcade Game Nicholas Carlson Aug. 27, 2012, 4:32 PM 17,291Over on Quora, the question was asked: \"\"How do the Claw crane 'arcade game' machines work? \"\"The answer!Read Quote of Zach Baker's answer to Arcade Games: How do the Claw crane 'ar",
+        "distance": 0.6009765863418579
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-1414973883561620250": {
+    "query_id": "-1414973883561620250",
+    "query": "what makes a woman classy",
+    "relevants": [
+      {
+        "relevant_doc": 2630,
+        "relevant_url": "https://answers.yahoo.com/question/index?qid=20080607145307AAhwGLi"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2630,
+        "title": "Whats the definition of a CLASSY WOMEN?",
+        "url": "https://answers.yahoo.com/question/index?qid=20080607145307AAhwGLi",
+        "combined_text": "Whats the definition of a CLASSY WOMEN? \"Society & Culture Etiquette Whats the definition of a CLASSY WOMEN? I was told I was a very classy person. And they weren't just talking about how I dress. It was something else...is it being respectful? mature? elegant? manners? the way I think? how? not sure what they meant. Just curious becomes",
+        "distance": 0.416653037071228
+      },
+      {
+        "id": 4692,
+        "title": "Beyonce Is the Most GRAMMY-Nominated Woman in History!",
+        "url": "http://www.etonline.com/awards/154781_beyonce_is_the_most_grammy_nominated_woman_history/",
+        "combined_text": "Beyonce Is the Most GRAMMY-Nominated Woman in History! \"Awards Beyonce Is the Most GRAMMY-Nominated Woman in History!Published 4:55 PM PST, December 5, 2014ETONLINEShe woke up like this! \"\"This\"\" being the most-nominated woman in GRAMMY history. PICS: Best & Worst Grammy Gowns Beyonce passed Dolly Parton on the GRAMMYs list of most-nominated women with",
+        "distance": 0.6008840203285217
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "4116629925969678324": {
+    "query_id": "4116629925969678324",
+    "query": "typical bowling score for casual players",
+    "relevants": [
+      {
+        "relevant_doc": 3386,
+        "relevant_url": "https://www.reference.com/sports-active-lifestyle/average-bowling-score-403a6d6b532bf467"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3386,
+        "title": "What Is the Average Bowling Score?",
+        "url": "https://www.reference.com/sports-active-lifestyle/average-bowling-score-403a6d6b532bf467",
+        "combined_text": "What Is the Average Bowling Score? \"Sports & Active Lifestyle Classic Sports Q: What Is the Average Bowling Score? A: Quick Answer The average bowling score when looking at all of the possibilities in the game is a 77-79 score. All average scores, however, are dependent upon the skill of the players playing as the average changes dep",
+        "distance": 0.26962220668792725
+      },
+      {
+        "id": 1083,
+        "title": "Why Does It Take 12 Strikes to Reach 300 in Bowling?",
+        "url": "https://www.thoughtco.com/why-does-it-take-12-strikes-to-reach-300-420914",
+        "combined_text": "Why Does It Take 12 Strikes to Reach 300 in Bowling? Arts, Music, and Recreation ›Sports Why Does It Take 12 Strikes to Reach 300 in Bowling? Ten Frames in Bowling—Plus Those Extra Two Shots Share Flipboard Email Print Gerwin Sturm/Flickr/CC BY-SA 2.0by Jef Goodger Updated August 03, 2017Most people who've ever bowled know that there are 10 frames in",
+        "distance": 0.5436179637908936
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "624779708368694444": {
+    "query_id": "624779708368694444",
+    "query": "rockaway mall hours and stores",
+    "relevants": [
+      {
+        "relevant_doc": 4152,
+        "relevant_url": "http://www.simon.com/mall/rockaway-townsquare"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 4485,
+        "title": "Crossgates Mall no longer sells Gift Cards",
+        "url": "https://www.shopcrossgates.com/",
+        "combined_text": "Crossgates Mall no longer sells Gift Cards 110 Grill Restaurant Opening this Summer ZARA NOW OPENLEARN MORETrampoline Park GET AIR Coming Soon!Crossgates Mall no longer sells Gift Cards Click here to check your balance EAT Shop Play Eat. Shop. Play. at Crossgates Mall, the Capital Region’s premier destination. With more than 180 retail shops",
+        "distance": 0.5941138863563538
+      },
+      {
+        "id": 3651,
+        "title": "Dunkin' Donuts Reduced or Flexible Hours",
+        "url": "https://www.glassdoor.com/Benefits/Dunkin-Donuts-Reduced-or-Flexible-Hours-US-BNFT164_E19153_N1.htm",
+        "combined_text": "Dunkin' Donuts Reduced or Flexible Hours See All See all Dunkin' Donuts Benefits Dunkin' Donuts Reduced or Flexible Hours42 employees reported this benefit3.8 16 Reviews Employer Summary Your time is important, many franchisees offer flexible hours and are willing to work with you to make sure that your career is a part of your life style.",
+        "distance": 0.6680917143821716
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "1848746706063495133": {
+    "query_id": "1848746706063495133",
+    "query": "ingredients that worsen arthritis inflammation",
+    "relevants": [
+      {
+        "relevant_doc": 3096,
+        "relevant_url": "https://www.arthritis.org/living-with-arthritis/arthritis-diet/foods-to-avoid-limit/food-ingredients-and-inflammation.php"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3096,
+        "title": "8 Food Ingredients That Can Cause Inflammation",
+        "url": "https://www.arthritis.org/living-with-arthritis/arthritis-diet/foods-to-avoid-limit/food-ingredients-and-inflammation.php",
+        "combined_text": "8 Food Ingredients That Can Cause Inflammation Home > Living With Arthritis > Arthritis Diet > Foods to Limit > 8 Food Ingredients That Can Cause Inflammation8 Food Ingredients That Can Cause Inflammation Prev Next1 2 3 4 5 6 7 8 9 10 11 121 of 121. 8 Food Ingredients That Can Cause Inflammation W hen you have arthritis, your body is in an infla",
+        "distance": 0.28037115931510925
+      },
+      {
+        "id": 1711,
+        "title": "Eat These 8 Foods to Help Beat RA Inflammation",
+        "url": "http://www.everydayhealth.com/hs/rheumatoid-arthritis-pictures/foods-that-fight-inflammation/",
+        "combined_text": "Eat These 8 Foods to Help Beat RA Inflammation Zocky/Stocksy; Stocksy; Trent&Lanz/Stocksy1 / 9 A Diet Rich in Omega-3s and Plenty of Plant Fiber May Fight Inflammation The most troubling symptoms of rheumatoid arthritis — pain, stiffness, and swelling — stem from the same source: inflammation. Research hasn’t yet established that changing your d",
+        "distance": 0.579296886920929
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3464736074333117243": {
+    "query_id": "3464736074333117243",
+    "query": "how to catch Regi trio Omega Ruby",
+    "relevants": [
+      {
+        "relevant_doc": 1235,
+        "relevant_url": "http://www.gamezone.com/originals/pokemon-omega-ruby-and-alpha-sapphire-cheats-how-to-get-regice-regirock-and-registeel-jrfr"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1235,
+        "title": "PokÃ©mon Omega Ruby and Alpha Sapphire Cheats: How to get Regice, Regirock, and Registeel",
+        "url": "http://www.gamezone.com/originals/pokemon-omega-ruby-and-alpha-sapphire-cheats-how-to-get-regice-regirock-and-registeel-jrfr",
+        "combined_text": "PokÃ©mon Omega Ruby and Alpha Sapphire Cheats: How to get Regice, Regirock, and Registeel \"Originals Pokémon Omega Ruby and Alpha Sapphire Cheats: How to get Regice, Regirock, and Registeel The Legendary Trio will be yours By Tatiana Morris - December 10, 2014Share on Facebook Tweet on Twitter Some Pokémon are just a straight up pain to catch, they require so many actions for you to go t",
+        "distance": 0.3801317512989044
+      },
+      {
+        "id": 4061,
+        "title": "Foods Containing Omega 3 Fatty Acids",
+        "url": "http://www.omega-3.us/omega-3/omega-3-fatty-acids/foods-containing-omega-3-fatty-acids",
+        "combined_text": "Foods Containing Omega 3 Fatty Acids \"Get Your Free Audio\"\"Something Fishy About Omega 3\"\"Name: Email: Questions? Call us! (888) 508-1234Learn more about Omega 3 Fish Oil... Omega 3 Tips To Make The Best Choice Omega 3 Fatty Acids – Health Benefits For Everyone Fish Oil Fish Oil Supplements Healthy Living with Omega 3Omega 3ABOUT TRUST",
+        "distance": 0.5578661561012268
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4491277153642492524": {
+    "query_id": "-4491277153642492524",
+    "query": "whoville mayor's eldest child",
+    "relevants": [
+      {
+        "relevant_doc": 1034,
+        "relevant_url": "http://hero.wikia.com/wiki/JoJo_McDodd"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1034,
+        "title": "Daddy Jojo",
+        "url": "http://hero.wikia.com/wiki/JoJo_McDodd",
+        "combined_text": "Daddy Jojo \"Jojo Being Hot as hell ;))))Daddy Mcdodd is the weeb of Dr. Seuss' Horton Hears a Who! He is the son of Ned Mc Dodd and he is oldest child, as well as the only boy, among the Mayor's 97 children, and will more than likely be the future mayor of Whoville, because in Whoville tradition \"\"the oldest i",
+        "distance": 0.4529426097869873
+      },
+      {
+        "id": 1336,
+        "title": "Smallville Season 11: Superman Returns",
+        "url": "http://www.ign.com/articles/2012/03/21/smallville-season-11-superman-returns",
+        "combined_text": "Smallville Season 11: Superman Returns \"Bryan Miller/ 21 Mar 2012Smallville Season 11: Superman Returns Share. Bryan Q. Miller gives up info on the comic continuation of Smallville. By Joey Esposito A few weeks back, DC Comics pleased a clamoring fanbase of Smallville fans when they announced that they'd be offering a new comic book seri",
+        "distance": 0.5680551528930664
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4249402300402582706": {
+    "query_id": "-4249402300402582706",
+    "query": "why was national park service created 1916",
+    "relevants": [
+      {
+        "relevant_doc": 4173,
+        "relevant_url": "http://www.answers.com/Q/Why_did_the_US_Congress_create_the_National_Park_Service_in_1916"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 4173,
+        "title": "It was not until the formation of the National Park Service in 1916 that preservation and recreation came to be viewed as compatible goals is that true?",
+        "url": "http://www.answers.com/Q/Why_did_the_US_Congress_create_the_National_Park_Service_in_1916",
+        "combined_text": "It was not until the formation of the National Park Service in 1916 that preservation and recreation came to be viewed as compatible goals is that true? \"USCitizen 477,196 Contributions It was not until the formation of the National Park Service in 1916 that preservation and recreation came to be viewed as compatible goals is that true? Yes, that is true. Penny Kaye 169,767 Contributions\"\"Always let your conscience be your guide. \"\": Penny Kaye has",
+        "distance": 0.6038779020309448
+      },
+      {
+        "id": 3646,
+        "title": "Grant Park",
+        "url": "http://www.chicagoparkdistrict.com/parks/grant-park/",
+        "combined_text": "Grant Park \"Welcome to Grant Park!Buckingham Fountain in Grant Park Museum Campus in Grant Park\"\"Agora\"\" on Museum Campus The Great Lawn at Millennium Park Boeing Galleries in Millennium Park Skate Park at Grant Park Previous Next Location: Columbus Drive Chicago, IL 60601Supervisor: Jackie Guthrie (Maggie Dal",
+        "distance": 0.6956886053085327
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-1367205289190275424": {
+    "query_id": "-1367205289190275424",
+    "query": "getting a passport renewed in nj",
+    "relevants": [
+      {
+        "relevant_doc": 3418,
+        "relevant_url": "http://traveltips.usatoday.com/renew-passport-new-jersey-62731.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3418,
+        "title": "How to Renew a Passport in New Jersey",
+        "url": "http://traveltips.usatoday.com/renew-passport-new-jersey-62731.html",
+        "combined_text": "How to Renew a Passport in New Jersey \"Renew your old passport in New Jersey before international travel. Nobody can deny New Jersey bragging rights for being the birthplace of Bruce Springsteen and Whitney Houston, but when it comes to passport renewals, New Jersey travelers have to follow federal rules like everybody else. Luckily, th",
+        "distance": 0.35382118821144104
+      },
+      {
+        "id": 4090,
+        "title": "Taking a Passport Photo",
+        "url": "http://researchguides.case.edu/editimage/passport",
+        "combined_text": "Taking a Passport Photo Requirements for Passport Photos Taking a Passport Photo Have a photo taken of you. These parameters MUST be met: Front view, full face, open eyes, closed mouth, and natural expression Full head from top of hair to shoulders Wear normal street attire The head should not be tilted Plain white or off-",
+        "distance": 0.7227849364280701
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "1524658283190302786": {
+    "query_id": "1524658283190302786",
+    "query": "do I need extra insurance for my pool",
+    "relevants": [
+      {
+        "relevant_doc": 3484,
+        "relevant_url": "http://finance.zacks.com/there-special-insurance-need-inground-pool-besides-homeowners-insurance-6764.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3484,
+        "title": "Is There a Special Insurance You Need to Have With an Inground Pool Besides Homeowners Insurance?",
+        "url": "http://finance.zacks.com/there-special-insurance-need-inground-pool-besides-homeowners-insurance-6764.html",
+        "combined_text": "Is There a Special Insurance You Need to Have With an Inground Pool Besides Homeowners Insurance? A backyard pool normally can be covered under your homeowner insurance. More Articles1. How Much More Is Homeowners Insurance When You Have a Pool?2. Life Insurance Pitfalls to Watch Out For3. Tertiary Insurance Definition An in-ground swimming pool can be a summer recreation center. But a pool can",
+        "distance": 0.2666429281234741
+      },
+      {
+        "id": 3304,
+        "title": "Billiard Supplies, Pool Cues, Pool Tables & More",
+        "url": "http://www.ozonebilliards.com/",
+        "combined_text": "Billiard Supplies, Pool Cues, Pool Tables & More \"shop ozoneclearance Save onover 1,000 discounted items todayshop now Pool Cues Shop Now Pool Tables Shop Now Pool Cue Accessories Shop Now Pool Cue Cases Shop Now Pool Table Accessories Shop Now Pool Balls Shop Now Pool Table Covers Shop Now Pool Table Felt Shop Now Pool Table Lights Shop Now Video",
+        "distance": 0.6086062788963318
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3319853277194942367": {
+    "query_id": "3319853277194942367",
+    "query": "daily reflection on surrender to God",
+    "relevants": [
+      {
+        "relevant_doc": 1295,
+        "relevant_url": "http://lambfood.seranates.com/aug/Die-to-yourself-daily.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1295,
+        "title": "Die to yourself daily",
+        "url": "http://lambfood.seranates.com/aug/Die-to-yourself-daily.htm",
+        "combined_text": "Die to yourself daily Die to yourself daily Not my will but Thy Will be done, Oh Lord. A self righteous man is one who assumes his will is God's Will. God's Will is not our will. His Ways are not our ways. His Desires are not our desires. It is never easy to die to self and take up the cross and follow God's Will. Jesus",
+        "distance": 0.638809859752655
+      },
+      {
+        "id": 4660,
+        "title": "ELVIS PRESLEY lyrics - Surrender",
+        "url": "http://www.oldielyrics.com/lyrics/elvis_presley/surrender.html",
+        "combined_text": "ELVIS PRESLEY lyrics - Surrender Elvis Presley - Surrender w/lyrics",
+        "distance": 0.6906870603561401
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "6342351892685531444": {
+    "query_id": "6342351892685531444",
+    "query": "idaho veterans memorials and museums",
+    "relevants": [
+      {
+        "relevant_doc": 1270,
+        "relevant_url": "https://visitidaho.org/trip-guides/saluting-idahos-military-history/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 651,
+        "title": "Monuments & Memorials in Washington DC (Visitor's Guide)",
+        "url": "https://www.tripsavvy.com/monuments-and-memorials-in-washington-dc-1038232",
+        "combined_text": "Monuments & Memorials in Washington DC (Visitor's Guide) Washington, DC is a city of monuments and memorials. We honor the generals, politicians, poets and statesmen who helped shape our great nation. Although the most famous monuments and memorials are on the National Mall, you will find statues and plaques on many street corners around the city. Since W",
+        "distance": 0.4883612394332886
+      },
+      {
+        "id": 1500,
+        "title": "How to Become a Museum Curator",
+        "url": "http://www.wikihow.com/Become-a-Museum-Curator",
+        "combined_text": "How to Become a Museum Curator 1 Choose your interest area. There are as many types of curators as there are types of museums - art museums, history museums, children’s museums, science museums, and a vast range of specializations in between. You will need to choose what sort of museum you want to work for in order to pursue the",
+        "distance": 0.5659911036491394
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "123558922698654164": {
+    "query_id": "123558922698654164",
+    "query": "french film industry overview",
+    "relevants": [
+      {
+        "relevant_doc": 501,
+        "relevant_url": "https://en.wikipedia.org/wiki/Cinema_of_France"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 501,
+        "title": "Cinema of France",
+        "url": "https://en.wikipedia.org/wiki/Cinema_of_France",
+        "combined_text": "Cinema of France \"Cinema of France From Wikipedia, the free encyclopedianavigation search See also: French comedy films Cinema of France Gaumont palace in Paris, c.1914No. of screens 5,653 (2014) [1]Main distributors Twentieth Century Fox (14.6%) Warner Bros. (9.8%) UGC (6.9%) [1]Produced feature films (2014) [1] [2",
+        "distance": 0.5597690343856812
+      },
+      {
+        "id": 2431,
+        "title": "How 14 French Women Define French Style",
+        "url": "http://www.elle.com/fashion/personal-style/tips/g27203/how-french-women-define-french-style/",
+        "combined_text": "How 14 French Women Define French Style \"Hundreds of books and articles have tried to demystify the widely adored allure of French women's style. Photographer Garance Doré's book Love Style Life, which debuted this week, is the latest. She sums up French style using only three words: \"\"Elegance is refusal.\"\" From emphasizing attitude over",
+        "distance": 0.6733274459838867
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8943427807939914115": {
+    "query_id": "8943427807939914115",
+    "query": "best wines for ossobuco",
+    "relevants": [
+      {
+        "relevant_doc": 1842,
+        "relevant_url": "http://savorsa.com/2011/10/wine-to-go-with-osso-buco-a-match-made-in-italy/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1842,
+        "title": "Wine to go with Osso Buco: A Match Made in Italy",
+        "url": "http://savorsa.com/2011/10/wine-to-go-with-osso-buco-a-match-made-in-italy/",
+        "combined_text": "Wine to go with Osso Buco: A Match Made in Italy Wine to go with Osso Buco: A Match Made in Italy By Savor SA Posted on03 October 2011. Tags: Biferno, Carpazo Brunello di Montalcino, Di Majo Norante, Italian wines with ossobuco, La Maia Lina Chianti Classico, Modus, osso buco, ossobuco, Piccini Winery, Ramitello, Ruffino, Sasso al Poggio By Cecil",
+        "distance": 0.3116776943206787
+      },
+      {
+        "id": 2328,
+        "title": "The Best Types of Wine to Cellar",
+        "url": "http://www.mowinecellar.com/the-best-types-of-wine-to-cellar",
+        "combined_text": "The Best Types of Wine to Cellar The Best Types of Wine to Cellar Tweet Pocket The best types of wine to include in your collection are the ones you enjoy most. Right? Maybe. It depends on your goals. Are you an investor? In other words, is your primary purpose to sell the wine after (hopefully) it’s increased in value. Or, is your",
+        "distance": 0.6415190696716309
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-3795064025328038751": {
+    "query_id": "-3795064025328038751",
+    "query": "what to know before moving to portland",
+    "relevants": [
+      {
+        "relevant_doc": 598,
+        "relevant_url": "http://blog.estately.com/2013/06/37-things-to-consider-before-moving-to-portland/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 598,
+        "title": "37 Things to Consider Before Moving to Portland",
+        "url": "http://blog.estately.com/2013/06/37-things-to-consider-before-moving-to-portland/",
+        "combined_text": "37 Things to Consider Before Moving to Portland 37 Things to Consider Before Moving to Portland Ryan Nickum Jun 3City Profilesoregon From the logging towns of Oregon to the hipster bars of Brooklyn, people dream of moving to Portland, Oregon. Drawn like moths to the flame of craft beer and environmental sustainability, these aspiring transplants",
+        "distance": 0.37616896629333496
+      },
+      {
+        "id": 1245,
+        "title": "How liberal is Portland?",
+        "url": "http://portlandtribune.com/pt/9-news/212726-70134-how-liberal-is-portland",
+        "combined_text": "How liberal is Portland? \"How liberal is Portland? Jim Redden Tuesday, March 04, 2014View Comments This ain't 'Portlandia' but it sure feels like it, according to a survey highlighting the Rose City's very lefty political leanings Everyone knows Portland is more liberal than the rest of the region and the state. People joke",
+        "distance": 0.4732781946659088
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "1690468576361712846": {
+    "query_id": "1690468576361712846",
+    "query": "90s alternative hit shine collective soul",
+    "relevants": [
+      {
+        "relevant_doc": 555,
+        "relevant_url": "http://www.youtube.com/watch?v=yPslBGjuRL0"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 555,
+        "title": "Collective Soul - Shine (Studio Version)",
+        "url": "http://www.youtube.com/watch?v=yPslBGjuRL0",
+        "combined_text": "Collective Soul - Shine (Studio Version) Collective Soul - Shine (Studio Version)Street Survivors77Subscribe 8.4KAdd to Share More2,240,410 views12,115278Published on Aug 13, 2009Collective Soul - Shine Lyrics: Give me a word Give me a sign Show me where to look Tell me what will I find (what will I find ) Lay me on the ground Fly me in th",
+        "distance": 0.42481565475463867
+      },
+      {
+        "id": 1782,
+        "title": "Jazz Â» Soul Jazz/Groove Â» Soul Jazz",
+        "url": "http://www.allmusic.com/subgenre/soul-jazz-ma0000002866",
+        "combined_text": "Jazz Â» Soul Jazz/Groove Â» Soul Jazz \"Share this pagefacebook twitter google+Jazz » Soul Jazz/Groove » Soul Jazz Soul-Jazz, which was the most popular jazz style of the 1960s, differs from bebop and hard bop (from which it originally developed) in that the emphasis is on the rhythmic groove. Although soloists follow the chords as in bo",
+        "distance": 0.7113003134727478
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-7162695979373702986": {
+    "query_id": "-7162695979373702986",
+    "query": "relaxing new age music mixes",
+    "relevants": [
+      {
+        "relevant_doc": 4622,
+        "relevant_url": "https://www.youtube.com/channel/UCfqBDMEJrevX2_2XBUSxAqg"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 4622,
+        "title": "New-Age Music - Topic",
+        "url": "https://www.youtube.com/channel/UCfqBDMEJrevX2_2XBUSxAqg",
+        "combined_text": "New-Age Music - Topic \"Top Tracks - New-Age Music Play all6:17Relaxing Music Various Artists - Topic4,905 views 3 years ago2:14Hush a Bye Baby | Lullaby for Babies | Infobellsinfobells37,586,843 views 6 months ago1:46Soothing Relaxing Music - Topic11,851 views 4 months ago4:17Bedtime Songs (Instrumental Piano)Various Art",
+        "distance": 0.5675110816955566
+      },
+      {
+        "id": 3061,
+        "title": "What kind of tv show is most relaxing to watch?",
+        "url": "http://www.answers.com/Q/What_kind_of_tv_show_is_most_relaxing_to_watch",
+        "combined_text": "What kind of tv show is most relaxing to watch? \"Answers.com ® Wiki Answers ® Categories Science Math and Arithmetic Algebra What kind of tv show is most relaxing to watch? Flag What kind of tv show is most relaxing to watch? Answer by Joy Rigel Confidence votes 41A Sit Calm \"\"Sit Calm\"\" cute and funny. A truly relaxing show would not divert the",
+        "distance": 0.6478389501571655
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-7827995226973254186": {
+    "query_id": "-7827995226973254186",
+    "query": "prescription medication for fibromyalgia",
+    "relevants": [
+      {
+        "relevant_doc": 297,
+        "relevant_url": "https://www.savella.com/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 297,
+        "title": "Savella relieves symptoms of fibromyalgia.",
+        "url": "https://www.savella.com/",
+        "combined_text": "Savella relieves symptoms of fibromyalgia. Savella relieves symptoms of fibromyalgia. Finding relief for your fibromyalgia may help you get back to the daily activities you need to do. If you're looking for a medication to help you manage your fibromyalgia, it's time to talk to your doctor about Savella. In clinical studies that compared Sav",
+        "distance": 0.39324259757995605
+      },
+      {
+        "id": 608,
+        "title": "Is fibromyalgia hereditary?",
+        "url": "http://www.livingwithfibromyalgia.net/is-fibromyalgia-hereditary/",
+        "combined_text": "Is fibromyalgia hereditary? Living with Fibro Is fibromyalgia hereditary? You Might Also Like Theresa Caputo Breaks Silence On Split After Messy Divorce She Had No Idea Why The Crew Was Staring? Reasons That Bring about Fibromyalgia Among the most challenging problems with fibromyalgia is the idea that the grounds stay not kno",
+        "distance": 0.471261590719223
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "4724503334640024618": {
+    "query_id": "4724503334640024618",
+    "query": "what makes something art",
+    "relevants": [
+      {
+        "relevant_doc": 787,
+        "relevant_url": "https://manyessays.com/essay/what-is-art-1"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1949,
+        "title": "What is Primitive Art?",
+        "url": "http://www.ebay.com/gds/What-is-Primitive-Art-/10000000178726061/g.html",
+        "combined_text": "What is Primitive Art? \"Home Buying Guides Art Paintings What is Primitive Art?e Bay 1 Like Like March 10, 2016Noted art critic G. A. Stevens said primitive art is the \"\"most pure, most sincere form of art there can be.\"\" The term refers to either art made by someone outside of the developed world, someone who mimics a pr",
+        "distance": 0.38033291697502136
+      },
+      {
+        "id": 3864,
+        "title": "modern art",
+        "url": "http://encyclopedia2.thefreedictionary.com/Modernism+(art)",
+        "combined_text": "modern art \"modern art (redirected from Modernism (art))modern art,art created from the 19th cent. to the mid-20th cent. by artists who veeredaway from the traditional concepts and techniques of painting, sculpture, and other fine arts that hadbeen practiced since the Renaissance (see Renaissance art and archi",
+        "distance": 0.42631736397743225
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "1001432641048558859": {
+    "query_id": "1001432641048558859",
+    "query": "walk-in flu shots and vaccines",
+    "relevants": [
+      {
+        "relevant_doc": 3431,
+        "relevant_url": "https://www.heb.com/pharmacy/services/immunizations.jsp"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3431,
+        "title": "Immunizations",
+        "url": "https://www.heb.com/pharmacy/services/immunizations.jsp",
+        "combined_text": "Immunizations Immunizations demonstrate our commitment to being the health and wellness destination of choice for Texans. With flexible payment options and no appointments necessary, we're always here to help. Walk-ins welcome. 1Flu shots available during regular pharmacy hours. Flu- no prescription needed for ag",
+        "distance": 0.420838862657547
+      },
+      {
+        "id": 4453,
+        "title": "Encephalitis and Meningitis",
+        "url": "https://www.medicinenet.com/encephalitis_and_meningitis/article.htm",
+        "combined_text": "Encephalitis and Meningitis \"Encephalitis and Meningitis Center Take the Meningitis Quiz Dementia Slideshow Pictures West Nile Virus Slideshow Meningitis FAQs Patient Comments: Encephalitis and Meningitis - Treatments Patient Comments: Meningitis - Symptoms Patient Comments: Meningitis - Experience Patient Comments: Encephalit",
+        "distance": 0.6507381200790405
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-6422926733339092128": {
+    "query_id": "-6422926733339092128",
+    "query": "concerns over plutonium-powered spacecraft",
+    "relevants": [
+      {
+        "relevant_doc": 199,
+        "relevant_url": "http://www.motherjones.com/politics/1997/09/cassini-controversy/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 754,
+        "title": "Curiosity Launch Vehicle, Artist's Concept",
+        "url": "https://www.jpl.nasa.gov/spaceimages/details.php?id=PIA14830",
+        "combined_text": "Curiosity Launch Vehicle, Artist's Concept Images | October 3, 2011Curiosity Launch Vehicle, Artist's Concept This is an artist concept of the Atlas V541 launch vehicle that will carry NASA's Curiosity rover on its way to Mars. The Atlas V 541 vehicle was selected for the Mars Science Laboratory mission because it has the right liftoff capab",
+        "distance": 0.707018256187439
+      },
+      {
+        "id": 199,
+        "title": "3 Ways To Support Mother Jones",
+        "url": "http://www.motherjones.com/politics/1997/09/cassini-controversy/",
+        "combined_text": "3 Ways To Support Mother Jones Looking for news you can trust? Subscribe to our free newsletters. It sounds a lot like the plot of a sci-fi blockbuster: A deep-space probe powered by a highly radioactive substance could wipe out humankind. But to anti-nuclear activists and a number of scientists, this is no movie. In just a few w",
+        "distance": 0.7248507738113403
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "1328209958199993707": {
+    "query_id": "1328209958199993707",
+    "query": "what foods provide vitamin d",
+    "relevants": [
+      {
+        "relevant_doc": 4342,
+        "relevant_url": "https://www.dietitians.ca/Your-Health/Nutrition-A-Z/Vitamins/Food-Sources-of-Vitamin-D.aspx"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 4342,
+        "title": "Food Sources of Vitamin D",
+        "url": "https://www.dietitians.ca/Your-Health/Nutrition-A-Z/Vitamins/Food-Sources-of-Vitamin-D.aspx",
+        "combined_text": "Food Sources of Vitamin D \"Download Posted: Nov 23, 2016Information about Vitamin DVitamin D is a fat-soluble vitamin. This means that your body can store extra amounts of vitamin D. It is important to get enough vitamin D from your diet because it helps our bodies absorb and use calcium and phosphorous for strong bones and",
+        "distance": 0.3068085014820099
+      },
+      {
+        "id": 1835,
+        "title": "How much vitamin D do you get from the sun?",
+        "url": "http://health.howstuffworks.com/wellness/food-nutrition/vitamin-supplements/how-much-vitamin-d-from-sun.htm",
+        "combined_text": "How much vitamin D do you get from the sun? NEXTAre you only eating egg whites? Reconsider. Egg yolks are an excellent dietary source of vitamin D.© i Stockphoto.com /Valentyn Volkov Vitamin D -- specifically the form D3 -- is the only vitamin your body makes itself. It's fat-soluble, which means your body stores vitamin D in its adipose tiss",
+        "distance": 0.3610439598560333
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-3555663160649036511": {
+    "query_id": "-3555663160649036511",
+    "query": "switch joycon charging time",
+    "relevants": [
+      {
+        "relevant_doc": 1912,
+        "relevant_url": "https://www.gamefaqs.com/boards/189706-nintendo-switch/75067709"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1912,
+        "title": "Nintendo Switch",
+        "url": "https://www.gamefaqs.com/boards/189706-nintendo-switch/75067709",
+        "combined_text": "Nintendo Switch Nintendo Switch Hardware Console Nintendo Switch Home Games Cheats Reviews Images Videos Answers Board How long does it take for the joycons to charge? Topic Archived You're browsing the Game FAQs Message Boards as a guest. Sign Up for free (or Log In if you already have an account) to be able to po",
+        "distance": 0.46294456720352173
+      },
+      {
+        "id": 1196,
+        "title": "That Night When Joy Began? What does it mean?",
+        "url": "https://answers.yahoo.com/question/index?qid=20101228083836AA7UAF3",
+        "combined_text": "That Night When Joy Began? What does it mean? \"Arts & Humanities Poetry That Night When Joy Began? What does it mean? I get the assonance and consonance, but I have no clue what it means as a whole. At first I thought it was about suicide, but now I think it's about two lovers waking up, and feeling happy to spend the day together, instead of l",
+        "distance": 0.62919682264328
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "2489767343214898941": {
+    "query_id": "2489767343214898941",
+    "query": "dandelion root tea uses and recipes",
+    "relevants": [
+      {
+        "relevant_doc": 1116,
+        "relevant_url": "http://preparednessmama.com/dandelion-root-tea/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1116,
+        "title": "3 Ways to Use Dandelion Root Tea",
+        "url": "http://preparednessmama.com/dandelion-root-tea/",
+        "combined_text": "3 Ways to Use Dandelion Root Tea 3 Ways to Use Dandelion Root Tea By Shelle 5 Comments Do you let dandelions grow in your garden? You know exactly how important it is to have dark, leafy greens as part of your diet. You know the many health benefits associated with kale and spinach and Swiss chard, and you know that the antioxidant",
+        "distance": 0.2916075587272644
+      },
+      {
+        "id": 409,
+        "title": "Health Benefits of Eating Dandelions â How to Harvest Leaves, Greens, Flowers & Roots",
+        "url": "http://www.moneycrashers.com/eating-dandelions-health-benefits-leaves-greens-roots-flowers/",
+        "combined_text": "Health Benefits of Eating Dandelions â How to Harvest Leaves, Greens, Flowers & Roots Health Benefits of Eating Dandelions – How to Harvest Leaves, Greens, Flowers & Roots By Heather Levin Posted in: Food & Drink, Go Green, Health and Fitness Share 208 Tweet 36 Pin 13 Comments 20Every spring our yards are filled with the bright, sunny appearance of dandelions. Well, at least I think",
+        "distance": 0.5424199104309082
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-934594919844971268": {
+    "query_id": "-934594919844971268",
+    "query": "muniba slang meaning and uses",
+    "relevants": [
+      {
+        "relevant_doc": 2470,
+        "relevant_url": "https://www.azdictionary.com/urban-dictionary/definition/muniba"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2470,
+        "title": "What does muniba mean in Urban Dictionary?",
+        "url": "https://www.azdictionary.com/urban-dictionary/definition/muniba",
+        "combined_text": "What does muniba mean in Urban Dictionary? What does muniba mean in Urban Dictionary? April 6, 2018 Urban Dictionary Link to this page1. a person who is always high/stoned on a regular basis2. a vampire connoisseur, knowledgeable in matters concerning transylvania, castles, in addition to rest of that dark stuff.3. a biriyani-maker. by Cleor",
+        "distance": 0.5074700713157654
+      },
+      {
+        "id": 4264,
+        "title": "List of wrestling slang",
+        "url": "http://prowrestling.wikia.com/wiki/List_of_wrestling_slang",
+        "combined_text": "List of wrestling slang \"Professional wrestling has accrued a considerable amount of slang, in-references and jargon. Much of it stems from the industry's origins in the days of carnivals, and the slang itself is often referred to as \"\"carny talk.\"\" Often wrestlers used this lingo in the presence of fans so as not to revea",
+        "distance": 0.6386151313781738
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-3756349000646549919": {
+    "query_id": "-3756349000646549919",
+    "query": "rod stewart wake up maggie lyrics",
+    "relevants": [
+      {
+        "relevant_doc": 1042,
+        "relevant_url": "http://www.lyricsfreak.com/r/rod+stewart/maggie+may_20117602.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1042,
+        "title": "Maggie May Lyrics",
+        "url": "http://www.lyricsfreak.com/r/rod+stewart/maggie+may_20117602.html",
+        "combined_text": "Maggie May Lyrics \"Tweet Rod Stewart – Maggie May Lyrics (rod stewart / martin quittenton) Wake up maggie I think I got something to say to you Its late september and I really should be back at school I know I keep you amused but I feel I'm being used Oh maggie I couldn't have tried any more You lured me away from ho",
+        "distance": 0.2834317684173584
+      },
+      {
+        "id": 2201,
+        "title": "Al Stewart â Year Of The Cat",
+        "url": "http://songmeanings.com/songs/view/17850/",
+        "combined_text": "Al Stewart â Year Of The Cat \"Al Stewart – Year Of The Cat43 Comments 0 Tags\"\"Year Of The Cat\"\" as written by Wood Peter John, and Al Stewart.... Read More... Edit Wiki On a morning from a Bogart movie In a country where they turn back time You go strolling through the crowd like Peter Lorre Contemplating a crime She comes out",
+        "distance": 0.6519538164138794
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7936088576993413773": {
+    "query_id": "7936088576993413773",
+    "query": "Cherokee Nation Labor Day celebration Tahlequah",
+    "relevants": [
+      {
+        "relevant_doc": 2370,
+        "relevant_url": "https://en.wikipedia.org/wiki/Cherokee_National_Holiday"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2370,
+        "title": "Cherokee National Holiday",
+        "url": "https://en.wikipedia.org/wiki/Cherokee_National_Holiday",
+        "combined_text": "Cherokee National Holiday \"Arts and crafts booths on the Cherokee Heritage Center grounds, Cherokee National Holiday, 2007The Cherokee National Holiday is an annual event held each Labor Day weekend in Tahlequah, Oklahoma. The event celebrates the September 6, 1839 signing of the Constitution of the Cherokee Nation in Oklaho",
+        "distance": 0.25728660821914673
+      },
+      {
+        "id": 3860,
+        "title": "Chinook Nation for Kids",
+        "url": "http://mrnussbaum.com/nativeamericans/chinook/",
+        "combined_text": "Chinook Nation for Kids Chinook Navigation Diet Homes Culture Potlatch Featured Groups Iroquois Sioux Cherokee Navajo Chinook Pequot Lenni Lenape Powhatan Wampanoag Pueblo Inuit Native Am. Navigation Integrated, interactive Activities Native American Homes Native American Wars Famous Native Americans Smallpox Trail of Tear",
+        "distance": 0.6412070393562317
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3802287638639856678": {
+    "query_id": "3802287638639856678",
+    "query": "appreciation of vanderbilt coach kevin stallings",
+    "relevants": [
+      {
+        "relevant_doc": 3768,
+        "relevant_url": "http://www.scout.com/college/vanderbilt/story/1571906-an-appreciation-of-kevin-stallings"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3768,
+        "title": "An Appreciation of Kevin Stallings",
+        "url": "http://www.scout.com/college/vanderbilt/story/1571906-an-appreciation-of-kevin-stallings",
+        "combined_text": "An Appreciation of Kevin Stallings An Appreciation of Kevin Stallings Many of us become noticeably skilled in one craft. Some of us attain greatness in our respective pursuits or professions. Only a select few are able to call themselves numb... Matt Zemek - Aug 15, 2015 VIP 0Many of us become noticeably skilled in one craft. Some of",
+        "distance": 0.5550245642662048
+      },
+      {
+        "id": 1771,
+        "title": "Kevin James comedy Kevin Can Wait gets series order from CBS",
+        "url": "http://ew.com/article/2016/05/12/cbs-kevin-james-kevin-can-wait/",
+        "combined_text": "Kevin James comedy Kevin Can Wait gets series order from CBS Mike Pont/Wire Image Natalie Abrams May 12, 2016 AT 12:00 PM EDTCBS has given a series order to Kevin Can Wait, a comedy starring Kevin James, EW has learned. Reuniting with the network after his run on The King Of Queens, James will star in the multi-camera comedy as a newly retired police officer",
+        "distance": 0.7292197346687317
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-5705312841352631512": {
+    "query_id": "-5705312841352631512",
+    "query": "what to avoid wearing to a wedding",
+    "relevants": [
+      {
+        "relevant_doc": 1432,
+        "relevant_url": "http://lifestyle.howstuffworks.com/weddings/style/wedding-formal-wear/10-things-never-wear-to-wedding.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3994,
+        "title": "Wedding Gifts: From Groom to Bride",
+        "url": "http://www.jewelrywise.com/engagement-wedding/article/wedding-gifts-from-groom-to-bride",
+        "combined_text": "Wedding Gifts: From Groom to Bride Wedding Gifts: From Groom to Bride Show her your love and commitment. In traditional weddings, it’s customary for the bride and groom to give each other gifts. Of course, this practice can be adjusted to fit the taste and style of any couple, whether you’re planning an elaborate celebration, eloping",
+        "distance": 0.3636726438999176
+      },
+      {
+        "id": 234,
+        "title": "Wedding Day Letter to the Bride and Groom",
+        "url": "http://weddings.lovetoknow.com/wiki/Wedding_Day_Letter_to_the_Bride_and_Groom",
+        "combined_text": "Wedding Day Letter to the Bride and Groom Wedding Day Letter to the Bride and Groom By Amy Hoover Event Coordinator Source A wedding day letter to the bride and groom is something many parents feel obligated to write. This is a time when many parents feel their child has embarked upon a journey that will change their lives forever - perhaps",
+        "distance": 0.4448607265949249
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8260335022004378712": {
+    "query_id": "8260335022004378712",
+    "query": "who played Michelle Tanner on Full House",
+    "relevants": [
+      {
+        "relevant_doc": 538,
+        "relevant_url": "http://fullhouse.wikia.com/wiki/Ashley_Olsen"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 538,
+        "title": "Ashley Olsen",
+        "url": "http://fullhouse.wikia.com/wiki/Ashley_Olsen",
+        "combined_text": "Ashley Olsen \"Ashley Olsen General information Birth: June 13, 1986Occupation (s): Actress, fashion designer Series information First appearance: Our Very First Show Last appearance: Michelle Rides Again Pt. 2Portrays: Michelle Tanner Other information Interests: Fashion Education: New York University Ashley Ols",
+        "distance": 0.6573680639266968
+      },
+      {
+        "id": 505,
+        "title": "Did Mary Kate or Ashley Olsen play most in full house?",
+        "url": "http://www.answers.com/Q/Did_mary_kate_or_ashley_olsen_play_most_in_full_house",
+        "combined_text": "Did Mary Kate or Ashley Olsen play most in full house? \"Answers.com ® Wiki Answers ® Categories Entertainment & Arts TV Programming and Commercials TV Shows and Series Comedy TV Shows Full House (TV Series) Did Mary Kate or Ashley Olsen play most in full house? Flag Did Mary Kate or Ashley Olsen play most in full house? Answered by The Wiki Answers ®Com",
+        "distance": 0.6718931198120117
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-1359112501156208158": {
+    "query_id": "-1359112501156208158",
+    "query": "crispy skinned slow roast pork",
+    "relevants": [
+      {
+        "relevant_doc": 3742,
+        "relevant_url": "http://www.ruled.me/crispy-skin-slow-roasted-pork-shoulder/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3742,
+        "title": "Crispy Skin Slow Roasted Pork Shoulder",
+        "url": "http://www.ruled.me/crispy-skin-slow-roasted-pork-shoulder/",
+        "combined_text": "Crispy Skin Slow Roasted Pork Shoulder SHARE THIS RECIPEOn keto, I’m always looking for different ways to get fatty meats into my diet that will taste great and keep my wallet (and stomach) full. Yesterday, I picked up this 8 pound roast for just under $16. Yep, that’s under $2 a pound – and it’ll feed an entire family for a few days! Pu",
+        "distance": 0.5068671703338623
+      },
+      {
+        "id": 137,
+        "title": "Baked Barbecue Pork Chops",
+        "url": "http://iheartrecipes.com/baked-barbecue-pork-chops/",
+        "combined_text": "Baked Barbecue Pork Chops All Posts Dinner Mains Side Bar Baked Barbecue Pork Chops Easy oven baked barbecue pork chops!In this post we’re making oven baked barbecue pork chops. This recipe is super easy to whip up, and these barbecue pork chops are perfect during the busy week. It takes very little time to prepare these por",
+        "distance": 0.6281026601791382
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-2548647668575391701": {
+    "query_id": "-2548647668575391701",
+    "query": "how inactivity affects muscles and health",
+    "relevants": [
+      {
+        "relevant_doc": 2389,
+        "relevant_url": "http://www.strengthtrainingblog.com/strength-exercises/what-happens-to-the-body-if-you-dont-exercise"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2019,
+        "title": "What Is a Healthy Muscle Percentage?",
+        "url": "https://www.reference.com/health/healthy-muscle-percentage-38e06ffc528c02f6",
+        "combined_text": "What Is a Healthy Muscle Percentage? Health Fitness & Exercise Q: What Is a Healthy Muscle Percentage? A: Quick Answer Healthy muscle and body fat percentage varies from person to person and depends mainly on a person's level of physical activity. According to fitness expert Jillian Michaels, the healthy range of muscle mass for women",
+        "distance": 0.5161518454551697
+      },
+      {
+        "id": 2389,
+        "title": "What Happens to the Body if You Donât Exercise",
+        "url": "http://www.strengthtrainingblog.com/strength-exercises/what-happens-to-the-body-if-you-dont-exercise",
+        "combined_text": "What Happens to the Body if You Donât Exercise \"What Happens to the Body if You Don’t Exercise Aug212009Well, for starters, lets look at the muscular skeletal aspect. Your muscles, when not properly engaged in vigorous exercise, start to atrophy and become weaker without regular activity. All of that affects your body’s capacity to work efficien",
+        "distance": 0.5315591096878052
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-6353647849663282719": {
+    "query_id": "-6353647849663282719",
+    "query": "grasshopper control for rangeland",
+    "relevants": [
+      {
+        "relevant_doc": 1221,
+        "relevant_url": "http://pestnetwork.com/continue/grasshoppers.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1221,
+        "title": "GRASSHOPPERS ON PASTURES AND RANGELAND",
+        "url": "http://pestnetwork.com/continue/grasshoppers.html",
+        "combined_text": "GRASSHOPPERS ON PASTURES AND RANGELAND \"GRASSHOPPERS ON PASTURES AND RANGELANDAt the end of this course there will be a test consisting of 10 random questions. PRINT out the test and answer the questions,then Fax to: (512) 990-0665or mail the test to: Pestnetwork.com, Inc. P. O. Box 81552 Austin, TX 78708-1552Once received, the questionn",
+        "distance": 0.5090819001197815
+      },
+      {
+        "id": 2078,
+        "title": "TERRO 16-oz Spider & Ant Killer",
+        "url": "https://www.lowes.com/pd/TERRO-Spider-and-Ant-16-oz-Insect-Killer/50414198",
+        "combined_text": "TERRO 16-oz Spider & Ant Killer Outdoors Insect & Pest Control Pesticides Item # 488912 Model # T2303TERRO 16-oz Spider & Ant Killer7 Ratings4.5 Average Community Q&AView Now Enter your locationfor pricing and availability. Ok Kills spiders (including black widow, brown recluse and hobo spiders)Also kills ants (including carpenter",
+        "distance": 0.7534329891204834
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "2674093156298511081": {
+    "query_id": "2674093156298511081",
+    "query": "actor leaked watch dogs 2 protagonist",
+    "relevants": [
+      {
+        "relevant_doc": 2812,
+        "relevant_url": "http://www.gamesradar.com/watch-dogs-2-main-character-seemingly-leaked-by-actor/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2812,
+        "title": "Watch Dogs 2 main character seemingly leaked by actor",
+        "url": "http://www.gamesradar.com/watch-dogs-2-main-character-seemingly-leaked-by-actor/",
+        "combined_text": "Watch Dogs 2 main character seemingly leaked by actor \"Watch Dogs 2 main character seemingly leaked by actor By Connor Sheridan 2016-05-03T15:22:53.123Z News Comments This may be the face of the next Watch Dogs protagonist. Well, the part of his face that isn't covered by a bandana, thick-rimmed glasses, and a ball cap, anyway. Nerd Leaks spotted an In",
+        "distance": 0.22561036050319672
+      },
+      {
+        "id": 845,
+        "title": "GoodWatch",
+        "url": "https://twitter.com/BestofGoodWatch",
+        "combined_text": "GoodWatch Good Watch@ Bestof Good Watch Not sure what to watch or where to watch it? Good Watch has endless movies and TV shows that you can watch online - anytime, any placegoodwatch.co Joined March 2016134 Photos and videos New to Twitter? Sign up now to get your own personalized timeline!Sign up Worldwide",
+        "distance": 0.6169453263282776
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-7309286190263154877": {
+    "query_id": "-7309286190263154877",
+    "query": "how much was jean paul getty worth",
+    "relevants": [
+      {
+        "relevant_doc": 3565,
+        "relevant_url": "https://celebritybio.org/richest-actors/jean-paul-getty-net-worth/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3565,
+        "title": "Jean Paul Getty Net Worth",
+        "url": "https://celebritybio.org/richest-actors/jean-paul-getty-net-worth/",
+        "combined_text": "Jean Paul Getty Net Worth Home / Actors / Jean Paul Getty Net Worth Actors Jean Paul Getty Net Worth Tom Ford December 14, 2016 0 Comments 22 Less than a minute Jean Paul Getty Net Worth is $7 Million Jean Paul Getty Bio/Wiki, Net Worth Jean Paul Getty was born on December 15, 1892 in Minneapolis, Minnesota, USA. He was marr",
+        "distance": 0.12869387865066528
+      },
+      {
+        "id": 1131,
+        "title": "get (one's) money's worth",
+        "url": "http://idioms.thefreedictionary.com/get+money's+worth",
+        "combined_text": "get (one's) money's worth \"get (one's) money's worth (redirected from get money's worth)get (one's) money's worth To get an appropriate or satisfying return on one's monetary investment in an item, event, or activity. Admission to the museum was so expensive that I felt like I had to stay all day just to get my money's worth",
+        "distance": 0.5740361213684082
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8647574193622312618": {
+    "query_id": "8647574193622312618",
+    "query": "where the 100 was filmed around squamish",
+    "relevants": [
+      {
+        "relevant_doc": 3946,
+        "relevant_url": "https://moviemaps.org/movies/sz"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3946,
+        "title": "The 100 Filming Locations",
+        "url": "https://moviemaps.org/movies/sz",
+        "combined_text": "The 100 Filming Locations Zoom to: Britannia Beach, Squamish, Vancouver",
+        "distance": 0.3032674491405487
+      },
+      {
+        "id": 2739,
+        "title": "Filming & Production",
+        "url": "http://www.imdb.com/title/tt0948470/locations",
+        "combined_text": "Filming & Production The Amazing Spider-Man (2012)Filming & Production Showing all 14 items Jump to: Filming Locations (13) Filming Dates (1)Filming Locations Edit Richmond Hill, Queens, New York City, New York, USA3 of 3 found this interesting Taft High School - 5461 Winnetka Avenue, Woodland Hills, Los Angeles, Califo",
+        "distance": 0.6704801917076111
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-3509731823239905440": {
+    "query_id": "-3509731823239905440",
+    "query": "how to tell if gluten intolerant",
+    "relevants": [
+      {
+        "relevant_doc": 1488,
+        "relevant_url": "http://rmhealthy.com/10-signs-gluten-allergy/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3664,
+        "title": "Lactose intolerance vs. gluten allergy â Whatâs the difference?",
+        "url": "https://prettylittleceliac.wordpress.com/2012/09/18/lactose-intolerance-vs-gluten-allergy-whats-the-difference/",
+        "combined_text": "Lactose intolerance vs. gluten allergy â Whatâs the difference? \"Lactose intolerance vs. gluten allergy – What’s the difference? Posted by Rebecca Black in Celiac Symptoms, Gluten & Lactose Free Food Reviews and tagged withceliac, celiac diagnosis, celiac disease, celiac disease symptoms, gluten allergy, gluten free, gluten free diet, gluten free living, gluten",
+        "distance": 0.36980727314949036
+      },
+      {
+        "id": 865,
+        "title": "How To Substitute Gluten Free Flour in Recipes?",
+        "url": "http://www.livinghealthymom.com/gluten-free-flour/",
+        "combined_text": "How To Substitute Gluten Free Flour in Recipes? How To Substitute Gluten Free Flour in Recipes? By The Living Healthy Mom Tweet Sharebar I LOVE gluten free flour …………. and I have NO “issues” with gluten. Rather I eat gluten free flour because I love the taste and the health benefits. Even f you have NO “issues” with gluten, the wonderful taste an",
+        "distance": 0.547277569770813
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "9209067090704225827": {
+    "query_id": "9209067090704225827",
+    "query": "tupac 1996 double album",
+    "relevants": [
+      {
+        "relevant_doc": 4629,
+        "relevant_url": "https://en.wikipedia.org/wiki/All_Eyez_on_Me"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 738,
+        "title": "Who was Tupac Shakur?",
+        "url": "http://www.answers.com/Q/In_what_year_was_Tupac_Shakur_born",
+        "combined_text": "Who was Tupac Shakur? \"Quirkyquantummechanic 136,211 Contributions Who was Tupac Shakur? Tupac Tupac is one of the greatest rappers of all time. Not the typical rapper, he didn't just rap about money and drugs and wanting to kill someone. He rapped about real bla …Iwannatalktosamson 328 Contributions Who is Tupac Shakur?",
+        "distance": 0.4141123294830322
+      },
+      {
+        "id": 4629,
+        "title": "All Eyez on Me",
+        "url": "https://en.wikipedia.org/wiki/All_Eyez_on_Me",
+        "combined_text": "All Eyez on Me \"From Wikipedia, the free encyclopedianavigation search This article is about the Tupac Shakur album. For the film about Tupac, see All Eyez on Me (film). For other uses, see All Eyez on Me (disambiguation). All Eyez on Me Studio album by 2Pac Released February 13, 1996Recorded October 13–27, 1995St",
+        "distance": 0.5051653981208801
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-2248737453807580118": {
+    "query_id": "-2248737453807580118",
+    "query": "Udon Thani travel reviews and tips",
+    "relevants": [
+      {
+        "relevant_doc": 1392,
+        "relevant_url": "https://www.tripadvisor.com/Tourism-g297939-Udon_Thani_Udon_Thani_Province-Vacations.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1392,
+        "title": "Udon Thani, Thailand",
+        "url": "https://www.tripadvisor.com/Tourism-g297939-Udon_Thani_Udon_Thani_Province-Vacations.html",
+        "combined_text": "Udon Thani, Thailand \"8,858 reviews and opinions Udon Thani, Thailand (malsol, Aug 2013)Hotels (58)3,891 Reviews Vacation Rentals (8)20 Reviews Flightsfrom $1,446Things to Do (45)1,838 Reviews Restaurants (141)2,956 Reviews Forum147 Posts Overview Places to Stay Location Things to Do Want to save up to 30% on your Udon",
+        "distance": 0.32273808121681213
+      },
+      {
+        "id": 2526,
+        "title": "Vietnam: Banks & Money",
+        "url": "https://www.tripadvisor.com/Travel-g293921-s601/Vietnam:Banks.And.Money.html",
+        "combined_text": "Vietnam: Banks & Money \"Vietnam Traveler Article: Vietnam: Banks & Money Save Article More Traveler Articlesadvice from real travelers For Foreign Visitors Adventure Travel in Vietnam Important Phrases Sapa Scams and annoyances SIM Cards Telephones Tipping & Etiquette Vietnam travel tips Background10 reasons to travel in",
+        "distance": 0.6639841794967651
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "411386721046251819": {
+    "query_id": "411386721046251819",
+    "query": "free wooden pallets for garden playhouse",
+    "relevants": [
+      {
+        "relevant_doc": 414,
+        "relevant_url": "http://pallets.indinf.com/free-pallets.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 414,
+        "title": "Where can I get hold of free pallets?",
+        "url": "http://pallets.indinf.com/free-pallets.html",
+        "combined_text": "Where can I get hold of free pallets? Where can I get hold of free pallets? Someone asked us if and where they could get some free pallets. They were looking for wooden pallets to build a cheap play house for their kids on their garden. It is generally quite hard to get hold of free pallets as they could be sold to companies that repair",
+        "distance": 0.3113745152950287
+      },
+      {
+        "id": 714,
+        "title": "GreenFelt.net",
+        "url": "http://www.solitairecentral.com/online/GreenFeltnet.html",
+        "combined_text": "GreenFelt.net Online Solitaires »Home » Online Solitaire Games » Green Felt.net Green Felt.net Green Felt offers a number of online solitaire and puzzle games (no download required). Solitaire games include: Seahaven Towers Freecell Klondike Canfield Flower Garden Maze Spider Golf Pyramid Deal With It Scorpion Yu",
+        "distance": 0.7539401054382324
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-5689734795045785423": {
+    "query_id": "-5689734795045785423",
+    "query": "best chain size for porch swing",
+    "relevants": [
+      {
+        "relevant_doc": 1469,
+        "relevant_url": "http://diy.stackexchange.com/questions/2421/what-size-chain-is-typically-used-when-hanging-a-porch-swing"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1469,
+        "title": "What size chain is typically used when hanging a porch swing?",
+        "url": "http://diy.stackexchange.com/questions/2421/what-size-chain-is-typically-used-when-hanging-a-porch-swing",
+        "combined_text": "What size chain is typically used when hanging a porch swing? _Home Improvement Stack Exchange is a question and answer site for contractors and serious DIYers. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top What size chain is typically used when ha",
+        "distance": 0.5235490202903748
+      },
+      {
+        "id": 2678,
+        "title": "Screened-In Porch - How to Keep Bugs Away",
+        "url": "https://www.patioenclosures.com/screened-in-porch-how-to-keep-bugs-away.aspx",
+        "combined_text": "Screened-In Porch - How to Keep Bugs Away September 02, 2014« Previous Post Next Post »In this post, you'll learn ... How you can enjoy the outdoors and keep the bugs away. What is the best material to use for your screened-in porch or patio? Learn more about our screen room options. Summer nights are so relaxing, especially when they bring",
+        "distance": 0.6381966471672058
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-3068040228924933886": {
+    "query_id": "-3068040228924933886",
+    "query": "nancy sinatra guitar chords these boots",
+    "relevants": [
+      {
+        "relevant_doc": 1129,
+        "relevant_url": "http://www.chordie.com/chord.pere/www.guitaretab.com/n/nancy-sinatra/131032.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 618,
+        "title": "How to Read Guitar Tabs",
+        "url": "http://www.wikihow.com/Read-Guitar-Tabs",
+        "combined_text": "How to Read Guitar Tabs \"Expert Reviewed How to Read Guitar Tabs Four Parts: Using Tabs to Fret Notes and Chords Reading Special Symbols Reading an Example Tab Guitar Tab Cheat Sheets Community Q&AGuitarists have their own special system of music notation called guitar tablature, or \"\"guitar tabs\"\" for short. Using guitar",
+        "distance": 0.6263015866279602
+      },
+      {
+        "id": 336,
+        "title": "GuitarJamz",
+        "url": "http://www.youtube.com/user/martyzsongs",
+        "combined_text": "GuitarJamz \"Absolute Super Beginner Guitar Lesson Your First Guitar Lesson - Want to Learn Guitar- Acoustic-9,673,142 views 4 years ago Instant access to 15 strumming lessons http://guitarjamz.com/begin... ... Free chord and Scale Book http://www.guitarjamz.com/n... Links : Site http://www.guitarjamz.com Faceb",
+        "distance": 0.633773922920227
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7687891645747549113": {
+    "query_id": "7687891645747549113",
+    "query": "ideas for using mac pigments",
+    "relevants": [
+      {
+        "relevant_doc": 4332,
+        "relevant_url": "http://thebeautygypsy.com/how-to-use-mac-pigments/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 4332,
+        "title": "15 super-cool uses for MAC pigments",
+        "url": "http://thebeautygypsy.com/how-to-use-mac-pigments/",
+        "combined_text": "15 super-cool uses for MAC pigments 15 super-cool uses for MAC pigments When I started off in beauty, nothing would intimidate me more than those sparkly jars of MAC Pigments – they looked so gorgeous and professional but I could never figure out just what to do with them. Then, over the years, I saw leading makeup artists use these h",
+        "distance": 0.36427929997444153
+      },
+      {
+        "id": 4336,
+        "title": "Importing and Exporting Files with QuickTime",
+        "url": "http://www.dummies.com/how-to/content/importing-and-exporting-files-with-quicktime.html",
+        "combined_text": "Importing and Exporting Files with QuickTime Computers Macs Importing and Exporting Files with Quick Time Importing and Exporting Files with Quick Time Related Book Mac OS X Panther All-in-One Desk Reference for Dummies By Mark L. Chambers Quick Time Pro makes a great tool for converting media files. As your collection of multimedia grows, you",
+        "distance": 0.6929401159286499
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-6037307797515970694": {
+    "query_id": "-6037307797515970694",
+    "query": "90s company that distributed barney videos",
+    "relevants": [
+      {
+        "relevant_doc": 2450,
+        "relevant_url": "http://new-clg-dream-logos.wikia.com/wiki/Lyrick_Studios"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 243,
+        "title": "A Beginnerâs Guide to Animated Video Making for business",
+        "url": "http://blog.animaker.com/beginners-guide-to-animated-video-making/",
+        "combined_text": "A Beginnerâs Guide to Animated Video Making for business A Beginner’s Guide to Animated Video Making for business Raghav - March 4, 2014 - Leave your thoughts Animated Video Making, Explainer Video Making Lights, Camera, ACTION!Let’s face it; actions always speak louder than words, even in the web marketing world. The concept of animated video market has",
+        "distance": 0.6696368455886841
+      },
+      {
+        "id": 815,
+        "title": "Music Videos",
+        "url": "http://lana-del-rey.wikia.com/wiki/Music_Videos",
+        "combined_text": "Music Videos \"Here you'll find information and links to Lana Del Rey's music videos. Videos were made to accompany her released singles as normal, aswell as some promotional singles, but there also exist some home made videos to accompany her earlier work. This of course includes the video for Video Games, the o",
+        "distance": 0.6928176879882812
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-6051488278481398688": {
+    "query_id": "-6051488278481398688",
+    "query": "basa fillet oven time",
+    "relevants": [
+      {
+        "relevant_doc": 33,
+        "relevant_url": "https://answers.yahoo.com/question/index?qid=20100817120845AAs5k2z"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 33,
+        "title": "How long do I bake basa fish?",
+        "url": "https://answers.yahoo.com/question/index?qid=20100817120845AAs5k2z",
+        "combined_text": "How long do I bake basa fish? Food & Drink Cooking & Recipes How long do I bake basa fish? I am cooking Basa fish for the first time and have no idea how long to bake it for. Actually I am making fish for the first time. I am trying to add it to a better eating style due to health program.3 following 2 answers Answers Best Answe",
+        "distance": 0.5667474865913391
+      },
+      {
+        "id": 3534,
+        "title": "Grilled Salmon Fillets",
+        "url": "https://www.foodnetwork.com/recipes/grilled-salmon-fillets-recipe-1907358",
+        "combined_text": "Grilled Salmon Fillets Prev Recipe Next Recipe Grilled Salmon Fillets3 Reviews Recipe courtesy of Elizabeth Karmel Show: Cooking Live Episode: Basics of Grilling Save Recipe Total: 15 min Prep: 5 min Cook: 10 min Ingredients1 salmon fillet, about 2 pounds, cut into pieces about 1-inch thick Salt and pepper Add Checked Ite",
+        "distance": 0.7287043929100037
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-5969317843834483434": {
+    "query_id": "-5969317843834483434",
+    "query": "highest grossing movie stars ever",
+    "relevants": [
+      {
+        "relevant_doc": 2581,
+        "relevant_url": "http://www.therichest.com/rich-list/most-popular/the-5-highest-grossing-actors-and-actresses/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2581,
+        "title": "The 5 Highest Grossing Actors and Actresses",
+        "url": "http://www.therichest.com/rich-list/most-popular/the-5-highest-grossing-actors-and-actresses/",
+        "combined_text": "The 5 Highest Grossing Actors and Actresses \"The 5 Highest Grossing Actors and Actresses It's a simple fact that our favorite stars have a quality about them, an unfathomable charisma, that makes us want to go and see them time and again at the movie theater. There's a reason why the film Share Tweetby Daniel R Deakin – on Mar 05th in Most Po",
+        "distance": 0.4838067591190338
+      },
+      {
+        "id": 1299,
+        "title": "stuffy",
+        "url": "http://www.thesaurus.com/browse/stuffy",
+        "combined_text": "stuffy Relevance A-Z Complexity + Length +lists blocks Common Informal Synonyms for stuffyadj close, oppressiveairless starhumid starstale starstifling starbreathless starconfined starfetid starheavy starmuggy starstagnant starsuffocating starsultry starthick starunventilated star Explore Dictionary.com In",
+        "distance": 0.5721825957298279
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "174672968052133778": {
+    "query_id": "174672968052133778",
+    "query": "why abc canceled ellen after coming out",
+    "relevants": [
+      {
+        "relevant_doc": 1344,
+        "relevant_url": "http://www.nytimes.com/1998/04/25/arts/abc-is-canceling-ellen.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1344,
+        "title": "ABC Is Canceling 'Ellen'",
+        "url": "http://www.nytimes.com/1998/04/25/arts/abc-is-canceling-ellen.html",
+        "combined_text": "ABC Is Canceling 'Ellen' Arts ABC Is Canceling 'Ellen'By BILL CARTER APRIL 25, 1998ABC confirmed yesterday that it had canceled the comedy ''Ellen,'' a year after the show made television history when its lead character, played by Ellen De Generes, declared she was a lesbian. The news had been widely expected in light of th",
+        "distance": 0.25375065207481384
+      },
+      {
+        "id": 2603,
+        "title": "5 reasons ABC might have canceled the Tim Allen comedy Last Man Standing",
+        "url": "https://www.vox.com/culture/2017/5/12/15628038/last-man-standing-canceled-tim-allen",
+        "combined_text": "5 reasons ABC might have canceled the Tim Allen comedy Last Man Standing Tim Allen’s sitcom Last Man Standing has been canceled, despite solid ratings. ABCIt’s not often a network cancels its second most-watched comedy in a sudden, surprising move. Usually, if a show that important to a network has to go out, it’s granted some sort of “this will be your final season” rep",
+        "distance": 0.6127368211746216
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3501383753446979371": {
+    "query_id": "3501383753446979371",
+    "query": "angel aura quartz healing benefits",
+    "relevants": [
+      {
+        "relevant_doc": 3692,
+        "relevant_url": "http://meanings.crystalsandjewelry.com/angel-aura"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3692,
+        "title": "Angel Aura Quartz: Meanings, Properties and Powers",
+        "url": "http://meanings.crystalsandjewelry.com/angel-aura",
+        "combined_text": "Angel Aura Quartz: Meanings, Properties and Powers \"Angel Aura Quartz: Meanings, Properties and Powersby Diana Houston The Angel Aura Quartz is a crystal that you should have if you want to try a new approach, discover a new path in life, or to achieve something that you desire!Angel Aura Quartz Properties It’s a Clear Quartz bonded with Silver and",
+        "distance": 0.2059660255908966
+      },
+      {
+        "id": 2583,
+        "title": "Invicta Angel Watches",
+        "url": "https://invictastores.com/collections/angel",
+        "combined_text": "Invicta Angel Watches Invicta Angel Watches The Invicta Angel Collection lets you change your look on a whim or with specific events in mind. Style selections range from slenderized and refined to boldly fashion-forward, and you can move from sport to dressed-up while retaining a feminine edge. Each unique piece featured",
+        "distance": 0.6334554553031921
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-1594619707092317687": {
+    "query_id": "-1594619707092317687",
+    "query": "Wahlberg family burger restaurant show",
+    "relevants": [
+      {
+        "relevant_doc": 2577,
+        "relevant_url": "https://en.wikipedia.org/wiki/Paul_Wahlberg"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2577,
+        "title": "Wahlburgers",
+        "url": "https://en.wikipedia.org/wiki/Paul_Wahlberg",
+        "combined_text": "Wahlburgers \"Wahlburgers From Wikipedia, the free encyclopedia (Redirected from Paul Wahlberg)navigation search This article is about the burger restaurant owned by the Wahlberg family and A&E reality television show. For the New York state area burger, see Tom Wahl's. \"\"Wahlburger\"\" redirects here. It is not t",
+        "distance": 0.3492719829082489
+      },
+      {
+        "id": 1700,
+        "title": "Mark Wahlberg and brother Donnie set to open up beefcake restaurant chain Wahlburgers",
+        "url": "http://www.dailymail.co.uk/news/article-2030144/Wahlburgers-Mark-Wahlberg-brother-Donnie-open-beefcake-restaurant.html",
+        "combined_text": "Mark Wahlberg and brother Donnie set to open up beefcake restaurant chain Wahlburgers Mark Wahlberg and brother Donnie set to open up beefcake restaurant chain Wahlburgers By Rachel Quigley Updated: 15:12 EDT, 25 August 20115View comments Former popstars turned now actor brothers Mark and Donnie Wahlberg are opening a chain of restaurants called Wahlburgers. The only problem was, Tom",
+        "distance": 0.36619269847869873
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4118759226023068547": {
+    "query_id": "-4118759226023068547",
+    "query": "partner experiencing pregnancy symptoms",
+    "relevants": [
+      {
+        "relevant_doc": 805,
+        "relevant_url": "https://en.wikipedia.org/wiki/Couvade_syndrome"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3554,
+        "title": "6 Weeks Pregnant",
+        "url": "http://infobaby.org/6-weeks-pregnant/",
+        "combined_text": "6 Weeks Pregnant \"6 Weeks Pregnant15.03.2016 Andrew Johns 25 Weeks of Pregnancy Home » Weeks of Pregnancy » 6 Weeks Pregnant Contents: The 6 Weeks of Pregnancy6 Weeks Pregnant Belly Pictures What Symptoms May Occur? Nutrition at 6 Weeks Pregnancy Sexual Life A Useful Piece of Advice and Recommendations Multiple Preg",
+        "distance": 0.5613235831260681
+      },
+      {
+        "id": 3833,
+        "title": "PREGNANCY SYMPTOMS FROM A-Z",
+        "url": "https://www.thebump.com/",
+        "combined_text": "PREGNANCY SYMPTOMS FROM A-Z Previous PARTNERS & LOVED ONESExcited to welcome a new baby into the family? Learn how you can help (without stepping on any toes!). PREGNANCY WEEK BY WEEKGet updates on baby's development, decode your pregnancy symptoms and see your weekly to-dos. BABY MONTH BY MONTHLearn about baby's milestones at",
+        "distance": 0.5672158598899841
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "5719651044913575138": {
+    "query_id": "5719651044913575138",
+    "query": "which countries are asian tigers",
+    "relevants": [
+      {
+        "relevant_doc": 4091,
+        "relevant_url": "http://www.answers.com/Q/Who_are_the_Asian_tigers"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 4091,
+        "title": "What are the Asian tigers?",
+        "url": "http://www.answers.com/Q/Who_are_the_Asian_tigers",
+        "combined_text": "What are the Asian tigers? \"Kim.hongrim 5 Contributions What are the Asian tigers? The Asian Tigers refers to Taiwan, Hong Kong, Singapore, and South Korea is known as 4 Asian Tigers The 4 Asian Tigers are Asia's economic stability throughout the 1900s and …What do Asian tiger mosquito's eat? The males are vegetarians and eat",
+        "distance": 0.10033752024173737
+      },
+      {
+        "id": 4667,
+        "title": "What Do Tigers Eat?",
+        "url": "http://www.tigerfdn.com/",
+        "combined_text": "What Do Tigers Eat? What Do Tigers Eat? Have you ever caught yourself pondering what do Tigers eat? You can’t say that you haven’t because that means that you wouldn’t have ended up here! Let us teach you all about the dietary habits of one of the most amazing big cats in the world. Tigers are carnivores, meaning that",
+        "distance": 0.4160824120044708
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "2473364433191990994": {
+    "query_id": "2473364433191990994",
+    "query": "switch Netflix audio to English on Sony TV",
+    "relevants": [
+      {
+        "relevant_doc": 3879,
+        "relevant_url": "http://www.community.sony.com/t5/Television-Apps-Widgets/Cannot-change-audio-language-on-Netflix-on-a-kdl-46hx800/td-p/466156"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3697,
+        "title": "Q&A: Streaming Netflix Video on Multiple Devices",
+        "url": "http://gadgetwise.blogs.nytimes.com/2013/06/21/qa-streaming-netflix-video-on-multiple-devices/",
+        "combined_text": "Q&A: Streaming Netflix Video on Multiple Devices Q&A: Streaming Netflix Video on Multiple Devices By J.d. Biersdorfer June 21, 2013 7:00 am Q. I have the Netflix streaming plan, along with a Roku box and a couple of tablet computers with the Netflix app. Can all three be used at the same time to stream movies? A. If you have the standard $7.99 mon",
+        "distance": 0.5177455544471741
+      },
+      {
+        "id": 3879,
+        "title": "Cannot change audio language on Netflix on a kdl-46hx800",
+        "url": "http://www.community.sony.com/t5/Television-Apps-Widgets/Cannot-change-audio-language-on-Netflix-on-a-kdl-46hx800/td-p/466156",
+        "combined_text": "Cannot change audio language on Netflix on a kdl-46hx800 falathis Posts: 1Registered: 11-15-2014Message 1 of 2 (6,041 Views)Cannot change audio language on Netflix on a kdl-46hx800Options11-15-2014 10:16 PM edited {1}I am trying to watch a show on Netflix and it is playing in French. I cannot find the place to change the language to English. Also the show",
+        "distance": 0.5391596555709839
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "2593662760079245216": {
+    "query_id": "2593662760079245216",
+    "query": "egg thief in puss in boots",
+    "relevants": [
+      {
+        "relevant_doc": 291,
+        "relevant_url": "http://hero.wikia.com/wiki/Humpty_alexander_dumpty"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2747,
+        "title": "The Book Thief",
+        "url": "https://en.wikipedia.org/wiki/The_Book_Thief",
+        "combined_text": "The Book Thief \"The Book Thief From Wikipedia, the free encyclopedianavigation search This article is about the novel. For the film adaptation, see The Book Thief (film). For other uses, see The Book Thief (disambiguation). The Book Thief First edition cover Author Markus Zusak Illustrator Trudy White Cover artist",
+        "distance": 0.5290669798851013
+      },
+      {
+        "id": 291,
+        "title": "Humpty Alexander Dumpty",
+        "url": "http://hero.wikia.com/wiki/Humpty_alexander_dumpty",
+        "combined_text": "Humpty Alexander Dumpty \"Do-gooder Full Name Humpty Alexander Dumpty Alias Humpty Dumpty Origin Puss in Boots Occupation Puss' friend Powers/Skills Trickery Hobby Pranking and tricking people Goals Find the golden eggs, get revenge on Puss, and to destroy (later save) San Ricardo Family No information Friends No informatio",
+        "distance": 0.5668630599975586
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-9051239328566522095": {
+    "query_id": "-9051239328566522095",
+    "query": "what it's like to work at holiday inn",
+    "relevants": [
+      {
+        "relevant_doc": 3527,
+        "relevant_url": "https://www.indeed.com/cmp/Holiday-Inn/reviews"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3527,
+        "title": "Holiday Inn Employee Reviews",
+        "url": "https://www.indeed.com/cmp/Holiday-Inn/reviews",
+        "combined_text": "Holiday Inn Employee Reviews Find Companies Holiday Inn3.8 10.5K reviews Follow Get job updates from Holiday Inn About 10.5K Reviews15.2K Salaries35 Photos679 Jobs102 Q&AHoliday Inn Employee Reviews Job Title Location See reviews about: Work-Life Balance Pay & Benefits Job Security & Advancement Management Culture Found 8,077 r",
+        "distance": 0.37232616543769836
+      },
+      {
+        "id": 3765,
+        "title": "Holiday Inn Express & Suites Hollywood Walk Of Fame",
+        "url": "https://www.ihg.com/holidayinnexpress/hotels/us/en/los-angeles/laxfa/hoteldetail",
+        "combined_text": "Holiday Inn Express & Suites Hollywood Walk Of Fame Holiday Inn Express & Suites Hollywood Walk Of Fame1921 N. Highland Avenue , Los Angeles, California 900684.2 / 5 1001 Reviews Starting At Open Gallery To Bob Hope Burbank Airport6.8 MI10.94 KMGet Directions Find Rooms New Search Manage Reservations Check In * Check Out *Check Availability More Opti",
+        "distance": 0.6007155776023865
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3278677344021060723": {
+    "query_id": "3278677344021060723",
+    "query": "glee reunion lea michele jonathan groff",
+    "relevants": [
+      {
+        "relevant_doc": 677,
+        "relevant_url": "https://artsbeat.blogs.nytimes.com/2010/04/12/those-youve-known-lea-michele-and-jonathan-groff-reunite-on-glee/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 677,
+        "title": "Those Youâve Known: Lea Michele and Jonathan Groff Reunite on âGleeâ",
+        "url": "https://artsbeat.blogs.nytimes.com/2010/04/12/those-youve-known-lea-michele-and-jonathan-groff-reunite-on-glee/",
+        "combined_text": "Those Youâve Known: Lea Michele and Jonathan Groff Reunite on âGleeâ Those You’ve Known: Lea Michele and Jonathan Groff Reunite on ‘Glee’By Dave Itzkoff April 12, 2010 10:00 am Comment Carin Baer/Fox Lea Michele and Jonathan Groff as the romantic rivals Rachel Berry and Jesse St. James on “Glee.”For nearly two years, Lea Michele and Jonathan Groff shared a stage in t",
+        "distance": 0.0970180407166481
+      },
+      {
+        "id": 3978,
+        "title": "Glee recap: Rachel is pregnant?!",
+        "url": "http://ew.com/recap/glee-season-four-episode-fourteen-rachel-pregnant/",
+        "combined_text": "Glee recap: Rachel is pregnant?! Adam Rose/Fox Erin Strecker February 15, 2013 AT 06:02 AM ESTGleetype TV Show Current Status In Season seasons 6 run date 05/19/09 performer Jane Lynch, Lea Michele, Matthew Morrison, Chris Colfer broadcaster Fox genre Comedy, Music Oh. My. God. What a Valentine’s Day for our Glee crew. It seemed li",
+        "distance": 0.4814664423465729
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3909227194224705219": {
+    "query_id": "3909227194224705219",
+    "query": "latest pop music news",
+    "relevants": [
+      {
+        "relevant_doc": 1894,
+        "relevant_url": "http://singersroom.com/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3573,
+        "title": "History of pop music",
+        "url": "https://www.citelighter.com/music/overall/knowledgecards/history-of-pop-music",
+        "combined_text": "History of pop music \"The phrase “pop music” was first coined around the middle of the 1920′s, it meant a piece of music had “popular” appeal. Numerous things that took place during the recordings of the 20′s could be seen as being the start of the modern day pop music industry, which includes rhythm and blues music, as",
+        "distance": 0.5244199633598328
+      },
+      {
+        "id": 4716,
+        "title": "Old Fashioned Love Songs",
+        "url": "http://www.allmusic.com/album/old-fashioned-love-songs-mw0001971329/",
+        "combined_text": "Old Fashioned Love Songs \"Stream or buy on: Release Date April 27, 2010Duration02:58:33Genre Easy Listening Pop/Rock Vocal Styles American Popular Song Standards Tin Pan Alley Pop Traditional Pop Vocal Pop Submit Corrections Album Moods Agreeable Bright Delicate Innocent Intimate Lush Romantic Sentimental Springlike Summery",
+        "distance": 0.6213206052780151
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "5068263923039541741": {
+    "query_id": "5068263923039541741",
+    "query": "how narcissists get attention and validation",
+    "relevants": [
+      {
+        "relevant_doc": 2989,
+        "relevant_url": "http://www.toddlertime.com/sam/76.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2989,
+        "title": "FAQ #76 Narcissists, Narcissistic Supply and Sources of Supply",
+        "url": "http://www.toddlertime.com/sam/76.htm",
+        "combined_text": "FAQ #76 Narcissists, Narcissistic Supply and Sources of Supply \"FAQ #76 Narcissists, Narcissistic Supply and Sources of Supplyby Dr. Sam Vaknin Question: What is Narcissistic Supply? Answer: We all search for positive cues from people around us. These cues reinforce in us certain behaviour patterns. There is nothing special in the fact that the narcissist does",
+        "distance": 0.5513304471969604
+      },
+      {
+        "id": 512,
+        "title": "How to Make the Narcissist Powerless to Affect Your Life",
+        "url": "http://blog.melanietoniaevans.com/how-to-make-the-narcissist-powerless-to-affect-your-life/",
+        "combined_text": "How to Make the Narcissist Powerless to Affect Your Life How to Make the Narcissist Powerless to Affect Your Life Written by Melanie Tonia Evans Permalink 69218Save Share 3.0K Pin 1.8K Tweet 224.8KHave you been in a situation where you were completely obsessed, terrorised and emotionally crippled with the fear of what the narcissist was going to do next,",
+        "distance": 0.5692100524902344
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7309922367943426167": {
+    "query_id": "7309922367943426167",
+    "query": "video poker payout odds and house edge",
+    "relevants": [
+      {
+        "relevant_doc": 2927,
+        "relevant_url": "http://www.videopokeradvisor.com/poker_odds.php"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2927,
+        "title": "What Are Your Video Poker Odds?",
+        "url": "http://www.videopokeradvisor.com/poker_odds.php",
+        "combined_text": "What Are Your Video Poker Odds? \"What Are Your Video Poker Odds? Video Poker Advisor | A Bit History | Game Variations | Game Odds | House Edge | Strategies | More Strategies | Progressive Video Poker | Free Video Poker | Flash Video Poker | Live VS Online | Video Poker Myths | Common made Mistakes | Money Management | Comps and V",
+        "distance": 0.23849275708198547
+      },
+      {
+        "id": 3905,
+        "title": "Improving Your Odds at Roulette",
+        "url": "http://www.dummies.com/how-to/content/improving-your-odds-at-roulette.html",
+        "combined_text": "Improving Your Odds at Roulette Games Casino Games Improving Your Odds at Roulette Improving Your Odds at Roulette Related Book Casino Gambling For Dummies, 2nd Edition By Kevin Blackwood, Max Rubin Remember to stay realistic about the long odds on this popular game of chance. Approach roulette with the sober realization that, wit",
+        "distance": 0.49007412791252136
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-919049759333000246": {
+    "query_id": "-919049759333000246",
+    "query": "annual anthropomorphic art convention dallas",
+    "relevants": [
+      {
+        "relevant_doc": 2481,
+        "relevant_url": "https://2018.furryfiesta.org/about/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2481,
+        "title": "About Furry Fiesta",
+        "url": "https://2018.furryfiesta.org/about/",
+        "combined_text": "About Furry Fiesta Furry Fiesta is a yearly gathering of anthropomorphic art, science fiction, and fantasy fans held in Dallas, Texas, USA. It is operated by the Dallas Regional Anthropomorphic Meeting Associating (D. R. A. M. A. ), Inc., a Texas-incorporated organization dedicated to advancing anthropomorphic art and",
+        "distance": 0.3463068902492523
+      },
+      {
+        "id": 281,
+        "title": "mid-century graphic designers, illustrators & art directors",
+        "url": "https://www.discogs.com/lists/mid-century-graphic-designers-illustrators-art-directors/196212",
+        "combined_text": "mid-century graphic designers, illustrators & art directors \"mid-century graphic designers, illustrators & art directors By jumblebunny updated 5 months ago Artists, illustrators & designers working in the mid-century modern style, c. 1945-70, credited for album cover designs & artwork. I recommend viewing their discography pages in the \"\"large covers\"\" form",
+        "distance": 0.6520612835884094
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "5810456810288890309": {
+    "query_id": "5810456810288890309",
+    "query": "can gluten-sensitive people eat spelt",
+    "relevants": [
+      {
+        "relevant_doc": 733,
+        "relevant_url": "http://www.allergy-details.com/gluten-free-diet/spelt-safe-wheat-free-or-gluten-free-diet/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 733,
+        "title": "Is Spelt Safe for a Wheat-Free or Gluten-Free Diet?",
+        "url": "http://www.allergy-details.com/gluten-free-diet/spelt-safe-wheat-free-or-gluten-free-diet/",
+        "combined_text": "Is Spelt Safe for a Wheat-Free or Gluten-Free Diet? Is Spelt Safe for a Wheat-Free or Gluten-Free Diet?by Allergy Guy Spelt is sometimes touted as a safe alternative for a wheat -free or gluten free diet. In this article we look at why this is and how true it is. Spelt is considered an “ancient grain ”, which is assumed to be better than modern, high",
+        "distance": 0.38839030265808105
+      },
+      {
+        "id": 3664,
+        "title": "Lactose intolerance vs. gluten allergy â Whatâs the difference?",
+        "url": "https://prettylittleceliac.wordpress.com/2012/09/18/lactose-intolerance-vs-gluten-allergy-whats-the-difference/",
+        "combined_text": "Lactose intolerance vs. gluten allergy â Whatâs the difference? \"Lactose intolerance vs. gluten allergy – What’s the difference? Posted by Rebecca Black in Celiac Symptoms, Gluten & Lactose Free Food Reviews and tagged withceliac, celiac diagnosis, celiac disease, celiac disease symptoms, gluten allergy, gluten free, gluten free diet, gluten free living, gluten",
+        "distance": 0.43646809458732605
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-333353042000870480": {
+    "query_id": "-333353042000870480",
+    "query": "mark sloan death greys anatomy recap",
+    "relevants": [
+      {
+        "relevant_doc": 1598,
+        "relevant_url": "http://www.eonline.com/news/349602/grey-s-anatomy-recap-a-tribute-to-mark-sloan"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1598,
+        "title": "Grey's AnatomyRecap: A Tribute to Mark Sloan",
+        "url": "http://www.eonline.com/news/349602/grey-s-anatomy-recap-a-tribute-to-mark-sloan",
+        "combined_text": "Grey's AnatomyRecap: A Tribute to Mark Sloan Twitter/Patrick Dempsey Unless you've been crying so much you couldn't see straight, we have to say SPOILER ALERT for those Grey's Anatomy fans not in the know: a major death happened during Thursday's episode. Sure, we all knew Eric Dane was leaving Grey's, but we didn't know the season nine premie",
+        "distance": 0.49925366044044495
+      },
+      {
+        "id": 3279,
+        "title": "How much does Mark Harmon make per episode on NCIS?",
+        "url": "https://answers.yahoo.com/question/index?qid=20120807062537AAmD3mU",
+        "combined_text": "How much does Mark Harmon make per episode on NCIS? Entertainment & Music Television Drama How much does Mark Harmon make per episode on NCIS? Follow 2 answers Answers Best Answer: In 2011, Mark Harmon signed a 2 year contract with CBS to make $500,000 per episode. Source (s): Google Kathy · 6 years ago0 0 Comment He reportedly gets paid $500,000 per",
+        "distance": 0.6797622442245483
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-5679833243396760034": {
+    "query_id": "-5679833243396760034",
+    "query": "pop artist who made giant sculptures",
+    "relevants": [
+      {
+        "relevant_doc": 3915,
+        "relevant_url": "https://en.wikipedia.org/wiki/Claes_Oldenburg"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3864,
+        "title": "modern art",
+        "url": "http://encyclopedia2.thefreedictionary.com/Modernism+(art)",
+        "combined_text": "modern art \"modern art (redirected from Modernism (art))modern art,art created from the 19th cent. to the mid-20th cent. by artists who veeredaway from the traditional concepts and techniques of painting, sculpture, and other fine arts that hadbeen practiced since the Renaissance (see Renaissance art and archi",
+        "distance": 0.5860457420349121
+      },
+      {
+        "id": 4529,
+        "title": "Head master",
+        "url": "https://www.theguardian.com/artanddesign/2005/oct/09/art",
+        "combined_text": "Head master \"Art The Observer Head master Chuck Close is one of America's most influential - and most collectable - artists. His gigantic mosaic-patterned paintings helped reinvent the art of portraiture, and now sell for up to $5m each. Here, he talks to Sean O'Hagan about his first easel, the unexpected bless",
+        "distance": 0.6072813868522644
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "1287565361290557156": {
+    "query_id": "1287565361290557156",
+    "query": "when does pubg miramar launch",
+    "relevants": [
+      {
+        "relevant_doc": 322,
+        "relevant_url": "https://www.express.co.uk/entertainment/gaming/889884/PUBG-release-date-Battlegrounds-1-0-Desert-map-Miramar-PC-Xbox-One"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1058,
+        "title": "Best Gaming Mouse for PUBG (Feb. 2018)",
+        "url": "https://www.realgear.net/best-gaming-mouse-for-pubg/",
+        "combined_text": "Best Gaming Mouse for PUBG (Feb. 2018) \"Best Gaming Mouse for PUBG (Feb. 2018)Player Unknown’s Battlegrounds has taken the gaming community by storm. If you are among those hooked by the Bluehole megahit, you must be looking for the best peripherals to take your gameplay to a whole new level. There is no denying that premium-quality gami",
+        "distance": 0.5838738679885864
+      },
+      {
+        "id": 2509,
+        "title": "PLAYERUNKNOWNâs BATTLEGROUNDS",
+        "url": "https://www.earlyaccessclub.com/playerunknowns-battlegrounds/",
+        "combined_text": "PLAYERUNKNOWNâs BATTLEGROUNDS by Early Access Club | Beta new Upcoming | Comments | 06 Mar 2017These are survival games with a last-man-standing spin, somewhat inspired by the Hunger Games. Now PLAYERUNKNOWN, creator of the Battle Royale game modes for ARMA 3 & H1Z1, partnered with Korean developer Bluehole (mostly known for TER",
+        "distance": 0.6027891635894775
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "5356471860349494557": {
+    "query_id": "5356471860349494557",
+    "query": "overview of the sixth harry potter novel",
+    "relevants": [
+      {
+        "relevant_doc": 2837,
+        "relevant_url": "https://www.hp-lexicon.org/source/the-harry-potter-novels/hbp/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2837,
+        "title": "Harry Potter and the Half-Blood Prince",
+        "url": "https://www.hp-lexicon.org/source/the-harry-potter-novels/hbp/",
+        "combined_text": "Harry Potter and the Half-Blood Prince \"The Harry Potter Lexicon Books Harry Potter and the Half-Blood Prince The Harry Potter novels - Book 6Home Sources HP HBP← Order of the Phoenix Chapter 38 Chapter 1 →Harry Potter and the Half-Blood Prince, the sixth book in the series. The book marked a turning point in the series for fans. Rowling",
+        "distance": 0.327544242143631
+      },
+      {
+        "id": 3145,
+        "title": "\"In the Harry Potter books, what does \"\"blood traitor\"\" mean?\"",
+        "url": "https://www.quora.com/In-the-Harry-Potter-books-what-does-blood-traitor-mean",
+        "combined_text": "\"In the Harry Potter books, what does \"\"blood traitor\"\" mean?\" \"J. K. Rowling (author) Harry Potter (book series) Harry Potter (creative franchise) Books In the Harry Potter books, what does \"\"blood traitor\"\" mean?4 Answers Anupama Prakash, Neuroscientist, TV Show enthusiast, Reader, Poet, Introvert. Answered Aug 13, 2015The wizarding society in the time period",
+        "distance": 0.3486962616443634
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-3480707327105262471": {
+    "query_id": "-3480707327105262471",
+    "query": "is armin male or female",
+    "relevants": [
+      {
+        "relevant_doc": 2298,
+        "relevant_url": "https://answers.yahoo.com/question/index?qid=20130813002745AAwYDdw"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3743,
+        "title": "âIâm Scared to Be a Womanâ",
+        "url": "http://features.hrw.org/features/HRW_reports_2014/Im_Scared_to_Be_a_Woman/index.html",
+        "combined_text": "âIâm Scared to Be a Womanâ \"A Note on Gender Identity This report addresses human rights abuses faced by transgender people in Malaysia. “Transgender” is an inclusive term for anyone whose sex assigned to them at birth—i.e., the designation as “female” or “male” on their birth certificate—does not conform to their lived or pe",
+        "distance": 0.5580939054489136
+      },
+      {
+        "id": 2298,
+        "title": "Is armin from attack on titan a girl or a guy?",
+        "url": "https://answers.yahoo.com/question/index?qid=20130813002745AAwYDdw",
+        "combined_text": "Is armin from attack on titan a girl or a guy? Entertainment & Music Comics & Animation Is armin from attack on titan a girl or a guy?at first i thought they were a girl but on tumblr they call them a he. iv never see the show well i have but stopped watching till like episode 3 iv seen so many posts on tumblr and i know like all the names even",
+        "distance": 0.6291388869285583
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-6778331275536263176": {
+    "query_id": "-6778331275536263176",
+    "query": "who is siri tachi jedi",
+    "relevants": [
+      {
+        "relevant_doc": 4706,
+        "relevant_url": "https://comicvine.gamespot.com/siri-tachi/4005-48394/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 4706,
+        "title": "Siri Tachi",
+        "url": "https://comicvine.gamespot.com/siri-tachi/4005-48394/",
+        "combined_text": "Siri Tachi \"Siri Tachi appears in 9 issues View all Star Wars: Jedi Quest4 appearances Star Wars: Jedi - Aayla Secura1 appearances Star Wars: 30th Anniversary Collection1 appearances Star Wars Omnibus: Menace Revealed1 appearances No recent wiki edits to this page. Biography Though two years younger than Obi-W",
+        "distance": 0.3220960795879364
+      },
+      {
+        "id": 4205,
+        "title": "Why are Cortana and Siri female?",
+        "url": "http://www.cnn.com/2014/04/04/opinion/wheeler-cortana-siri/index.html",
+        "combined_text": "Why are Cortana and Siri female? \"Why are Cortana and Siri female? By David R. Wheeler Updated 3:15 PM ET, Fri April 4, 2014Microsoft's digital assistant for its Windows Phone 8.1 is named after Cortana, a character from Halo video game series. Story highlights Microsoft's Windows Phone 8.1 just got an upgrade with the voice of Cor",
+        "distance": 0.6214665770530701
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8362391414604630461": {
+    "query_id": "8362391414604630461",
+    "query": "how the norse nine worlds connect",
+    "relevants": [
+      {
+        "relevant_doc": 2527,
+        "relevant_url": "http://mythology.wikia.com/wiki/Norse_cosmology"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2527,
+        "title": "Norse cosmology",
+        "url": "http://mythology.wikia.com/wiki/Norse_cosmology",
+        "combined_text": "Norse cosmology \"The cosmology of Norse mythology has \"\"nine homeworlds\"\" or \"\" nine realms \"\", unified by the world tree Yggdrasil. Mapping the nine worlds escapes precision because the Poetic Edda often alludes vaguely. The Norse creation myth tells how everything came into existence in the gap between fire and i",
+        "distance": 0.34755465388298035
+      },
+      {
+        "id": 315,
+        "title": "The Norse Gods",
+        "url": "http://thenorsegods.com/",
+        "combined_text": "The Norse Gods The Norse Gods The Norse Gods are the mythological characters that, as far as we know, came from the Northern Germanic tribes of the 9th century AD. These stories were passed down in the form of poetry until the 11th – 18th centuries when the Eddas and other medieval texts were written. Norse mythol",
+        "distance": 0.5543842911720276
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-6789099853909701385": {
+    "query_id": "-6789099853909701385",
+    "query": "what to do in dc in two days",
+    "relevants": [
+      {
+        "relevant_doc": 2619,
+        "relevant_url": "http://www.trolleytours.com/washington-dc/2-days-in-washington-dc.asp"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2619,
+        "title": "2 Day Itinerary",
+        "url": "http://www.trolleytours.com/washington-dc/2-days-in-washington-dc.asp",
+        "combined_text": "2 Day Itinerary 2 Day Itinerary Share: Email Print BUY TICKETSHow To See Washington DC in 2 Days From monuments and memorials to museums and more, Washington DC is abundant with history, fascinating attractions, and it’s where the rich heritage of America comes to life. Here’s a recommended schedule to plan your 2-",
+        "distance": 0.6389073729515076
+      },
+      {
+        "id": 294,
+        "title": "Those Were The Days Lyrics",
+        "url": "http://www.lyricsfreak.com/m/mary+hopkin/those+were+the+days_20317307.html",
+        "combined_text": "Those Were The Days Lyrics \"Tweet Mary Hopkin – Those Were The Days Lyrics Once upon a time there was a tavern Where we used to raise a glass or two Remember how we laughed away the hours And dreamed of all the great things we would do Those were the days my friend We thought they'd never end We'd sing and dance forever and a",
+        "distance": 0.7054086923599243
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-1769780776487482909": {
+    "query_id": "-1769780776487482909",
+    "query": "latest toy trends and ideas",
+    "relevants": [
+      {
+        "relevant_doc": 2585,
+        "relevant_url": "http://www.trendhunter.com/toys"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2251,
+        "title": "titanic toy ship",
+        "url": "http://www.target.com/s/titanic+toy+ship",
+        "combined_text": "titanic toy ship titanic toy ship Target / toys / titanic toy ship (42)related searchesstar wars toy ships pirate toy ships titanic toys playfilter results Categorytoys (42)sports & outdoors (4)typemini figures (21)toy vehicles (8)doll playsets (6)toy vehicle playsets (5)toy model vehicles (2)brandsearch brand Barbi",
+        "distance": 0.40736663341522217
+      },
+      {
+        "id": 2585,
+        "title": "Life-Stages > Toys",
+        "url": "http://www.trendhunter.com/toys",
+        "combined_text": "Life-Stages > Toys TH >Life-Stages > Toys (5,950)Ideas Lists Videos Photos Insights Show All The Best PRO Filters Show Footer Week Month 2 Mo.#10 Interactive Digital Playmats [Full Article]8Streetwear Glow Stick Keychains Supreme Dropped a Stylish Glow Stick Keychain for Kids and Adults9Customizable Child Teepees The",
+        "distance": 0.652700662612915
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-2075915296453751965": {
+    "query_id": "-2075915296453751965",
+    "query": "is nordictrack t5.7 worth buying",
+    "relevants": [
+      {
+        "relevant_doc": 3503,
+        "relevant_url": "http://www.treadmillreviews.net/nordictrack-t-5-7-folding/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3503,
+        "title": "NordicTrack T 5.7 (Folding)",
+        "url": "http://www.treadmillreviews.net/nordictrack-t-5-7-folding/",
+        "combined_text": "NordicTrack T 5.7 (Folding) \"Nordic Track T 5.7 (Folding)This treadmill has been discontinued. Nordic Track’s T 5.7 Treadmill with i Fit has been put on sale to make way for newer models. Do you need an upgrade or will the T 5.7 suffice? In our review this affordable treadmill is durable enough and entertaining enough to satis",
+        "distance": 0.5348907113075256
+      },
+      {
+        "id": 3849,
+        "title": "Skagen 355XLSSB Steel Collection Watch Review: Distinctly Danish",
+        "url": "http://www.ablogtowatch.com/skagen-355xlssb-steel-collection-watch-review-distinctly-danish/",
+        "combined_text": "Skagen 355XLSSB Steel Collection Watch Review: Distinctly Danish \"T his is my first Skagen watch. I felt as though this was necessary to say, because for me, this brand is ubiquitous, but I've never owned one. While this sentiment should come as a delight to Skagen’s marketing department, it means that as a watch lover, I consider Skagen to be one of the most wel",
+        "distance": 0.7142914533615112
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "6235640378558871552": {
+    "query_id": "6235640378558871552",
+    "query": "budget 10-day London trip tips",
+    "relevants": [
+      {
+        "relevant_doc": 23,
+        "relevant_url": "http://www.nomadicmatt.com/travel-blogs/how-i-had-a-10-day-london-vacation-for-700/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 23,
+        "title": "How I Had a 10-Day London Vacation for $700",
+        "url": "http://www.nomadicmatt.com/travel-blogs/how-i-had-a-10-day-london-vacation-for-700/",
+        "combined_text": "How I Had a 10-Day London Vacation for $700 How I Had a 10-Day London Vacation for $700November 15, 2011 / By Nomadic Matt Back in September, I wrote the ultimate guide to travel hacking. It was a way for me to share tips and advice on how to travel cheaply without sacrificing comfort. And as I watched people’s reactions and answered question",
+        "distance": 0.4556855857372284
+      },
+      {
+        "id": 1814,
+        "title": "Things To Do",
+        "url": "https://www.visitnc.com/things-to-do",
+        "combined_text": "Things To Do Things To Do Take a vacation you won't need photos to remember Whether you’re planning a day trip, weekend getaway or weeklong vacation, there’s no shortage of things to do in North Carolina. There’s a depth and a richness – new attractions to explore, familiar activities to experience in fresh ways",
+        "distance": 0.6303464770317078
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "5910706121607732696": {
+    "query_id": "5910706121607732696",
+    "query": "xbox one network and streaming help",
+    "relevants": [
+      {
+        "relevant_doc": 2157,
+        "relevant_url": "http://support.xbox.com/en-US/browse/xbox-one/networking/All"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2157,
+        "title": "Networking: All",
+        "url": "http://support.xbox.com/en-US/browse/xbox-one/networking/All",
+        "combined_text": "Networking: All \"Networking: All Trending topics General information Gaming-related issues Streaming issues Error messages All Enable network game transfer Find out how enable network game transfer to copy games and apps from One Xbox One console to another.“I need help with my Xbox One network connection”If your X",
+        "distance": 0.3605087101459503
+      },
+      {
+        "id": 3697,
+        "title": "Q&A: Streaming Netflix Video on Multiple Devices",
+        "url": "http://gadgetwise.blogs.nytimes.com/2013/06/21/qa-streaming-netflix-video-on-multiple-devices/",
+        "combined_text": "Q&A: Streaming Netflix Video on Multiple Devices Q&A: Streaming Netflix Video on Multiple Devices By J.d. Biersdorfer June 21, 2013 7:00 am Q. I have the Netflix streaming plan, along with a Roku box and a couple of tablet computers with the Netflix app. Can all three be used at the same time to stream movies? A. If you have the standard $7.99 mon",
+        "distance": 0.4891985058784485
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-7937268387550377567": {
+    "query_id": "-7937268387550377567",
+    "query": "where are six flags parks located",
+    "relevants": [
+      {
+        "relevant_doc": 4339,
+        "relevant_url": "http://traveltips.usatoday.com/list-six-flags-parks-41065.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 4339,
+        "title": "A List of Six Flags Parks",
+        "url": "http://traveltips.usatoday.com/list-six-flags-parks-41065.html",
+        "combined_text": "A List of Six Flags Parks \"A List of Six Flags Parks If you are looking for thrill rides on your next family vacation, you can find a Six Flags theme park relatively close to your home. Six Flags operates parks in 19 locations, stretching from sea to shining sea. Some of the better-known Six Flags parks offer a combination o",
+        "distance": 0.09847273677587509
+      },
+      {
+        "id": 3591,
+        "title": "When does six flags magic mountain close?",
+        "url": "https://answers.yahoo.com/question/index?qid=20061010131701AAG0f6y",
+        "combined_text": "When does six flags magic mountain close? Games & Recreation Amusement Parks When does six flags magic mountain close? I have heard the end of this year this month and never anyone know for sure when? Follow 9 answers Answers Relevance Rating Newest Oldest Best Answer: six flags magic mountain and six flags hurricane harbor in Valencia, Cal",
+        "distance": 0.33992770314216614
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "2259841862344333890": {
+    "query_id": "2259841862344333890",
+    "query": "durable kid-friendly dining table finish",
+    "relevants": [
+      {
+        "relevant_doc": 2937,
+        "relevant_url": "http://smartgirlstyle.blogspot.com/2013/11/how-to-paint-dining-room-table.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2937,
+        "title": "How to Paint a Dining Room Table",
+        "url": "http://smartgirlstyle.blogspot.com/2013/11/how-to-paint-dining-room-table.html",
+        "combined_text": "How to Paint a Dining Room Table \"How to Paint a Dining Room Table Hey kids, as you can probably tell from the title, this post is about painting a dining room table. Because I'm crazy like that. I'm not talking about slapping on a coat of paint and calling it good. I'm talking about durability. About kid-friendly. About withstandi",
+        "distance": 0.48015913367271423
+      },
+      {
+        "id": 1734,
+        "title": "Kids' Birthday Parties: Frequently Asked Questions",
+        "url": "https://www.parents.com/fun/birthdays/ideas/kids-birthday-parties-frequently-asked-questions/",
+        "combined_text": "Kids' Birthday Parties: Frequently Asked Questions Home Fun Birthdays Birthday Party Ideas Kids' Birthday Parties: Frequently Asked Questions Learn the dos and don'ts of throwing your child a birthday bash. By Ellen Neuborne Facebook Pinterest Twitter Email Here are some frequently asked questions about throwing a kid's birthday party: Should I invi",
+        "distance": 0.7100985050201416
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-7205580188520038148": {
+    "query_id": "-7205580188520038148",
+    "query": "coloration meaning in music and color",
+    "relevants": [
+      {
+        "relevant_doc": 4243,
+        "relevant_url": "http://www.audioenglish.org/dictionary/coloration.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 4243,
+        "title": "COLORATION",
+        "url": "http://www.audioenglish.org/dictionary/coloration.htm",
+        "combined_text": "COLORATION \"Audio English.org » Dictionary » C » Color Wash ... Colourlessness COLORATIONPronunciation (US): Dictionary entry overview: What does coloration mean?• COLORATION (noun) The noun COLORATION has 3 senses:1. the timbre of a musical sound 2. appearance with regard to color 3. choice and use of colors",
+        "distance": 0.22434678673744202
+      },
+      {
+        "id": 1621,
+        "title": "The Color Gold",
+        "url": "http://www.empower-yourself-with-color-psychology.com/color-gold.html",
+        "combined_text": "The Color Gold Home Color Psychology Personality Business General About The Color Gold The color of wealth, success and status The color gold is the color of success, achievement and triumph. Associated with abundance and prosperity, luxury and quality, prestige and sophistication, value and elegance, the psycholo",
+        "distance": 0.45169150829315186
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8506157307989639090": {
+    "query_id": "8506157307989639090",
+    "query": "david hockney on feeling youthful",
+    "relevants": [
+      {
+        "relevant_doc": 2614,
+        "relevant_url": "https://www.theguardian.com/artanddesign/2014/nov/16/david-hockney-interview-i-feel-like-picasso"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2614,
+        "title": "David Hockney: âWhen Iâm working, I feel like Picasso, I feel Iâm 30â",
+        "url": "https://www.theguardian.com/artanddesign/2014/nov/16/david-hockney-interview-i-feel-like-picasso",
+        "combined_text": "David Hockney: âWhen Iâm working, I feel like Picasso, I feel Iâm 30â David Hockney The Observer Interview David Hockney: ‘When I’m working, I feel like Picasso, I feel I’m 30’By Tim Lewis David Hockney last year left Yorkshire and returned to his home in the Hollywood Hills after a series of traumatic events in his personal life. Here the 77-year-old reveals how Cali",
+        "distance": 0.2677990198135376
+      },
+      {
+        "id": 38,
+        "title": "That Old Feeling Lyrics",
+        "url": "http://www.lyricsfreak.com/d/doris+day/that+old+feeling_20810043.html",
+        "combined_text": "That Old Feeling Lyrics \"Tweet Doris Day – That Old Feeling Lyrics I saw you last night and got that old feeling When you came in sight I got that old feeling The moment that you danced by, I felt a thrill And when you caught my eye, my heart stood still Once again I seemed to feel that old yearning And I knew the spark of",
+        "distance": 0.7201389074325562
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-6248984586783876568": {
+    "query_id": "-6248984586783876568",
+    "query": "la jazz bassist associated with flying lotus",
+    "relevants": [
+      {
+        "relevant_doc": 4327,
+        "relevant_url": "https://en.wikipedia.org/wiki/Thundercat_(musician)"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1782,
+        "title": "Jazz Â» Soul Jazz/Groove Â» Soul Jazz",
+        "url": "http://www.allmusic.com/subgenre/soul-jazz-ma0000002866",
+        "combined_text": "Jazz Â» Soul Jazz/Groove Â» Soul Jazz \"Share this pagefacebook twitter google+Jazz » Soul Jazz/Groove » Soul Jazz Soul-Jazz, which was the most popular jazz style of the 1960s, differs from bebop and hard bop (from which it originally developed) in that the emphasis is on the rhythmic groove. Although soloists follow the chords as in bo",
+        "distance": 0.5713344216346741
+      },
+      {
+        "id": 3001,
+        "title": "Bass jokes",
+        "url": "http://www.ahajokes.com/bass1.html",
+        "combined_text": "Bass jokes \"Bass jokes Q: Why did the bass player get mad at the timpanist? A: He turned a peg and wouldn't tell the bass player which one. Q: How many bass players does it take to change a light bulb? A: Only one - but the guitarist has to show him first. Q: How many bass players does it take to change a ligh",
+        "distance": 0.6806598901748657
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7171018835442339009": {
+    "query_id": "7171018835442339009",
+    "query": "how to add showtime to directv",
+    "relevants": [
+      {
+        "relevant_doc": 1370,
+        "relevant_url": "http://www.directv.com/premiums/showtime"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 889,
+        "title": "DIRECTV â Satellite HD TV Service",
+        "url": "http://www.att-services.net/att-directv.html",
+        "combined_text": "DIRECTV â Satellite HD TV Service DIRECTV – Satellite HD TV Service Advanced Satellite AT&T TV Service DIRECTV Services DIRECTV customers can choose between English programming packages and Spanish programming packages. The following TV packages are available from AT&T: DIRECTV English Entertainment Packages SELECT™ 150+ channels DI",
+        "distance": 0.3376915156841278
+      },
+      {
+        "id": 721,
+        "title": "DIRECTV Channels",
+        "url": "https://www.connectyourhome.com/directv/directv-channels/",
+        "combined_text": "DIRECTV Channels DIRECTV Channels Which DIRECTV channels are essential for your family’s entertainment? You’re sure to find the perfect package for you using our handy channel guide below! With DIRECTV, you can choose from six high-quality TV packages to ensure that you have endless access to the movies, sports, new",
+        "distance": 0.35979142785072327
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-381195560923726639": {
+    "query_id": "-381195560923726639",
+    "query": "uk late-night satirical talk show",
+    "relevants": [
+      {
+        "relevant_doc": 969,
+        "relevant_url": "https://en.wikipedia.org/wiki/The_Nightly_Show_%28UK_TV_series%29"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 969,
+        "title": "The Nightly Show  (UK TV series)",
+        "url": "https://en.wikipedia.org/wiki/The_Nightly_Show_%28UK_TV_series%29",
+        "combined_text": "The Nightly Show  (UK TV series) \"The Nightly Show (UK TV series)From Wikipedia, the free encyclopedianavigation search The Nightly Show Genre Comedy, news satire, talk show Presented by Various presenters Theme music composer Medina Sound [1]Opening theme \"\"Almost (Feel It)\"\" by Medina Sound [2] [3] [4]Ending theme \"\"Almost (Feel",
+        "distance": 0.580710232257843
+      },
+      {
+        "id": 1411,
+        "title": "Saturday Night Live debuts",
+        "url": "http://www.history.com/this-day-in-history/saturday-night-live-debuts",
+        "combined_text": "Saturday Night Live debuts Hollywood1975Saturday Night Live debuts Share this:facebook twitter google+Print Cite On this day in 1975, Saturday Night Live ( SNL), a topical comedy sketch show featuring Chevy Chase, John Belushi, Dan Aykroyd, Gilda Radner, Garrett Morris, Jane Curtin and Laraine Newman, makes its debut on NBC;",
+        "distance": 0.5903413891792297
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3064845238562761549": {
+    "query_id": "3064845238562761549",
+    "query": "rapper using scarcity to sell music",
+    "relevants": [
+      {
+        "relevant_doc": 2458,
+        "relevant_url": "https://www.forbes.com/sites/natalierobehmed/2015/03/31/nipsey-hussle-independent-musics-next-mogul/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1785,
+        "title": "Where did hip- hop originate?",
+        "url": "http://www.answers.com/Q/Where_did_hip-_hop_originate",
+        "combined_text": "Where did hip- hop originate? Answers.com ® Wiki Answers ® Categories Entertainment & Arts Music Music Genres Hip Hop and Rap Music Where did hip- hop originate? Flag Where did hip- hop originate? Answer by Djonzie Confidence votes 44Hip-hop started in the South Bronx. Hip hop singers, and break dancing was a way to be heard wit",
+        "distance": 0.5798794627189636
+      },
+      {
+        "id": 1228,
+        "title": "Worth $580 Million, Diddy Tops Hip-Hopâs Richest List",
+        "url": "http://entertainment.time.com/2013/03/28/worth-580-million-diddy-tops-hip-hops-richest-list/",
+        "combined_text": "Worth $580 Million, Diddy Tops Hip-Hopâs Richest List \"Music Worth $580 Million, Diddy Tops Hip-Hop’s Richest List The mogul's wealth remains unsurpassed, but Jay-Z is making inroads By Lily Rothman @lilyrothman March 28, 2013Read Later Roger Kisby / Getty Images Sean \"\"Diddy\"\" Combs Related Musician Health Care Crisis: Rapper P. O. S. Crowdfunds New K",
+        "distance": 0.5906786322593689
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-7295382248045213448": {
+    "query_id": "-7295382248045213448",
+    "query": "put photos on a blank CD",
+    "relevants": [
+      {
+        "relevant_doc": 960,
+        "relevant_url": "https://answers.yahoo.com/question/index?qid=20081123162617AAca2zi"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3095,
+        "title": "How to Rip Music from a CD to a Computer",
+        "url": "http://www.wikihow.com/Rip-Music-from-a-CD-to-a-Computer",
+        "combined_text": "How to Rip Music from a CD to a Computer 1 Insert the CD into the CD-ROM drive of your computer.",
+        "distance": 0.5706209540367126
+      },
+      {
+        "id": 960,
+        "title": "How do i burn pictures to a disk?",
+        "url": "https://answers.yahoo.com/question/index?qid=20081123162617AAca2zi",
+        "combined_text": "How do i burn pictures to a disk? \"Computers & Internet Software How do i burn pictures to a disk?i want to be a moled and i need to burn ,my pic to a blank disk how do i do that?? ?1 following 11 answers Answers Relevance Rating Newest Oldest Best Answer: Highlight all the pictures you want to burn to the disk, then go Send To in t",
+        "distance": 0.589120090007782
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8841668142673073643": {
+    "query_id": "8841668142673073643",
+    "query": "who played scarlett's baby",
+    "relevants": [
+      {
+        "relevant_doc": 655,
+        "relevant_url": "http://www.laweekly.com/arts/gone-with-the-wind-baby-wars-was-there-one-infant-actor-or-two-4521777"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 655,
+        "title": "Gone With the Wind Baby Wars: Was There One Infant Actor, or Two?",
+        "url": "http://www.laweekly.com/arts/gone-with-the-wind-baby-wars-was-there-one-infant-actor-or-two-4521777",
+        "combined_text": "Gone With the Wind Baby Wars: Was There One Infant Actor, or Two? \"Dawn Soler is convinced the baby in this scene of Gone with the Wind is her mother — not Greg Giese, who's long been credited. Gone With the Wind Baby Wars: Was There One Infant Actor, or Two? Bill Christine | March 19, 2014 | 6:24am Facebook Twitteremail Print Article A AWho played Scarlett's baby",
+        "distance": 0.3727751672267914
+      },
+      {
+        "id": 3833,
+        "title": "PREGNANCY SYMPTOMS FROM A-Z",
+        "url": "https://www.thebump.com/",
+        "combined_text": "PREGNANCY SYMPTOMS FROM A-Z Previous PARTNERS & LOVED ONESExcited to welcome a new baby into the family? Learn how you can help (without stepping on any toes!). PREGNANCY WEEK BY WEEKGet updates on baby's development, decode your pregnancy symptoms and see your weekly to-dos. BABY MONTH BY MONTHLearn about baby's milestones at",
+        "distance": 0.6202107667922974
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-7158847586441573199": {
+    "query_id": "-7158847586441573199",
+    "query": "can eating berries prevent heart attacks",
+    "relevants": [
+      {
+        "relevant_doc": 2229,
+        "relevant_url": "http://articles.mercola.com/sites/articles/archive/2013/01/28/berries-reduce-heart-attack-risk.aspx"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2229,
+        "title": "Blueberries and Strawberries Reduce Heart Attack Risk in Middle-Aged Women",
+        "url": "http://articles.mercola.com/sites/articles/archive/2013/01/28/berries-reduce-heart-attack-risk.aspx",
+        "combined_text": "Blueberries and Strawberries Reduce Heart Attack Risk in Middle-Aged Women \"Blueberries and Strawberries Reduce Heart Attack Risk in Middle-Aged Women207January 28, 2013 • 94,885 views Previous Next Story at-a-glance Women who eat more than three servings per week of blueberries and strawberries had a 32 percent lower risk of having a heart attack, according to new researc",
+        "distance": 0.4412447214126587
+      },
+      {
+        "id": 209,
+        "title": "Health Benefits of Aronia Berries (Chokeberries)",
+        "url": "http://www.healwithfood.org/health-benefits/aronia-berries-buy-organic.php",
+        "combined_text": "Health Benefits of Aronia Berries (Chokeberries) Health Benefits of Aronia Berries (Chokeberries)Aronia berries, also known as black chokeberries, have been gaining popularity among health-conscious consumers looking to add more superfoods to their diets. The small dark berries of the Aronia melanocarpa plant are packed with nutrients and antioxid",
+        "distance": 0.4474780559539795
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-417494711795078203": {
+    "query_id": "-417494711795078203",
+    "query": "park city lodging during sundance",
+    "relevants": [
+      {
+        "relevant_doc": 2702,
+        "relevant_url": "https://www.resortpropertymanagement.com/sundance-film-festival"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3563,
+        "title": "City Park",
+        "url": "http://www.transbaycenter.org/project/transit-center/transit-center-level/city-park",
+        "combined_text": "City Park City Park The Transit Center will feature “City Park,” a public 5.4-acre rooftop park. The 1,400 foot long elevated park will feature a wide range of activities and amenities, including an outdoor amphitheater, gardens, trails, open grass areas, and children’s play space, as well as a restaurant and",
+        "distance": 0.4296090006828308
+      },
+      {
+        "id": 2702,
+        "title": "2018 SUNDANCEFILM FESTIVAL",
+        "url": "https://www.resortpropertymanagement.com/sundance-film-festival",
+        "combined_text": "2018 SUNDANCEFILM FESTIVAL Park City, Utah - January 18-27, 20182018 SUNDANCEFILM FESTIVALLodging & Accommodations Best Price Guaranteed Search Lodging Availability Arrival Departure# of Guests Bedrooms: Location: Search Featured Properties Why Book With Us SUNDANCE FILM FESTIVAL LODGING & ACCOMMODATIONSJanuary 18, 2018 – Jan",
+        "distance": 0.4649626314640045
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-6401949618420273335": {
+    "query_id": "-6401949618420273335",
+    "query": "how to make cash fast in gta online",
+    "relevants": [
+      {
+        "relevant_doc": 4050,
+        "relevant_url": "http://segmentnext.com/2013/10/02/gta-5-online-easy-money-guide/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 4050,
+        "title": "GTA Online Money Farming Guide â How To Make Money In GTA Online, Best Money Farming Missions",
+        "url": "http://segmentnext.com/2013/10/02/gta-5-online-easy-money-guide/",
+        "combined_text": "GTA Online Money Farming Guide â How To Make Money In GTA Online, Best Money Farming Missions GTA Online Money Farming Guide – How To Make Money In GTA Online, Best Money Farming Missions By Salman Hamid / Oct 2, 2013Money is very important in GTA Online whether you want to pull off a successful robbery or survive the onslaught on head-hunters. You need the necessary gear, weapons, and vehic",
+        "distance": 0.33696070313453674
+      },
+      {
+        "id": 2714,
+        "title": "How Much is the Grand Theft Auto Franchise Worth?",
+        "url": "http://moneyinc.com/grand-theft-auto-franchise/",
+        "combined_text": "How Much is the Grand Theft Auto Franchise Worth? How Much is the Grand Theft Auto Franchise Worth? Nat Berman 2 years ago No Comments Grand Theft Auto is a long standing video game series, created by Rockstar North and published by Rockstar Games. First developed and released in 1997, Grand Theft Auto (GTA) is a name used to reference how motor ve",
+        "distance": 0.5135025382041931
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-3008382100528348854": {
+    "query_id": "-3008382100528348854",
+    "query": "portable home remedy for vertigo",
+    "relevants": [
+      {
+        "relevant_doc": 1209,
+        "relevant_url": "http://www.self-care-home-remedies.com/vertigo_treatment.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1209,
+        "title": "Powerful Vertigo Treatment",
+        "url": "http://www.self-care-home-remedies.com/vertigo_treatment.html",
+        "combined_text": "Powerful Vertigo Treatment Powerful Vertigo Treatment Trying to find a vertigo treatment when you can barely stand up is next to impossible. I discovered a remedy that goes everywhere I go... just in case... Ever felt like you were on an amusement ride gone bad? Those spinning, nauseating episodes, can make you think you're l",
+        "distance": 0.4079437255859375
+      },
+      {
+        "id": 1899,
+        "title": "21 DIY Home Remedies for Nausea",
+        "url": "http://homeremediesforlife.com/nausea/",
+        "combined_text": "21 DIY Home Remedies for Nausea 21 DIY Home Remedies for Nausea Last Updated: April 10, 2018Nausea is a feeling of unease and discomfort in the upper stomach with an involuntary urge to vomit. It can be caused by many reasons such as morning sickness, motion sickness, dehydration, food poisoning, medications, pollution, over eatin",
+        "distance": 0.6685945987701416
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8056938755446319386": {
+    "query_id": "-8056938755446319386",
+    "query": "step-by-step half windsor knot tutorial",
+    "relevants": [
+      {
+        "relevant_doc": 373,
+        "relevant_url": "http://www.artofmanliness.com/2012/08/10/how-to-tie-a-half-windsor-knot/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 373,
+        "title": "How to Tie the Half-Windsor Necktie Knot",
+        "url": "http://www.artofmanliness.com/2012/08/10/how-to-tie-a-half-windsor-knot/",
+        "combined_text": "How to Tie the Half-Windsor Necktie Knot Brett & Kate Mc Kay | August 10, 2012Heading Out On Your Own, Style, Style & Grooming, Visual Guides How to Tie the Half-Windsor Necktie Knot Many young men heading out on their own for the first time have never tied a tie themselves. If that’s you, I’d recommend the Half-Windsor as the first neckti",
+        "distance": 0.4855075180530548
+      },
+      {
+        "id": 1768,
+        "title": "How to Polish Leather Shoes using Dubbin Neutral - Step by Step Instructions - Tutorial",
+        "url": "http://www.youtube.com/watch?v=3c2KyNMvC2Y",
+        "combined_text": "How to Polish Leather Shoes using Dubbin Neutral - Step by Step Instructions - Tutorial How to Polish Leather Shoes using Dubbin Neutral - Step by Step Instructions - Tutorial How to... Science, Craft Plus Other DIY Fixes Subscribe 7.6KAdd to Share More26,153 views2818Published on Jul 3, 2012Dubbin is used to waterproof and soften leather shoes. Dubbin is made from wax, oil and tallow.",
+        "distance": 0.6598917245864868
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-2113261500264695424": {
+    "query_id": "-2113261500264695424",
+    "query": "natural ways to relax tight muscles",
+    "relevants": [
+      {
+        "relevant_doc": 544,
+        "relevant_url": "http://www.livestrong.com/article/19254-home-remedies-muscle-relaxants/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 544,
+        "title": "Home Remedies for Muscle Relaxants",
+        "url": "http://www.livestrong.com/article/19254-home-remedies-muscle-relaxants/",
+        "combined_text": "Home Remedies for Muscle Relaxants Home Remedies for Muscle Relaxantsby DAN ZISKO Aug. 16, 2013Tight muscles can be caused by many different factors, including injury and stress. When muscles are tight, it makes your daily life difficult and painful. While there are several pharmaceutical muscle relaxants, like Valium or Soma, you ca",
+        "distance": 0.36094287037849426
+      },
+      {
+        "id": 847,
+        "title": "How to relieve Muscle Tightness?",
+        "url": "http://www.innovateus.net/health/how-relieve-muscle-tightness",
+        "combined_text": "How to relieve Muscle Tightness? How to relieve Muscle Tightness? Print Email Save Image Credit: naturaltherapypages.com.au One of the reasons for m uscle tightness is muscle weakness. Muscles tighten to protect themselves from injury. Muscle tightness can also due to some physical activity, wrong sitting positions, etc. Muscle kno",
+        "distance": 0.4310518503189087
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "5377747004141046310": {
+    "query_id": "5377747004141046310",
+    "query": "which nickelodeon show ran the longest",
+    "relevants": [
+      {
+        "relevant_doc": 530,
+        "relevant_url": "http://www.answers.com/Q/What_was_the_longest_running_current_TV_show_on_Nickelodeon"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 4681,
+        "title": "What are the Longest Running Broadway Shows?",
+        "url": "https://www.broadway.org/info/what-are-the-longest-running-broadway-shows/",
+        "combined_text": "What are the Longest Running Broadway Shows? What are the Longest Running Broadway Shows? Broadway lovers worldwide often wonder what are the longest running Broadway shows. With such a rich and storied history, Broadway stages have showcased many long-running shows over the years. Several of the longest running shows are still playing today.",
+        "distance": 0.47102025151252747
+      },
+      {
+        "id": 1355,
+        "title": "What is the longest running TV commercial?",
+        "url": "http://www.answers.com/Q/What_is_the_longest_running_TV_western",
+        "combined_text": "What is the longest running TV commercial? \"Kyle D 62,559 Contributions What is the longest running TV commercial? According to Guinness Records, the world's longest running TVcommercial is the Discount Tire Company's \"\" Thank You\"\" commercial, produced by Swartwout Productions (Arizona,USA) …Kyle D 62,559 Contributions What is the longest r",
+        "distance": 0.5335339307785034
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-6350832940077241702": {
+    "query_id": "-6350832940077241702",
+    "query": "blue steam locomotive children's book character",
+    "relevants": [
+      {
+        "relevant_doc": 586,
+        "relevant_url": "https://en.wikipedia.org/wiki/Thomas_the_Tank_Engine"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1740,
+        "title": "whatmykidsread.com",
+        "url": "http://whatmykidsread.com/book-review-of-liar-spy-by-rebecca-stead/",
+        "combined_text": "whatmykidsread.com whatmykidsread.comwhatmykidsread.com has been informing visitors about topics such as Read for Kids and Books for Kids. Join thousands of satisfied visitors who discovered Kids Reading and Divorce Children Custody.2017 Copyright. All Rights Reserved.",
+        "distance": 0.7015891671180725
+      },
+      {
+        "id": 2220,
+        "title": "6.6 Materials for Flywheels",
+        "url": "http://www.globalspec.com/reference/30826/203279/6-6-Materials-for-Flywheels",
+        "combined_text": "6.6 Materials for Flywheels From Materials Selection in Mechanical Design, Third Edition6.6 Materials for Flywheels Flywheels store energy. Small ones the sort found in children's toys are made of lead. Old steam engines have flywheels; they are made of cast iron. Cars have them too (though you cannot see them) to smooth power",
+        "distance": 0.7275349497795105
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-6115585370830268684": {
+    "query_id": "-6115585370830268684",
+    "query": "how many shooting incidents involved lil wayne",
+    "relevants": [
+      {
+        "relevant_doc": 2970,
+        "relevant_url": "http://www.chacha.com/question/how-many-times-has-lil'-wayne-been-shot"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2970,
+        "title": "How many times has Lil' Wayne been shot",
+        "url": "http://www.chacha.com/question/how-many-times-has-lil'-wayne-been-shot",
+        "combined_text": "How many times has Lil' Wayne been shot \"Anonymous How many times has Lil' Wayne been shot Topics: Entertainment Answer He's been shot twice. Can I help you with0 3 months ago Do you know the answer? Login or Sign Up to answer this question.data-config-site-section=\"\"chacha\"\">Related Entertainment Questions Was Lil Wayne shot 6 times? No,",
+        "distance": 0.2523205280303955
+      },
+      {
+        "id": 510,
+        "title": "being shot",
+        "url": "http://www.mydreamvisions.com/dreamdictionary/symbol/1131/",
+        "combined_text": "being shot \"Dream dictionary: A B C D E F G H I J K L M N O P Q R S T U V W X Y ZDream Symbol: being shotbeing shot Being shot or someone who wants to shoot you can represent feelings or fear of attack, persecution, judgment, or other hostility in your life. A bullet wound —or having been shot already—can repr",
+        "distance": 0.6347102522850037
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-865030413947002045": {
+    "query_id": "-865030413947002045",
+    "query": "dawes act assimilation terms",
+    "relevants": [
+      {
+        "relevant_doc": 2144,
+        "relevant_url": "https://quizlet.com/26074499/dawes-act-flash-cards/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2144,
+        "title": "Dawes act",
+        "url": "https://quizlet.com/26074499/dawes-act-flash-cards/",
+        "combined_text": "Dawes act 4 terms Samuel_Joo Dawes act Learn Flashcards Write Spell Test Match Gravity Advertisement Upgrade to remove ads Like this study set? Create a free account to save it. Create a free account Maybe later Sort Assimilation the process whereby a minority group gradually adopts the customs and attitudes",
+        "distance": 0.47334733605384827
+      },
+      {
+        "id": 3215,
+        "title": "micmac history",
+        "url": "https://www.pinterest.com/fvienneau/micmac-history/",
+        "combined_text": "micmac history \"micmac history105 Pins 17 Followers Native american Native american indians Native americans Native american men History Native american women Native indian Nova scotia Aboriginal art Aboriginal people American indian art American indians Genealogy Indian art Native american dress Native art Native",
+        "distance": 0.6996113061904907
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-782881791253480827": {
+    "query_id": "-782881791253480827",
+    "query": "hamilton broadway review young rebels",
+    "relevants": [
+      {
+        "relevant_doc": 3008,
+        "relevant_url": "https://www.nytimes.com/2015/08/07/theater/review-hamilton-young-rebels-changing-history-and-theater.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3008,
+        "title": "Review: âHamilton,â Young Rebels Changing History and Theater",
+        "url": "https://www.nytimes.com/2015/08/07/theater/review-hamilton-young-rebels-changing-history-and-theater.html",
+        "combined_text": "Review: âHamilton,â Young Rebels Changing History and Theater \"Theater Review: ‘Hamilton,’ Young Rebels Changing History and Theater Hamilton NYT Critic’s Pick Broadway, Musical 2 hrs and 45 min. Open Run Richard Rodgers Theater, 226 W. 46th St.877-250-2929By BEN BRANTLEY AUG. 6, 2015Slide Show | 12 Photos‘Hamilton’Sara Krulwich/The New York Times Yes, it real",
+        "distance": 0.3207417130470276
+      },
+      {
+        "id": 2119,
+        "title": "Hamilton Falls One Award Short of Equalling the Tony Awards Record",
+        "url": "http://time.com/4365931/tonys-2016-recap-wrap-hamilton/",
+        "combined_text": "Hamilton Falls One Award Short of Equalling the Tony Awards Record It was hardly a surprise that Sunday night’s Tony awards show was pretty much devoid of surprises. Start to finish, it was a Hamilton lovefest: from the cast’s rapping introduction of host James Corden, through Lin-Manuel Miranda’s rhyming acceptance speeches, to the big finale, as the show’s cast r",
+        "distance": 0.6043441295623779
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3879929396479484482": {
+    "query_id": "3879929396479484482",
+    "query": "week-long island music festival budapest",
+    "relevants": [
+      {
+        "relevant_doc": 4193,
+        "relevant_url": "https://www.fest300.com/festivals/sziget"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1047,
+        "title": "Cincinnati Music FESTIVAL 2018",
+        "url": "https://cincinnati-festival-tickets.com/",
+        "combined_text": "Cincinnati Music FESTIVAL 2018 WE HAVE FUN TOGETHERBuying Cincinnati Festival tickets, you will have the exclusive chance to become a participant of such a grandiose event as the second largest R&B music festival held every year! First, when it was founded in 1962, the fest was named Ohio Valley Jazz Festival. As years passed, th",
+        "distance": 0.5662484765052795
+      },
+      {
+        "id": 4193,
+        "title": "Sziget 2018",
+        "url": "https://www.fest300.com/festivals/sziget",
+        "combined_text": "Sziget 2018 Sziget 2018Aug 8-15, 2018 | Budapest, Hungary | Music102Photo: Sandor Csudai",
+        "distance": 0.6363312005996704
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  }
+}

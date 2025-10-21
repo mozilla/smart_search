@@ -1,0 +1,1038 @@
+{
+  "-8591407903038741213": {
+    "query_id": "-8591407903038741213",
+    "query": "Best mosquito repellent outdoor",
+    "relevants": [
+      {
+        "relevant_doc": 3,
+        "relevant_url": "http://www.wikihow.com/Get-Rid-of-Mosquitoes-in-Your-Yard"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 6015,
+        "title": "DIY: 7 Best Natural Mosquito Bite Remedies",
+        "url": "https://www.gardenista.com/posts/stop-the-itch-natural-mosquito-bite-remedies/",
+        "combined_text": "DIY: 7 Best Natural Mosquito Bite Remedies I’m a romantic, and so at the risk of facing commenter-wrath, I’m going to say it: The season’s first mosquito bite isn’t such a bad thing. It’s how you earn your summertime stripes, don’t you think? No? Romantic notions about insects aside, by the time the first bite has turned into 40 even I’m rea",
+        "distance": 0.5054868459701538
+      },
+      {
+        "id": 3,
+        "title": "How to Get Rid of Mosquitoes in Your Yard",
+        "url": "http://www.wikihow.com/Get-Rid-of-Mosquitoes-in-Your-Yard",
+        "combined_text": "How to Get Rid of Mosquitoes in Your Yard 1 Drain any areas with standing water. Mosquitoes use standing water as breeding sites to lay their eggs. On first glace you might think your yard is clear of possible breeding sites, but mosquito pupae and larvae can breed in very small and unsuspecting quantities of standing water (bottle caps). [",
+        "distance": 0.515904426574707
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-348654217492639082": {
+    "query_id": "-348654217492639082",
+    "query": "How to get rid of heat stains on wood",
+    "relevants": [
+      {
+        "relevant_doc": 158,
+        "relevant_url": "http://tipnut.com/diy-how-to-remove-white-heat-stains-on-wood-table/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 158,
+        "title": "DIY â How To Remove White Heat Stains On Wood Table",
+        "url": "http://tipnut.com/diy-how-to-remove-white-heat-stains-on-wood-table/",
+        "combined_text": "DIY â How To Remove White Heat Stains On Wood Table Home / DIY Projects / DIY – How To Remove White Heat Stains On Wood Table DIY – How To Remove White Heat Stains On Wood Table1,042 Comments Print Email We have an old wood table that has been used and abused for years. I brought it out over the holidays for card playing and commented how badly stain",
+        "distance": 0.3101966381072998
+      },
+      {
+        "id": 4040,
+        "title": "Tips On Removing Rust Stains",
+        "url": "http://www.housecleaningcentral.com/en/cleaning-tips/stain-removal/removing-rust-stains.html",
+        "combined_text": "Tips On Removing Rust Stains Tips On Removing Rust Stains How To Remove Rust Stains Rusty iron stains have been a real problem with laundry since man began wearing coverings of woven fabric rather than animal skins. That is, they were problems when man began wanting to wear clean garments rather than old, dirty, and greasy moth",
+        "distance": 0.49138662219047546
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-7461944120450076714": {
+    "query_id": "-7461944120450076714",
+    "query": "Zucchini recipes",
+    "relevants": [
+      {
+        "relevant_doc": 233,
+        "relevant_url": "http://startcooking.com/how-to-zucchini"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 233,
+        "title": "How to: Zucchini",
+        "url": "http://startcooking.com/how-to-zucchini",
+        "combined_text": "How to: Zucchini How to: Zucchiniposted in Food, Vegetables and Beans by Kathy Maisterprevious | next It happens each year around the same time. Summer heat arrives and then – bam! – a bushel of zucchini lands on your doorstep, courtesy of a neighbor trying to offload their backyard bounty. Or, maybe zucchini is jus",
+        "distance": 0.3334510624408722
+      },
+      {
+        "id": 2778,
+        "title": "Low-Carb Zucchini Pasta",
+        "url": "http://allrecipes.com/recipe/233453/low-carb-zucchini-pasta/",
+        "combined_text": "Low-Carb Zucchini Pasta Home Recipes Side Dish Vegetables Squash Zucchini Watch Low-Carb Zucchini Pasta604 made it | 144 reviews12Recipe by: Dinner Momma\"If you are a pasta lover and need a low-carb version closer to the real thing than spaghetti squash, you have found your match! This is a great recipe for one; super-quic",
+        "distance": 0.39362621307373047
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4396816586131886122": {
+    "query_id": "-4396816586131886122",
+    "query": "Planting grass",
+    "relevants": [
+      {
+        "relevant_doc": 240,
+        "relevant_url": "http://www.wikihow.com/Grow-Pampas-Grass"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 5561,
+        "title": "How Warm Must it Be to Plant Lawn Grass Seed?",
+        "url": "http://homeguides.sfgate.com/warm-must-plant-lawn-grass-seed-67816.html",
+        "combined_text": "How Warm Must it Be to Plant Lawn Grass Seed? Written by Amy Rodriguez; Updated January 26, 2018Related Articles How to Grow Grass in Hot Weather Temperatures for Grass Seed Germination Can You Grow Grass in June & July? Can You Plant Grass Seed in Cool Weather? Even with careful soil preparation and seed spreading, reseeding bare patches of la",
+        "distance": 0.30070334672927856
+      },
+      {
+        "id": 240,
+        "title": "How to Grow Pampas Grass",
+        "url": "http://www.wikihow.com/Grow-Pampas-Grass",
+        "combined_text": "How to Grow Pampas Grass Expert Reviewed How to Grow Pampas Grass Three Parts: Preparing to Plant Planting Your Grass Caring for Your Grass Community Q&APampas grass has made its way onto the invasive weed list in California and Texas, and been completely banned in New Zealand and Hawaii due to its ability to thrive and tak",
+        "distance": 0.3114115595817566
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-5162318455507357635": {
+    "query_id": "-5162318455507357635",
+    "query": "Hamstring remedies",
+    "relevants": [
+      {
+        "relevant_doc": 277,
+        "relevant_url": "http://www.runnersworld.com/for-beginners-only/10-tips-to-relieve-hamstring-tightness"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2507,
+        "title": "Natural remedies for thrush: How to treat a yeast infection the natural way",
+        "url": "http://www.goodtoknow.co.uk/wellbeing/546400/natural-remedies-for-thrush",
+        "combined_text": "Natural remedies for thrush: How to treat a yeast infection the natural way Home Wellbeing Natural remedies for thrush: How to treat a yeast infection the natural way Goodto Know | May 23, 2014 2:19 pm Natural home remedies Think you’re suffering from thrush? Looking for a natural home remedy to ditch that itch? Most women will suffer with vaginal or oral thrush at some poi",
+        "distance": 0.593667209148407
+      },
+      {
+        "id": 4292,
+        "title": "19 Natural Remedies To Stop Bleeding That You Can Easily Use At Home",
+        "url": "http://justhealthlifestyle.com/natural-remedies-to-stop-bleeding-that-you-can-use-at-home/",
+        "combined_text": "19 Natural Remedies To Stop Bleeding That You Can Easily Use At Home 19 Natural Remedies To Stop Bleeding That You Can Easily Use At Home There are many natural remedies to stop bleeding that you can use at home and today. Every once in a while you will get a paper cut, a scrape or maybe a small wound that causes you to bleed. For most people and most wounds, blood w",
+        "distance": 0.6030829548835754
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-2415375806117714032": {
+    "query_id": "-2415375806117714032",
+    "query": "Organic fertilizers",
+    "relevants": [
+      {
+        "relevant_doc": 353,
+        "relevant_url": "http://www.sunset.com/garden/garden-basics/crash-course-fertilizers"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2886,
+        "title": "Organic Gardening",
+        "url": "http://www.gardenguides.com/using-worms-in-compost/",
+        "combined_text": "Organic Gardening Organic Gardening Organic Gardening Tips What Kind of Soil Should I Use in Organic Gardening? Benefits of Organic Gardening Advantages & Disadvantages of Organic Gardening Using Rows & Hills to Plant a Garden Using Worms in Organic Gardening Organic Gardening Tips How to Raise Organic Vegetables : O",
+        "distance": 0.35633739829063416
+      },
+      {
+        "id": 2739,
+        "title": "Ammonium Nitrate Fertilizer",
+        "url": "http://www.gardeningcentral.org/ammonium_nitrate_fertilizer/ammonium_nitrate_fertilizer.html",
+        "combined_text": "Ammonium Nitrate Fertilizer Ammonium Nitrate Fertilizer What you may not Know about Ammonium Nitrate Fertilizer Most people have never heard about ammonium nitrate fertilizer. From the name, it is safe to assume that it is used in gardening or farming. But why should anyone care about what it is or what it does? The fertilizer",
+        "distance": 0.4370805025100708
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-1231531291967188782": {
+    "query_id": "-1231531291967188782",
+    "query": "Whats a choir",
+    "relevants": [
+      {
+        "relevant_doc": 398,
+        "relevant_url": "https://simple.wikipedia.org/wiki/Choir_(music)"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 398,
+        "title": "Choir (music)",
+        "url": "https://simple.wikipedia.org/wiki/Choir_(music)",
+        "combined_text": "Choir (music) For other uses, see Choir (disambiguation). The Vienna Boys' Choir A choir is a group of people who sing together. They rehearse together and sing at concerts or for religious services. Some choirs are professional (the singers are paid for their work in the choir). Other choirs are amateur choirs.",
+        "distance": 0.2549106776714325
+      },
+      {
+        "id": 2571,
+        "title": "Classical Choir Music Concerts Orange County",
+        "url": "http://www.pacificchorale.org/discover_choral_music/introduction.php",
+        "combined_text": "Classical Choir Music Concerts Orange County Pacific Chorale Inspiration out loud… What inspires you? Pacific Chorale is internationally recognized for exceptional artistic expression and influential education programs.",
+        "distance": 0.6140904426574707
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4718709686021696520": {
+    "query_id": "-4718709686021696520",
+    "query": "Make money from music",
+    "relevants": [
+      {
+        "relevant_doc": 453,
+        "relevant_url": "http://hiphopmakers.com/how-to-sell-beats-online-beginners-guide-to-selling-beats"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 251,
+        "title": "The Sound of Music",
+        "url": "https://en.wikipedia.org/wiki/The_Sound_of_Music",
+        "combined_text": "The Sound of Music From Wikipedia, the free encyclopedianavigation search This article is about the stage musical. For the film, see The Sound of Music (film). For other uses, see The Sound of Music (disambiguation). The Sound of Music Original Broadway poster (1959)Music Richard Rodgers Lyrics Oscar Hammerstein IIBoo",
+        "distance": 0.5649856925010681
+      },
+      {
+        "id": 6039,
+        "title": "20 Things You Can Sell To Make Money",
+        "url": "http://sweatingthebigstuff.com/20-things-can-sell-make-money/",
+        "combined_text": "20 Things You Can Sell To Make Money 20 Things You Can Sell To Make Money Posted by Daniel Packer in Money • 8 Comments*Your results may vary and factors such as market, personal effort, and other circumstances may have an affect on your actual results. Extra money is always welcome and with job losses and cuts in salaries and benefits",
+        "distance": 0.5718483328819275
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7543210769576692473": {
+    "query_id": "7543210769576692473",
+    "query": "Chlorine for pool",
+    "relevants": [
+      {
+        "relevant_doc": 459,
+        "relevant_url": "https://www.inyopools.com/blog/what-type-of-pool-chlorinator-should-i-use/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 459,
+        "title": "What Type of Pool Chlorinator Should I Use?",
+        "url": "https://www.inyopools.com/blog/what-type-of-pool-chlorinator-should-i-use/",
+        "combined_text": "What Type of Pool Chlorinator Should I Use? What Type of Pool Chlorinator Should I Use? March 30, 2015 Matthew Simmons Chlorine – your pool needs it but what’s the best way to get it into the water? While you can add your sanitizer manually, many pool owners prefer to automate the process and not handle chlorine any more than necessary. If yo",
+        "distance": 0.20781706273555756
+      },
+      {
+        "id": 4117,
+        "title": "Can you sanitize your pool without chlorine?",
+        "url": "http://www.answers.com/Q/What_is_used_to_test_the_concentration_of_chlorine_sanitizer",
+        "combined_text": "Can you sanitize your pool without chlorine? Joe Gautier 2 Contributions Can you sanitize your pool without chlorine? The short answer is YES. The longer answer is yes, but what are the \"by-products\" of sanitizing or disinfecting your pool? You may be creating more issues than you are solving …Is Ultraviolet a better pool sanitizer than chlori",
+        "distance": 0.2838544249534607
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "2183999488539645005": {
+    "query_id": "2183999488539645005",
+    "query": "Patio decoration",
+    "relevants": [
+      {
+        "relevant_doc": 477,
+        "relevant_url": "https://www.landscapingnetwork.com/patios/concrete.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1665,
+        "title": "How tall should a patio umbrella be?",
+        "url": "http://www.answers.com/Q/How_tall_should_a_patio_umbrella_be",
+        "combined_text": "How tall should a patio umbrella be? Answers.com ® Wiki Answers ® Categories Home & Garden Cleaning How tall should a patio umbrella be? Flag How tall should a patio umbrella be? Answer by Answers Publisher Confidence votes 415KThe average height of a patio umbrella is eight feet tall. However, you may want to buy and install a patio u",
+        "distance": 0.47029948234558105
+      },
+      {
+        "id": 5761,
+        "title": "What are the Different Types of Patio Covers?",
+        "url": "http://www.wisegeek.com/what-are-the-different-types-of-patio-covers.htm",
+        "combined_text": "What are the Different Types of Patio Covers? Several different types of patio covers provide shade and shelter for outdoor activities. Wooden covers may be designed in many different ways, but require frequent maintenance. Metal variants such as steel, wrought iron, and aluminum are more durable than wood, but usually less attractive. Vinyl pa",
+        "distance": 0.5000797510147095
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-2653588499553038954": {
+    "query_id": "-2653588499553038954",
+    "query": "Gardening tips",
+    "relevants": [
+      {
+        "relevant_doc": 543,
+        "relevant_url": "http://www.gardeningknowhow.com/edible/vegetables/vgen/starting-a-vegetable-garden.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 5429,
+        "title": "Gardening",
+        "url": "http://www.hgtv.com/design/topics/gardening",
+        "combined_text": "Gardening Gardening From the planting to the growing to the seasonal maintenance, use these gardening tips and ideas to create the perfect garden for you. Pinterest Facebook Twitter Email Perennial Plants for Winter and Spring Find the best perennials to grow in winter and spring with HGTV.com. Plants for a S",
+        "distance": 0.30433496832847595
+      },
+      {
+        "id": 2886,
+        "title": "Organic Gardening",
+        "url": "http://www.gardenguides.com/using-worms-in-compost/",
+        "combined_text": "Organic Gardening Organic Gardening Organic Gardening Tips What Kind of Soil Should I Use in Organic Gardening? Benefits of Organic Gardening Advantages & Disadvantages of Organic Gardening Using Rows & Hills to Plant a Garden Using Worms in Organic Gardening Organic Gardening Tips How to Raise Organic Vegetables : O",
+        "distance": 0.3328262269496918
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8289396737381319676": {
+    "query_id": "8289396737381319676",
+    "query": "Replace sliding door",
+    "relevants": [
+      {
+        "relevant_doc": 548,
+        "relevant_url": "http://www.swisco.com/guides/view35"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 548,
+        "title": "How to Replace a Sliding Glass Door Roller",
+        "url": "http://www.swisco.com/guides/view35",
+        "combined_text": "How to Replace a Sliding Glass Door Roller How to Replace a Sliding Glass Door Roller Patio glass doors have two separate units: a stationary unit and a sliding unit. STEP 1 - REMOVE THE STATIONARY UNITIn order to access the glass door units, first remove the screen door (if you have one). Lift one end of the frame and use a screwdriver or s",
+        "distance": 0.33130574226379395
+      },
+      {
+        "id": 252,
+        "title": "How to Replace a Patio Sliding Glass Door Roller [1080p]",
+        "url": "http://www.youtube.com/watch?v=QWm2YG_jNAc",
+        "combined_text": "How to Replace a Patio Sliding Glass Door Roller [1080p] How to Replace a Patio Sliding Glass Door Roller [1080p]SWISCOSubscribe 2.9KAdd to Share More417,124 views1,19864Published on Mar 14, 2014In this video we show you how to replace a roller in a patio sliding glass door. You can find replacement patio sliding glass door hardware here: http://www.swisc",
+        "distance": 0.37367376685142517
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7168941064684855798": {
+    "query_id": "7168941064684855798",
+    "query": "Window insulation",
+    "relevants": [
+      {
+        "relevant_doc": 551,
+        "relevant_url": "http://home.howstuffworks.com/home-improvement/heating-and-cooling/insulate-windows.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 5508,
+        "title": "Window Well Repair Services",
+        "url": "http://dampbasements.com/waterproofing/exterior/window-well-repair/",
+        "combined_text": "Window Well Repair Services Window Well Repair Services Home » Waterproofing » Exterior » Window Well Install Window wells, when installed below grade on the exterior of a home, must be drained. In the absence of drainage window wells fill up with water like a Protect Your Windows from Water Damage: Window wells, when installe",
+        "distance": 0.4821505844593048
+      },
+      {
+        "id": 551,
+        "title": "How to Insulate Windows",
+        "url": "http://home.howstuffworks.com/home-improvement/heating-and-cooling/insulate-windows.htm",
+        "combined_text": "How to Insulate Windows NEXTIn the colder parts of the United States, anywhere from 15 to 35 percent of heat loss in wintertime can be attributed to poorly insulated windows. i Stockphoto /Michael Walker As the weather gets colder, you might start to notice a draft entering your bedrooms and kitchens from the windowsills.",
+        "distance": 0.5371827483177185
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-1308829713586142937": {
+    "query_id": "-1308829713586142937",
+    "query": "Yerba tea benefits",
+    "relevants": [
+      {
+        "relevant_doc": 574,
+        "relevant_url": "http://www.fitday.com/fitness-articles/nutrition/healthy-eating/7-health-benefits-of-guayaki-yerba-mate.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 574,
+        "title": "Seven Health Benefits of Guayaki Yerba Mate",
+        "url": "http://www.fitday.com/fitness-articles/nutrition/healthy-eating/7-health-benefits-of-guayaki-yerba-mate.html",
+        "combined_text": "Seven Health Benefits of Guayaki Yerba Mate Seven Health Benefits of Guayaki Yerba Mate Fitday Editor Nutrition Healthy Eating Guayaki yerba mate is a South American tea made from the leaves and stems of the yerba mate plant. It's one of the world's most popular stimulants, along with similar beverages like coffee and tea. Unlike other stimul",
+        "distance": 0.2835399806499481
+      },
+      {
+        "id": 1750,
+        "title": "How to Drink Tea to Lose Weight",
+        "url": "http://www.wikihow.com/Drink-Tea-to-Lose-Weight",
+        "combined_text": "How to Drink Tea to Lose Weight 1 Choose a tea based on its effectiveness and your personal preferences. It is best to have a tea your enjoy drinking, but you should know that certain teas are considered more effective for weight loss than others. [1]Most effective: Green, white, or oolong Moderately effective: black Less effectiv",
+        "distance": 0.4515147805213928
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "4172192656672677194": {
+    "query_id": "4172192656672677194",
+    "query": "How to grow onions",
+    "relevants": [
+      {
+        "relevant_doc": 580,
+        "relevant_url": "http://strongertogether.coop/fresh-from-the-source/growing-your-own-food/growing-green-onions-without-a-garden/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2230,
+        "title": "Onions",
+        "url": "https://www.rareseeds.com/store/vegetables/onions/",
+        "combined_text": "Onions  (Allium cepa) Generally speaking, long-day onions tend to do best in the North and short-day types tend to do best in the South. Growing onions from seed is often the only way to get varieties really suited to your location. Heirloom onion seeds are usually started indoors in late winter for transp",
+        "distance": 0.29216790199279785
+      },
+      {
+        "id": 6236,
+        "title": "How to Grow Spring Onions",
+        "url": "https://themicrogardener.com/guide-to-growing-spring-onions/",
+        "combined_text": "How to Grow Spring Onions +1 Tweet Pin Share Share2KWant to grow spring onions? If you love tasty, versatile vegetables that only need minimal space and effort, then spring onions are an excellent choice! Even the tiniest plot or pot will accommodate them. I grow all the flavoursome Alliums (Onion family). This includes garl",
+        "distance": 0.3051708936691284
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-3461718283338007192": {
+    "query_id": "-3461718283338007192",
+    "query": "Keto breakfast",
+    "relevants": [
+      {
+        "relevant_doc": 585,
+        "relevant_url": "https://www.ruled.me/keto-bacon-and-eggs/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 585,
+        "title": "Keto Breakfast: Bacon & Eggs",
+        "url": "https://www.ruled.me/keto-bacon-and-eggs/",
+        "combined_text": "Keto Breakfast: Bacon & Eggs SHARE THIS RECIPEEggs happen to be the worst nightmare for many chefs, mainly because they can overcook so quickly. I’ve seen high class resturants even hire people just from their scrambled eggs. Bacon and eggs is a staple breakfast for many people on the keto diet, so I figured I’d add this in her",
+        "distance": 0.3081612288951874
+      },
+      {
+        "id": 4483,
+        "title": "The Ultimate Guide to Keto Coffee",
+        "url": "http://chronicmomlife.com/keto-coffee/",
+        "combined_text": "The Ultimate Guide to Keto Coffee The Ultimate Guide to Keto Coffee June 1, 2017 by Marya 1 Comment If you are currently following a low carb or ketogenic diet (also called keto), then you’ve probably heard of keto coffee. Keto coffee relies on healthy fats with no sugar or carbs to give you lots of energy for your morning. You don’",
+        "distance": 0.31010887026786804
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "6017854142215468323": {
+    "query_id": "6017854142215468323",
+    "query": "Get started with running",
+    "relevants": [
+      {
+        "relevant_doc": 739,
+        "relevant_url": "https://www.verywell.com/tips-for-running-in-the-morning-2911496"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 5237,
+        "title": "running on fumes",
+        "url": "http://idioms.thefreedictionary.com/running+on+fumes",
+        "combined_text": "running on fumes running on fumes Also found in: Wikipedia .running on fumes Continuing to operate with no or very little enthusiasm, energy, or resources left. A reference to a car that has nearly run out of fuel. I've been painting the house for four hours every nightafter work, and I am seriously running on fumes",
+        "distance": 0.47338706254959106
+      },
+      {
+        "id": 5846,
+        "title": "Is Running the Best Way To Lose Belly Fat",
+        "url": "http://www.worldofdiets.com/is-running-the-best-way-to-lose-belly-fat/",
+        "combined_text": "Is Running the Best Way To Lose Belly Fat Is Running the Best Way To Lose Belly Fat By Jonathan on Leave a Comment Running is one of the most popular cardio workouts and forms of physical exercise in the entire world. People run for fun, to improve their fitness, to lose weight, for all sorts of reasons. You may be doing it to get rid of so",
+        "distance": 0.5366380214691162
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "885607017069317520": {
+    "query_id": "885607017069317520",
+    "query": "Making tasty brussels",
+    "relevants": [
+      {
+        "relevant_doc": 743,
+        "relevant_url": "https://www.healyounaturally.com/6-benefits-brussels-sprouts-make-taste-delicious/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 743,
+        "title": "6 Benefits of Brussels Sprouts and (How to Make Them Taste Delicious)",
+        "url": "https://www.healyounaturally.com/6-benefits-brussels-sprouts-make-taste-delicious/",
+        "combined_text": "6 Benefits of Brussels Sprouts and (How to Make Them Taste Delicious) 6 Benefits of Brussels Sprouts and (How to Make Them Taste Delicious)Last updated on October 4, 2017 By Astrid Leave a Comment Let’s see, you are probably one of two teams when it comes to thinking about the health benefits of brussels sprouts: You love them and eat them frequently Or you feel absol",
+        "distance": 0.4092927575111389
+      },
+      {
+        "id": 2948,
+        "title": "Can pet rats eat meat? What should they ideally eat?",
+        "url": "https://www.quora.com/Can-pet-rats-eat-meat-What-should-they-ideally-eat",
+        "combined_text": "Can pet rats eat meat? What should they ideally eat? Quora User, Rat owner/ breeder 5 yrs Answered Jan 15, 2016Rats are naturally omnivorous. This means plant matter and meat are perfect for them. An ideal diet would be varied. Personally, I feed my rats a lab block in addition to a mixture of fruits, veggies, and the occasional left over cooked meat",
+        "distance": 0.7626020908355713
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8423728040998341746": {
+    "query_id": "-8423728040998341746",
+    "query": "Modern living room",
+    "relevants": [
+      {
+        "relevant_doc": 763,
+        "relevant_url": "http://www.wikihow.com/Decorate-a-Living-Room"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 763,
+        "title": "How to Decorate a Living Room",
+        "url": "http://www.wikihow.com/Decorate-a-Living-Room",
+        "combined_text": "How to Decorate a Living Room Edit Article How to Decorate a Living Room Your living room is the nucleus of a home, where you can relax, unwind, and spend quality time with friends and family. Decorating a living room from scratch may seem overwhelming, but it can also be very rewarding as your plans become realized. Read this a",
+        "distance": 0.3417867124080658
+      },
+      {
+        "id": 3032,
+        "title": "How to Remodel a Room",
+        "url": "http://www.wikihow.com/Remodel-a-Room",
+        "combined_text": "How to Remodel a Room Edit Article How to Remodel a Room Are you thirsty for something new? Have you ever wanted that new look for your room, but have no clue where to start? Whether it's your living room, bathroom, bedroom, parlor, or hallway that you are looking to remodel, organizing the process of remodeling a room i",
+        "distance": 0.4617864489555359
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-2054276776908624850": {
+    "query_id": "-2054276776908624850",
+    "query": "Wall prep tips for painting",
+    "relevants": [
+      {
+        "relevant_doc": 782,
+        "relevant_url": "http://homeguides.sfgate.com/prepare-walls-paint-after-removing-wallpaper-38671.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 874,
+        "title": "8 Essential Painting Supplies",
+        "url": "https://www.thespruce.com/essential-painting-supplies-1821149",
+        "combined_text": "8 Essential Painting Supplies Color, Paint & Wallpaper8 Essential Painting Supplies Tools and Other Supplies You Need For Interior and Exterior House Painting By Lee Wallender Updated 02/17/17Share Pin Email I'll say right off the bat that this list of essential, can't-live-without-them supplies for house painting is rather subj",
+        "distance": 0.5397567749023438
+      },
+      {
+        "id": 782,
+        "title": "How to Prepare Walls for Paint After Removing Wallpaper",
+        "url": "http://homeguides.sfgate.com/prepare-walls-paint-after-removing-wallpaper-38671.html",
+        "combined_text": "How to Prepare Walls for Paint After Removing Wallpaper Written by Stephanie Mitchell; Updated June 27, 2017Related Articles How to Prepare Walls With Wallpaper Paste for Painting How to Repair Drywall Damage Caused by Wallpaper Removal How to Remove Wallpaper Glue Residue How to Clean Bathroom Ceilings & Walls After Removing Wallpaper Peeling and scrapi",
+        "distance": 0.5425353050231934
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "2506572986746440504": {
+    "query_id": "2506572986746440504",
+    "query": "Best way to produce charcoal",
+    "relevants": [
+      {
+        "relevant_doc": 792,
+        "relevant_url": "http://www.wikihow.com/Make-Charcoal"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 853,
+        "title": "How to Extinguish a Charcoal Grill",
+        "url": "http://homeguides.sfgate.com/extinguish-charcoal-grill-42321.html",
+        "combined_text": "How to Extinguish a Charcoal Grill Related Articles Can Ashes From Charcoal Briquettes Be Used As Fertilizer? The Dangers of a Grill on the Deck Use of Charcoal in Landscaping How to Improve Garden Soil With Charcoal The charcoal briquets used in charcoal grills can stay hot long after you finish grilling. Air stirring through the co",
+        "distance": 0.3941815495491028
+      },
+      {
+        "id": 5312,
+        "title": "Charcoal Fuel Types",
+        "url": "http://www.weber.com/weber-nation/blog/charcoal-fuel-types",
+        "combined_text": "Charcoal Fuel Types Charcoal Fuel Typescomments (10)Grilling with charcoal is a true test for any seasoned griller. From lighting and adjusting coals, to regulating airflow and controlling flare-ups, it can be an exciting challenge with some seriously great tasting rewards. But even before you ignite your charcoal to g",
+        "distance": 0.41079893708229065
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8507035318963455099": {
+    "query_id": "8507035318963455099",
+    "query": "How to water plants in non-draining pots",
+    "relevants": [
+      {
+        "relevant_doc": 809,
+        "relevant_url": "http://homeguides.sfgate.com/plant-pot-holes-41917.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 809,
+        "title": "How to Plant in a Pot With no Holes",
+        "url": "http://homeguides.sfgate.com/plant-pot-holes-41917.html",
+        "combined_text": "How to Plant in a Pot With no Holes Related Articles Can a Plant Grow in a Pot Where There's No Hole in the Bottom? How to Make Holes in Flower Pots for Water to Run Out How Do I Drill a Hole in Plant Containers? How to Make a Container That Drains Soil Without proper drainage, the soil in the bottom of a plant pot can become water lo",
+        "distance": 0.3456474244594574
+      },
+      {
+        "id": 2195,
+        "title": "How to Water Succulent Plants",
+        "url": "https://www.succulentsandsunshine.com/how-to-water-succulent-plants/",
+        "combined_text": "How to Water Succulent Plants How to Water Succulent Plants Have you ever wondered how much water your succulent plants need? In this post, I’m going to teach you how to properly water your succulents, so they’ll keep looking great!Some of the links on this page may be affiliate links, meaning I receive a commission (at no extra",
+        "distance": 0.478920042514801
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "6667768547582524939": {
+    "query_id": "6667768547582524939",
+    "query": "Are tulips and daffodils cold hardy",
+    "relevants": [
+      {
+        "relevant_doc": 848,
+        "relevant_url": "http://www.ehow.com/info_8362341_tulips-daffodils-frost-tolerant.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 848,
+        "title": "Are Tulips & Daffodils Frost Tolerant?",
+        "url": "http://www.ehow.com/info_8362341_tulips-daffodils-frost-tolerant.html",
+        "combined_text": "Are Tulips & Daffodils Frost Tolerant? Winter seems to slip into spring almost unseen some years. The north wind brings frost one day, and the next day tulips ( Tulipa spp.) and daffodils ( Narcissus spp.) are popping up. Too often, though, one last frost or even a few more inches of snow spoil a gardener's fun. Fear not: A light frost w",
+        "distance": 0.3852589428424835
+      },
+      {
+        "id": 2299,
+        "title": "Dividing Daffodils: Can You Transplant Daffodil Bulbs",
+        "url": "http://www.gardeningknowhow.com/ornamental/bulbs/daffodil/dividing-daffodil-bulbs.htm",
+        "combined_text": "Dividing Daffodils: Can You Transplant Daffodil Bulbs Dividing Daffodils: Can You Transplant Daffodil Bulbs Daffodils By: Bonnie L. Grant, Certified Urban Agriculturist Printer Friendly Version Image by Viorika When daffodils nod their cheery heads, you know spring has really arrived. Their golden blooms become more and more dense over time as the bulb",
+        "distance": 0.409480482339859
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-2955811300472648785": {
+    "query_id": "-2955811300472648785",
+    "query": "How to tell if a potato is rotten",
+    "relevants": [
+      {
+        "relevant_doc": 849,
+        "relevant_url": "https://www.leaf.tv/articles/how-to-know-when-potatoes-go-bad/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3825,
+        "title": "How to Make a Great Baked Potato at Home",
+        "url": "https://idahopotato.com/dr-potato/how-to-make-a-great-baked-potato-at-home",
+        "combined_text": "How to Make a Great Baked Potato at Home Back To Dr. Potato Home How to Make a Great Baked Potato at Home Q: How do you make a baked potato at home that tastes as well as those you get from your favorite restaurant? My wife and I have tried everything…bake time, oven temp, size of potato etc. They still suck big time! What are we doing wro",
+        "distance": 0.560228168964386
+      },
+      {
+        "id": 1442,
+        "title": "Harvesting Potatoes * It's what you've been waiting for, * Pick fresh and new potatoes, * How to store your potato.",
+        "url": "http://www.the-organic-gardener.com/harvesting-potatoes.html",
+        "combined_text": "Harvesting Potatoes * It's what you've been waiting for, * Pick fresh and new potatoes, * How to store your potato. Harvesting Potatoes * It's what you've been waiting for, * Pick fresh and new potatoes, * How to store your potato. The long-awaited day for harvesting potatoes comes - you feel well-satisfied and your family and friends are proud of you. And not least because the first 'new' potatoes are much sough",
+        "distance": 0.5900124311447144
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-6271938977248965481": {
+    "query_id": "-6271938977248965481",
+    "query": "put out a charcoal fire",
+    "relevants": [
+      {
+        "relevant_doc": 853,
+        "relevant_url": "http://homeguides.sfgate.com/extinguish-charcoal-grill-42321.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 853,
+        "title": "How to Extinguish a Charcoal Grill",
+        "url": "http://homeguides.sfgate.com/extinguish-charcoal-grill-42321.html",
+        "combined_text": "How to Extinguish a Charcoal Grill Related Articles Can Ashes From Charcoal Briquettes Be Used As Fertilizer? The Dangers of a Grill on the Deck Use of Charcoal in Landscaping How to Improve Garden Soil With Charcoal The charcoal briquets used in charcoal grills can stay hot long after you finish grilling. Air stirring through the co",
+        "distance": 0.31015413999557495
+      },
+      {
+        "id": 5312,
+        "title": "Charcoal Fuel Types",
+        "url": "http://www.weber.com/weber-nation/blog/charcoal-fuel-types",
+        "combined_text": "Charcoal Fuel Types Charcoal Fuel Typescomments (10)Grilling with charcoal is a true test for any seasoned griller. From lighting and adjusting coals, to regulating airflow and controlling flare-ups, it can be an exciting challenge with some seriously great tasting rewards. But even before you ignite your charcoal to g",
+        "distance": 0.34089407324790955
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "6960856235973549563": {
+    "query_id": "6960856235973549563",
+    "query": "Best time to harvest garlic",
+    "relevants": [
+      {
+        "relevant_doc": 871,
+        "relevant_url": "https://www.thespruce.com/harvesting-garlic-1402402"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1599,
+        "title": "When to Harvest Carrots",
+        "url": "http://www.diynetwork.com/how-to/outdoors/gardening/when-to-harvest-carrots",
+        "combined_text": "When to Harvest Carrots When to Harvest Carrots Three great ways to know when to harvest your carrot crop. Pinterest Facebook Twitter Email By: Danielle Ernest Related To: Plants Vegetables DK - Vegetable Gardening , 2007 Dorling Kindersley Limited When to harvest carrots really depends on the variety that you are growing.",
+        "distance": 0.47613611817359924
+      },
+      {
+        "id": 871,
+        "title": "Harvesting Garlic",
+        "url": "https://www.thespruce.com/harvesting-garlic-1402402",
+        "combined_text": "Harvesting Garlic Herb Garden Basics Gardening Growing Herbs Harvesting Garlic By Marie Iannotti Updated 10/28/17Share Pin Email Barbara Rich / Getty Images Growing garlic takes a fair amount of space in the garden and a good amount of patience. It is an unusual plant in the vegetable garden, because you have to wait",
+        "distance": 0.4792238175868988
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7710584582451634996": {
+    "query_id": "7710584582451634996",
+    "query": "How to set up for a painting job",
+    "relevants": [
+      {
+        "relevant_doc": 874,
+        "relevant_url": "https://www.thespruce.com/essential-painting-supplies-1821149"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2669,
+        "title": "How to Use a Paint Pad",
+        "url": "http://www.bhg.com/decorating/paint/how-tos/how-to-use-a-paint-pad/",
+        "combined_text": "How to Use a Paint Pad BHG.com Decorating Interior Painting Painting Tips How to Use a Paint Pad Follow painting expert Brian Santos' instructions for handling a paint pad. Read more in his new book, \"Painting Secrets. \"Pin Facebook Twitter Google Plus Email Print Author Brian Santos A pad is the ideal detail paint tool.",
+        "distance": 0.4949910640716553
+      },
+      {
+        "id": 877,
+        "title": "7 Questions every Artist needs to ask before Varnishing an Oil Painting",
+        "url": "http://willkempartschool.com/how-to-varnish-an-oil-painting/",
+        "combined_text": "7 Questions every Artist needs to ask before Varnishing an Oil Painting 7 Questions every Artist needs to ask before Varnishing an Oil Paintingby Will Kempin oil painting An Introduction to Varnishing an Oil Painting As we’ve discussed in 3 Reasons why artists varnish their work (and why some artists don’t) varnishing is primarily an aesthetic choice on the final finish",
+        "distance": 0.5207322835922241
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "6824349082219698432": {
+    "query_id": "6824349082219698432",
+    "query": "Where to buy pontoon boat kits",
+    "relevants": [
+      {
+        "relevant_doc": 891,
+        "relevant_url": "http://u-fabboats.com/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 891,
+        "title": "Pontoon Boats - Build Your Own from Kits",
+        "url": "http://u-fabboats.com/",
+        "combined_text": "Pontoon Boats - Build Your Own from Kits Pontoon Boats - Build Your Own from Kits Pontoon Boat Kits Pontoon boats assembled from kits require no welding and come with easy to follow instructions. If you like boat building, then this is for you. Choose from various sizes for the application that best suits you. Kits are easy on the pocket b",
+        "distance": 0.16197609901428223
+      },
+      {
+        "id": 2959,
+        "title": "Average Pontoon Boat Speeds (With 15 Examples)",
+        "url": "http://betterboat.com/pontoon/how-fast-pontoon-boat-speeds/",
+        "combined_text": "Average Pontoon Boat Speeds (With 15 Examples) Average Pontoon Boat Speeds (With 15 Examples)August 28, 2014 by Jim Harmer Share 20 Tweet Pin When buying a pontoon boat, one of the major considerations is your top speed. Since pontoon boats are generally not built for speed, skiing and tubing behind one can be difficult unless you take care to s",
+        "distance": 0.26892274618148804
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-7266008376007266788": {
+    "query_id": "-7266008376007266788",
+    "query": "Best way to grow English Ivy",
+    "relevants": [
+      {
+        "relevant_doc": 956,
+        "relevant_url": "http://www.guide-to-houseplants.com/english-ivy.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 956,
+        "title": "English Ivy Plant Care",
+        "url": "http://www.guide-to-houseplants.com/english-ivy.html",
+        "combined_text": "English Ivy Plant Care English Ivy Plant Care Botanical Name: Hedera helix With lobed leaves and lush, trailing vines, English Ivy is a beautiful accent plant. It blends beautifully in a dish garden, adding texture to a variety of tropical plants. Ivy is a vigorous grower with strong, wiry stems densely covered with disti",
+        "distance": 0.34342825412750244
+      },
+      {
+        "id": 2668,
+        "title": "How can I encourage ivy to climb a vertical concrete wall?",
+        "url": "https://uk.answers.yahoo.com/question/index?qid=20070620144952AAHB060",
+        "combined_text": "How can I encourage ivy to climb a vertical concrete wall? Home & Garden Garden & Landscape How can I encourage ivy to climb a vertical concrete wall? We have tried to get ivy to grow up our wall, but it appears that the wall is too smooth and vertical. How best can I encourage the ivy to grow? I can dangle string or a net from the top of the wall, and also",
+        "distance": 0.42079415917396545
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4606277762757716653": {
+    "query_id": "-4606277762757716653",
+    "query": "Paint kitchen cabinet",
+    "relevants": [
+      {
+        "relevant_doc": 1010,
+        "relevant_url": "http://thebestcabinetsite.com/paints/the-best-paint-for-kitchen-cabinets/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 5799,
+        "title": "How to Stain Kitchen Cabinets",
+        "url": "http://www.bhg.com/kitchen/cabinets/makeovers/how-to-stain-kitchen-cabinets/",
+        "combined_text": "How to Stain Kitchen Cabinets BHG.com Kitchens Kitchen Cabinets Cabinet Makeovers How to Stain Kitchen Cabinets Tired of the old finish on your kitchen cabinets? Try our kitchen cabinet solution! Follow these directions on how to stain kitchen cabinets and give them a fresh look. By Kelly Roberson Pin Facebook Twitter Google Plu",
+        "distance": 0.24978283047676086
+      },
+      {
+        "id": 1010,
+        "title": "The Best Paint for Kitchen Cabinets",
+        "url": "http://thebestcabinetsite.com/paints/the-best-paint-for-kitchen-cabinets/",
+        "combined_text": "The Best Paint for Kitchen Cabinets The Best Paint for Kitchen Cabinets I've often wondered how to direct people when they ask me this. I don't know what the best paint for kitchen cabinets is, and I suppose the answer is something of a \"tastes great, less filling\" sort of situation. So, I asked Mary Anne of Georgia, a professional ca",
+        "distance": 0.2983068525791168
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "197245554963383184": {
+    "query_id": "197245554963383184",
+    "query": "How to safely paint wooden cookware",
+    "relevants": [
+      {
+        "relevant_doc": 1066,
+        "relevant_url": "https://snapguide.com/guides/paint-the-handles-of-your-wooden-cookware/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1066,
+        "title": "How to Paint the Handles of Your Wooden Cookware",
+        "url": "https://snapguide.com/guides/paint-the-handles-of-your-wooden-cookware/",
+        "combined_text": "How to Paint the Handles of Your Wooden Cookware How to Paint the Handles of Your Wooden Cookware I saw this idea on Pintrest, and thought, \"What a cute and easy project!\" Here is how I made it work.by Jessica Self 9.5k Views 716 Likes Explore › Arts & Crafts17 Steps Supplies Embed 7161First, tape off the desired length of the painted area. You'll",
+        "distance": 0.4417024552822113
+      },
+      {
+        "id": 5573,
+        "title": "How To Paint Plastic Patio Furniture - Krylon Spray Paint",
+        "url": "http://www.youtube.com/watch?v=D9EQ6jCH0_M",
+        "combined_text": "How To Paint Plastic Patio Furniture - Krylon Spray Paint How To Paint Plastic Patio Furniture - Krylon Spray Paint Krylon Brand Subscribe 2.6KAdd to Share More380,177 views41070Published on May 3, 2012A step-by-step guide on how to spray paint plastic outdoor furniture with Krylon Fusion for Plastic to turn it into beautiful patio furniture! This project",
+        "distance": 0.5556511282920837
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-7885802329245551141": {
+    "query_id": "-7885802329245551141",
+    "query": "Italian sausage",
+    "relevants": [
+      {
+        "relevant_doc": 1091,
+        "relevant_url": "http://allrecipes.com/recipe/16539/italian-style-sausage/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1091,
+        "title": "Italian Style Sausage",
+        "url": "http://allrecipes.com/recipe/16539/italian-style-sausage/",
+        "combined_text": "Italian Style Sausage Home Recipes World Cuisine European Italian Italian Style Sausage180 made it | 113 reviews Recipe by: Lee Fogle\"I like to add Italian sausage as a topping on my homemade pizza. Came up with this blend after much experimentation. I fry it all and freeze in portions for use as pizza topping. It's grou",
+        "distance": 0.26979967951774597
+      },
+      {
+        "id": 1728,
+        "title": "Easy Smoked Sausage Skillet",
+        "url": "http://allrecipes.com/recipe/245932/easy-smoked-sausage-skillet/",
+        "combined_text": "Easy Smoked Sausage Skillet Home Recipes Trusted Brands: Recipes and Tips Hillshire Farm®Watch Easy Smoked Sausage Skillet916 made it | 153 reviews15KRecipe by: Hillshire Farm® Brand\"Dinner's on the table in no time with this one-skillet sausage and veggie dish served over rice. \"Save I Made It Print Pin Share Ingredients20 m",
+        "distance": 0.5103678107261658
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8380184679672561915": {
+    "query_id": "8380184679672561915",
+    "query": "Intermittent fasting",
+    "relevants": [
+      {
+        "relevant_doc": 1197,
+        "relevant_url": "https://en.wikipedia.org/wiki/Intermittent_fasting"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1197,
+        "title": "Intermittent fasting",
+        "url": "https://en.wikipedia.org/wiki/Intermittent_fasting",
+        "combined_text": "Intermittent fasting Intermittent fasting From Wikipedia, the free encyclopedianavigation search Intermittent fasting ( IF) is an umbrella term for various diets that cycle between a period of fasting and non-fasting during a defined period. Intermittent fasting can also be used with calorie restriction for weight loss.",
+        "distance": 0.10102298855781555
+      },
+      {
+        "id": 5495,
+        "title": "7 Ways Fasting Can Rev Up Your Fat Burning Furnace",
+        "url": "http://jasonferruggia.com/7-ways-fasting-fat-burning-furnace/",
+        "combined_text": "7 Ways Fasting Can Rev Up Your Fat Burning Furnace 7 Ways Fasting Can Rev Up Your Fat Burning Furnace Written by Jason Ferruggia Topics: Fitness, Nutrition By Brad Pilon Flexible intermittent fasting is becoming a very popular way to use your body’s natural ability to burn lots of fat in a short period of time. Here is a list of the ways that flexib",
+        "distance": 0.511967122554779
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "6702176475607801876": {
+    "query_id": "6702176475607801876",
+    "query": "Best budget for interlocking paver installation",
+    "relevants": [
+      {
+        "relevant_doc": 1266,
+        "relevant_url": "http://homewyse.com/services/cost_to_install_interlocking_pavers.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1266,
+        "title": "Cost to Install Interlocking Pavers",
+        "url": "http://homewyse.com/services/cost_to_install_interlocking_pavers.html",
+        "combined_text": "Cost to Install Interlocking Pavers Cost to Install Interlocking Pavers Updated: March 2018Interlocking Paver Installation Calculator Zip Code Square Feet*Item details Qty Low High Interlocking Pavers Cost Non-discounted retail pricing for: 6\"x12\" interlocking pavers in basic color options. Unsealed. 3cm thick. Sand base. Quantity inc",
+        "distance": 0.2880082130432129
+      },
+      {
+        "id": 1626,
+        "title": "How Much Does Driveway Paving Cost?",
+        "url": "http://www.improvenet.com/r/costs-and-prices/driveway-pavers",
+        "combined_text": "How Much Does Driveway Paving Cost? Your driveway can make a statement and increase the value of your home. To accomplish both, consider installing driveway pavers. Made from concrete, stone or other materials, driveway pavers come in a wide range of colors, shapes, styles and designs. Luckily, the average pavers driveway cost is rela",
+        "distance": 0.5914278626441956
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-6343453456533214983": {
+    "query_id": "-6343453456533214983",
+    "query": "Steps to start a career in health psychology",
+    "relevants": [
+      {
+        "relevant_doc": 1362,
+        "relevant_url": "http://careersinpsychology.org/becoming-a-health-psychologist/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1073,
+        "title": "About First Steps",
+        "url": "https://secure.in.gov/fssa/ddrs/4685.htm",
+        "combined_text": "About First Steps First Steps Home About First Steps About First Steps Mission To ensure that all Indiana families with infants and toddlers experiencing developmental delays or disabilities have access to early intervention services. Vision All infants and toddlers have the right to live, love, play, learn, and part",
+        "distance": 0.5280959606170654
+      },
+      {
+        "id": 2832,
+        "title": "Five steps to mental wellbeing",
+        "url": "http://www.nhs.uk/Conditions/stress-anxiety-depression/Pages/improve-mental-wellbeing.aspx",
+        "combined_text": "Five steps to mental wellbeing Evidence suggests there are five steps we can all take to improve our mental wellbeing. If you give them a try, you may feel happier, more positive and able to get the most from life. What is mental wellbeing? Sarah Stewart-Brown, professor of public health at the University of Warwick and a wellbei",
+        "distance": 0.5636367201805115
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4476587077067433099": {
+    "query_id": "-4476587077067433099",
+    "query": "Best tea",
+    "relevants": [
+      {
+        "relevant_doc": 1434,
+        "relevant_url": "http://www.bestproducts.com/eats/drinks/g208/best-herbal-and-black-teas/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1750,
+        "title": "How to Drink Tea to Lose Weight",
+        "url": "http://www.wikihow.com/Drink-Tea-to-Lose-Weight",
+        "combined_text": "How to Drink Tea to Lose Weight 1 Choose a tea based on its effectiveness and your personal preferences. It is best to have a tea your enjoy drinking, but you should know that certain teas are considered more effective for weight loss than others. [1]Most effective: Green, white, or oolong Moderately effective: black Less effectiv",
+        "distance": 0.34129005670547485
+      },
+      {
+        "id": 2242,
+        "title": "Tea Technique: How to Steep Black Teas",
+        "url": "http://drinks.seriouseats.com/2011/05/tea-technique-how-to-brew-black-tea.html",
+        "combined_text": "Tea Technique: How to Steep Black Teas Drinks Tea Tea Technique: How to Steep Black Teas Liz Clayton Profile Contact9 Printer-Friendly Version [Photograph: Liz Clayton]The black teas of your distant memory may reside somewhere near the fond mental lobes that contain grandmothers, mothballs, and orange-infused-blends of tinned tea joined",
+        "distance": 0.3634513020515442
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-5572921278081066874": {
+    "query_id": "-5572921278081066874",
+    "query": "Soil healthy",
+    "relevants": [
+      {
+        "relevant_doc": 1436,
+        "relevant_url": "https://www.thespruce.com/healthy-soil-and-how-to-make-it-2539853"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 80,
+        "title": "Good Soil Means Good Vegetables",
+        "url": "https://bonnieplants.com/library/good-soil-means-good-vegetables/",
+        "combined_text": "Good Soil Means Good Vegetables Good Soil Means Good Vegetables Rich soil takes time to build, so be patient. Vegetables need good soil. If the soil is hard, rocky, soggy, or nutrient-poor, the vegetables will be, too. In rich, soft soil, roots grow deeply and soak up nutrients for healthy, productive plants. Here is how to prepar",
+        "distance": 0.31635841727256775
+      },
+      {
+        "id": 1436,
+        "title": "Healthy Soil and How to Make It",
+        "url": "https://www.thespruce.com/healthy-soil-and-how-to-make-it-2539853",
+        "combined_text": "Healthy Soil and How to Make It Gardening Basics Healthy Soil and How to Make It A Crash Course in Soil Maintenance By Colleen Vanderlinden Updated 11/08/17Share Pin Email Southern Stock/Stockbyte/Getty Images Whether you are growing flowers, herbs, vegetables, a lawn, or a shrub border, healthy soil is an absolute must. Your plan",
+        "distance": 0.35034042596817017
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  }
+}

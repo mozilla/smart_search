@@ -1,0 +1,2802 @@
+{
+  "8981391801936991478": {
+    "query_id": "8981391801936991478",
+    "query": "claim son as dependent if files own return",
+    "relevants": [
+      {
+        "relevant_doc": 1247,
+        "relevant_url": "http://blog.oregonlive.com/taxes/2011/02/post_210.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1247,
+        "title": "Can I claim my son even if he files his own return?",
+        "url": "http://blog.oregonlive.com/taxes/2011/02/post_210.html",
+        "combined_text": "Can I claim my son even if he files his own return? \"Question from Rick February 3, 2011 at 7:45pm Richard,Can I claim my son as a dependent on my tax return if he files a return himself? His income: $ 3,500, Age 19, Full Timecollege student living at home. He iscurrently ding his taxes claim himself as an exemption. I understood that if he claimed h",
+        "distance": 0.29848870635032654
+      },
+      {
+        "id": 210,
+        "title": "Can I Claim My Adult Child as a Deduction?",
+        "url": "https://finance.zacks.com/can-claim-adult-child-deduction-1085.html",
+        "combined_text": "Can I Claim My Adult Child as a Deduction? \"Claiming an adult child as a dependent is harder, but not impossible. More Articles1. Can Graduate Students Still Be Claimed as Dependents on a Tax Return?2. Can I Claim My College Age Child on My Tax Return?3. What Is the Amount a Working Child Can Make to Be Used as a Parent's Deduction? As your",
+        "distance": 0.4687153995037079
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-5468867360698250620": {
+    "query_id": "-5468867360698250620",
+    "query": "charles dyson cornell donor profile",
+    "relevants": [
+      {
+        "relevant_doc": 333,
+        "relevant_url": "http://ezramagazine.cornell.edu/FALL10/WorthSupporting1.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 333,
+        "title": "Charles Dyson: Financier, philanthropist",
+        "url": "http://ezramagazine.cornell.edu/FALL10/WorthSupporting1.html",
+        "combined_text": "Charles Dyson: Financier, philanthropist \"WORTH SUPPORTINGCharles Dyson: Financier, philanthropist Charles Dyson at his desk at Dyson-Kissner-Moran Corp., about 1994. See larger imageby Emily Sanders Hopkins This spring, Cornell announced that its undergraduate business school would be named for Charles Dyson in honor of a $25 million gift",
+        "distance": 0.27076977491378784
+      },
+      {
+        "id": 107,
+        "title": "What many donors don't know: Their blood is sold",
+        "url": "http://newsok.com/article/4985779",
+        "combined_text": "What many donors don't know: Their blood is sold What many donors don't know: Their blood is soldby Jennifer Palmer Published: July 5, 2014 12:00 AM CDT Updated: July 5, 2014 10:00 PM CDT0shares Advertisement A blood donation in progress. The Oklahoman Archives Close to half a million dollars worth of donated blood is at the heart of a lawsuit bet",
+        "distance": 0.790746808052063
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "1040538016633283296": {
+    "query_id": "1040538016633283296",
+    "query": "email big attachments via google drive",
+    "relevants": [
+      {
+        "relevant_doc": 938,
+        "relevant_url": "https://www.backupify.com/blog/how-to-use-google-drive-to-email-large-files"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 938,
+        "title": "How to Use Google Drive to Share Large Files",
+        "url": "https://www.backupify.com/blog/how-to-use-google-drive-to-email-large-files",
+        "combined_text": "How to Use Google Drive to Share Large Files How to Use Google Drive to Share Large Files You finally completed the Power Point presentation for the upcoming meeting. It’s filled with compelling images. You send it to your client… only to get a “rejected message” notice. The file is too big. Their email servers won’t accept it. Many email prov",
+        "distance": 0.3431091904640198
+      },
+      {
+        "id": 1019,
+        "title": "Google Drive",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs",
+        "combined_text": "Google Drive Editors' Choice Google Drive Google LLC Productivity Everyone2,574,471Offers in-app purchases Add to Wishlist Install Google Drive is a safe place for all your files and puts them within reach from any smartphone, tablet, or computer. Files in Drive – like your videos, photos, and documents – are ba",
+        "distance": 0.45466843247413635
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-395531014179083412": {
+    "query_id": "-395531014179083412",
+    "query": "standard boxing round time men women",
+    "relevants": [
+      {
+        "relevant_doc": 413,
+        "relevant_url": "http://www.answers.com/Q/How_long_is_a_round_in_boxing"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 413,
+        "title": "How long is a round in boxing?",
+        "url": "http://www.answers.com/Q/How_long_is_a_round_in_boxing",
+        "combined_text": "How long is a round in boxing? \"Answers.com ® Wiki Answers ® Categories Jobs & Education Education School Subjects How long is a round in boxing? Flag How long is a round in boxing? Answer by Isadora Duncan Confidence votes 67.2KThe length of a professional boxing round for men is 3 mins and women are 2 mins. The length of an ama",
+        "distance": 0.3821622431278229
+      },
+      {
+        "id": 479,
+        "title": "How to Become a Boxing Promoter",
+        "url": "https://www.wikihow.com/Become-a-Boxing-Promoter",
+        "combined_text": "How to Become a Boxing Promoter Reader Approved How to Become a Boxing Promoter Three Methods: Applying for a Promoters License Getting Ready for Your First Match Hosting the Match Community Q&ABoxing promoters are responsible for organizing and marketing a boxing match. Becoming a boxing promoter is a complicated and often expens",
+        "distance": 0.6617790460586548
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8113224767958120493": {
+    "query_id": "8113224767958120493",
+    "query": "alabama local sales tax rates by city",
+    "relevants": [
+      {
+        "relevant_doc": 1207,
+        "relevant_url": "http://www.revenue.alabama.gov/salestax/sales/index.cfm?Action=City"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1207,
+        "title": "Sales and Use Tax Rates",
+        "url": "http://www.revenue.alabama.gov/salestax/sales/index.cfm?Action=City",
+        "combined_text": "Sales and Use Tax Rates Sales and Use Tax Rates Sales and Use Tax Rates vary across cities and counties in addition to what is taxed by the State. View a comprehensive list of state tax rates. View City and County Code Explanations. Tax Rate Reports State Administered Local Tax Rate Schedule Monthly Tax Rates Report Monthl",
+        "distance": 0.3588452935218811
+      },
+      {
+        "id": 764,
+        "title": "Property Tax Rates",
+        "url": "https://www1.nyc.gov/site/finance/taxes/property-tax-rates.page",
+        "combined_text": "Property Tax Rates Property Tax Rates Your property tax rate is based on your tax class. There are four tax classes. The tax rates are listed below. Learn how to Calculate Your Annual Property Tax. Property Tax Rates for Tax Year 2017/2018Class 1 - 20.385%Class 2 - 12.719%Class 3 - 11.891%Class 4 - 10.514%Archived Pro",
+        "distance": 0.5452886819839478
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-2102770037358205244": {
+    "query_id": "-2102770037358205244",
+    "query": "north carolina child support rules",
+    "relevants": [
+      {
+        "relevant_doc": 926,
+        "relevant_url": "http://www.womenslaw.org/laws_state_type.php?id=14678&state_code=NC&open_id=14693"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 926,
+        "title": "Child Support",
+        "url": "http://www.womenslaw.org/laws_state_type.php?id=14678&state_code=NC&open_id=14693",
+        "combined_text": "Child Support Child Support Print this page Basic information The court process Child support payments How does the court decide what amount the child support should be? When are child support payments due? How long are child support payments made? Until my child reaches what age? Can I get a retroactive child su",
+        "distance": 0.43012794852256775
+      },
+      {
+        "id": 496,
+        "title": "Dubuque County Child Support Office",
+        "url": "http://www.countyoffice.org/ia-dubuque-county-child-support-offices/",
+        "combined_text": "Dubuque County Child Support Office Dubuque County Child Support Office Home Social Services Offices Child Support Offices Iowa Dubuque County Find Dubuque County Iowa child support offices, agency, enforcement, or division of child supportive services. Child support offices provide information on child support and custody laws, attor",
+        "distance": 0.6027153730392456
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-1782632227954580168": {
+    "query_id": "-1782632227954580168",
+    "query": "buc-ees record-setting car wash katy",
+    "relevants": [
+      {
+        "relevant_doc": 247,
+        "relevant_url": "https://www.chron.com/neighborhood/katy/business/article/Buc-ee-s-has-major-car-wash-plans-at-upcoming-11070674.php"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 247,
+        "title": "Buc-eeâs plans worldâs longest car wash for Katy location",
+        "url": "https://www.chron.com/neighborhood/katy/business/article/Buc-ee-s-has-major-car-wash-plans-at-upcoming-11070674.php",
+        "combined_text": "Buc-eeâs plans worldâs longest car wash for Katy location \"Buc-ee’s plans world’s longest car wash for Katy location By Craig Hlavaty Updated 10:11 am, Friday, April 14, 2017After mastering the art of the mega-sized convenience store, the people at Buc-ee's are apparently going after the world record for the world's longest car wash. According to Jeff Nada",
+        "distance": 0.3051531910896301
+      },
+      {
+        "id": 716,
+        "title": "Audi Burlingame",
+        "url": "https://www.autotrader.com/car-dealers/Burlingame+CA/595911/Audi+Burlingame",
+        "combined_text": "Audi Burlingame Audi Burlingame1010 Cadillac Way Burlingame , CA 94010650-348-0111Email this dealer Get directions Inventory About this Dealership Featured Inventory The car images are stock photos and are not exact representations of the vehicles offered for sale. Used See all inventory Audi Q56 Available Audi A42",
+        "distance": 0.7882118225097656
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-1078133620011343330": {
+    "query_id": "-1078133620011343330",
+    "query": "how to improve customer support with social media",
+    "relevants": [
+      {
+        "relevant_doc": 477,
+        "relevant_url": "https://www.socialmediaexaminer.com/4-steps-social-crm-strategy/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 477,
+        "title": "4 Steps to Implementing a Social CRM Strategy",
+        "url": "https://www.socialmediaexaminer.com/4-steps-social-crm-strategy/",
+        "combined_text": "4 Steps to Implementing a Social CRM Strategy 4 Steps to Implementing a Social CRM Strategy By Marcela De Vivo August 7, 2014Share628 Tweet2K Share440 Pin 30 Buffer3KAre you using social media to improve your customer service? Is your current Customer Relationship Management process inefficient? A fine-tuned social customer service strategy inc",
+        "distance": 0.46893802285194397
+      },
+      {
+        "id": 391,
+        "title": "Get your questions answered, or simply get in touch",
+        "url": "https://www.avg.com/contacts",
+        "combined_text": "Get your questions answered, or simply get in touch Technical Support Get help with product downloads, installation, uninstallation, upgrades, virus removal, etc. Contact our Customer Care Sales Support Get help with purchases, licenses, subscriptions, billing, refunds, etc. Contact our Sales Support Resellers Find or contact an official AVG distribu",
+        "distance": 0.6079263091087341
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-2219160266582654073": {
+    "query_id": "-2219160266582654073",
+    "query": "who worked aboard the titanic",
+    "relevants": [
+      {
+        "relevant_doc": 298,
+        "relevant_url": "https://www.historyonthenet.com/the-titanic-crew/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 298,
+        "title": "The Titanic â Crew",
+        "url": "https://www.historyonthenet.com/the-titanic-crew/",
+        "combined_text": "The Titanic â Crew The Titanic – Crew The Titanic In all, the crew of the Titanic comprised some 885 people: Deck Crew – Officers, Masters at arms, Storemasters and able bodied seamen. Engineering Department – Engineers, Boilermen, Firemen and Electricians. Victualling Department – Stewards and Galley staff. Restauran",
+        "distance": 0.3409874737262726
+      },
+      {
+        "id": 888,
+        "title": "Tom Cruise",
+        "url": "http://www.imdb.com/name/nm0000129/",
+        "combined_text": "Tom Cruise \"Top 500Tom Cruise Actor | Producer | Soundtrack In 1976, if you had told fourteen year-old Franciscan seminary student Thomas Cruise Mapother IV that one day in the not too distant future he would be Tom Cruise, one of the top 100 movie stars of all time, he would have probably grinned and told you",
+        "distance": 0.7571269273757935
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "1576157534380373514": {
+    "query_id": "1576157534380373514",
+    "query": "movie about journalist remembering Kobe quake",
+    "relevants": [
+      {
+        "relevant_doc": 423,
+        "relevant_url": "http://www.imdb.com/title/tt0120101/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 423,
+        "title": "Moonlight Serenade  ( 1997)",
+        "url": "http://www.imdb.com/title/tt0120101/",
+        "combined_text": "Moonlight Serenade  ( 1997) \"FULL CAST AND CREW | TRIVIA | USER REVIEWS | IMDb Pro | MORESHARE7.0/ 1076Rate This Moonlight Serenade ( 1997)Setouchi munraito serenade (original title)1h 50min | Drama | 15 March 1997 (Japan)Opens with a journalist reporting on the 1997 Kobe earthquake, as he remembers a trip made as a young boy.",
+        "distance": 0.7170866131782532
+      },
+      {
+        "id": 431,
+        "title": "The Smiling Man â Mystery of Creepy Unidentified Man in Seattle",
+        "url": "https://aisjournal.com/2013/07/25/the-smiling-man-mystery-of-creepy-unidentified-man-in-seattle/",
+        "combined_text": "The Smiling Man â Mystery of Creepy Unidentified Man in Seattle There are many stories that happen every now and then in this world. Only a very few of them are captured on camera, featured on news, or written by some writer in an attempt to keep the story from being lost forever. Courtesy: Creepypasta. Such is a story named The Smiling Man. It’s not based on a",
+        "distance": 0.7921281456947327
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "2226462209589641345": {
+    "query_id": "2226462209589641345",
+    "query": "timeline of bed bug infestation",
+    "relevants": [
+      {
+        "relevant_doc": 672,
+        "relevant_url": "http://www.colonialpest.com/how-long-does-it-take-for-a-bed-bug-infestation-to-develop/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 672,
+        "title": "How Long Does It Take For A Bed Bug Infestation To Develop?",
+        "url": "http://www.colonialpest.com/how-long-does-it-take-for-a-bed-bug-infestation-to-develop/",
+        "combined_text": "How Long Does It Take For A Bed Bug Infestation To Develop? How Long Does It Take For A Bed Bug Infestation To Develop? By Chris Williams on February 6, 2012. I was recently sent to a job to inspect for Bed Bugs . Previous tenants had been treated for bed bugs and have moved out. Management wanted to know two things: How long has the unit been infested, and",
+        "distance": 0.19267043471336365
+      },
+      {
+        "id": 744,
+        "title": "How to treat bed bugs in electronics",
+        "url": "http://www.bedbugsupply.com/blog/treatments/treat-bed-bugs-electronics",
+        "combined_text": "How to treat bed bugs in electronics \"How to treat bed bugs in electronics MM Novato Bed bugs can hide just about anywhere. They’re small and flat enough to fit anywhere a credit card can fit, which doesn’t leave out much. That means that almost any crack or crevice in your home could be a harborage area for bed bugs to hide in. Many o",
+        "distance": 0.44694140553474426
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "5999701550496687616": {
+    "query_id": "5999701550496687616",
+    "query": "lin-manuel miranda life and career",
+    "relevants": [
+      {
+        "relevant_doc": 433,
+        "relevant_url": "https://www.biography.com/people/lin-manuel-miranda-041416"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 433,
+        "title": "Lin-Manuel Miranda Biography",
+        "url": "https://www.biography.com/people/lin-manuel-miranda-041416",
+        "combined_text": "Lin-Manuel Miranda Biography \"Quick Facts Name Lin-Manuel Miranda Occupation Playwright, Theater Actor, Songwriter Birth Date January 16, 1980 (age 38)Education Wesleyan University, Hunter College High School Place of Birth New York, New York Zodiac Sign Capricorn Cite This Page IN THESE GROUPSHispanic Musicians and Singers Fam",
+        "distance": 0.3971883952617645
+      },
+      {
+        "id": 898,
+        "title": "Juan Manuel Santos - Facts",
+        "url": "https://www.nobelprize.org/nobel_prizes/peace/laureates/2016/santos-facts.html",
+        "combined_text": "Juan Manuel Santos - Facts \"The Nobel Peace Prize 2016 Juan Manuel Santos Share this: Juan Manuel Santos - Facts Photo: Mads Nissen/Politiken Juan Manuel Santos Born: 10 August 1951, Bogotá, Colombia Prize motivation: \"\"for his resolute efforts to bring the country's more than 50-year-long civil war to an end\"\"Role: President",
+        "distance": 0.7364677786827087
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7443781867287396501": {
+    "query_id": "7443781867287396501",
+    "query": "what employers should know about gen z",
+    "relevants": [
+      {
+        "relevant_doc": 65,
+        "relevant_url": "https://smallbiztrends.com/2015/09/generation-z.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 65,
+        "title": "6 Things You Need to Know About Generation Z",
+        "url": "https://smallbiztrends.com/2015/09/generation-z.html",
+        "combined_text": "6 Things You Need to Know About Generation Z 6 Things You Need to Know About Generation ZLast Updated: Nov 1, 2017 by Rieva Lesonsky In Employment 3401Shares| 241 68 12 Print This Article87 3 Email this Article Staffing As a proud Baby Boomer, I know all too well that lumping people into categories based on their age and the year they were bor",
+        "distance": 0.5146163105964661
+      },
+      {
+        "id": 930,
+        "title": "A to Z of Employability",
+        "url": "http://www.oakconsult.co.uk/a-to-z-of-employability/",
+        "combined_text": "A to Z of Employability A to Z of Employability28 Feb, 2013 in Business Skills / Employability / Personal Development tagged Attitude / Behaviour / Digital Literacy / Numeracy / Teamwork by markconwayuk I often get asked by teachers, lecturers and students what are the key skills and qualities that businesses are looking f",
+        "distance": 0.7151042222976685
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "4263565385421635779": {
+    "query_id": "4263565385421635779",
+    "query": "sprinkler installation price per square foot",
+    "relevants": [
+      {
+        "relevant_doc": 44,
+        "relevant_url": "http://costowl.com/b2b/security-fire-sprinkler-system.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 44,
+        "title": "How Much Does a Fire Sprinkler System Cost?",
+        "url": "http://costowl.com/b2b/security-fire-sprinkler-system.html",
+        "combined_text": "How Much Does a Fire Sprinkler System Cost? Home > B2B > Security > Fire Sprinkler System Cost How Much Does a Fire Sprinkler System Cost? Get Free Fire Sprinkler System Price Quotes Summary: Fire Sprinkler System Prices On average, a new system in new contruction will cost $1 to $2 per square foot. Retrofitting a sprinkler system in an exist",
+        "distance": 0.3204593062400818
+      },
+      {
+        "id": 650,
+        "title": "How Much Does It Cost To Install A Water Fountain?",
+        "url": "http://www.homeadvisor.com/cost/landscape/install-a-water-fountain/",
+        "combined_text": "How Much Does It Cost To Install A Water Fountain? If you have always wanted a fountain to enhance your lawn and gardens, but are worried about the price, don't! A fountain can be built at a reasonable cost, has very little upkeep, recycles the water that runs through it, and can add value to your home. Here are a few factors that can influence the",
+        "distance": 0.6155694723129272
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "4418105734705711409": {
+    "query_id": "4418105734705711409",
+    "query": "mid-level intellectual property attorney salary",
+    "relevants": [
+      {
+        "relevant_doc": 239,
+        "relevant_url": "http://www1.salary.com/Intellectual-Property-Attorney-II-salary.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 147,
+        "title": "What Happens to Your File When You Change Attorneys?",
+        "url": "http://research.lawyers.com/what-happens-to-your-file-when-you-change-attorneys.html",
+        "combined_text": "What Happens to Your File When You Change Attorneys? \"What Happens to Your File When You Change Attorneys? By Brian Farkas, Attorney Lawyers .com Free Case Evaluation Please answer a few questions to help us match you with attorneys in your area. Select a Practice Area--Select a practice area--Airplane Business Transactions Asbestos Asylum Auto Accide",
+        "distance": 0.6246212124824524
+      },
+      {
+        "id": 239,
+        "title": "Intellectual Property Attorney II Salaries",
+        "url": "http://www1.salary.com/Intellectual-Property-Attorney-II-salary.html",
+        "combined_text": "Intellectual Property Attorney II Salaries COMPANALYST DRIVES ENTERPRISE SUCCESSLearn how best-in-class companies use Comp Analyst to create new,personalized talent management experiences for their employees. Explore Comp Analyst Salary Salary + Bonus Benefitsview as table50% (Median)$161,92210%$128,96725%$144,67275%$176,30290%$189,394Relate",
+        "distance": 0.6284353137016296
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "4604975483946090270": {
+    "query_id": "4604975483946090270",
+    "query": "shop designer eyeglass frames by brand",
+    "relevants": [
+      {
+        "relevant_doc": 363,
+        "relevant_url": "https://www.simplyeyeglasses.com/eyeglasses-sunglasses/frames-brands.php?product=Eyeglasses"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 363,
+        "title": "Browse For Eyeglasses By Brand",
+        "url": "https://www.simplyeyeglasses.com/eyeglasses-sunglasses/frames-brands.php?product=Eyeglasses",
+        "combined_text": "Browse For Eyeglasses By Brand Browse For Eyeglasses By Brand Buy new designer eyewear from a leading online source. All designer frames are always new, authentic products, no imitations or seconds. Also, we provide name brand prescription lenses. A B C D E F G H I J K L M N O PQ R S T U V W X Y Z33MAAdensco Adidas Adrienne Vitta",
+        "distance": 0.36891138553619385
+      },
+      {
+        "id": 546,
+        "title": "PSST, HEY, YOU  (YEAH, YOU)",
+        "url": "https://www.madewell.com/",
+        "combined_text": "PSST, HEY, YOU  (YEAH, YOU) \"NEW SEASON? NEW ARRIVALS (! )It's everything we want to wear right now. Shop Latest & Greatest Easy outfits for weekends, days off, etc. SHOP LOOKS WE LOVEOur favorite retro-sporty brand is back Shop Labels We Love High rise, cutoff hems and Magic Pockets SHOP JUST-IN SHORTSStella is 5'10\"\" and wea",
+        "distance": 0.6314870715141296
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "1353581142229790335": {
+    "query_id": "1353581142229790335",
+    "query": "how adjustable rate mortgages work",
+    "relevants": [
+      {
+        "relevant_doc": 570,
+        "relevant_url": "https://www.hud.gov/program_offices/housing/sfh/ins/203armt"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 134,
+        "title": "What Does Index Rate Mean in Mortgage Loans?",
+        "url": "http://budgeting.thenest.com/index-rate-mean-mortgage-loans-3225.html",
+        "combined_text": "What Does Index Rate Mean in Mortgage Loans? \"An independent, third party index is used in every adjustable rate mortgage. All adjustable rate mortgages (ARMs) have indexes used in calculating future interest rate changes. An index is the \"\"base rate\"\" from which your new interest rate is built at each adjustment period. Ideally, you want an i",
+        "distance": 0.3306354582309723
+      },
+      {
+        "id": 570,
+        "title": "Housing Home About Us Single Family Healthcare Programs Multifamily More HUD Home",
+        "url": "https://www.hud.gov/program_offices/housing/sfh/ins/203armt",
+        "combined_text": "Housing Home About Us Single Family Healthcare Programs Multifamily More HUD Home \"What is an ARM? An ARM is an Adjustable Rate Mortgage. Unlike fixed rate mortgages that have an interest rate that remains the same for the life of the loan, the interest rate on an ARM will change periodically. The initial interest rate of an ARM is lower than that of a fixed rate mortgage, conseq",
+        "distance": 0.36768949031829834
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "1346732722577587265": {
+    "query_id": "1346732722577587265",
+    "query": "jim beam closing cincinnati plant layoffs",
+    "relevants": [
+      {
+        "relevant_doc": 490,
+        "relevant_url": "http://www.bizjournals.com/dayton/news/2011/09/01/jim-beam-to-shutter-cincinnati-plant.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 490,
+        "title": "Jim Beam to shutter Cincinnati plant, cut 159 jobs",
+        "url": "http://www.bizjournals.com/dayton/news/2011/09/01/jim-beam-to-shutter-cincinnati-plant.html",
+        "combined_text": "Jim Beam to shutter Cincinnati plant, cut 159 jobs Food & Lifestyle Jim Beam to shutter Cincinnati plant, cut 159 jobs Email Share Share Tweet Save Print Order Reprints Enlarge Jim Beam is cutting 159 jobs in Cincinnati, where it is closing a plant. In This Article Food & Lifestyle Industry Sep 1, 2011, 9:04am Jim Beam Brands Co. will close its faci",
+        "distance": 0.27022218704223633
+      },
+      {
+        "id": 255,
+        "title": "WC: Cincinnati",
+        "url": "https://www.wilmington.edu/cincinnati/",
+        "combined_text": "WC: Cincinnati WC: Cincinnati Wilmington College Cincinnati helps you finish your degree faster through the highest level of personal attention in a welcoming, professional environment. Our contemporary courses meet the challenging demands of today’s business environment with the integrity of a college that has be",
+        "distance": 0.7108569741249084
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8812225111768394908": {
+    "query_id": "8812225111768394908",
+    "query": "australia cash rate history chart",
+    "relevants": [
+      {
+        "relevant_doc": 240,
+        "relevant_url": "http://www.tradingeconomics.com/australia/interest-rate"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 240,
+        "title": "Australia Interest Rate 1990-2018 | Data | Chart | Calendar | Forecast",
+        "url": "http://www.tradingeconomics.com/australia/interest-rate",
+        "combined_text": "Australia Interest Rate 1990-2018 | Data | Chart | Calendar | Forecast Australia Interest Rate 1990-2018 | Data | Chart | Calendar | Forecast The Reserve Bank of Australia left the cash rate unchanged at a record low of 1.5 percent at its April 2018 meeting, as widely expected. While saying the economy is projected to grow faster in 2018 supported by positive business",
+        "distance": 0.5285645127296448
+      },
+      {
+        "id": 1219,
+        "title": "Historical Canadian Inflation Rates: 1915-2014",
+        "url": "http://canadianinflation.com/historical-canadian-inflation-rates/",
+        "combined_text": "Historical Canadian Inflation Rates: 1915-2014 Historical Canadian Inflation Rates: 1915-2014The following table includes historical Canadian inflation rates by month and year from 1915 to 2014. These inflation rates show the average increase or decrease in the price of selected consumer goods and services and are calculated from the Consumer Pr",
+        "distance": 0.6233160495758057
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-3588231449651460391": {
+    "query_id": "-3588231449651460391",
+    "query": "secure mobile file sharing for businesses",
+    "relevants": [
+      {
+        "relevant_doc": 1143,
+        "relevant_url": "https://www.cloudwards.net/autotask-workplace-soonr-review/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 938,
+        "title": "How to Use Google Drive to Share Large Files",
+        "url": "https://www.backupify.com/blog/how-to-use-google-drive-to-email-large-files",
+        "combined_text": "How to Use Google Drive to Share Large Files How to Use Google Drive to Share Large Files You finally completed the Power Point presentation for the upcoming meeting. It’s filled with compelling images. You send it to your client… only to get a “rejected message” notice. The file is too big. Their email servers won’t accept it. Many email prov",
+        "distance": 0.6003531813621521
+      },
+      {
+        "id": 1143,
+        "title": "Autotask Workplace Review",
+        "url": "https://www.cloudwards.net/autotask-workplace-soonr-review/",
+        "combined_text": "Autotask Workplace Review Autotask Workplace Review Powerful enterprise file sync and share provider for businesses of any size, looking for increased mobility and better security than consumer-grade file sync and share solutions can offer. By Mauricio Prinzlau – Last Updated: 25 Feb'18Plans & Pricing 80% Good Security 90% E",
+        "distance": 0.6095629930496216
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-895155780835576263": {
+    "query_id": "-895155780835576263",
+    "query": "who stopped sutherland springs shooter",
+    "relevants": [
+      {
+        "relevant_doc": 578,
+        "relevant_url": "https://www.ksat.com/news/shooting-sutherland-springs-church-gunfire-mass-shooting-airlife"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 578,
+        "title": "Texas Church Shooting: Sutherland Springs gunman shot 3 times -- twice by citizen",
+        "url": "https://www.ksat.com/news/shooting-sutherland-springs-church-gunfire-mass-shooting-airlife",
+        "combined_text": "Texas Church Shooting: Sutherland Springs gunman shot 3 times -- twice by citizen \"News Texas Church Shooting: Sutherland Springs gunman shot 3 times -- twice by citizen Devin Patrick Kelley, of New Braunfels, has been identified as gunman By Chris Shadrock - Web - News Producer, Van Darden - Managing Editor, Erica Hernandez - Digital Journalist, Max Massey - Video Journalist, Ma",
+        "distance": 0.4542931914329529
+      },
+      {
+        "id": 835,
+        "title": "Clarksdale attorney shot to death; suspect in custody",
+        "url": "http://msbusiness.com/2015/06/clarksdale-attorney-shot-to-death-suspect-in-custody/",
+        "combined_text": "Clarksdale attorney shot to death; suspect in custody Clarksdale attorney shot to death; suspect in custody Posted by: Associated Press in Law & Accounting, NEWS June 29, 2015CLARKSDALE — Police in Clarksdale say a suspect is in custody after an attorney was shot to death in his law office. The shooting happened Friday afternoon. The Clarksdale Press R",
+        "distance": 0.820074737071991
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8108555075683422648": {
+    "query_id": "8108555075683422648",
+    "query": "purpose of the SOAPAction header",
+    "relevants": [
+      {
+        "relevant_doc": 352,
+        "relevant_url": "http://archive.oreilly.com/pub/post/unraveling_the_mystery_of_soap.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 352,
+        "title": "Unraveling the Mystery of SOAPAction",
+        "url": "http://archive.oreilly.com/pub/post/unraveling_the_mystery_of_soap.html",
+        "combined_text": "Unraveling the Mystery of SOAPAction \"Unraveling the Mystery of SOAPActionby Mark Baker The SOAPAction header in SOAP 1.1 has given many developers and implementors fits about understanding its purpose. I suggest that this is because of the two very different ways in which SOAP can be used, and that SOAPAction exists primarily to suppo",
+        "distance": 0.18543477356433868
+      },
+      {
+        "id": 656,
+        "title": "Health",
+        "url": "http://www.ncsl.org/research/health/human-cloning-laws.aspx",
+        "combined_text": "Health \"Health NEW: DRUG POLICY RESOURCE CENTERPrescription drugs are in the spotlight again, as state lawmakers consider measures to affect cost and access. New from NCSL: the Prescription Drug Policy Resource Center provides access to legislative activities, research and news for 2018. Topics include cos",
+        "distance": 0.7703968286514282
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "6024308277382478352": {
+    "query_id": "6024308277382478352",
+    "query": "how to pick a gas grill",
+    "relevants": [
+      {
+        "relevant_doc": 618,
+        "relevant_url": "http://blog.homedepot.com/gas-grill-questions-and-answers/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 618,
+        "title": "Top Five Questions About Buying a Gas Grill",
+        "url": "http://blog.homedepot.com/gas-grill-questions-and-answers/",
+        "combined_text": "Top Five Questions About Buying a Gas Grill Top Five Questions About Buying a Gas Grill Article Posted By: Laura Sullivanof The Home Depot Share article with: Print Email A gas or propane grill can be a big investment. And these days there are so many models and features to consider, it can be hard to know if you’re getting the right grill fo",
+        "distance": 0.369151771068573
+      },
+      {
+        "id": 1162,
+        "title": "What Is Considered Good Gas Mileage?",
+        "url": "http://www.ehow.com/about_5345197_considered-good-gas-mileage.html",
+        "combined_text": "What Is Considered Good Gas Mileage? \"What Is Considered Good Gas Mileage?by Chris Blank Beginning in the 20th century, gas mileage began to be a concern for consumers. Late in the 20th century, fuel conservation became a significant factor for financial and environmental reasons. However, determining good gas mileage depends on a numb",
+        "distance": 0.6771973371505737
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7229476412520484036": {
+    "query_id": "7229476412520484036",
+    "query": "former verizon spokesman joins sprint",
+    "relevants": [
+      {
+        "relevant_doc": 528,
+        "relevant_url": "http://newsroom.sprint.com/news-releases/look-who-switched-to-sprint-from-verizon-the-guy-who-used-to-ask-if-you-could-hear-me-now.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 528,
+        "title": "Look Who Switched to Sprint from Verizon: The Guy Who Used To Ask If You Could Hear Me Now",
+        "url": "http://newsroom.sprint.com/news-releases/look-who-switched-to-sprint-from-verizon-the-guy-who-used-to-ask-if-you-could-hear-me-now.htm",
+        "combined_text": "Look Who Switched to Sprint from Verizon: The Guy Who Used To Ask If You Could Hear Me Now Paul Marcarelli Appears in New Advertising to Promote Sprint’s Improved Network Reliability…and He is a Customer, Too Sprint advertising proclaims: Don’t let a 1% difference in network reliability cost you twice as much; leave your expensive old carrier and save 50% on most national carrier rate pla",
+        "distance": 0.3800939917564392
+      },
+      {
+        "id": 1167,
+        "title": "ExtremeWireless",
+        "url": "http://www.extremenetworks.com/products/wireless/",
+        "combined_text": "ExtremeWireless Extreme Wireless Industry’s First Flow-based 802.11ac Wave 2 Wireless Solution Extreme Wireless offers unparalleled, high density Wi-Fi access. That’s why Extreme Networks has been named “The Official Wi-Fi Provider for the NFL.” It also means we connect your organization with employees, partners an",
+        "distance": 0.7247414588928223
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3563586093732290052": {
+    "query_id": "3563586093732290052",
+    "query": "how kids learn to write",
+    "relevants": [
+      {
+        "relevant_doc": 342,
+        "relevant_url": "http://www.nytimes.com/1982/11/30/science/about-education-how-do-children-learn-to-write.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 342,
+        "title": "ABOUT EDUCATION; HOW DO CHILDREN LEARN TO WRITE?",
+        "url": "http://www.nytimes.com/1982/11/30/science/about-education-how-do-children-learn-to-write.html",
+        "combined_text": "ABOUT EDUCATION; HOW DO CHILDREN LEARN TO WRITE? Archives | 1982ABOUT EDUCATION; HOW DO CHILDREN LEARN TO WRITE? By FRED M. HECHINGERView page in Times Machine, Page 00001 The New York Times Archives MOST children who enter first grade think they already know how to write, and many of them actually do. But many teachers who do not believe this fai",
+        "distance": 0.4335986375808716
+      },
+      {
+        "id": 151,
+        "title": "The Marginal Cost of Kids",
+        "url": "http://lauravanderkam.com/2011/02/the-marginal-cost-of-kids/",
+        "combined_text": "The Marginal Cost of Kids \"The Marginal Cost of Kids February 8, 2011 | 5 comments Everyone knows that kids are expensive. Every year, the US Department of Agriculture publishes some high number, like $222,360, and says this is the cost to raise a child to age 18. This doesn't even include college. No wonder, in the recessio",
+        "distance": 0.5391271710395813
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "5441000809930092144": {
+    "query_id": "5441000809930092144",
+    "query": "access verizon sms from computer",
+    "relevants": [
+      {
+        "relevant_doc": 123,
+        "relevant_url": "http://www.streetarticles.com/mobile-computing/read-text-messages-online-with-verizon"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1008,
+        "title": "\"In texting, what is the meaning of \"\"MHM\"\"?\"",
+        "url": "https://www.quora.com/In-texting-what-is-the-meaning-of-MHM",
+        "combined_text": "\"In texting, what is the meaning of \"\"MHM\"\"?\" \"Texting Abbreviations Text Messaging In texting, what is the meaning of \"\"MHM\"\"?ad by Slack.com Slack: Messaging for teams - sign up for free. Make work better with Slack. Real time messaging, search, archiving & more. Sign Up at slack.com3 Answers Andrew Jones, Marketing Manager at Echno IT Soluti",
+        "distance": 0.64246666431427
+      },
+      {
+        "id": 528,
+        "title": "Look Who Switched to Sprint from Verizon: The Guy Who Used To Ask If You Could Hear Me Now",
+        "url": "http://newsroom.sprint.com/news-releases/look-who-switched-to-sprint-from-verizon-the-guy-who-used-to-ask-if-you-could-hear-me-now.htm",
+        "combined_text": "Look Who Switched to Sprint from Verizon: The Guy Who Used To Ask If You Could Hear Me Now Paul Marcarelli Appears in New Advertising to Promote Sprint’s Improved Network Reliability…and He is a Customer, Too Sprint advertising proclaims: Don’t let a 1% difference in network reliability cost you twice as much; leave your expensive old carrier and save 50% on most national carrier rate pla",
+        "distance": 0.7085559964179993
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "5147354763258127486": {
+    "query_id": "5147354763258127486",
+    "query": "medical coding certification timeline",
+    "relevants": [
+      {
+        "relevant_doc": 514,
+        "relevant_url": "http://differentmedicalcareers.com/long-take-become-medical-coder-answered/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 514,
+        "title": "How Long Does It Take To Become a Medical Coder? (ANSWERED)",
+        "url": "http://differentmedicalcareers.com/long-take-become-medical-coder-answered/",
+        "combined_text": "How Long Does It Take To Become a Medical Coder? (ANSWERED) How Long Does It Take To Become a Medical Coder? (ANSWERED)Ever wonder how long does it take to be a certified medical coder? So did we and looked into the time it takes to become a medical billing and coding specialist. Certified medical coding and billing specialists work on records presented by p",
+        "distance": 0.3524468243122101
+      },
+      {
+        "id": 90,
+        "title": "ASSISTED LIVING",
+        "url": "https://www.aapc.com/medicalcodingglossary/assisted_living.aspx",
+        "combined_text": "ASSISTED LIVING \"Home > Medical Terms for Billing and Coding > ASSISTED LIVINGResources Overview Hot Topics News/Articles Events AAPC Publications Coding Help Coding Forums What is Medical Coding? What is Medical Reimbursement? What is Medical Billing? What is Medical Auditing? Code Sets Medical Terminology Glossar",
+        "distance": 0.4429493248462677
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-6072618753245317822": {
+    "query_id": "-6072618753245317822",
+    "query": "what to do with beet greens",
+    "relevants": [
+      {
+        "relevant_doc": 233,
+        "relevant_url": "http://www.epicurious.com/archive/blogs/editor/2013/08/beet-green-recipes.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 233,
+        "title": "The Epicurious Blog",
+        "url": "http://www.epicurious.com/archive/blogs/editor/2013/08/beet-green-recipes.html",
+        "combined_text": "The Epicurious Blog \"The Epicurious Blogshare Facebook Tweet pinit googleplus emailprint Eat Your Beet Greens!by Kemp Minifieon 08/28/13 at 11:00 AM\"\"What happened to the beet greens?\"\" I cried to the produce clerk. I adore beet greens, even more than the big red root, so I always look for beets with the bushiest tops.",
+        "distance": 0.3182216286659241
+      },
+      {
+        "id": 329,
+        "title": "Everything You Need To Learn How To Cook Vegetables",
+        "url": "http://www.vegancoach.com/how-to-cook-vegetables.html",
+        "combined_text": "Everything You Need To Learn How To Cook Vegetables \"Home > How To Cook Vegetables Everything You Need To Learn How To Cook Vegetables By Patty Knutson Learn how to cook vegetables. First we'll have a chat about which ones to buy organic, how much to eat, and whether they should be raw or cooked. Then, it's time to visit our complete Veggie Guide. Le",
+        "distance": 0.6822617053985596
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "6587186373490563276": {
+    "query_id": "6587186373490563276",
+    "query": "maritz payment methods for mystery shoppers",
+    "relevants": [
+      {
+        "relevant_doc": 532,
+        "relevant_url": "https://www.mysteryshopforum.com/read/6/315559"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 532,
+        "title": "How does Maritz pay?",
+        "url": "https://www.mysteryshopforum.com/read/6/315559",
+        "combined_text": "How does Maritz pay? \"ceasesmith 1k 4y April 03, 2014 01:08PMI think I saw it somewhere, but I cannot find it in their FAQ's. Does Maritz pay by check, paypal, or what, exactly? I found the part where they say you have to submit an invoice (and how to do it), and that they pay around the 15th and 30th....but not specifi",
+        "distance": 0.5264242887496948
+      },
+      {
+        "id": 119,
+        "title": "About Payment Methods",
+        "url": "https://www.paypal.com/webapps/mpp/popup/about-payment-methods",
+        "combined_text": "About Payment Methods \"About Payment Methods Pay Pal allows you to make payments using a variety of methods including: Pay Pal balance, bank account, Pay Pal branded debit and credit cards, Pay Pal Credit, debit card, and credit card. Because your protection against undelivered or defective goods will vary with each meth",
+        "distance": 0.7084298729896545
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "6211288205187415525": {
+    "query_id": "6211288205187415525",
+    "query": "officers filmed looting during baltimore unrest",
+    "relevants": [
+      {
+        "relevant_doc": 584,
+        "relevant_url": "https://www.cbsnews.com/news/baltimore-corrections-officers-accused-of-looting-during-riots/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 584,
+        "title": "Baltimore corrections officers accused of looting during riots",
+        "url": "https://www.cbsnews.com/news/baltimore-corrections-officers-accused-of-looting-during-riots/",
+        "combined_text": "Baltimore corrections officers accused of looting during riots \"By Crimesider Staff CBS/AP May 14, 2015, 1:19 PMBaltimore corrections officers accused of looting during riots Share Tweet Reddit Flipboard Email Last Updated May 15, 2015 1:35 PM EDTBALTIMORE -- Two Baltimore corrections officers were allegedly caught on camera looting a 7-Eleven store during last",
+        "distance": 0.4882708787918091
+      },
+      {
+        "id": 1057,
+        "title": "Advanced Imaging Partners, Inc. (Branch Location)Baltimore - Doctors",
+        "url": "http://listings.findthecompany.com/l/11022977/Advanced-Imaging-Partners-Inc",
+        "combined_text": "Advanced Imaging Partners, Inc. (Branch Location)Baltimore - Doctors \"See all Companies Guide Share Advanced Imaging Partners, Inc. (Branch Location)Baltimore - Doctors Phone Number: (410) 918-3150Address:1576 Merritt Blvd Baltimore, Maryland 21222-2132United Stateswebsite:http://www.advancedradiology.com Advanced Imaging Partners, Inc. is a mature organization in th",
+        "distance": 0.6823822259902954
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-7811104459153679278": {
+    "query_id": "-7811104459153679278",
+    "query": "balance bikes for babies and kids",
+    "relevants": [
+      {
+        "relevant_doc": 101,
+        "relevant_url": "https://www.striderbikes.com/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 151,
+        "title": "The Marginal Cost of Kids",
+        "url": "http://lauravanderkam.com/2011/02/the-marginal-cost-of-kids/",
+        "combined_text": "The Marginal Cost of Kids \"The Marginal Cost of Kids February 8, 2011 | 5 comments Everyone knows that kids are expensive. Every year, the US Department of Agriculture publishes some high number, like $222,360, and says this is the cost to raise a child to age 18. This doesn't even include college. No wonder, in the recessio",
+        "distance": 0.6253678202629089
+      },
+      {
+        "id": 926,
+        "title": "Child Support",
+        "url": "http://www.womenslaw.org/laws_state_type.php?id=14678&state_code=NC&open_id=14693",
+        "combined_text": "Child Support Child Support Print this page Basic information The court process Child support payments How does the court decide what amount the child support should be? When are child support payments due? How long are child support payments made? Until my child reaches what age? Can I get a retroactive child su",
+        "distance": 0.7032185196876526
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8929280846949207872": {
+    "query_id": "8929280846949207872",
+    "query": "meaning of gray market stocks",
+    "relevants": [
+      {
+        "relevant_doc": 1250,
+        "relevant_url": "https://www.investopedia.com/terms/g/graymarket.asp"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1250,
+        "title": "What is a 'Gray Market'",
+        "url": "https://www.investopedia.com/terms/g/graymarket.asp",
+        "combined_text": "What is a 'Gray Market' What is a 'Gray Market'A gray market is an unofficial market where securities are traded. Gray (or “grey”) market trading generally occurs when a stock that has been suspended trades off-market, or when new securities are bought and sold before official trading begins. The gray market enables the is",
+        "distance": 0.1753036081790924
+      },
+      {
+        "id": 582,
+        "title": "Using Limit Orders When Buying or Selling Stocks",
+        "url": "https://www.thebalance.com/using-limit-orders-when-buying-or-selling-stocks-3140523",
+        "combined_text": "Using Limit Orders When Buying or Selling Stocks Stocks Active Stock Trading Using Limit Orders When Buying or Selling Stocks Orders Give You Some Control of Trading Outcome Share Flip Pin Email By Ken Little Updated September 09, 2016There are many tools you can use when investing in the stock market to help you make a profit or reduce a loss. Th",
+        "distance": 0.5504766702651978
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "1017138159510958546": {
+    "query_id": "1017138159510958546",
+    "query": "pensacola florida demographics and real estate",
+    "relevants": [
+      {
+        "relevant_doc": 724,
+        "relevant_url": "http://www.bestplaces.net/city/florida/pensacola"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 724,
+        "title": "Pensacola, Florida Add Favorite 56 Reviews | Review This Place",
+        "url": "http://www.bestplaces.net/city/florida/pensacola",
+        "combined_text": "Pensacola, Florida Add Favorite 56 Reviews | Review This Place 53,193 Down -8.5% Population40.9%Married Population4.3%Unemployment Rate19.98 minutes Average Commute Time40.6Median Age4.192%30yr fixed mortgage$122,800Median Home Price Real Estate For Sale For Rent Real Estate in Pensacola Rental Homes Most Expensive Listings Million Dollar Homes Median Priced Ho",
+        "distance": 0.4073809087276459
+      },
+      {
+        "id": 693,
+        "title": "Davenport, FloridaDemographics Data",
+        "url": "http://www.towncharts.com/Florida/Demographics/Davenport-city-FL-Demographics-data.html",
+        "combined_text": "Davenport, FloridaDemographics Data \"Davenport, Florida Demographics Data Demographics Population Marriage and Families Mothers and Babies Singles Citizenship Birthplace Housing Economy Education Healthcare Choose Places to Show Choose Single Places Charts Show Davenport Figure 1: Davenport, FL and Area 2015 Population Data Figure 2:",
+        "distance": 0.5773084759712219
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "1914801675119052763": {
+    "query_id": "1914801675119052763",
+    "query": "nursing career options after bachelor's",
+    "relevants": [
+      {
+        "relevant_doc": 128,
+        "relevant_url": "http://learn.org/articles/What_are_the_Career_Options_for_Nursing_School_Graduates_with_a_BSN.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 128,
+        "title": "What Are the Career Options for BSN Graduates?",
+        "url": "http://learn.org/articles/What_are_the_Career_Options_for_Nursing_School_Graduates_with_a_BSN.html",
+        "combined_text": "What Are the Career Options for BSN Graduates? What Are the Career Options for BSN Graduates? Career options for nursing school graduates with a Bachelor of Science in Nursing (BSN) degree are many. Graduates have opportunities to work in specialized fields and with different populations. Schools offering Nursing degrees can also be found in the",
+        "distance": 0.3498191237449646
+      },
+      {
+        "id": 906,
+        "title": "Charge Nurses Job Description",
+        "url": "http://www.jacksonvilleu.com/resources/career/charge-nurse-job-description-salary/",
+        "combined_text": "Charge Nurses Job Description Career Categories Charge nurses combine managerial skills and clinical experience. If you aspire to apply your clinical nursing experience within a leadership role, a charge nurse position may be a perfect fit for you. In addition to caring for patients, a charge nurse assumes some managerial respon",
+        "distance": 0.5271788835525513
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-470747495099992649": {
+    "query_id": "-470747495099992649",
+    "query": "starting a small business in southern pines",
+    "relevants": [
+      {
+        "relevant_doc": 1110,
+        "relevant_url": "http://www.southernpines.net/156/Start-a-Business"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1110,
+        "title": "Start a Business",
+        "url": "http://www.southernpines.net/156/Start-a-Business",
+        "combined_text": "Start a Business Start a Business We're glad you've chosen Southern Pines to establish your business. As you begin this exciting journey, there are a few things you should be familiar with. State & County Resources Your first port-of-call for starting a business anywhere in North Carolina should be the state's Depar",
+        "distance": 0.48873475193977356
+      },
+      {
+        "id": 890,
+        "title": "Business Intelligence Takes to Cloud for Small Businesses",
+        "url": "http://www.cio.com/article/2375744/business-intelligence/business-intelligence-takes-to-cloud-for-small-businesses.html",
+        "combined_text": "Business Intelligence Takes to Cloud for Small Businesses \"Home Software Business Intelligence How-To Business Intelligence Takes to Cloud for Small Businesses Long the purview of deep-pocketed enterprises, business intelligence software is increasingly making its way into small-and medium-sized businesses. These firms credit cloud technology, which tends",
+        "distance": 0.6956632733345032
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-5217773496684415195": {
+    "query_id": "-5217773496684415195",
+    "query": "weekend hours at marion market",
+    "relevants": [
+      {
+        "relevant_doc": 873,
+        "relevant_url": "http://themarketofmarion.com/market-days-2/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 873,
+        "title": "Market Days",
+        "url": "http://themarketofmarion.com/market-days-2/",
+        "combined_text": "Market Days Market Days With more 1,100 booths full of inventory—we have something for everyone! We are open to the public Fridays, Saturdays and Sundays year round. We are open: Saturday and Sunday from 8:00 a.m.to 4:00 p.m. year round. On Fridays our hours are: 8:00 a.m. to 3:00 p.m. We are available for rese",
+        "distance": 0.5566459894180298
+      },
+      {
+        "id": 1040,
+        "title": "Tennessee Tax Free Weekend 2018",
+        "url": "http://www.pigeonforgetnguide.com/shopping/tax-free-weekend-tennessee/",
+        "combined_text": "Tennessee Tax Free Weekend 2018 The 2018 Tax free weekend in Tennessee begins at 12:01 a.m. on Friday, July 27 and ends Sunday, July 29 at 11:59 p.m. During the tax free weekend, numerous items can be purchased without having to pay sales tax. The items include clothing under $100 per item, school supplies under $100 per item, and",
+        "distance": 0.705430269241333
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7976070334649761666": {
+    "query_id": "7976070334649761666",
+    "query": "things to consider before dental school",
+    "relevants": [
+      {
+        "relevant_doc": 51,
+        "relevant_url": "http://crushthedatexam.com/what-you-should-know-besfore-you-become-a-dentist/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 51,
+        "title": "What You Should Know Before You Become A Dentist",
+        "url": "http://crushthedatexam.com/what-you-should-know-besfore-you-become-a-dentist/",
+        "combined_text": "What You Should Know Before You Become A Dentist What You Should Know Before You Become A Dentist Last Updated: April 7, 2018 Kip Nielsen Best DAT Review Courses Comments Being a dentist is a challenging, but rewarding profession. Every profession has its positives and negatives and like any other profession, you should consider both when deciding",
+        "distance": 0.6020581722259521
+      },
+      {
+        "id": 916,
+        "title": "School tuition and costs: a complete guide",
+        "url": "http://www.ourkids.net/private-schools-tuition-costs.php",
+        "combined_text": "School tuition and costs: a complete guide Private Schools School Guide Paying School Tuition School tuition and costs: a complete guide Private school tuition: the what, where, and why of private school costs in Canada Find a list of schools Tuition costs range widely depending on two essential factors: where the school is located and what",
+        "distance": 0.6407392024993896
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-735499055227058151": {
+    "query_id": "-735499055227058151",
+    "query": "how is primitive art defined",
+    "relevants": [
+      {
+        "relevant_doc": 1144,
+        "relevant_url": "http://www.ebay.com/gds/What-is-Primitive-Art-/10000000178726061/g.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1144,
+        "title": "What is Primitive Art?",
+        "url": "http://www.ebay.com/gds/What-is-Primitive-Art-/10000000178726061/g.html",
+        "combined_text": "What is Primitive Art? \"Home Buying Guides Art Paintings What is Primitive Art?e Bay 1 Like Like March 10, 2016Noted art critic G. A. Stevens said primitive art is the \"\"most pure, most sincere form of art there can be.\"\" The term refers to either art made by someone outside of the developed world, someone who mimics a pr",
+        "distance": 0.25676319003105164
+      },
+      {
+        "id": 292,
+        "title": "computer",
+        "url": "http://www.thefreedictionary.com/Computer+Systems",
+        "combined_text": "computer \"computer (redirected from Computer Systems) Also found in: Thesaurus, Medical, Financial, Encyclopedia .com·put·er (kəm-pyo͞o′tər)n.1.a. A device that computes, especially a programmable electronic machine thatperforms high-speed mathematical or logical operations or that assembles, stores,correlat",
+        "distance": 0.7941359877586365
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3553962166604788358": {
+    "query_id": "3553962166604788358",
+    "query": "ways to make your product more valuable",
+    "relevants": [
+      {
+        "relevant_doc": 1032,
+        "relevant_url": "https://www.socialmediatoday.com/content/10-ways-you-can-add-value-your-product-or-service-0"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1032,
+        "title": "10 Ways That You Can Add Value To Your Product Or Service",
+        "url": "https://www.socialmediatoday.com/content/10-ways-you-can-add-value-your-product-or-service-0",
+        "combined_text": "10 Ways That You Can Add Value To Your Product Or Service \"10 Ways That You Can Add Value To Your Product Or Service By Kathleen Steffey • June 8, 2011post share tweet The concept of value-added selling has been a popular one for a number of years. In fact, I have lots of friends who claim that they are the inventors of the concept known as value-added sel",
+        "distance": 0.5949397683143616
+      },
+      {
+        "id": 95,
+        "title": "How to Increase the Value of Your Home",
+        "url": "http://www.wikihow.com/Increase-the-Value-of-Your-Home",
+        "combined_text": "How to Increase the Value of Your Home Edit Article How to Increase the Value of Your Home Five Methods: Improving the Interior Remodeling to Increase Value Improving the Exterior Landscaping Preparing to Sell your House Community Q&AWhen you put your home on the market even the little things can make a big difference. Your home is an in",
+        "distance": 0.7105987071990967
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "5790865710033956734": {
+    "query_id": "5790865710033956734",
+    "query": "meaning of professional behavior",
+    "relevants": [
+      {
+        "relevant_doc": 825,
+        "relevant_url": "http://www.dictionary.com/browse/professionalism"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 377,
+        "title": "Imitation (learning)",
+        "url": "http://psychology.wikia.com/wiki/Imitation_(learning)",
+        "combined_text": "Imitation (learning) \"Assessment | Biopsychology | Comparative | Cognitive | Developmental | Language | Individual differences | Personality | Philosophy | Social | Methods | Statistics | Clinical | Educational | Industrial | Professional items | World psychology |Social psychology: Altruism · Attribution · Attitudes ·",
+        "distance": 0.6163652539253235
+      },
+      {
+        "id": 825,
+        "title": "professionalism",
+        "url": "http://www.dictionary.com/browse/professionalism",
+        "combined_text": "professionalism professionalism [pr uh - fesh - uh -nl-iz- uh m]Spell Syllables Examples Word Origin See more synonyms on Thesaurus.comnoun1. professional character, spirit, or methods.2. the standing, practice, or methods of a professional, as distinguished from an amateur. Origin of professionalism Expand1855-186",
+        "distance": 0.6253147721290588
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4642471638921137502": {
+    "query_id": "-4642471638921137502",
+    "query": "elvis costello song about misbehaving lyrics",
+    "relevants": [
+      {
+        "relevant_doc": 429,
+        "relevant_url": "http://www.metrolyrics.com/lets-misbehave-lyrics-elvis-costello.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 429,
+        "title": "Let's Misbehave Lyrics",
+        "url": "http://www.metrolyrics.com/lets-misbehave-lyrics-elvis-costello.html",
+        "combined_text": "Let's Misbehave Lyrics You could have a great career, And you should; Yes you should. Only one thing stops you dear: You're too good; Way too good!If you want a future, darlin', Why don't you get a past? 'cause that fateful moment's comin' at last... Related Songs That Will Make You Cry Uncontrollably Cardi B's Debut Albu",
+        "distance": 0.7571990489959717
+      },
+      {
+        "id": 1282,
+        "title": "What's the difference between a musician, music composer, and music producer?",
+        "url": "https://www.quora.com/Whats-the-difference-between-a-musician-music-composer-and-music-producer",
+        "combined_text": "What's the difference between a musician, music composer, and music producer? \"Dave Haynie, Musician, music-enthusiast, rock singer, studio rat. Answered Dec 22, 2013 · Author has 3.2k answers and 13.1m answer views The other two answers are good ones, but having done all three, I'll toss in some words of my own. A song starts with a composer. The song has to be conceived and",
+        "distance": 0.7676942348480225
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-1622887625842382466": {
+    "query_id": "-1622887625842382466",
+    "query": "why get 501c3 tax exempt status",
+    "relevants": [
+      {
+        "relevant_doc": 1158,
+        "relevant_url": "http://charitynetusa.com/services/501c3-irs-tax-exempt/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 126,
+        "title": "How to Obtain 501 (c) (3) Tax-Exempt Status for Your Nonprofit",
+        "url": "http://www.nolo.com/legal-encyclopedia/nonprofit-tax-exempt-status-501c3-30124.html",
+        "combined_text": "How to Obtain 501 (c) (3) Tax-Exempt Status for Your Nonprofit \"Even after you've incorporated, obtaining federal tax-exempt status is a critical step in forming a nonprofit organization. Most of the real benefits of being a nonprofit flow from your 501 (c) (3) tax-exempt status, such as the tax-deductibility of donations, access to grant money, and income and",
+        "distance": 0.1740858107805252
+      },
+      {
+        "id": 1158,
+        "title": "What is a 501 (c) (3)?",
+        "url": "http://charitynetusa.com/services/501c3-irs-tax-exempt/",
+        "combined_text": "What is a 501 (c) (3)? What is a 501 (c) (3)? The recognition of your organization as 501c3 tax exempt entity by the Internal Revenue Service (IRS) offers many advantages in helping your organization receive donations. Primarily, having an active 501c3 status allows donors to receive a tax deduction, provides grant fundin",
+        "distance": 0.23572593927383423
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "5761097276078942683": {
+    "query_id": "5761097276078942683",
+    "query": "Trotsky's exile in Mexico review",
+    "relevants": [
+      {
+        "relevant_doc": 1002,
+        "relevant_url": "http://www.telegraph.co.uk/books/what-to-read/trotsky-biography-review/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1002,
+        "title": "Trotsky: the eccentric ladies' man",
+        "url": "http://www.telegraph.co.uk/books/what-to-read/trotsky-biography-review/",
+        "combined_text": "Trotsky: the eccentric ladies' man Trotsky: the eccentric ladies' man Leon Trotsky and his wife arrive in Mexico City, surrounded by plain clothes policemen, in 1940 Credit: Getty Images/Hulton Telegraph Reporters21 August 2015 • 8:25am L eon Trotsky, exiled Bolshevik leader who found asylum in Mexico, died after being struck several",
+        "distance": 0.3475041091442108
+      },
+      {
+        "id": 63,
+        "title": "MexicoIndividual - Taxes on personal income",
+        "url": "http://taxsummaries.pwc.com/uk/taxsummaries/wwts.nsf/ID/Mexico-Individual-Taxes-on-personal-income",
+        "combined_text": "MexicoIndividual - Taxes on personal income Mexico Individual - Taxes on personal income Choose a topic Resident individuals are subject to Mexican income tax on their worldwide income, regardless of their nationality. Non-residents, including Mexican citizens who can prove residence for tax purposes in a foreign country, are taxed only on th",
+        "distance": 0.6525044441223145
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8705373424829699047": {
+    "query_id": "8705373424829699047",
+    "query": "how to find affordable wedding venues",
+    "relevants": [
+      {
+        "relevant_doc": 23,
+        "relevant_url": "https://www.moneycrashers.com/cheap-budget-wedding-venues-ceremony-reception/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 23,
+        "title": "16 Ways to Find Cheap Budget Wedding Venue Ideas for the Ceremony & Reception",
+        "url": "https://www.moneycrashers.com/cheap-budget-wedding-venues-ceremony-reception/",
+        "combined_text": "16 Ways to Find Cheap Budget Wedding Venue Ideas for the Ceremony & Reception 16 Ways to Find Cheap Budget Wedding Venue Ideas for the Ceremony & Reception By Casey Slide Posted in: Marriage, Spending and Saving Share 88 Tweet Pin 90 Comments 76The average cost of a wedding in the United States is well over $20,000. But if you’re planning your big day, don’t let that number s",
+        "distance": 0.4598310589790344
+      },
+      {
+        "id": 80,
+        "title": "Tuxedos + Men's Wedding Attire",
+        "url": "https://www.theknot.com/tuxedos-attire",
+        "combined_text": "Tuxedos + Men's Wedding Attire Photo by Anne Liles Photography Tuxedos + Men's Wedding Attire Whether you're renting or buying, going formal or casual, here's what you need to know about groomsmen attire, plus top tuxedo style tips. Local Wedding Menswear Real Wedding Tuxedos + Suits Menswear Advice + Etiquette Tuxedos Local Wedd",
+        "distance": 0.6009138822555542
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "1397006393042883702": {
+    "query_id": "1397006393042883702",
+    "query": "get day off using bereavement excuse",
+    "relevants": [
+      {
+        "relevant_doc": 553,
+        "relevant_url": "http://www.wikihow.com/Get-a-Day-off-Work-by-Pretending-You've-Experienced-a-Death"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 553,
+        "title": "How to Get a Day off Work by Pretending You've Experienced a Death",
+        "url": "http://www.wikihow.com/Get-a-Day-off-Work-by-Pretending-You've-Experienced-a-Death",
+        "combined_text": "How to Get a Day off Work by Pretending You've Experienced a Death 1 Plan your story before speaking with anyone. You are likely to get many questions about your deceased loved one, so make sure that the story is believable. Get your facts straightened out, stay focused, and think about how you’re going to speak about the death. [1]",
+        "distance": 0.6537182927131653
+      },
+      {
+        "id": 182,
+        "title": "Respite Care for Resource Families",
+        "url": "https://www.childwelfare.gov/topics/preventing/prevention-programs/respite/respite-care-for-resource-families/",
+        "combined_text": "Respite Care for Resource Families Home Topics Preventing Child Abuse & Neglect Prevention Programs Respite Care Programs Respite Care for Resource Families Respite Care for Resource Families Respite care can be a good option when parents need a break from the daily stresses of parenting or have obligations that may prevent them from",
+        "distance": 0.7157126069068909
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8362149668394924114": {
+    "query_id": "8362149668394924114",
+    "query": "Akron law school admissions and stats",
+    "relevants": [
+      {
+        "relevant_doc": 1264,
+        "relevant_url": "https://www.princetonreview.com/schools/1035854/law/university-akron-school-law"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1264,
+        "title": "University of Akron - School of Law",
+        "url": "https://www.princetonreview.com/schools/1035854/law/university-akron-school-law",
+        "combined_text": "University of Akron - School of Law Previous Next University of Akron - School of Law The University of Akron School of Law 302 Buchtel Common | Akron, OH | 44325-2901 | Website Save School Share School Admissions Academics Careers Tuition & Aid Student Body Visiting Overview Applicants766Acceptance Rate64%Average Undergrad GPA3.30Acc",
+        "distance": 0.2807566821575165
+      },
+      {
+        "id": 916,
+        "title": "School tuition and costs: a complete guide",
+        "url": "http://www.ourkids.net/private-schools-tuition-costs.php",
+        "combined_text": "School tuition and costs: a complete guide Private Schools School Guide Paying School Tuition School tuition and costs: a complete guide Private school tuition: the what, where, and why of private school costs in Canada Find a list of schools Tuition costs range widely depending on two essential factors: where the school is located and what",
+        "distance": 0.6844462752342224
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7836060562505583983": {
+    "query_id": "7836060562505583983",
+    "query": "using mirin in Japanese sauces",
+    "relevants": [
+      {
+        "relevant_doc": 303,
+        "relevant_url": "http://blog.foodnetwork.com/fn-dish/2011/09/how-to-use-mirin/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 303,
+        "title": "Mirin â Off the Beaten Aisle",
+        "url": "http://blog.foodnetwork.com/fn-dish/2011/09/how-to-use-mirin/",
+        "combined_text": "Mirin â Off the Beaten Aisle Mirin — Off the Beaten Aisle Pinterest Facebook Twitter Email By: J. M. Hirschunknown Mirin is all about getting sauced. Because that's where Japanese cooking wine really shines — in sauces. But first, a misconception. The wretched American product known as “cooking wine” probably has you reluctant",
+        "distance": 0.26557332277297974
+      },
+      {
+        "id": 1243,
+        "title": "Emperors of Feudal Japan",
+        "url": "http://www.legendsandchronicles.com/ancient-civilizations/feudal-japan/emperors-of-feudal-japan/",
+        "combined_text": "Emperors of Feudal Japan Legends and Chronicles > Ancient Civilizations > Feudal Japan > Emperors of Feudal Japan Emperors of Feudal Japan In feudal Japan, the emperor was the highest ranking figure at the top of hierarchy. Despite this, the emperor had little power compared to those at the top of the military class includi",
+        "distance": 0.781450629234314
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3448054649428087708": {
+    "query_id": "3448054649428087708",
+    "query": "DIY full-size wooden coffin plans",
+    "relevants": [
+      {
+        "relevant_doc": 43,
+        "relevant_url": "http://www.rockler.com/wood-casket-plan"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 43,
+        "title": "Wood Casket Plan",
+        "url": "http://www.rockler.com/wood-casket-plan",
+        "combined_text": "Wood Casket Plan \"Loading... Zoom Wood Casket Plan Item #: 3183315 Review (s) Write a Review In Stock$15.99Each Qty Add to Cart Sign up for price alert Price Match Add to Wishlist Have a Question?9 Questions | 47 Answers Ask a Question Overview Complete this beautiful full size casket in a short time. The plan provi",
+        "distance": 0.7175562977790833
+      },
+      {
+        "id": 358,
+        "title": "The Build-It-Yourself Furniture CatalogPaperback â June 1, 1976",
+        "url": "https://www.amazon.com/Build-Yourself-Furniture-Catalog/dp/0130859028",
+        "combined_text": "The Build-It-Yourself Furniture CatalogPaperback â June 1, 1976 \"Books › Crafts, Hobbies & Home › Home Improvement & Design Share See All Buying Options Have one to sell? Sell on Amazon The Build-It-Yourself Furniture Catalog Paperback – June 1, 1976by Franklynn Peterson (Author)Be the first to review this item See all 2 formats and editions Hardcover$6.9930 Use",
+        "distance": 0.8001315593719482
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8945857336207383911": {
+    "query_id": "-8945857336207383911",
+    "query": "museum curator career steps",
+    "relevants": [
+      {
+        "relevant_doc": 713,
+        "relevant_url": "http://www.wikihow.com/Become-a-Museum-Curator"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 713,
+        "title": "How to Become a Museum Curator",
+        "url": "http://www.wikihow.com/Become-a-Museum-Curator",
+        "combined_text": "How to Become a Museum Curator 1 Choose your interest area. There are as many types of curators as there are types of museums - art museums, history museums, children’s museums, science museums, and a vast range of specializations in between. You will need to choose what sort of museum you want to work for in order to pursue the",
+        "distance": 0.3836056590080261
+      },
+      {
+        "id": 682,
+        "title": "Sports Memorabilia Selling Guide",
+        "url": "http://pages.ebay.com/buy/guides/sports-mem-selling-guide/",
+        "combined_text": "Sports Memorabilia Selling Guide \"Sports Memorabilia Selling Guide Tags: selling | athletes | jerseys | cards | autographs Write a guide!Got a collection collecting dust? Outgrown your childhood bobbleheads? Gone from pennants to jerseys? Whether you're an experienced collector, a dedicated fan running out of storage space, or just",
+        "distance": 0.7517145872116089
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "4740399081955853760": {
+    "query_id": "4740399081955853760",
+    "query": "android app to view office documents",
+    "relevants": [
+      {
+        "relevant_doc": 1214,
+        "relevant_url": "https://play.google.com/store/apps/details?id=de.joergjahnke.documentviewer.android.free"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1214,
+        "title": "Office Documents Viewer",
+        "url": "https://play.google.com/store/apps/details?id=de.joergjahnke.documentviewer.android.free",
+        "combined_text": "Office Documents Viewer \"Office Documents Viewer Joerg Jahnke Business Everyone23,386Contains Ads · Offers in-app purchases Add to Wishlist Install (formerly Mobile Document Viewer) Small and fast document viewing application for Open Document Format (Open Office, Libre Office), OOXML (Microsoft Office) and other productiv",
+        "distance": 0.4598237872123718
+      },
+      {
+        "id": 564,
+        "title": "Housos Vs Authority",
+        "url": "https://www.grandcinemas.com.au/Movie/Housos-Vs-Authority",
+        "combined_text": "Housos Vs Authority Photo: Housos Vs Authority Details Session Times News & Reviews Suggestions Buy Tickets Online Gift Card Balance Check Connect With Us Download our i Phone App Connect with us on Facebook Download our Android App Now Showing All the Money in the World (MA15+)Breathe (M)Coco (PG)Downsizing (M)Ferdina",
+        "distance": 0.6312459707260132
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8842664259614279420": {
+    "query_id": "8842664259614279420",
+    "query": "reason hydroxide has negative charge",
+    "relevants": [
+      {
+        "relevant_doc": 261,
+        "relevant_url": "https://chemistry.stackexchange.com/questions/2698/why-does-the-hydroxide-ion-have-a-negative-charge"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 261,
+        "title": "Why does the hydroxide ion have a negative charge?",
+        "url": "https://chemistry.stackexchange.com/questions/2698/why-does-the-hydroxide-ion-have-a-negative-charge",
+        "combined_text": "Why does the hydroxide ion have a negative charge? \"_Chemistry Stack Exchange is a question and answer site for scientists, academics, teachers and students. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Why does the hydroxide ion have a",
+        "distance": 0.4528407156467438
+      },
+      {
+        "id": 906,
+        "title": "Charge Nurses Job Description",
+        "url": "http://www.jacksonvilleu.com/resources/career/charge-nurse-job-description-salary/",
+        "combined_text": "Charge Nurses Job Description Career Categories Charge nurses combine managerial skills and clinical experience. If you aspire to apply your clinical nursing experience within a leadership role, a charge nurse position may be a perfect fit for you. In addition to caring for patients, a charge nurse assumes some managerial respon",
+        "distance": 0.7724717855453491
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-5425812044613373199": {
+    "query_id": "-5425812044613373199",
+    "query": "compare medicare plans by zip code",
+    "relevants": [
+      {
+        "relevant_doc": 723,
+        "relevant_url": "http://www.medicaresolutions.com/original.aspx?refid=tier4"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 723,
+        "title": "Medicare Made Simple",
+        "url": "http://www.medicaresolutions.com/original.aspx?refid=tier4",
+        "combined_text": "Medicare Made Simple Medicare Made Simple Find your high quality Medicare plan today!Please enter a valid ZIP Code",
+        "distance": 0.41577109694480896
+      },
+      {
+        "id": 466,
+        "title": "Letters Behind a Medicare Number",
+        "url": "http://www.medicaredcodes.org/letters-behind-a-medicare-number/",
+        "combined_text": "Letters Behind a Medicare Number Letters Behind a Medicare Number Posted on May 14, 2016 | By admin AARP health insurance plans (PDF download)Medicare replacement (PDF download)medicare benefits (PDF download)medicare part b (PDF download)Letters Behind a Medicare Number PDF download: Welcome to Medicare – 11095 – Medicare.gov CENT",
+        "distance": 0.5063226222991943
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3121484270313231860": {
+    "query_id": "3121484270313231860",
+    "query": "re-entering workforce after motherhood",
+    "relevants": [
+      {
+        "relevant_doc": 81,
+        "relevant_url": "http://www.huffingtonpost.com/janie-porter/to-the-employer-viewing-my-stay-at-home-mom-resume_b_5901900.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 81,
+        "title": "To the Employer Viewing My Stay-at-Home Mom Resume",
+        "url": "http://www.huffingtonpost.com/janie-porter/to-the-employer-viewing-my-stay-at-home-mom-resume_b_5901900.html",
+        "combined_text": "To the Employer Viewing My Stay-at-Home Mom Resume THE BLOG 10/01/2014 02:34 pm ET Updated Dec 01, 2014To the Employer Viewing My Stay-at-Home Mom Resume By Janie Porter Janie Porter I’ve often pondered what it would be like to return to the workforce after being a stay-at-home mom for several years. While I know I’ve moved mountains in the time I h",
+        "distance": 0.656086802482605
+      },
+      {
+        "id": 1238,
+        "title": "Fetus to Mom: You're Stressing Me Out!",
+        "url": "http://www.webmd.com/baby/features/fetal-stress",
+        "combined_text": "Fetus to Mom: You're Stressing Me Out! \"Fetus to Mom: You're Stressing Me Out!Fetus to Mom: You're Stressing Me Out!From the Web MD Archives Dr. Calvin Hobel, a perinatologist in Los Angeles, has spent much of his career trying to document the effects of stress on pregnancy and to figure out how best to get pregnant women to relax. Not o",
+        "distance": 0.684535026550293
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-1720560022524009569": {
+    "query_id": "-1720560022524009569",
+    "query": "mexico taxes for residents and nonresidents",
+    "relevants": [
+      {
+        "relevant_doc": 63,
+        "relevant_url": "http://taxsummaries.pwc.com/uk/taxsummaries/wwts.nsf/ID/Mexico-Individual-Taxes-on-personal-income"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 63,
+        "title": "MexicoIndividual - Taxes on personal income",
+        "url": "http://taxsummaries.pwc.com/uk/taxsummaries/wwts.nsf/ID/Mexico-Individual-Taxes-on-personal-income",
+        "combined_text": "MexicoIndividual - Taxes on personal income Mexico Individual - Taxes on personal income Choose a topic Resident individuals are subject to Mexican income tax on their worldwide income, regardless of their nationality. Non-residents, including Mexican citizens who can prove residence for tax purposes in a foreign country, are taxed only on th",
+        "distance": 0.3369475305080414
+      },
+      {
+        "id": 260,
+        "title": "Eight Tips for Taxpayers Who Owe Taxes",
+        "url": "https://www.irs.gov/uac/Newsroom/Eight-Tips-for-Taxpayers-Who-Owe-Taxes",
+        "combined_text": "Eight Tips for Taxpayers Who Owe Taxes IRS Summertime Tax Tip 2013-14, August 2, 2013 While most taxpayers get a refund from the IRS when they file their taxes, some do not. The IRS offers several payment options for those who owe taxes. Here are eight tips for those who owe federal taxes. Tax bill payments. If you get a bill from the IR",
+        "distance": 0.627418577671051
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4095064171098290325": {
+    "query_id": "-4095064171098290325",
+    "query": "where to buy US-made solar panels",
+    "relevants": [
+      {
+        "relevant_doc": 296,
+        "relevant_url": "http://www.gogreensolar.com/collections/solar-panels-made-in-usa"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 296,
+        "title": "Made in USA - ARRA Solar Panels",
+        "url": "http://www.gogreensolar.com/collections/solar-panels-made-in-usa",
+        "combined_text": "Made in USA - ARRA Solar Panels Made in USA - ARRA Solar Panels Buy American and support companies providing manufacturing jobs in the USA. These high quality panels are ARRA* (2009 American Recovery and Reinvestment Act) compliant meaning that they were substantially manufactured in the US, the components were sourced and assembl",
+        "distance": 0.40810132026672363
+      },
+      {
+        "id": 138,
+        "title": "Teslaâs solar roof tiles will be available to order starting in April",
+        "url": "https://techcrunch.com/2017/03/24/teslas-solar-roof-tiles-will-be-available-to-order-starting-in-april/",
+        "combined_text": "Teslaâs solar roof tiles will be available to order starting in April An error occurred with this part of the page, sorry for the inconvenience. Tesla’s solar roof tiles will be available to order starting in April Mar 24, 2017 Darrell Etherington The Tesla solar roof tiles the company unveiled last year, which look like regular roof tiles and yet have roughly equival",
+        "distance": 0.659291684627533
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-6513161474489556792": {
+    "query_id": "-6513161474489556792",
+    "query": "are college degrees worth the expense",
+    "relevants": [
+      {
+        "relevant_doc": 963,
+        "relevant_url": "http://www.teachhub.com/cost-higher-education-worth-it"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 374,
+        "title": "Is it worth getting PhD in Accounting?",
+        "url": "https://www.quora.com/Is-it-worth-getting-PhD-in-Accounting",
+        "combined_text": "Is it worth getting PhD in Accounting? Ph D Advice Ph. D. Careers Accounting Doctor of Philosophy Degrees Advice College Advice for Careers College Advice Career Advice Is it worth getting Ph D in Accounting?ad by UT Arlington Earn a Master of Education for $8,200 with a 3.0 GPA. Graduate with a Master in Educational Leadership or a Mast",
+        "distance": 0.5367736220359802
+      },
+      {
+        "id": 963,
+        "title": "Is the Cost of Higher Education Worth It?",
+        "url": "http://www.teachhub.com/cost-higher-education-worth-it",
+        "combined_text": "Is the Cost of Higher Education Worth It? By: Christine Wojdyla, Teach HUBEducation News: The current state of the economy, one of the biggest topics covered in the election, is causing many young Americans to question, “Is college worth the cost?” While the skyrocketing cost of higher education is daunting, the outcome is still better than",
+        "distance": 0.5804263949394226
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "825777720156995836": {
+    "query_id": "825777720156995836",
+    "query": "steps and requirements to become a physician assistant",
+    "relevants": [
+      {
+        "relevant_doc": 78,
+        "relevant_url": "http://www.access2knowledge.org/jobs-education/how-to-become-a-physician-assistant/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 78,
+        "title": "How to Become a Physician Assistant in 5 Steps",
+        "url": "http://www.access2knowledge.org/jobs-education/how-to-become-a-physician-assistant/",
+        "combined_text": "How to Become a Physician Assistant in 5 Steps How to Become a Physician Assistant in 5 Steps Jobs & Education Aug 20, 2015 0 2008Many people mistake physician assistants with nurse assistants. Such professionals, however, are more advanced as regards education and clinical experience than other medical assistants. In the US their duties and res",
+        "distance": 0.3284490704536438
+      },
+      {
+        "id": 1181,
+        "title": "Behavioral Health Technician: Job Description, Duties and Requirements",
+        "url": "http://study.com/articles/Behavioral_Health_Technician_Job_Description_Duties_and_Requirements.html",
+        "combined_text": "Behavioral Health Technician: Job Description, Duties and Requirements Behavioral Health Technician: Job Description, Duties and Requirements Learn about the education and preparation needed to become a behavioral health technician. Get a quick view of the requirements as well as details about the job duties and certification options to find out if this is the career f",
+        "distance": 0.5548897981643677
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4037903825554401495": {
+    "query_id": "-4037903825554401495",
+    "query": "what do fighter pilots earn",
+    "relevants": [
+      {
+        "relevant_doc": 1170,
+        "relevant_url": "http://work.chron.com/much-fighter-pilots-make-2685.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1170,
+        "title": "How Much Do Fighter Pilots Make?",
+        "url": "http://work.chron.com/much-fighter-pilots-make-2685.html",
+        "combined_text": "How Much Do Fighter Pilots Make? Related Articles1Fighter Pilot's Pay Salary2How Much Do Pilots in the Air Force Make a Year?3Path to Becoming a Fighter Pilot4Salaries of Military Pilot Officers In 1953, the Air Force created its pilot demonstration group, the Thunderbirds, just six years after the Department of Defense created the",
+        "distance": 0.3022274672985077
+      },
+      {
+        "id": 142,
+        "title": "What is the longest time a fighter plane can stay in the air before refueling?",
+        "url": "https://www.quora.com/What-is-the-longest-time-a-fighter-plane-can-stay-in-the-air-before-refueling",
+        "combined_text": "What is the longest time a fighter plane can stay in the air before refueling? John Ghanem, Commercial Pilot, Aviation Theory Instructor Answered Jan 14, 2015Well this is airplane specific. You have to know something, every airplane has two properties specific to it: Range, and Endurance. Range is the longest distance an airplane can fly in a certain configuration, and with fu",
+        "distance": 0.5614369511604309
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "1878768838623568834": {
+    "query_id": "1878768838623568834",
+    "query": "what to bring for a host",
+    "relevants": [
+      {
+        "relevant_doc": 1121,
+        "relevant_url": "http://www.answers.com/Q/What_is_a_hostess_gift"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1121,
+        "title": "What is a hostess gift?",
+        "url": "http://www.answers.com/Q/What_is_a_hostess_gift",
+        "combined_text": "What is a hostess gift? \"Answers.com ® Wiki Answers ® Categories Shopping Gift Giving What is a hostess gift? What is a hostess gift? Answer by Rohit Sahni Confidence votes 16A hostess gift is a gift given to your host or hostess as a sort of 'pre-thank you' for having you. A bottle of wine, flowers or maybe even gourmet c",
+        "distance": 0.6366766095161438
+      },
+      {
+        "id": 1191,
+        "title": "Chicago Stadium",
+        "url": "http://www.nba.com/bulls/history/chicago_stadium.html",
+        "combined_text": "Chicago Stadium Tweet Chicago Stadium Between the Bulls and Blackhawks, the Stadium hosted 10 Stanley Cup Finals and three NBA Finals Opened on March 28, 1929, the Chicago Stadium served host to numerous sporting events, concerts and political conventions. Built at a cost of $7 million, the Madhouse on Madison serv",
+        "distance": 0.7045555710792542
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "4297056264310694210": {
+    "query_id": "4297056264310694210",
+    "query": "Nexplanon implant dosage and side effects",
+    "relevants": [
+      {
+        "relevant_doc": 778,
+        "relevant_url": "https://www.drugs.com/mtm/nexplanon-implant.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 778,
+        "title": "Nexplanon",
+        "url": "https://www.drugs.com/mtm/nexplanon-implant.html",
+        "combined_text": "Nexplanon Nexplanon Generic Name: etonogestrel (implant) (e toe noe JES trel) Brand Names: Nexplanon Overview Side Effects Dosage Professional Interactions Pregnancy Warnings More Breastfeeding Warnings User Reviews Support Group Q & ACompare Alternatives Pricing & Coupons What is Nexplanon? Nexplanon (etonog",
+        "distance": 0.1883874237537384
+      },
+      {
+        "id": 1249,
+        "title": "Doctors charge differently for the same vaccine - what's the deal?",
+        "url": "http://www.theglobeandmail.com/life/health-and-fitness/ask-a-health-expert/doctors-charge-differently-for-the-same-vaccine---whats-the-deal/article548769/",
+        "combined_text": "Doctors charge differently for the same vaccine - what's the deal? \"Doctors charge differently for the same vaccine - what's the deal? LISA PRIESTPublished February 26, 2012Updated March 26, 2017The Question I recently went to my physician to have the Twinrix vaccine – used to help prevent hepatitis A and B – administered. He told me it would cost $25 for each time",
+        "distance": 0.7631025314331055
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-181020489068138892": {
+    "query_id": "-181020489068138892",
+    "query": "cities most expensive for young professionals",
+    "relevants": [
+      {
+        "relevant_doc": 282,
+        "relevant_url": "https://www.planetizen.com/node/67422"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 282,
+        "title": "The Cost of the âYuppieâ Lifestyle",
+        "url": "https://www.planetizen.com/node/67422",
+        "combined_text": "The Cost of the âYuppieâ Lifestyle \"The Cost of the ‘Yuppie’ Lifestyle Locality (a self-described \"\"local business search site\"\") has ranked the cost of living for the “yuppie” lifestyle in every American city. It’s no surprise that San Francisco tops the list, but how do 29 cities rank on the \"\"Yuppie Price Index\"\"? February 18, 201",
+        "distance": 0.7083116173744202
+      },
+      {
+        "id": 1003,
+        "title": "Mercedes-Benz",
+        "url": "http://www.motortrend.com/cars/mercedes-benz/",
+        "combined_text": "Mercedes-Benz / Cars / Mercedes-Benz Buyer’s Guide Mercedes-Benz Facebook Twitter Google Plus With a lineup that includes entry-level luxury cars to 12-cylinder SUVs that cost more than some houses, Mercedes-Benz is one of the world’s best-known luxury automakers. Least Expensive: Separated by under $1,000 and ri",
+        "distance": 0.771466851234436
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-3857901316203478803": {
+    "query_id": "-3857901316203478803",
+    "query": "andhra pradesh petrol hike 2015",
+    "relevants": [
+      {
+        "relevant_doc": 221,
+        "relevant_url": "http://www.deccanchronicle.com/150206/nation-current-affairs/article/andhra-pradesh-hikes-petrol-prices-rs-4-litre"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 221,
+        "title": "Andhra Pradesh hikes petrol prices by Rs 4 per litre",
+        "url": "http://www.deccanchronicle.com/150206/nation-current-affairs/article/andhra-pradesh-hikes-petrol-prices-rs-4-litre",
+        "combined_text": "Andhra Pradesh hikes petrol prices by Rs 4 per litre Nation, Current Affairs Andhra Pradesh hikes petrol prices by Rs 4 per litre DC CORRESPONDENT Published Feb 6, 2015, 8:37 am IST Updated Jan 10, 2016, 8:38 am ISTState government will earn an additional Rs 180 crore per year with the increase in tax Representational Image Hyderabad: Fuel prices in A",
+        "distance": 0.34583237767219543
+      },
+      {
+        "id": 1228,
+        "title": "DCB Bank Ltd.",
+        "url": "http://www.business-standard.com/company/dcb-bank-14602.html",
+        "combined_text": "DCB Bank Ltd. About DCB Bank Ltd. DCB Bank Ltd Development Credit Bank is one of the emerging private sector banks in India. Their network spread over 10 states and 2 union territories namely of Maharashtra, Gujarat, Andhra Pradesh, Karnataka, New Delhi, Rajasthan, Goa, Tamil Nadu, Haryana, West Bengal, Daman and",
+        "distance": 0.7641497850418091
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7334674423833394827": {
+    "query_id": "7334674423833394827",
+    "query": "how to find free wooden pallets",
+    "relevants": [
+      {
+        "relevant_doc": 361,
+        "relevant_url": "http://pallets.indinf.com/free-pallets.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 361,
+        "title": "Where can I get hold of free pallets?",
+        "url": "http://pallets.indinf.com/free-pallets.html",
+        "combined_text": "Where can I get hold of free pallets? Where can I get hold of free pallets? Someone asked us if and where they could get some free pallets. They were looking for wooden pallets to build a cheap play house for their kids on their garden. It is generally quite hard to get hold of free pallets as they could be sold to companies that repair",
+        "distance": 0.2194259762763977
+      },
+      {
+        "id": 819,
+        "title": "FreeBSD",
+        "url": "https://en.wikipedia.org/wiki/FreeBSD",
+        "combined_text": "FreeBSD \"From Wikipedia, the free encyclopedianavigation search Free BSDFree BSD 10 bootloader with ASCII art logo Developer The Free BSD Project OS family Unix-like ( BSD)Working state Active Source model Open source Initial release 1 November 1993; 24 years ago Latest release 11.1 (26 July 2017; 8 months",
+        "distance": 0.7120192050933838
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-7806123816273776008": {
+    "query_id": "-7806123816273776008",
+    "query": "which states accept alabama reciprocity",
+    "relevants": [
+      {
+        "relevant_doc": 270,
+        "relevant_url": "http://www.aralb.com/faq/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 270,
+        "title": "Frequently Asked Questions",
+        "url": "http://www.aralb.com/faq/",
+        "combined_text": "Frequently Asked Questions Home >> Frequently Asked Questions Frequently Asked Questions Question: With which states do we reciprocate? Answer: Alabama, Florida, Georgia, Illinois, Indiana, Kentucky, Louisiana, Mississippi, N. Carolina, Ohio, Pennsylvania, Tennessee, Texas, and Wisconsin. Question: How much are the fees for a",
+        "distance": 0.5874626636505127
+      },
+      {
+        "id": 190,
+        "title": "acknowledgment",
+        "url": "https://legal-dictionary.thefreedictionary.com/acknowledgment",
+        "combined_text": "acknowledgment \"acknowledgment Also found in: Dictionary, Thesaurus, Medical, Financial, Acronyms, Encyclopedia, Wikipedia . Acknowledgment To acknowledge is to admit, affirm, declare, testify, avow, confess, or own as genuine. Admission or affirmation of obligation or responsibility. Most states have adopted the",
+        "distance": 0.7886236906051636
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "1353807482470615286": {
+    "query_id": "1353807482470615286",
+    "query": "peer-led high school orientation program",
+    "relevants": [
+      {
+        "relevant_doc": 458,
+        "relevant_url": "http://www.boomerangproject.com/high-school-transition"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 526,
+        "title": "How to Become a High School Counselor",
+        "url": "http://www.wikihow.com/Become-a-High-School-Counselor",
+        "combined_text": "How to Become a High School Counselor Staff Reviewed How to Become a High School Counselor Three Parts: Getting the Necessary Education and Credentials Finding a Position at a High School Understanding the Position Community Q&AHigh school counselors are a very important part of any high schooler’s experience. A good high school counsel",
+        "distance": 0.5774145722389221
+      },
+      {
+        "id": 458,
+        "title": "Why Link Crew?",
+        "url": "http://www.boomerangproject.com/high-school-transition",
+        "combined_text": "Why Link Crew? Print Link Crew - a High School Orientation and Transition Program Why Link Crew?“I’ve been through Link Crew as a freshman, a leader and now as an educator and from all perspectives this program gives solutions to kids and schools with real-life issues. Too often in education, theory overrides prac",
+        "distance": 0.637811541557312
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-551678634709685815": {
+    "query_id": "-551678634709685815",
+    "query": "contact number for debit card decline",
+    "relevants": [
+      {
+        "relevant_doc": 355,
+        "relevant_url": "https://www.unitedcu.org/contact"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 355,
+        "title": "Contact Us",
+        "url": "https://www.unitedcu.org/contact",
+        "combined_text": "Contact Us minus plus Contact Us Call us at 573.581.8651 OR toll-free at 877.581.8651. Are you having issues with your Debit/Credit Card being declined?? We now have a toll free number you can call after hours or on weekends if your debit or credit card is being declined and you don't know why!Simply call 888-",
+        "distance": 0.3545795977115631
+      },
+      {
+        "id": 661,
+        "title": "Credit card and debit card blocking",
+        "url": "http://www.creditcards.com/credit-card-news/card-payment-blocking-by-merchants-1267.php",
+        "combined_text": "Credit card and debit card blocking \"Credit Cards · Credit Card News · Card Payment: How blocking can tie up your funds Credit card and debit card blocking By Jeremy M. Simon | Published: September 12, 2006Sometimes, businesses will charge more on your credit card or debit card than what you actually authorize. If you have ever been t",
+        "distance": 0.47567176818847656
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "2367762568242603683": {
+    "query_id": "2367762568242603683",
+    "query": "murder mystery sell ingots for coins",
+    "relevants": [
+      {
+        "relevant_doc": 1084,
+        "relevant_url": "https://hypixel.net/threads/i-want-to-see-in-game-iron-ingots-bronze-ingots-and-gold-ingots.1480887/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1084,
+        "title": "Forums Â» Games Â» Murder MysteryÂ» I want to see in game: iron ingots, bronze ingots and gold ingots.",
+        "url": "https://hypixel.net/threads/i-want-to-see-in-game-iron-ingots-bronze-ingots-and-gold-ingots.1480887/",
+        "combined_text": "Forums Â» Games Â» Murder MysteryÂ» I want to see in game: iron ingots, bronze ingots and gold ingots. \"Beardan_New Member Beardan_Messages: 21I want to see in game: bronze ingots, silver ingots and gold ingots, which you can sell in shop (villager) on the middle, and get coins, for this coins you can buy a bow and some arrows.#1Beardan_, Dec 26, 2017Disagree x 1Sharp Blade MCWell-Known Member Sharp",
+        "distance": 0.3801209628582001
+      },
+      {
+        "id": 579,
+        "title": "EasyBritish Guinea Gold Coin",
+        "url": "https://www.coins-auctioned.com/learn/coin-articles/british-guinea-gold-coin",
+        "combined_text": "EasyBritish Guinea Gold Coin Easy British Guinea Gold Coin The unusual British coin“Guinea”The old British coin system, used until 1971, was a little bit strange for a modern man. The reason was that it wasn’t a decimal system, based on the values of 100 sub units yet of different coins with different values compared to each ot",
+        "distance": 0.640803337097168
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "1347303407056054161": {
+    "query_id": "1347303407056054161",
+    "query": "australia visa payment surcharges",
+    "relevants": [
+      {
+        "relevant_doc": 845,
+        "relevant_url": "https://www.border.gov.au/Trav/Visa/Fees"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 845,
+        "title": "Fees and charges for visas",
+        "url": "https://www.border.gov.au/Trav/Visa/Fees",
+        "combined_text": "Fees and charges for visas Fees and charges for visas If you pay for your visa application charges, sponsorship or nomination fees by card or by an online payment, a surcharge may apply. The current surcharge rates are: Visa and Master Card* — 0.98%American Express and JCB — 1.4%Diners Club International — 1.99%China Union Pa",
+        "distance": 0.3998730480670929
+      },
+      {
+        "id": 204,
+        "title": "UK Student Visa Costs",
+        "url": "http://www.studylondon.ac.uk/application-advice/faqs/uk-student-visa-costs",
+        "combined_text": "UK Student Visa Costs Share on Facebook Share on Twitter Share on Google You are here: Home > How to Apply > FAQs > UK Student Visa Costs UK Student Visa Costs The cost of a (Tier 4 General) UK student visa depends on where you apply from: If you are applying from outside the UK, the cost is £322If you are already in the",
+        "distance": 0.583361029624939
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-5436711355705547440": {
+    "query_id": "-5436711355705547440",
+    "query": "humane society volunteer roles and foster care",
+    "relevants": [
+      {
+        "relevant_doc": 807,
+        "relevant_url": "https://www.animalhumanesociety.org/volunteer"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 807,
+        "title": "Volunteer with AHS",
+        "url": "https://www.animalhumanesociety.org/volunteer",
+        "combined_text": "Volunteer with AHS Volunteer with AHSFrom in-shelter support to at-home foster care, volunteers support every facet of our work. Together, we're creating a more humane world for animals. Explore opportunities and apply Review our Volunteering FAQVolunteer requirements Volunteers must be at least 16 years of age. If yo",
+        "distance": 0.35142752528190613
+      },
+      {
+        "id": 182,
+        "title": "Respite Care for Resource Families",
+        "url": "https://www.childwelfare.gov/topics/preventing/prevention-programs/respite/respite-care-for-resource-families/",
+        "combined_text": "Respite Care for Resource Families Home Topics Preventing Child Abuse & Neglect Prevention Programs Respite Care Programs Respite Care for Resource Families Respite Care for Resource Families Respite care can be a good option when parents need a break from the daily stresses of parenting or have obligations that may prevent them from",
+        "distance": 0.6534585952758789
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8894032953905628404": {
+    "query_id": "-8894032953905628404",
+    "query": "cross cultural business etiquette guide",
+    "relevants": [
+      {
+        "relevant_doc": 610,
+        "relevant_url": "http://www.marcaria.com/international-business-etiquette-customs-and-culture.asp"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 610,
+        "title": "International Business Etiquette - Customs and Culture",
+        "url": "http://www.marcaria.com/international-business-etiquette-customs-and-culture.asp",
+        "combined_text": "International Business Etiquette - Customs and Culture Articles International Business Etiquette - Customs and Culture International Business Etiquette - Customs and Culture With offices in multiple countries, international corporations have long been navigating the fine points of dealing with the cultural differences of doing business in foreign countr",
+        "distance": 0.4755847156047821
+      },
+      {
+        "id": 276,
+        "title": "Is a Degree in Business Right for You?",
+        "url": "http://www.internationalstudent.com/study-business/is-a-degree-in-business-right-for-you/",
+        "combined_text": "Is a Degree in Business Right for You? International Student / Study Centers / Study Guide by Subject / Study Business in the US / Is a Degree in Business Right for You? Is a Degree in Business Right for You? If you're considering a degree in business, you should first consider your intent and goals. The broad range of business skills an",
+        "distance": 0.7129247188568115
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3242041753432886735": {
+    "query_id": "3242041753432886735",
+    "query": "how old and tall is jane lynch",
+    "relevants": [
+      {
+        "relevant_doc": 777,
+        "relevant_url": "http://bollysuperstar.com/jane-lynch-age-height-weight-net-worth-husband-family-instagram/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 777,
+        "title": "Jane Lynch Measurements, Height, Age, Wiki, Husband, Biography",
+        "url": "http://bollysuperstar.com/jane-lynch-age-height-weight-net-worth-husband-family-instagram/",
+        "combined_text": "Jane Lynch Measurements, Height, Age, Wiki, Husband, Biography Jane Lynch Measurements, Height, Age, Wiki, Husband, Biography Bollysuperstar December 16, 2016 Hollywood Actress, Model, Television Actress Jane Lynch Measurements, Height, Age, Wiki, Husband, Biography. Jane Lynch was born 14 July 1960 ( Age 57 Years) in Evergreen Park, Illinois, U. S. Jane Lynch",
+        "distance": 0.1678118109703064
+      },
+      {
+        "id": 537,
+        "title": "Top 10 Tallest Active NBA Players",
+        "url": "https://www.therichest.com/sports/basketball-sports/top-10-tallest-active-nba-players/",
+        "combined_text": "Top 10 Tallest Active NBA Players \"Top 10 Tallest Active NBA Players It's not news that basketball players tend to be on the tall side. But did you know that the average height of an NBA player is 6 feet 7 inches? When your career depends on your ability to take length Share Tweetby Ashish Acharya – on Jan 13th in Basketball It's no",
+        "distance": 0.7784905433654785
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "817222179634252992": {
+    "query_id": "817222179634252992",
+    "query": "what does incidental mean",
+    "relevants": [
+      {
+        "relevant_doc": 710,
+        "relevant_url": "http://www.thefreedictionary.com/incidental"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 710,
+        "title": "incidental",
+        "url": "http://www.thefreedictionary.com/incidental",
+        "combined_text": "incidental \"incidental Also found in: Thesaurus, Medical, Legal, Encyclopedia, Wikipedia. Related to incidental: incidental expenses, incidental learningin·ci·den·tal (ĭn′sĭ-dĕn′tl)adj.1. Occurring or likely to occur as an unpredictable or minor consequence: \"\"the principle thateven annoying, intrusive, and of",
+        "distance": 0.3036172389984131
+      },
+      {
+        "id": 201,
+        "title": "Hostile Work Environment",
+        "url": "https://legaldictionary.net/hostile-work-environment/",
+        "combined_text": "Hostile Work Environment Hostile Work Environment The phrase hostile work environment is a civil law term that refers to the behavior of an individual in a workplace that creates an environment that makes work difficult or uncomfortable for another person. This includes behavior that may leave another employee feeling afrai",
+        "distance": 0.7659171223640442
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7016619019985824469": {
+    "query_id": "7016619019985824469",
+    "query": "when to use stock limit orders",
+    "relevants": [
+      {
+        "relevant_doc": 582,
+        "relevant_url": "https://www.thebalance.com/using-limit-orders-when-buying-or-selling-stocks-3140523"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 582,
+        "title": "Using Limit Orders When Buying or Selling Stocks",
+        "url": "https://www.thebalance.com/using-limit-orders-when-buying-or-selling-stocks-3140523",
+        "combined_text": "Using Limit Orders When Buying or Selling Stocks Stocks Active Stock Trading Using Limit Orders When Buying or Selling Stocks Orders Give You Some Control of Trading Outcome Share Flip Pin Email By Ken Little Updated September 09, 2016There are many tools you can use when investing in the stock market to help you make a profit or reduce a loss. Th",
+        "distance": 0.3832612931728363
+      },
+      {
+        "id": 1147,
+        "title": "Comcast Email Sending Limit Exceeded",
+        "url": "http://forums.xfinity.com/t5/Email-Web-Browsing/Comcast-Email-Sending-Limit-Exceeded/td-p/1520877",
+        "combined_text": "Comcast Email Sending Limit Exceeded \"Comcast Email Sending Limit Exceeded Share Options Jerrythe K New Poster 12-29-2012 04:22 PMComcast Email Sending Limit Exceeded I received an email from Comast today saying \"\"Comcast Email Sending Limit Exceeded\"\"I know the limit is 1000 emails a day, but I've only sent fewer than 20. Anyone else",
+        "distance": 0.670715868473053
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8213048853179104655": {
+    "query_id": "-8213048853179104655",
+    "query": "cranberry house Newland nc phone hours",
+    "relevants": [
+      {
+        "relevant_doc": 32,
+        "relevant_url": "https://www.chamberofcommerce.com/newland-nc/4004283-cranberry-house-llc"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 32,
+        "title": "Cranberry House Llc",
+        "url": "https://www.chamberofcommerce.com/newland-nc/4004283-cranberry-house-llc",
+        "combined_text": "Cranberry House Llc Cranberry House Llc0 Reviews6215 N Us 19E Hwy Newland, North Carolina 28657 (828) 733-5558 Website Print | Save | Directions About Cranberry House Llc is located at the address 6215 N Us 19E Hwy in Newland, North Carolina 28657. They can be contacted via phone at (828) 733-5558 for pricing, hours an",
+        "distance": 0.3095014989376068
+      },
+      {
+        "id": 181,
+        "title": "State Farm Customer Service",
+        "url": "https://www.getcustomerservicenumber.com/state-farm-customer-service-number/",
+        "combined_text": "State Farm Customer Service About ( 4.1, 246 votes)State Farm Phone Number800-981-287524 hours, 7 days8 mins wait Having issues to contact State Farm customer service representative? Ask us for help!Phone Numbers Customer Service 888-559-1922Claims Department 800-782-8332Customer Service 800-440-0998Customer Service 877-734-84",
+        "distance": 0.7348389029502869
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-3202944322614880522": {
+    "query_id": "-3202944322614880522",
+    "query": "activity based costing customer profitability",
+    "relevants": [
+      {
+        "relevant_doc": 76,
+        "relevant_url": "http://www.chegg.com/homework-help/questions-and-answers/customer-margin-using-activity-based-costing-system-managerial-accoutning-updraft-systems--q1083386"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 425,
+        "title": "Are you charging the right price?",
+        "url": "https://missouribusiness.net/article/charging-the-right-price/",
+        "combined_text": "Are you charging the right price? Calculating the overhead percentage for your business is critical to pricing your goods and services profitably and operating your business successfully. Competitive pricing is always a hot-button issue with business owners. They know competitive prices will attract customers and that price is often",
+        "distance": 0.5385885834693909
+      },
+      {
+        "id": 76,
+        "title": "Question: Customer Margin, using activity-based costing system, Managerial Accoutning? Updraft Systems, Inc...",
+        "url": "http://www.chegg.com/homework-help/questions-and-answers/customer-margin-using-activity-based-costing-system-managerial-accoutning-updraft-systems--q1083386",
+        "combined_text": "Question: Customer Margin, using activity-based costing system, Managerial Accoutning? Updraft Systems, Inc... Question: Customer Margin, using activity-based costing system, Managerial Accoutning? Updraft Systems, Inc... Customer Margin, using activity-based costing system, Managerial Accoutning? Updraft Systems, Inc., makes paragliders for sale through specialty sporting goods stores. The company has a sta",
+        "distance": 0.560546338558197
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8559401602082802053": {
+    "query_id": "8559401602082802053",
+    "query": "matt lauer wealth and earnings",
+    "relevants": [
+      {
+        "relevant_doc": 1274,
+        "relevant_url": "https://www.bankrate.com/lifestyle/celebrity-money/matt-lauer-net-worth/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1274,
+        "title": "Matt Lauerâs net worth is $60 million",
+        "url": "https://www.bankrate.com/lifestyle/celebrity-money/matt-lauer-net-worth/",
+        "combined_text": "Matt Lauerâs net worth is $60 million NBC/Getty Images How Matt Lauer’s net worth was built Matt Lauer is a TV journalist and host of “Today,” the NBC morning news and talk show. He dropped out of Ohio University to become a journalist, starting with an internship at WOWK-TV in West Virginia, where he eventually became an on-air reporte",
+        "distance": 0.34724515676498413
+      },
+      {
+        "id": 19,
+        "title": "Nordstrom (JWN) Stock Surging in After-Hours Trading as Earnings Beat Estimates",
+        "url": "https://www.thestreet.com/story/13255631/1/nordstrom-jwn-stock-surging-in-after-hours-trading-as-earnings-beat-estimates.html",
+        "combined_text": "Nordstrom (JWN) Stock Surging in After-Hours Trading as Earnings Beat Estimates \"NEW YORK ( The Street) -- Nordstrom ( JWN) stock is rallying 6.22% to $79.58 in after-hours trading on Thursday after the department store chain posted strong second quarter 2015 earnings results that topped analysts' estimates. The company's revenue fell slightly short of estimates. For the quarte",
+        "distance": 0.7040603756904602
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-1110562318746151142": {
+    "query_id": "-1110562318746151142",
+    "query": "facebook breaks improve productivity at work",
+    "relevants": [
+      {
+        "relevant_doc": 1141,
+        "relevant_url": "http://www.businessnewsdaily.com/2354-facebook-employees-productive.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1141,
+        "title": "No, Really, Facebook Makes Employees More Productive",
+        "url": "http://www.businessnewsdaily.com/2354-facebook-employees-productive.html",
+        "combined_text": "No, Really, Facebook Makes Employees More Productive \". / Credit: Facebook Like Image image via Shutterstock Organizations that prohibit Facebook in the workplace may want to reconsider that policy. A 10-minute Facebook break makes employees happier, healthier and more productive, according to new research. An infographic on the corporate wellness sit",
+        "distance": 0.39869192242622375
+      },
+      {
+        "id": 193,
+        "title": "How many hours per day does a social worker work?",
+        "url": "http://www.answers.com/Q/OSHA_How_many_restrooms_are_required_per_workers_in_a_work_place",
+        "combined_text": "How many hours per day does a social worker work? Rudie Swinney 1 Contribution How many hours per day does a social worker work?the average social worker work the average hours of 40 hours a week. That doesn't include the addition input hours of having to go to afternoon meetings and evening visits wit …Auto body workers how many hours do you work",
+        "distance": 0.6367063522338867
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-3092929920986420879": {
+    "query_id": "-3092929920986420879",
+    "query": "causes of detroit population decline",
+    "relevants": [
+      {
+        "relevant_doc": 893,
+        "relevant_url": "https://en.wikipedia.org/wiki/Decline_of_Detroit"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 893,
+        "title": "Decline of Detroit",
+        "url": "https://en.wikipedia.org/wiki/Decline_of_Detroit",
+        "combined_text": "Decline of Detroit \"From Wikipedia, the free encyclopedianavigation search An abandoned house in the Delray neighborhood of Detroit The city of Detroit, in the U. S. state of Michigan, has gone through a major economic and demographic decline in recent decades. The population of the city has fallen from a high of 1,85",
+        "distance": 0.2925775647163391
+      },
+      {
+        "id": 419,
+        "title": "New Zealand Population",
+        "url": "http://countrymeters.info/en/New_Zealand/",
+        "combined_text": "New Zealand Population \"New Zealand Population Contents Population clock Population fact sheet Population 2018Demographics 2017Population density Age structure Age dependency ratio Child dependency ratio Aged dependency ratio Life expectancy Historical population New Zealand Economy World population United States of Ameri",
+        "distance": 0.7008824944496155
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "6515514566407269932": {
+    "query_id": "6515514566407269932",
+    "query": "estimate taxi cost from brisbane airport",
+    "relevants": [
+      {
+        "relevant_doc": 430,
+        "relevant_url": "http://www.taxiautofare.com/au/61/Brisbane-Taxi-fare-calculator/loid"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 430,
+        "title": "Brisbane Taxi Fare Calculator",
+        "url": "http://www.taxiautofare.com/au/61/Brisbane-Taxi-fare-calculator/loid",
+        "combined_text": "Brisbane Taxi Fare Calculator Facebook Twitter Google+ E-Mail Linked In Brisbane Taxi Fare Calculator Country City ORFrom ⇅To*Actual fare may vary with traffic, road conditions, weather, surge pricing, variable pricing, airport surcharges, fuel surcharges, etc. Ok, what's taxiautofare? Q) I was charged X Amount from the Airport",
+        "distance": 0.2857476770877838
+      },
+      {
+        "id": 46,
+        "title": "U.S. Passenger Carrier Delay Costs",
+        "url": "http://airlines.org/dataset/per-minute-cost-of-delays-to-u-s-airlines/",
+        "combined_text": "U.S. Passenger Carrier Delay Costs U. S. Passenger Carrier Delay Costs In 2016, the average cost of aircraft block (taxi plus airborne) time for U. S. passenger airlines was $62.55 per minute, 4.4 percent less than in 2015. Crew costs, the largest line item, rose 8.7 percent to $21.24 per minute. Fuel costs declined 18.5 percent to $",
+        "distance": 0.6484949588775635
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4823681620702695679": {
+    "query_id": "-4823681620702695679",
+    "query": "cost of private schools in canada",
+    "relevants": [
+      {
+        "relevant_doc": 916,
+        "relevant_url": "http://www.ourkids.net/private-schools-tuition-costs.php"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 916,
+        "title": "School tuition and costs: a complete guide",
+        "url": "http://www.ourkids.net/private-schools-tuition-costs.php",
+        "combined_text": "School tuition and costs: a complete guide Private Schools School Guide Paying School Tuition School tuition and costs: a complete guide Private school tuition: the what, where, and why of private school costs in Canada Find a list of schools Tuition costs range widely depending on two essential factors: where the school is located and what",
+        "distance": 0.3832412362098694
+      },
+      {
+        "id": 86,
+        "title": "Costs and Fees",
+        "url": "https://grad.arizona.edu/funding/costs",
+        "combined_text": "Costs and Fees Home»Funding and Financial Information» Costs and Fees Costs and Fees There are many costs to keep in mind when planning your graduate studies at the University of Arizona such as tuition, books, and cost of living. Here you can find information on the following: Application Fees Estimated Cost of a",
+        "distance": 0.6654818654060364
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-7486338785445645776": {
+    "query_id": "-7486338785445645776",
+    "query": "walmart tax refund check cashing fees",
+    "relevants": [
+      {
+        "relevant_doc": 254,
+        "relevant_url": "http://blog.al.com/bargain-mom/2012/01/walmart_flat_rate_tax_refund_c.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 254,
+        "title": "Walmart Flat Rate Tax Refund Check Cash Fees $3 and $6 + Free In-Store 1040EZ Filing",
+        "url": "http://blog.al.com/bargain-mom/2012/01/walmart_flat_rate_tax_refund_c.html",
+        "combined_text": "Walmart Flat Rate Tax Refund Check Cash Fees $3 and $6 + Free In-Store 1040EZ Filing Walmart will be offering a flat rate fee of either $3 and $6 check cashing. They will also be offering lower costs on filing and tax preparation including free in-store federal Form 1040EZ filing. Walmart cashes most types of pre-printed checks, as well as payroll cards and eligible government benef",
+        "distance": 0.2524881362915039
+      },
+      {
+        "id": 773,
+        "title": "Get Your Refund Faster: Tell IRS to Direct Deposit your Refund to One, Two, or Three Accounts",
+        "url": "https://www.irs.gov/Individuals/Get-your-refund-faster-Tell-IRS-to-Direct-Deposit-Your-Refund-to-One,-Two-or-Three-Accounts",
+        "combined_text": "Get Your Refund Faster: Tell IRS to Direct Deposit your Refund to One, Two, or Three Accounts The best and fastest way to get your tax refund is to have it electronically deposited for free into your financial account. The IRS program is called direct deposit. You can use it to deposit your refund into one, two or even three accounts. Eight out of 10 taxpayers get their refunds by using Dire",
+        "distance": 0.5475640892982483
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-7776504770981362604": {
+    "query_id": "-7776504770981362604",
+    "query": "legitimate work from home ideas for moms",
+    "relevants": [
+      {
+        "relevant_doc": 1063,
+        "relevant_url": "http://redandhoney.com/22-legitimate-ways-stay-home-mom-earn-money/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1063,
+        "title": "40+ Legitimate Ways to Earn Money as a Stay-at-Home-Mom",
+        "url": "http://redandhoney.com/22-legitimate-ways-stay-home-mom-earn-money/",
+        "combined_text": "40+ Legitimate Ways to Earn Money as a Stay-at-Home-Mom 2Jul40+ Legitimate Ways to Earn Money as a Stay-at-Home-Mom209 Comments You’ve seen the ads floating around the internet. Usually in places like your Facebook sidebar or in pop-up ads on popular sites. Deceptive text shouting promises like: “Earn $6,000/week from home! It’s easy! Sign up here! “ sca",
+        "distance": 0.527083158493042
+      },
+      {
+        "id": 470,
+        "title": "The Latest: Sentencing hearing begins for 'Dance Moms' star",
+        "url": "https://www.yahoo.com/news/latest-sentencing-hearing-begins-dance-moms-star-185136120.html",
+        "combined_text": "The Latest: Sentencing hearing begins for 'Dance Moms' star \"The Latest: Sentencing hearing begins for 'Dance Moms' star Associated Press • January 20, 2017FILE- In this June 27, 2016, file photo, \"\"Dance Moms\"\" star Abby Lee Miller leaves federal court after pleading guilty in Pittsburgh to bankruptcy fraud and failing to report thousands of dollars in Aust",
+        "distance": 0.6304185390472412
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3289736568086329489": {
+    "query_id": "3289736568086329489",
+    "query": "why are vaccine administration fees different",
+    "relevants": [
+      {
+        "relevant_doc": 1249,
+        "relevant_url": "http://www.theglobeandmail.com/life/health-and-fitness/ask-a-health-expert/doctors-charge-differently-for-the-same-vaccine---whats-the-deal/article548769/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1249,
+        "title": "Doctors charge differently for the same vaccine - what's the deal?",
+        "url": "http://www.theglobeandmail.com/life/health-and-fitness/ask-a-health-expert/doctors-charge-differently-for-the-same-vaccine---whats-the-deal/article548769/",
+        "combined_text": "Doctors charge differently for the same vaccine - what's the deal? \"Doctors charge differently for the same vaccine - what's the deal? LISA PRIESTPublished February 26, 2012Updated March 26, 2017The Question I recently went to my physician to have the Twinrix vaccine – used to help prevent hepatitis A and B – administered. He told me it would cost $25 for each time",
+        "distance": 0.5164282917976379
+      },
+      {
+        "id": 86,
+        "title": "Costs and Fees",
+        "url": "https://grad.arizona.edu/funding/costs",
+        "combined_text": "Costs and Fees Home»Funding and Financial Information» Costs and Fees Costs and Fees There are many costs to keep in mind when planning your graduate studies at the University of Arizona such as tuition, books, and cost of living. Here you can find information on the following: Application Fees Estimated Cost of a",
+        "distance": 0.6712198853492737
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "1285483506779380368": {
+    "query_id": "1285483506779380368",
+    "query": "discount birthday party supplies online",
+    "relevants": [
+      {
+        "relevant_doc": 1119,
+        "relevant_url": "http://www.birthdaydirect.com/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1119,
+        "title": "Shop Holiday",
+        "url": "http://www.birthdaydirect.com/",
+        "combined_text": "Shop Holiday \"Birthday Direct is the trusted source for your complete birthday party supplies needs. We offer up to 50% off select party supplies, FREE shipping offer, and same-day order processing for orders placed before 3pm central time. We have been celebrating online since 1996. Party like nobody else with",
+        "distance": 0.3229357898235321
+      },
+      {
+        "id": 466,
+        "title": "Letters Behind a Medicare Number",
+        "url": "http://www.medicaredcodes.org/letters-behind-a-medicare-number/",
+        "combined_text": "Letters Behind a Medicare Number Letters Behind a Medicare Number Posted on May 14, 2016 | By admin AARP health insurance plans (PDF download)Medicare replacement (PDF download)medicare benefits (PDF download)medicare part b (PDF download)Letters Behind a Medicare Number PDF download: Welcome to Medicare – 11095 – Medicare.gov CENT",
+        "distance": 0.7182868719100952
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8002749972365179653": {
+    "query_id": "8002749972365179653",
+    "query": "which companies own major watch brands",
+    "relevants": [
+      {
+        "relevant_doc": 621,
+        "relevant_url": "http://www.watchtime.com/featured/who-owns-what-a-guide-to-the-watch-groups/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 621,
+        "title": "Who Owns What: A Guide to the Watch Groups",
+        "url": "http://www.watchtime.com/featured/who-owns-what-a-guide-to-the-watch-groups/",
+        "combined_text": "Who Owns What: A Guide to the Watch Groups INDUSTRYWho Owns What: A Guide to the Watch Groups Written by Jay Deshpande October 12, 2017share tweet share Every so often the landscape of the watch industry shifts: a key brand gets sold to a major watch group and the balance of power changes ever so slightly. In the last several years, some imp",
+        "distance": 0.4646438658237457
+      },
+      {
+        "id": 1272,
+        "title": "HVAC Manufacturers Brands History",
+        "url": "https://highperformancehvac.com/hvac-manufacturers-brands-history/",
+        "combined_text": "HVAC Manufacturers Brands History \"HVAC Manufacturers Brands Historyby High Performance HVAC | Technical Reference | 2 comments16HVAC Manufacturers Brands History - the following list is a history of HVAC Manufacturers Brands and how they have changed over the years from one owner to the next. The page is a bit outdated however the",
+        "distance": 0.5518945455551147
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-539736099085817074": {
+    "query_id": "-539736099085817074",
+    "query": "steve jobs fruit-only diet safe",
+    "relevants": [
+      {
+        "relevant_doc": 722,
+        "relevant_url": "http://www.thehealthsite.com/fitness/steve-jobs-diet-is-arnold-ehrets-mucusless-fruit-and-vegetable-diet-even-safe/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 722,
+        "title": "Steve Jobsâ diet: Is Arnold Ehretâs Mucusless fruit and vegetable diet even safe?",
+        "url": "http://www.thehealthsite.com/fitness/steve-jobs-diet-is-arnold-ehrets-mucusless-fruit-and-vegetable-diet-even-safe/",
+        "combined_text": "Steve Jobsâ diet: Is Arnold Ehretâs Mucusless fruit and vegetable diet even safe? Steve Jobs’ diet: Is Arnold Ehret’s Mucusless fruit and vegetable diet even safe? For the better part of his life, Jobs followed Arnold Ehret's Mucusless Diet which involved eating only fruits and vegetables. Nirmalya Dutta | Updated: April 22, 2015 3:33 pm0 Shares Facebook share Twitter share Share",
+        "distance": 0.41899698972702026
+      },
+      {
+        "id": 800,
+        "title": "Small Businesses Created 45 Percent of the New Jobs in June",
+        "url": "http://smallbiztrends.com/2013/07/small-businesses-created-45-percent-jobs.html",
+        "combined_text": "Small Businesses Created 45 Percent of the New Jobs in June Small Businesses Created 45 Percent of the New Jobs in June Last Updated: Jan 20, 2016 by Joshua Sophy In Employment 90Shares| 148 15 Print This Article125 5 Email this Article Small businesses continue to spur U. S. job growth. Companies with fewer than 50 employees created 45 percent of the 188,00",
+        "distance": 0.7233157157897949
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "5612101372853611790": {
+    "query_id": "5612101372853611790",
+    "query": "mail a letter with two postcard stamps",
+    "relevants": [
+      {
+        "relevant_doc": 549,
+        "relevant_url": "https://answers.yahoo.com/question/index?qid=20081125213152AAhtakD"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 549,
+        "title": "I have two postcard stamps. Can I mail a standard letter using two?",
+        "url": "https://answers.yahoo.com/question/index?qid=20081125213152AAhtakD",
+        "combined_text": "I have two postcard stamps. Can I mail a standard letter using two? Society & Culture Other - Society & Culture I have two postcard stamps. Can I mail a standard letter using two? They're worth 27 cents each, and postage is 42 cents. Can I just stick them on and mail it, even though the total is more than 42?1 following 3 answers Answers Relevance Rating Newest Olde",
+        "distance": 0.17736870050430298
+      },
+      {
+        "id": 1265,
+        "title": "USPS Postage Rates for Direct Mail",
+        "url": "http://www.usmailinghouse.com/postage-rates-direct-mail/",
+        "combined_text": "USPS Postage Rates for Direct Mail USPS Postage Rates for Direct Mail Postage rates are changing and U. S. Mailing House is ready to assist. Here are some of the postage rate changes that are the most relevant to direct mail marketers. If you are looking for a complete list of all postage rates you can check out the USPS Postage Calc",
+        "distance": 0.4916018843650818
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "1060235539053647777": {
+    "query_id": "1060235539053647777",
+    "query": "how do streamers earn on Twitch",
+    "relevants": [
+      {
+        "relevant_doc": 596,
+        "relevant_url": "http://www.ibtimes.co.uk/what-twitch-how-do-i-make-money-it-1435874"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 596,
+        "title": "What is Twitch and How do I Make Money From it?",
+        "url": "http://www.ibtimes.co.uk/what-twitch-how-do-i-make-money-it-1435874",
+        "combined_text": "What is Twitch and How do I Make Money From it? \"What is Twitch and How do I Make Money From it? How much money can Twitch streamers earn? By Mary-Ann Russon Updated February 11, 2014 14:31 GMTTwitch in Action: User Spamfish playing Skyrim live Watching video game footage has long been of interest to gamers on You Tube, as evidenced by the fact t",
+        "distance": 0.2866309583187103
+      },
+      {
+        "id": 1136,
+        "title": "Scorpion",
+        "url": "http://www.tv.com/shows/scorpion/cast/",
+        "combined_text": "Scorpion \"Scorpion Follow Monday 10:00 PM on CBS Premiered Sep 22, 2014 In Season USER EDITORTesser TOverview Episode Guide Watch Online Cast & Crew Community Fan Reviews News Photos Trivia Scorpion Cast FILTER BY ROLEAll (849)Stars (7)Recurring Roles (14)Guest Stars (678)Cameos (0)Special Guest Stars (1)Wri",
+        "distance": 0.7632064819335938
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "4657129444751972843": {
+    "query_id": "4657129444751972843",
+    "query": "should I stay at base during marine deployment",
+    "relevants": [
+      {
+        "relevant_doc": 602,
+        "relevant_url": "http://usmclife.com/info/deployments/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 602,
+        "title": "Deployments",
+        "url": "http://usmclife.com/info/deployments/",
+        "combined_text": "Deployments Home Resources Deployments Deployments If you are married to a Marine, more than likely your Marine will be deploying overseas several times. It can be a tough decision whether or not you want to stay at the military base you’re stationed at or move back home to be with family and friends. I’ve done",
+        "distance": 0.3297000825405121
+      },
+      {
+        "id": 457,
+        "title": "Positives & Negatives of Joining the Military",
+        "url": "http://www.ehow.com/list_6856228_pros-being-officer-navy-seals.html",
+        "combined_text": "Positives & Negatives of Joining the Military Home » Classroom Positives & Negatives of Joining the Military By Liz Frazier; Updated September 29, 2017Army enlistees recite the military's Oath of Enlistment in front of the Jefferson Memorial. Generally, most servicemembers stay in the armed services -- Army, Navy, Air Force and Marine Corps --",
+        "distance": 0.6884051561355591
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "78177560643447328": {
+    "query_id": "78177560643447328",
+    "query": "ricoh office copier pricing estimates",
+    "relevants": [
+      {
+        "relevant_doc": 1075,
+        "relevant_url": "http://costowl.com/b2b/copiers-ricoh-cost.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1075,
+        "title": "How Much Does a Ricoh Copier Cost?",
+        "url": "http://costowl.com/b2b/copiers-ricoh-cost.html",
+        "combined_text": "How Much Does a Ricoh Copier Cost? \"Home > B2B > Copiers > Ricoh Copier Cost How Much Does a Ricoh Copier Cost? Get Free Digital Copier Price Quotes Office Ricoh Copier Prices Ricoh Company, Ltd. is a leading provider of office technology best known for its document imaging equipment, especially its Aficio product lineup. Ricoh digit",
+        "distance": 0.1567966192960739
+      },
+      {
+        "id": 425,
+        "title": "Are you charging the right price?",
+        "url": "https://missouribusiness.net/article/charging-the-right-price/",
+        "combined_text": "Are you charging the right price? Calculating the overhead percentage for your business is critical to pricing your goods and services profitably and operating your business successfully. Competitive pricing is always a hot-button issue with business owners. They know competitive prices will attract customers and that price is often",
+        "distance": 0.6229454278945923
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8324283708403593845": {
+    "query_id": "8324283708403593845",
+    "query": "why use cats to teach human muscles",
+    "relevants": [
+      {
+        "relevant_doc": 533,
+        "relevant_url": "http://allnurses.com/general-nursing-discussion/human-musculature-vs-126106.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 533,
+        "title": "Human musculature vs. the Cat",
+        "url": "http://allnurses.com/general-nursing-discussion/human-musculature-vs-126106.html",
+        "combined_text": "Human musculature vs. the Cat \"Latest Articles Products Conferences Nurses › General Nursing ›Human musculature vs. the Cat January 2018 Caption Contest - Win $100!by artistnurse Views: 6,288 Comments: 5Can anyone find info on this? the rationale for using the cat to study musculature in a Human Anatomy and Physiology Course. Yo",
+        "distance": 0.6362241506576538
+      },
+      {
+        "id": 132,
+        "title": "Teaching Online Classes: How Much Money Do Professors Make?",
+        "url": "http://www.brighthub.com/education/online-learning/articles/78037.aspx",
+        "combined_text": "Teaching Online Classes: How Much Money Do Professors Make? \"Teaching Online Classes: How Much Money Do Professors Make?written by: Daniel Brecht•edited by: Donna Cosmato •updated: 3/14/2013Are you interested in teaching students online? And, are you curious of how much you'll get paid? If you answered \"\"yes,\"\" then you are about to learn what it takes to do",
+        "distance": 0.7551749348640442
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-6199287543633597928": {
+    "query_id": "-6199287543633597928",
+    "query": "buy right-hand drive postal vehicles Portland",
+    "relevants": [
+      {
+        "relevant_doc": 464,
+        "relevant_url": "http://www.japanpdximports.com/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 464,
+        "title": "Welcome to Japan PDX Imports",
+        "url": "http://www.japanpdximports.com/",
+        "combined_text": "Welcome to Japan PDX Imports Welcome to Japan PDX Imports Licensed dealer of Right Hand Drive vehicles for use by postal mail carriers. Located in Portland, Oregon. Click for Current Inventory High quality used RHD vehicles for postal carriers Japan PDX Imports specializes in importing gently used right-hand drive vehicles for",
+        "distance": 0.34253889322280884
+      },
+      {
+        "id": 1164,
+        "title": "Is it against the law to sell a used car that cannot pass state inspection?",
+        "url": "https://answers.yahoo.com/question/index?qid=20080412081852AAF8c1e",
+        "combined_text": "Is it against the law to sell a used car that cannot pass state inspection? \"Cars & Transportation Safety Is it against the law to sell a used car that cannot pass state inspection?i bought the car from a dealership that sells used cars, and i was wondering if it is legal to sell a car like that? Update: i stay in louisiana and the lemon law includes \"\"as is\"\" sales that in",
+        "distance": 0.6690365076065063
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7723440792904563199": {
+    "query_id": "7723440792904563199",
+    "query": "nursing career working with older adults",
+    "relevants": [
+      {
+        "relevant_doc": 1246,
+        "relevant_url": "https://explorehealthcareers.org/career/geriatrics/geriatric-staff-nurse/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1246,
+        "title": "Geriatric Staff Nurse",
+        "url": "https://explorehealthcareers.org/career/geriatrics/geriatric-staff-nurse/",
+        "combined_text": "Geriatric Staff Nurse Geriatric Staff Nurse Average Salary$57k - 73k Years Higher Education4 - 6Job Outlook Excellent Geriatric staff nurses focus on caring for older adults. As the U. S. population ages, this career is in high demand. According to the U. S. Census, by 2050 more than 20% of Americans—88 million people—wi",
+        "distance": 0.4172365963459015
+      },
+      {
+        "id": 906,
+        "title": "Charge Nurses Job Description",
+        "url": "http://www.jacksonvilleu.com/resources/career/charge-nurse-job-description-salary/",
+        "combined_text": "Charge Nurses Job Description Career Categories Charge nurses combine managerial skills and clinical experience. If you aspire to apply your clinical nursing experience within a leadership role, a charge nurse position may be a perfect fit for you. In addition to caring for patients, a charge nurse assumes some managerial respon",
+        "distance": 0.5817513465881348
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-3847845609782016807": {
+    "query_id": "-3847845609782016807",
+    "query": "uk low pay and gender pay gap",
+    "relevants": [
+      {
+        "relevant_doc": 220,
+        "relevant_url": "https://www.theguardian.com/society/living-wage"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 220,
+        "title": "Living wage",
+        "url": "https://www.theguardian.com/society/living-wage",
+        "combined_text": "Living wage Living wage April 2018Actions will speak louder than words on the gender pay gap6 Apr 2018Actions will speak louder than words on the gender pay gap Delving deeper into the gender pay gap3 Apr 2018Delving deeper into the gender pay gap Millions of UK workers at risk of being cheated out of pay, TUC",
+        "distance": 0.2898561358451843
+      },
+      {
+        "id": 801,
+        "title": "Gender pay gap persists",
+        "url": "https://www.usatoday.com/story/money/personalfinance/2012/10/24/gender-pay-gap/1652511/",
+        "combined_text": "Gender pay gap persists \"Join the Nation's Conversation To find out more about Facebook commenting please read the Conversation Guidelines and FAQs Gender pay gap persists Christine Dugas, USA TODAY Published 12:15 a.m. ET Oct. 24, 2012 (Photo: Thinkstock)Story Highlights Women are graduating to a pay gap Women often don't",
+        "distance": 0.40328121185302734
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "580090169605123523": {
+    "query_id": "580090169605123523",
+    "query": "honors program mission and eligibility",
+    "relevants": [
+      {
+        "relevant_doc": 1055,
+        "relevant_url": "http://www.liberty.edu/academics/honors/index.cfm?PID=339"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1055,
+        "title": "Mission Statement",
+        "url": "http://www.liberty.edu/academics/honors/index.cfm?PID=339",
+        "combined_text": "Mission Statement Mission Statement The Liberty University Honors Program is designed to provide gifted and talented students with the opportunity to achieve their highest intellectual and creative potential in a nurturing, Christian atmosphere with caring and credentialed Honors faculty. Qualifications Eligibility f",
+        "distance": 0.40200838446617126
+      },
+      {
+        "id": 251,
+        "title": "About: Mission",
+        "url": "https://www.fws.gov/refuges/about/mission.html",
+        "combined_text": "About: Mission History Mission and Guiding Principles FAQ and Fact Sheets Fun on Wildlife Refuges Field Notes Refuge Reports Conservation Heroes Multimedia Careers Archives About: Mission Mission Statement The Mission of the National Wildlife Refuge System is to administer a national network of lands and waters fo",
+        "distance": 0.5538792610168457
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "329945994897081292": {
+    "query_id": "329945994897081292",
+    "query": "1970s conservative movement favoring active government",
+    "relevants": [
+      {
+        "relevant_doc": 265,
+        "relevant_url": "http://www.thefreedictionary.com/neoconservative"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1155,
+        "title": "Who was the president in 1965?",
+        "url": "http://www.answers.com/Q/Who_was_the_president_in_1965",
+        "combined_text": "Who was the president in 1965? \"Answers.com ® Wiki Answers ® Categories History, Politics & Society Politics and Government Political Office Holders Who was the president in 1965? Flag Who was the president in 1965? Answer by Steven Keyman Confidence votes 33.0KThis depends on the country or organization. See related questions. U",
+        "distance": 0.7215864658355713
+      },
+      {
+        "id": 212,
+        "title": "Go Active or Go Home",
+        "url": "http://news.morningstar.com/articlenet/article.aspx?id=351057",
+        "combined_text": "Go Active or Go Home \"Fund Spy Go Active or Go Home Active funds that deviate only slightly from the index may not be worth it. Print Comment Recommend (-) By Ryan Leggio | 09-06-10 | 06:00 AM | Email Article In 1993, the late political scientist and U. S. Senator Daniel Patrick Moynihan wrote an influential essay on th",
+        "distance": 0.7333508729934692
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3425736978081628535": {
+    "query_id": "3425736978081628535",
+    "query": "senate gop leadership roles and titles",
+    "relevants": [
+      {
+        "relevant_doc": 58,
+        "relevant_url": "http://conginst.org/senate-republican-leadership-positions/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 58,
+        "title": "Senate Republican Leadership Positions",
+        "url": "http://conginst.org/senate-republican-leadership-positions/",
+        "combined_text": "Senate Republican Leadership Positions Senate Republican Leadership Positions House Republican Leadership Positions House Democratic Leadership Positions Senate Democratic Leadership Positions Senate Republican Leadership Positions Senate Majority Leader The Majority Leader is in a practical sense the most senior Senate official. (The Vi",
+        "distance": 0.2622474730014801
+      },
+      {
+        "id": 599,
+        "title": "The 3-Point Process for Leadership Development",
+        "url": "http://danreiland.com/3-point-process-leadership-development/",
+        "combined_text": "The 3-Point Process for Leadership Development February 13, 2017 / 18 Comments The 3-Point Process for Leadership Development Leadership development never takes place in a vacuum. It’s not a program or event-based. Leadership development always starts with a leader. Always. A leadership culture is an environment where leadership development thri",
+        "distance": 0.5932618975639343
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-374379672228432367": {
+    "query_id": "-374379672228432367",
+    "query": "central bank locations near geneseo il",
+    "relevants": [
+      {
+        "relevant_doc": 1138,
+        "relevant_url": "https://www.central-bank.com/locations.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1138,
+        "title": "Locations  & History",
+        "url": "https://www.central-bank.com/locations.html",
+        "combined_text": "Locations  & History Locations & History Central Bank Illinois is the sole bank in the Central Banc, Inc. Holding Company Family. Our holding company, while headquartered in Geneseo, has twelve Central Bank offices located throughout Henry, Whiteside, Bureau, La Salle, Lee, and Ogle counties. Here’s our story …Geneseo/A",
+        "distance": 0.3431228995323181
+      },
+      {
+        "id": 802,
+        "title": "First State Bank (Gothenburg, NE) Locations in Your Area",
+        "url": "https://www.mybanktracker.com/First-State-Bank-Gothenburg-NE/Locations",
+        "combined_text": "First State Bank (Gothenburg, NE) Locations in Your Area \"Overview Locations Reviews First State Bank (Gothenburg, NE) Locations in Your Area First State Bank (Gothenburg, NE) has 7 branches in their local area. This traditional brick and mortar bank is a community bank that has expanded to multiple locations, and most likely has ATM locations. Search Sho",
+        "distance": 0.6766945719718933
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "5960723366521287570": {
+    "query_id": "5960723366521287570",
+    "query": "combine multiple if conditions excel",
+    "relevants": [
+      {
+        "relevant_doc": 575,
+        "relevant_url": "http://blog.contextures.com/archives/2013/05/30/nesting-if-functions-in-excel/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 575,
+        "title": "Nesting IF Functions in Excel",
+        "url": "http://blog.contextures.com/archives/2013/05/30/nesting-if-functions-in-excel/",
+        "combined_text": "Nesting IF Functions in Excel \"Nesting IF Functions in Excelby Debra Dalgleish · May 30, 2013The IF function lets you test something in Excel, and show one result if the test result is TRUE, and another result for FALSE. For example:=IF (“Debra met Excel MVPs last week”,”Show Picture”,”No Picture”)And yes, I did meet some Excel",
+        "distance": 0.6071394085884094
+      },
+      {
+        "id": 1014,
+        "title": "Consolidation",
+        "url": "https://en.mimi.hu/stockmarket/consolidation.html",
+        "combined_text": "Consolidation \"Consolidation Consolidation Pattern Trading a consolidation pattern can result in substantial profit s in trading stocks, trading futures, trading options, and trading commodities as well. [www.candlestickforum.com/PPF/Parameters/11_5123_/...]Consolidation A period of sideways price movement, often",
+        "distance": 0.7321874499320984
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-3652278521286663847": {
+    "query_id": "-3652278521286663847",
+    "query": "jerry from rick and morty profile",
+    "relevants": [
+      {
+        "relevant_doc": 813,
+        "relevant_url": "http://rickandmorty.wikia.com/wiki/Jerry_Smith"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 813,
+        "title": "Jerry Smith",
+        "url": "http://rickandmorty.wikia.com/wiki/Jerry_Smith",
+        "combined_text": "Jerry Smith \"Jerry Smith Species: Human Age:34Status: Alive Job: Advertising agent (fired) Unknown assigned Galactic Federation employment (laid off after Federation collapse)Family: Beth Smith (wife) Sleepy Gary (ex-fake lover) Summer Smith (daughter) Morty Smith (son; deceased) Morty Smith (adoptive son) Rick",
+        "distance": 0.5846050381660461
+      },
+      {
+        "id": 1251,
+        "title": "Degrassi: Next ClassSeason 2",
+        "url": "http://www.sidereel.com/tv-shows/degrassi-next-class/season-2",
+        "combined_text": "Degrassi: Next ClassSeason 2 What's Hot Today All Douglas Smith Joins Big Little Lies Dan Schneider Leaving Nickelodeon Ashley Tisdale Joining CBS Pilot Deadpool Animated Series Cancelled Gina Rodriguez To Star As Carmen Sandiego Queer Eye Picked Up For Second Season Rick And Morty Season 4 Delays Monty Python Is Moving To Netf",
+        "distance": 0.7427374124526978
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  }
+}

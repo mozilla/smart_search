@@ -1,0 +1,2802 @@
+{
+  "2616851185720658144": {
+    "query_id": "2616851185720658144",
+    "query": "connect Zyxel NBG-416N to cable modem",
+    "relevants": [
+      {
+        "relevant_doc": 368,
+        "relevant_url": "http://faq.us.zyxel.com/Support/Faq.aspx"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 368,
+        "title": "ZyXEL US Support Document",
+        "url": "http://faq.us.zyxel.com/Support/Faq.aspx",
+        "combined_text": "ZyXEL US Support Document Zy XEL US Support Document Search Support Document Website by:1 | 2 | 3 | 4 Next SD-10237: How do I connect the NBG-416N with my Cable Modem so I can get on-line? Synopsis: When you first set up a new wireless router with a cable modem, some steps must be followed so that the cable modem will connec",
+        "distance": 0.29205241799354553
+      },
+      {
+        "id": 260,
+        "title": "Can you connect computer to coaxial cable line with an adapter",
+        "url": "http://www.tomshardware.com/answers/id-2294139/connect-computer-coaxial-cable-line-adapter.html",
+        "combined_text": "Can you connect computer to coaxial cable line with an adapter \"Can you connect computer to coaxial cable line with an adapterfire404 Sep 10, 2014, 11:21 AMI have been reading through a lot of topics and I can't seem to find the answer I am looking for. At my work we have cable tv coaxial running to small digital boxes for each tv. We do not have wireless but a",
+        "distance": 0.6364844441413879
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8477029128523451786": {
+    "query_id": "-8477029128523451786",
+    "query": "is dividing customers between competitors illegal",
+    "relevants": [
+      {
+        "relevant_doc": 1418,
+        "relevant_url": "https://www.ftc.gov/tips-advice/competition-guidance/guide-antitrust-laws/dealings-competitors/market-division-or"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1418,
+        "title": "Market Division or Customer Allocation",
+        "url": "https://www.ftc.gov/tips-advice/competition-guidance/guide-antitrust-laws/dealings-competitors/market-division-or",
+        "combined_text": "Market Division or Customer Allocation \"Market Division or Customer Allocation Plain agreements among competitors to divide sales territories or assign customers are almost always illegal. These arrangements are essentially agreements not to compete: \"\"I won't sell in your market if you don't sell in mine.\"\" The FTC uncovered such an agr",
+        "distance": 0.5343082547187805
+      },
+      {
+        "id": 2385,
+        "title": "Market Share",
+        "url": "http://www.investinganswers.com/financial-dictionary/businesses-corporations/market-share-778",
+        "combined_text": "Market Share Market Share What it is: Market share refers to a company's portion of sales within the entire market in which it operates. This metric indicates a company's size within its market. How it works (Example): The formula for market share is: Market Share = (Particular Company's Sales Revenue in Time Pe",
+        "distance": 0.6749570369720459
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-7925435544174135135": {
+    "query_id": "-7925435544174135135",
+    "query": "who are institutional clients in finance",
+    "relevants": [
+      {
+        "relevant_doc": 1765,
+        "relevant_url": "https://www.thebalance.com/institutional-client-1287036"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1765,
+        "title": "Learn What an Institutional Client Is in Finance",
+        "url": "https://www.thebalance.com/institutional-client-1287036",
+        "combined_text": "Learn What an Institutional Client Is in Finance Finance Careers Finance Career Glossary Learn What an Institutional Client Is in Finance Share Flip Pin Share Email•••By Mark Kolakowski Updated October 13, 2017Institutional clients, as defined by most financial services firms, consist of large non-financial corporations, as well as other financial",
+        "distance": 0.26380178332328796
+      },
+      {
+        "id": 1743,
+        "title": "About Financial Consulting",
+        "url": "http://www.ifconsultants.org/finconsulting.html",
+        "combined_text": "About Financial Consulting About Financial Consulting What is Financial Consulting? Financial consulting is a service provided by Certified Financial Consultants to large corporations, government agencies and individual clients. The role of a financial consultant is to provide an independent, expert opinion on a proposed busi",
+        "distance": 0.5756466388702393
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-6248066143282910534": {
+    "query_id": "-6248066143282910534",
+    "query": "find paramedic training near me",
+    "relevants": [
+      {
+        "relevant_doc": 1419,
+        "relevant_url": "http://www.paramedictrainingspot.com/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1419,
+        "title": "Paramedic Training",
+        "url": "http://www.paramedictrainingspot.com/",
+        "combined_text": "Paramedic Training Discover schools in your local area that offer EMT or Paramedic training classes. LEARN MOREGet prepared for the NREMT examination with study guides and test questions. LEARN MORELearn how much EMT-Paramedic’s in your city earn annually . LEARN MORECongratulations on your decision to pursue a parame",
+        "distance": 0.3745327591896057
+      },
+      {
+        "id": 1426,
+        "title": "How to Find a Paramedic School",
+        "url": "http://classroom.synonym.com/find-paramedic-school-2306629.html",
+        "combined_text": "How to Find a Paramedic School \"Home » College How to Find a Paramedic School By Audrey Esposito Finding a good paramedic school can be difficult. Know what you are looking for before you start your search, and soon you will locate the paramedic school that's right for you. Read on to learn how to find a paramedic school. Keep in",
+        "distance": 0.43713682889938354
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8783797670240482422": {
+    "query_id": "-8783797670240482422",
+    "query": "Surface Pro 3 cost and release details",
+    "relevants": [
+      {
+        "relevant_doc": 1452,
+        "relevant_url": "http://bgr.com/2014/05/20/surface-pro-3-prices-and-release-date/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1452,
+        "title": "Hereâs how much itâll cost you to buy the Surface Pro 3 and its accessories",
+        "url": "http://bgr.com/2014/05/20/surface-pro-3-prices-and-release-date/",
+        "combined_text": "Hereâs how much itâll cost you to buy the Surface Pro 3 and its accessories Tablets Image Source: Microsoft Corporation Here’s how much it’ll cost you to buy the Surface Pro 3 and its accessories Chris Smith @chris_writes May 20th, 2014 at 1:08 PMShare Tweet The Surface Pro 3 is most likely one of the best Windows 8.1 tablets/laptops around, and Microsoft is eager to offer",
+        "distance": 0.3802129328250885
+      },
+      {
+        "id": 2034,
+        "title": "Microsoft Surface 2 vs. Surface Pro 2 Purchase Review",
+        "url": "http://www.ebay.com/gds/Microsoft-Surface-2-vs-Surface-Pro-2-Purchase-Review-/10000000178005145/g.html",
+        "combined_text": "Microsoft Surface 2 vs. Surface Pro 2 Purchase Review \"Home Buying Guides Computers/Tablets & Networking Tablet & e Book Reader Accs Cases, Covers, Keyboard Folios Microsoft Surface 2 vs. Surface Pro 2 Purchase Reviewm.fashions 125 Likes Like February 4, 2014Microsoft released the Surface 2 and the Surface Pro 2 in October 2013. Consumers are often con",
+        "distance": 0.43439358472824097
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "1767210390119624850": {
+    "query_id": "1767210390119624850",
+    "query": "how to manage clinical trial data",
+    "relevants": [
+      {
+        "relevant_doc": 93,
+        "relevant_url": "https://www.biotecharticles.com/Pharmacy-Article/Clinical-Data-Management-Guidelines-and-Importance-2863.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 93,
+        "title": "Clinical Data Management - Guidelines and Importance",
+        "url": "https://www.biotecharticles.com/Pharmacy-Article/Clinical-Data-Management-Guidelines-and-Importance-2863.html",
+        "combined_text": "Clinical Data Management - Guidelines and Importance \"Clinical Data Management - Guidelines and Importance By: Geetanjali Murari | Category: Pharmacy | Date: 2013-03-19 12:14:13 | Views: 5869Article Summary: The management of clinical data is a tedious and lethargic task. It requires project management, team work, planing, execution of the work, etc.",
+        "distance": 0.5008987188339233
+      },
+      {
+        "id": 1976,
+        "title": "Fractures",
+        "url": "https://www.nlm.nih.gov/medlineplus/fractures.html",
+        "combined_text": "Fractures Fractures Also called: Broken bone On this page Basics Summary Diagnosis and Tests Prevention and Risk Factors Treatments and Therapies Learn More Living With Specifics See, Play and Learn Images Research Statistics and Research Clinical Trials Journal Articles Resources Find an Expert For You Child",
+        "distance": 0.6029012203216553
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8862029053078334844": {
+    "query_id": "-8862029053078334844",
+    "query": "RLQ slang abbreviation meaning",
+    "relevants": [
+      {
+        "relevant_doc": 1509,
+        "relevant_url": "https://www.acronymfinder.com/Slang/RLQ.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1509,
+        "title": "What does RLQ stand for?",
+        "url": "https://www.acronymfinder.com/Slang/RLQ.html",
+        "combined_text": "What does RLQ stand for? What does RLQ stand for? Your abbreviation search returned 7 meaningsshowing only Slang/Internet Slang definitions ( Show all)Link/Page Citation Category Filters All definitions (7) Information Technology (2) Military & Government (0) Science & Medicine (1) Organizations, Schools, etc. (3) Business",
+        "distance": 0.3243807554244995
+      },
+      {
+        "id": 1566,
+        "title": "As a Private Lawyer, Ted Cruz Defended Companies Found Guilty of Wrongdoing",
+        "url": "http://www.motherjones.com/politics/2015/03/ted-cruz-lawyer-braun-medical-shandong-linglong",
+        "combined_text": "As a Private Lawyer, Ted Cruz Defended Companies Found Guilty of Wrongdoing \"<a href=\"\"https://www.flickr.com/photos/gageskidmore/5844354288/in/photolist-o AQ3p3-h5af PL-o Ti Eq6-gb3cq B-av6umx-g HYFC3-r Anv1C-f2Veuo-g NF8L3-fmjvi Z-9bvh7X-9Ur QV7-qacm Jh-fyjq EN-ehq PY1-myp9DR-q8e Ec8-q Tskg B-fmzuv A-ehq Qf W-r Kw7p S-ehk63T-pp GRvp-fmzr Zb-n G7pa W-b EXejf-b TRZU2-q Bsw",
+        "distance": 0.6180393099784851
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "1396351638131207343": {
+    "query_id": "1396351638131207343",
+    "query": "most common mineral in Earth's crust",
+    "relevants": [
+      {
+        "relevant_doc": 727,
+        "relevant_url": "http://geology.about.com/od/minerals/f/mostcommonmin.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1589,
+        "title": "What type of rock is the Earth's crust made of?",
+        "url": "http://www.answers.com/Q/What_is_the_most_common_type_of_rock_in_the_earth's_crust",
+        "combined_text": "What type of rock is the Earth's crust made of? \"Paul Jones Owner of Jones Mineral Cabinet, Geology and Paleontology Supervisor, interested in Earth and Planetary sciences What type of rock is the Earth's crust made of? The Earth's crust is composed of all three rock types; igneous, metamorphic, and sedimentary. The bulk of it is igneous. Paul Jo",
+        "distance": 0.306295782327652
+      },
+      {
+        "id": 727,
+        "title": "What Is the Most Common Mineral?",
+        "url": "http://geology.about.com/od/minerals/f/mostcommonmin.htm",
+        "combined_text": "What Is the Most Common Mineral? \"Science, Tech, Math ›Science What Is the Most Common Mineral? Share Flipboard Email Print Quartz is the most common mineral of the Earth's continents. Andrew Alden photoby Andrew Alden Updated January 08, 2018Depending on how the question is worded, the answer could be quartz, feldspar or bridgmani",
+        "distance": 0.5733931660652161
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-6735425840302228230": {
+    "query_id": "-6735425840302228230",
+    "query": "spec for implementing JavaScript promises",
+    "relevants": [
+      {
+        "relevant_doc": 1521,
+        "relevant_url": "https://promisesaplus.com/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1521,
+        "title": "Promises/A+",
+        "url": "https://promisesaplus.com/",
+        "combined_text": "Promises/A+ Promises/A+An open standard for sound, interoperable Java Script promises—by implementers, for implementers. A promise represents the eventual result of an asynchronous operation. The primary way of interacting with a promise is through its then method, which registers callbacks to receive either a",
+        "distance": 0.4179360568523407
+      },
+      {
+        "id": 1725,
+        "title": "Express.js: A Server-Side JavaScript Framework",
+        "url": "https://www.upwork.com/hiring/development/express-js-a-server-side-javascript-framework/",
+        "combined_text": "Express.js: A Server-Side JavaScript Framework Express.js: A Server-Side Java Script Framework Hiring Headquarters Home Web Development Express.js: A Server-Side Java Script Framework You’re probably aware that Java Script is the programming language most often used to add interactivity to the front end of a website, but its capabilities go far",
+        "distance": 0.4991426169872284
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-5182446573446886128": {
+    "query_id": "-5182446573446886128",
+    "query": "Fretter Michigan electronics chain history",
+    "relevants": [
+      {
+        "relevant_doc": 2055,
+        "relevant_url": "http://www.company-histories.com/Fretter-Inc-Company-History.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2055,
+        "title": "Fretter, Inc.",
+        "url": "http://www.company-histories.com/Fretter-Inc-Company-History.html",
+        "combined_text": "Fretter, Inc. \"Fretter, Inc. Address: 12501 Grand River Avenue Brighton, Michigan 48116 U. S. A. Telephone: (810) 220-5000 Fax: (810) 220-5686 Statistics: Public Company Incorporated: 1951 Employees: 1,699 Sales: $545.51 million Stock Exchanges: NASDAQ SICs: 5731 Radio, TV & Electronics Stores; 5722 Household App",
+        "distance": 0.5344529151916504
+      },
+      {
+        "id": 1443,
+        "title": "Difference Between Amplifier and Repeater",
+        "url": "http://www.differencebetween.com/difference-between-amplifier-and-vs-repeater/",
+        "combined_text": "Difference Between Amplifier and Repeater \"Difference Between Amplifier and Repeater Posted on July 30, 2011 by admin Amplifier vs Repeater Amplifier and repeater are two types of electronic circuits used in communication. Usually communication happens between two points (called sending and receiving points) through a wired, wireless or opt",
+        "distance": 0.7370421290397644
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4253320597435926311": {
+    "query_id": "-4253320597435926311",
+    "query": "black designer handbags online",
+    "relevants": [
+      {
+        "relevant_doc": 2321,
+        "relevant_url": "https://www.overstock.com/Clothing-Shoes/Designer-Handbags/Black,/handbag-color,/2102/cat.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2321,
+        "title": "Black Designer Handbags",
+        "url": "https://www.overstock.com/Clothing-Shoes/Designer-Handbags/Black,/handbag-color,/2102/cat.html",
+        "combined_text": "Black Designer Handbags \"Black Designer Handbags Clothing & Shoes / Designer Store / Designer Handbags1-60 of 341 Results Best Selling On Sale Price Low - High Price High - Low Avg. Customer Rating New Arrivals Brands Gucci Fendi Kate Spade Michael Kors Coach Burberry Tory Burch Yves Saint Laurent Dooney & Bourke MCMChloe",
+        "distance": 0.363156795501709
+      },
+      {
+        "id": 2324,
+        "title": "What does a Fashion Designer do?",
+        "url": "https://www.yourfreecareertest.com/fashion-designer/",
+        "combined_text": "What does a Fashion Designer do? A fashion designer designs clothes, accessories, or shoes for consumers and retail companies. They create new designs that may use a variety of materials and and specify the measurements of those designs. During the design process, they decide on fabrics, colors, styles and the accessories needed to",
+        "distance": 0.5788165330886841
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "1362469422820064627": {
+    "query_id": "1362469422820064627",
+    "query": "Shopify stock price and profile",
+    "relevants": [
+      {
+        "relevant_doc": 354,
+        "relevant_url": "https://www.thestreet.com/quote/SHOP.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 354,
+        "title": "Shopify Inc.  (SHOP)",
+        "url": "https://www.thestreet.com/quote/SHOP.html",
+        "combined_text": "Shopify Inc.  (SHOP) \"Shopify Inc. (SHOP)Follow117.42NYSE : Technology Services Apr 6, 2018 4:02 PM EDTPrev Close 120.14Day Low/High 115.96 / 120.7952 Wk Low/High 67.45 / 154.82Avg Volume 1.73MExchange NYSEShares Outstanding 92.19MMarket Cap 12.61BEPS -0.40P/E Ratio N/ADiv & Yield N. A. (N. A)Summary Profile News Financ",
+        "distance": 0.5544926524162292
+      },
+      {
+        "id": 1862,
+        "title": "What is MSRP?",
+        "url": "http://www.wisegeek.org/what-is-msrp.htm",
+        "combined_text": "What is MSRP? \"MSRP, or Manufacturer Suggested Retail Price, is the selling price that a manufacturer recommends for its products. It is also sometimes referred to as the list price, and is most commonly associated in the car industry. Manufacturer prices are used for marketing by retail businesses and for compar",
+        "distance": 0.5987585186958313
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7341502608375551104": {
+    "query_id": "7341502608375551104",
+    "query": "when 2015 Sierra Elevation hits dealerships",
+    "relevants": [
+      {
+        "relevant_doc": 532,
+        "relevant_url": "https://www.edmunds.com/car-news/2015-gmc-sierra-elevation-edition-to-arrive-at-dealership-by-years-end.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 532,
+        "title": "2015 GMC Sierra Elevation Edition To Arrive at Dealerships by Year's End",
+        "url": "https://www.edmunds.com/car-news/2015-gmc-sierra-elevation-edition-to-arrive-at-dealership-by-years-end.html",
+        "combined_text": "2015 GMC Sierra Elevation Edition To Arrive at Dealerships by Year's End 2015 GMC Sierra Elevation Edition To Arrive at Dealerships by Year's End Published: 09/19/2014 - by Anita Lienert, Correspondent Email Print Comments (0)View Full Screen Just the Facts: The 2015 GMC Sierra Elevation Edition, a special version of the pickup truck with a monochromatic look, is set to",
+        "distance": 0.32877621054649353
+      },
+      {
+        "id": 715,
+        "title": "7 Biggest Earthquakes in California HistoryâNapa's Not Even Close",
+        "url": "https://news.nationalgeographic.com/news/2014/08/140825-earthquake-california-biggest-magnitude-history/",
+        "combined_text": "7 Biggest Earthquakes in California HistoryâNapa's Not Even Close \"7 Biggest Earthquakes in California History—Napa's Not Even Close The state has been home to many of the highest magnitude shake-ups in the contiguous United States. A California winemaker assesses damage to wine stocks following an earthquake in storied Napa Valley on Sunday, Aug. 24, 2014. Photog",
+        "distance": 0.7370860576629639
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-5207903627478083248": {
+    "query_id": "-5207903627478083248",
+    "query": "how employers calculate and report payroll taxes",
+    "relevants": [
+      {
+        "relevant_doc": 471,
+        "relevant_url": "https://www.thebalance.com/payroll-taxes-3193126"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 471,
+        "title": "Payroll Taxes and Employer Responsibilities",
+        "url": "https://www.thebalance.com/payroll-taxes-3193126",
+        "combined_text": "Payroll Taxes and Employer Responsibilities Taxes Business Taxes Payroll Taxes and Employer Responsibilities How to Calculate and Report Deductions Share Flip Pin Email•••By Diana Van Blaricom Updated January 07, 2018Employers report payroll by calculating gross monthly wage earnings and various payroll deductions to arrive at net pay. Althou",
+        "distance": 0.22568562626838684
+      },
+      {
+        "id": 124,
+        "title": "Calculate Gross Pay Based on Net Pay",
+        "url": "http://www.gnjpc.com/calculators/payroll/grossup.php",
+        "combined_text": "Calculate Gross Pay Based on Net Pay Home > Payroll > Gross-up Calculate Gross Pay Based on Net Pay Use this calculator to gross up wages based on net pay. For example if an employee receives $100 in taxable benefits or cash, this calculator can be used to calculate the gross amount that must be used when calculating payroll taxes. Of",
+        "distance": 0.39013543725013733
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-450253891999712734": {
+    "query_id": "-450253891999712734",
+    "query": "1950s wisecracking private detective series",
+    "relevants": [
+      {
+        "relevant_doc": 2104,
+        "relevant_url": "http://www.imdb.com/title/tt0051247/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2104,
+        "title": "77 Sunset Strip",
+        "url": "http://www.imdb.com/title/tt0051247/",
+        "combined_text": "77 Sunset Strip \"FULL CAST AND CREW | TRIVIA | USER REVIEWS | IMDb Pro | MORESHARE7.8/ 10921Rate This77 Sunset Strip1h | Action, Crime, Drama | TV Series (1958–1964)Episode Guide206 episodes Stu Bailey and Jeff Spencer were the wisecracking, womanizing private detective heroes of this Warner Brothers drama. Stu and",
+        "distance": 0.5781933665275574
+      },
+      {
+        "id": 2258,
+        "title": "How to Become a Private Investigator",
+        "url": "http://www.criminaljusticeusa.com/private-investigator/",
+        "combined_text": "How to Become a Private Investigator How to Become a Private Investigator Private investigators are individuals who research into a person or company’s background to get information about personal, financial, and legal matters. They conduct interviews, gather evidence, and write reports on their findings. They occasionally assist lawye",
+        "distance": 0.6469947695732117
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8555144393769955195": {
+    "query_id": "-8555144393769955195",
+    "query": "install Java without root on Linux",
+    "relevants": [
+      {
+        "relevant_doc": 2334,
+        "relevant_url": "https://askubuntu.com/questions/831116/install-java-in-a-linux-server-without-admin-rights"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2334,
+        "title": "Install java in a linux server without admin rights",
+        "url": "https://askubuntu.com/questions/831116/install-java-in-a-linux-server-without-admin-rights",
+        "combined_text": "Install java in a linux server without admin rights \"_Ask Ubuntu is a question and answer site for Ubuntu users and developers. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Install java in a linux server without admin rightsup vote3down",
+        "distance": 0.4013747572898865
+      },
+      {
+        "id": 916,
+        "title": "Install Oracle 12C Release 1 (12.1) on Centos Linux 7",
+        "url": "http://dbaora.com/install-oracle-12c-release-1-12-1-on-centos-linux-7/",
+        "combined_text": "Install Oracle 12C Release 1 (12.1) on Centos Linux 7 \"Install Oracle 12C Release 1 (12.1) on Centos Linux 7Posted on July 13, 2014This article presents how to install Oracle 12C (12.1.0.1) Release 1 on Centos Linux 7. Read following article how to install Centos Linux 7: Install Centos Linux 7 (for comfort set 2G memory for your virtual machine before",
+        "distance": 0.47736018896102905
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "407962876864988066": {
+    "query_id": "407962876864988066",
+    "query": "Malabar FL municipal fire vendor profile",
+    "relevants": [
+      {
+        "relevant_doc": 1234,
+        "relevant_url": "https://govtribe.com/vendor/town-of-malabar-fire-department-malabar-fl-dba-fire-department"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1234,
+        "title": "Town Of Malabar - Fire Department - Malabar FL (DBA Fire Department) Federal Vendor",
+        "url": "https://govtribe.com/vendor/town-of-malabar-fire-department-malabar-fl-dba-fire-department",
+        "combined_text": "Town Of Malabar - Fire Department - Malabar FL (DBA Fire Department) Federal Vendor Vendors Town Of Malabar - Malabar, FLAdd Alert Town Of Malabar - Fire Department - Malabar FL (DBA Fire Department) Federal Vendor Last active 1 year ago 0 of 5 with 0 ratings A Gov Tribe Overview Want to better understand the Gov Tribe website? Take a look at our video tutorials. Show me!Name Town",
+        "distance": 0.2491482049226761
+      },
+      {
+        "id": 1999,
+        "title": "Indian Handicrafts and Gifts",
+        "url": "http://www.india-exports.com/handicraft.html",
+        "combined_text": "Indian Handicrafts and Gifts \"India is one of the major exporter and supplier of handicrafts and gift products to the world market. The Indian handicrafts industry is highly labor intensive and decentralized, being spread all across the country in rural and urban areas. The sector is considered as the second largest employment-",
+        "distance": 0.7880808711051941
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "5873263450842548912": {
+    "query_id": "5873263450842548912",
+    "query": "average cost for Supercuts haircut",
+    "relevants": [
+      {
+        "relevant_doc": 2359,
+        "relevant_url": "https://www.salonpricelady.com/supercuts-prices/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2359,
+        "title": "Supercuts Prices",
+        "url": "https://www.salonpricelady.com/supercuts-prices/",
+        "combined_text": "Supercuts Prices Supercuts Prices Share Tweet Share Share12 comments Haircare is a very tough industry. Not only must a hair salon enterprise be up to date the currents and trends, hair salons must be able to find the talents that will deliver their expertise with that special flavor of charisma that defines custome",
+        "distance": 0.41121822595596313
+      },
+      {
+        "id": 598,
+        "title": "Sunflower Oil for Hair",
+        "url": "http://www.curlynikki.com/2012/05/sunflower-oil-for-hair.html",
+        "combined_text": "Sunflower Oil for Hair \"filter by category May 4, 2012Sunflower Oil for Hair Guest Blogger Hair Tips oils and natural hair Product Reviewsby Shelli of Hairscapades If you remember, as part of the GOC, I indicated that I would start oiling my scalp with sunflower oil. This was because I went to a salon where the stylist re",
+        "distance": 0.7410308718681335
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7979000977210503415": {
+    "query_id": "7979000977210503415",
+    "query": "growing watermelons in Florida",
+    "relevants": [
+      {
+        "relevant_doc": 1146,
+        "relevant_url": "http://gardeningsolutions.ifas.ufl.edu/plants/edibles/fruits/watermelon.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1146,
+        "title": "Watermelon",
+        "url": "http://gardeningsolutions.ifas.ufl.edu/plants/edibles/fruits/watermelon.html",
+        "combined_text": "Watermelon \"Watermelon Watermelon ( Citrullus lanatus) is an iconic summer treat. Watermelon seed-spitting contests are a fond memory for past generations, but perhaps a foreign concept for those who have grown up on the seedless varieties most commonly found in grocery stores today. Florida has a great climat",
+        "distance": 0.46098142862319946
+      },
+      {
+        "id": 1629,
+        "title": "Attorney Jobs in Florida",
+        "url": "https://www.monster.com/jobs/q-attorney-jobs-l-florida.aspx",
+        "combined_text": "Attorney Jobs in Florida Attorney Jobs in Florida794 Florida Attorney jobs found on Monster. Attorney Jobs in Florida Florida has traditionally been known for its low cost of living, affordable real estate, and lack of a state income tax. However, it's also one of the most litigious climates in the country, ranking among th",
+        "distance": 0.5824780464172363
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3071588144346366568": {
+    "query_id": "3071588144346366568",
+    "query": "who is considered father of computing",
+    "relevants": [
+      {
+        "relevant_doc": 1987,
+        "relevant_url": "https://www.quora.com/Who-is-the-father-of-computers-1"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1987,
+        "title": "Who is the father of computers?",
+        "url": "https://www.quora.com/Who-is-the-father-of-computers-1",
+        "combined_text": "Who is the father of computers? \"Kajal Saini Answered Dec 29, 2017 · Author has 135 answers and 199.2k answer views Originally Answered: Who is the father of the computer? Father of computing: Charles Babbage was considered to be the father of computing after his invention and concept of the Analytical Engine in 1837. The Analytic",
+        "distance": 0.3086399435997009
+      },
+      {
+        "id": 2610,
+        "title": "BCS Academy of Computing",
+        "url": "http://academy.bcs.org/content/lovelace-medal",
+        "combined_text": "BCS Academy of Computing BCS Academy of Computing The BCS Academy of Computing is a learned society dedicated to advancing computing as an academic discipline. Its mission is to advance the creation, study and application of knowledge in computing for the benefit of society. This mission is a core component of the BCS’s Roy",
+        "distance": 0.5114110112190247
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-591544719572937255": {
+    "query_id": "-591544719572937255",
+    "query": "why metals corrode and prevention",
+    "relevants": [
+      {
+        "relevant_doc": 221,
+        "relevant_url": "http://www.wisegeek.com/what-is-corrosion.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 221,
+        "title": "What is Corrosion?",
+        "url": "http://www.wisegeek.com/what-is-corrosion.htm",
+        "combined_text": "What is Corrosion? Most people have seen the end results of corrosion on a number of appliances, vehicles, and other items that included metal components. But what is corrosion and how does it develop? Here are the basics of how corrosion begins and what can be done to prevent corrosion from ruining valuable items. Co",
+        "distance": 0.525505781173706
+      },
+      {
+        "id": 806,
+        "title": "Rust Preventive Oil",
+        "url": "http://www.amrolgroup.com/rust-preventive-oil.html",
+        "combined_text": "Rust Preventive Oil Home » Products »Rust Preventive Oil We have in our repertoire a qualitative range of Rust Preventive Oil. Our range is processed using advanced technology and in accordance with the required quality standards of the industry. These are made available in different packaging sizes as per the specific",
+        "distance": 0.6790556311607361
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7733456900962973007": {
+    "query_id": "7733456900962973007",
+    "query": "high voltage pulsed power systems",
+    "relevants": [
+      {
+        "relevant_doc": 1689,
+        "relevant_url": "http://www.appliedpulsedpower.com/technologies"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1689,
+        "title": "TECHNOLOGIES",
+        "url": "http://www.appliedpulsedpower.com/technologies",
+        "combined_text": "TECHNOLOGIES TECHNOLOGIESHigh voltage, high current, pulsed power engineering We engineer pulsed technology from single rack-mounted drivers to multi-pulser systems and large pulsers consisting of Marx generators and multiple stages of pulse compression. Our repetitively pulsed systems include a solid state 10k",
+        "distance": 0.42007938027381897
+      },
+      {
+        "id": 1104,
+        "title": "Basic Electronics",
+        "url": "https://www.clear.rice.edu/elec201/Book/basic_elec.html",
+        "combined_text": "Basic Electronics \"Subsections What is Charge? Charge exists. Charge comes in two styles. Charge is conserved. Voltage Current Batteries Circuit Elements Resistors Ohm's Law Power Combinations of Resistors Capacitors Combinations of Capacitors Inductors Combinations of Inductors Semiconductor Devices The Truth About",
+        "distance": 0.6261623501777649
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-7452336958280101587": {
+    "query_id": "-7452336958280101587",
+    "query": "best diamond cuts for sparkle",
+    "relevants": [
+      {
+        "relevant_doc": 1702,
+        "relevant_url": "http://www.mazaldiamond.com/blog-en/types-of-diamond-cut/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1702,
+        "title": "Three Great Options",
+        "url": "http://www.mazaldiamond.com/blog-en/types-of-diamond-cut/",
+        "combined_text": "Three Great Options Tweet Three Great Options Cutting a diamond is no simple matter; it takes precision and skill to cut the rough diamond in a way that will ensure maximum diamond brilliance and sparkle. It all began back in the 15 th century when diamond cutters first started to explore the best way to cut a diamond.",
+        "distance": 0.26005470752716064
+      },
+      {
+        "id": 1619,
+        "title": "Buying a Diamond: Does Size Really Matter?",
+        "url": "http://www.jewelrywise.com/engagement-wedding/article/does-the-size-of-the-diamond-matter",
+        "combined_text": "Buying a Diamond: Does Size Really Matter? Buying a Diamond: Does Size Really Matter? Hung up on size? Get the scoop on how to buy a diamond that expresses how big your love is. How big? It’s often the foremost question in the minds of nervous diamond engagement ring shoppers, yet you’ll notice jewelry store salespeople have a hard time answ",
+        "distance": 0.461428165435791
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "5611895761075153047": {
+    "query_id": "5611895761075153047",
+    "query": "Priyanka Chopra wealth and background",
+    "relevants": [
+      {
+        "relevant_doc": 175,
+        "relevant_url": "http://www.bornrich.com/priyanka-chopra.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 175,
+        "title": "Priyanka Chopra Net Worth",
+        "url": "http://www.bornrich.com/priyanka-chopra.html",
+        "combined_text": "Priyanka Chopra Net Worth \"Priyanka Chopra Net Worth Net Worth $ 8 Million About Quotes Trivia Born on: 18th Jul 82Born in: India Marital status: Single Occupation: TV/Film Industry Priyanka Chopra net worth is estimated at $8 million. Chopra, Miss World 2000 winner is an Indian film actress and singer. Priyanka Chopra net w",
+        "distance": 0.21143928170204163
+      },
+      {
+        "id": 1291,
+        "title": "Adam Levine told ex-girlfriend Nina Agdal that he was engaged to Behati Prinsloo 'via text message'",
+        "url": "http://www.dailymail.co.uk/tvshowbiz/article-2376415/Adam-Levine-told-ex-girlfriend-Nina-Agdal-engaged-Behati-Prinsloo-text-message.html",
+        "combined_text": "Adam Levine told ex-girlfriend Nina Agdal that he was engaged to Behati Prinsloo 'via text message' Adam Levine told ex-girlfriend Nina Agdal that he was engaged to Behati Prinsloo 'via text message'By Daily Mail Reporter Published: 10:46 EDT, 24 July 2013 | Updated: 11:30 EDT, 24 July 2013103View comments He has been known for dating a string of beautiful models in a relatively short space of tim",
+        "distance": 0.793440043926239
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7701521291223041900": {
+    "query_id": "7701521291223041900",
+    "query": "Should I choose i5 or i7",
+    "relevants": [
+      {
+        "relevant_doc": 705,
+        "relevant_url": "http://www.digitaltrends.com/computing/intel-core-i5-vs-i7/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 705,
+        "title": "Yes â Core i7 is faster than Core i5. But whatâs the real difference?",
+        "url": "http://www.digitaltrends.com/computing/intel-core-i5-vs-i7/",
+        "combined_text": "Yes â Core i7 is faster than Core i5. But whatâs the real difference? Computing Yes — Core i7 is faster than Core i5. But what’s the real difference? By Brad Bourque — Posted on November 24, 2017 - 5:00PMAs much as AMD’s Ryzen CPUs made a big comeback for the red team in 2017, Intel’s Core i5 and i7 CPUs are still some of the most popular. But what’s the difference wh",
+        "distance": 0.4412930905818939
+      },
+      {
+        "id": 1880,
+        "title": "i5 6600k Temperature",
+        "url": "http://www.tomshardware.com/answers/id-2786996/6600k-temperature.html",
+        "combined_text": "i5 6600k Temperature \"Closedi5 6600k Temperature Gallarian Sep 3, 2015, 5:22 AMHey guys, Got my new Skylake system up and running, and to cool my i5-6600k @4.5ghz, I've installed a Corsair H100i with 2x Corsair SP120 Quiet fans. My case doesnt have enough room to mount the radiator fans inside, so they're currently pull",
+        "distance": 0.7088273763656616
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "738364187659517906": {
+    "query_id": "738364187659517906",
+    "query": "standard boxing round duration",
+    "relevants": [
+      {
+        "relevant_doc": 1422,
+        "relevant_url": "http://www.answers.com/Q/How_long_is_a_round_in_boxing"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1422,
+        "title": "How long is a round in boxing?",
+        "url": "http://www.answers.com/Q/How_long_is_a_round_in_boxing",
+        "combined_text": "How long is a round in boxing? \"Answers.com ® Wiki Answers ® Categories Jobs & Education Education School Subjects How long is a round in boxing? Flag How long is a round in boxing? Answer by Isadora Duncan Confidence votes 67.2KThe length of a professional boxing round for men is 3 mins and women are 2 mins. The length of an ama",
+        "distance": 0.31718960404396057
+      },
+      {
+        "id": 1140,
+        "title": "The Complete Guide to Boxing Gloves",
+        "url": "http://www.ebay.com/gds/The-Complete-Guide-to-Boxing-Gloves-/10000000001606490/g.html",
+        "combined_text": "The Complete Guide to Boxing Gloves Home Buying Guides Sporting Goods Boxing, Martial Arts & MMA Other Combat Sport Supplies The Complete Guide to Boxing Gloveskochmartialarts 257 Likes Like August 13, 2006The Complete Guide to Boxing Glovesfor Boxing, Kickboxing, and Martial Artsby Revgearprinted by Koch Martial Arts & Fitness Supply",
+        "distance": 0.5519613027572632
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8350239017650775268": {
+    "query_id": "-8350239017650775268",
+    "query": "why surgeon-owned orthopedic hospitals succeed",
+    "relevants": [
+      {
+        "relevant_doc": 1873,
+        "relevant_url": "http://www.beckershospitalreview.com/news-analysis/why-a-physician-owned-orthopedics-specialty-hospital-can-succeed-qaa-with-rothman-specialty-hospital.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1873,
+        "title": "Why a Physician-Owned Orthopedics Specialty Hospital Can Succeed: Q&A With Rothman Specialty Hospital",
+        "url": "http://www.beckershospitalreview.com/news-analysis/why-a-physician-owned-orthopedics-specialty-hospital-can-succeed-qaa-with-rothman-specialty-hospital.html",
+        "combined_text": "Why a Physician-Owned Orthopedics Specialty Hospital Can Succeed: Q&A With Rothman Specialty Hospital Why a Physician-Owned Orthopedics Specialty Hospital Can Succeed: Q&A With Rothman Specialty Hospital Written by Laura Dyrda ( Twitter | Google+) | July 11, 2012 | Print | Email Rothman Specialty Hospital, based in Bensalem, Pa., is a 65,000-squre-foot facility in partnership with the physicians of",
+        "distance": 0.4871639907360077
+      },
+      {
+        "id": 2276,
+        "title": "Scrub Tech Salary",
+        "url": "http://www.healthcareworkersalary.com/technicians-and-technologists/scrub-tech-salary/",
+        "combined_text": "Scrub Tech Salary Scrub technicians, commonly referred to as surgical nurses in the medical environment, are trained health care providers who work close to surgeons and other physicians in the operating room. It is the duty of the scrub tech to pass the surgeon all the surgical instruments he requires, and it is als",
+        "distance": 0.51985764503479
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3854083209244059466": {
+    "query_id": "3854083209244059466",
+    "query": "KPO vs BPO career prospects",
+    "relevants": [
+      {
+        "relevant_doc": 521,
+        "relevant_url": "http://www.jagranjosh.com/careers/kpo-and-bpo-1286370985-1"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 521,
+        "title": "Career in KPO and BPO",
+        "url": "http://www.jagranjosh.com/careers/kpo-and-bpo-1286370985-1",
+        "combined_text": "Career in KPO and BPO Career in KPO and BPOIntroduction Step-by-Step Start Early Is it the Right Career for Me? Job Prospects Pay Packet Demand and Supply Market Watch International Focus Positives/Negatives Different Roles, Different Names Top Companies Tips for Getting Hired Introduction BPOs and KPOs have thrown open",
+        "distance": 0.26082706451416016
+      },
+      {
+        "id": 201,
+        "title": "What Determines Small Business vs. Large Business?",
+        "url": "http://smallbusiness.chron.com/determines-small-business-vs-large-business-20302.html",
+        "combined_text": "What Determines Small Business vs. Large Business? \"Related Articles1What Size Company Is Considered a Mid-Size Company?2The Difference Between Big Businesses & Small Business3Big Business Vs. Small Business4Big-Business vs. Small-Business Preference Contracts The U. S. Small Business Administration operates in accordance with Public Law 85-536, cal",
+        "distance": 0.7049597501754761
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "6982018474910224468": {
+    "query_id": "6982018474910224468",
+    "query": "dental assistant pay in Washington DC",
+    "relevants": [
+      {
+        "relevant_doc": 324,
+        "relevant_url": "https://www.sokanu.com/careers/dental-assistant/salary/District%20of%20Columbia/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 324,
+        "title": "Dental Assistant Salary in District of Columbia",
+        "url": "https://www.sokanu.com/careers/dental-assistant/salary/District%20of%20Columbia/",
+        "combined_text": "Dental Assistant Salary in District of Columbia How much does a Dental Assistant make in District of Columbia? Table of Contents How much do Dental Assistants make in District of Columbia? Dental Assistant earnings by seniority Dental Assistant Salary Dental Assistant salary comparison Historical salary for Dental Assistants in District of Columb",
+        "distance": 0.2774116098880768
+      },
+      {
+        "id": 2174,
+        "title": "The Starting Wage for a Medical Assistant",
+        "url": "http://work.chron.com/starting-wage-medical-assistant-2325.html",
+        "combined_text": "The Starting Wage for a Medical Assistant Related Articles1Starting Salaries for Certified Medical Assistants2How to Obtain a Position as a Medical Assistant3How Much Does a Medical Assistant Make an Hour?4The Average Hourly Rate for a Medical Assistant Medical assistants are health-care workers who provide patient services and administrati",
+        "distance": 0.6281089186668396
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-771271075563712731": {
+    "query_id": "-771271075563712731",
+    "query": "Do Puerto Rico residents pay federal taxes",
+    "relevants": [
+      {
+        "relevant_doc": 1783,
+        "relevant_url": "https://en.wikipedia.org/wiki/Taxation_in_Puerto_Rico"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1783,
+        "title": "Taxation in Puerto Rico",
+        "url": "https://en.wikipedia.org/wiki/Taxation_in_Puerto_Rico",
+        "combined_text": "Taxation in Puerto Rico \"Taxation in Puerto Rico From Wikipedia, the free encyclopedianavigation search Since Puerto Rico is a U. S. territory only government employees pay federal income tax. All other employers and employees pay no federal income taxes. Contents [ hide ]1 Federal taxes2 Commonwealth taxes2.1 Sales tax3 S",
+        "distance": 0.22732754051685333
+      },
+      {
+        "id": 214,
+        "title": "Inside the Billion-Dollar Battle for Puerto Ricoâs Future",
+        "url": "https://www.nytimes.com/2015/12/20/us/politics/puerto-rico-money-debt.html",
+        "combined_text": "Inside the Billion-Dollar Battle for Puerto Ricoâs Future \"The exclusive Condado neighborhood of San Juan in Puerto Rico, seen from the Caribe Hilton. Tax breaks have drawn an influx of wealthy financial professionals to the area. Christopher Gregory for The New York Times Inside the Billion-Dollar Battle for Puerto Rico’s Future By JONATHAN MAHLER and NIC",
+        "distance": 0.49221301078796387
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "2364702953796490005": {
+    "query_id": "2364702953796490005",
+    "query": "US substitute for golden syrup",
+    "relevants": [
+      {
+        "relevant_doc": 1370,
+        "relevant_url": "https://cooking.stackexchange.com/questions/43920/what-is-the-us-equivalent-of-golden-syrup-uk"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1370,
+        "title": "What is the US equivalent of Golden Syrup (UK)?",
+        "url": "https://cooking.stackexchange.com/questions/43920/what-is-the-us-equivalent-of-golden-syrup-uk",
+        "combined_text": "What is the US equivalent of Golden Syrup (UK)? \"_Seasoned Advice is a question and answer site for professional and amateur chefs. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top What is the US equivalent of Golden Syrup (UK)?up vote9d",
+        "distance": 0.601874589920044
+      },
+      {
+        "id": 1959,
+        "title": "Stevia is sweet - but is it safe?",
+        "url": "http://www.theglobeandmail.com/life/health-and-fitness/stevia-is-sweet---but-is-it-safe/article572504/",
+        "combined_text": "Stevia is sweet - but is it safe? \"Carly Weeks Published October 22, 2009Updated March 26, 2017Forget sugar. And aspartame. And sucralose. Although it's not yet authorized for use as an additive in food, a low-calorie, all-natural sweetener is making its way into Canadian products, with environmentally-themed marketing strategies th",
+        "distance": 0.723358690738678
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-1701740001612688348": {
+    "query_id": "-1701740001612688348",
+    "query": "help for homeless magazine vendors",
+    "relevants": [
+      {
+        "relevant_doc": 1814,
+        "relevant_url": "https://www.bigissue.org.uk/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1814,
+        "title": "Our work",
+        "url": "https://www.bigissue.org.uk/",
+        "combined_text": "Our work Our work The Big Issue offers people facing poverty and exclusion the opportunity to earn their own money; a livelihood. The Big Issue Foundation is an independent charity working alongside the magazine distribution network. We aim to maximize the success of each vendor’s selling career and engage t",
+        "distance": 0.6115981340408325
+      },
+      {
+        "id": 1165,
+        "title": "Home Depot Roofing Consumer Reviews",
+        "url": "http://mythreecents.com/reviews/home-depot-roofing",
+        "combined_text": "Home Depot Roofing Consumer Reviews \"Home Depot Roofing Consumer Reviews Most Popular | Newest | More Options >Swift to Accomodate the Sale, Worse Experience With Contractor and Project Management By Jose - 10/21/2017SUNRISE, FLORIDA -- The Home Depot has a reputation that lured us to buy from the roof replacement on our house. The sa",
+        "distance": 0.7366155982017517
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "6096127965166425500": {
+    "query_id": "6096127965166425500",
+    "query": "how much movie stars really earn",
+    "relevants": [
+      {
+        "relevant_doc": 2231,
+        "relevant_url": "http://www.etonline.com/news/152027_12_shocking_secrets_of_movie_stars_salaries/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2231,
+        "title": "12 Shocking Secrets of Movie Stars' Salaries",
+        "url": "http://www.etonline.com/news/152027_12_shocking_secrets_of_movie_stars_salaries/",
+        "combined_text": "12 Shocking Secrets of Movie Stars' Salaries \"News12 Shocking Secrets of Movie Stars' Salaries By Zach Seemayer 9:09 PM PDT, October 2, 2014We all knew celebs make big bucks for appearing in films, on TV, in commercials, in video games, and for just showing up at night clubs. But according to this recent comprehensive examination of Hollywood",
+        "distance": 0.523405134677887
+      },
+      {
+        "id": 1296,
+        "title": "Scorpion",
+        "url": "http://www.tv.com/shows/scorpion/cast/",
+        "combined_text": "Scorpion \"Scorpion Follow Monday 10:00 PM on CBS Premiered Sep 22, 2014 In Season USER EDITORTesser TOverview Episode Guide Watch Online Cast & Crew Community Fan Reviews News Photos Trivia Scorpion Cast FILTER BY ROLEAll (849)Stars (7)Recurring Roles (14)Guest Stars (678)Cameos (0)Special Guest Stars (1)Wri",
+        "distance": 0.6400319933891296
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-6040782313757712400": {
+    "query_id": "-6040782313757712400",
+    "query": "Marius Petipa ballet master biography",
+    "relevants": [
+      {
+        "relevant_doc": 1374,
+        "relevant_url": "http://www.the-ballet.com/petipa.php"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1374,
+        "title": "Marius Petipa",
+        "url": "http://www.the-ballet.com/petipa.php",
+        "combined_text": "Marius Petipa \"Marius Petipaborn: 1818 died: 1910The son of Jean Petipa, an excellent ballet dancer and teacher himself, Marius Petipa was the second of the two boys that made up this dancing family. Petipa's older brother by three years, Lucien, ended up as a dancer and ballet master at the Paris Opera. Marius P",
+        "distance": 0.17163321375846863
+      },
+      {
+        "id": 65,
+        "title": "Veterinarian Salary",
+        "url": "http://www.healthcaresalaryworld.com/what-is-veterinarian-salary/",
+        "combined_text": "Veterinarian Salary Veterinarian Salaryby Tanja Z | 8 comments What is a Veterinarian Veterinarians (also known as Doctor of Veterinary Medicine or DVM, Animal Surgeon, Animal Pathologist, Small Animal Veterinarian, Large Animal Veterinarian, Public Health Veterinarian, Veterinary Doctor, Veterinary Physician, Veterina",
+        "distance": 0.7794922590255737
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3059750615636312476": {
+    "query_id": "3059750615636312476",
+    "query": "cost per kg for 12mm iron rod",
+    "relevants": [
+      {
+        "relevant_doc": 1058,
+        "relevant_url": "http://www.chinagrindingmill.net/our-solutions/12mm-iron-rod-price-per-kg.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1058,
+        "title": "12mm iron rod price per kg",
+        "url": "http://www.chinagrindingmill.net/our-solutions/12mm-iron-rod-price-per-kg.html",
+        "combined_text": "12mm iron rod price per kg What is the per kilogram price of iron rods used for making grill …Apr 20, 2011 · Best Answer: Better check up with the local dealer or trader. In internet also prices are available but I do not think that it will be of your use.» Free online chat!iron rod price in india – Crusher| Granite Crusher |",
+        "distance": 0.28601357340812683
+      },
+      {
+        "id": 462,
+        "title": "Design Engineer  Salary",
+        "url": "http://www.payscale.com/research/ZA/Job=Design_Engineer/Salary",
+        "combined_text": "Design Engineer  Salary Design Engineer Salary (South Africa)The average salary for a Design Engineer is R329,604 per year. Most people with this job move on to other positions after 20 years in this career. Experience strongly influences income for this job. R170K R240K R330K R470K R620KMEDIAN: R329,28810% 25% 50% 75% 90%",
+        "distance": 0.762066662311554
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3050682936494462397": {
+    "query_id": "3050682936494462397",
+    "query": "costs and tradeoffs of buried vs aerial power lines",
+    "relevants": [
+      {
+        "relevant_doc": 457,
+        "relevant_url": "http://www.elp.com/articles/powergrid_international/print/volume-18/issue-2/features/underground-vs-overhead-power-line-installation-cost-comparison-.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 457,
+        "title": "Underground vs. Overhead: Power Line Installation-Cost Comparison and Mitigation",
+        "url": "http://www.elp.com/articles/powergrid_international/print/volume-18/issue-2/features/underground-vs-overhead-power-line-installation-cost-comparison-.html",
+        "combined_text": "Underground vs. Overhead: Power Line Installation-Cost Comparison and Mitigation \"Underground vs. Overhead: Power Line Installation-Cost Comparison and Mitigation02/01/2013Sponsored by BY FRANK ALONSO AND CAROLYN A. E. GREENWELL, SAICHurricane Sandy left many electric utility executives, their customers, local and state government leaders and regulators contemplating placing ove",
+        "distance": 0.530550479888916
+      },
+      {
+        "id": 1499,
+        "title": "installation costs hardwood vs laminate vs vinyl plank",
+        "url": "http://ths.gardenweb.com/discussions/2371457/installation-costs-hardwood-vs-laminate-vs-vinyl-plank",
+        "combined_text": "installation costs hardwood vs laminate vs vinyl plank Flooringinstallation costs hardwood vs laminate vs vinyl planklosfelizdirt February 5, 2010i have two small rooms, about 200 square feet all together. I'm trying to figure out how much installation would be for each of these....how much time/costs would a professional charge? Prefinished hardwood vs",
+        "distance": 0.6529117226600647
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8948363945192018511": {
+    "query_id": "-8948363945192018511",
+    "query": "buy Microsoft Office suite",
+    "relevants": [
+      {
+        "relevant_doc": 2125,
+        "relevant_url": "http://www.officedepot.com/a/browse/microsoft-office-software/N=5+606564/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2125,
+        "title": "Microsoft Office Software",
+        "url": "http://www.officedepot.com/a/browse/microsoft-office-software/N=5+606564/",
+        "combined_text": "Microsoft Office Software Microsoft Office Software21 results Create professional-looking documents and reports or design marketing materials and presentations with popular Microsoft® Office® software and other Microsoft programs. Whether you are looking for the entire Microsoft Office Suite or extra programs like Publisher",
+        "distance": 0.23538510501384735
+      },
+      {
+        "id": 2485,
+        "title": "Using XML Mapping tools in Microsoft Word",
+        "url": "http://www.learningcomputer.com/using-xml-mapping-tools-in-microsoft-word/",
+        "combined_text": "Using XML Mapping tools in Microsoft Word Previous Next Using XML Mapping tools in Microsoft Word With needs and requirements that professionals put forward to programs like Microsoft office suite, which includes various applications such as Microsoft Word; it is constantly up to the workforce at such suite’s production houses’ workers, inn",
+        "distance": 0.3730106055736542
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3849492868261136931": {
+    "query_id": "3849492868261136931",
+    "query": "meaning of common telecom acronyms",
+    "relevants": [
+      {
+        "relevant_doc": 2149,
+        "relevant_url": "https://www.linkedin.com/pulse/14-telecom-acronyms-you-need-know-vincent-parisien"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2149,
+        "title": "14 Telecom Acronyms You Need to Know",
+        "url": "https://www.linkedin.com/pulse/14-telecom-acronyms-you-need-know-vincent-parisien",
+        "combined_text": "14 Telecom Acronyms You Need to Know 14 Telecom Acronyms You Need to Know Published on August 13, 2015Sign in to like this article9Sign in to comment on this article2Share0Vincent Parisien Follow Sign in to follow this author Vice-president Technology at Cimpl Companies everywhere are adopting more technology than ever. However, new tr",
+        "distance": 0.5568716526031494
+      },
+      {
+        "id": 1509,
+        "title": "What does RLQ stand for?",
+        "url": "https://www.acronymfinder.com/Slang/RLQ.html",
+        "combined_text": "What does RLQ stand for? What does RLQ stand for? Your abbreviation search returned 7 meaningsshowing only Slang/Internet Slang definitions ( Show all)Link/Page Citation Category Filters All definitions (7) Information Technology (2) Military & Government (0) Science & Medicine (1) Organizations, Schools, etc. (3) Business",
+        "distance": 0.5682344436645508
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-3586836546594056495": {
+    "query_id": "-3586836546594056495",
+    "query": "Joe Mauer raising twins private life",
+    "relevants": [
+      {
+        "relevant_doc": 1278,
+        "relevant_url": "http://www.startribune.com/mauers-want-normalcy-as-they-raise-twins-amid-his-celebrity/285972581/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1278,
+        "title": "Mauers want normalcy as they raise twins in shadow of his celebrity",
+        "url": "http://www.startribune.com/mauers-want-normalcy-as-they-raise-twins-amid-his-celebrity/285972581/",
+        "combined_text": "Mauers want normalcy as they raise twins in shadow of his celebrity \"285972581Mauers want normalcy as they raise twins in shadow of his celebrity In an interview with Cretin-Derham Hall's alumni magazine, the two graduates of the St. Paul high school also reminisced about their days as Raiders athletes. Joe pondered what the future may hold after his playing days ar",
+        "distance": 0.6363245844841003
+      },
+      {
+        "id": 1856,
+        "title": "Difference Between Twin and Double room",
+        "url": "http://www.differencebetween.net/business/difference-between-twin-and-double-room/",
+        "combined_text": "Difference Between Twin and Double room \"Difference Between Twin and Double room• Categorized under Business, Product & Services | Difference Between Twin and Double room Twin vs Double room When traveling or booking hotel rooms, people often come across the terms twin and double room. Most of the travelers think the two to be the same as",
+        "distance": 0.7699133157730103
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "1236726204015403827": {
+    "query_id": "1236726204015403827",
+    "query": "idiom for getting familiar at work",
+    "relevants": [
+      {
+        "relevant_doc": 2668,
+        "relevant_url": "http://www.gingersoftware.com/content/phrases/learn-the-ropes/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2668,
+        "title": "Learn the Ropes",
+        "url": "http://www.gingersoftware.com/content/phrases/learn-the-ropes/",
+        "combined_text": "Learn the Ropes < All Phrases Learn the Ropes Sep 4, 2014Learn the ropes means to learn how to do something. Example of use: “ Once I learn the ropes at my new job, I won’t be so nervous and I’ll be very good at the work I do.”Interesting fact Not surprisingly, the origin of the idiom “learn the ropes” is nautical.",
+        "distance": 0.7274274826049805
+      },
+      {
+        "id": 996,
+        "title": "Hostile Work Environment",
+        "url": "https://legaldictionary.net/hostile-work-environment/",
+        "combined_text": "Hostile Work Environment Hostile Work Environment The phrase hostile work environment is a civil law term that refers to the behavior of an individual in a workplace that creates an environment that makes work difficult or uncomfortable for another person. This includes behavior that may leave another employee feeling afrai",
+        "distance": 0.7501028776168823
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-7086921742132862218": {
+    "query_id": "-7086921742132862218",
+    "query": "open DBF database file Windows",
+    "relevants": [
+      {
+        "relevant_doc": 978,
+        "relevant_url": "http://www.solvusoft.com/en/file-extensions/file-extension-dbf/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 978,
+        "title": "What is File Extension DBF?",
+        "url": "http://www.solvusoft.com/en/file-extensions/file-extension-dbf/",
+        "combined_text": "What is File Extension DBF? \"What is File Extension DBF?by: Jay Geater, Chief Technology Writer Did someone email you a DBF file and you're not sure how to open it? Maybe you have found a DBF file on your computer and wondering what it's for? Windows might tell you that you can't open it, or in the worst case, you might encoun",
+        "distance": 0.2624642252922058
+      },
+      {
+        "id": 2666,
+        "title": "DBF Commander",
+        "url": "http://download.cnet.com/DBF-Commander/3000-2065_4-75212356.html",
+        "combined_text": "DBF Commander \"Home Windows Software Business Software Database Management Software DBF Commander DBF Commander Download Now Secure Download Average User Rating:5.0out of 1 votes Large play-pause toggle Play pause00:00 00:00Closed captions Settings Volume Fullscreen Publisher's Description From Elphsoft: DBF Comm",
+        "distance": 0.3459715247154236
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "314206454036103673": {
+    "query_id": "314206454036103673",
+    "query": "services to help people with disabilities work",
+    "relevants": [
+      {
+        "relevant_doc": 393,
+        "relevant_url": "http://www.naric.com/?q=en/FAQ/what-vocational-rehabilitation"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1861,
+        "title": "Disability Support Services",
+        "url": "http://www.towson.edu/dss/",
+        "combined_text": "Disability Support Services Disability Support Services Disability is an aspect of diversity that is integral to our society and to the Towson University community. Disability Support Services' (DSS) mission is to provide leadership in promoting equal access to educational opportunities to students with disabilities. DSS colla",
+        "distance": 0.39569830894470215
+      },
+      {
+        "id": 393,
+        "title": "What is Vocational Rehabilitation?",
+        "url": "http://www.naric.com/?q=en/FAQ/what-vocational-rehabilitation",
+        "combined_text": "What is Vocational Rehabilitation? What is Vocational Rehabilitation?mgarcia1 - Mon, 04/22/2013 - 04:32Vocational rehabilitation is made up of a series of services that are designed to facilitate the entrance into or return to work by people with disabilities or by people who have recently acquired an injury or disability. Some of th",
+        "distance": 0.5210648775100708
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "545717278095721188": {
+    "query_id": "545717278095721188",
+    "query": "become a Slimming World consultant cost",
+    "relevants": [
+      {
+        "relevant_doc": 479,
+        "relevant_url": "https://uk.answers.yahoo.com/question/index?qid=20090109071856AAFDsoi"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 479,
+        "title": "How do you start up as a slimming world consultant and how much does it cost to start?",
+        "url": "https://uk.answers.yahoo.com/question/index?qid=20090109071856AAFDsoi",
+        "combined_text": "How do you start up as a slimming world consultant and how much does it cost to start? Health Diet & Fitness How do you start up as a slimming world consultant and how much does it cost to start? Follow 7 answers Answers Relevance Rating Newest Oldest Best Answer: to be a consultant you have to be a successful member that has reached your target weight with food optimising (slimming w",
+        "distance": 0.25593554973602295
+      },
+      {
+        "id": 2109,
+        "title": "Slimming World in Huddersfield adds weight to argument for franchising",
+        "url": "http://www.examiner.co.uk/news/business/slimming-world-huddersfield-adds-weight-5024352",
+        "combined_text": "Slimming World in Huddersfield adds weight to argument for franchising News Slimming World in Huddersfield adds weight to argument for franchising A SLIMMING organisation in Huddersfield is adding weight to the claim that franchising can succeed in lean economic times. Share By Henryk Zientek Business Correspondent00:00, 3 FEB 2009 Updated 19:56, 12 JUL 2013Slimming Wo",
+        "distance": 0.5755863785743713
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-5578373690607863988": {
+    "query_id": "-5578373690607863988",
+    "query": "life of June Carter country star",
+    "relevants": [
+      {
+        "relevant_doc": 1195,
+        "relevant_url": "https://simple.wikipedia.org/wiki/June_Carter_Cash"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1195,
+        "title": "June Carter Cash",
+        "url": "https://simple.wikipedia.org/wiki/June_Carter_Cash",
+        "combined_text": "June Carter Cash \"June Carter Cash Carter playing at the Grand Ole Opry in Nashville, Tennessee, July 1999Background information Birth name Valerie June Carter Born June 23, 1929Origin Hiltons, Virginia, USADied May 15, 2003 (aged 73) Nashville, Tennessee, USAGenres Country Occupations Singer-songwriter, actress, da",
+        "distance": 0.4698925018310547
+      },
+      {
+        "id": 1874,
+        "title": "enterprise",
+        "url": "http://www.thesaurus.com/browse/enterprises",
+        "combined_text": "enterprise Relevance A-Z Complexity + Length +lists blocks Common Informal Synonyms for enterprisenoun adventure, undertakingactivity starbusiness starcompany starfirm staroperation starprogram starproject startrade starventure staraction staraffair starattempt starbaby starbag starballgame starbit starcampaig",
+        "distance": 0.5142802596092224
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "9080791364333566825": {
+    "query_id": "9080791364333566825",
+    "query": "how to contact Conair online store",
+    "relevants": [
+      {
+        "relevant_doc": 2636,
+        "relevant_url": "https://addresscustomerservicecenternumber.com/Customer-Service-Phone-Number/Conair-store-com/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2636,
+        "title": "Conair-store.com Phone Number",
+        "url": "https://addresscustomerservicecenternumber.com/Customer-Service-Phone-Number/Conair-store-com/",
+        "combined_text": "Conair-store.com Phone Number Conair-store.com Phone Number Please find the phone number, hours of operations and other related detail to contact Conair-store.com . You can share your experiences as well as improve customer support, but its not the beat way to reach Conair-store.com . You can contact Conair-store.com by calling",
+        "distance": 0.13957197964191437
+      },
+      {
+        "id": 490,
+        "title": "LCD TV Repair Tutorial - T-Con Board Common Symptoms & Solutions - How to Replace T-Con Board",
+        "url": "http://www.youtube.com/watch?v=aInbxbICue4",
+        "combined_text": "LCD TV Repair Tutorial - T-Con Board Common Symptoms & Solutions - How to Replace T-Con Board LCD TV Repair Tutorial - T-Con Board Common Symptoms & Solutions - How to Replace T-Con Board Shop Jimmy.com Subscribe 86KAdd to Share More757,561 views2,034204Published on Sep 11, 2013Common t-con board problems for LCD TV Repair Review CLICK HERE for Your Replacement T-Con Board: http://www.shopji",
+        "distance": 0.6029502153396606
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8206984054889039574": {
+    "query_id": "8206984054889039574",
+    "query": "KDE Phonon user and developer docs",
+    "relevants": [
+      {
+        "relevant_doc": 1928,
+        "relevant_url": "https://phonon.kde.org/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1928,
+        "title": "Userbase",
+        "url": "https://phonon.kde.org/",
+        "combined_text": "Userbase Userbase The User Base is your source for general information regarding Phonon. It provides high quality information for end users on what Phonon is and how to use it. Techbase The Tech Base is the primary place for high quality technical information about Phonon targeted at 3rd party developers. Co",
+        "distance": 0.5368853211402893
+      },
+      {
+        "id": 2689,
+        "title": "\"OpenEdge Error \"\"Java was started by returned exit code=1\"\" is returned and Progress Developer Studio crashes using Mylyn Task Editor\"",
+        "url": "http://knowledgebase.progress.com/articles/Article/000030722",
+        "combined_text": "\"OpenEdge Error \"\"Java was started by returned exit code=1\"\" is returned and Progress Developer Studio crashes using Mylyn Task Editor\" \"Open Edge Error \"\"Java was started by returned exit code=1\"\" is returned and Progress Developer Studio crashes using Mylyn Task Editor Printable View Information Environment Product: Open Edge Version: 11.x OS: Windows Other: Progress Developer Studio for Open Edge (PDSOE)Question/Problem Descripti",
+        "distance": 0.6576483845710754
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4078708593638282443": {
+    "query_id": "-4078708593638282443",
+    "query": "Detroit filmmaker tackles teen bullying",
+    "relevants": [
+      {
+        "relevant_doc": 239,
+        "relevant_url": "http://www.freep.com/story/entertainment/movies/2015/03/25/movie-metro-detroit-bullying-girl-like-amy-weber/70389800/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 239,
+        "title": "Metro Detroit filmmaker turns her camera on bullies",
+        "url": "http://www.freep.com/story/entertainment/movies/2015/03/25/movie-metro-detroit-bullying-girl-like-amy-weber/70389800/",
+        "combined_text": "Metro Detroit filmmaker turns her camera on bullies \" (Photo: handout)CONNECT TWEET LINKEDIN COMMENT EMAIL MOREA camera scans an empty high school hall and a row of desks as taunts can be heard in voice-over. \"\"Seriously, Jessica,\"\" an unseen girl says, \"\"if you disappeared, the world would be a better place. Just go end yourself. \"\"The trailer for \"",
+        "distance": 0.6516175866127014
+      },
+      {
+        "id": 2371,
+        "title": "Original Series",
+        "url": "http://www.screenjunkies.com/movies/actors-directors/10-best-male-teen-actors/",
+        "combined_text": "Original Series \"10 Best Male Teen Actorssomething here Learn about 10 best male teen actors to keep up with who's hot. These best male teen actors are young, versatile, and talented. These young male actors are all teenagers who have plenty of acting experience under their belts. Jake T. Austin. Jake T. Austin is",
+        "distance": 0.6606411933898926
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8538248792198408844": {
+    "query_id": "-8538248792198408844",
+    "query": "midcentury American method actor",
+    "relevants": [
+      {
+        "relevant_doc": 2474,
+        "relevant_url": "https://en.wikipedia.org/wiki/Montgomery_Clift"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1235,
+        "title": "Ron Perlman",
+        "url": "https://en.wikipedia.org/wiki/Ron_Perlman",
+        "combined_text": "Ron Perlman \"Ron Perlman From Wikipedia, the free encyclopedianavigation search For the American businessman, see Ronald Perelman. Ron Perlman Perlman in December 2016Born Ronald Francis [ citation needed]Perlman April 13, 1950 (age 67)Washington Heights, New York, U. S. Occupation Actor, voice actor Years acti",
+        "distance": 0.7051425576210022
+      },
+      {
+        "id": 2676,
+        "title": "James Cagney",
+        "url": "http://www.allmusic.com/artist/james-cagney-mn0000781832/biography",
+        "combined_text": "James Cagney Artist Biography by All Musicb. James Francis Cagney, 17 July 1899, New York City, New York, USA, d. 30 March 1986, Stanfordville, New York, USA. One of Hollywood’s all-time great stars, Cagney was a versatile actor with a tough-guy image - he was particularly renowned for his gangster movies - who",
+        "distance": 0.7379785180091858
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-6979504225683288152": {
+    "query_id": "-6979504225683288152",
+    "query": "EKG tech training certificate program",
+    "relevants": [
+      {
+        "relevant_doc": 2289,
+        "relevant_url": "http://www.ccbcmd.edu/Programs-and-Courses-Finder/ConED-Program/ekg-technician"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2289,
+        "title": "EKG Technician, Continuing Education Certificate",
+        "url": "http://www.ccbcmd.edu/Programs-and-Courses-Finder/ConED-Program/ekg-technician",
+        "combined_text": "EKG Technician, Continuing Education Certificate EKG Technician, Continuing Education Certificate EKG Technicians work in clinical laboratory settings, hospitals and sometimes in physicians' offices. Their main job is to perform EKGs and sometimes assist with stress tests. They also may operate and care for testing equipment, explain test procedur",
+        "distance": 0.30232036113739014
+      },
+      {
+        "id": 719,
+        "title": "Court Clerk Certification and Training Programs",
+        "url": "http://learn.org/articles/Court_Clerk_Certification_and_Training_Programs_FAQs.html",
+        "combined_text": "Court Clerk Certification and Training Programs Court Clerk Certification and Training Programs Court clerk training programs can provide some of the experience and education hours required to be eligible for a recognized certification in court administrative services. Learn about training options and topics. Schools offering Legal Administrative",
+        "distance": 0.5053194761276245
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4104252789966896364": {
+    "query_id": "-4104252789966896364",
+    "query": "study of how campaigns use digital media",
+    "relevants": [
+      {
+        "relevant_doc": 196,
+        "relevant_url": "http://www.journalism.org/2012/08/15/how-presidential-candidates-use-web-and-social-media/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1403,
+        "title": "digital marketing",
+        "url": "http://www.businessdictionary.com/definition/digital-marketing.html",
+        "combined_text": "digital marketing digital marketing Definition Popular Terms The promotion of products or brands via one or more forms of electronic media. For example, advertising mediums that might be used as part of the digital marketing strategy of a business could include promotional efforts made via the Internet, social media,",
+        "distance": 0.3876442015171051
+      },
+      {
+        "id": 1812,
+        "title": "What âdigitalâ really means",
+        "url": "https://www.mckinsey.com/industries/high-tech/our-insights/what-digital-really-means",
+        "combined_text": "What âdigitalâ really means Everyone wants to go digital. The first step is truly understanding what that means. Companies today are rushing headlong to become more digital. But what does digital really mean? For some executives, it’s about technology. For others, digital is a new way of engaging with customers. And for others",
+        "distance": 0.4641355872154236
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-862045631238777730": {
+    "query_id": "-862045631238777730",
+    "query": "avoid scams when selling on eBay",
+    "relevants": [
+      {
+        "relevant_doc": 2221,
+        "relevant_url": "http://www.ebay.com/gds/Protect-Yourself-from-FRAUD-on-eBay-/10000000001925093/g.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2221,
+        "title": "Protect Yourself from FRAUD on eBay",
+        "url": "http://www.ebay.com/gds/Protect-Yourself-from-FRAUD-on-eBay-/10000000001925093/g.html",
+        "combined_text": "Protect Yourself from FRAUD on eBay \"Home Buying Guides Everything Else Every Other Thing Protect Yourself from FRAUD on e Bayseymourkewl 7.2K Views 6 Likes Like Share September 29, 2006There are 2 things e Bay sellers should always do, routinely, in their practices as an e Bay seller in order to protect themselves from rampant fraud.",
+        "distance": 0.5066671371459961
+      },
+      {
+        "id": 150,
+        "title": "Products to Sell From Home: Extra Cash Through Sales",
+        "url": "https://blog.udemy.com/products-to-sell-from-home/",
+        "combined_text": "Products to Sell From Home: Extra Cash Through Sales Products to Sell From Home: Extra Cash Through Sales March 5, 2014 by April Klazema If you’re looking for a good way to make some extra money in your spare time, or for a chance to work from home with a more flexible schedule, selling products from home is often an easy and reliable method. However,",
+        "distance": 0.6262792944908142
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "2190632136166386275": {
+    "query_id": "2190632136166386275",
+    "query": "easy sausage soup recipe",
+    "relevants": [
+      {
+        "relevant_doc": 1842,
+        "relevant_url": "http://www.foodily.com/s/soupy-sausage"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1183,
+        "title": "What is a substitute for celery root in a soup?",
+        "url": "https://cooking.stackexchange.com/questions/13452/what-is-a-substitute-for-celery-root-in-a-soup",
+        "combined_text": "What is a substitute for celery root in a soup? _Seasoned Advice is a question and answer site for professional and amateur chefs. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top What is a substitute for celery root in a soup?up vote7do",
+        "distance": 0.58669513463974
+      },
+      {
+        "id": 1447,
+        "title": "Pink Valentine Frosting",
+        "url": "http://allrecipes.com/recipe/10414/pink-valentine-frosting/",
+        "combined_text": "Pink Valentine Frosting \"Home Recipes Desserts Frostings and Icings Pink Valentine Frosting24 made it | 21 reviews Recipe by: Laria Tabul\"\"Frosting for Easy Valentine Sandwich Cookies (see recipe). \"\"Save I Made It Print Pin Share Ingredients16 31On Sale What's on sale near you. We're showing stores near Seattle Update Loc",
+        "distance": 0.6769120693206787
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "538105764901868179": {
+    "query_id": "538105764901868179",
+    "query": "mapping process inputs to outputs",
+    "relevants": [
+      {
+        "relevant_doc": 1870,
+        "relevant_url": "https://www.isixsigma.com/topic/input-output-matrix/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1975,
+        "title": "ASIO (Audio Stream Input/Output)",
+        "url": "http://whatis.techtarget.com/definition/ASIO-Audio-Stream-Input-Output",
+        "combined_text": "ASIO (Audio Stream Input/Output) \"Definition ASIO (Audio Stream Input/Output)Posted by: Margaret Rouse What Is.com ASIO (Audio Stream Input/Output), developed by Steinberg, is a cross- platform, multi-channel audio transfer protocol that is being adopted by many of the manufacturers of audio /MIDI sequencing applications. It allows",
+        "distance": 0.6666433215141296
+      },
+      {
+        "id": 1603,
+        "title": "A Complete Guide to Land Surveying",
+        "url": "http://www.kompareit.com/homeandgarden/developers-engineers-land-surveying.html",
+        "combined_text": "A Complete Guide to Land Surveying A Complete Guide to Land Surveying Surveying Costs, Types and Hiring Tips Land surveyors mark land boundaries, create land maps and develop legal descriptions of property lines, among other tasks. They use existing property records, as well as computers, measuring tools and mapping systems as tools",
+        "distance": 0.6683825254440308
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-3400765560558939156": {
+    "query_id": "-3400765560558939156",
+    "query": "Lancaster NY court records clerk",
+    "relevants": [
+      {
+        "relevant_doc": 32,
+        "relevant_url": "http://www.countyoffice.org/lancaster-ny-clerk/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 32,
+        "title": "Lancaster Clerk Office",
+        "url": "http://www.countyoffice.org/lancaster-ny-clerk/",
+        "combined_text": "Lancaster Clerk Office Lancaster Clerk Office Home Government Administration Offices Clerk Offices New York Erie County Lancaster Find Lancaster New York clerk offices, including county, city, and circuit clerks, and clerks of court. Clerks provide information on public court records and legal documents, criminal, jail, a",
+        "distance": 0.18914969265460968
+      },
+      {
+        "id": 1564,
+        "title": "South Point Clerk Office",
+        "url": "http://www.countyoffice.org/south-point-oh-clerk/",
+        "combined_text": "South Point Clerk Office South Point Clerk Office Home Government Administration Offices Clerk Offices Ohio Lawrence County South Point Find South Point Ohio clerk offices, including county, city, and circuit clerks, and clerks of court. Clerks provide information on public court records and legal documents, criminal, jail,",
+        "distance": 0.5585896372795105
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-3398569679235683550": {
+    "query_id": "-3398569679235683550",
+    "query": "ideal pedaling speed for cyclists",
+    "relevants": [
+      {
+        "relevant_doc": 941,
+        "relevant_url": "http://www.road-bike.co.uk/articles/cyclingcadence.php"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 941,
+        "title": "Cycling cadence - target pedalling speeds",
+        "url": "http://www.road-bike.co.uk/articles/cyclingcadence.php",
+        "combined_text": "Cycling cadence - target pedalling speeds Cycling cadence - target pedalling speeds Cadence in cycling is the speed at which your legs turn. It is measured in revs per minute / pedal rotations per minute. Much the easiest way to measure cadence is with an attachment to your bike computer, but it is also easy to calculate as you are cycling",
+        "distance": 0.37484681606292725
+      },
+      {
+        "id": 2257,
+        "title": "Rotational Speed",
+        "url": "http://physics.tutorcircle.com/motion/rotational-speed.html",
+        "combined_text": "Rotational Speed Get a Tutor Sub Topics Rotational Speed Definition Rotational Speed Formula Rotational Speed of Earth Rotational Speed to Linear Speed Calculate Rotational Speed You could observe across rotating or spinning bodies like a motor runs, a ball spins, merry goes round etc. Each undergo movement as rotat",
+        "distance": 0.6302522420883179
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "5691097224527231466": {
+    "query_id": "5691097224527231466",
+    "query": "health risks of eucalyptus tea",
+    "relevants": [
+      {
+        "relevant_doc": 498,
+        "relevant_url": "http://cooking.stackexchange.com/questions/23816/eucalyptus-tea-is-it-safe-to-drink"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 498,
+        "title": "Eucalyptus tea: is it safe to drink?",
+        "url": "http://cooking.stackexchange.com/questions/23816/eucalyptus-tea-is-it-safe-to-drink",
+        "combined_text": "Eucalyptus tea: is it safe to drink? \"_Seasoned Advice is a question and answer site for professional and amateur chefs. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Eucalyptus tea: is it safe to drink?up vote7down votefav",
+        "distance": 0.5559037923812866
+      },
+      {
+        "id": 311,
+        "title": "Five Health Benefits of Lemon Myrtle Tea",
+        "url": "http://superfoodhealthbenefits.com/top-health-benefits-of-lemon-myrtle-tea/",
+        "combined_text": "Five Health Benefits of Lemon Myrtle Tea Home FOOD/DRINKS Five Health Benefits of Lemon Myrtle Tea Five Health Benefits of Lemon Myrtle Tea Top Health Benefits of Lemon Myrtle Tea Lemon myrtle tea has managed to hit the shelves of health stores all over the world. Lemon myrtle essential oil, which is known for a plethora of health benefits",
+        "distance": 0.6043365597724915
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "4545930904227738733": {
+    "query_id": "4545930904227738733",
+    "query": "methods to prevent turbocharger lag",
+    "relevants": [
+      {
+        "relevant_doc": 460,
+        "relevant_url": "https://en.wikipedia.org/wiki/Antilag_system"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 460,
+        "title": "Antilag system",
+        "url": "https://en.wikipedia.org/wiki/Antilag_system",
+        "combined_text": "Antilag system \"This article does not cite any sources. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (September 2008) ( Learn how and when to remove this template message)An anti-lag system ( ALS) or misfiring system is a system used on",
+        "distance": 0.7035338878631592
+      },
+      {
+        "id": 1923,
+        "title": "Payroll FAQs",
+        "url": "https://www.brockport.edu/support/human_resources/payroll/faq.html",
+        "combined_text": "Payroll FAQs \"Question: What is meant by \"\"lag\"\" payroll? Answer: All University State employees are paid on a biweekly lag basis. This means that you are paid for a two week pay period (beginning on a Thursday through the second Wednesday) two weeks after the conclusion of that pay period (exception: hourly emp",
+        "distance": 0.7071509957313538
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-1666626406737986883": {
+    "query_id": "-1666626406737986883",
+    "query": "tips for becoming an inspiring speaker",
+    "relevants": [
+      {
+        "relevant_doc": 1840,
+        "relevant_url": "http://www.personalitytutor.com/becoming-a-motivational-speaker.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1840,
+        "title": "Becoming A Motivational Speaker",
+        "url": "http://www.personalitytutor.com/becoming-a-motivational-speaker.html",
+        "combined_text": "Becoming A Motivational Speaker Becoming A Motivational Speaker Leadership Skills Personality Developement January 23, 2012History is rife with examples of orators who have altered its course, and inspired the lives of zillions, with their inspiring, outstanding, and electrifying oratory. And we aren’t just talking about Winston C",
+        "distance": 0.5839416980743408
+      },
+      {
+        "id": 1584,
+        "title": "How to time-align speaker drivers",
+        "url": "https://www.minidsp.com/applications/dsp-basics/time-alignment",
+        "combined_text": "How to time-align speaker drivers \"Time alignment basics How to time-align speaker drivers In this application note, we show you how to \"\"time align\"\" the drivers in your active DSP loudspeaker using the delay function of the mini DSP platforms. Why time-align? In a multi-way loudspeaker, the sound from different drivers will take s",
+        "distance": 0.6222143173217773
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "4150695854321863060": {
+    "query_id": "4150695854321863060",
+    "query": "how college students cite sources",
+    "relevants": [
+      {
+        "relevant_doc": 2183,
+        "relevant_url": "http://www.wgu.edu/info/college-students-guide-citation-styles"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 573,
+        "title": "How Much Do Finance Majors Make Right Out of College?",
+        "url": "https://careertrend.com/much-finance-majors-make-right-out-college-11918.html",
+        "combined_text": "How Much Do Finance Majors Make Right Out of College? Home » Students » College Degrees How Much Do Finance Majors Make Right Out of College? By Aurelio Locsin; Updated July 05, 2017Zedcor Wholly Owned/Photo Objects.net/Getty Images Majoring in finance at a college or university takes at least four years of full-time study and offers graduates access t",
+        "distance": 0.5544493198394775
+      },
+      {
+        "id": 2096,
+        "title": "Warning do not go to Carrington College....",
+        "url": "http://allnurses.com/online-nursing-schools/warning-do-not-492850.html",
+        "combined_text": "Warning do not go to Carrington College.... \"Latest Articles Programs Products Conferences Nursing Student › School / College Programs ›Warning do not go to Carrington College.... Help Your Peers! Submit a school review today!by I_love_yoga Views: 76,690 Comments: 19Ok so this actually happened today. I went up to Carrington College b.c a nig",
+        "distance": 0.5743280053138733
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "581263123469958412": {
+    "query_id": "581263123469958412",
+    "query": "how expertise gives leaders influence",
+    "relevants": [
+      {
+        "relevant_doc": 2173,
+        "relevant_url": "http://study.com/academy/lesson/expert-power-in-leadership-definition-examples-quiz.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2173,
+        "title": "Expert Power in Leadership: Definition & Examples",
+        "url": "http://study.com/academy/lesson/expert-power-in-leadership-definition-examples-quiz.html",
+        "combined_text": "Expert Power in Leadership: Definition & Examples Your next lesson will play in 10 seconds Add to Timeline Autoplay 72K views Create an account to start this course today Try it free for 5 days!Create An Account Recommended Lessons and Courses for You Related Lessons Related Courses Reward Power in Leadership: Definition & Example Referent Power in",
+        "distance": 0.6350946426391602
+      },
+      {
+        "id": 2575,
+        "title": "The 3-Point Process for Leadership Development",
+        "url": "http://danreiland.com/3-point-process-leadership-development/",
+        "combined_text": "The 3-Point Process for Leadership Development February 13, 2017 / 18 Comments The 3-Point Process for Leadership Development Leadership development never takes place in a vacuum. It’s not a program or event-based. Leadership development always starts with a leader. Always. A leadership culture is an environment where leadership development thri",
+        "distance": 0.6372174620628357
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "4768947245674234857": {
+    "query_id": "4768947245674234857",
+    "query": "disable Defender when using other antivirus",
+    "relevants": [
+      {
+        "relevant_doc": 430,
+        "relevant_url": "http://answers.microsoft.com/en-us/protect/forum/protect_defender-protect_start/how-to-disable-windows-defender-in-windows-7/a12f56cd-e3c9-4f41-9382-6069f77c78e2"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 430,
+        "title": "Q: How to disable Windows defender in Windows 7",
+        "url": "http://answers.microsoft.com/en-us/protect/forum/protect_defender-protect_start/how-to-disable-windows-defender-in-windows-7/a12f56cd-e3c9-4f41-9382-6069f77c78e2",
+        "combined_text": "Q: How to disable Windows defender in Windows 7 \"EG eghy asked on June 2, 2010Q: How to disable Windows defender in Windows 7I installed a new internet protection program and in \"\"action center\"\" display this message : window defender conflict with the otherone and make my pc run slow... How may i disabled window deender? Reply I have the same qu",
+        "distance": 0.39693161845207214
+      },
+      {
+        "id": 1454,
+        "title": "KasperskyAnti-Virus",
+        "url": "https://www.kaspersky.com/antivirus",
+        "combined_text": "KasperskyAnti-Virus Kaspersky Anti-Virus Protection against Ransomware (190 Reviews)With so much of your life stored on your PC, it’s important that you do all you can to protect it. Kaspersky Anti-Virus is the smarter way to protect everything on your PC… to help keep you safe from viruses, spyware & Trojans – and hel",
+        "distance": 0.4009205996990204
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "2676471125112177228": {
+    "query_id": "2676471125112177228",
+    "query": "skills needed to be a crop insurance agent",
+    "relevants": [
+      {
+        "relevant_doc": 387,
+        "relevant_url": "https://www.ag-risk.org/NCISPUBS/LAIPPUB/Art2100.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 387,
+        "title": "Skills Necessary To Succeed As A Crop Insurance Agent",
+        "url": "https://www.ag-risk.org/NCISPUBS/LAIPPUB/Art2100.htm",
+        "combined_text": "Skills Necessary To Succeed As A Crop Insurance Agent Skills Necessary To Succeed As A Crop Insurance Agent By Dr. Laurence M. Crane, NCISA top priority of every crop insurance company is securing and maintaining a professional sales force. In fact, the success and profitability of any crop insurance company largely is determined by the quality, and to",
+        "distance": 0.22344854474067688
+      },
+      {
+        "id": 2248,
+        "title": "How to Become a Certified Apartment Leasing Agent",
+        "url": "http://work.chron.com/become-certified-apartment-leasing-agent-11050.html",
+        "combined_text": "How to Become a Certified Apartment Leasing Agent \"Related Articles1How to Make a Resume for a Leasing Agent2The Requirements for a Leasing Agent3Leasing Agent Pay Scale4How to Become a Certified Data Entry Specialist As an apartment leasing agent, you're responsible for finding qualified tenants for rental units. An agent with poor leasing skills",
+        "distance": 0.5629421472549438
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8922843277772398438": {
+    "query_id": "-8922843277772398438",
+    "query": "Facebook page Impressum meaning",
+    "relevants": [
+      {
+        "relevant_doc": 657,
+        "relevant_url": "http://textycafe.com/impressum-facebook-what-is-impressum-on-facebook/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 657,
+        "title": "Impressum Meaning : What Is Impressum On Facebook?",
+        "url": "http://textycafe.com/impressum-facebook-what-is-impressum-on-facebook/",
+        "combined_text": "Impressum Meaning : What Is Impressum On Facebook? Home Career & Business Impressum Meaning : What Is Impressum On Facebook? Career & Business Online Marketing Impressum Meaning : What Is Impressum On Facebook? By Tcafe Desk 11SHAREtweet Updated: 10/28/17If you didn’t know yet, Facebook has added Impressum field feature for its business/other pages.",
+        "distance": 0.20633935928344727
+      },
+      {
+        "id": 765,
+        "title": "Buy Facebook Likes for Effective Promotion",
+        "url": "http://get-likes.com/",
+        "combined_text": "Buy Facebook Likes for Effective Promotion Time left:3days21hrs49min3sec Buy Facebook Likes for Effective Promotion Facebook is extremely popular social network throughout the world. It allows creating not only personal pages, but also business pages that may be used for effective promotion. A good opportunity to attract attention of the pub",
+        "distance": 0.5103444457054138
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "1778905183447713621": {
+    "query_id": "1778905183447713621",
+    "query": "explain TAM SAM SOM for startups",
+    "relevants": [
+      {
+        "relevant_doc": 1544,
+        "relevant_url": "https://www.thebusinessplanshop.com/blog/en/entry/tam_sam_som"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1544,
+        "title": "TAM SAM SOM - what it means and why it matters",
+        "url": "https://www.thebusinessplanshop.com/blog/en/entry/tam_sam_som",
+        "combined_text": "TAM SAM SOM - what it means and why it matters TAM SAM SOM - what it means and why it matters When doing their market analysis start-ups often refer to TAM, SAM, and SOM but what do these acronyms mean and why are they useful to investors when assessing an investment opportunity? TAM SAM SOM definition TAM, SAM and SOM are acronyms that represen",
+        "distance": 0.15241578221321106
+      },
+      {
+        "id": 1495,
+        "title": "Samantha Fox left devastated after long-term girlfriend loses two-year cancer battle",
+        "url": "http://www.mirror.co.uk/3am/celebrity-news/samantha-fox-left-devastated-after-6195165",
+        "combined_text": "Samantha Fox left devastated after long-term girlfriend loses two-year cancer battle \"Celebs Samantha Fox left devastated after long-term girlfriend loses two-year cancer battle Myra Stratton had been Sam's partner and manager for the last 16 years Share By Zoe Shenton Los Angeles Senior Showbiz and Entertainment Reporter05:51, 5 AUG 2015 Updated 08:59, 5 AUG 2015 (Image: Rex)Share",
+        "distance": 0.8073427081108093
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-1448240700956359143": {
+    "query_id": "-1448240700956359143",
+    "query": "Dell R710 firmware update instructions",
+    "relevants": [
+      {
+        "relevant_doc": 411,
+        "relevant_url": "http://yury.zaytsev.net/press/2011/06/04/dell-poweredge-r710-firmware.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 411,
+        "title": "Updating firmware on Dell PowerEdge R710",
+        "url": "http://yury.zaytsev.net/press/2011/06/04/dell-poweredge-r710-firmware.html",
+        "combined_text": "Updating firmware on Dell PowerEdge R710 Updating firmware on Dell Power Edge R710Introduction Updating firmware used to be an uncomplicated, albeit slightly dangerous process. Unfortunately, as the server hardware developed over time, it did not become any simpler, but rather evolved into even more of an arcane rite. Moreover, it seems th",
+        "distance": 0.2336595356464386
+      },
+      {
+        "id": 273,
+        "title": "How to Start Up the Dell Inspiron Recovery Partition",
+        "url": "http://yourbusiness.azcentral.com/start-up-dell-inspiron-recovery-partition-20249.html",
+        "combined_text": "How to Start Up the Dell Inspiron Recovery Partition \"How to Start Up the Dell Inspiron Recovery Partitionby Rebecca Mecomber Related Articles How to Factory Restore an HP Laptop With Recovery Manager Hard Drive Format Instructions for a Dell PP01LHow to Reload Windows XP Home Edition How to Get a Logitech Camera to Work on AIMHow to Use the Citrix Un",
+        "distance": 0.4771635830402374
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4121989782214066187": {
+    "query_id": "-4121989782214066187",
+    "query": "how much to hire construction engineers",
+    "relevants": [
+      {
+        "relevant_doc": 1501,
+        "relevant_url": "http://www.homewyse.com/services/cost_to_hire_engineering_and_construction_contractors.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1501,
+        "title": "Cost to Hire Engineering And Construction Contractors",
+        "url": "http://www.homewyse.com/services/cost_to_hire_engineering_and_construction_contractors.html",
+        "combined_text": "Cost to Hire Engineering And Construction Contractors \"Cost to Hire Engineering And Construction Contractors Updated: March 2018Contractor Screening and Selection Calculator Zip Code Contractors Item details Qty Low High Hire Contractor Labor, Basic Basic labor to hire engineering and construction contractors with favorable site conditions. Contractor",
+        "distance": 0.30118241906166077
+      },
+      {
+        "id": 13,
+        "title": "How Much Do Entry Level Civil Engineers Typically Make in Salary?",
+        "url": "http://learn.org/articles/How_Much_Do_Entry_Level_Civil_Engineers_Typically_Make_in_Salary.html",
+        "combined_text": "How Much Do Entry Level Civil Engineers Typically Make in Salary? How Much Do Entry Level Civil Engineers Typically Make in Salary? Civil engineers design, construct and maintain much of our country's infrastructure, including roads, dams, water treatment systems and bridges. If you're interested in learning more about the starting salaries and career opportunitie",
+        "distance": 0.4341166019439697
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8774730669888543990": {
+    "query_id": "-8774730669888543990",
+    "query": "Mark and Donnie Wahlberg open burger chain",
+    "relevants": [
+      {
+        "relevant_doc": 414,
+        "relevant_url": "http://www.dailymail.co.uk/news/article-2030144/Wahlburgers-Mark-Wahlberg-brother-Donnie-open-beefcake-restaurant.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 414,
+        "title": "Mark Wahlberg and brother Donnie set to open up beefcake restaurant chain Wahlburgers",
+        "url": "http://www.dailymail.co.uk/news/article-2030144/Wahlburgers-Mark-Wahlberg-brother-Donnie-open-beefcake-restaurant.html",
+        "combined_text": "Mark Wahlberg and brother Donnie set to open up beefcake restaurant chain Wahlburgers Mark Wahlberg and brother Donnie set to open up beefcake restaurant chain Wahlburgers By Rachel Quigley Updated: 15:12 EDT, 25 August 20115View comments Former popstars turned now actor brothers Mark and Donnie Wahlberg are opening a chain of restaurants called Wahlburgers. The only problem was, Tom",
+        "distance": 0.23082220554351807
+      },
+      {
+        "id": 1485,
+        "title": "How to Grill Frozen Beef Patties",
+        "url": "http://www.livestrong.com/article/474940-how-to-grill-frozen-beef-patties/",
+        "combined_text": "How to Grill Frozen Beef Patties How to Grill Frozen Beef Pattiesby DARIA KELLY UHLIG Oct. 03, 2017Frozen beef patties are a staple of many kitchens because they're quick and easy to prepare straight out of the freezer. Although you'll find several brands of pre-frozen patties at the supermarket, forming them yourself from fresh gr",
+        "distance": 0.6531107425689697
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4993515417770929119": {
+    "query_id": "-4993515417770929119",
+    "query": "cruise deals and travel agents",
+    "relevants": [
+      {
+        "relevant_doc": 1260,
+        "relevant_url": "http://www.avoyatravel.com/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1260,
+        "title": "Exclusive Deals. Vacation Experts. Personalized Service.",
+        "url": "http://www.avoyatravel.com/",
+        "combined_text": "Exclusive Deals. Vacation Experts. Personalized Service. Exclusive Deals. Vacation Experts. Personalized Service. Follow Us To A Better Vacation ™Search Cruises Search Tours Caribbean Cruises from $369 Europe Cruises from $609 Alaska Cruises from $609Last Minute Cruises",
+        "distance": 0.445175439119339
+      },
+      {
+        "id": 791,
+        "title": "CRUISE SHIP JOBS - FREQUENTLY ASKED QUESTIONS",
+        "url": "http://www.cruiseshipjob.com/frequent.htm",
+        "combined_text": "CRUISE SHIP JOBS - FREQUENTLY ASKED QUESTIONS \"CRUISE SHIP JOBS - FREQUENTLY ASKED QUESTIONSRegister for Cruise Ship Jobs Now!Please, read carefully the following section before you e-mail us your inquires. You might be able to find the answers here. Considering the fact that most of the major cruise lines are based in the United States, the in",
+        "distance": 0.48541733622550964
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-2132427337999254619": {
+    "query_id": "-2132427337999254619",
+    "query": "who won BGT 2012 with dog act",
+    "relevants": [
+      {
+        "relevant_doc": 1712,
+        "relevant_url": "http://www.huffingtonpost.co.uk/2012/05/12/britains-got-talent-winner_n_1512056.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1214,
+        "title": "Why are My Dog's Ears not Standing Up?",
+        "url": "https://pethelpful.com/dogs/Why-is-My-Dogs-Ear-not-Standing-Up",
+        "combined_text": "Why are My Dog's Ears not Standing Up? \"Pet Helpful » Dogs Why are My Dog's Ears not Standing Up? Updated on February 19, 2016Adrienne Janet Farricelli more Adrienne is a former veterinary hospital assistant, certified dog trainer, behavior consultant, and author of \"\"Brain Training for Dogs. \"\"A Boston Terrier's ears should stand up nat",
+        "distance": 0.6631356477737427
+      },
+      {
+        "id": 65,
+        "title": "Veterinarian Salary",
+        "url": "http://www.healthcaresalaryworld.com/what-is-veterinarian-salary/",
+        "combined_text": "Veterinarian Salary Veterinarian Salaryby Tanja Z | 8 comments What is a Veterinarian Veterinarians (also known as Doctor of Veterinary Medicine or DVM, Animal Surgeon, Animal Pathologist, Small Animal Veterinarian, Large Animal Veterinarian, Public Health Veterinarian, Veterinary Doctor, Veterinary Physician, Veterina",
+        "distance": 0.6988559365272522
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-5326975080665256798": {
+    "query_id": "-5326975080665256798",
+    "query": "capturing missed dealership service revenue",
+    "relevants": [
+      {
+        "relevant_doc": 565,
+        "relevant_url": "http://www.autodealermonthly.com/channel/parts-and-service/article/story/2008/07/missed-profit-opportunities.aspx"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 565,
+        "title": "Missed Profit Opportunities",
+        "url": "http://www.autodealermonthly.com/channel/parts-and-service/article/story/2008/07/missed-profit-opportunities.aspx",
+        "combined_text": "Missed Profit Opportunities Missed Profit Opportunities July 2008, Auto Dealer Today - Web Xclusiveby Don Reed - Also by this author Print In the pursuit of additional profit opportunities in your service department, you must focus on maintenance of your customers’ vehicles. This is a missed opportunity for many dealers who do",
+        "distance": 0.44455716013908386
+      },
+      {
+        "id": 1967,
+        "title": "Sales (accounting)",
+        "url": "https://en.wikipedia.org/wiki/Sales_(accounting)",
+        "combined_text": "Sales (accounting) \"In bookkeeping, accounting, and finance, Net sales are operating revenues earned by a company for selling its products or rendering its services. Also referred to as revenue, they are reported directly on the income statement as Sales or Net sales. In financial ratios that use income statement sale",
+        "distance": 0.6455746293067932
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "1335216530709160315": {
+    "query_id": "1335216530709160315",
+    "query": "early US parties farmers vs bankers",
+    "relevants": [
+      {
+        "relevant_doc": 2039,
+        "relevant_url": "http://politicalpartiesush.weebly.com/federalists-vs-democratic-republicans.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2039,
+        "title": "Federalists vs. Democratic Republicans",
+        "url": "http://politicalpartiesush.weebly.com/federalists-vs-democratic-republicans.html",
+        "combined_text": "Federalists vs. Democratic Republicans Federalists vs. Democratic Republicans Explanation for the Opposition The Democratic Republicans favored the Southern Farmers and did not want a national bank which the Federalists pushed for. The Federalists favored the Northern business owners and wanted a strong national bank. This strong nationa",
+        "distance": 0.610793948173523
+      },
+      {
+        "id": 2290,
+        "title": "Agricultural Products That Help Farmers Succeed",
+        "url": "http://www.dupont.ca/en/industries/agriculture.html",
+        "combined_text": "Agricultural Products That Help Farmers Succeed Home > Industries > Agriculture Share Contact Us Agricultural Products That Help Farmers Succeed Du Pont Agriculture offerings bring innovative science and solutions to meet the challenges faced by farmers today and into the future. In agriculture, succeeding for our customers means growing a health",
+        "distance": 0.6865125894546509
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-7884553398120768368": {
+    "query_id": "-7884553398120768368",
+    "query": "breakdown of firefighter gear weight",
+    "relevants": [
+      {
+        "relevant_doc": 783,
+        "relevant_url": "https://patch.com/connecticut/thehaddams-killingworth/bp--whats-it-weigh-firefighter-gear-piece-by-piece"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 783,
+        "title": "What's It Weigh?â¨ Firefighter gear, piece by pieceâ¨",
+        "url": "https://patch.com/connecticut/thehaddams-killingworth/bp--whats-it-weigh-firefighter-gear-piece-by-piece",
+        "combined_text": "What's It Weigh?â¨ Firefighter gear, piece by pieceâ¨ \"\"\"What's all that stuff weigh?\"\" – a popular question for Haddam firefighters, after \"\"What does that do?\"\" and \"\"Why are your fire trucks yellow?\"\" Depending on what a firefighter is carrying, all that extra gear can weigh more than 70 pounds. While most firefighters weigh \"\"none of your business,",
+        "distance": 0.276740163564682
+      },
+      {
+        "id": 2129,
+        "title": "Watch Fireproof",
+        "url": "https://www.yidio.com/movie/fireproof/28151",
+        "combined_text": "Watch Fireproof \"Watch Fireproof\"\"Never Leave Your Partner Behind. \"\"Add to Watchlist Fireproof is a Christian based film that takes place in Albany, Georgia in the present time. It is about a firefighter, Caleb, and his hospital administrator wife Catherine, married for 7 years. Because of a breakdown in communica",
+        "distance": 0.6613848805427551
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8277926148073665273": {
+    "query_id": "8277926148073665273",
+    "query": "send certified letters with proof online",
+    "relevants": [
+      {
+        "relevant_doc": 810,
+        "relevant_url": "http://smallbusiness.chron.com/send-certified-mail-online-45991.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 810,
+        "title": "How to Send Certified Mail Online",
+        "url": "http://smallbusiness.chron.com/send-certified-mail-online-45991.html",
+        "combined_text": "How to Send Certified Mail Online \"Related Articles1Difference Between Certified & Registered Mail2How to Track the Sender on Certified Mail3How to Send a Business Letter Certified4Direct Mail Ideas for Contractors Certified Mail offers extra security, a sense of importance and confirmation that the mail has reached its destination,",
+        "distance": 0.39048171043395996
+      },
+      {
+        "id": 1724,
+        "title": "A cut above",
+        "url": "http://www.benefitspro.com/2007/11/01/a-cut-above",
+        "combined_text": "A cut above \"Think of the last time someone handed you a business card, especially if it was someone from your industry. What did you do? Chances are you glanced at the person's name to see if there were any additional letters there -- the kind of letters that stand for designations and certifications obtained.",
+        "distance": 0.5946102738380432
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "4037245118556110358": {
+    "query_id": "4037245118556110358",
+    "query": "Spencer Sachs Seattle content creator",
+    "relevants": [
+      {
+        "relevant_doc": 1900,
+        "relevant_url": "https://www.linkedin.com/in/spencer-sachs-65998931"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1900,
+        "title": "Spencer Sachs",
+        "url": "https://www.linkedin.com/in/spencer-sachs-65998931",
+        "combined_text": "Spencer Sachs \"Spencer Sachs Storyteller • Content creator • Choice architect • Do-gooder Seattle, Washington Telecommunications Current T-Mobile Previous Outcome Health, HY Connect, Beast / Company 3 / Method Studios Education Full Sail University Websites Personal Website269 connections View Spencer Sachs’ full",
+        "distance": 0.26903626322746277
+      },
+      {
+        "id": 217,
+        "title": "Seattle sales tax goes up Wednesday to benefit Metro Transit",
+        "url": "https://www.seattletimes.com/seattle-news/transportation/seattle-sales-tax-to-rise-wednesday-for-extra-metro-funding/",
+        "combined_text": "Seattle sales tax goes up Wednesday to benefit Metro Transit Local Business Local News Traffic Lab Seattle sales tax goes up Wednesday to benefit Metro Transit Originally published March 31, 2015 at 8:17 am Updated March 31, 2015 at 9:12 am Seattle's sales tax will rise from 9.5 to 9.6 percent starting Wednesday. By Evan Bush Seattle Times staff reporter Get",
+        "distance": 0.6805450320243835
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4593016177518816262": {
+    "query_id": "-4593016177518816262",
+    "query": "how to tell car battery polarity",
+    "relevants": [
+      {
+        "relevant_doc": 436,
+        "relevant_url": "http://www.answers.com/Q/How_do_you_know_if_a_car_has_a_negative_or_positive_grounded_battery"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 436,
+        "title": "How do you know if a car has a negative or positive grounded battery?",
+        "url": "http://www.answers.com/Q/How_do_you_know_if_a_car_has_a_negative_or_positive_grounded_battery",
+        "combined_text": "How do you know if a car has a negative or positive grounded battery? \"Answers.com ® Wiki Answers ® Categories Cars & Vehicles Auto Parts and Repairs Car Electronics and Lights Car Batteries How do you know if a car has a negative or positive grounded battery? Flag How do you know if a car has a negative or positive grounded battery? Answer by David Warnick Confidence",
+        "distance": 0.3635067343711853
+      },
+      {
+        "id": 135,
+        "title": "The Dangers of Battery Acid",
+        "url": "http://www.batteriesinaflash.com/blog/the-dangers-of-battery-acid/",
+        "combined_text": "The Dangers of Battery Acid \"The Dangers of Battery Acid This entry was posted on October 24, 2013 by Avel Ureno. Batteries are a common part of daily life; they provide power for everything from your car to your smartphone. Although batteries are inherently safe when intact, most battery types contain harmful chemicals that c",
+        "distance": 0.5289663076400757
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-9094053439595809089": {
+    "query_id": "-9094053439595809089",
+    "query": "who played the young drovers in The Cowboys",
+    "relevants": [
+      {
+        "relevant_doc": 2598,
+        "relevant_url": "http://rapidcityjournal.com/news/local/communities/belle_fourche/who-are-those-cowboys-from-the-movie/article_42e37376-9874-5858-90ae-51d12a458314.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2598,
+        "title": "Who are those 'Cowboys' from the 1972 movie?",
+        "url": "http://rapidcityjournal.com/news/local/communities/belle_fourche/who-are-those-cowboys-from-the-movie/article_42e37376-9874-5858-90ae-51d12a458314.html",
+        "combined_text": "Who are those 'Cowboys' from the 1972 movie? \"centerpiece Who are those 'Cowboys' from the 1972 movie? By Milo Dailey Butte County Post staff Aug 1, 2012Subscribe for 33¢ / day Buy Now Five of the 11 young actors who played schoolboys turned to drovers in the 1972 John Wayne classic movie, The Cowboys, all agreed they felt as if they'd just le",
+        "distance": 0.3723621368408203
+      },
+      {
+        "id": 1909,
+        "title": "Daily Life in Olden Times for KidsSouthwest Navajo Indians Food & Clothing",
+        "url": "http://nativeamericans.mrdonn.org/southwest/navajo/food-clothing.html",
+        "combined_text": "Daily Life in Olden Times for KidsSouthwest Navajo Indians Food & Clothing \"Kids Teachers Powerpoints Games Stories Daily Life in Olden Times for Kids Southwest Navajo Indians Food & Clothing What did they eat? The Navajo were farmers, hunters and gatherers. They hunted on horseback. But they tended sheep and planted corn. The sheep were important. Sheep provided wool and",
+        "distance": 0.7394140958786011
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-7348631400774314228": {
+    "query_id": "-7348631400774314228",
+    "query": "Do circuit breakers wear out",
+    "relevants": [
+      {
+        "relevant_doc": 188,
+        "relevant_url": "https://answers.yahoo.com/question/index?qid=20090210114824AAdcDub"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 188,
+        "title": "Can circuit breakers become weak?",
+        "url": "https://answers.yahoo.com/question/index?qid=20090210114824AAdcDub",
+        "combined_text": "Can circuit breakers become weak? Home & Garden Maintenance & Repairs Can circuit breakers become weak? Neighbor told me his breaker for air/heat will sometimes shut off, air always works and heat always works but every so often the breaker shuts off. I told him that breakers could in fact become weak, the more the swtich is used th",
+        "distance": 0.3830030858516693
+      },
+      {
+        "id": 999,
+        "title": "Entrepreneur Of The Year Â®celebrates mold-breakers.",
+        "url": "http://www.ey.com/us/en/about-us/entrepreneurship/entrepreneur-of-the-year",
+        "combined_text": "Entrepreneur Of The Year Â®celebrates mold-breakers. Entrepreneur Of The Year ®celebrates mold-breakers. For the 32nd year, EY is seeking entrepreneurs whose boldness drives them to do things differently and change our world in the most unexpected ways. The nominations are in!Nominations for the Entrepreneur Of The Year ®2018 season are now closed, an",
+        "distance": 0.6277857422828674
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "4177470744824543283": {
+    "query_id": "4177470744824543283",
+    "query": "directions to Harrods from tube",
+    "relevants": [
+      {
+        "relevant_doc": 2397,
+        "relevant_url": "http://www.harrods.com/visiting-the-store"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2397,
+        "title": "Visiting the Store",
+        "url": "http://www.harrods.com/visiting-the-store",
+        "combined_text": "Visiting the Store Home Visiting the Store How to find us Map data ©2018 Google Terms of Use Sign in Harrods View larger map Tube The nearest tube station to Harrods is Knightsbridge on the Piccadilly line. Use the Brompton Road exit for Harrods. South Kensingtonstation, on the Piccadilly, District and Circle lines, a",
+        "distance": 0.359734445810318
+      },
+      {
+        "id": 1974,
+        "title": "Travel Directions",
+        "url": "http://www.branchburg.nj.us/about/directions/index.php",
+        "combined_text": "Travel Directions Home» About» Directions E-Notify Travel Directions DIRECTIONS TO TOWNSHIP OF BRANCHBURG MUNICIPAL COMPLEXTo program a GPS, please use 590 Old York Road which is the police station address. The Municipal Building is located directly behind the Police Station. From the North South on Garden State Park",
+        "distance": 0.799026370048523
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3062466972339357754": {
+    "query_id": "3062466972339357754",
+    "query": "who plays Megan in ACT CDL ad",
+    "relevants": [
+      {
+        "relevant_doc": 1135,
+        "relevant_url": "https://makehow.net/info/who-is-megan-on-the-act-commercial"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1135,
+        "title": "Who Is Megan On The Act Commercial",
+        "url": "https://makehow.net/info/who-is-megan-on-the-act-commercial",
+        "combined_text": "Who Is Megan On The Act Commercial \"Who Is Megan On The Act Commercial Commercial Drivers License Education A commercial driver's license (CDL) is a key that can open plenty of doors to professional opportunities. The testing involved tends to be strenuous, and includes both written and a three-part skills exams. So, it is important",
+        "distance": 0.30294016003608704
+      },
+      {
+        "id": 365,
+        "title": "NDA vs. CDA... Really, What's the Difference?",
+        "url": "https://www.linkedin.com/pulse/nda-vs-cda-really-whats-difference-michael-roberts",
+        "combined_text": "NDA vs. CDA... Really, What's the Difference? NDA vs. CDA... Really, What's the Difference? Published on June 10, 2016Michael Roberts Follow Sign in to follow this author Attorney Occasionally questions come up from friends and colleagues about the difference between a Non-Disclosure Agreement (also known by its acronym; “NDA”) and a Confidenti",
+        "distance": 0.7212667465209961
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4344631723697568499": {
+    "query_id": "-4344631723697568499",
+    "query": "long-lasting lipstick tips from pros",
+    "relevants": [
+      {
+        "relevant_doc": 812,
+        "relevant_url": "http://www.allure.com/beauty-trends/how-to/2010/make_lipstick_last"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 812,
+        "title": "How to Make Lipstick Last",
+        "url": "http://www.allure.com/beauty-trends/how-to/2010/make_lipstick_last",
+        "combined_text": "How to Make Lipstick Last \"An Interview With Peter Philips Philips is a makeup artist and the global creative director of Chanel Makeup. You May Also Like Tarte Launches Sale and Fake Icy Betch Palette for April Fool's Day15 Best Foundations for Oily and Acne-Prone Skin 2018• __ Go for sheen.__ Many \"\"long-wearing\"\" lipstick",
+        "distance": 0.5895012617111206
+      },
+      {
+        "id": 1344,
+        "title": "Strength in Color",
+        "url": "http://www.orlybeauty.com/",
+        "combined_text": "Strength in Color \"Strength in Color The Professional Standard In Nail Color and Care Since 1975Vegan | 12-Free Nail Lacquer400+ on-trend and classic shades ORLY never tests on animals Shop Colors The #1 Choice of Salons Worldwide The Pros will tell you: great manicures start with Bonder rubberized basecoat - just on",
+        "distance": 0.7068570256233215
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4339710958973121351": {
+    "query_id": "-4339710958973121351",
+    "query": "Burlington VT clerk offices and records",
+    "relevants": [
+      {
+        "relevant_doc": 1106,
+        "relevant_url": "http://www.countyoffice.org/burlington-vt-clerk/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1106,
+        "title": "Burlington Clerk Office",
+        "url": "http://www.countyoffice.org/burlington-vt-clerk/",
+        "combined_text": "Burlington Clerk Office Burlington Clerk Office Home Government Administration Offices Clerk Offices Vermont Chittenden County Burlington Find Burlington Vermont clerk offices, including county, city, and circuit clerks, and clerks of court. Clerks provide information on public court records and legal documents, criminal,",
+        "distance": 0.1599302589893341
+      },
+      {
+        "id": 1138,
+        "title": "Oxford Clerk Office",
+        "url": "http://www.countyoffice.org/oxford-mi-clerk/",
+        "combined_text": "Oxford Clerk Office Oxford Clerk Office Home Government Administration Offices Clerk Offices Michigan Oakland County Oxford Find Oxford Michigan clerk offices, including county, city, and circuit clerks, and clerks of court. Clerks provide information on public court records and legal documents, criminal, jail, and arr",
+        "distance": 0.5819101333618164
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "5653484090083941625": {
+    "query_id": "5653484090083941625",
+    "query": "steelworkers union latest news",
+    "relevants": [
+      {
+        "relevant_doc": 1241,
+        "relevant_url": "https://www.usw.org/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1241,
+        "title": "Health Care Workers Conference",
+        "url": "https://www.usw.org/",
+        "combined_text": "Health Care Workers Conference Feed All News Blog Publications Videos Facebook Twitter Mar 02 @ 03:46PM · Twitter NLRB rules against Duquesne, orders university to bargain with adjunct union https://t.co/NIYPzcedmz#USWWorkst t REPLY · RETWEET · FAVORITEMar 02 @ 02:30PM · Twitter Two generations of steelworkers, Lu 6115 Pres. Bomb",
+        "distance": 0.5613402128219604
+      },
+      {
+        "id": 360,
+        "title": "Occupational Employment and Wages in Indianapolis-Carmel-Anderson â May 2016",
+        "url": "https://www.bls.gov/regions/midwest/news-release/OccupationalEmploymentAndWages_Indianapolis.htm",
+        "combined_text": "Occupational Employment and Wages in Indianapolis-Carmel-Anderson â May 2016 \"News Release Information17-530-CHI Wednesday, June 21, 2017Contacts Technical information: (312) 353-1880BLSInfo Chicago@bls.govwww.bls.gov/regions/midwest Media contact: (312) 353-1138PDFPDF version Occupational Employment and Wages in Indianapolis-Carmel-Anderson — May 2016Workers in the Indianap",
+        "distance": 0.6463282704353333
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-7739532571634607830": {
+    "query_id": "-7739532571634607830",
+    "query": "voice changer MorphVOX download",
+    "relevants": [
+      {
+        "relevant_doc": 2502,
+        "relevant_url": "https://morphvox-voice-changer.en.softonic.com/download"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2502,
+        "title": "Sign in to start the DownloadSign in with Facebook or Sign in with Google +",
+        "url": "https://morphvox-voice-changer.en.softonic.com/download",
+        "combined_text": "Sign in to start the DownloadSign in with Facebook or Sign in with Google + \"Morph VOX Pro help and info What is Morph VOX Pro? Morph VOX Pro is an application from Screaming Bee that you can use to distort your voice. Create a wide range of weird and wonderful effects as you speak into your microphone and let the program distort your voice into something new. Can Morph VOX",
+        "distance": 0.4334206283092499
+      },
+      {
+        "id": 2190,
+        "title": "What Is an ASHX File?",
+        "url": "https://www.lifewire.com/ashx-file-2619693",
+        "combined_text": "What Is an ASHX File? \"How To › Windows What Is an ASHX File? How to Open, Edit, and Convert ASHX Files Share Pin Email Print ASHX Files. Windows Key Concepts File Types Computer Concepts Command Line Basics Guides & Tutorials Installing & Upgrading Tips & Tricksby Tim Fisher Updated January 04, 2018A file with the ASHX",
+        "distance": 0.6420143246650696
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "1841408989478665856": {
+    "query_id": "1841408989478665856",
+    "query": "jobs at cancer nonprofit Indianapolis",
+    "relevants": [
+      {
+        "relevant_doc": 679,
+        "relevant_url": "http://www.jobs2careers.com/Jobs/q-American-Cancer-Society-l-Indianapolis-IN/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 258,
+        "title": "Indianapolis, IN Town Center",
+        "url": "https://www.yellowpages.com/indianapolis-in/town-center",
+        "combined_text": "Indianapolis, IN Town Center Home Indianapolis, IN Town Center Indianapolis, IN Town Center About Search Results Sort: Default BBB Rated A+/ACoupons All Filters Neff Realty2346 S Lynhurst Dr, Indianapolis, IN 46241 (317) 762-0479Show Banner Real Estate Rental Service Website Directions More Info Stenz Management Co Inc429 N Pen",
+        "distance": 0.5823906064033508
+      },
+      {
+        "id": 679,
+        "title": "American Cancer Society jobs in Indianapolis, IN",
+        "url": "http://www.jobs2careers.com/Jobs/q-American-Cancer-Society-l-Indianapolis-IN/",
+        "combined_text": "American Cancer Society jobs in Indianapolis, IN Virtual Bilingual American Sign Language and English Guide Smart Coos Indianapolis , INMore info Posted 1 week ago American Eagle Outfitters - Stock Associate - United States American Eagle Indianapolis , INMore info Posted 2 weeks ago Telecommute American Sign Language Video Remote Interpreter Virt",
+        "distance": 0.6202314496040344
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-2252689724033201475": {
+    "query_id": "-2252689724033201475",
+    "query": "how MU-MIMO boosts WiFi capacity",
+    "relevants": [
+      {
+        "relevant_doc": 254,
+        "relevant_url": "http://www.webopedia.com/TERM/M/mu-mimo.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 254,
+        "title": "MU-MIMO",
+        "url": "http://www.webopedia.com/TERM/M/mu-mimo.html",
+        "combined_text": "MU-MIMO Main » TERM » M »MU-MIMOTweet Related Terms802.11ac Wave 2MIMO - multiple-in, multiple-outwearable technologylicensing technology IT - Information Technology Information Technology (IT) Directorlast mile telecommunications technologyinformation technology degree Information Technology (IT) Architect",
+        "distance": 0.6314175128936768
+      },
+      {
+        "id": 2124,
+        "title": "Can i connect my ipad to the internet without wi fi?",
+        "url": "https://answers.yahoo.com/question/index?qid=20101016113249AAJ1TWY",
+        "combined_text": "Can i connect my ipad to the internet without wi fi? Computers & Internet Computer Networking Can i connect my ipad to the internet without wi fi? I don't have a wifi network at home. But I do have access to the internet through my computer. Is there any way to connect my ipad to the internet without a wifi network? Follow 2 answers Answers Best Answe",
+        "distance": 0.6643385887145996
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "5803232378167278283": {
+    "query_id": "5803232378167278283",
+    "query": "China cracking down on VPNs",
+    "relevants": [
+      {
+        "relevant_doc": 1207,
+        "relevant_url": "https://www.usatoday.com/story/tech/2015/01/23/china-internet-vpn-google-facebook-twitter/22235707/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1207,
+        "title": "China blocks VPN access to the Internet",
+        "url": "https://www.usatoday.com/story/tech/2015/01/23/china-internet-vpn-google-facebook-twitter/22235707/",
+        "combined_text": "China blocks VPN access to the Internet \"1Join the Nation's Conversation To find out more about Facebook commenting please read the Conversation Guidelines and FAQs China blocks VPN access to the Internet Elizabeth Weise and Calum Mac Leod, USAToday Published 4:40 p.m. ET Jan. 23, 2015 | Updated 8:30 a.m. ET Jan. 24, 2015 (Photo: EPA, Rol",
+        "distance": 0.630401611328125
+      },
+      {
+        "id": 224,
+        "title": "Network Devices A LAN can refers to a Broadcast Domain / a Subnet LAN traffic congestion is caused by â¢ Too many hosts",
+        "url": "https://www.scribd.com/doc/33597188/Network-Devices-Hubs-Switches-Routers",
+        "combined_text": "Network Devices A LAN can refers to a Broadcast Domain / a Subnet LAN traffic congestion is caused by â¢ Too many hosts \"Network Devices A LAN can refers to a Broadcast Domain / a Subnet LAN traffic congestion is caused by • Too many hostsin a broadcast domain • Excessive broadcasts • Multicasting • Low / insufficient bandwidth • To solve this we can segment the network Hubs and Repeaters Layer 1 of the OSI The physi",
+        "distance": 0.7308018803596497
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3793874725932968274": {
+    "query_id": "3793874725932968274",
+    "query": "free tools to securely erase files",
+    "relevants": [
+      {
+        "relevant_doc": 1538,
+        "relevant_url": "https://answers.yahoo.com/question/index?qid=20090410140613AAHlSsX"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 649,
+        "title": "Windows 7/8/10 â How to Delete Files Protected by TrustedInstaller",
+        "url": "http://helpdeskgeek.com/windows-7/windows-7-how-to-delete-files-protected-by-trustedinstaller/",
+        "combined_text": "Windows 7/8/10 â How to Delete Files Protected by TrustedInstaller Windows 7/8/10 – How to Delete Files Protected by Trusted Installer Did you know that a lot of files in Windows are not owned by you, even if you are the Administrator? They are instead owned by an entity called the “Trusted Installer”. Such a wonderful sounding name eh!So that’s not a problem most",
+        "distance": 0.5160284042358398
+      },
+      {
+        "id": 1538,
+        "title": "Are there any free programs to remove traces of all Internet and computer activities?",
+        "url": "https://answers.yahoo.com/question/index?qid=20090410140613AAHlSsX",
+        "combined_text": "Are there any free programs to remove traces of all Internet and computer activities? \"Computers & Internet Security Are there any free programs to remove traces of all Internet and computer activities? Update: I want to SECURE DELETE things things that I've deleted in the past and I'm not sure how to do it. What is the best program to make sure nothing (even past files) is recoverab",
+        "distance": 0.5528988242149353
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-5863483491360078921": {
+    "query_id": "-5863483491360078921",
+    "query": "The Shard tickets hotel restaurants",
+    "relevants": [
+      {
+        "relevant_doc": 321,
+        "relevant_url": "https://www.the-shard.com/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 321,
+        "title": "THE SHARD SUPPORTS WWF'S 2018 EARTH HOUR",
+        "url": "https://www.the-shard.com/",
+        "combined_text": "THE SHARD SUPPORTS WWF'S 2018 EARTH HOUR Contact Find Us About The Vision A Vertical City Level Guide The Neighbourhood News Book tickets Shangri-La Hotel Rooms and Suites Restaurants and bars Events Restaurants and bars Aqua Shardoblix Hutong LÁNGTĪNGGŎNGOffices Inspiring Workspaces Occupiers Connectivity The Retail Arcade THE SHARD SUPPO",
+        "distance": 0.4063381254673004
+      },
+      {
+        "id": 16,
+        "title": "Restaurant.com",
+        "url": "http://incentives.restaurant.com/how-it-works",
+        "combined_text": "Restaurant.com Restaurant.com The nation's largest dining deals site with thousands of restaurants, merchants and online providers nationwide",
+        "distance": 0.6036388278007507
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "749919337462031002": {
+    "query_id": "749919337462031002",
+    "query": "connect phone to Samsung TV remote",
+    "relevants": [
+      {
+        "relevant_doc": 2022,
+        "relevant_url": "http://www.samsung.com/au/support/skp/faq/1038719"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2022,
+        "title": "About the Smart Remote App",
+        "url": "http://www.samsung.com/au/support/skp/faq/1038719",
+        "combined_text": "About the Smart Remote App Connecting via App (Smart Remote)Use this app to connect to a TV and use the device as a remote control. You can search and select TV programmes, and control channels with your device. Before using this app:● Ensure that you connect the device to a network.● Ensure that the device’s infrared port is",
+        "distance": 0.32531365752220154
+      },
+      {
+        "id": 2018,
+        "title": "How to Permanent Delete Data from Samsung",
+        "url": "http://www.recovery-transfer.com/about/erase-samsung-data.html",
+        "combined_text": "How to Permanent Delete Data from Samsung \"How to Permanent Delete Data from Samsung With the continuous development of Samsung, more and more multifunctional powerful Samsung phones and tablets providing for user to select, inevitably can't help but again to buy a new Samsung device to replace your old Samsung. Are you ready to resell, rec",
+        "distance": 0.3837336003780365
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7300264927498119224": {
+    "query_id": "7300264927498119224",
+    "query": "typical babysitting rate per hour",
+    "relevants": [
+      {
+        "relevant_doc": 1213,
+        "relevant_url": "https://www.sapling.com/7763389/average-babysitting-hourly-rates"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1213,
+        "title": "Average Babysitting Hourly Rates",
+        "url": "https://www.sapling.com/7763389/average-babysitting-hourly-rates",
+        "combined_text": "Average Babysitting Hourly Rates Babysitters can be a lifesaver for parents struggling to balance childcare responsibilities with jobs, household tasks and busy social calendars. Babysitters can tend infants, entertain youngsters with visits to the library or neighborhood park, or help older kids with homework. Some babysitters als",
+        "distance": 0.3838810920715332
+      },
+      {
+        "id": 2381,
+        "title": "Minimum Wage/Overtime FAQ",
+        "url": "http://www.illinois.gov/idol/FAQs/Pages/minimum-wage-overtime-faq.aspx",
+        "combined_text": "Minimum Wage/Overtime FAQ \"What is minimum wage in Illinois? Minimum wage in Illinois is $8.25 per hour for those individuals who are 18 years and older. Employees who do NOT receive tips may be paid $7.75 for the first 90 days with employer. Those under 18 years of age may be paid at the rate of $7.75 per hour. For more inf",
+        "distance": 0.5817450881004333
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3395947775870265332": {
+    "query_id": "3395947775870265332",
+    "query": "can zero be negative",
+    "relevants": [
+      {
+        "relevant_doc": 2561,
+        "relevant_url": "https://math.stackexchange.com/questions/667577/does-negative-zero-exist"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2561,
+        "title": "Does negative zero exist? [closed]",
+        "url": "https://math.stackexchange.com/questions/667577/does-negative-zero-exist",
+        "combined_text": "Does negative zero exist? [closed] \"_Mathematics Stack Exchange is a question and answer site for people studying math at any level and professionals in related fields. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Does n",
+        "distance": 0.651256799697876
+      },
+      {
+        "id": 1325,
+        "title": "If the temperature outside today is zero degrees and tomorrow will be twice as cold as it was today, how cold will it be tomorrow?",
+        "url": "https://www.quora.com/If-the-temperature-outside-today-is-zero-degrees-and-tomorrow-will-be-twice-as-cold-as-it-was-today-how-cold-will-it-be-tomorrow",
+        "combined_text": "If the temperature outside today is zero degrees and tomorrow will be twice as cold as it was today, how cold will it be tomorrow? \"Amogh K M, B Tech Bachelor of Technology in Electronics and Communications Engineering , PES University (2019)Answered Jun 15, 2016Originally Answered: If the temperature outside is 0 degree Celsius today and it is going to be twice as cold tomorrow, how cold will it be? Well, when we speak of some",
+        "distance": 0.7423255443572998
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3554810165112499726": {
+    "query_id": "3554810165112499726",
+    "query": "convert net paycheck to gross",
+    "relevants": [
+      {
+        "relevant_doc": 124,
+        "relevant_url": "http://www.gnjpc.com/calculators/payroll/grossup.php"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 124,
+        "title": "Calculate Gross Pay Based on Net Pay",
+        "url": "http://www.gnjpc.com/calculators/payroll/grossup.php",
+        "combined_text": "Calculate Gross Pay Based on Net Pay Home > Payroll > Gross-up Calculate Gross Pay Based on Net Pay Use this calculator to gross up wages based on net pay. For example if an employee receives $100 in taxable benefits or cash, this calculator can be used to calculate the gross amount that must be used when calculating payroll taxes. Of",
+        "distance": 0.26590695977211
+      },
+      {
+        "id": 2136,
+        "title": "What Is the Difference Between Net Pay and Gross Pay?",
+        "url": "https://www.reference.com/business-finance/difference-between-net-pay-gross-pay-421e4547737628e4",
+        "combined_text": "What Is the Difference Between Net Pay and Gross Pay? \"Full Answer When an individual receives his or her initial paycheck from a job, that is the gross amount of pay. Gross pay is the individual's total earnings before the other deductions, which may include deductions at the federal level as well as state level. Gross pay includes the individual's ba",
+        "distance": 0.28459876775741577
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-1934535074718392105": {
+    "query_id": "-1934535074718392105",
+    "query": "tour of massive private backyard pool",
+    "relevants": [
+      {
+        "relevant_doc": 611,
+        "relevant_url": "http://abc13.com/home/take-a-tour-inside-the-worlds-largest-backyard-pool/241979/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 611,
+        "title": "Take a tour inside the world's largest backyard pool",
+        "url": "http://abc13.com/home/take-a-tour-inside-the-worlds-largest-backyard-pool/241979/",
+        "combined_text": "Take a tour inside the world's largest backyard pool \"HOME & GARDENTake a tour inside the world's largest backyard pool Video Playback not supported on Microsoft Windows Version 8.1 or earlier using Internet Explorer. Please upgrade your OS or try a different browser. EMBED </> More Videos<iframe width=\"\"476\"\" height=\"\"267\"\" src=\"\"http://abc13.com/vid",
+        "distance": 0.5104726552963257
+      },
+      {
+        "id": 1136,
+        "title": "How Much Does an Above Ground Pool Deck Installed Cost?",
+        "url": "https://www.howmuchisit.org/above-ground-pool-deck-cost/",
+        "combined_text": "How Much Does an Above Ground Pool Deck Installed Cost? Home Costs > Pool > How Much Does an Above Ground Pool Deck Installed Cost? How Much Does an Above Ground Pool Deck Installed Cost? Need a pro near you? Get multiple quotes for free online. Get your quote now >>An above ground pool deck is usually made of wood and is built partially or completely ar",
+        "distance": 0.6469528079032898
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-2190990267360595079": {
+    "query_id": "-2190990267360595079",
+    "query": "setting and updating baselines in MS Project",
+    "relevants": [
+      {
+        "relevant_doc": 2631,
+        "relevant_url": "http://www.brighthubpm.com/software-reviews-tips/111544-microsoft-project-baselines-best-practices-for-creating-changing-and-using/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2631,
+        "title": "Microsoft Project Baselines: Best Practices for Creating, Changing, and Using",
+        "url": "http://www.brighthubpm.com/software-reviews-tips/111544-microsoft-project-baselines-best-practices-for-creating-changing-and-using/",
+        "combined_text": "Microsoft Project Baselines: Best Practices for Creating, Changing, and Using \"Microsoft Project Baselines: Best Practices for Creating, Changing, and Usingwritten by: Linda Richter • edited by: Jean Scheid • updated: 6/30/2015For managers who are just getting started with Microsoft Project, baselines seem high tech and difficult. You're not alone wondering how to create base",
+        "distance": 0.3823683261871338
+      },
+      {
+        "id": 207,
+        "title": "How to Check for and Install Windows Updates",
+        "url": "https://www.lifewire.com/how-to-check-for-install-windows-updates-2624596",
+        "combined_text": "How to Check for and Install Windows Updates How To ›Windows How to Check for and Install Windows Updates Check for Updates in Windows 10, 8, 7, Vista and XPShare Pin Email Print Windows Update (Windows 10).by Tim Fisher Updated March 19, 2018Checking for, and installing, Windows updates, like service packs and other patches and major updates,",
+        "distance": 0.6530988812446594
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-1696838149644439688": {
+    "query_id": "-1696838149644439688",
+    "query": "buy replacement battery for Acer laptop",
+    "relevants": [
+      {
+        "relevant_doc": 2621,
+        "relevant_url": "https://www.batteriesplus.com/Battery/Laptop/Acer"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2621,
+        "title": "Acer Laptop Batteries - Popular Groupings",
+        "url": "https://www.batteriesplus.com/Battery/Laptop/Acer",
+        "combined_text": "Acer Laptop Batteries - Popular Groupings Home Batteries Laptop Acer Acer Laptop Batteries - Popular Groupings Batteries Plus Bulbs is your source for quality Acer laptop batteries. Each of our laptop battery packs are made with the highest quality battery cells, from leading manufacturers. They are engineered to meet or surpass OEM specifi",
+        "distance": 0.1970929354429245
+      },
+      {
+        "id": 2150,
+        "title": "Toshiba Laptops:Designed for Windows 10, plus so much more.",
+        "url": "http://us.toshiba.com/windows-10/features",
+        "combined_text": "Toshiba Laptops:Designed for Windows 10, plus so much more. Close Windows 10 Learn Toshiba Laptop Features Toshiba Laptops: Designed for Windows 10, plus so much more. New Toshiba laptops are designed to be ready for the new Windows 10 experience - with smart performance and customized features built around the way you want to work and play. Dual-array Tru T",
+        "distance": 0.542043924331665
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-5208580014105804301": {
+    "query_id": "-5208580014105804301",
+    "query": "starting telemetry unit as new nurse",
+    "relevants": [
+      {
+        "relevant_doc": 1099,
+        "relevant_url": "http://allnurses.com/cardiac-nursing/new-grad-on-244192.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1099,
+        "title": "New grad on telemetry unit",
+        "url": "http://allnurses.com/cardiac-nursing/new-grad-on-244192.html",
+        "combined_text": "New grad on telemetry unit \"Latest Products Conferences Nursing Specialties › Cardiac Nursing ›New grad on telemetry unit January 2018 Caption Contest - Win $100!by Jenny Mac, BSN, RNViews: 39,504 Comments: 8Hi everyone! I'm about to start my first job, and was offered a position on a tele unit. When i interviewed, I actually",
+        "distance": 0.35253578424453735
+      },
+      {
+        "id": 930,
+        "title": "Registered Nurse RN",
+        "url": "http://www.registerednursern.com/",
+        "combined_text": "Registered Nurse RN Registered Nurse RNWelcome to Registered Nurse RN. Our mission is to help aspiring nurses, nursing students, and new nurses succeed. Aspiring nurses can learn about the different types of nurses, education requirements, and nurse salary statistics. Nursing students can access care plan examples, nur",
+        "distance": 0.4436635971069336
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "9189542952267602718": {
+    "query_id": "9189542952267602718",
+    "query": "tips for relocating to Portland",
+    "relevants": [
+      {
+        "relevant_doc": 940,
+        "relevant_url": "http://blog.estately.com/2013/06/37-things-to-consider-before-moving-to-portland/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 940,
+        "title": "37 Things to Consider Before Moving to Portland",
+        "url": "http://blog.estately.com/2013/06/37-things-to-consider-before-moving-to-portland/",
+        "combined_text": "37 Things to Consider Before Moving to Portland 37 Things to Consider Before Moving to Portland Ryan Nickum Jun 3City Profilesoregon From the logging towns of Oregon to the hipster bars of Brooklyn, people dream of moving to Portland, Oregon. Drawn like moths to the flame of craft beer and environmental sustainability, these aspiring transplants",
+        "distance": 0.4454250633716583
+      },
+      {
+        "id": 957,
+        "title": "Technical Articles, Know-how and Tips and Tricks",
+        "url": "https://www.hbm.com/en/3230/load-measurement/",
+        "combined_text": "Technical Articles, Know-how and Tips and Tricks Load measurement tips and tricks Load cells guarantee correct results in many applications. However, there are many factors that need to be taken into account when installing, evaluating and using load cells. Technical Articles, Know-how and Tips and Tricks Our articles provide you with tips and inf",
+        "distance": 0.6515181660652161
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-3102429003483418924": {
+    "query_id": "-3102429003483418924",
+    "query": "build a home virtualization server",
+    "relevants": [
+      {
+        "relevant_doc": 543,
+        "relevant_url": "http://www.pcworld.com/article/201408/how_to_build_a_virtualization_server.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 543,
+        "title": "How to Set Up a Virtualization Server",
+        "url": "http://www.pcworld.com/article/201408/how_to_build_a_virtualization_server.html",
+        "combined_text": "How to Set Up a Virtualization Server Home Virtualization Get Your Business Started With Virtualization How to Set Up a Virtualization Server By Paul Venezia PCWorld |Jul 20, 2010 6:00 PM PTMore like this How to Build Solid, Reliable Networks10 Tips to Boost Your Company Network First Look: VMware VSphere 4.1 Keeps the Virtualization Cr",
+        "distance": 0.27640172839164734
+      },
+      {
+        "id": 998,
+        "title": "Difference between Test Server, Staging Server and Production Server",
+        "url": "http://itknowledgeexchange.techtarget.com/itanswers/difference-between-test-server-staging-server-and-production-server/",
+        "combined_text": "Difference between Test Server, Staging Server and Production Server \"Difference between Test Server, Staging Server and Production Server Jaideep Khanduja 17445 pts.production server Servers Staging Server Test Server In relevance to load testing on an application – what is the difference between test server, production server and staging server? Asked: July 21, 200",
+        "distance": 0.4923885762691498
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "6992665481310100312": {
+    "query_id": "6992665481310100312",
+    "query": "DHCP port 67 conflict Windows Server",
+    "relevants": [
+      {
+        "relevant_doc": 70,
+        "relevant_url": "https://technet.microsoft.com/en-us/library/ee941126(v=ws.10).aspx"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 70,
+        "title": "DHCP: Port 67 (DHCP server port for IPv4) should not be in use by any other process",
+        "url": "https://technet.microsoft.com/en-us/library/ee941126(v=ws.10).aspx",
+        "combined_text": "DHCP: Port 67 (DHCP server port for IPv4) should not be in use by any other process Docs Previous Versions Windows DHCP: Port 67 (DHCP server port for IPv4) should not be in use by any other process September 11, 2012 2 minutes to read In this article Issue Impact Resolution To configure DHCP to use port 67Additional references Applies To: Windows Server 2008 R2, Windows Server 201",
+        "distance": 0.12376662343740463
+      },
+      {
+        "id": 1473,
+        "title": "UDP Ports 67 and 68",
+        "url": "http://www.linklogger.com/UDP67_68.htm",
+        "combined_text": "UDP Ports 67 and 68 Typically this traffic is related to normal DHCP operation and is not an attack on your network. DHCP (Dynamic Host Configuration Protocol) is how your computer gets its unique IP address. When a system starts up on a network it must first request an IP address (assume it is not using a static IP ad",
+        "distance": 0.39446312189102173
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7085049008510576778": {
+    "query_id": "7085049008510576778",
+    "query": "clear space on Mac boot drive",
+    "relevants": [
+      {
+        "relevant_doc": 1672,
+        "relevant_url": "http://thexlab.com/faqs/freeingspace.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1672,
+        "title": "Freeing space on your Mac OS X startup disk",
+        "url": "http://thexlab.com/faqs/freeingspace.html",
+        "combined_text": "Freeing space on your Mac OS X startup disk \"Freeing space on your Mac OS X startup disk This extract from a chapter of our book Troubleshooting Mac® OS X describes several ways to free-up space on your Mac OS X startup disk, also known as your Mac OS X boot volume. While you could replace your current hard drive with a larger model, or insta",
+        "distance": 0.3880535066127777
+      },
+      {
+        "id": 2306,
+        "title": "Apple Startup Disk for Mac",
+        "url": "http://download.cnet.com/Apple-Startup-Disk/3000-2094_4-7462.html",
+        "combined_text": "Apple Startup Disk for Mac Home Mac Software Utilities & Operating Systems System Utilities Apple Startup Disk Apple Startup Disk for Mac Download Now Secure Download Average User Rating: Be the first to rate this product!Large play-pause toggle Play pause00:00 00:00Closed captions Settings Volume Fullscreen Publisher's Descr",
+        "distance": 0.5599889755249023
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  }
+}

@@ -1,0 +1,2802 @@
+{
+  "4739593504521967606": {
+    "query_id": "4739593504521967606",
+    "query": "how does strict foreclosure work",
+    "relevants": [
+      {
+        "relevant_doc": 2789,
+        "relevant_url": "http://www.mortgageforeclosurereport.com/foreclosure/strict-foreclosure/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2789,
+        "title": "Strict Foreclosure",
+        "url": "http://www.mortgageforeclosurereport.com/foreclosure/strict-foreclosure/",
+        "combined_text": "Strict Foreclosure Strict Foreclosure As we noted on the What Is A Foreclosure? webpage there are several types of foreclosures. We discussed a Foreclosure by Judicial Sale (also known as a Judicial Foreclosure), Strict Foreclosure, Foreclosure by Power of Sale, and Deed in Lieu of Foreclosure. This page will be dedic",
+        "distance": 0.20687749981880188
+      },
+      {
+        "id": 88,
+        "title": "Housing Watchdog Slams Massive Property Inspection Industry",
+        "url": "http://www.huffingtonpost.com/2014/03/25/property-inspection-industry_n_5029000.html",
+        "combined_text": "Housing Watchdog Slams Massive Property Inspection Industry The inspectors who decide whether homes have been abandoned and are ready for foreclosure are doing such a terrible job that the whole system requires a major overhaul, and maybe should be scrapped altogether, a government watchdog warned on Tuesday. Property inspectors hired by banks and other mort",
+        "distance": 0.6319918036460876
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "766632431385987012": {
+    "query_id": "766632431385987012",
+    "query": "epa section 608 certification requirements",
+    "relevants": [
+      {
+        "relevant_doc": 2970,
+        "relevant_url": "http://refrigerationboard.org/cfccertification/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2970,
+        "title": "CFC/EPA Certification",
+        "url": "http://refrigerationboard.org/cfccertification/",
+        "combined_text": "CFC/EPA Certification \"CFC/EPA Certification EPA regulations under Section 608 of the Clean Air Act require that technicians who maintain, service, repair, or dispose of equipment that could release refrigerants into the atmosphere must be certified. The EPA defines a \"\"technician\"\" as an individual who performs any of t",
+        "distance": 0.3327483534812927
+      },
+      {
+        "id": 293,
+        "title": "Certified Orthodontic Assistant: Salary, Requirements and Career Info",
+        "url": "https://study.com/articles/Certified_Orthodontic_Assistant_Salary_Requirements_and_Career_Info.html",
+        "combined_text": "Certified Orthodontic Assistant: Salary, Requirements and Career Info Certified Orthodontic Assistant: Salary, Requirements and Career Info Learn about the education and preparation needed to become a certified orthodontic assistant. Get a quick view of the requirements, as well as details about schooling, job duties and certification, to find out if this is the caree",
+        "distance": 0.5536478161811829
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-3250902976494280328": {
+    "query_id": "-3250902976494280328",
+    "query": "download california employment forms",
+    "relevants": [
+      {
+        "relevant_doc": 1064,
+        "relevant_url": "http://www.edd.ca.gov/Forms/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3126,
+        "title": "10 Things HR Needs to Know about California Wage and Hour Laws",
+        "url": "http://www.hrhero.com/hl/articles/2010/09/02/10-things-hr-needs-to-know-about-california-wage-and-hour-laws/",
+        "combined_text": "10 Things HR Needs to Know about California Wage and Hour Laws 10 Things HR Needs to Know about California Wage and Hour Laws September 2, 2010 at 9:00 pm by: California Employment Law Letterby Jim Brown and Marc Koonin Companies with employees working in California must always remain mindful of the state’s protectionist wage and hour laws. You must always comp",
+        "distance": 0.5791963934898376
+      },
+      {
+        "id": 1405,
+        "title": "Resources",
+        "url": "http://sd20.senate.ca.gov/resources",
+        "combined_text": "Resources Resources State Government Websites State of California California State Senate California State Assembly San Bernardino Associated Governments County and Cities within Senate District 20Los Angeles County City of Pomona San Bernardino County City of Chino City of Colton City of Fontana City of Gran",
+        "distance": 0.6521056890487671
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3900489098238524301": {
+    "query_id": "3900489098238524301",
+    "query": "kerry argues iran deal isn't a treaty",
+    "relevants": [
+      {
+        "relevant_doc": 2895,
+        "relevant_url": "http://www.cnsnews.com/news/article/patrick-goodenough/kerry-iran-deal-not-treaty-because-you-cant-pass-treaty-anymore"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2895,
+        "title": "Kerry: Iran Deal Not a Treaty âBecause You Canât Pass a Treaty Anymoreâ",
+        "url": "http://www.cnsnews.com/news/article/patrick-goodenough/kerry-iran-deal-not-treaty-because-you-cant-pass-treaty-anymore",
+        "combined_text": "Kerry: Iran Deal Not a Treaty âBecause You Canât Pass a Treaty Anymoreâ \"Kerry: Iran Deal Not a Treaty ‘Because You Can’t Pass a Treaty Anymore’By Patrick Goodenough | July 29, 2015 | 4:10 AM EDTSecretary of State John Kerry testifies on the Iran nuclear deal before the House Foreign Affairs Committee on Tuesday, July 28, 2015. (AP Photo/Andrew Harnik) (CNSNews.com) – T",
+        "distance": 0.25143617391586304
+      },
+      {
+        "id": 2257,
+        "title": "Iran Hostage Crisis",
+        "url": "http://www.u-s-history.com/pages/h2021.html",
+        "combined_text": "Iran Hostage Crisis \"Iran Hostage Crisis On November 4, 1979, an angry mob of some 300 to 500 \"\"students\"\" who called themselves \"\"Imam's Disciples,\"\" laid siege to the American Embassy in Teheran, Iran, to capture and hold hostage 66 U. S. citizens and diplomats. Although women and African-Americans were released a sh",
+        "distance": 0.6343090534210205
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-3736065736247484765": {
+    "query_id": "-3736065736247484765",
+    "query": "estimate monthly utility bills",
+    "relevants": [
+      {
+        "relevant_doc": 2989,
+        "relevant_url": "http://money.howstuffworks.com/personal-finance/for-new-adults/how-to-estimate-cost-of-utilities2.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2989,
+        "title": "How to Estimate the Cost of Utilities",
+        "url": "http://money.howstuffworks.com/personal-finance/for-new-adults/how-to-estimate-cost-of-utilities2.htm",
+        "combined_text": "How to Estimate the Cost of Utilities Utilities Cost Calculators Prev NEXTOnline utilities calculators will help you ball-park your monthly expenses. Jupiterimages/ Thinkstock.com For trash pickup, you'll have an exact number: Either your landlord is paying it; you're paying it and the amount is stated in your lease (for renters); or yo",
+        "distance": 0.5763857364654541
+      },
+      {
+        "id": 2498,
+        "title": "Where Do Revenue Bills Originate?",
+        "url": "https://www.reference.com/government-politics/revenue-bills-originate-cd5f2eea31b5889a",
+        "combined_text": "Where Do Revenue Bills Originate? \"Full Answer The main principle behind giving the House of Representatives the power to introduce revenue bills was that the chamber in which the states' constituencies are more directly represented should hold the \"\"power of the purse.\"\" Another principle behind the creation of the Origination Clau",
+        "distance": 0.6780860424041748
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-3709150075320686821": {
+    "query_id": "-3709150075320686821",
+    "query": "calculate depreciation for business car",
+    "relevants": [
+      {
+        "relevant_doc": 2400,
+        "relevant_url": "http://www.bankrate.com/finance/taxes/figuring-car-depreciation.aspx"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2400,
+        "title": "Figuring car depreciation",
+        "url": "http://www.bankrate.com/finance/taxes/figuring-car-depreciation.aspx",
+        "combined_text": "Figuring car depreciation Figuring car depreciation George Saenz June 23, 2009 in Taxes Dear Tax Talk, How do I calculate the rate of depreciation for a $110,000 car? — Rachel Dear Rachel, Normally the cost of an asset used for business purposes is written off over its useful life. Depreciation is calculated on an accelerate",
+        "distance": 0.3071650564670563
+      },
+      {
+        "id": 474,
+        "title": "Business Valuation Formula",
+        "url": "http://www.valuadder.com/glossary/business-valuation-formula.html",
+        "combined_text": "Business Valuation Formula Business Valuation Formula New to valuation? Get the Handbook!Definition A computational procedure used to determine the value of a business. What It Means The value of any business can be determined three ways, formally known as the business valuation approaches: Market approach Income approach Ass",
+        "distance": 0.582421064376831
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4147936259609146426": {
+    "query_id": "-4147936259609146426",
+    "query": "chinese robotic telescope on moon",
+    "relevants": [
+      {
+        "relevant_doc": 1344,
+        "relevant_url": "https://www.newscientist.com/article/dn28323-china-has-had-a-telescope-on-the-moon-for-the-past-two-years/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1344,
+        "title": "China has had a telescope on the moon for the past two years",
+        "url": "https://www.newscientist.com/article/dn28323-china-has-had-a-telescope-on-the-moon-for-the-past-two-years/",
+        "combined_text": "China has had a telescope on the moon for the past two years The Chang’e 3 lander Xinhua/Corbis By Jacob Aron Point a telescope at the moon, and you might just see one looking back. Chinese researchers have reported that their robotic telescope, the first of its kind, has been operating flawlessly ever since it landed on the moon in 2013. The 15-centimetre te",
+        "distance": 0.21669617295265198
+      },
+      {
+        "id": 1583,
+        "title": "The Origin of the Moon",
+        "url": "http://www.psi.edu/epo/moon/moon.html",
+        "combined_text": "The Origin of the Moon \"The Origin of the Moon Page design by Gregg Herres and William K. Hartmann PSI's role: Two PSI senior scientists, Dr. William K. Hartmann and Dr. Donald R. Davis, were the first to suggest the leading modern hypothesis of the moon's origin, in a paper published in 1975 in the journal Icarus. Painti",
+        "distance": 0.642379105091095
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-5291191062530265760": {
+    "query_id": "-5291191062530265760",
+    "query": "how to become a special ed aide",
+    "relevants": [
+      {
+        "relevant_doc": 2172,
+        "relevant_url": "http://learn.org/articles/What_is_a_Special_Ed_Instructional_Assistant.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2172,
+        "title": "What Is a Special Ed Instructional Assistant?",
+        "url": "http://learn.org/articles/What_is_a_Special_Ed_Instructional_Assistant.html",
+        "combined_text": "What Is a Special Ed Instructional Assistant? What Is a Special Ed Instructional Assistant? Research what it takes to become a special education instructional assistant. Learn about education requirements, job duties, job outlook, and salary information to find out if this is the career for you. Schools offering Teaching Assistant degrees can a",
+        "distance": 0.40471047163009644
+      },
+      {
+        "id": 871,
+        "title": "Special Education Teacher Salary in Oregon",
+        "url": "https://www.sokanu.com/careers/special-education-teacher/salary/Oregon/",
+        "combined_text": "Special Education Teacher Salary in Oregon Special Education Teacher Salary in Oregon80% Match? Would you make a good Special Education Teacher? Take our career test to find out how you match with this and over 800 other careers. Take Free Career Test",
+        "distance": 0.6608008742332458
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7035456723531816792": {
+    "query_id": "7035456723531816792",
+    "query": "how researchers unintentionally influence results",
+    "relevants": [
+      {
+        "relevant_doc": 1334,
+        "relevant_url": "http://psychology.wikia.com/wiki/Experimenter_bias"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 120,
+        "title": "How Obesity Affects Your Body",
+        "url": "https://prezi.com/xvn4clnefw01/how-obesity-affects-your-body/",
+        "combined_text": "How Obesity Affects Your Body Public & reusable Create your own Make a copy Share Embed Like How Obesity Affects Your Body No descriptionby Samantha Schabbingon 30 October 2013Tweet Comments ( 0)Please log in to add your comment. Report abuse Transcript of How Obesity Affects Your Body How Obesity Affects Your Body Muscular Syst",
+        "distance": 0.6507846117019653
+      },
+      {
+        "id": 907,
+        "title": "Effect Sentence Examples",
+        "url": "http://sentence.yourdictionary.com/effect",
+        "combined_text": "Effect Sentence Examples \"Effect Sentence Examples The changes had an immediate effect. She did, however, celebrate the deterrent effect of the new law that was passed. The effect of the battle on the rest of the war is profound. The study also examined the effect of Head Start programs that use a different educational appr",
+        "distance": 0.6826993823051453
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-2649702664323995246": {
+    "query_id": "-2649702664323995246",
+    "query": "James K. Polk final resting place",
+    "relevants": [
+      {
+        "relevant_doc": 1480,
+        "relevant_url": "http://www.answers.com/Q/Where_is_James_K._Polk_buried"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1480,
+        "title": "Where is James K. Polk buried?",
+        "url": "http://www.answers.com/Q/Where_is_James_K._Polk_buried",
+        "combined_text": "Where is James K. Polk buried? Answers.com ® Wiki Answers ® Categories History, Politics & Society History History of the United States US Presidents James K. Polk Where is James K. Polk buried? Flag Where is James K. Polk buried? Answer by J. P. Helm Confidence votes 112KRetired professor of math and computer science having taug",
+        "distance": 0.3137647807598114
+      },
+      {
+        "id": 83,
+        "title": "Polk County Treasurer Database Search",
+        "url": "https://apps.polkcountyiowa.gov/TaxSale",
+        "combined_text": "Polk County Treasurer Database Search \"Polk County Treasurer Database Search Welcome to the Polk County Treasurer's database search. Please make a selection from the pull-down menus at the top of the screen to use our database search. Before using the database search, please read the disclaimer below so you understand the rules of this",
+        "distance": 0.7473636865615845
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8788146853499686735": {
+    "query_id": "-8788146853499686735",
+    "query": "what investors feared from Smoot Hawley",
+    "relevants": [
+      {
+        "relevant_doc": 819,
+        "relevant_url": "http://www.answers.com/Q/What_did_investors_fear_would_happen_beause_of_the_Smoot-Hawley_Tariff_Act"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 365,
+        "title": "Gal Gadot Ethnicity",
+        "url": "http://www.getnetworth.com/tag/gal-gadot-ethnicity/",
+        "combined_text": "Gal Gadot Ethnicity \"Profession: Model | Actor Date of Birth: 1985-04-30 Height: 1.75 m Ethnicity: Israelis Country: Rosh Ha Ayin Gal Gadot Ethnicity· In Celebrities, Models Read more... Gal Gadot Gal Gadot Net Worth is $5 Million. Gal Gadot is Model | Actor. Gal Gadot Date of Birth is 1985-04-30. Gal Gadot Height is 1",
+        "distance": 0.7486568093299866
+      },
+      {
+        "id": 1629,
+        "title": "stooge",
+        "url": "http://www.yourdictionary.com/stooge",
+        "combined_text": "stooge stoogestoogea comic actor who assists a comedian by feeding him lines and by being the butt of jokes and pranksany person who acts as an underling or puppet of another: term of contempt Origin of stoogefrom uncertain or unknown; perhapsintransitive verbstooged, stoog′ing Informal to be a stooge ( fo",
+        "distance": 0.771104097366333
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "5401249761443287881": {
+    "query_id": "5401249761443287881",
+    "query": "ex mi6 spy behind trump dossier",
+    "relevants": [
+      {
+        "relevant_doc": 1179,
+        "relevant_url": "http://www.scmp.com/news/world/united-states-canada/article/2061564/who-christopher-steele-former-mi-6-spy-who-wrote"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1179,
+        "title": "Who is Christopher Steele, former MI-6 spy who wrote explosive Trump-Russia dossier?",
+        "url": "http://www.scmp.com/news/world/united-states-canada/article/2061564/who-christopher-steele-former-mi-6-spy-who-wrote",
+        "combined_text": "Who is Christopher Steele, former MI-6 spy who wrote explosive Trump-Russia dossier? Who is Christopher Steele, former MI-6 spy who wrote explosive Trump-Russia dossier? PUBLISHED : Thursday, 12 January, 2017, 3:03pm UPDATED : Thursday, 12 January, 2017, 10:16pm Comment: 1The headquarters of Britain's Secret Intelligence Service, MI-6, on the bank of the Thames in central London. Co",
+        "distance": 0.2626347839832306
+      },
+      {
+        "id": 2132,
+        "title": "Which visa did Melania Trump use to move to the US?",
+        "url": "http://www.smh.com.au/comment/which-visa-did-melania-trump-use-to-move-to-the-us-20160803-gqkmwi.html",
+        "combined_text": "Which visa did Melania Trump use to move to the US? \"COMMENT National Opinion Which visa did Melania Trump use to move to the US? By Francis Wilkinson Updated 4 August 2016 — 6:14pm first published at 9:34am Normal text size Larger text size Very large text size Melania Trump's husband says she is a 10. Would Donald Trump marry a woman who wasn't? Th",
+        "distance": 0.6582615375518799
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4344756668888388927": {
+    "query_id": "-4344756668888388927",
+    "query": "how much is tj miller worth",
+    "relevants": [
+      {
+        "relevant_doc": 611,
+        "relevant_url": "https://www.famousbirthsdeaths.com/t-j-miller-bio-net-worth-facts/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 611,
+        "title": "T.J. Miller Net Worth, Height, Bio, Facts",
+        "url": "https://www.famousbirthsdeaths.com/t-j-miller-bio-net-worth-facts/",
+        "combined_text": "T.J. Miller Net Worth, Height, Bio, Facts T. J. Miller Net Worth, Height, Bio, Facts Name: T. J. Miller Age: 36 years old Height: 6ft 2in (188 cm)Occupation: Actor Net Worth: US $5 Million Status: Alive ORIGIN T. J. Miller is an American actor and comedian. He starred as “Erlich Bachman” on the HBO sitcom Silicon Valley. His credits include",
+        "distance": 0.35329023003578186
+      },
+      {
+        "id": 2661,
+        "title": "Is Hiring a CPA Worth it? 5 Tips for Getting Your Moneyâs Worth",
+        "url": "http://blog.aicpa.org/2013/03/is-hiring-a-cpa-worth-it-5-tips-for-getting-your-moneys-worth.html",
+        "combined_text": "Is Hiring a CPA Worth it? 5 Tips for Getting Your Moneyâs Worth « The Dangers of Providing Client Comfort Letters | Main | Tomorrow's Company and the Ethics of Culture Change »Is Hiring a CPA Worth it? 5 Tips for Getting Your Money’s Worth Posted by Guest Blogger on Mar 18, 2013Often when people find out I’m a tax accountant, I get asked, “How much does a CPA co",
+        "distance": 0.6973105669021606
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-1505968622321231900": {
+    "query_id": "-1505968622321231900",
+    "query": "working at Vision Express reviews",
+    "relevants": [
+      {
+        "relevant_doc": 2856,
+        "relevant_url": "https://www.glassdoor.co.uk/Reviews/Vision-Express-Reviews-E353233.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2856,
+        "title": "Vision Express Reviews",
+        "url": "https://www.glassdoor.co.uk/Reviews/Vision-Express-Reviews-E353233.htm",
+        "combined_text": "Vision Express Reviews \"Vision Express Reviews Updated 20 March 201833 reviews Filter Full-time Part-time2.1Rating Trends Rating Trends Recommend to a friend Approve of CEO Leonard C Emrick14 Ratings Close Your trust is our top concern, so companies can't alter or remove reviews.33 Employee Reviews Sort: Popular Rating Da",
+        "distance": 0.513647198677063
+      },
+      {
+        "id": 2305,
+        "title": "Â£500,000 damages awarded after Optical Express laser eye surgery",
+        "url": "http://www.opticianonline.net/optical-express-pay-500000-damages-laser-eye-surgery-case/",
+        "combined_text": "Â£500,000 damages awarded after Optical Express laser eye surgery £500,000 damages awarded after Optical Express laser eye surgery Author: Simon Jones Published: 29/09/2014Optical Express A woman who claimed to have been left with severe photophobia after laser eye surgery with Optical Express has been awarded over £500,000 in damages by Central London County Cour",
+        "distance": 0.594202995300293
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-6867379020653663948": {
+    "query_id": "-6867379020653663948",
+    "query": "how states ceded powers to the federal government",
+    "relevants": [
+      {
+        "relevant_doc": 2149,
+        "relevant_url": "https://publiushuldah.wordpress.com/category/states-retained-powers/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1817,
+        "title": "What are Concurrent Powers?",
+        "url": "http://www.wisegeek.com/what-are-concurrent-powers.htm",
+        "combined_text": "What are Concurrent Powers? \"Concurrent powers are powers that are held by both the federal government and the states or provinces that make up a federalist nation. They exist because states and federal governments have similar needs. Both typically need to keep people safe, support their economies, and punish wrongdoers. One",
+        "distance": 0.38689088821411133
+      },
+      {
+        "id": 2149,
+        "title": "The âConvention of Statesâ Scam, the War over the Constitution, and how the States Sold the Reserved Powers to the Feds.",
+        "url": "https://publiushuldah.wordpress.com/category/states-retained-powers/",
+        "combined_text": "The âConvention of Statesâ Scam, the War over the Constitution, and how the States Sold the Reserved Powers to the Feds. The “Convention of States” Scam, the War over the Constitution, and how the States Sold the Reserved Powers to the Feds. By Publius Huldah Our Constitution is a glorious document. This one page chart depicts the Structure of the federal government we created when we ratified our Constitution; and li",
+        "distance": 0.49559321999549866
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-796124396868849129": {
+    "query_id": "-796124396868849129",
+    "query": "stephen lawrence timeline undercover police",
+    "relevants": [
+      {
+        "relevant_doc": 2493,
+        "relevant_url": "http://www.bbc.com/news/uk-26465916"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2493,
+        "title": "Stephen Lawrence murder: A timeline of how the story unfolded",
+        "url": "http://www.bbc.com/news/uk-26465916",
+        "combined_text": "Stephen Lawrence murder: A timeline of how the story unfolded \"Stephen Lawrence murder: A timeline of how the story unfolded6 March 2014Share A public inquiry has been launched following revelations that an undercover police officer spied on the family of murdered teenager Stephen Lawrence. Home Secretary Theresa May described the findings of a report by Mark",
+        "distance": 0.30037498474121094
+      },
+      {
+        "id": 1590,
+        "title": "Lawrenceburg, Indiana",
+        "url": "http://www.city-data.com/city/Lawrenceburg-Indiana.html",
+        "combined_text": "Lawrenceburg, Indiana Follow city-data.com founder on our Forum or@Lech Mazur Lawrenceburg, Indianaadd your Submit your own pictures of this city and show them to the World See promotion details and to upload your Lawrenceburg, Indiana photos OSM Map General Map Google Map MSN Map39°F10 miles Wind: 3 mph Pressure: 30.21",
+        "distance": 0.7020576000213623
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "4631421696826037737": {
+    "query_id": "4631421696826037737",
+    "query": "word for long bitter family rivalry",
+    "relevants": [
+      {
+        "relevant_doc": 332,
+        "relevant_url": "http://www.dictionary.com/browse/feud"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 332,
+        "title": "feud 1",
+        "url": "http://www.dictionary.com/browse/feud",
+        "combined_text": "feud 1 \"feud 1 [fyood]Spell Syllables Synonyms Examples Word Origin See more synonyms on Thesaurus.comnoun1. Also called blood feud. a bitter, continuous hostility, especially between two families, clans, etc., often lasting for many years or generations.2. a bitter quarrel or contention: a feud between la",
+        "distance": 0.4695018529891968
+      },
+      {
+        "id": 2352,
+        "title": "Definition and pronunciation of Gaelic word Slainte.?",
+        "url": "https://answers.yahoo.com/question/index?qid=20070926222442AA0uiEJ",
+        "combined_text": "Definition and pronunciation of Gaelic word Slainte.? \"Society & Culture Languages Definition and pronunciation of Gaelic word Slainte.? It's apparently a toast of some type.2 following Answers Relevance Rating Newest Oldest Best Answer: \"\"Sláinte\"\" means \"\"health\"\" in Irish and pronunciation depends on your dialect. in the South and West you'd say \"\"s",
+        "distance": 0.7845366597175598
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "5011824443478472390": {
+    "query_id": "5011824443478472390",
+    "query": "what is root canal treatment",
+    "relevants": [
+      {
+        "relevant_doc": 2719,
+        "relevant_url": "http://www.thefreedictionary.com/Root+canal+therapy"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2719,
+        "title": "root canal therapy",
+        "url": "http://www.thefreedictionary.com/Root+canal+therapy",
+        "combined_text": "root canal therapy \"root canal therapy Also found in: Thesaurus, Medical, Legal, Acronyms, Encyclopedia, Wikipedia. Related to root canal therapy: Root canal treatmentroot′ canal` ther`apyn.1. the branch of endodontics that treats disease of the dental pulp.2. a treatment for such disease in which the pulp is removed",
+        "distance": 0.15501126646995544
+      },
+      {
+        "id": 2460,
+        "title": "2018 Regulations and Navigation in Panama Canal Waters",
+        "url": "https://www.amnautical.com/products/regulations-and-navigation-in-panama-canal-waters-2011",
+        "combined_text": "2018 Regulations and Navigation in Panama Canal Waters 2018 Regulations and Navigation in Panama Canal Waters$29.95$24.95+-Add to Wishlist Select Language ▼Edition20182018 Regulations and Navigation in Panama Canal Waters The Maritime Regulations for Transiting the Panama Canal contains the most recent Notices to Shipping, Amendments and Regulations for",
+        "distance": 0.6135517358779907
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-7823839666098125571": {
+    "query_id": "-7823839666098125571",
+    "query": "send large attachments via google drive",
+    "relevants": [
+      {
+        "relevant_doc": 2560,
+        "relevant_url": "https://www.backupify.com/blog/how-to-use-google-drive-to-email-large-files"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2560,
+        "title": "How to Use Google Drive to Share Large Files",
+        "url": "https://www.backupify.com/blog/how-to-use-google-drive-to-email-large-files",
+        "combined_text": "How to Use Google Drive to Share Large Files How to Use Google Drive to Share Large Files You finally completed the Power Point presentation for the upcoming meeting. It’s filled with compelling images. You send it to your client… only to get a “rejected message” notice. The file is too big. Their email servers won’t accept it. Many email prov",
+        "distance": 0.37294453382492065
+      },
+      {
+        "id": 1680,
+        "title": "Q&A: Logging Out of Gmail From Another Computer",
+        "url": "http://gadgetwise.blogs.nytimes.com/2013/03/18/qa-logging-out-of-gmail-from-another-computer/",
+        "combined_text": "Q&A: Logging Out of Gmail From Another Computer Q&A: Logging Out of Gmail From Another Computer By J.d. Biersdorfer March 18, 2013 10:45 pm Q. I check my personal Gmail on the Web at work and sometimes forget to sign out of my account before I leave for the day. Is there a way to see if I left it on back at the office? A. Gmail includes a feature",
+        "distance": 0.7055205702781677
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "4687713443821044203": {
+    "query_id": "4687713443821044203",
+    "query": "what does expenditure mean",
+    "relevants": [
+      {
+        "relevant_doc": 1613,
+        "relevant_url": "https://www.merriam-webster.com/dictionary/expenditure"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1983,
+        "title": "Examples of operating expenses",
+        "url": "http://www.accountingtools.com/questions-and-answers/what-are-examples-of-operating-expenses.html",
+        "combined_text": "Examples of operating expenses Examples of operating expenses August 01, 2017Operating expenses are those expenditures that a business incurs to engage in any activities not directly associated with the production of goods or services (see an alternative definition at the bottom). These expenditures are the same as selling, gener",
+        "distance": 0.4905366599559784
+      },
+      {
+        "id": 1613,
+        "title": "expenditure",
+        "url": "https://www.merriam-webster.com/dictionary/expenditure",
+        "combined_text": "expenditure \"expenditurenoun ex·pen·di·ture \\ ik-ˈspen-di-chər, -də-ˌchu̇r, -də-ˌt (y)u̇r \\Popularity: Top 30% of words | Updated on: 10 Apr 2018Trending Now:oligarch glib depose omnibus acrimony ALLExamples: expenditure in a Sentence Time Traveler! Explore the year a word first appeared Definition of expenditu",
+        "distance": 0.5715371966362
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "9123044499536041186": {
+    "query_id": "9123044499536041186",
+    "query": "meaning of dosing in medicine",
+    "relevants": [
+      {
+        "relevant_doc": 2527,
+        "relevant_url": "http://www.thefreedictionary.com/dosing"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2527,
+        "title": "dosing",
+        "url": "http://www.thefreedictionary.com/dosing",
+        "combined_text": "dosing dosing Also found in: Thesaurus, Medical, Legal, Idioms, Encyclopedia, Wikipedia .dose (dōs)n.1.a. A specified quantity of a therapeutic agent, such as medicine, prescribed to be taken at one time or at stated intervals.b. The amount of radiation administered as therapy to a given site.2. An ingredi",
+        "distance": 0.2928076386451721
+      },
+      {
+        "id": 2056,
+        "title": "Medicine",
+        "url": "http://www.washington.edu/uaa/advising/at-the-uw/pre-health-advising/fields/medicine/",
+        "combined_text": "Medicine \"Home Home Working With Us Pre-Health Advising Medicine Medicine To be \"\"pre-med\"\" means you are embarking on a course of study aimed at preparing you to apply to a medical school (or other post-graduate health profession). It means you are taking the classes and gaining the experiences that these s",
+        "distance": 0.4978419244289398
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3396157897082486137": {
+    "query_id": "3396157897082486137",
+    "query": "how to tell if banned from uae",
+    "relevants": [
+      {
+        "relevant_doc": 1537,
+        "relevant_url": "https://ph.answers.yahoo.com/question/index?qid=20100309010826AAWPmGI"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1537,
+        "title": "I want to check if i am banned in dubai?",
+        "url": "https://ph.answers.yahoo.com/question/index?qid=20100309010826AAWPmGI",
+        "combined_text": "I want to check if i am banned in dubai? Travel Africa & Middle East United Arab Emirates I want to check if i am banned in dubai?ive been working in dubai for 1 year and 1 month.while i was taking my monthly vacation in philippines, i send an email to my employer that i can no longer continue my contract.i only have a limitd contract for",
+        "distance": 0.5467917919158936
+      },
+      {
+        "id": 2029,
+        "title": "Why isnât asbestos banned in the United States?",
+        "url": "http://www.asbestosnation.org/facts/why-isnt-asbestos-banned-in-the-united-states/",
+        "combined_text": "Why isnât asbestos banned in the United States? Home / Facts / Why isn’t asbestos banned in the United States? Why isn’t asbestos banned in the United States? Despite evidence that there is no safe level of exposure, efforts to ban asbestos in the United States have been repeatedly blocked by industry. Many Americans mistakenly believe that asbes",
+        "distance": 0.6696600914001465
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "5987514341839403895": {
+    "query_id": "5987514341839403895",
+    "query": "federal contract cost disallowance procedures",
+    "relevants": [
+      {
+        "relevant_doc": 1543,
+        "relevant_url": "https://www.acquisition.gov/sites/default/files/current/far/html/Subpart%2042_8.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1543,
+        "title": "Subpart 42.8.Disallowance of Costs",
+        "url": "https://www.acquisition.gov/sites/default/files/current/far/html/Subpart%2042_8.html",
+        "combined_text": "Subpart 42.8.Disallowance of Costs Subpart 42.8. Disallowance of Costs42.800 Scope of subpart. This subpart prescribes policies and procedures for. (a) Issuing notices of intent to disallow costs; and (b) Disallowing costs already incurred during the course of performance.42.801 Notice of intent to disallow costs. (a) At any time dur",
+        "distance": 0.43460091948509216
+      },
+      {
+        "id": 2451,
+        "title": "Contract",
+        "url": "https://en.wikipedia.org/wiki/Contractual_rights",
+        "combined_text": "Contract \"Contract From Wikipedia, the free encyclopedia (Redirected from Contractual rights)navigation search A contract is a voluntary arrangement between two or more parties that is enforceable by law as a binding legal agreement. Contract law recognises and governs the rights and duties arising from agre",
+        "distance": 0.5766036510467529
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-2346201705834737673": {
+    "query_id": "-2346201705834737673",
+    "query": "how long do drains stay after breast reconstruction",
+    "relevants": [
+      {
+        "relevant_doc": 1830,
+        "relevant_url": "https://community.breastcancer.org/forum/91/topics/812971"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1830,
+        "title": "Topic: removal of drains after mastectomy & reconstruction",
+        "url": "https://community.breastcancer.org/forum/91/topics/812971",
+        "combined_text": "Topic: removal of drains after mastectomy & reconstruction Donate Comunidad en español All Topics → Forum: Surgery - Before, During, and After → Topic: removal of drains after mastectomy & reconstruction Topic: removal of drains after mastectomy & reconstruction Forum: Surgery - Before, During, and After — Surgical options and helpful tips for recovery and",
+        "distance": 0.4460757076740265
+      },
+      {
+        "id": 1311,
+        "title": "How long should I keep records?",
+        "url": "https://www.irs.gov/businesses/small-businesses-self-employed/how-long-should-i-keep-records",
+        "combined_text": "How long should I keep records? The length of time you should keep a document depends on the action, expense, or event which the document records. Generally, you must keep your records that support an item of income, deduction or credit shown on your tax return until the period of limitations for that tax return runs out. The peri",
+        "distance": 0.7728754281997681
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "9080428078066835695": {
+    "query_id": "9080428078066835695",
+    "query": "trump interview godfather attitude democratic strategy",
+    "relevants": [
+      {
+        "relevant_doc": 2292,
+        "relevant_url": "https://www.balloon-juice.com/2017/12/29/capo-di-tutti-capi/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2292,
+        "title": "Capo di Tutti Capi",
+        "url": "https://www.balloon-juice.com/2017/12/29/capo-di-tutti-capi/",
+        "combined_text": "Capo di Tutti Capi \"Capo di Tutti Capiby Cheryl Rofer at 11:46 am on December 29, 2017. It has 185 Comments. Here’s another part of the Trump interview that Joy Ann Reid highlights. Betty has covered part of this, but I think Trump’s attitude on this is important for Democratic strategy. He literally adopted a \"\"Godfa",
+        "distance": 0.6169842481613159
+      },
+      {
+        "id": 2467,
+        "title": "Leading Trump Census pick causes alarm",
+        "url": "https://www.politico.com/story/2017/11/21/trump-census-pick-causes-alarm-252571",
+        "combined_text": "Leading Trump Census pick causes alarm \"Leading Trump Census pick causes alarm The 2020 count might be put in the hands of an inexperienced professor who wrote that 'Competitive Elections are Bad for America. 'By DANNY VINIK and ANDREW RESTUCCIA11/21/2017 05:06 AM ESTThe fate of the census under President Donald Trump has been closely wa",
+        "distance": 0.6994556784629822
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3630329113433306134": {
+    "query_id": "3630329113433306134",
+    "query": "how to report crime anonymously",
+    "relevants": [
+      {
+        "relevant_doc": 218,
+        "relevant_url": "http://www.crimenb.ca/about-us/faq/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 218,
+        "title": "Frequently Asked Questions",
+        "url": "http://www.crimenb.ca/about-us/faq/",
+        "combined_text": "Frequently Asked Questions Frequently Asked Questions What Is Crime Stoppers? What Type of Calls does Crime Stoppers Take? What If the Caller Is the Victim? How Does Crime Stoppers Work? Who Answers When I Call to Report a Crime? What Does Crime Stoppers Want to Know? What Type of Questions Will I Be Asked? What Happens to My",
+        "distance": 0.5473750829696655
+      },
+      {
+        "id": 2493,
+        "title": "Stephen Lawrence murder: A timeline of how the story unfolded",
+        "url": "http://www.bbc.com/news/uk-26465916",
+        "combined_text": "Stephen Lawrence murder: A timeline of how the story unfolded \"Stephen Lawrence murder: A timeline of how the story unfolded6 March 2014Share A public inquiry has been launched following revelations that an undercover police officer spied on the family of murdered teenager Stephen Lawrence. Home Secretary Theresa May described the findings of a report by Mark",
+        "distance": 0.6683257222175598
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-5835728207138137066": {
+    "query_id": "-5835728207138137066",
+    "query": "illinois state employee health and insurance",
+    "relevants": [
+      {
+        "relevant_doc": 291,
+        "relevant_url": "https://www2.illinois.gov/cms/benefits/Pages/default.aspx"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2455,
+        "title": "Small and Large Business Health Insurance: State & Federal Roles",
+        "url": "http://www.ncsl.org/research/health/small-business-health-insurance.aspx",
+        "combined_text": "Small and Large Business Health Insurance: State & Federal Roles \"Small and Large Business Health Insurance: State & Federal Roles On This Page State Decisions for 50+ Employees - 2017 update Exemptions from Individual Coverage Mandate (2017 update)2016 ACA rules for Public-sector Employers Small Business (SHOP) Exchanges\"\"Cadillac Tax\"\" on high-cost employer pla",
+        "distance": 0.49238133430480957
+      },
+      {
+        "id": 1063,
+        "title": "Salvaged Vehicles in Illinois",
+        "url": "http://www.dmv.org/il-illinois/salvaged-vehicles.php",
+        "combined_text": "Salvaged Vehicles in Illinois Home Illinois Registration & Title Other Vehicle Registrations Salvaged Vehicles Share Tweet Pin It Email Print Salvaged Vehicles in Illinois On This Page What Is a Salvaged Car in IL? Illinois Salvage Cars & Total Loss Claims Junking a Car in Illinois Have a totaled car in Illinois? Chances are, yo",
+        "distance": 0.5371649265289307
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-1873909375794926979": {
+    "query_id": "-1873909375794926979",
+    "query": "samantha fox girlfriend dies after cancer",
+    "relevants": [
+      {
+        "relevant_doc": 2340,
+        "relevant_url": "http://www.mirror.co.uk/3am/celebrity-news/samantha-fox-left-devastated-after-6195165"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2340,
+        "title": "Samantha Fox left devastated after long-term girlfriend loses two-year cancer battle",
+        "url": "http://www.mirror.co.uk/3am/celebrity-news/samantha-fox-left-devastated-after-6195165",
+        "combined_text": "Samantha Fox left devastated after long-term girlfriend loses two-year cancer battle \"Celebs Samantha Fox left devastated after long-term girlfriend loses two-year cancer battle Myra Stratton had been Sam's partner and manager for the last 16 years Share By Zoe Shenton Los Angeles Senior Showbiz and Entertainment Reporter05:51, 5 AUG 2015 Updated 08:59, 5 AUG 2015 (Image: Rex)Share",
+        "distance": 0.3348521888256073
+      },
+      {
+        "id": 3024,
+        "title": "Noninvasive DNA Test for Colorectal Cancer Gets FDA Thumbs-up",
+        "url": "http://www.aafp.org/news/health-of-the-public/20140829cologuard.html",
+        "combined_text": "Noninvasive DNA Test for Colorectal Cancer Gets FDA Thumbs-up \"August 29, 2014 02:51 pm Chris Crawford – Among cancers that affect both men and women, colorectal cancer is the third most common cancer and the second leading cause of cancer-related death in the United States, according to the CDC. The agency estimates that if everyone age 50 or older participat",
+        "distance": 0.6830192804336548
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8569035523545902179": {
+    "query_id": "8569035523545902179",
+    "query": "how to swear in quebecois fast",
+    "relevants": [
+      {
+        "relevant_doc": 857,
+        "relevant_url": "https://offqc.com/2014/04/07/learn-to-swear-in-perfect-quebecois-french-in-39-seconds-flat-758/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 857,
+        "title": "Learn to swear in perfect QuÃ©bÃ©cois French in 39 seconds flat! (#758)",
+        "url": "https://offqc.com/2014/04/07/learn-to-swear-in-perfect-quebecois-french-in-39-seconds-flat-758/",
+        "combined_text": "Learn to swear in perfect QuÃ©bÃ©cois French in 39 seconds flat! (#758) « 3 interesting images from around Montréal (#757)Elections are over, eat chocolate (#759) »Learn to swear in perfect Québécois French in 39 seconds flat! (#758)7 April 2014 by Polesello If you like swear words + music with swear words, then you’ll love this short song by Laurent Paquin! It’s only 3",
+        "distance": 0.4487207233905792
+      },
+      {
+        "id": 1409,
+        "title": "Swearing at work - a guide",
+        "url": "http://nic.ferrier.me.uk/blog/2013_04/swearing-at-work",
+        "combined_text": "Swearing at work - a guide \"Swearing at work - a guide Please take the title's warning seriously, I will be using swear words in this post. If you'd rather not read them but are still interested in the content here then ask me via twitter and I'll try and come up with a swearing free version. There seems to be a bit of contro",
+        "distance": 0.7596532702445984
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3504320194317198783": {
+    "query_id": "3504320194317198783",
+    "query": "are patch burns good for biodiversity",
+    "relevants": [
+      {
+        "relevant_doc": 2202,
+        "relevant_url": "https://ianluntecology.com/2014/07/06/patch-burn-mosaic-1/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2202,
+        "title": "Burning (for) biodiversity: what is a patch burn mosaic?",
+        "url": "https://ianluntecology.com/2014/07/06/patch-burn-mosaic-1/",
+        "combined_text": "Burning (for) biodiversity: what is a patch burn mosaic? 06/07/2014 by Ian Lunt Burning (for) biodiversity: what is a patch burn mosaic? Like patch mosaic burning? I bet you know someone who does. The concept – like corridors and connectivity – is popular with land managers and the public, and often adopted with ‘mucho gusto’. The theory that underpins pa",
+        "distance": 0.40963634848594666
+      },
+      {
+        "id": 17,
+        "title": "New Details Released In Southern State Overpass Crash: Patch PM",
+        "url": "https://patch.com/new-york/fivetowns",
+        "combined_text": "New Details Released In Southern State Overpass Crash: Patch PM Breaking News Medford New Details Released In Southern State Overpass Crash: Patch PMAlso: LI postal carrier stole mail: DA / Osprey left homeless after PSEG removes nest / Man indicted for hit-and-run that killed teenby Ryan Bonner, patch national staff | 3 hrs ago News Malverne-Lynbrook Long Islan",
+        "distance": 0.7180724143981934
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3257597145812249672": {
+    "query_id": "3257597145812249672",
+    "query": "five towns long island news roundup",
+    "relevants": [
+      {
+        "relevant_doc": 17,
+        "relevant_url": "https://patch.com/new-york/fivetowns"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 80,
+        "title": "Depew News",
+        "url": "http://www.topix.com/city/depew-ny",
+        "combined_text": "Depew News Topix › New York › Erie County › Depew › Depew News Depew News Local news for Depew, NY continually updated from thousands of sources on the web. Tell me when there are new stories Nyack People & Places: WPA-era Post Office Murals1 hr ago | Nyack News And Views Police, fed up with lingering cold wea",
+        "distance": 0.7097591757774353
+      },
+      {
+        "id": 113,
+        "title": "How far is sanibel island from Tampa airport?",
+        "url": "http://www.answers.com/Q/How_far_is_it_from_Tampa_to_Marco_Island",
+        "combined_text": "How far is sanibel island from Tampa airport? Charlie N. 122,923 Contributions I have spent many years renovating buildings and leading a commercial handyman crew. How far is sanibel island from Tampa airport? Approximately 220 miles. Edit Eric Barnes 481,004 Contributions How far is Marco Island from Sanibel Island?67 miles Edit How long does",
+        "distance": 0.7286391258239746
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-6230954498399183411": {
+    "query_id": "-6230954498399183411",
+    "query": "meaning of ANR relationship",
+    "relevants": [
+      {
+        "relevant_doc": 170,
+        "relevant_url": "http://www.topix.com/forum/city/leitchfield-ky/TJV4JSG2IFCKFHTM0/has-anyone-heard-of-anr-relationship-what-is-it"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 225,
+        "title": "Success Definitions: What Is Success",
+        "url": "http://www.successconsciousness.com/success_definitions.htm",
+        "combined_text": "Success Definitions: What Is Success Success Definitions: What Is Success By Remez Sasson Everyone desires success in one form or another. Some just daydream about it, while others do something to achieve it. What is Success? What does success mean to you? Actually, it has many definitions. Definitions of Success: It is the favorable o",
+        "distance": 0.7130892872810364
+      },
+      {
+        "id": 1917,
+        "title": "interpretation",
+        "url": "http://www.dictionary.com/browse/interpretation",
+        "combined_text": "interpretation \"interpretation [in-tur-pri- tey -sh uh n]Spell Syllables Examples Word Origin See more synonyms on Thesaurus.comnoun1. the act of interpreting; elucidation; explication: This writer's work demands interpretation.2. an explanation of the meaning of another's artistic or creative work; an elucidation",
+        "distance": 0.7535011172294617
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "2594921659121902854": {
+    "query_id": "2594921659121902854",
+    "query": "most toxic substances in the world",
+    "relevants": [
+      {
+        "relevant_doc": 2478,
+        "relevant_url": "http://theconversation.com/handle-with-care-the-worlds-five-deadliest-poisons-56089"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1270,
+        "title": "List of extremely hazardous substances",
+        "url": "https://en.wikipedia.org/wiki/List_of_extremely_hazardous_substances",
+        "combined_text": "List of extremely hazardous substances List of extremely hazardous substances From Wikipedia, the free encyclopedianavigation search This is the list of extremely hazardous substances defined in Section 302 of the U. S. Emergency Planning and Community Right-to-Know Act (42 U. S. C. 11002). The list can be found as an appendix to 40 C. F",
+        "distance": 0.6171649098396301
+      },
+      {
+        "id": 2029,
+        "title": "Why isnât asbestos banned in the United States?",
+        "url": "http://www.asbestosnation.org/facts/why-isnt-asbestos-banned-in-the-united-states/",
+        "combined_text": "Why isnât asbestos banned in the United States? Home / Facts / Why isn’t asbestos banned in the United States? Why isn’t asbestos banned in the United States? Despite evidence that there is no safe level of exposure, efforts to ban asbestos in the United States have been repeatedly blocked by industry. Many Americans mistakenly believe that asbes",
+        "distance": 0.6627237796783447
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-2540054045036234472": {
+    "query_id": "-2540054045036234472",
+    "query": "pot dealer creates fake family comedy",
+    "relevants": [
+      {
+        "relevant_doc": 2299,
+        "relevant_url": "http://www.imdb.com/title/tt1723121/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1609,
+        "title": "How to Become an Auto Dealer",
+        "url": "http://www.wikihow.com/Become-an-Auto-Dealer",
+        "combined_text": "How to Become an Auto Dealer Edit Article How to Become an Auto Dealer Becoming an auto dealer is a process that requires an investment of time and money, but that can yield high profits. A car dealer may operate in several different modes in order to make money: running a used car lot, buying/selling wholesale cars on an as-ne",
+        "distance": 0.6496343016624451
+      },
+      {
+        "id": 2299,
+        "title": "We're the Millers  ( 2013)",
+        "url": "http://www.imdb.com/title/tt1723121/",
+        "combined_text": "We're the Millers  ( 2013) \"FULL CAST AND CREW | TRIVIA | USER REVIEWS | IMDb Pro | MORESHARE7.0/ 10351,877Rate This We're the Millers ( 2013)R | 1h 50min | Comedy, Crime | 7 August 2013 (USA)2:39 | Trailer 3 VIDEOS | 68 IMAGESWatch Now From $1.99 (HD) on Prime Video ON TV ON DISC ALLA veteran pot dealer creates a fake family",
+        "distance": 0.7145947813987732
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-327068610579828974": {
+    "query_id": "-327068610579828974",
+    "query": "what county is Alma, Georgia in",
+    "relevants": [
+      {
+        "relevant_doc": 1677,
+        "relevant_url": "https://en.wikipedia.org/wiki/Bacon_County,_Georgia"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1677,
+        "title": "Bacon County, Georgia",
+        "url": "https://en.wikipedia.org/wiki/Bacon_County,_Georgia",
+        "combined_text": "Bacon County, Georgia \"Bacon County, Georgia From Wikipedia, the free encyclopedianavigation search Bacon County, Georgia Bacon County Courthouse in Alma Location in the U. S. state of Georgia Georgia's location in the U. S. Founded July 27, 1914Named for Augustus Octavius Bacon Seat Alma Largest city Alma Area• Total 28",
+        "distance": 0.359655499458313
+      },
+      {
+        "id": 2832,
+        "title": "Fayette County, Georgia",
+        "url": "https://en.wikipedia.org/wiki/Fayette_County,_GA",
+        "combined_text": "Fayette County, Georgia \"Fayette County, Georgia From Wikipedia, the free encyclopedia (Redirected from Fayette County, GA)navigation search Fayette County, Georgia Fayette County Courthouse, in Fayetteville Seal Location in the U. S. state of Georgia Georgia's location in the U. S. Founded May 15, 1821Named for Marquis de",
+        "distance": 0.43815878033638
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "4971728883907613777": {
+    "query_id": "4971728883907613777",
+    "query": "employee reimbursements no receipts required",
+    "relevants": [
+      {
+        "relevant_doc": 1068,
+        "relevant_url": "https://www.investopedia.com/terms/n/non-accountable-plan.asp"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1967,
+        "title": "What Are Payroll Taxes?",
+        "url": "http://www.alllaw.com/articles/tax/article5.asp",
+        "combined_text": "What Are Payroll Taxes? \"What Are Payroll Taxes? Most employers are required to withhold and pay income taxes on behalf of their employees. Free Case Evaluation Please answer a few questions to help us match you with attorneys in your area. Select a Practice Area\"\"In Nolo you can trust. \"\"— The New York Times Why You Can T",
+        "distance": 0.5262061953544617
+      },
+      {
+        "id": 1068,
+        "title": "DEFINITION of 'Non-Accountable Plan'",
+        "url": "https://www.investopedia.com/terms/n/non-accountable-plan.asp",
+        "combined_text": "DEFINITION of 'Non-Accountable Plan' DEFINITION of 'Non-Accountable Plan'A system under which a business provides payments to its employees to cover business expenses incurred for meals, travel, transportation, or entertainment, but under which the employee does not have to substantiate the expenses or return advance payments in excess",
+        "distance": 0.5748152732849121
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-2633893730611831793": {
+    "query_id": "-2633893730611831793",
+    "query": "sofia vergara flashes ring in hawaii",
+    "relevants": [
+      {
+        "relevant_doc": 178,
+        "relevant_url": "http://www.dailymail.co.uk/tvshowbiz/article-2890249/Sofia-Vergara-42-flashes-diamond-ring-Hawaiian-vacation-beau-Joe-Manganiello-38.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 178,
+        "title": "PICTURE EXCLUSIVE: Already engaged! Sofia Vergara, 42, flashes diamond ring while on Hawaiian vacation with beau Joe Manganiello, 38",
+        "url": "http://www.dailymail.co.uk/tvshowbiz/article-2890249/Sofia-Vergara-42-flashes-diamond-ring-Hawaiian-vacation-beau-Joe-Manganiello-38.html",
+        "combined_text": "PICTURE EXCLUSIVE: Already engaged! Sofia Vergara, 42, flashes diamond ring while on Hawaiian vacation with beau Joe Manganiello, 38 \"PICTURE EXCLUSIVE: Already engaged! Sofia Vergara, 42, flashes diamond ring while on Hawaiian vacation with beau Joe Manganiello, 38Sofia and Joe started dating in June after her May split from Nick Loeb They first met in May at the White House Correspondents' Dinner The 42-year-old actress took Jo",
+        "distance": 0.5403817296028137
+      },
+      {
+        "id": 2601,
+        "title": "All four of the giant planets in our Solar System are known to have rings. Where do these rings come from?",
+        "url": "https://www.quora.com/All-four-of-the-giant-planets-in-our-Solar-System-are-known-to-have-rings-Where-do-these-rings-come-from",
+        "combined_text": "All four of the giant planets in our Solar System are known to have rings. Where do these rings come from? \"Dexter Rash, works at Ventures Unlimited Answered Sep 20, 2016Originally Answered: Why does Saturn have rings? Thank you for your question. In fact Saturn is not the only planet in our solar system that has rings, in fact all the giant gas planets have them: Jupiter, Uranus and Neptune. However, th",
+        "distance": 0.7775659561157227
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "5485560611833968903": {
+    "query_id": "5485560611833968903",
+    "query": "words that mean allow",
+    "relevants": [
+      {
+        "relevant_doc": 2776,
+        "relevant_url": "http://www.thesaurus.com/browse/give+permission"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1283,
+        "title": "vocational- definition and synonyms",
+        "url": "http://www.macmillandictionary.com/dictionary/british/vocational",
+        "combined_text": "vocational- definition and synonyms Show lessvocational- definition and synonyms What are red words? Using the thesaurusadjective/ vəʊˈkeɪʃ (ə)nəl /Contribute to our Open Dictionary1 education a vocational course teaches the skills necessary for a particular job Synonyms and related words Describing or relating to teaching or learning",
+        "distance": 0.5609097480773926
+      },
+      {
+        "id": 1400,
+        "title": "sloganeer",
+        "url": "http://www.dictionary.com/browse/sloganeer",
+        "combined_text": "sloganeer sloganeer [sloh-g uh - neer]Spell Syllables Word Originnoun1. a person who creates and uses slogans frequently.verb (used without object)2. to create or use slogans, especially in an effort to change public opinion. Origin of sloganeer Expand1920-1925First recorded in 1920-25; slogan + -eer Dictiona",
+        "distance": 0.6404944062232971
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-475846407686602167": {
+    "query_id": "-475846407686602167",
+    "query": "liability coverage for indiana small businesses",
+    "relevants": [
+      {
+        "relevant_doc": 1665,
+        "relevant_url": "http://www.hiscox.com/small-business-insurance/indiana-business-insurance/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1665,
+        "title": "Indiana Small Business Insurance",
+        "url": "http://www.hiscox.com/small-business-insurance/indiana-business-insurance/",
+        "combined_text": "Indiana Small Business Insurance \"Indiana Small Business Insurance We provide Indiana business insurance to professional services companies. Hiscox small business insurance coverage includes professional liability insurance and general liability insurance. Hiscox small business insurance products include: General Liability Insuranc",
+        "distance": 0.2824692130088806
+      },
+      {
+        "id": 3046,
+        "title": "Here are some advantages :",
+        "url": "https://www.businessnameusa.com/TaxIDNumber/Indiana.aspx",
+        "combined_text": "Here are some advantages : \"Get Indiana Tax ID> Get Started Required Indiana Tax ID Registrations.✔ 1A (n) Indiana Business Tax Registration (Business License) (Also callled an occupational license,or business permit. )✔ 2A (n) Indiana DBA ( Doing Business As ) (Fictitious / Assumed Business Name or Trade Name)Alternatively,",
+        "distance": 0.5179421901702881
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "6403050668420922883": {
+    "query_id": "6403050668420922883",
+    "query": "is windows command prompt dos",
+    "relevants": [
+      {
+        "relevant_doc": 1317,
+        "relevant_url": "http://commandwindows.com/command1.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1317,
+        "title": "CommandWindows.com",
+        "url": "http://commandwindows.com/command1.htm",
+        "combined_text": "CommandWindows.com \"DOS is dead, long live the command line Before proceeding further, I wish to clear up a common misconception that the command prompt in Windows XP is the same as DOS. Even some experts who know better sometimes refer to the command prompt as a “DOS window”. In fact, Microsoft itself isn't always ca",
+        "distance": 0.15499895811080933
+      },
+      {
+        "id": 1514,
+        "title": "Linux Limit CPU Usage Per Process",
+        "url": "https://www.cyberciti.biz/faq/cpu-usage-limiter-for-linux/",
+        "combined_text": "Linux Limit CPU Usage Per Process Linux Limit CPU Usage Per Processin Cent OS, Debian / Ubuntu, Fedora Linux, Hardware, Linux, Monitoring, Security, Suse, Troubleshooting last updated December 24, 2009I don’t want background process to eat all my CPU. I know how to find out CPU utilization but how do I limit the cpu usage of a proce",
+        "distance": 0.6407561898231506
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "6551465825500847130": {
+    "query_id": "6551465825500847130",
+    "query": "political pluralism meaning and example",
+    "relevants": [
+      {
+        "relevant_doc": 1110,
+        "relevant_url": "https://answers.yahoo.com/question/index?qid=20090506202745AAKQM6l"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1110,
+        "title": "What is pluralism? Give an example?",
+        "url": "https://answers.yahoo.com/question/index?qid=20090506202745AAKQM6l",
+        "combined_text": "What is pluralism? Give an example? Arts & Humanities Philosophy What is pluralism? Give an example?1 following 2 answers Answers Relevance Rating Newest Oldest Best Answer: Pluralism is a conceptual model that argues that the best form of a political system is one in which recognition is given to a large number of competing interest",
+        "distance": 0.2847658097743988
+      },
+      {
+        "id": 2051,
+        "title": "What is Nationalism?",
+        "url": "http://www.qwhatis.com/what-is-nationalism/",
+        "combined_text": "What is Nationalism? What is Nationalism? July 7, 2011 , cherran , Leave a comment What is Nationalism? Nationalism is the concept that involves people that identify themselves as a political unit or a nation. It’s a belief that a particular nation has to be recognized and be given rights to statehood. But since nationa",
+        "distance": 0.5987388491630554
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8657024515808222887": {
+    "query_id": "8657024515808222887",
+    "query": "restaurant hostess hourly pay range",
+    "relevants": [
+      {
+        "relevant_doc": 1146,
+        "relevant_url": "http://www.answers.com/Q/How_much_money_do_people_in_Brazil_earn_per_hour"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1146,
+        "title": "How much money does a restaurant hostess earn per hour?",
+        "url": "http://www.answers.com/Q/How_much_money_do_people_in_Brazil_earn_per_hour",
+        "combined_text": "How much money does a restaurant hostess earn per hour? \"How much money does a restaurant hostess earn per hour? Answer Depending on the class of the restaurant, the hostess can make anywhere from minimum wage to about $10.00 or more, and also depending on the length o …Chocolate dino 146 Contributions How much money does a field biologist earn per hour?",
+        "distance": 0.27386999130249023
+      },
+      {
+        "id": 1216,
+        "title": "How Much Can a Hostess Make an Hour?",
+        "url": "http://oureverydaylife.com/much-can-hostess-make-hour-16862.html",
+        "combined_text": "How Much Can a Hostess Make an Hour? Home »Salary Insights »More Salary Information How Much Can a Hostess Make an Hour? By Forest Time; Updated July 05, 2017Ablestock.com/Able Stock.com/Getty Images Hosts and hostesses typically work at the front of a restaurant, performing several tasks. One of their primary functions is to show patr",
+        "distance": 0.37331536412239075
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3551845742031561286": {
+    "query_id": "3551845742031561286",
+    "query": "apply for medical financing card",
+    "relevants": [
+      {
+        "relevant_doc": 2167,
+        "relevant_url": "https://www.carecredit.com/apply/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2056,
+        "title": "Medicine",
+        "url": "http://www.washington.edu/uaa/advising/at-the-uw/pre-health-advising/fields/medicine/",
+        "combined_text": "Medicine \"Home Home Working With Us Pre-Health Advising Medicine Medicine To be \"\"pre-med\"\" means you are embarking on a course of study aimed at preparing you to apply to a medical school (or other post-graduate health profession). It means you are taking the classes and gaining the experiences that these s",
+        "distance": 0.626803994178772
+      },
+      {
+        "id": 2654,
+        "title": "Green Card Renewal Fee Keeps Climbing",
+        "url": "https://citizenpath.com/green-card-renewal-fee-keeps-climbing/",
+        "combined_text": "Green Card Renewal Fee Keeps Climbing Green Card Renewal Fee Keeps Climbing January 19, 2016 Green Card, Maintain GC, USCIS I-551, I-90, naturalization, permanent resident card Less than 20 years ago, the green card renewal fee was only $75. In just a few years, the cost has risen to $365 plus the $85 biometrics fee. That’s almost five",
+        "distance": 0.6499011516571045
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "4599116999418838708": {
+    "query_id": "4599116999418838708",
+    "query": "legal term for refusing rights",
+    "relevants": [
+      {
+        "relevant_doc": 927,
+        "relevant_url": "https://definitions.uslegal.com/d/disavowment/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 919,
+        "title": "rights",
+        "url": "http://www.thefreedictionary.com/rights",
+        "combined_text": "rights \"rights Also found in: Thesaurus, Medical, Legal, Financial, Acronyms, Idioms, Encyclopedia, Wikipedia. Related to rights: Miranda rights, Bill of Rights, Natural rights, Constitutional rightsright (rīt)adj. right·er, right·est1. Conforming with or conformable to justice, law, or morality: do the ri",
+        "distance": 0.447224497795105
+      },
+      {
+        "id": 606,
+        "title": "Patient Rights",
+        "url": "http://www.emedicinehealth.com/patient_rights/article_em.htm",
+        "combined_text": "Patient Rights \"What are Patient Rights? Communication Informed Consent Confidentiality The Right to Healthcare Abandonment Right to Refuse Care - Adults, Parents, and Children Legal Principles in Medicine Medical Research and Patients' Rights What are Patient Rights? Patient rights are those basic rule of conduct",
+        "distance": 0.5332406759262085
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "1316762935042460724": {
+    "query_id": "1316762935042460724",
+    "query": "anatomical meaning of fissure",
+    "relevants": [
+      {
+        "relevant_doc": 596,
+        "relevant_url": "http://encyclopedia2.thefreedictionary.com/fissure"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 596,
+        "title": "fissure",
+        "url": "http://encyclopedia2.thefreedictionary.com/fissure",
+        "combined_text": "fissure fissure Also found in: Dictionary, Thesaurus, Medical, Legal, Wikipedia. Related to fissure: piles, fistulafissure1. Anatomy a narrow split or groove that divides an organ such as the brain, lung, or liver into lobes2. a small unnatural crack in the skin or mucous membrane, as between the toes or at",
+        "distance": 0.3173786997795105
+      },
+      {
+        "id": 2521,
+        "title": "perforated",
+        "url": "https://medical-dictionary.thefreedictionary.com/perforated",
+        "combined_text": "perforated \"perforated Also found in: Dictionary, Thesaurus, Legal, Acronyms, Encyclopedia, Wikipedia. Related to perforated: perforated eardrum, perforated ulcerper·fo·rat·ed ( per'fō-rāt'ed ), Pierced with one or more holes. [L. perforatus, fr. per-foro, pp. -atus, to bore through]Farlex Partner Medical Dict",
+        "distance": 0.69791579246521
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-9088831260685813824": {
+    "query_id": "-9088831260685813824",
+    "query": "apply for victoria library card",
+    "relevants": [
+      {
+        "relevant_doc": 1103,
+        "relevant_url": "https://psr.slv.vic.gov.au/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1103,
+        "title": "Library card registration form",
+        "url": "https://psr.slv.vic.gov.au/",
+        "combined_text": "Library card registration form Library card registration form A Library card gives Victorians access to our collection of more than five million items. While the rarity of our collection means you're not able to borrow items, you can browse thousands of free ebooks, online databases and ejournals. You will be able to collect your",
+        "distance": 0.4014992415904999
+      },
+      {
+        "id": 1199,
+        "title": "Open a different iTunes Library file or create a new one",
+        "url": "https://support.apple.com/en-us/HT201596",
+        "combined_text": "Open a different iTunes Library file or create a new one Open a different i Tunes Library file or create a new one Learn how to create or switch between i Tunes libraries to fix launch issues or share your computer with other people in your household. Create or choose a different i Tunes Library file Using a new i Tunes library might help you isolate or f",
+        "distance": 0.6496292352676392
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7229844641395323083": {
+    "query_id": "7229844641395323083",
+    "query": "what to do in vienna in january",
+    "relevants": [
+      {
+        "relevant_doc": 889,
+        "relevant_url": "https://www.vienna-unwrapped.com/things-to-do-in-vienna-january/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 889,
+        "title": "Things To Do In Vienna January 2018: My Top List",
+        "url": "https://www.vienna-unwrapped.com/things-to-do-in-vienna-january/",
+        "combined_text": "Things To Do In Vienna January 2018: My Top List Things To Do In Vienna January 2018: My Top List Things to do in Vienna January 2018. January is a quiet tourism season (except for ball travellers). This means more space for you and the locals. Watch the New Year’s Concert for free, roam Leopold Museum’s new Vienna 1900 exhibition, join a Vienna b",
+        "distance": 0.2935817837715149
+      },
+      {
+        "id": 173,
+        "title": "What to pack for Budapest weather in September?",
+        "url": "https://www.tripadvisor.com/ShowTopic-g274881-i262-k2128773-What_to_pack_for_Budapest_weather_in_September-Hungary.html",
+        "combined_text": "What to pack for Budapest weather in September? Watch this Topic Browse forums All Europe forums Hungary forum Hungary forumsarleena67Santa Clara Level Contributor66 posts2 reviews Save Topic What to pack for Budapest weather in September? Jul 21, 2008, 3:49 PMI live in the Bay Area in sunny California and will be in Budapest in early/mid Septemb",
+        "distance": 0.791368842124939
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-7478572516645885171": {
+    "query_id": "-7478572516645885171",
+    "query": "visiting Fort Lewis College Durango",
+    "relevants": [
+      {
+        "relevant_doc": 134,
+        "relevant_url": "http://www.fortlewis.edu/home/visitors.aspx"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 134,
+        "title": "Visitors to Fort Lewis College",
+        "url": "http://www.fortlewis.edu/home/visitors.aspx",
+        "combined_text": "Visitors to Fort Lewis College \"Historic Durango is a thriving multicultural community in the beautiful Animas River Valley. Averaging 300 sunny days per year and situated between the San Juan Mountains and the desert Southwest, Durango is renowned for its outdoor opportunities and friendly people. See for yourself. And while her",
+        "distance": 0.38975024223327637
+      },
+      {
+        "id": 2236,
+        "title": "Fort Stewart Jobs",
+        "url": "https://militarybasejobs.com/fort-stewart",
+        "combined_text": "Fort Stewart Jobs \"Fort Stewart Jobs114 jobs listed by 22 federal agencies near Fort Stewart in Georgia. Active 114Archive Industrial Hygienist, GS-0690-11U. S. Army Medical Command - Full-Time$79,586 / Per Year About the Position: Fort Stewart/Hunter AAF is a southern living station of choice with great climate, eas",
+        "distance": 0.675945520401001
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3141449778601363052": {
+    "query_id": "3141449778601363052",
+    "query": "film about Louisiana sharecropping family",
+    "relevants": [
+      {
+        "relevant_doc": 2838,
+        "relevant_url": "https://www.moviefone.com/movie/sounder/1232524/main/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2838,
+        "title": "Sounder  (2003)",
+        "url": "https://www.moviefone.com/movie/sounder/1232524/main/",
+        "combined_text": "Sounder  (2003) Release Date: 2003DVD Release Date: June 24th, 2003Not Yet Rated 1 hr 36 min Plot Summary A family of Louisiana sharecroppers struggles to survive while living in poverty during the Great Depression. When Father (Carl Lumbly), a deeply religious man, must resort to stealing a ham to feed his wife (S",
+        "distance": 0.7070936560630798
+      },
+      {
+        "id": 1081,
+        "title": "Child Welfare Family Services",
+        "url": "http://www.dcfs.louisiana.gov/index.cfm?md=pagebuilder&tmp=home&pid=112",
+        "combined_text": "Child Welfare Family Services Louisiana.gov > DCFS > Child Welfare High Contrast Version | Text Size: Child Welfare Family Services Family Services are social services, which are provided to families and children in their own homes in order to address problems of abuse/neglect and promote the safety of the children within the fa",
+        "distance": 0.7283200025558472
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-2071691888588433093": {
+    "query_id": "-2071691888588433093",
+    "query": "little-known facts about apple inc",
+    "relevants": [
+      {
+        "relevant_doc": 2998,
+        "relevant_url": "https://www.inc.com/larry-kim/21-surprising-to-bizarre-facts-about-apple.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2998,
+        "title": "21 Surprising-to-Bizarre Facts About Apple",
+        "url": "https://www.inc.com/larry-kim/21-surprising-to-bizarre-facts-about-apple.html",
+        "combined_text": "21 Surprising-to-Bizarre Facts About Apple Icons of Entrepreneurship21 Surprising-to-Bizarre Facts About Apple See how well you really know everyone's favorite i-Brand. By Larry Kim Founder and CTO, Word Stream@ larrykim Apple may be best known as the inventor of the i Phone and i Pad, but there is more to this tech giant than meets the eye.",
+        "distance": 0.5221896171569824
+      },
+      {
+        "id": 2956,
+        "title": "Should the Apple iPad be considered a computer?",
+        "url": "https://www.cnet.com/news/should-the-apple-ipad-be-considered-a-computer/",
+        "combined_text": "Should the Apple iPad be considered a computer? \"Culture Should the Apple i Pad be considered a computer? Long before Apple unveiled its tablet device (officially the worst-kept secret in the history of technology), we had been giving serious thought to whether such a device should be called a computer or not.by Dan Ackerman January 27, 201011:41",
+        "distance": 0.7225306034088135
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-5708285642326965386": {
+    "query_id": "-5708285642326965386",
+    "query": "historical quarantine for leprosy patients",
+    "relevants": [
+      {
+        "relevant_doc": 102,
+        "relevant_url": "https://en.wikipedia.org/wiki/Leper_colony"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 102,
+        "title": "Leper colony",
+        "url": "https://en.wikipedia.org/wiki/Leper_colony",
+        "combined_text": "Leper colony \"From Wikipedia, the free encyclopedianavigation search Spinalonga on Crete, Greece, one of the last leper colonies in Europe, closed in 1957. A leper colony, leprosarium, or lazar house is a place to quarantine people with leprosy (Hansen's disease). The term lazaretto can refer to quarantine sites",
+        "distance": 0.2990736663341522
+      },
+      {
+        "id": 1233,
+        "title": "Can Lyme Disease in Dogs Spread to People?",
+        "url": "http://www.pethealthnetwork.com/dog-health/dog-diseases-conditions-a-z/can-lyme-disease-dogs-spread-people",
+        "combined_text": "Can Lyme Disease in Dogs Spread to People? \"Dog Health Dog Diseases & Conditions A-Z Can Lyme Disease in Dogs Spread to People? Can Lyme Disease in Dogs Spread to People? Posts by: Dr. Mike Paul, DVMDog Diseases & Conditions A-ZAccording to the CDC and CBS News and the the incidence of Lyme disease in humans is much higher than in previous y",
+        "distance": 0.654301106929779
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "4267422765282505019": {
+    "query_id": "4267422765282505019",
+    "query": "financial aid options for college students",
+    "relevants": [
+      {
+        "relevant_doc": 414,
+        "relevant_url": "http://www.aum.edu/current-students/financial-aid"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 414,
+        "title": "Financial Aid",
+        "url": "http://www.aum.edu/current-students/financial-aid",
+        "combined_text": "Financial Aid College is a significant investment — in your future. You have a number of options for financing your education, and we're here to help you make sense of it all. From grants to student loans, to college work-study, we offer more than $36 million in financial assistance to students annually. You'll a",
+        "distance": 0.2724245488643646
+      },
+      {
+        "id": 1410,
+        "title": "Medical Students Financial Assistance",
+        "url": "https://medschool.vanderbilt.edu/financial-services/medical-students-financial-assistance",
+        "combined_text": "Medical Students Financial Assistance Medical Students Financial Assistance Vanderbilt Medical School (VMS) Scholarships Federal Direct Unsubsidized Loans Federal Direct Graduate PLUS Loans Private Education Loans Residency Interviewing and Relocation Loans The Yellow Ribbon Program Financial Assistance Medical Students Financial Assist",
+        "distance": 0.4609496295452118
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "4031425818329711159": {
+    "query_id": "4031425818329711159",
+    "query": "clint eastwood western farmer joins guerrillas",
+    "relevants": [
+      {
+        "relevant_doc": 568,
+        "relevant_url": "http://www.imdb.com/title/tt0075029/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 376,
+        "title": "Clint Eastwood",
+        "url": "https://www.britannica.com/biography/Clint-Eastwood",
+        "combined_text": "Clint Eastwood Clint Eastwood, in full Clinton Eastwood, Jr., (born May 31, 1930, San Francisco, California, U. S.), American motion-picture actor who emerged as one of the most popular Hollywood stars in the 1960s and went on to become a prolific and respected director-producer. Early life and career Growing up d",
+        "distance": 0.3249710500240326
+      },
+      {
+        "id": 568,
+        "title": "The Outlaw Josey Wales  ( 1976)",
+        "url": "http://www.imdb.com/title/tt0075029/",
+        "combined_text": "The Outlaw Josey Wales  ( 1976) \"FULL CAST AND CREW | TRIVIA | USER REVIEWS | IMDb Pro | MORESHARE7.9/ 1056,237Rate This The Outlaw Josey Wales ( 1976)PG | 2h 15min | Western | 7 August 1976 (Japan)2:14 | Trailer 1 VIDEO | 85 IMAGESWatch Now From $2.99 (SD) on Prime Video ON DISCA Missouri farmer joins a Confederate guerrilla unit",
+        "distance": 0.6609597206115723
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-1436563541084846553": {
+    "query_id": "-1436563541084846553",
+    "query": "how to open motorola sre file",
+    "relevants": [
+      {
+        "relevant_doc": 2717,
+        "relevant_url": "http://whatis.techtarget.com/fileformat/SRE-Undefined-file-Motorola"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2717,
+        "title": "SRE File Format",
+        "url": "http://whatis.techtarget.com/fileformat/SRE-Undefined-file-Motorola",
+        "combined_text": "SRE File Format File Extension SRE File Format Undefined file (Motorola)SRE stands for Undefined file (Motorola). This was last updated in March 2012By Margaret Rouse Browse File Extensions Alphabetically: A B C D E F G H I J K L M N O P QR S T U V W X Y Z #Ask a Question. Find an Answer. Ask your peers a question",
+        "distance": 0.3609878122806549
+      },
+      {
+        "id": 2768,
+        "title": "E-File Now & Extend your Corporate Tax Filing Deadline!",
+        "url": "https://www.expressextension.com/form7004extension/corporate-tax-extension/",
+        "combined_text": "E-File Now & Extend your Corporate Tax Filing Deadline! E-File Now & Extend your Corporate Tax Filing Deadline!Get an automatic 7 month extension to file your business taxes. Quickly and easily e-file with our tax extension software. E-file Now Corporate Tax Extension Form 7004Corporate tax extension Form 7004 give you 6 more months to file your IRS inco",
+        "distance": 0.6775716543197632
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "2562162999899448200": {
+    "query_id": "2562162999899448200",
+    "query": "app for six-second looping videos",
+    "relevants": [
+      {
+        "relevant_doc": 1778,
+        "relevant_url": "http://searchcio.techtarget.com/definition/Vine-Vine-app"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1778,
+        "title": "Vine (Vine app)",
+        "url": "http://searchcio.techtarget.com/definition/Vine-Vine-app",
+        "combined_text": "Vine (Vine app) \"Vine is a free mobile application that enables users to record and share an unlimited number of short, looping video clips with a maximum length of six seconds. Download this free guide What should be in a CIO’s IT strategic plan? This complimentary document comprehensively details the elements of",
+        "distance": 0.6020916700363159
+      },
+      {
+        "id": 510,
+        "title": "How Long Does It Take for a YouTube Video to Be Searchable?",
+        "url": "http://www.ehow.com/info_12091320_long-before-uploads-youtube-appear.html",
+        "combined_text": "How Long Does It Take for a YouTube Video to Be Searchable? \"How Long Does It Take for a You Tube Video to Be Searchable?by Laurel Storm Unless you're uploading private family or business videos that you want to share with only a select few, your goal when posting a video on You Tube is likely to be noticed as quickly as possible. Because a great part of you",
+        "distance": 0.6485992074012756
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4608990502659074818": {
+    "query_id": "-4608990502659074818",
+    "query": "what policies raise worker pay",
+    "relevants": [
+      {
+        "relevant_doc": 1451,
+        "relevant_url": "http://www.epi.org/publication/how-to-raise-wages-policies-that-work-and-policies-that-dont/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1451,
+        "title": "How to Raise WagesPolicies That Work and Policies That Donât",
+        "url": "http://www.epi.org/publication/how-to-raise-wages-policies-that-work-and-policies-that-dont/",
+        "combined_text": "How to Raise WagesPolicies That Work and Policies That Donât \"How to Raise Wages Policies That Work and Policies That Don’t Report • By Lawrence Mishel and Ross Eisenbrey • March 19, 2015Briefing Paper #391Download PDFPress release Introduction and executive summary There is now widespread agreement across the political spectrum that wage stagnation is the co",
+        "distance": 0.5464614033699036
+      },
+      {
+        "id": 2579,
+        "title": "Considerations When Giving Employees Raises",
+        "url": "http://www.bizfilings.com/toolkit/sbg/office-hr/managing-the-workplace/employees-raises-what-to-take-into-account.aspx",
+        "combined_text": "Considerations When Giving Employees Raises Considerations When Giving Employees Raises Filed under Office & HR. Employers should review employee compensation on a regular basis and determine whether employee pay raises are warranted. Whether raises are the same across the board, performance-based or calculated using another method, a competi",
+        "distance": 0.5682547688484192
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "6170998321819213874": {
+    "query_id": "6170998321819213874",
+    "query": "step files for product manufacturing data",
+    "relevants": [
+      {
+        "relevant_doc": 1302,
+        "relevant_url": "http://whatis.techtarget.com/fileformat/STEP-Standardized-graphic-exchange-format"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1302,
+        "title": "STEP File Format",
+        "url": "http://whatis.techtarget.com/fileformat/STEP-Standardized-graphic-exchange-format",
+        "combined_text": "STEP File Format \"File Extension STEP File Format Standardized graphic exchange format STEP is a standardized graphic exchange file format. Here`s an explanation from Wikipedia`s entry for ISO 10303: ISO 10303 is an ISO standard for the computer-interpretable representation and exchange of product manufacturing info",
+        "distance": 0.598539412021637
+      },
+      {
+        "id": 47,
+        "title": "Steps to register a company",
+        "url": "http://asic.gov.au/for-business/starting-a-company/how-to-start-a-company/",
+        "combined_text": "Steps to register a company \"Home For business Registering a company Steps to register a company Steps to register a company This section details how to register a company with us and the things you need to keep in mind. Step 1 - Is a company right for you? Step 2 - Choosing a company name Step 3 - How will your company operat",
+        "distance": 0.6182069778442383
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "5842733018242812382": {
+    "query_id": "5842733018242812382",
+    "query": "brodie name origin and meaning",
+    "relevants": [
+      {
+        "relevant_doc": 2147,
+        "relevant_url": "http://www.thenamemeaning.com/brodie/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2147,
+        "title": "Brodie",
+        "url": "http://www.thenamemeaning.com/brodie/",
+        "combined_text": "Brodie Brodie What does the name Brodie mean? The different meanings of the name Brodie are: Celtic - Gaelic meaning: Muddy place English meaning: Muddy place The meaning of the name “Brodie” is different in several languages, countries and cultures and has more than one possibly same or different meanings",
+        "distance": 0.1655542552471161
+      },
+      {
+        "id": 1140,
+        "title": "Last name:  Tyler",
+        "url": "http://www.surnamedb.com/Surname/Tyler",
+        "combined_text": "Last name:  Tyler \"Last name: Tyler SDB Popularity ranking: 351Recorded in the spellings of Tyler, Tiler and Tylor, this interesting surname is of Anglo-Saxon and French origins. It was originally an occupational surname for a maker or layer of tiles. The derivation is either from the Olde English pre 7th Century wor",
+        "distance": 0.6549271941184998
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-7894817205049137395": {
+    "query_id": "-7894817205049137395",
+    "query": "how to dye hair burgundy",
+    "relevants": [
+      {
+        "relevant_doc": 727,
+        "relevant_url": "http://youqueen.com/beauty/hair/burgundy-hair-color/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 727,
+        "title": "Burgundy Hair Color: How to Get the Perfect Shade",
+        "url": "http://youqueen.com/beauty/hair/burgundy-hair-color/",
+        "combined_text": "Burgundy Hair Color: How to Get the Perfect Shade If you love to make a statement with your hair, but are too shy to go for a very bright color (like blue, bright red or violet), burgundy offers the perfect option. It is dark enough to be subtle and professional at work, but trendy and fashionable enough to stand out as brave and different. It is a",
+        "distance": 0.41512584686279297
+      },
+      {
+        "id": 2513,
+        "title": "mohair",
+        "url": "https://www.merriam-webster.com/dictionary/mohair",
+        "combined_text": "mohair \"mohairnoun mo·hair \\ ˈmō-ˌher \\Popularity: Bottom 30% of words | Updated on: 3 Apr 2018Trending Now:oligarch glib depose omnibus acrimony ALLExamples: mohair in a Sentence Editor's Note: Did You Know? Time Traveler! Explore the year a word first appeared Definition of mohair: a fabric or yarn made",
+        "distance": 0.7433826327323914
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8070430423223667731": {
+    "query_id": "-8070430423223667731",
+    "query": "investment options for small business owners",
+    "relevants": [
+      {
+        "relevant_doc": 654,
+        "relevant_url": "http://www.advisor.ca/tax/tax-news/investment-solutions-for-business-owners-109941"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 654,
+        "title": "Investment solutions for business owners",
+        "url": "http://www.advisor.ca/tax/tax-news/investment-solutions-for-business-owners-109941",
+        "combined_text": "Investment solutions for business owners Editor’s note: This article is from 2013. For 2017 information, read our article, “ Salary or dividends: Which is better for business owners?”There are nearly 2.5 million businesses in Canada, according to Industry Canada. A large portion of them are small and medium enterprises (SMEs) operated as c",
+        "distance": 0.4513786733150482
+      },
+      {
+        "id": 1023,
+        "title": "Settling Small Business Claims in Small Claims Court",
+        "url": "http://litigation.findlaw.com/going-to-court/settling-small-business-claims-in-small-claims-court.html/",
+        "combined_text": "Settling Small Business Claims in Small Claims Court \"Settling Small Business Claims in Small Claims Court Every small business owner knows that controlling costs is the key to success, but when disputes arise between a business owner and his or her subcontractors, suppliers or customers, resolving those disputes can get costly. Recently, small claims",
+        "distance": 0.5018306970596313
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-9109138426532238555": {
+    "query_id": "-9109138426532238555",
+    "query": "leadership qualities that inspire organizational growth",
+    "relevants": [
+      {
+        "relevant_doc": 309,
+        "relevant_url": "http://www.billhogg.ca/2015/11/10-characteristics-of-transformational-leaders/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 309,
+        "title": "10 Characteristics of Transformational Leaders",
+        "url": "http://www.billhogg.ca/2015/11/10-characteristics-of-transformational-leaders/",
+        "combined_text": "10 Characteristics of Transformational Leaders 10 Characteristics of Transformational Leaders In a previous article, we discussed how leadership impacts your organizations ability to grow. Now let’s discuss some of the characteristics that leaders need to impact the growth of their organization. There are certain core characteristics the majorit",
+        "distance": 0.3875577449798584
+      },
+      {
+        "id": 571,
+        "title": "Organizational chart",
+        "url": "https://en.wikipedia.org/wiki/Organizational_chart",
+        "combined_text": "Organizational chart \"Organizational chart From Wikipedia, the free encyclopedianavigation search Functional Hybrid Organizational Organisation Chart of the League of Nations in 1930. [1]An organizational chart (often called organization chart, org chart, organigram (me), or organogram) is a diagram that shows the struc",
+        "distance": 0.5730409622192383
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-7955752082033836724": {
+    "query_id": "-7955752082033836724",
+    "query": "which assets avoid probate in wisconsin",
+    "relevants": [
+      {
+        "relevant_doc": 2014,
+        "relevant_url": "http://info.legalzoom.com/wisconsins-inheritance-laws-23101.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2014,
+        "title": "Probate Vs. Non-Probate Assets",
+        "url": "http://info.legalzoom.com/wisconsins-inheritance-laws-23101.html",
+        "combined_text": "Probate Vs. Non-Probate Assets Probate Vs. Non-Probate Assets Wisconsin’s inheritance laws only apply to probate assets, but not all assets are considered to be probate assets. Non-probate assets pass to beneficiaries directly. The following categories of property are considered non-probate assets in Wisconsin: property owned joi",
+        "distance": 0.20253774523735046
+      },
+      {
+        "id": 1841,
+        "title": "Where to Get the Last Will & Testament of a Relative",
+        "url": "http://info.legalzoom.com/last-testament-relative-4740.html",
+        "combined_text": "Where to Get the Last Will & Testament of a Relative When a relative dies, his executor, you or another family member will need to find the will and file it with the probate court. If the will has already been filed with the court, you may be able to get a copy of the last will and testament from several different sources. Knowing where to get the las",
+        "distance": 0.6445544362068176
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-6695072531869931774": {
+    "query_id": "-6695072531869931774",
+    "query": "register to vend at nyc street fairs",
+    "relevants": [
+      {
+        "relevant_doc": 879,
+        "relevant_url": "http://manhattan.about.com/od/careersjobs/a/streetfairsvendorlicense.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 879,
+        "title": "Become a New York Street Fair Vendor",
+        "url": "http://manhattan.about.com/od/careersjobs/a/streetfairsvendorlicense.htm",
+        "combined_text": "Become a New York Street Fair Vendor Could New York City summer street fairs be a big money opportunity for your company? Find out how to get your street fair vendor license and sign up to participate in street fairs in New York City. How to Register to Sell At a New York Street Fair To sell your products or services at New York street",
+        "distance": 0.27494797110557556
+      },
+      {
+        "id": 2074,
+        "title": "How to Quickly Renew a Vehicle Registration",
+        "url": "https://dps.expresslane.org/vehicleregistration/",
+        "combined_text": "How to Quickly Renew a Vehicle Registration How to Quickly Renew a Vehicle Registration Enter Vehicle Information and Confirm Record Verify Address Authorize Payment of the Fee View and Print Your Receipt Terms of Service The following items are required to renew a Vehicle Registration: Either your renewal notice or your current vehicle regis",
+        "distance": 0.6896150708198547
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4575675823446188322": {
+    "query_id": "-4575675823446188322",
+    "query": "history of greek hair and fashion",
+    "relevants": [
+      {
+        "relevant_doc": 192,
+        "relevant_url": "http://hairdressingworld.com/Hairdressing-Design/History-Of-Fashion-And-Hairstyling/ancient-greeks.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 192,
+        "title": "Ancient Greeks",
+        "url": "http://hairdressingworld.com/Hairdressing-Design/History-Of-Fashion-And-Hairstyling/ancient-greeks.html",
+        "combined_text": "Ancient Greeks Ancient Greeks4.2 ANCIENT GREEKSThe ancient Greeks were among the greatest founders of European civilisation. They lived in small communities, on mainland Greece and the nearby Mediterranean islands, which grew up over thousands of years and reached their height around 1000 years BC. The Greek philo",
+        "distance": 0.5704781413078308
+      },
+      {
+        "id": 109,
+        "title": "Find Out Which Fashion Bloggers Are Making Millions",
+        "url": "http://www.whowhatwear.com/how-do-bloggers-make-money",
+        "combined_text": "Find Out Which Fashion Bloggers Are Making Millions \"October 9, 2016 Fashion News Find Out Which Fashion Bloggers Are Making Millionsby Meghan Blalock It's no secret that the world's most successful fashion bloggers have it really good: They travel the world on other people's dimes, get unbelievable designer swag for free, constantly have people lavi",
+        "distance": 0.623877227306366
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-7877029606110214599": {
+    "query_id": "-7877029606110214599",
+    "query": "why argentina fell from prosperity",
+    "relevants": [
+      {
+        "relevant_doc": 194,
+        "relevant_url": "https://www.economist.com/news/briefing/21596582-one-hundred-years-ago-argentina-was-future-what-went-wrong-century-decline"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 194,
+        "title": "The tragedy of ArgentinaA century of decline",
+        "url": "https://www.economist.com/news/briefing/21596582-one-hundred-years-ago-argentina-was-future-what-went-wrong-century-decline",
+        "combined_text": "The tragedy of ArgentinaA century of decline The tragedy of Argentina A century of decline One hundred years ago Argentina was the future. What went wrong? Print edition | Briefing Feb 17th 2014 | BUENOS AIRESWHEN the residents of Buenos Aires want to change the pesos they do not trust into the dollars they do, they go to a cueva, or “cave”, a",
+        "distance": 0.4076625108718872
+      },
+      {
+        "id": 161,
+        "title": "Uruguay - Politics, government, and taxation",
+        "url": "http://www.nationsencyclopedia.com/economies/Americas/Uruguay-POLITICS-GOVERNMENT-AND-TAXATION.html",
+        "combined_text": "Uruguay - Politics, government, and taxation Uruguay - Politics, government, and taxation Follow City-Data.com founder on our Forum or @Lech Mazur Uruguay become independent from Spain after a revolt that began in 1811, but the nation then joined a federation with Argentina. In 1821, Brazil annexed Uruguay, but the country achieved full indepe",
+        "distance": 0.6567890644073486
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7044993316244276855": {
+    "query_id": "7044993316244276855",
+    "query": "get insurance to waive hail deductible",
+    "relevants": [
+      {
+        "relevant_doc": 1924,
+        "relevant_url": "http://answers.angieslist.com/How-I-paying-insurance-deductible-hail-damaged-roof-q23490.aspx"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1924,
+        "title": "Ask Your Question",
+        "url": "http://answers.angieslist.com/How-I-paying-insurance-deductible-hail-damaged-roof-q23490.aspx",
+        "combined_text": "Ask Your Question \"Question Details Asked on 5/5/2011Kimbel... How do I get out of paying the insurance deductible for my hail-damaged roof? So I have hail damage. My insurance company's estimate came in at $7,900 (including gutter covers). Two A-rated roofers gave me exactly the same estimate: $7,050 (not including",
+        "distance": 0.5505326986312866
+      },
+      {
+        "id": 2269,
+        "title": "Consumers Beware: Not All Health Plans Cover A Doctorâs Visit Before The Deductible Is Met",
+        "url": "http://khn.org/news/consumers-with-less-expensive-plans-spend-thousands-before-coverage-begins/",
+        "combined_text": "Consumers Beware: Not All Health Plans Cover A Doctorâs Visit Before The Deductible Is Met If you buy one of the less expensive insurance plans sold through the health law’s marketplaces, you may be in for a surprise. Some plans will not pay for a doctor visit before you meet your annual deductible, which could be thousands of dollars.“This could be the next shoe to drop, as people don’t",
+        "distance": 0.5632197260856628
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "2504415905940756204": {
+    "query_id": "2504415905940756204",
+    "query": "major global migration trends",
+    "relevants": [
+      {
+        "relevant_doc": 2233,
+        "relevant_url": "http://www.pewresearch.org/fact-tank/2014/09/02/7-facts-about-world-migration/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2233,
+        "title": "7 facts about world migration",
+        "url": "http://www.pewresearch.org/fact-tank/2014/09/02/7-facts-about-world-migration/",
+        "combined_text": "7 facts about world migration September 2, 20147 facts about world migration By Christopher Inkpen Since humans first left Africa 60,000 years ago, they have been migrating around the planet in great numbers – and the advent of international borders certainly did not stop global migration. Although the percentage of the world’s",
+        "distance": 0.33898088335990906
+      },
+      {
+        "id": 1663,
+        "title": "How Do I Update My Global Entry When I Update My Passport?",
+        "url": "https://www.swiftpassportservices.com/blog/update-global-entry-update-passport/",
+        "combined_text": "How Do I Update My Global Entry When I Update My Passport? \"How Do I Update My Global Entry When I Update My Passport? Rob // Expedited Passports, Know Before You Go, Travel News // 13 Comments Global Entry is a program run by the US Customs and Border Protection agency. By enrolling in the Global Entry program, frequent international travelers can signific",
+        "distance": 0.6231953501701355
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4095050417491222621": {
+    "query_id": "-4095050417491222621",
+    "query": "1628 parliamentary petition limiting monarch",
+    "relevants": [
+      {
+        "relevant_doc": 1234,
+        "relevant_url": "https://en.wikipedia.org/wiki/Petition_of_Right"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1234,
+        "title": "Petition of Right",
+        "url": "https://en.wikipedia.org/wiki/Petition_of_Right",
+        "combined_text": "Petition of Right \"From Wikipedia, the free encyclopedianavigation search This article is about the English constitutional document created in 1628. For the pre-1947 contractual remedy against the Crown, see petition of right. The Petition of Right [1]Parliament of England Long title The Petition Exhibited to His Maj",
+        "distance": 0.46828457713127136
+      },
+      {
+        "id": 2622,
+        "title": "How Long Does The I-130 Petition Process Take?",
+        "url": "http://www.alllaw.com/articles/nolo/us-immigration/how-long-does-i-130-petition-process-family.html",
+        "combined_text": "How Long Does The I-130 Petition Process Take? \"How Long Does The I-130 Petition Process Take? An overview of the timeline to approval of an I-130 petition for immigrant family members.updated by Ilona Bray, J. D. Free Case Evaluation Please answer a few questions to help us match you with attorneys in your area. Select a Practice Area\"\"In Nolo",
+        "distance": 0.6607195734977722
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-5210025128840587133": {
+    "query_id": "-5210025128840587133",
+    "query": "why Amazon uses pinless debit",
+    "relevants": [
+      {
+        "relevant_doc": 2862,
+        "relevant_url": "https://www.quora.com/Why-does-Amazon-prefer-PIN-less-debit-transactions-over-signature-debit-transactions"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2862,
+        "title": "Why does Amazon prefer PIN-less debit transactions over signature debit transactions?",
+        "url": "https://www.quora.com/Why-does-Amazon-prefer-PIN-less-debit-transactions-over-signature-debit-transactions",
+        "combined_text": "Why does Amazon prefer PIN-less debit transactions over signature debit transactions? Patrick Hawthorne, Payment Processing Expert Answered Oct 10, 2014 Amazon is aware that although most transactions may be capped and regulated at .05% + .22 cents many are not. Keep in mind that Durbin does not include caps for Prepaid Debit Cards and General Purpose Reloadables issued by unregulate",
+        "distance": 0.42549172043800354
+      },
+      {
+        "id": 2716,
+        "title": "What does FDA do?",
+        "url": "https://www.fda.gov/AboutFDA/Transparency/Basics/ucm194877.htm",
+        "combined_text": "What does FDA do? What does FDA do? Share Tweet Linkedin Pin it Email Print En Español FDA is responsible for Protecting the public health by assuring that foods (except for meat from livestock, poultry and some egg products which are regulated by the U. S. Department of Agriculture) are safe, wholesome, sanitary and",
+        "distance": 0.7968192100524902
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "2531580442520655469": {
+    "query_id": "2531580442520655469",
+    "query": "female hunter waitress from Supernatural",
+    "relevants": [
+      {
+        "relevant_doc": 44,
+        "relevant_url": "http://supernatural.wikia.com/wiki/Jo_Harvelle"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 44,
+        "title": "Jo Harvelle",
+        "url": "http://supernatural.wikia.com/wiki/Jo_Harvelle",
+        "combined_text": "Jo Harvelle \"Jo Harvelle Season (s)2, 5, 7Species Human Ghost ( Vengeful Spirit) (briefly)Status Deceased (mortally wounded by a hellhound, spirit moved on)Occupation Hunter Waitress (formerly)Affiliation Winchester Family Bobby Singer Family William Anthony Harvelle (father) † Ellen Harvelle (mother) †Portraye",
+        "distance": 0.7106784582138062
+      },
+      {
+        "id": 2790,
+        "title": "Follow Up All Job Leads: Donât Wait by the Phone (or Computer)",
+        "url": "https://www.livecareer.com/quintessential/following-job-leads",
+        "combined_text": "Follow Up All Job Leads: Donât Wait by the Phone (or Computer) Follow Up All Job Leads: Don’t Wait by the Phone (or Computer)by Live Career Staff Writerby Randall S. Hansen, Ph. D. Does this scenario sound familiar? You’re in the market for a new job, and after conducting all your research, you send out 20 cover letters and resumes to potential hiring managers.",
+        "distance": 0.7584465742111206
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "5431664571109045036": {
+    "query_id": "5431664571109045036",
+    "query": "Natalbany Louisiana demographics and maps",
+    "relevants": [
+      {
+        "relevant_doc": 1727,
+        "relevant_url": "http://www.city-data.com/city/Natalbany-Louisiana.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1727,
+        "title": "Natalbany, Louisiana",
+        "url": "http://www.city-data.com/city/Natalbany-Louisiana.html",
+        "combined_text": "Natalbany, Louisiana \"Follow city-data.com founder on our Forum or@Lech Mazur Natalbany, Louisianaadd your We are giving away $1200 in prizes - enter simply by sending us your own city pictures! See promotion details and to upload your Natalbany, Louisiana photos OSM Map General Map Google Map MSN Map59°F10 miles Wind:",
+        "distance": 0.27505460381507874
+      },
+      {
+        "id": 133,
+        "title": "Population of Los Angeles County, California: Census 2010 and 2000 Interactive Map, Demographics, Statistics, Graphs, Quick Facts",
+        "url": "http://censusviewer.com/county/CA/Los%20Angeles",
+        "combined_text": "Population of Los Angeles County, California: Census 2010 and 2000 Interactive Map, Demographics, Statistics, Graphs, Quick Facts \"Population of Los Angeles County, California: Census 2010 and 2000 Interactive Map, Demographics, Statistics, Graphs, Quick Facts Compare population statistics about Los Angeles County, CA by race, age, gender, Latino/Hispanic origin etc. Census Viewer delivers detailed demographics and population",
+        "distance": 0.6477938294410706
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-6776394771258499545": {
+    "query_id": "-6776394771258499545",
+    "query": "how poverty and homelessness affect children",
+    "relevants": [
+      {
+        "relevant_doc": 1553,
+        "relevant_url": "http://www.apa.org/pi/families/poverty.aspx"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1553,
+        "title": "Effects of Poverty, Hunger and Homelessness on Children and Youth",
+        "url": "http://www.apa.org/pi/families/poverty.aspx",
+        "combined_text": "Effects of Poverty, Hunger and Homelessness on Children and Youth Effects of Poverty, Hunger and Homelessness on Children and Youth Introduction The nation’s economic crisis has deeply affected the lives of millions of Americans. Skyrocketing foreclosures and job layoffs have pulled the rug out from under many families, particularly those living in low-income comm",
+        "distance": 0.28264120221138
+      },
+      {
+        "id": 2355,
+        "title": "Examples of The Culture of Poverty and the Poverty Mindset",
+        "url": "http://matthewchan.com/2009/05/26/examples-of-the-culture-of-poverty-and-the-poverty-mindset/",
+        "combined_text": "Examples of The Culture of Poverty and the Poverty Mindset \"Examples of The Culture of Poverty and the Poverty Mindset May 26, 2009 Matthew Chan Motivation & Inspiration, Politics, U. S. Affairs 0In my prior post on my attendance of the Poverty Symposium, I mention the Culture of Poverty and the Poverty Mindset. I did not want to get too side-tracked by get",
+        "distance": 0.4564218819141388
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "712049079771614617": {
+    "query_id": "712049079771614617",
+    "query": "post-hospital rehab center Rockville MD",
+    "relevants": [
+      {
+        "relevant_doc": 1094,
+        "relevant_url": "http://www.mypotentialrehab.org/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2040,
+        "title": "Welcome to Granger Nursing and Rehab",
+        "url": "http://www.grangernursingandrehab.com/",
+        "combined_text": "Welcome to Granger Nursing and Rehab Welcome to Granger Nursing and Rehab Quality Care is at Our Roots Granger Nursing and Rehab is a newly renovated facility with a small town atmosphere, just minutes from the Des Moines metro area. Our friendly and caring team provides residents with personalized attention around the clock. We also p",
+        "distance": 0.5813840627670288
+      },
+      {
+        "id": 1094,
+        "title": "âI want to get back to my job, my grandkids, my life.â",
+        "url": "http://www.mypotentialrehab.org/",
+        "combined_text": "âI want to get back to my job, my grandkids, my life.â “I want to get back to my job, my grandkids, my life.”Discover my Potential Rehabilitation: A transformation in physical, occupational and speech therapy in Rockville, Md. There’s a new option for rehabilitation: a community with beautiful private rooms, concierge services, state-of-the-art capabili",
+        "distance": 0.642094612121582
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7057232633279285530": {
+    "query_id": "7057232633279285530",
+    "query": "campus emergency response system",
+    "relevants": [
+      {
+        "relevant_doc": 2531,
+        "relevant_url": "http://www.csus.edu/aba/ehs/emergency-management/campus-emergency-preperation/emergency-management-system.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2344,
+        "title": "Emergency Services",
+        "url": "http://www.orangecountync.gov/departments/emergency_services/index.php",
+        "combined_text": "Emergency Services Home » Departments » Emergency Services Emergency Services IF YOU ARE EXPERIENCING AN EMERGENCY CALL 9-1-1 Follow us Orange County Emergency Services is the agency dedicated to ensuring the appropriate and efficient response to emergencies throughout Orange County operating twenty-four hours each da",
+        "distance": 0.42349687218666077
+      },
+      {
+        "id": 2531,
+        "title": "Standardized Emergency Management System",
+        "url": "http://www.csus.edu/aba/ehs/emergency-management/campus-emergency-preperation/emergency-management-system.html",
+        "combined_text": "Standardized Emergency Management System Standardized Emergency Management System Overview The University utilizes the functions and principles of SEMS (Standardized Emergency Management System) as described by government code 8607 (a). SEMS incorporates the use of the Incident Command System regardless of the size of the incident or the n",
+        "distance": 0.4624166786670685
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-5156120036738933049": {
+    "query_id": "-5156120036738933049",
+    "query": "how routines and groups relieve stress",
+    "relevants": [
+      {
+        "relevant_doc": 759,
+        "relevant_url": "https://www.verywell.com/life-structures-and-stress-relief-3145115"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 759,
+        "title": "Using Life Structures for Stress Relief",
+        "url": "https://www.verywell.com/life-structures-and-stress-relief-3145115",
+        "combined_text": "Using Life Structures for Stress Relief \"Stress Management Management Techniques Using Life Structures for Stress Relief By Elizabeth Scott, MSUpdated January 25, 2018Share Pin Email Print Many life structures involve enlisting the support of a group. BJI / Blue Jean Images/ Getty Images When life coaches talk about \"\"structures,\"\" we're",
+        "distance": 0.6403593420982361
+      },
+      {
+        "id": 1842,
+        "title": "What is stress incontinence?",
+        "url": "https://www.healthline.com/health/stress-incontinence",
+        "combined_text": "What is stress incontinence? What is stress incontinence? Stress incontinence is the inability to control your urge to urinate in certain circumstances. It’s a serious and embarrassing disorder and can lead to social isolation. Any pressure placed on the abdomen and bladder can lead to the loss of urine. It’s important to remem",
+        "distance": 0.6836881041526794
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3329484579515789290": {
+    "query_id": "3329484579515789290",
+    "query": "how much to pay an electrician",
+    "relevants": [
+      {
+        "relevant_doc": 2914,
+        "relevant_url": "http://www.whatprice.co.uk/prices/electrician/hourly-rate.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2914,
+        "title": "Hourly rate",
+        "url": "http://www.whatprice.co.uk/prices/electrician/hourly-rate.html",
+        "combined_text": "Hourly rate \"Electrician prices for hourly rate This is how much you would expect to pay an electrician irrespective of the job involved. Although usually you will be quoted a price that includes the parts AND labour. The price per hour will vary depending on location in the country and demand of electricians s",
+        "distance": 0.2465662658214569
+      },
+      {
+        "id": 843,
+        "title": "Bachelor's Degree, Electrical & Computer Engineering (ECE) Average Salary",
+        "url": "http://www.payscale.com/research/US/Degree=Bachelor%27s_Degree%2c_Electrical_%26_Computer_Engineering_(ECE)/Salary",
+        "combined_text": "Bachelor's Degree, Electrical & Computer Engineering (ECE) Average Salary Salary Bonus Popular Profit Sharing Bachelor's Degree, Electrical & Computer Engineering (ECE) Median Salary by Job Check salary info for your own job »Job Average Min Max Electrical Engineer1 profile$65,809$54K $79KTeam Leader, General1 profile$57,241$36K $91KAccount Manager1 profile$119,993$83K $1",
+        "distance": 0.5318189859390259
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-2160822894063580036": {
+    "query_id": "-2160822894063580036",
+    "query": "solarwinds msp evaluation",
+    "relevants": [
+      {
+        "relevant_doc": 2170,
+        "relevant_url": "https://thwack.solarwinds.com/thread/58472"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2170,
+        "title": "Solarwinds for MSP's",
+        "url": "https://thwack.solarwinds.com/thread/58472",
+        "combined_text": "Solarwinds for MSP's Solarwinds for MSP's This question is Not Answered.cpl_goodwin Aug 7, 2013 4:53 AMHi All I work for an MSP with around 500+ Customer that we manage and monitor there IT equipment, We are looking at replacing all of our monitoring platform for one platform and Solarwinds is in the final two platforms",
+        "distance": 0.23010097444057465
+      },
+      {
+        "id": 1248,
+        "title": "Best Graduate Aerospace / Aeronautical / Astronautical Engineering Programs",
+        "url": "https://www.usnews.com/best-graduate-schools/top-engineering-schools/aerospace-rankings",
+        "combined_text": "Best Graduate Aerospace / Aeronautical / Astronautical Engineering Programs Home > Graduate Schools > Best Engineering Schools > Best Graduate Aerospace / Aeronautical / Astronautical Engineering Programs Best Graduate Aerospace / Aeronautical / Astronautical Engineering Programs Ranked in 2018, part of Best Engineering Schools Students in these graduate engineering program",
+        "distance": 0.7872270345687866
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3885116834289967303": {
+    "query_id": "3885116834289967303",
+    "query": "nixon secret tapes racist comments",
+    "relevants": [
+      {
+        "relevant_doc": 1730,
+        "relevant_url": "http://www.nytimes.com/2010/12/11/us/politics/11nixon.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1730,
+        "title": "In Tapes, Nixon Rails About Jews and Blacks",
+        "url": "http://www.nytimes.com/2010/12/11/us/politics/11nixon.html",
+        "combined_text": "In Tapes, Nixon Rails About Jews and Blacks Politics In Tapes, Nixon Rails About Jews and Blacks By ADAM NAGOURNEY DEC. 10, 2010President Richard M. Nixon at his desk in the Oval Office, where a secret taping system had been installed. Oliver Atkins/National Archives YORBA LINDA, Calif. — Richard M. Nixon made disparaging remarks about Jews,",
+        "distance": 0.370208740234375
+      },
+      {
+        "id": 1179,
+        "title": "Who is Christopher Steele, former MI-6 spy who wrote explosive Trump-Russia dossier?",
+        "url": "http://www.scmp.com/news/world/united-states-canada/article/2061564/who-christopher-steele-former-mi-6-spy-who-wrote",
+        "combined_text": "Who is Christopher Steele, former MI-6 spy who wrote explosive Trump-Russia dossier? Who is Christopher Steele, former MI-6 spy who wrote explosive Trump-Russia dossier? PUBLISHED : Thursday, 12 January, 2017, 3:03pm UPDATED : Thursday, 12 January, 2017, 10:16pm Comment: 1The headquarters of Britain's Secret Intelligence Service, MI-6, on the bank of the Thames in central London. Co",
+        "distance": 0.733372151851654
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4370030414560570884": {
+    "query_id": "-4370030414560570884",
+    "query": "AAA assistance for international members visiting US",
+    "relevants": [
+      {
+        "relevant_doc": 1517,
+        "relevant_url": "http://www.aaa.com/PPInternational/International.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1517,
+        "title": "AAA Benefits for International Members Traveling to the United States",
+        "url": "http://www.aaa.com/PPInternational/International.html",
+        "combined_text": "AAA Benefits for International Members Traveling to the United States AAA Benefits for International Members Traveling to the United States NOTE: If you are a AAA member, click here to enter the zip code to access your local club's website. Additional resources can also be found by following this link: Benefits for AAA Members Traveling Overseas. Emergency Roadside As",
+        "distance": 0.22836175560951233
+      },
+      {
+        "id": 2858,
+        "title": "IBA Annual Conference scholarships",
+        "url": "http://www.ibanet.org/Committees/Divisions/Legal_Practice/IBA-Annual-Conference-scholarships.aspx",
+        "combined_text": "IBA Annual Conference scholarships IBA Annual Conference scholarships IBA Conference scholarships Each year the International Bar Association (IBA), the world's largest international organisation of law societies, bar associations and individual lawyers engaged in transnational law, holds an Annual Conference, which attracts the part",
+        "distance": 0.6524003148078918
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-7170865888708487094": {
+    "query_id": "-7170865888708487094",
+    "query": "how veterans get college help in Florida",
+    "relevants": [
+      {
+        "relevant_doc": 578,
+        "relevant_url": "http://www.veteransflorida.org/2016/01/21/veterans-educational-benefits/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 578,
+        "title": "Veterans Educational Benefits",
+        "url": "http://www.veteransflorida.org/2016/01/21/veterans-educational-benefits/",
+        "combined_text": "Veterans Educational Benefits The federal government provides a wide range of helpful options and Florida offers additional support. Higher education undoubtedly helps those who have served in the military to land a job in the civilian sector after separating from service, and men and women who have served in the United States a",
+        "distance": 0.4680865406990051
+      },
+      {
+        "id": 2508,
+        "title": "Time to Buy in Floridaâ¦Carefully",
+        "url": "http://www.barrons.com/articles/SB50001424052748704408504577209272194967712",
+        "combined_text": "Time to Buy in Floridaâ¦Carefully Other Voices Time to Buy in Florida…Carefully Prices have slid so much that bargains abound. But beware developers' hype, a veteran Sunshine State real-estate broker warns, especially in over-condoed areas like Miami. By Mike Morgan February 11, 2012Is the Florida housing hurricane starting to blow",
+        "distance": 0.5832120776176453
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "6823869069923504212": {
+    "query_id": "6823869069923504212",
+    "query": "she said she'll think about it meaning",
+    "relevants": [
+      {
+        "relevant_doc": 485,
+        "relevant_url": "https://answers.yahoo.com/question/index?qid=20081222171459AAJDEfs"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 485,
+        "title": "\"When a girl says \"\"I'll think about it\"\" it usually means bad news but has it ever worked out for anyone?\"",
+        "url": "https://answers.yahoo.com/question/index?qid=20081222171459AAJDEfs",
+        "combined_text": "\"When a girl says \"\"I'll think about it\"\" it usually means bad news but has it ever worked out for anyone?\" \"Family & Relationships Singles & Dating When a girl says \"\"I'll think about it\"\" it usually means bad news but has it ever worked out for anyone? Has a girl ever said \"\"I'll think about it\"\" and said yes to you? Follow 32 answers Answers Relevance Rating Newest Oldest Best Answer: What's there to t",
+        "distance": 0.4843883812427521
+      },
+      {
+        "id": 1073,
+        "title": "Definition of anticipate in English:",
+        "url": "https://en.oxforddictionaries.com/definition/anticipate",
+        "combined_text": "Definition of anticipate in English: Home British & World English anticipate Definition of anticipate in English:anticipateverb [ with object]1 Regard as probable; expect or predict.‘she anticipated scorn on her return to the theatre’with clause ‘it was anticipated that the rains would slow the military campaign’More example sentences",
+        "distance": 0.7298256158828735
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-369920727417730502": {
+    "query_id": "-369920727417730502",
+    "query": "word meaning between different species",
+    "relevants": [
+      {
+        "relevant_doc": 1487,
+        "relevant_url": "https://www.merriam-webster.com/dictionary/interspecific"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2679,
+        "title": "The Truth About Church Incorporation",
+        "url": "http://ecclesia.org/truth/501-church.html",
+        "combined_text": "The Truth About Church Incorporation \" [ Note: In this article, the word \"\"Church\"\" does not refer to any physical building, but refers to the whole body of believers in Christ. The word \"\"church\"\" is translated from the Greek word ekklesia, which literally means \"\"assembly\"\" or \"\"congregation\"\" of people; it does not refer to any phys",
+        "distance": 0.6172357797622681
+      },
+      {
+        "id": 726,
+        "title": "ethnic",
+        "url": "http://www.learnersdictionary.com/definition/ethnic",
+        "combined_text": "ethnic Ask the Editor Word of the Day Quizzes Core Vocabulary Most Popular My Saved Words Log in Learner's Dictionaryethnic3 ENTRIES FOUND:ethnic (adjective)ethnic (noun)ethnic cleansing (noun)Save1 ethnic / ˈɛθnɪk/ adjective Learner's definition of ETHNIC1: of or relating to races or large groups of peopl",
+        "distance": 0.635902464389801
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-3375394828262103643": {
+    "query_id": "-3375394828262103643",
+    "query": "los fresnos tx population schools crime",
+    "relevants": [
+      {
+        "relevant_doc": 442,
+        "relevant_url": "https://www.homefacts.com/city/Texas/Cameron-County/Los-Fresnos.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 442,
+        "title": "Los Fresnos, Texas",
+        "url": "https://www.homefacts.com/city/Texas/Cameron-County/Los-Fresnos.html",
+        "combined_text": "Los Fresnos, Texas Los Fresnos, Texas Current Temperature 32 ° Population 5,561Los Fresnos is located in Cameron County, TX . The population is 5,561, making Los Fresnos the 6th largest city in Cameron County. There are 8 public schools in Los Fresnos with an average Homefacts rating of B+. The total crime rate for Lo",
+        "distance": 0.14129510521888733
+      },
+      {
+        "id": 122,
+        "title": "California Population",
+        "url": "http://geography.about.com/od/obtainpopulationdata/a/californiapopulation.htm",
+        "combined_text": "California Population Humanities ›Geography California Population The Population of California, The Most Populous State in the United States Share Flipboard Email Print Los Angeles is California's most populous metropolitan area and is the second largest urban area in the United States. Getty Imagesby Matt Rosenberg Upda",
+        "distance": 0.6390319466590881
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-2126082170520580379": {
+    "query_id": "-2126082170520580379",
+    "query": "who inherits if no will pennsylvania",
+    "relevants": [
+      {
+        "relevant_doc": 1637,
+        "relevant_url": "http://www.wolfbaldwin.com/Probate-Articles/Dying-Without-a-Will-Intestate-Succession.shtml"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1637,
+        "title": "Dying Without a Will - Intestate Succession",
+        "url": "http://www.wolfbaldwin.com/Probate-Articles/Dying-Without-a-Will-Intestate-Succession.shtml",
+        "combined_text": "Dying Without a Will - Intestate Succession Dying Without a Will - Intestate Succession What happens if I die without having a PA will? What happens if I have a will and it does not dispose all of my property? Will the Commonwealth of Pennsylvania get everything? These are common questions, and this article will hopefully clear up some common",
+        "distance": 0.5370105504989624
+      },
+      {
+        "id": 2114,
+        "title": "Pennsylvania Short-Term Disability Insurance",
+        "url": "https://www.growingfamilybenefits.com/pennsylvania-short-term-disability/",
+        "combined_text": "Pennsylvania Short-Term Disability Insurance Pennsylvania Short-Term Disability Insurance Does Pennsylvania offer short-term disability insurance? How long do the benefits last? The state of Pennsylvania does not provide short-term disability for off-the-job medical conditions. Residents must proactively purchase private coverage before the ne",
+        "distance": 0.5950106978416443
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7017040361689517896": {
+    "query_id": "7017040361689517896",
+    "query": "synonyms for lacking skill",
+    "relevants": [
+      {
+        "relevant_doc": 862,
+        "relevant_url": "http://www.synonyms.net/synonym/unskilled"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1283,
+        "title": "vocational- definition and synonyms",
+        "url": "http://www.macmillandictionary.com/dictionary/british/vocational",
+        "combined_text": "vocational- definition and synonyms Show lessvocational- definition and synonyms What are red words? Using the thesaurusadjective/ vəʊˈkeɪʃ (ə)nəl /Contribute to our Open Dictionary1 education a vocational course teaches the skills necessary for a particular job Synonyms and related words Describing or relating to teaching or learning",
+        "distance": 0.5913376212120056
+      },
+      {
+        "id": 862,
+        "title": "Visual Synonyms of unskilled",
+        "url": "http://www.synonyms.net/synonym/unskilled",
+        "combined_text": "Visual Synonyms of unskilled \"Princeton's Word Net (0.00 / 0 votes)Rate these synonyms:unskilled (adj)not having or showing or requiring special skill or proficiency\"\"unskilled in the art of rhetoric\"\"; \"\"an enthusiastic but unskillful mountain climber\"\"; \"\"unskilled labor\"\"; \"\"workers in unskilled occupations are finding fewer",
+        "distance": 0.6071386933326721
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-7363345820224097415": {
+    "query_id": "-7363345820224097415",
+    "query": "risks of virtual colonoscopy compared to colonoscopy",
+    "relevants": [
+      {
+        "relevant_doc": 1662,
+        "relevant_url": "https://sciencebasedmedicine.org/virtual-colonoscopy-can-be-hazardous-to-your-health/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1662,
+        "title": "Virtual Colonoscopy Can Be Hazardous to Your Health",
+        "url": "https://sciencebasedmedicine.org/virtual-colonoscopy-can-be-hazardous-to-your-health/",
+        "combined_text": "Virtual Colonoscopy Can Be Hazardous to Your Health The US Preventive Services Task Force (USPSTF) recommends that everyone aged 50-75 be screened for colon cancer with any one of three options: colonoscopy every 10 years, flexible sigmoidoscopy every 5 years, or fecal occult blood testing (FOBT) every year. Conventional colonoscopy is considered the",
+        "distance": 0.2922603189945221
+      },
+      {
+        "id": 3024,
+        "title": "Noninvasive DNA Test for Colorectal Cancer Gets FDA Thumbs-up",
+        "url": "http://www.aafp.org/news/health-of-the-public/20140829cologuard.html",
+        "combined_text": "Noninvasive DNA Test for Colorectal Cancer Gets FDA Thumbs-up \"August 29, 2014 02:51 pm Chris Crawford – Among cancers that affect both men and women, colorectal cancer is the third most common cancer and the second leading cause of cancer-related death in the United States, according to the CDC. The agency estimates that if everyone age 50 or older participat",
+        "distance": 0.66966712474823
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-2500221883406357503": {
+    "query_id": "-2500221883406357503",
+    "query": "difference between birth and naturalization papers",
+    "relevants": [
+      {
+        "relevant_doc": 2648,
+        "relevant_url": "http://www.answers.com/Q/Is_a_Birth_Certificate_the_same_as_a_Certificate_of_Naturalization"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2648,
+        "title": "Is a Birth Certificate the same as a Certificate of Naturalization?",
+        "url": "http://www.answers.com/Q/Is_a_Birth_Certificate_the_same_as_a_Certificate_of_Naturalization",
+        "combined_text": "Is a Birth Certificate the same as a Certificate of Naturalization? \"Answers.com ® Wiki Answers ® Categories History, Politics & Society History History of the United States US Presidents Barack Obama Is a Birth Certificate the same as a Certificate of Naturalization? Flag Is a Birth Certificate the same as a Certificate of Naturalization? Answer by Donna Halper Con",
+        "distance": 0.4490927755832672
+      },
+      {
+        "id": 2854,
+        "title": "Passport program",
+        "url": "http://www.cic.gc.ca/english/department/passport/index.asp",
+        "combined_text": "Passport program Passport program, part of Immigration, Refugees and Citizenship Canada, is responsible for issuing, refusing to issue, revoking, withholding, recovering, and providing instructions on the use of Canadian passports. Read the Canadian Passport Order for more information. Access our services through:34",
+        "distance": 0.6010825037956238
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "2691723337419646091": {
+    "query_id": "2691723337419646091",
+    "query": "english renaissance timeline events",
+    "relevants": [
+      {
+        "relevant_doc": 859,
+        "relevant_url": "https://prezi.com/yxdtcpunzn0v/important-events-of-the-english-renaissance/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 859,
+        "title": "Important Events of the English Renaissance",
+        "url": "https://prezi.com/yxdtcpunzn0v/important-events-of-the-english-renaissance/",
+        "combined_text": "Important Events of the English Renaissance Public Create your own Share Embed Like Important Events of the English Renaissance No descriptionby Dominique Akinyemion 10 January 20144 Tweet Comments ( 0)Please log in to add your comment. Report abuse Transcript of Important Events of the English Renaissanceabout the renaissance The Renaissance",
+        "distance": 0.36185768246650696
+      },
+      {
+        "id": 2641,
+        "title": "History of Dentistry Timeline",
+        "url": "http://www.ada.org/en/about-the-ada/ada-history-and-presidents-of-the-ada/ada-history-of-dentistry-timeline",
+        "combined_text": "History of Dentistry Timeline Home About the ADA ADA History and Presidents of the ADA History of Dentistry Timeline Share History of Dentistry Timeline Ancient Origins The Beginnings of a Profession - Middle Ages The Development of a Profession - 18th Century Advances in Science and Education - 19th Century Innovations in Techn",
+        "distance": 0.6005479693412781
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "4029408555757337620": {
+    "query_id": "4029408555757337620",
+    "query": "legally remove family member from home",
+    "relevants": [
+      {
+        "relevant_doc": 1874,
+        "relevant_url": "http://www.youtube.com/watch?v=YnSv-7RMrOo"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2143,
+        "title": "Eviction of Family Member or Friend from Home",
+        "url": "http://real-estate-law.freeadvice.com/real-estate-law/landlord_tenant/eviction-of-family-or-friend-from-home.htm",
+        "combined_text": "Eviction of Family Member or Friend from Home Eviction of Family Member or Friend from Homeby Free Advice staff Family members and friends can wear out their welcome through an over-extended stay. When this happens, the most general and direct option is to ask them to leave. Beyond a simple request, other legal options to remove a family member",
+        "distance": 0.3425619304180145
+      },
+      {
+        "id": 1894,
+        "title": "Home Office Deduction",
+        "url": "https://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Home-Office-Deduction",
+        "combined_text": "Home Office Deduction If you use part of your home for business, you may be able to deduct expenses for the business use of your home. The home office deduction is available for homeowners and renters, and applies to all types of homes. Simplified Option For taxable years starting on, or after, January 1, 2013 (filed beg",
+        "distance": 0.5982521176338196
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-2585049972220273270": {
+    "query_id": "-2585049972220273270",
+    "query": "how nonprofits attract corporate sponsors",
+    "relevants": [
+      {
+        "relevant_doc": 240,
+        "relevant_url": "https://www.thebalance.com/nonprofit-corporate-sponsors-2502063"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 240,
+        "title": "How to Make Your Nonprofit Attractive to Corporate Sponsors",
+        "url": "https://www.thebalance.com/nonprofit-corporate-sponsors-2502063",
+        "combined_text": "How to Make Your Nonprofit Attractive to Corporate Sponsors \"Nonprofit Marketing Cause Marketing How to Make Your Nonprofit Attractive to Corporate Sponsors Sponsorship Is a Business Deal, Not a Donation Share Flip Pin Email•••By Joanne Fritz Updated December 29, 2017Why Corporate Sponsorship Is So Important to Charities Corporate sponsorship of charitable c",
+        "distance": 0.294720858335495
+      },
+      {
+        "id": 3054,
+        "title": "Corporate and Foundation Relations",
+        "url": "http://www.umass.edu/cfr/what-501c-status",
+        "combined_text": "Corporate and Foundation Relations \"Corporate and Foundation Relations Services Support Request Form Limited Submissions RFP Archive Grant Writing News FAQ Resources What is 501 (c) status? A 501 (c) organization, also known colloquially as either a 501 (c) or a \"\"nonprofit\"\", is an American tax-exempt nonprofit organization. Section",
+        "distance": 0.5165002346038818
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "5792768591630523805": {
+    "query_id": "5792768591630523805",
+    "query": "how to create site map provider",
+    "relevants": [
+      {
+        "relevant_doc": 2347,
+        "relevant_url": "https://msdn.microsoft.com/en-us/library/aa479023.aspx"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2347,
+        "title": "Site Map Providers",
+        "url": "https://msdn.microsoft.com/en-us/library/aa479023.aspx",
+        "combined_text": "Site Map Providers \"Site Map Providers Introduction to the Provider Model Membership Providers Role Providers Site Map Providers Session State Providers Profile Providers Web Event Providers Web Parts Personalization Providers Custom Provider-Based Services Hands-on Custom Providers: The Contoso Times Site map provide",
+        "distance": 0.3341622054576874
+      },
+      {
+        "id": 295,
+        "title": "Blanchard, Oklahoma",
+        "url": "http://www.city-data.com/city/Blanchard-Oklahoma.html",
+        "combined_text": "Blanchard, Oklahoma \"Follow city-data.com founder on our Forum or@Lech Mazur Blanchard, Oklahomasee 13 more add your Submit your own pictures of this city and show them to the World See promotion details and to upload your Blanchard, Oklahoma photos OSM Map General Map Google Map MSN Map39°F10 miles Wind: 7 mph Pressur",
+        "distance": 0.5782495737075806
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-1908891973947097383": {
+    "query_id": "-1908891973947097383",
+    "query": "salary for 30-year-old physician",
+    "relevants": [
+      {
+        "relevant_doc": 2925,
+        "relevant_url": "http://www.answers.com/Q/What_is_the_Average_salary_of_of_30_year_old_MBA_graduate"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2925,
+        "title": "What is the average net salary per year for a 30 year old medical doctor?",
+        "url": "http://www.answers.com/Q/What_is_the_Average_salary_of_of_30_year_old_MBA_graduate",
+        "combined_text": "What is the average net salary per year for a 30 year old medical doctor? What is the average net salary per year for a 30 year old medical doctor? Assuming you mean an internal medicine or family practice physician, a couple years out of residency. Probably about $120,000 to $140,000 a year as a group-practice employed p …What is the average salary of a graduate student",
+        "distance": 0.35200557112693787
+      },
+      {
+        "id": 1710,
+        "title": "Physician Assistant Salary PA Salary",
+        "url": "http://www.healthcaresalaryonline.com/physician-assistant-salary.html",
+        "combined_text": "Physician Assistant Salary PA Salary Physician Assistant Salary PA Salary Video Series: Healthcare Occupations and Salary Physicians Assistant Salary Your browser does not currently recognize any of the video formats available. Click here to visit our frequently asked questions about HTML5 video.0:00 / 4:26A Physician Assistant Salary",
+        "distance": 0.49165964126586914
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "4072379337225601317": {
+    "query_id": "4072379337225601317",
+    "query": "what to expect at a Moroccan hammam",
+    "relevants": [
+      {
+        "relevant_doc": 2423,
+        "relevant_url": "https://www.tripadvisor.co.uk/ShowTopic-g293734-i9196-k4287618-Hamman_what_does_it_consist_of-Marrakech_Marrakech_Tensift_El_Haouz_Region.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2423,
+        "title": "Hamman - what does it consist of?",
+        "url": "https://www.tripadvisor.co.uk/ShowTopic-g293734-i9196-k4287618-Hamman_what_does_it_consist_of-Marrakech_Marrakech_Tensift_El_Haouz_Region.html",
+        "combined_text": "Hamman - what does it consist of? Watch this Topic Browse forums All Marrakech-Tensift-El Haouz Region forums Marrakech forum Marrakech forumstwanny1976London Level Contributor733 posts58 reviews Save Topic Hamman - what does it consist of?2 Mar 2011, 14:43This might sound like a stupid question but i keep reading about it but still",
+        "distance": 0.6392233967781067
+      },
+      {
+        "id": 2288,
+        "title": "Why is it called Masjid Al Haram?",
+        "url": "https://uk.answers.yahoo.com/question/index?qid=20100518135513AAlOCHJ",
+        "combined_text": "Why is it called Masjid Al Haram? \"Society & Culture Holidays Ramadan Why is it called Masjid Al Haram? The Haram Mosque. Why call it that?6 following 7 answers Answers Relevance Rating Newest Oldest Best Answer: The Arabic term ḥaram has a meaning of \"\"sanctuary\"\" or \"\"holy site\"\" in Islam ! !Fa Ra Z Kh Uw Aj A · 8 years ago7 0 Com",
+        "distance": 0.7179580330848694
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-6671183285062689744": {
+    "query_id": "-6671183285062689744",
+    "query": "air force fighter pilot earnings",
+    "relevants": [
+      {
+        "relevant_doc": 695,
+        "relevant_url": "http://work.chron.com/much-fighter-pilots-make-2685.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 695,
+        "title": "How Much Do Fighter Pilots Make?",
+        "url": "http://work.chron.com/much-fighter-pilots-make-2685.html",
+        "combined_text": "How Much Do Fighter Pilots Make? Related Articles1Fighter Pilot's Pay Salary2How Much Do Pilots in the Air Force Make a Year?3Path to Becoming a Fighter Pilot4Salaries of Military Pilot Officers In 1953, the Air Force created its pilot demonstration group, the Thunderbirds, just six years after the Department of Defense created the",
+        "distance": 0.22040516138076782
+      },
+      {
+        "id": 483,
+        "title": "Air Force Job Duties",
+        "url": "http://www.jobduties.org/air-force-job-duties.html",
+        "combined_text": "Air Force Job Duties Air Force Job Duties By job | January 19, 2012 0 Comment An Air Force Official is the air arm of the armed forces. There are different Air Force officials who are employed for handling various tasks for running this wing. A person has to undergo various tests in order to work in Air Force. Air Force",
+        "distance": 0.4088231921195984
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3581866523720759033": {
+    "query_id": "3581866523720759033",
+    "query": "yolanda hadid early life holland",
+    "relevants": [
+      {
+        "relevant_doc": 139,
+        "relevant_url": "http://www.bravotv.com/people/yolanda-h-foster"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 139,
+        "title": "Yolanda Hadid",
+        "url": "http://www.bravotv.com/people/yolanda-h-foster",
+        "combined_text": "Yolanda Hadid Follow Yolanda HFoster Yolanda HFoster Yolanda Hadid Shows The Real Housewives of Beverly Hills Blogs The Real Housewives of Beverly Hills Yolanda was born and raised in Papendrecht, a small farmer’s town in Holland where she rode horses, milked cows and loved the farm. She grew up rather fast after",
+        "distance": 0.3370601236820221
+      },
+      {
+        "id": 3012,
+        "title": "Best Cities In The Netherlands",
+        "url": "https://www.thetoptens.com/cities-netherlands/",
+        "combined_text": "Best Cities In The Netherlands Best Cities In The Netherlandswestofohio The Top Ten1 Amsterdam All I have to say Amsterdam kicks ass. The other cities are not bad either, but this one is surely the best. Amsterdam kicks ass in every way possiblecapital BEST CITY IN THE WORLD I LIVE THERE AND WHO EVER BULLIES DUTCH YOU ARE DEAD DU",
+        "distance": 0.7672171592712402
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "856614537723333204": {
+    "query_id": "856614537723333204",
+    "query": "what is an endoscopic exam",
+    "relevants": [
+      {
+        "relevant_doc": 2988,
+        "relevant_url": "http://www.thefreedictionary.com/endoscopic+examination"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2940,
+        "title": "How long does an ENDOSCOPY take? and preparation?",
+        "url": "https://answers.yahoo.com/question/index?qid=20081009174911AAYAb3R",
+        "combined_text": "How long does an ENDOSCOPY take? and preparation? Health Diseases & Conditions Other - Diseases How long does an ENDOSCOPY take? and preparation?i am having one tomorrow cause i think i have an ulcer, and they run in the family so how long do i wait? its not that busy there usually, and its only a hospital, nothing professional like UNC tell me as",
+        "distance": 0.6026687026023865
+      },
+      {
+        "id": 2988,
+        "title": "examination",
+        "url": "http://www.thefreedictionary.com/endoscopic+examination",
+        "combined_text": "examination \"Correct all you're your grammar errors instantly. Try it now.examination (redirected from endoscopic examination) Also found in: Thesaurus, Medical, Legal, Encyclopedia .ex·am·i·na·tion (ĭg-zăm′ə-nā′shən)n.1. The act of examining or the state of being examined: the examination of the evidence.2. A",
+        "distance": 0.6029221415519714
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-5931393772264591928": {
+    "query_id": "-5931393772264591928",
+    "query": "how deep to bury electrical cable",
+    "relevants": [
+      {
+        "relevant_doc": 346,
+        "relevant_url": "https://www.hunker.com/12271976/depth-requirements-for-buried-electrical-cable"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1323,
+        "title": "How to Bury Underground Cable",
+        "url": "https://www.familyhandyman.com/electrical/wiring/how-to-bury-underground-cable/view-all/",
+        "combined_text": "How to Bury Underground Cable Home › Electrical › Electrical Wiring › How to Bury Underground Cable How to Bury Underground Cable Four options for underground wiring Next Project Running electric power to a garage or garden pond? Learn about code requirements and different options for depth of trench, conduit material, and type",
+        "distance": 0.27586543560028076
+      },
+      {
+        "id": 346,
+        "title": "Depth Requirements for Buried Electrical Cable",
+        "url": "https://www.hunker.com/12271976/depth-requirements-for-buried-electrical-cable",
+        "combined_text": "Depth Requirements for Buried Electrical Cable When you run buried electrical cable -- for example from a house to a garage or to a gazebo -- it has to be protected to prevent mechanical damage to the insulation. The National Electrical Code gives minimum burial depth recommendations and building codes specify local requirements that you must fo",
+        "distance": 0.4720410704612732
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-938643861936068278": {
+    "query_id": "-938643861936068278",
+    "query": "how many us soldiers in wwi france",
+    "relevants": [
+      {
+        "relevant_doc": 1641,
+        "relevant_url": "http://www.worldwar1.com/dbc/facts.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 25,
+        "title": "What were the purpose of trenches in world war 1?",
+        "url": "http://www.answers.com/Q/What_were_the_purpose_of_trenches_in_world_war_1",
+        "combined_text": "What were the purpose of trenches in world war 1? \"Answers.com ® Wiki Answers ® Categories History, Politics & Society History War and Military History World War 1 WW1 Trench Warfare What were the purpose of trenches in world war 1? Flag What were the purpose of trenches in world war 1? Answer by Abax Confidence votes 89Trenches were originally dug",
+        "distance": 0.4966503083705902
+      },
+      {
+        "id": 1641,
+        "title": "AEF FACT SHEET",
+        "url": "http://www.worldwar1.com/dbc/facts.htm",
+        "combined_text": "AEF FACT SHEET \"Manpower Passage of the Draft Bill six weeks after the declaration of war permitted the Army to begin mobilizing the 4 million man \"\"National Army\"\" contemplated by the most recent General Staff contingency plan. By November 11, 1918, 2,057,675 military personnel would arrive in France. Slightly ov",
+        "distance": 0.5249699354171753
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7467325479724518422": {
+    "query_id": "7467325479724518422",
+    "query": "benefits of becoming an advanced practice nurse",
+    "relevants": [
+      {
+        "relevant_doc": 314,
+        "relevant_url": "http://www.rntomsn.com/specialties/family-nurse-practitioner/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1796,
+        "title": "Registered Nurse Salary",
+        "url": "https://healthcaresalaryworld.com/what-is-registered-nurse-salary/",
+        "combined_text": "Registered Nurse Salary Registered Nurse Salaryby Tanja Z | 2 comments What is a Registered Nurse Registered nurses (also known as Licensed Registered Nurse, Hospital Registered Nurse, Community Registered Nurse, or simply RN) are health professionals with a Bachelor’s of Science, who helps patients maintain good health an",
+        "distance": 0.4898827373981476
+      },
+      {
+        "id": 314,
+        "title": "Family Nurse Practitioner",
+        "url": "http://www.rntomsn.com/specialties/family-nurse-practitioner/",
+        "combined_text": "Family Nurse Practitioner The benefits of becoming a Family Nurse Practitioner (FNP) are numerous, as you will receive satisfaction from examining, diagnosing and treating your patients. This job is ever–challenging, and the very nature of this job is ever-changing. If you are already a working RN and desire to become a Fami",
+        "distance": 0.5060673356056213
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7600710540401811661": {
+    "query_id": "7600710540401811661",
+    "query": "Bethalto Illinois acreage for sale",
+    "relevants": [
+      {
+        "relevant_doc": 1738,
+        "relevant_url": "https://www.landwatch.com/Illinois_land_for_sale/Bethalto"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1738,
+        "title": "BETHALTO, MADISON COUNTY, SOUTHWEST, ILLINOIS LAND FOR SALE: 1 - 15 of 25 listings",
+        "url": "https://www.landwatch.com/Illinois_land_for_sale/Bethalto",
+        "combined_text": "BETHALTO, MADISON COUNTY, SOUTHWEST, ILLINOIS LAND FOR SALE: 1 - 15 of 25 listings BETHALTO, MADISON COUNTY, SOUTHWEST, ILLINOIS LAND FOR SALE: 1 - 15 of 25 listings SORT BY: Agents: Add your listings >40.3 Acres Bethalto, Madison County, IL $423,00040.3 Acres Bethalto, Madison County, IL $423,00040.3 +/- acres located off State Route 140 in Ft Russell township offers mostly tilla",
+        "distance": 0.3602903187274933
+      },
+      {
+        "id": 1063,
+        "title": "Salvaged Vehicles in Illinois",
+        "url": "http://www.dmv.org/il-illinois/salvaged-vehicles.php",
+        "combined_text": "Salvaged Vehicles in Illinois Home Illinois Registration & Title Other Vehicle Registrations Salvaged Vehicles Share Tweet Pin It Email Print Salvaged Vehicles in Illinois On This Page What Is a Salvaged Car in IL? Illinois Salvage Cars & Total Loss Claims Junking a Car in Illinois Have a totaled car in Illinois? Chances are, yo",
+        "distance": 0.6361010074615479
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  }
+}

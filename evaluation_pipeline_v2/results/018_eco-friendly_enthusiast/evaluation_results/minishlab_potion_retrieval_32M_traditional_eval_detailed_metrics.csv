@@ -1,0 +1,101 @@
+,query_id,query,retrieved_ids,relevant_docs,precision@2,recall@2,ndcg@2,reciprocal_rank,average_precision,model_name
+0,-7504928014551286270,current and voltage in series vs parallel,"[2442, 1144]",[2442],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+1,4672363658835354310,term for animals without a body cavity,"[418, 2552]",[2318],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+2,5614927592595835725,what does portend mean,"[351, 2596]",[351],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+3,-2484486784679661406,tips for choosing a learning platform,"[2288, 979]",[2288],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+4,5330574572902437767,mylanta antacid definition,"[2044, 965]",[2044],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+5,5383300678543747198,liberal arts college in newberry sc,"[2031, 4030]",[2031],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+6,4944365744403165468,how big is a normal thyroid,"[3164, 3717]",[3164],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+7,1177524481061379322,steps to calculate moles of calcium carbonate,"[3371, 1866]",[1866],0.5,1.0,0.6309297535714573,0.5,0.25,minishlab_potion_retrieval_32M
+8,7126983362575113667,surgical procedure to open windpipe,"[594, 1122]",[594],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+9,8523885622909975398,scholarships for lawyers to attend IBA conference,"[3260, 2118]",[3260],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+10,-7532401769708250735,how did the Great Awakening change religion,"[690, 704]",[690],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+11,7007962351364251385,how to start a nonprofit in michigan,"[2281, 2017]",[2281],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+12,2305295515120610573,best time to eat around workouts,"[1397, 1924]",[150],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+13,200150932809097800,can my manufactured home be repossessed,"[1652, 1337]",[1652],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+14,2327094874627638624,recognize high or low blood sugar,"[238, 1785]",[238],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+15,4397810189565002409,principles of good governance in development,"[3574, 3130]",[3130],0.5,1.0,0.6309297535714573,0.5,0.25,minishlab_potion_retrieval_32M
+16,-1249062739908620264,which gecko species live in south florida,"[1034, 1739]",[1034],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+17,-8598181724610085076,definition and examples of disparage,"[3209, 1239]",[3209],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+18,6375173475277254592,boudin san francisco calorie guide,"[1992, 1103]",[1992],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+19,5210116555016951541,things to do in Gironde,"[2628, 2942]",[2628],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+20,-1894642665894544954,becoming a hampton inn franchisee,"[1952, 852]",[1952],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+21,-5947611031424991407,where does the body store triglycerides,"[1598, 2060]",[1598],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+22,4088317310236464404,what does financing mean,"[1467, 2097]",[1467],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+23,-8440197827795457120,meaning of day-to-day operations,"[3907, 1261]",[3907],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+24,5366460464055846695,meaning of SIC description field,"[3595, 2572]",[3595],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+25,-7836714249262915120,how can 27 be a quotient,"[3719, 1395]",[3719],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+26,9074528499194938649,pre-Columbian Americas and oceania history,"[2132, 3794]",[2132],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+27,-2880099155258222585,best areas to stay in krabi ao nang,"[3751, 25]",[3751],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+28,-2313756821630048863,how to contact land registry,"[1128, 1417]",[1128],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+29,-6753882738541866506,strong smell in early pregnancy predict sex,"[2342, 1838]",[2342],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+30,-4917485487872228352,late night bars and clubs albufeira,"[3914, 4112]",[3914],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+31,6725971478426424275,knee problems in nail patella syndrome,"[298, 3950]",[298],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+32,1833825364580961812,7th grade medieval China flashcards,"[2564, 2586]",[2564],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+33,-8561816162307060985,drugs that block aldosterone,"[1767, 2114]",[2114],0.5,1.0,0.6309297535714573,0.5,0.25,minishlab_potion_retrieval_32M
+34,-8598255053752183703,how tutors differ from teachers,"[1309, 2522]",[1309],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+35,8090023873639709165,which bikini wax style suits me,"[371, 3878]",[371],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+36,-8566045327171386617,steps to start a mechanical engineering career,"[2627, 934]",[2627],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+37,-5127741519306792405,how duke ellington influenced the harlem renaissance,"[2619, 20]",[2619],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+38,-354922036408699871,gmu graduate student survey ratings,"[54, 2562]",[3374],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+39,-5726149506270597270,do gel manicures damage nails,"[366, 2470]",[366],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+40,5868819777090833349,list of independent federal agencies,"[4082, 2768]",[4082],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+41,-4217901770072976074,where major shipping ports cluster,"[3859, 3013]",[3859],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+42,3277532717642710041,where to buy serum for cell culture,"[2086, 725]",[2086],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+43,-563200840612344381,loves park il population weather maps,"[2413, 1907]",[2413],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+44,-1117833123011502905,intro to human diversity flashcards,"[2406, 3030]",[2406],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+45,-5842975892675571674,udon thani travel reviews and hotels,"[764, 3468]",[764],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+46,6999483515618179967,luxury all-inclusive Montego Bay resort,"[879, 1185]",[879],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+47,-5126635933097032380,tiger top running speed,"[1593, 3235]",[1593],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+48,-1997254289484997537,where do ny lottery proceeds go,"[2090, 1699]",[2090],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+49,-1892983739102946928,reasons behind andrew johnson's impeachment,"[1621, 4080]",[1621],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+50,-7485526725940443046,cells with membrane-bound nucleus,"[3697, 463]",[3697],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+51,-1745506163754884785,claire underwood power dressing,"[794, 1784]",[794],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+52,4786245361117949187,when to visit a kidney specialist,"[2046, 1436]",[1436],0.5,1.0,0.6309297535714573,0.5,0.25,minishlab_potion_retrieval_32M
+53,-4758716818909122312,phone number for holiday inn booking,"[2464, 1742]",[2464],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+54,-8997717686981575746,nashville efforts to end chronic homelessness,"[205, 468]",[205],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+55,4303240381203235481,when did oklahoma join the union,"[3951, 1742]",[3951],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+56,-6187439905077013340,what creates light pollution,"[2333, 536]",[2333],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+57,2445225223558808869,metformin sitagliptin combination uses and safety,"[3673, 3771]",[3673],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+58,-1485131150764440420,hand numbness causes besides typing,"[175, 3699]",[175],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+59,1645728025653420130,which jet sounds loudest without afterburners,"[2873, 2154]",[2873],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+60,8740452891011219797,book shinkansen after arriving Narita or Haneda,"[149, 1922]",[149],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+61,7110269448569990671,ways to add antioxidant-rich foods,"[3973, 2580]",[3973],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+62,6118898806378880041,how long germs survive on surfaces,"[1541, 3316]",[3273],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+63,4998809997865997686,walk-in flu shots no appointment,"[2994, 1626]",[1626],0.5,1.0,0.6309297535714573,0.5,0.25,minishlab_potion_retrieval_32M
+64,-6574896196600730304,grieving mothers endorse Clinton at DNC,"[3016, 2354]",[3016],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+65,-4360506324815613056,body system that transports oxygen and nutrients,"[903, 3120]",[903],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+66,-4433537276091587563,how csf circulates in the brain,"[2498, 1641]",[2498],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+67,-8006293774965990378,ancient exposed precambrian rock region canada,"[2989, 3351]",[2989],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+68,-4358045662692540913,how oracle sql patches work,"[3423, 357]",[3423],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+69,2816744314234619616,pregnancy symptoms and baby milestones,"[330, 2163]",[330],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+70,-5509173949752180465,internal medicine doctor Grace Cho Cooper,"[1322, 3406]",[1322],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+71,4536420745954498638,is Himalayan red honey toxic,"[2144, 931]",[2144],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+72,1097553280165063673,accessible spa hotel Salou Costa Dorada,"[96, 2015]",[96],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+73,5944103875725081283,how relationships affect success and happiness,"[908, 1163]",[1163],0.5,1.0,0.6309297535714573,0.5,0.25,minishlab_potion_retrieval_32M
+74,-880411305429876722,meaning of beaner slur,"[1556, 4033]",[1556],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+75,-7138857886812663667,celebrity trainer belly fat tips,"[2884, 1279]",[2884],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+76,-3822069085667034072,current weather conditions fall city washington,"[705, 2761]",[705],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+77,-4147565063061352099,books Darwin carried on the Beagle,"[2439, 1339]",[2439],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+78,9079189727416893157,name for a seven-sided shape,"[3730, 3167]",[3730],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+79,4224937327999547999,what materials conduct heat and electricity,"[3707, 1577]",[3707],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+80,-5420355745558498661,clinton donor influence over cnn,"[2354, 3016]",[2354],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+81,3181600380269755238,when to see doctor for low back pain,"[2827, 1062]",[2827],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+82,-3481806780786427381,fix worn wooden drawer slides,"[84, 1113]",[84],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+83,-3065253207993166298,state-by-state car tint limits,"[3391, 1067]",[3391],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+84,-5167688603821980934,pay maryville utilities and taxes online,"[270, 355]",[270],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+85,-389288707893073263,what factors change the weather,"[1370, 2962]",[1370],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+86,-6875205942344067356,budget circle island and pearl harbor tour honolulu,"[184, 3387]",[184],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+87,-3086965095601708780,what does ethnic composition mean,"[109, 1336]",[109],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+88,-3842110600403048440,how occupational science studies daily function,"[490, 156]",[490],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+89,-2007277117105334533,muskegon opinion on 50th anniversary of mlk letter,"[1789, 999]",[999],0.5,1.0,0.6309297535714573,0.5,0.25,minishlab_potion_retrieval_32M
+90,2184694751854746186,letters and accent marks in french,"[2949, 3850]",[2949],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+91,-4619592928462556029,lind washington community profile,"[1108, 1945]",[1108],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+92,-4505732830785769449,key findings of ipcc fourth report,"[4058, 329]",[4058],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+93,3339495217361958998,definitions of common sewing terms,"[4111, 3271]",[4111],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+94,-8030852567289706054,kenya ecotourism environmental and community impacts,"[3452, 1250]",[3452],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+95,5922111402362863520,stephen lawrence case timeline undercover policing,"[3657, 4184]",[3657],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+96,-7188763062297153342,which countries operate aircraft carriers,"[2496, 2539]",[2496],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+97,-1356431929471300532,documents needed for international shipments,"[3013, 2024]",[3013],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+98,7012214605766064878,when do hormones settle after having a baby,"[330, 2163]",[3544],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+99,3664824430863274458,meaning of blossom as a verb,"[3678, 918]",[3678],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M

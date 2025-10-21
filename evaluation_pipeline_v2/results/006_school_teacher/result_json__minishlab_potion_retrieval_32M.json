@@ -1,0 +1,2802 @@
+{
+  "-7331420657589059974": {
+    "query_id": "-7331420657589059974",
+    "query": "brain area involved in fear and emotion",
+    "relevants": [
+      {
+        "relevant_doc": 3826,
+        "relevant_url": "http://study.com/academy/lesson/the-amygdala-definition-role-function.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 23,
+        "title": "Osmophobia Is the Fear of Smells",
+        "url": "https://www.verywell.com/what-is-the-fear-of-smells-2671896",
+        "combined_text": "Osmophobia Is the Fear of Smells Phobias Types Osmophobia Is the Fear of Smells By Lisa Fritscher | Reviewed by Steven Gans, MDUpdated January 13, 2018Share Pin Email Print Phobias are a form of anxiety disorder. Peopleimages/Getty Images Osmophobia, defined in medical dictionaries as a morbid fear of smells, is relatively rare as",
+        "distance": 0.47325223684310913
+      },
+      {
+        "id": 542,
+        "title": "Persistent Fear and Anxiety Can Affect Young Childrenâs Learning and Development",
+        "url": "http://developingchild.harvard.edu/resources/persistent-fear-and-anxiety-can-affect-young-childrens-learning-and-development/",
+        "combined_text": "Persistent Fear and Anxiety Can Affect Young Childrenâs Learning and Development Reports & Working Papers Persistent Fear and Anxiety Can Affect Young Children’s Learning and Development It is essential that children have safe, secure environments in which to grow, learn, and develop healthy brains and bodies. Science shows that early exposure to circumstances that produce persi",
+        "distance": 0.5176693201065063
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8358126862290630788": {
+    "query_id": "8358126862290630788",
+    "query": "normal thyroid levels by trimester iran",
+    "relevants": [
+      {
+        "relevant_doc": 491,
+        "relevant_url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3690831/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 491,
+        "title": "Trimester-Specific Reference Ranges for Thyroid Hormones in Iranian Pregnant Women",
+        "url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3690831/",
+        "combined_text": "Trimester-Specific Reference Ranges for Thyroid Hormones in Iranian Pregnant Women J Thyroid Res. 2013; 2013: 651517. Published online 2013 Jun 9. doi: 10.1155/2013/651517PMCID: PMC3690831Trimester-Specific Reference Ranges for Thyroid Hormones in Iranian Pregnant Women Ladan Mehran, 1 Atieh Amouzegar, 1 Hossein Delshad, 1 Sahar Askari, 1 Mehdi Hedayati, 2Golshan Amirshekari, 1 an",
+        "distance": 0.5011207461357117
+      },
+      {
+        "id": 1824,
+        "title": "Iran Hostage Crisis",
+        "url": "http://www.u-s-history.com/pages/h2021.html",
+        "combined_text": "Iran Hostage Crisis \"Iran Hostage Crisis On November 4, 1979, an angry mob of some 300 to 500 \"\"students\"\" who called themselves \"\"Imam's Disciples,\"\" laid siege to the American Embassy in Teheran, Iran, to capture and hold hostage 66 U. S. citizens and diplomats. Although women and African-Americans were released a sh",
+        "distance": 0.7129422426223755
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8414205974321254610": {
+    "query_id": "8414205974321254610",
+    "query": "why someone keeps repeating actions",
+    "relevants": [
+      {
+        "relevant_doc": 3747,
+        "relevant_url": "http://encyclopedia2.thefreedictionary.com/perseveration"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1035,
+        "title": "\"What does it mean when someone says they are \"\"creepin\"\"?\"",
+        "url": "https://answers.yahoo.com/question/index?qid=20090106141225AAg96jD",
+        "combined_text": "\"What does it mean when someone says they are \"\"creepin\"\"?\" \"Education & Reference Words & Wordplay What does it mean when someone says they are \"\"creepin\"\"?hi. i dont know what people mean when they say \"\"creepin\"\" and i've heard it a LOT lately and i would like to know what it is for example, i saw it in this question: http://answers. yahoo. com/question/i",
+        "distance": 0.7212029099464417
+      },
+      {
+        "id": 2265,
+        "title": "3 Simple Reasons Why Voting is Important",
+        "url": "http://www.askyourdadblog.com/2012/11/3-simple-reasons-why-voting-is-important.html",
+        "combined_text": "3 Simple Reasons Why Voting is Important \"3 Simple Reasons Why Voting is Important I wrote this in 2008. I still believe every word of it. Voting is important. It is our obligation. It is our privilege. It is what makes us American. Why I Vote ( Written November 2008)I voted early yesterday. I stood in line for forty-five minutes with a fe",
+        "distance": 0.7380399107933044
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "6448012874364536789": {
+    "query_id": "6448012874364536789",
+    "query": "how many poems did emily dickinson produce",
+    "relevants": [
+      {
+        "relevant_doc": 3741,
+        "relevant_url": "http://www.answers.com/Q/Emily_Dickinson_wrote_how_many_poems"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3741,
+        "title": "Emily Dickinson wrote how many poems?",
+        "url": "http://www.answers.com/Q/Emily_Dickinson_wrote_how_many_poems",
+        "combined_text": "Emily Dickinson wrote how many poems? \"Answers.com ® Wiki Answers ® Categories Literature & Language Books and Literature Authors, Poets, and Playwrights Emily Dickinson Emily Dickinson wrote how many poems? Flag Emily Dickinson wrote how many poems? Answered by The Wiki Answers ®Community Answers.com ® is making the world better one an",
+        "distance": 0.145598903298378
+      },
+      {
+        "id": 4349,
+        "title": "Distinguish a poem from prose by looking for line breaks and stanzas",
+        "url": "https://learnzillion.com/lesson_plans/8237-distinguish-a-poem-from-prose-by-looking-for-line-breaks-and-stanzas",
+        "combined_text": "Distinguish a poem from prose by looking for line breaks and stanzas \"Instructional video Distinguish a poem from prose by looking for line breaks and stanzas Created by: Lauren Mc Intyre Standards: RL.4.5Tags: Poetry Text structure Quick assign Preview assignment >Save to list Instructional video Additional materials About this video Card 1 of 1Direct Instruction Di",
+        "distance": 0.7945500612258911
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "1590555995011526383": {
+    "query_id": "1590555995011526383",
+    "query": "night shift pay rules for federal wage workers",
+    "relevants": [
+      {
+        "relevant_doc": 287,
+        "relevant_url": "http://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/night-shift-differential-for-federal-wage-system-employees/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 287,
+        "title": "Pay & Leave Pay Administration",
+        "url": "http://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/night-shift-differential-for-federal-wage-system-employees/",
+        "combined_text": "Pay & Leave Pay Administration \"Fact Sheet: Night Shift Differential for Federal Wage System Employees Description Night shift differential means the differential paid for work performed when the majority of a prevailing rate employee's regularly scheduled nonovertime hours fall between 3 p.m. and 8 a.m. It is computed as a perce",
+        "distance": 0.39947980642318726
+      },
+      {
+        "id": 4455,
+        "title": "Exempt vs Non-exempt Employees",
+        "url": "http://topics.hrhero.com/exempt-vs-non-exempt-employees/",
+        "combined_text": "Exempt vs Non-exempt Employees Additional HR Resources Special Report: FLSA Overtime Plain English review on the proposed overtime exemption standards Employment Law Manual All-new 2016 Edition is fully up-to-date with the latest revisions to employment laws affecting your business. Webinar: DOL Overtime Exemption Understanding I",
+        "distance": 0.6249526739120483
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8717873289570354239": {
+    "query_id": "8717873289570354239",
+    "query": "theological defense of Catholic faith",
+    "relevants": [
+      {
+        "relevant_doc": 3520,
+        "relevant_url": "http://www.newadvent.org/cathen/01618a.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3520,
+        "title": "Apologetics",
+        "url": "http://www.newadvent.org/cathen/01618a.htm",
+        "combined_text": "Apologetics \"Apologetics Please help support the mission of New Advent and get the full contents of this website as an instant download. Includes the Catholic Encyclopedia, Church Fathers, Summa, Bible and more — all for only $19.99... A theological science which has for its purpose the explanation and defence",
+        "distance": 0.5023064613342285
+      },
+      {
+        "id": 4074,
+        "title": "\"How Long Has the Religion \"\"Catholic\"\" been around?How many Years?\"",
+        "url": "https://answers.yahoo.com/question/index?qid=20080317104451AAat4R4",
+        "combined_text": "\"How Long Has the Religion \"\"Catholic\"\" been around?How many Years?\" \"Society & Culture Religion & Spirituality How Long Has the Religion \"\"Catholic\"\" been around? How many Years? I'm a catholic myself, yet i do not know COMPLETELY this question : ( ive been Catholic since i was 6, i am now 16. For me it's the best religion. I'm in 2 youth groups at my church, i go t",
+        "distance": 0.5694944858551025
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-1024791137721289154": {
+    "query_id": "-1024791137721289154",
+    "query": "mitochondrial muscle disease overview",
+    "relevants": [
+      {
+        "relevant_doc": 931,
+        "relevant_url": "https://www.ncbi.nlm.nih.gov/gtr/conditions/C0162670/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 931,
+        "title": "Mitochondrial myopathy",
+        "url": "https://www.ncbi.nlm.nih.gov/gtr/conditions/C0162670/",
+        "combined_text": "Mitochondrial myopathy Mitochondrial myopathy Synonyms Chorea and Dementia; Mitochondrial Myopathies Modes of inheritance Summary Excerpted from the Gene Review: Mitochondrial Disorders Overview Mitochondrial diseases are a clinically heterogeneous group of disorders that arise as a result of dysfunction of the mitochondr",
+        "distance": 0.319303423166275
+      },
+      {
+        "id": 3498,
+        "title": "Extreme fatigue and Muscle weakness and Tremor Symptom Checker",
+        "url": "http://symptoms.rightdiagnosis.com/cosymptoms/extreme-fatigue/muscle-weakness/tremor.htm",
+        "combined_text": "Extreme fatigue and Muscle weakness and Tremor Symptom Checker Extreme fatigue and Muscle weakness and Tremor Symptom Checker Intro Causes Tests Treatment Symptom Checker Misdiagnosis Deaths Videos Books Contents Extreme fatigue AND Muscle weakness AND Tremor: Causes of All Symptoms Extreme fatigue OR Muscle weakness OR Tremor: 4408 causes Extreme fatigue: 99 c",
+        "distance": 0.6472725868225098
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-5944152124132566411": {
+    "query_id": "-5944152124132566411",
+    "query": "early republic to jackson flashcards",
+    "relevants": [
+      {
+        "relevant_doc": 354,
+        "relevant_url": "https://quizlet.com/8284281/apush-unit-3-review-flash-cards/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 4204,
+        "title": "Shared Flashcard Set",
+        "url": "https://www.flashcardmachine.com/mgmt-493ch9.html",
+        "combined_text": "Shared Flashcard Set Shared Flashcard Set Details Title mgmt 493 ch. 9Description na Total Cards 77Subject Management Level Undergraduate 4Created 05/08/2013Click here to study/print these flashcards . Create your own flash cards! Sign up here . Additional Management Flashcards Cards Term Managers use corporate-level st",
+        "distance": 0.7706913352012634
+      },
+      {
+        "id": 1801,
+        "title": "3.02: Medical Billing Vocabulary & Key Terms",
+        "url": "http://www.medicalbillingandcoding.org/billing-vocabulary-key-terms/",
+        "combined_text": "3.02: Medical Billing Vocabulary & Key Terms 3.02: Medical Billing Vocabulary & Key Terms This video defines the most important terms and concepts in the billing process, meaning you can jump right into more complex subjects. Play Again Next Video3.02: Medical Billing Vocabulary & Key Terms Like medical coding, the profession of medical billin",
+        "distance": 0.7889297008514404
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-2220237446392274732": {
+    "query_id": "-2220237446392274732",
+    "query": "veteran caregiver benefits denial appeal",
+    "relevants": [
+      {
+        "relevant_doc": 1412,
+        "relevant_url": "http://vets.yuku.com/reply/536832/Re-Appeals-For-Caregiver-Program"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1412,
+        "title": "Appeals For Caregiver Program",
+        "url": "http://vets.yuku.com/reply/536832/Re-Appeals-For-Caregiver-Program",
+        "combined_text": "Appeals For Caregiver Program USNDWPosts 4,069.22 Dec 2011, 03:43 #1Just in case I am terminated from the board very soon I wanted to pass alonmg my dealings with the Caregiver Program. We applied in June and received a denial letter. Never had a physical exam, was never interviewed, was never asked for other medical records. Th",
+        "distance": 0.5528948307037354
+      },
+      {
+        "id": 1358,
+        "title": "Geriatrics and Extended Care",
+        "url": "https://www.va.gov/GERIATRICS/",
+        "combined_text": "Geriatrics and Extended Care Geriatrics and Extended Care Services (GEC) is committed to optimizing the health and well-being of Veterans with multiple chronic conditions, life-limiting illness, frailty or disability associated with chronic disease, aging or injury. How to Choose Your Guide What We Do How to Choose VHA encourag",
+        "distance": 0.6047629117965698
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "4973587224007313874": {
+    "query_id": "4973587224007313874",
+    "query": "what does normally mean",
+    "relevants": [
+      {
+        "relevant_doc": 1536,
+        "relevant_url": "http://www.dictionary.com/browse/normally"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1536,
+        "title": "normally",
+        "url": "http://www.dictionary.com/browse/normally",
+        "combined_text": "normally \"normally [ nawr -m uh -lee]Spell Syllables Examples Word Origin See more synonyms on Thesaurus.comadverb1. in a normal or regular way: The wound is healing normally.2. according to rule, general custom, etc. ; as a rule; ordinarily; usually. Origin of normally Expand1590-1600First recorded in 1590-",
+        "distance": 0.5746525526046753
+      },
+      {
+        "id": 2,
+        "title": "guaranteed",
+        "url": "http://www.thefreedictionary.com/guaranteed",
+        "combined_text": "guaranteed guaranteed Also found in: Thesaurus, Legal, Financial, Acronyms, Encyclopedia, Wikipedia .guar·an·tee (găr′ən-tē′)n.1. Something that assures a particular outcome or condition: Lack of interest is a guarantee of failure.2.a. A promise or assurance, especially one given in writing, that attests to th",
+        "distance": 0.6167454123497009
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-9004827312206494833": {
+    "query_id": "-9004827312206494833",
+    "query": "how hand-drawn animation differs from cgi",
+    "relevants": [
+      {
+        "relevant_doc": 2512,
+        "relevant_url": "http://qa.answers.com/Q/What_is_the_difference_between_traditional_animation_and_computer_animation"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2512,
+        "title": "What is the difference between traditional animation and computer animation?",
+        "url": "http://qa.answers.com/Q/What_is_the_difference_between_traditional_animation_and_computer_animation",
+        "combined_text": "What is the difference between traditional animation and computer animation? \"Answers.com ® Wiki Answers ® Categories Literature & Language Languages and Cultures English Language Definitions Comparisons The Difference Between What is the difference between traditional animation and computer animation? Flag What is the difference between traditional animation and computer an",
+        "distance": 0.5293761491775513
+      },
+      {
+        "id": 1981,
+        "title": "What Makes You Unique?",
+        "url": "http://www.manifestyourpotential.com/self_discovery/0_start_journey_self_discovery/being_unique/what_makes_me_unique.htm",
+        "combined_text": "What Makes You Unique? \"What Makes You Unique?touch the card In Search of Answers Do you wonder what makes you different from everyone else? Are you looking for an answer to \"\"What makes me special and unique?\"\" that is more meaningful than just your fingerprints or a spiral of DNA? Understanding how each of us is unique",
+        "distance": 0.735404372215271
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "2979797674112159983": {
+    "query_id": "2979797674112159983",
+    "query": "how schools use technology",
+    "relevants": [
+      {
+        "relevant_doc": 179,
+        "relevant_url": "http://www.edweek.org/ew/issues/technology-in-education/index.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1829,
+        "title": "What Is Technology, and How Does It Benefit Us?",
+        "url": "http://www.scholastic.com/browse/lessonplan.jsp?id=523",
+        "combined_text": "What Is Technology, and How Does It Benefit Us? \"What Is Technology, and How Does It Benefit Us? PRINT EMAILOBJECTIVEStudents will learn: What technology is and the differences between science and technology. About the role of science and technology in society and that technology positively influences our quality of life by helping us learn, live",
+        "distance": 0.4584908187389374
+      },
+      {
+        "id": 2342,
+        "title": "How Does Technology Improve a Business?",
+        "url": "http://smallbusiness.chron.com/technology-improve-business-2188.html",
+        "combined_text": "How Does Technology Improve a Business? \"Related Articles1Benefits of Technology in Business2The Impact of Technological Change on Business Activity3Importance of Technology in the Workplace4How Do Businesses Use Communication Technology to Improve Their Performance? In this century, the question isn't how much can technology improve your",
+        "distance": 0.4743710160255432
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4653866023953518155": {
+    "query_id": "-4653866023953518155",
+    "query": "how to determine oxidation numbers",
+    "relevants": [
+      {
+        "relevant_doc": 1815,
+        "relevant_url": "http://chemistry.about.com/od/generalchemistry/a/oxidationno.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1815,
+        "title": "Rules for Assigning Oxidation Numbers",
+        "url": "http://chemistry.about.com/od/generalchemistry/a/oxidationno.htm",
+        "combined_text": "Rules for Assigning Oxidation Numbers Science, Tech, Math ›Science Rules for Assigning Oxidation Numbers Redox Reactions and Electrochemistry Share Flipboard Email Printcite To some extent, you can predict oxidation numbers using the periodic table. William Andrew, Getty Imagesby Anne Marie Helmenstine, Ph. D. Updated March 04, 2017Elec",
+        "distance": 0.3507111668586731
+      },
+      {
+        "id": 443,
+        "title": "Proton number, neutron number and electron number in 81 Br-1?",
+        "url": "https://answers.yahoo.com/question/index?qid=20110329111112AAH5slm",
+        "combined_text": "Proton number, neutron number and electron number in 81 Br-1? Science & Mathematics Chemistry Proton number, neutron number and electron number in 81 Br-1? Please help (: thanks!Follow 2 answers Answers Relevance Rating Newest Oldest Best Answer: All Br atoms have 35 protons (the atomic number of Br). Since 81 is the mass number (sum of protons + neutrons), th",
+        "distance": 0.5872043967247009
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4248675272499379992": {
+    "query_id": "-4248675272499379992",
+    "query": "can my school see my home internet activity",
+    "relevants": [
+      {
+        "relevant_doc": 1632,
+        "relevant_url": "https://answers.yahoo.com/question/index?qid=20090409124530AAtpVH6"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3534,
+        "title": "âI want to get back to my job, my grandkids, my life.â",
+        "url": "http://www.mypotentialrehab.org/",
+        "combined_text": "âI want to get back to my job, my grandkids, my life.â “I want to get back to my job, my grandkids, my life.”Discover my Potential Rehabilitation: A transformation in physical, occupational and speech therapy in Rockville, Md. There’s a new option for rehabilitation: a community with beautiful private rooms, concierge services, state-of-the-art capabili",
+        "distance": 0.49305614829063416
+      },
+      {
+        "id": 664,
+        "title": "Do I Need to Include My Cosmetologist's License Number in My Resume?",
+        "url": "http://work.chron.com/need-include-cosmetologists-license-number-resume-6457.html",
+        "combined_text": "Do I Need to Include My Cosmetologist's License Number in My Resume? \"Related Articles1I Let My Cosmetology License Expire: How to Get It Back2How to Include a License on Your CV3Can My Employer Change My Contract Without My Signature?4Help Filling Out My Interests on My Resume The Bureau of Labor Statistics predicts average growth -- about 14 percent -- for cosmetol",
+        "distance": 0.5093905329704285
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "1339063578740601287": {
+    "query_id": "1339063578740601287",
+    "query": "pa yellow perch identification and fishing",
+    "relevants": [
+      {
+        "relevant_doc": 907,
+        "relevant_url": "http://www.fishandboat.com/Fish/PennsylvaniaFishes/Pages/YellowPerch.aspx"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 907,
+        "title": "YELLOW PERCH",
+        "url": "http://www.fishandboat.com/Fish/PennsylvaniaFishes/Pages/YellowPerch.aspx",
+        "combined_text": "YELLOW PERCH YELLOW PERCHFISH FOR YELLOW PERCH⇢ Yellow Perch Fishing Tips ⇢ Best Fishing Waters - Yellow Perch ⇢ Panfish Identification ⇢ Species overview, identification, habitat, life history (Perches chapter from PA Fishes book)INTERACTIVE MAPSFind fishing waters by using one or more of our interactive maps:",
+        "distance": 0.16657297313213348
+      },
+      {
+        "id": 3944,
+        "title": "Fishing",
+        "url": "https://www.azgfd.com/fishing/",
+        "combined_text": "Fishing Arizona is blessed with diverse fishing opportunities, from the large reservoirs to the trout lakes in the mountains, and plenty of low-elevation fishing holes in between. Go out and catch a memory!Buy A License Fishing Report Fishing Forecast Fishing Locations Rules & Regulations Community Fishing",
+        "distance": 0.48277539014816284
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-1630348332000393940": {
+    "query_id": "-1630348332000393940",
+    "query": "what are metalloids used for",
+    "relevants": [
+      {
+        "relevant_doc": 2566,
+        "relevant_url": "http://www.buzzle.com/articles/uses-of-metalloids.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2566,
+        "title": "We Bet You Didn't Know the Incredibly Versatile Uses of Metalloids",
+        "url": "http://www.buzzle.com/articles/uses-of-metalloids.html",
+        "combined_text": "We Bet You Didn't Know the Incredibly Versatile Uses of Metalloids What are metalloids? Metalloids are the elements which possess the qualities of metals as well as non-metals, hence they are also known as semimetals. Metalloids in the periodic table are placed between the metals and the non-metals and are located in a step-like structure. Hence we can say that the",
+        "distance": 0.19754713773727417
+      },
+      {
+        "id": 3864,
+        "title": "coining",
+        "url": "http://www.thefreedictionary.com/coining",
+        "combined_text": "coining coining Also found in: Thesaurus, Medical, Legal, Financial, Idioms, Encyclopedia, Wikipedia .coin (koin)n.1. A small piece of metal, usually flat and circular, authorized by a government for use as money.2. Metal money considered as a whole.3. A flat circular piece or object felt to resemble metal",
+        "distance": 0.6521187424659729
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "1972240623170784754": {
+    "query_id": "1972240623170784754",
+    "query": "fixes for fitbit flex battery issues",
+    "relevants": [
+      {
+        "relevant_doc": 296,
+        "relevant_url": "http://www.livescience.com/47264-fitbit-flex-hold-charge.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 296,
+        "title": "Fitbit Won't Hold a Charge: Here's What to Do",
+        "url": "http://www.livescience.com/47264-fitbit-flex-hold-charge.html",
+        "combined_text": "Fitbit Won't Hold a Charge: Here's What to Do \"Live Science Tech Fitbit Won't Hold a Charge: Here's What to Do By Rachael Rettner, Senior Writer | August 8, 2014 02:37pm ETMOREBUY the Fitbit Flex >>>Credit: Laptopmag.com Megs Bell started using a Fibit Flex this year, along with her whole family. The device worked well for about four months, bu",
+        "distance": 0.3903757929801941
+      },
+      {
+        "id": 1665,
+        "title": "Hip flexor strain - aftercare",
+        "url": "https://medlineplus.gov/ency/patientinstructions/000682.htm",
+        "combined_text": "Hip flexor strain - aftercare You Are Here: Home → Medical Encyclopedia → Hip flexor strain - aftercare Hip flexor strain - aftercare The hip flexors are a group of muscles toward the front of the hip. They help you move, or flex, your leg and knee up towards your body. A hip flexor strain occurs when one or more of the hip flex",
+        "distance": 0.5816819667816162
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "1132912039977935648": {
+    "query_id": "1132912039977935648",
+    "query": "definition of grammatical morphemes",
+    "relevants": [
+      {
+        "relevant_doc": 681,
+        "relevant_url": "https://en.wikipedia.org/wiki/Functional_morpheme"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 681,
+        "title": "Functional morpheme",
+        "url": "https://en.wikipedia.org/wiki/Functional_morpheme",
+        "combined_text": "Functional morpheme Functional morpheme From Wikipedia, the free encyclopedianavigation search This article does not cite any sources. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (January 2011) ( Learn how and when to remove this template m",
+        "distance": 0.5620914101600647
+      },
+      {
+        "id": 2469,
+        "title": "linguist",
+        "url": "https://www.vocabulary.com/dictionary/linguist",
+        "combined_text": "linguist linguist A linguist is someone who studies language. Linguists study every aspect of language, including vocabulary, grammar, the sound of language, and how words evolve over time. The study of language is called linguistics, and people who study linguistics are linguists. Being a linguist isn't eas",
+        "distance": 0.6003274917602539
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-5104273209042650546": {
+    "query_id": "-5104273209042650546",
+    "query": "cold german cucumber salad with bacon",
+    "relevants": [
+      {
+        "relevant_doc": 2445,
+        "relevant_url": "http://www.food.com/recipe/german-cucumber-and-bacon-salad-458154"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2445,
+        "title": "German Cucumber and Bacon Salad",
+        "url": "http://www.food.com/recipe/german-cucumber-and-bacon-salad-458154",
+        "combined_text": "German Cucumber and Bacon Salad German Cucumber and Bacon Salad Be the first to review this recipe Recipe by pink cook MAKE IT SHINE! ADD YOUR PHOTO“I adapted this recipe combining two recipes from my German and Czech ... More Made this recipe? Have a way to make it better? Share it with the world!Join the conversation Upload Twea",
+        "distance": 0.37699148058891296
+      },
+      {
+        "id": 929,
+        "title": "Cucumbers â From Kirby to Persian",
+        "url": "http://localfoods.about.com/od/summer/tp/cucumbertypes.htm",
+        "combined_text": "Cucumbers â From Kirby to Persian \"Seasonal Produce Guides American Cooking Basics Local Ingredients Cucumbers — From Kirby to Persian By Molly Watson Updated 10/23/17Share Pin Email01of 08A Brief Guide to Types of Cucumbers Assorted Cucumbers. Maximilian Stock Ltd./Getty Images Once available only at the best-stocked farmers market",
+        "distance": 0.6381176114082336
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-2037331220965989398": {
+    "query_id": "-2037331220965989398",
+    "query": "reddit cofounder engaged to Serena Williams",
+    "relevants": [
+      {
+        "relevant_doc": 3684,
+        "relevant_url": "http://www.telegraph.co.uk/men/the-filter/alexis-ohanian-serena-williams-reddit-founding-fiance/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3684,
+        "title": "Who is Alexis Ohanian, Serena Williams' Reddit-founding fiancÃ©?",
+        "url": "http://www.telegraph.co.uk/men/the-filter/alexis-ohanian-serena-williams-reddit-founding-fiance/",
+        "combined_text": "Who is Alexis Ohanian, Serena Williams' Reddit-founding fiancÃ©? Who is Alexis Ohanian, Serena Williams' Reddit-founding fiancé? Love won: Alexis Ohanian and Serena Williams Credit: Getty Guy Kelly25 April 2017 • 9:20am O ver the last two decades, the public has grown accustomed to having no idea who the other person involved in a Serena Williams match is. Freque",
+        "distance": 0.23027506470680237
+      },
+      {
+        "id": 4427,
+        "title": "Venus Williams (I)",
+        "url": "http://www.imdb.com/name/nm1102988/",
+        "combined_text": "Venus Williams (I) \"SEE RANKVenus Williams (I)Venus Williams was born on June 17, 1980 in Lynwood, California, USA as Venus Ebony Starr Williams. See full bio »Born: June 17, 1980 in Lynwood, California, USAMore at IMDb Pro »Contact Info: View publicist and legal58 photos | 5 videos »Quick Links Biography Awards Photo",
+        "distance": 0.6345587968826294
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-1248698149556648622": {
+    "query_id": "-1248698149556648622",
+    "query": "unfair contract terms and time limits",
+    "relevants": [
+      {
+        "relevant_doc": 2710,
+        "relevant_url": "http://study.com/academy/lesson/defenses-to-contract-enforcement-unconscionability-statute-of-limitations.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3962,
+        "title": "Legal Help for all South Australians",
+        "url": "https://www.lawhandbook.sa.gov.au/ch10s02s05.php",
+        "combined_text": "Legal Help for all South Australians Home CONSUMERS - CONTRACTS AND CREDIT Contracts Are you bound once you sign a contract? The general answer to this question is 'yes'. This is true even if you did not read the contract, or were unsure what it meant. To be safe, you should never sign a contract unless you have read it, fully understa",
+        "distance": 0.6134264469146729
+      },
+      {
+        "id": 2710,
+        "title": "Defenses to Contract Enforcement: Unconscionability & Statute of Limitations",
+        "url": "http://study.com/academy/lesson/defenses-to-contract-enforcement-unconscionability-statute-of-limitations.html",
+        "combined_text": "Defenses to Contract Enforcement: Unconscionability & Statute of Limitations Instructor: Ashley Dugger Ashley is an attorney. She has taught and written various introductory law courses. Sometimes a party has a defense to a contract. A contract defense is a valid and legal reason for why the contract can't be enforced. This lesson explains unconscionability and statute of li",
+        "distance": 0.6550283432006836
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "4921808975286427956": {
+    "query_id": "4921808975286427956",
+    "query": "why people talk during sleep",
+    "relevants": [
+      {
+        "relevant_doc": 248,
+        "relevant_url": "https://sleepfoundation.org/sleep-disorders-problems/sleep-talking/causes"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 248,
+        "title": "Sleep Talking - Causes",
+        "url": "https://sleepfoundation.org/sleep-disorders-problems/sleep-talking/causes",
+        "combined_text": "Sleep Talking - Causes Home Causes Symptoms Treatment Sleep talking may be brought on by stress , depression, sleep deprivation, day-time drowsiness, alcohol, and fever. In many instances sleep talking runs in families, although external factors seem to stimulate the behavior. Sleep talking often occurs concurently with o",
+        "distance": 0.32784944772720337
+      },
+      {
+        "id": 2931,
+        "title": "How Long Can You Live Without Sleep",
+        "url": "http://sleep.lovetoknow.com/How_Long_Can_You_Live_Without_Sleep",
+        "combined_text": "How Long Can You Live Without Sleep How Long Can You Live Without Sleep By Vilma Ruddock M. D. Learn the symptoms of sleep deprivation Source Can a person's body shut down and die after prolonged lack of sleep and if so, how long will it take? Sleep scientists don't know for sure how long normal people can survive without sleep, accor",
+        "distance": 0.508124589920044
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "6631863546755249153": {
+    "query_id": "6631863546755249153",
+    "query": "bay area weather discussion",
+    "relevants": [
+      {
+        "relevant_doc": 3770,
+        "relevant_url": "http://forecast.weather.gov/product.php?site=NWS&issuedby=mtr&product=AFD&format=CI&glossary=1"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1385,
+        "title": "10-Day Weather Forecast",
+        "url": "http://www.intellicast.com/Local/Weather.aspx?location=USNY1163",
+        "combined_text": "10-Day Weather Forecast \"Weather Report Home » Local » Weather Report Port Jervis, New York Weather Report· Interactive Map· Extended Forecast· Hourly Forecast· Past Observations· Historic Averages Current Conditions - ° F | °C As of 4:23 PM on Monday 9 Apr 2018 (Local Time)No Active Weather Alerts Partly Cloudy 47°FFeels",
+        "distance": 0.5697152614593506
+      },
+      {
+        "id": 3768,
+        "title": "10-Day Weather Forecast",
+        "url": "http://www.intellicast.com/Local/Weather.aspx?location=USKY0936",
+        "combined_text": "10-Day Weather Forecast \"Weather Report Home » Local » Weather Report Gilbertsville, Kentucky Weather Report· Interactive Map· Extended Forecast· Hourly Forecast· Past Observations· Historic Averages Current Conditions - ° F | °C As of 4:49 AM on Thursday 12 Apr 2018 (Local Time)View 1 Active Weather Alert Clear 55°FFeels",
+        "distance": 0.5891129374504089
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "4002636926644139249": {
+    "query_id": "4002636926644139249",
+    "query": "guide to navigating FTDNA website",
+    "relevants": [
+      {
+        "relevant_doc": 3488,
+        "relevant_url": "https://www.worldfamilies.net/usingftdna"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3488,
+        "title": "Using the Family Tree DNA (FTDNA) Resources",
+        "url": "https://www.worldfamilies.net/usingftdna",
+        "combined_text": "Using the Family Tree DNA (FTDNA) Resources \"Using the Family Tree DNA (FTDNA) Resources We can help you navigate Family Tree DNA's website!Click here for an FTDNA Site Map Family Tree DNA (FTDNA) created the concept of Genetic Genealogy in 2000 and has been the industry leader since the beginning. They are the leading DNA testing company for",
+        "distance": 0.4978436231613159
+      },
+      {
+        "id": 387,
+        "title": "How to Use this Guide:",
+        "url": "http://cascadedafo.com/dafo-guide",
+        "combined_text": "How to Use this Guide: How to Use this Guide:1. Find your patient group2. Match the level of involvement3. Choose a suggested brace style",
+        "distance": 0.5613954663276672
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8279181165247580680": {
+    "query_id": "8279181165247580680",
+    "query": "us strategy for healthcare terminologies",
+    "relevants": [
+      {
+        "relevant_doc": 3555,
+        "relevant_url": "http://perspectives.ahima.org/healthcare-terminologies-and-classifications-an-action-agenda-for-the-united-states/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1032,
+        "title": "You might not be eligible for US Family Health Plan of Southern New England.",
+        "url": "https://www.usfamilyhealth.org/",
+        "combined_text": "You might not be eligible for US Family Health Plan of Southern New England. US Family Health Plan US Family Health Plan With you every step of the way US Family Health Plan: a TRICARE Prime option“For all of us here at US Family Health Plan, it’s about recognizing and respecting our members and the contributions they have made to our country.”Elaine Williams Member Educatio",
+        "distance": 0.6191369891166687
+      },
+      {
+        "id": 4274,
+        "title": "Dental Services",
+        "url": "http://www.molinahealthcare.com/members/fl/en-US/hp/medicaid/overvw/coverd/Pages/dental.aspx",
+        "combined_text": "Dental Services Home > Become a Member > Medicaid > About Medicaid > What's Covered > Dental Services Become a Member Medicaid About Medicaid What's Covered Services Virtual Care Health Management Behavioral Health Prescription Drugs Vision Care Dental Services Questions & Answers Member Handbook Am I Eligible? How",
+        "distance": 0.6508723497390747
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "1085110256975153610": {
+    "query_id": "1085110256975153610",
+    "query": "how to get nonprofit tax exempt",
+    "relevants": [
+      {
+        "relevant_doc": 586,
+        "relevant_url": "http://charitynetusa.com/services/501c3-irs-tax-exempt/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2053,
+        "title": "How to Obtain 501 (c) (3) Tax-Exempt Status for Your Nonprofit",
+        "url": "http://www.nolo.com/legal-encyclopedia/nonprofit-tax-exempt-status-501c3-30124.html",
+        "combined_text": "How to Obtain 501 (c) (3) Tax-Exempt Status for Your Nonprofit \"Even after you've incorporated, obtaining federal tax-exempt status is a critical step in forming a nonprofit organization. Most of the real benefits of being a nonprofit flow from your 501 (c) (3) tax-exempt status, such as the tax-deductibility of donations, access to grant money, and income and",
+        "distance": 0.19890384376049042
+      },
+      {
+        "id": 586,
+        "title": "What is a 501 (c) (3)?",
+        "url": "http://charitynetusa.com/services/501c3-irs-tax-exempt/",
+        "combined_text": "What is a 501 (c) (3)? What is a 501 (c) (3)? The recognition of your organization as 501c3 tax exempt entity by the Internal Revenue Service (IRS) offers many advantages in helping your organization receive donations. Primarily, having an active 501c3 status allows donors to receive a tax deduction, provides grant fundin",
+        "distance": 0.4256983697414398
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-6023504371965924000": {
+    "query_id": "-6023504371965924000",
+    "query": "requirements to become a model",
+    "relevants": [
+      {
+        "relevant_doc": 1779,
+        "relevant_url": "http://models.com/help/005-what_are_requirements.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1023,
+        "title": "Minimum Course Requirements",
+        "url": "http://admissions.unc.edu/minimum-course-requirements/",
+        "combined_text": "Minimum Course Requirements < To Homepage Minimum Course Requirements To be eligible for admission, a student should present a minimum of 16 units of high school coursework within the five traditional academic areas (literature, mathematics, physical and biological sciences, social sciences, and foreign languages), including t",
+        "distance": 0.4743075966835022
+      },
+      {
+        "id": 4674,
+        "title": "Improving Your Requirements Processes",
+        "url": "https://www.batimes.com/articles/improving-your-requirements-processes.html",
+        "combined_text": "Improving Your Requirements Processes Books on business analysis and requirements engineering, such as my own Software Requirements, describe dozens of “good practices” that can help any organization improve the way it develops and manages requirements for its products. Learning about the practices is one thing; implementing them and re",
+        "distance": 0.49617189168930054
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3319783181625063362": {
+    "query_id": "3319783181625063362",
+    "query": "study set for algebra 2 final vocab",
+    "relevants": [
+      {
+        "relevant_doc": 4724,
+        "relevant_url": "https://quizlet.com/82661177/algebra-2-vocabulary-semester-2-final-exam-flash-cards/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 4724,
+        "title": "Algebra 2 Vocabulary Semester 2 Final Exam",
+        "url": "https://quizlet.com/82661177/algebra-2-vocabulary-semester-2-final-exam-flash-cards/",
+        "combined_text": "Algebra 2 Vocabulary Semester 2 Final Exam 32 terms joseeking13Algebra 2 Vocabulary Semester 2 Final Exam Learn Flashcards Write Spell Test Match Gravity Advertisement Upgrade to remove ads Sort Inverse Function An inverse function is a function that undoes the action of the another function. Nth Root The number that must be multiplied times",
+        "distance": 0.4889867305755615
+      },
+      {
+        "id": 2236,
+        "title": "AP Human Geography Chapter 1 Vocab",
+        "url": "https://quizlet.com/1111427/ap-human-geography-chapter-1-vocab-flash-cards/",
+        "combined_text": "AP Human Geography Chapter 1 Vocab \"60 terms Jillian HDAP Human Geography Chapter 1 Vocab Learn Flashcards Write Spell Test Match Gravity Advertisement Upgrade to remove ads Like this study set? Create a free account to save it. Create a free account Maybe later Sort Fieldwork A method of studying what people are doing and observing",
+        "distance": 0.5868225693702698
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4983582081433596933": {
+    "query_id": "-4983582081433596933",
+    "query": "why do shooters include aim assist",
+    "relevants": [
+      {
+        "relevant_doc": 831,
+        "relevant_url": "http://www.ign.com/boards/threads/aim-assist-in-games-why.454370880/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 4555,
+        "title": "Gun owners not likely to use firearms for self-defense, study claims",
+        "url": "http://thehill.com/regulation/245280-gun-owners-not-likely-to-use-firearms-for-self-defense-study-claims",
+        "combined_text": "Gun owners not likely to use firearms for self-defense, study claims \"A new study attempts to debunk the claim that gun owners rely on their firearms for self-defense. The left-leaning Violence Policy Center released a study Wednesday that finds people are much more likely to use a gun to kill someone without cause than to protect themselves. According to the study,",
+        "distance": 0.6536515355110168
+      },
+      {
+        "id": 4743,
+        "title": "Setting Up Your Shotgun For Sporting Clays",
+        "url": "http://www.typicalshooter.com/setting-up-your-shotgun-for-sporting-clays/",
+        "combined_text": "Setting Up Your Shotgun For Sporting Clays Setting Up Your Shotgun For Sporting Claysin Learning Center, Shotguns, Sporting Clays 10 Comments Sporting clays is a refreshing change from the predictability of skeet and the limited variability that the game of trap offers (44 degrees side to side, 5 set positions, 8-12 foot throw height, 16 yd",
+        "distance": 0.6795443296432495
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-2602335835320323950": {
+    "query_id": "-2602335835320323950",
+    "query": "two-party negotiation meaning in information science",
+    "relevants": [
+      {
+        "relevant_doc": 4230,
+        "relevant_url": "https://www.igi-global.com/dictionary/bilateral-negotiation/2433"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 4230,
+        "title": "What is Bilateral Negotiation",
+        "url": "https://www.igi-global.com/dictionary/bilateral-negotiation/2433",
+        "combined_text": "What is Bilateral Negotiation Info Sci-On Demand Download Premium Research Papers Full text search our database of 110,700 titles for Bilateral Negotiation to find related research papers. Learn More About Bilateral Negotiation in These Related Titles Encyclopedia of Information Science and Tech... Computer Science & ITDevelopin",
+        "distance": 0.4173431992530823
+      },
+      {
+        "id": 2777,
+        "title": "information at hand definition, information at hand meaning | English dictionary",
+        "url": "http://dictionary.reverso.net/english-definition/information%20at%20hand",
+        "combined_text": "information at hand definition, information at hand meaning | English dictionary informationn1 knowledge acquired through experience or study2 knowledge of specific and timely events or situations; news3 the act of informing or the condition of being informed4a an office, agency, etc., providing informationb (as modifier)information service5a a charge or complaint made before ju",
+        "distance": 0.6585837602615356
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-5588054121687318913": {
+    "query_id": "-5588054121687318913",
+    "query": "student life and culture in Greifswald",
+    "relevants": [
+      {
+        "relevant_doc": 787,
+        "relevant_url": "https://www.study-in.de/en/discover-germany/german-cities/greifswald_40548.php"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 787,
+        "title": "Greifswald Long Traditions and Cultural Diversity",
+        "url": "https://www.study-in.de/en/discover-germany/german-cities/greifswald_40548.php",
+        "combined_text": "Greifswald Long Traditions and Cultural Diversity \"Greifswald Long Traditions and Cultural Diversity Greifswald is a small city with a very homey atmosphere. Not only are you likely to meet your professors and fellows students at the university, but also at the market place, local pub and at the beach. The cultural activities make this quaint Hanse",
+        "distance": 0.2515486180782318
+      },
+      {
+        "id": 1396,
+        "title": "What Is the GRE? Expert Guide to the Test",
+        "url": "https://www.prepscholar.com/gre/blog/what-is-gre-exam/",
+        "combined_text": "What Is the GRE? Expert Guide to the Test If you’re just starting to think about grad school, you probably have a lot of questions, so I’m here to answer one of the biggest ones: what is the GRE? Do you need to take the GRE? How important is it for grad school admissions? What does it test? How can you sign up for it? This in-depth guide wi",
+        "distance": 0.5659868121147156
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-7882648086684554583": {
+    "query_id": "-7882648086684554583",
+    "query": "biggest ongoing crises in the world",
+    "relevants": [
+      {
+        "relevant_doc": 2534,
+        "relevant_url": "https://www.quora.com/What-are-some-of-the-worst-things-happening-in-the-world-right-now-everyone-should-know-about"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 4121,
+        "title": "Largest police force in the world?",
+        "url": "http://www.answers.com/Q/Largest_police_force_in_the_world",
+        "combined_text": "Largest police force in the world? \"Answers.com ® Wiki Answers ® Categories Jobs & Education Jobs Largest police force in the world? Flag Largest police force in the world? Answered by The Wiki Answers ®Community Answers.com ® is making the world better one answer at a time. The Police in Uttra Pradesh state of India Claim on their w",
+        "distance": 0.6330484747886658
+      },
+      {
+        "id": 2534,
+        "title": "What are some of the worst things happening in the world right now everyone should know about?",
+        "url": "https://www.quora.com/What-are-some-of-the-worst-things-happening-in-the-world-right-now-everyone-should-know-about",
+        "combined_text": "What are some of the worst things happening in the world right now everyone should know about? \"The Worst Thing The World What are some of the worst things happening in the world right now everyone should know about? Update Cancel Answer Wiki10 Answers Ola Wiklund, TV Director, Teacher TV-production Answered Mar 3, 2013There are of course a lot of untold suffering all over our world but one c",
+        "distance": 0.6754850745201111
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-7689978403974346335": {
+    "query_id": "-7689978403974346335",
+    "query": "what does flurry mean",
+    "relevants": [
+      {
+        "relevant_doc": 4601,
+        "relevant_url": "http://www.dictionary.com/browse/flurry"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 4601,
+        "title": "flurry",
+        "url": "http://www.dictionary.com/browse/flurry",
+        "combined_text": "flurry \"flurry [ flur -ee, fluhr -ee]Spell Syllables Synonyms Examples Word Origin See more synonyms on Thesaurus.comnoun, plural flurries.1. a light, brief shower of snow.2. sudden commotion, excitement, or confusion; nervous hurry: There was a flurry of activity before the guests arrived.3. Stock Exchang",
+        "distance": 0.4551970064640045
+      },
+      {
+        "id": 2536,
+        "title": "banging",
+        "url": "http://www.thefreedictionary.com/Banging",
+        "combined_text": "banging \"banging Also found in: Thesaurus, Medical, Legal, Idioms, Encyclopedia .bang 1 (băng) n.1. A sudden loud noise, as of an explosion.2. A sudden loud blow or bump.3. Informal A sudden burst of action: The campaign started off with a bang.4. Slang A sense of excitement; a thrill: We got a bang out of",
+        "distance": 0.7273855805397034
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3662387283815337584": {
+    "query_id": "3662387283815337584",
+    "query": "how to prevent spider and varicose veins",
+    "relevants": [
+      {
+        "relevant_doc": 4682,
+        "relevant_url": "http://www.veinsofhouston.com/ways-to-help-prevent-spider-varicose-veins"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 4682,
+        "title": "Articles for You",
+        "url": "http://www.veinsofhouston.com/ways-to-help-prevent-spider-varicose-veins",
+        "combined_text": "Articles for You \"Articles for You Topics range from treatment of varicose and spider veins, news and useful information on vascular conditions. Ways to Help Prevent Spider & Varicose Veins For Patients Who Suffer from Vascular Conditions Patients usually ask us what can they do to help stop them from developing fut",
+        "distance": 0.19624333083629608
+      },
+      {
+        "id": 1445,
+        "title": "Spiders",
+        "url": "http://www.domyownpestcontrol.com/all-about-spiders-c-22_573.html",
+        "combined_text": "Spiders Spiders How To Identify Inspect Treat Prevent Spiders All about the Different Types of Spiders, Spider Facts & More Spider Taxonomy Spider History Spider Map Spider Identification Spider Anatomy Types of Spiders Spider Reproduction Spider Life Cycle Spider Habits Effects of Weather on Spiders See al",
+        "distance": 0.3945784568786621
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4732431544209220447": {
+    "query_id": "-4732431544209220447",
+    "query": "lyrics for Scaffold's novelty drinking song",
+    "relevants": [
+      {
+        "relevant_doc": 3604,
+        "relevant_url": "http://www.lyricsmode.com/lyrics/s/scaffold/lily_the_pink.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 4150,
+        "title": "The Lazy Song lyrics",
+        "url": "http://www.lyricsmode.com/lyrics/b/bruno_mars/the_lazy_song.html",
+        "combined_text": "The Lazy Song lyrics \"Bruno Mars –The Lazy Song lyrics3 meanings 4 explanations New! Read & write lyrics explanations Click the blue-coloredlyrics to read explanations. Highlight lyrics and explain them to earn Karma points. Today, I don't feel like doing anythin' I just wanna lay in my bed Don't feel like pickin' up my",
+        "distance": 0.676924467086792
+      },
+      {
+        "id": 2971,
+        "title": "Ivan Parker",
+        "url": "http://www.metrolyrics.com/ivan-parker-lyrics.html",
+        "combined_text": "Ivan Parker By Lyrics+ Submit New Song Popular Songs Name Year Popularity I Am God. Lyrics 201311 Delicious Misheard Lyrics About Food View All Hot Videos (She's) Sexy & 17 Video Thirty Seconds To Mars Interview - LINER NOTES Video 10 Songs You Didn't Know Were Covers Video XXX 88 Video Sexx Laws Video Humble A",
+        "distance": 0.7089146375656128
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-7153469995348136693": {
+    "query_id": "-7153469995348136693",
+    "query": "how slaves gained freedom colonial era",
+    "relevants": [
+      {
+        "relevant_doc": 33,
+        "relevant_url": "http://colonialslave.blogspot.com/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 33,
+        "title": "Slavery During the Colonial Period",
+        "url": "http://colonialslave.blogspot.com/",
+        "combined_text": "Slavery During the Colonial Period Horrors of Slavery One of the ways some of the slaves received their freedom was through the American Revolution. They were rewarded freedom through their services in the war. Others tried to get their freedom by escaping away from the plantations. They had secret ways to escape. Many white folks se",
+        "distance": 0.2772113084793091
+      },
+      {
+        "id": 3232,
+        "title": "History",
+        "url": "http://freedomcenter.org/enabling-freedom/history",
+        "combined_text": "History \"The Underground Railroad is a term for the covert network of people and places that assisted fugitive slaves as they escaped from slavery in the South. Most widespread during the three decades prior to the Civil War, this activity primarily took place in the regions bordering slave states, with the",
+        "distance": 0.5713520646095276
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-7146074523179675521": {
+    "query_id": "-7146074523179675521",
+    "query": "virginia beach bike and golf cart shop",
+    "relevants": [
+      {
+        "relevant_doc": 3897,
+        "relevant_url": "http://find.hamptonroads.com/seashore-bikes-golf-carts-virginia-beach-va.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3897,
+        "title": "Seashore Bikes & Golf Carts",
+        "url": "http://find.hamptonroads.com/seashore-bikes-golf-carts-virginia-beach-va.html",
+        "combined_text": "Seashore Bikes & Golf Carts Serving The Shore Drive Community For Over 30 Years !Photos of the Business Information about this business (3)We are a full service bicycle and golf cart retailer. We service all brand of bikes, new and used bikes. We service Ez-Go, Yamaha, Club Car, Tomberlin, Star Cars, and GEM Cars. Posted on Se",
+        "distance": 0.4417892098426819
+      },
+      {
+        "id": 280,
+        "title": "Which Exercise is Better for Weight Loss: Running, Swimming or Cycling?",
+        "url": "https://totalwomenscycling.com/fitness/whats-better-weight-loss-running-swimming-cycling",
+        "combined_text": "Which Exercise is Better for Weight Loss: Running, Swimming or Cycling? News Commuting MTB Road Cycling Training & Nutrition Lifestyle Forum Newsletter Go News Commuting Buying Guides Bikes Clothing Accessories Hints & Tips MTBBuying Guides Bikes Clothing Accessories Skills Events Where to Ride Road Cycling Buying Guides Bikes Clothing Accessories Maintenance Skills Eve",
+        "distance": 0.5885899066925049
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7876234601311968454": {
+    "query_id": "7876234601311968454",
+    "query": "opposite word for lair",
+    "relevants": [
+      {
+        "relevant_doc": 3553,
+        "relevant_url": "http://www.answers.com/Q/Antonyms_for_lair"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3553,
+        "title": "Antonyms for lair?",
+        "url": "http://www.answers.com/Q/Antonyms_for_lair",
+        "combined_text": "Antonyms for lair? \"Answers.com ® Wiki Answers ® Categories Literature & Language Languages and Cultures English Language Literary Devices and Figures of Speech Synonyms and Antonyms Antonyms for lair? Flag Antonyms for lair? Edit Answered by The Wiki Answers ®Community Answers.com ® is making the world better one ans",
+        "distance": 0.5859910845756531
+      },
+      {
+        "id": 4343,
+        "title": "World of Warcraft: Legion: Neltharion's Lair guide",
+        "url": "http://www.metabomb.net/world-of-warcraft-legion/dungeon-guides/wow-legion-neltharions-lair-guide",
+        "combined_text": "World of Warcraft: Legion: Neltharion's Lair guide World of Warcraft: Legion: Neltharion's Lair guide Our guide to mastering Highmountain's 5-man dungeon.dungeon-guides by Luis Magalhães , 03/10/2016About Luis Magalhães Contact @Neltharion’s Lair is Highmountain’s 5-man dungeon, and it's the place where the Highmountain storyline reaches its climax,",
+        "distance": 0.6493848562240601
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "6296828265937913315": {
+    "query_id": "6296828265937913315",
+    "query": "function of granular vs agranular blood cells",
+    "relevants": [
+      {
+        "relevant_doc": 3148,
+        "relevant_url": "http://www.answers.com/Q/What_is_the_major_function_of_granular_and_agranular"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3148,
+        "title": "What is the major function of granular and agranular?",
+        "url": "http://www.answers.com/Q/What_is_the_major_function_of_granular_and_agranular",
+        "combined_text": "What is the major function of granular and agranular? \"Answers.com ® Wiki Answers ® Categories Science Biology Human Anatomy and Physiology Circulatory System Blood Blood Types What is the major function of granular and agranular? Flag What is the major function of granular and agranular? Answered by The Wiki Answers ®Community Answers.com ® is making",
+        "distance": 0.22432971000671387
+      },
+      {
+        "id": 631,
+        "title": "\"Study sets matching \"\"term:erythrogenesis = formation of new red blood cells\"\"\"",
+        "url": "https://quizlet.com/subject/term%3Aerythrogenesis%20%3D%20formation%20of%20new%20red%20blood%20cells/",
+        "combined_text": "\"Study sets matching \"\"term:erythrogenesis = formation of new red blood cells\"\"\" \"Study sets matching \"\"term:erythrogenesis = formation of new red blood cells\"\"Study sets Diagrams Classes Users Options15 terms amanda_lavinred blood cells formationspoikilocytosis polychromasia monocytecondition of irregularly shaped RBCs RBCs with multicolored staining qualities agranulocytic WBC",
+        "distance": 0.6530798673629761
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "4999891834601500530": {
+    "query_id": "4999891834601500530",
+    "query": "oregon territory and mountain men homework",
+    "relevants": [
+      {
+        "relevant_doc": 1375,
+        "relevant_url": "https://answers.yahoo.com/question/index?qid=20090223132955AAGT9rk"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1375,
+        "title": "Homework help please?!?",
+        "url": "https://answers.yahoo.com/question/index?qid=20090223132955AAGT9rk",
+        "combined_text": "Homework help please?!? \"Education & Reference Homework Help Homework help please?! ?1.name the last country to challenge the US control of oregon ___________ 2. This meant that people from US and GB could settle in Oregon country ____________ 3. How did mountain men make their living? ___________ 4. This Tennessee backwoo",
+        "distance": 0.3751550316810608
+      },
+      {
+        "id": 1104,
+        "title": "Oregon County Map with County Seat Cities",
+        "url": "http://geology.com/county-map/oregon.shtml",
+        "combined_text": "Oregon County Map with County Seat Cities Home » US Maps » Oregon » County Map Oregon County Map with County Seat Cities County Maps for Neighboring States: California Idaho Nevada Washington Oregon on a USA Wall Map Oregon Delorme Atlas Oregon on Google Earth Oregon Wall Map The map above is a Landsat satellite image of Oregon with County",
+        "distance": 0.5269531607627869
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8913475401474235785": {
+    "query_id": "8913475401474235785",
+    "query": "how to create a business budget",
+    "relevants": [
+      {
+        "relevant_doc": 4356,
+        "relevant_url": "https://www.thebalance.com/what-is-a-budget-for-a-business-398139"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 4356,
+        "title": "What is a Budget for a Business?",
+        "url": "https://www.thebalance.com/what-is-a-budget-for-a-business-398139",
+        "combined_text": "What is a Budget for a Business? \"Business Law & Taxes Finance Glossary What is a Budget for a Business? Why Your Business Needs and Budget and How to Create One Share Flip Pin Email•••By Jean Murray Updated March 19, 2018What is a Business Budget? A budget is a financial document used to estimate and plan future income and expense",
+        "distance": 0.24503502249717712
+      },
+      {
+        "id": 3349,
+        "title": "What Is an Operating Budget?",
+        "url": "http://smallbusiness.chron.com/operating-budget-61475.html",
+        "combined_text": "What Is an Operating Budget? \"Related Articles1What Does an Operating Budget Include?2Differences and Similarities of Capital and Operational Budgeting3How to Calculate an Operating Budget for a Non-Profit Organization?4Five Types of Budgets in Managerial Accounting An operating budget shows the company's projected revenue and",
+        "distance": 0.3811904489994049
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "418809522515053086": {
+    "query_id": "418809522515053086",
+    "query": "why oxygen in water matters",
+    "relevants": [
+      {
+        "relevant_doc": 2897,
+        "relevant_url": "http://omp.gso.uri.edu/ompweb/doee/science/physical/choxy1.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2897,
+        "title": "Estuarine Science",
+        "url": "http://omp.gso.uri.edu/ompweb/doee/science/physical/choxy1.htm",
+        "combined_text": "Estuarine Science 1. What is dissolved oxygen? Dissolved oxygen (DO) is the amount of oxygen (O2) dissolved in the water. Dissolved oxygen is one of the best indicators of water quality. People need oxygen in the atmosphere to survive and animals that live in the ocean, like fish, need dissolved oxygen in the water t",
+        "distance": 0.3153868019580841
+      },
+      {
+        "id": 7,
+        "title": "Water chemistry FAQ Frequently Asked Questions",
+        "url": "http://www.lenntech.com/water-chemistry-faq.htm",
+        "combined_text": "Water chemistry FAQ Frequently Asked Questions Water chemistry FAQ Frequently Asked Questions The question library on water related issues What is water? Water is a very important substance, as it makes up the larger part of an organism's body. But what exactly is water? Inside the body of a human being there is a skeleton, which makes your body",
+        "distance": 0.5593012571334839
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-2918489075491159954": {
+    "query_id": "-2918489075491159954",
+    "query": "how a point mutation inactivates protein",
+    "relevants": [
+      {
+        "relevant_doc": 2879,
+        "relevant_url": "https://malaysia.answers.yahoo.com/question/index?qid=20101019195645AAMmjzh"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2879,
+        "title": "Why can one change in a nucleotide sequence of a gene cause a nonfunctional protein to be produced?",
+        "url": "https://malaysia.answers.yahoo.com/question/index?qid=20101019195645AAMmjzh",
+        "combined_text": "Why can one change in a nucleotide sequence of a gene cause a nonfunctional protein to be produced? Science & Mathematics Biology Why can one change in a nucleotide sequence of a gene cause a nonfunctional protein to be produced?1. The change can cause a stop codon to occur early in translation and the full length protein is not translated. 2. A substitution can result in one incorrect amino acid",
+        "distance": 0.503765881061554
+      },
+      {
+        "id": 3947,
+        "title": "Fractionation of Proteins: The Key To Protein Identification",
+        "url": "http://info.gbiosciences.com/blog/bid/117486/Fractionation-of-Proteins-The-Key-To-Protein-Identification",
+        "combined_text": "Fractionation of Proteins: The Key To Protein Identification Fractionation of Proteins: The Key To Protein Identification Posted by The Protein Man on Jan 12, 2012 4:20:00 PMTweet Pitfalls of Protein Identification Proteomics is the analysis of a species' protein complement that is expressed by its genome, but the sheer complexity of the proteome raises signi",
+        "distance": 0.6728029847145081
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-3007070424377087236": {
+    "query_id": "-3007070424377087236",
+    "query": "dfs replication errors after sp1",
+    "relevants": [
+      {
+        "relevant_doc": 1222,
+        "relevant_url": "https://petri.com/forums/forum/server-operating-systems/windows-server-2008-2008-r2/62121-server-2008-r2-sp1-dfs-issue"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1222,
+        "title": "Server 2008 R2 SP1 - DFS Issue",
+        "url": "https://petri.com/forums/forum/server-operating-systems/windows-server-2008-2008-r2/62121-server-2008-r2-sp1-dfs-issue",
+        "combined_text": "Server 2008 R2 SP1 - DFS Issue \"Server 2008 R2 SP1 - DFS Issue Posts Latest Activity Search Page of 1 Filterrooster Casual Casual Join Date: Apr 2005Posts: 21#1Server 2008 R2 SP1 - DFS Issue10th August 2012, 18:48If this post needs to be moved to another forum - please let me know. DFS Installation was OK on DC1 - no issues. Usin",
+        "distance": 0.43796712160110474
+      },
+      {
+        "id": 2883,
+        "title": "DNA replication",
+        "url": "http://medical-dictionary.thefreedictionary.com/DNA+replication",
+        "combined_text": "DNA replication \"Correct all you're your grammar errors instantly. Try it now. DNA replication Also found in: Wikipedia . DNA replication The formation of new and, hopefully, identical copies of completegenomes. DNA replication occurs every time a cell divides to form two daughter cells. Under theinfluence of enzym",
+        "distance": 0.5275327563285828
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "926915133393828031": {
+    "query_id": "926915133393828031",
+    "query": "European intellectual movement emphasizing reason",
+    "relevants": [
+      {
+        "relevant_doc": 79,
+        "relevant_url": "https://en.wikipedia.org/wiki/The_Enlightenment"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 321,
+        "title": "Eurocentric",
+        "url": "http://www.thefreedictionary.com/Eurocentricity",
+        "combined_text": "Eurocentric Eurocentric (redirected from Eurocentricity) Also found in: Thesaurus, Encyclopedia. Related to Eurocentricity: Eurocentrist Eu·ro·cen·tric (yo͝or′ō-sĕn′trĭk)adj. Centered or focused on Europe or European peoples, especially in relation to historical or cultural influence. Eu′ro·cen′trism n. Eu′ro·c",
+        "distance": 0.6561363339424133
+      },
+      {
+        "id": 1129,
+        "title": "Suffrage Movement",
+        "url": "https://www.learningtogive.org/resources/suffrage-movement",
+        "combined_text": "Suffrage Movement \"Suffrage Movement The Suffrage Movement refers, specifically, to the seventy-two-year-long battle for woman's right to vote in the United States. Rooted in the abolition of slavery, the movement promoted civic action among newly enfranchised women through organizations like the League of Women Vote",
+        "distance": 0.6823650598526001
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-3962627152980357031": {
+    "query_id": "-3962627152980357031",
+    "query": "meanings for QMRC acronym",
+    "relevants": [
+      {
+        "relevant_doc": 1598,
+        "relevant_url": "https://www.acronymfinder.com/Organizations/QMRC.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1598,
+        "title": "What does QMRC stand for?",
+        "url": "https://www.acronymfinder.com/Organizations/QMRC.html",
+        "combined_text": "What does QMRC stand for? What does QMRC stand for? Your abbreviation search returned 2 meaningsshowing only Organizations definitions ( Show all)Link/Page Citation Category Filters All definitions (2) Information Technology (0) Military & Government (0) Science & Medicine (0) Organizations, Schools, etc. (2) Business & Fina",
+        "distance": 0.35561007261276245
+      },
+      {
+        "id": 1013,
+        "title": "What does RLQ stand for?",
+        "url": "https://www.acronymfinder.com/Slang/RLQ.html",
+        "combined_text": "What does RLQ stand for? What does RLQ stand for? Your abbreviation search returned 7 meaningsshowing only Slang/Internet Slang definitions ( Show all)Link/Page Citation Category Filters All definitions (7) Information Technology (2) Military & Government (0) Science & Medicine (1) Organizations, Schools, etc. (3) Business",
+        "distance": 0.6120793223381042
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-2230542698552679315": {
+    "query_id": "-2230542698552679315",
+    "query": "program to open rpyc files",
+    "relevants": [
+      {
+        "relevant_doc": 3167,
+        "relevant_url": "https://www.filesuffix.com/en/extension/rpyc"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3167,
+        "title": "Details of the .rpyc file extension",
+        "url": "https://www.filesuffix.com/en/extension/rpyc",
+        "combined_text": "Details of the .rpyc file extension Details of the .rpyc file extension The table below provides useful information about the .rpyc file extension. It answers questions such as: What is the . rpyc file? What program do I need to open a . rpyc file? How can the . rpyc file be opened, edited or printed? Where can I find the specificatio",
+        "distance": 0.17506693303585052
+      },
+      {
+        "id": 728,
+        "title": "Programming for Data Science Certificate Program",
+        "url": "http://www.statistics.com/programming-for-data-science",
+        "combined_text": "Programming for Data Science Certificate Program Programming for Data Science Certificate Program This program is for you if: You are a programmer and want to learn how to harness predictive models, machine learning algorithms, and statistical methods in your work You are an IT or database professional and looking to learn the programming tools fo",
+        "distance": 0.6712043881416321
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-3636639062210941726": {
+    "query_id": "-3636639062210941726",
+    "query": "openstudy expert answers moved to brainly",
+    "relevants": [
+      {
+        "relevant_doc": 144,
+        "relevant_url": "http://openstudy.com/updates/531fd808e4b0eb2c46cbb61d"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 97,
+        "title": "In the brain, where is memory located and how does it work?",
+        "url": "https://answers.yahoo.com/question/index?qid=20080522185434AATiGKk",
+        "combined_text": "In the brain, where is memory located and how does it work? \"Social Science Psychology In the brain, where is memory located and how does it work? Update: please add details! n the anatomy of it!Follow 5 answers Answers Relevance Rating Newest Oldest Best Answer: The memory of the human brain is an incredible phenomenon. Just think what you would accomplish",
+        "distance": 0.5364819169044495
+      },
+      {
+        "id": 2095,
+        "title": "Musical Creativity and the Brain",
+        "url": "http://www.creativitypost.com/arts/musical_creativity_and_the_brain",
+        "combined_text": "Musical Creativity and the Brain Musical Creativity and the Brain By Monica Lopez-Gonzalez, Ph. D. | Oct 02, 2012Share Synopsis Brain imaging studies reveal the neural underpinnings of spontaneous musical creativity. Improvisation activates brain areas associated with language and sensorimotor skills and deactivates areas at rest d",
+        "distance": 0.6395884156227112
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-1722490164219635750": {
+    "query_id": "-1722490164219635750",
+    "query": "how post 9/11 gi bill works",
+    "relevants": [
+      {
+        "relevant_doc": 4068,
+        "relevant_url": "http://www.youtube.com/watch?v=6wwzie29m5Y"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 4068,
+        "title": "Post 911 GI Bill Guide",
+        "url": "http://www.youtube.com/watch?v=6wwzie29m5Y",
+        "combined_text": "Post 911 GI Bill Guide Post 911 GI Bill Guide Veterans Health Administration Subscribe 19KAdd to Share More57,850 views1253Published on Jul 1, 2009Correspondent Ray Flores reviews the rules and regulations about to go into effect concerning the New GI Bill. (See http://www.gibill.va.gov/ for more information). See http://",
+        "distance": 0.36718299984931946
+      },
+      {
+        "id": 1055,
+        "title": "MEMBERS OF THE HAUPPAUGE FIRE DEPARTMENT IN ACTIVE MILITARY SERVICE",
+        "url": "http://www.hauppaugefiredepartment.org/",
+        "combined_text": "MEMBERS OF THE HAUPPAUGE FIRE DEPARTMENT IN ACTIVE MILITARY SERVICE Order Engraved 9/11 Memorial Bricks On Line We have added the ability to order and pay for an engraved 9/11 brick at our memorial. Simply click on the link, follow the instructions and you can leave a lasting tribute for a loved one. For more pictures, visit our 9/11 Memorial Page. NOW IS THE TIME T",
+        "distance": 0.6331114172935486
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7488813500445075342": {
+    "query_id": "7488813500445075342",
+    "query": "symbolic meanings of plants and flowers",
+    "relevants": [
+      {
+        "relevant_doc": 1697,
+        "relevant_url": "https://en.wikipedia.org/wiki/Plant_symbolism"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 756,
+        "title": "Flower Meanings and Symbolism",
+        "url": "https://www.ftd.com/blog/flower-meanings-and-symbolism",
+        "combined_text": "Flower Meanings and Symbolism Flower Meanings and Symbolism It seems like common knowledge that roses symbolize love, but have you ever wondered where flower meanings come from? Using flowers symbolically dates back to before the nineteenth century, but it wasn’t until the nineteenth century that floriography became formalized.",
+        "distance": 0.29547351598739624
+      },
+      {
+        "id": 4223,
+        "title": "What to Do With Dead Flowers?",
+        "url": "http://homeguides.sfgate.com/dead-flowers-61279.html",
+        "combined_text": "What to Do With Dead Flowers? Related Articles Do You Cut Off Dead Roses? What to Do With an Orchid After the Flowers Fall Off? Do You Trim Dead Ginger Lily Flowers? How to Cut Back Flowers to Produce More All flowers eventually wilt, their flush of beauty only temporary. Removing the old dead flowers properly can force a new fl",
+        "distance": 0.48940348625183105
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8521816923389527014": {
+    "query_id": "-8521816923389527014",
+    "query": "why is my Virgo mom jealous",
+    "relevants": [
+      {
+        "relevant_doc": 3811,
+        "relevant_url": "https://answers.yahoo.com/question/index?qid=20080220115431AA9B27m"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3811,
+        "title": "Virgos are controlling and are easily jealous?",
+        "url": "https://answers.yahoo.com/question/index?qid=20080220115431AA9B27m",
+        "combined_text": "Virgos are controlling and are easily jealous? \"Entertainment & Music Horoscopes Virgos are controlling and are easily jealous? My mom's a Virgo, I'm a Leo. I find that she is jealous easily.. even of me sometimes and she always wants to be the best in everything and if I did something wrong or even right she'll correct me in her terms. It's ver",
+        "distance": 0.2632710337638855
+      },
+      {
+        "id": 3534,
+        "title": "âI want to get back to my job, my grandkids, my life.â",
+        "url": "http://www.mypotentialrehab.org/",
+        "combined_text": "âI want to get back to my job, my grandkids, my life.â “I want to get back to my job, my grandkids, my life.”Discover my Potential Rehabilitation: A transformation in physical, occupational and speech therapy in Rockville, Md. There’s a new option for rehabilitation: a community with beautiful private rooms, concierge services, state-of-the-art capabili",
+        "distance": 0.6730290055274963
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-6958459838413686808": {
+    "query_id": "-6958459838413686808",
+    "query": "Tilton School community updates",
+    "relevants": [
+      {
+        "relevant_doc": 2529,
+        "relevant_url": "https://www.tiltonschool.org/page"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2529,
+        "title": "Tilton School News",
+        "url": "https://www.tiltonschool.org/page",
+        "combined_text": "Tilton School News Previous Next We Believe ... We are part of something bigger than ourselves Learn More We Believe ... We don't just educate, we ignite! Learn More",
+        "distance": 0.6566339135169983
+      },
+      {
+        "id": 1458,
+        "title": "Ferris Independent School District Educating Students. Enriching Lives.",
+        "url": "http://www.ferrisisd.org/",
+        "combined_text": "Ferris Independent School District Educating Students. Enriching Lives. \"Pause Prev Next Welcome Ferris ISD wants to welcome you to a new school year and a brand new web space for the Ferris ISD community. Ferris ISD replaces its previous website with a new web and e Learning platform that will bring our schools, students and teachers to forefront of the 21st century. O",
+        "distance": 0.7315235733985901
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8483226488300919671": {
+    "query_id": "-8483226488300919671",
+    "query": "how the body produces and expels urine",
+    "relevants": [
+      {
+        "relevant_doc": 2519,
+        "relevant_url": "https://archive.ahrq.gov/patients-consumers/prevention/understanding/bodysys/edbody3.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2519,
+        "title": "How Your Body Makes, Stores, and Releases Urine",
+        "url": "https://archive.ahrq.gov/patients-consumers/prevention/understanding/bodysys/edbody3.html",
+        "combined_text": "How Your Body Makes, Stores, and Releases Urine How Your Body Makes, Stores, and Releases Urine Understanding Your Body provides easy-to-understand explanations of body systems and disease conditions. This material can be used for patient education, life sciences curriculum development, or to enhance public understanding of general health concept",
+        "distance": 0.5786581635475159
+      },
+      {
+        "id": 4475,
+        "title": "Definitions &Translations",
+        "url": "http://www.definitions.net/definition/excretion",
+        "combined_text": "Definitions &Translations \"Princeton's Word Net (4.00 / 1 vote)Rate this definition:elimination, evacuation, excretion, excreting, voiding (noun)the bodily process of discharging waste matterbody waste, excretion, excreta, excrement, excretory product (noun)waste matter (as urine or sweat but especially feces) discharged fro",
+        "distance": 0.6013274788856506
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "178805479327638925": {
+    "query_id": "178805479327638925",
+    "query": "causes and symptoms of cognitive impairment",
+    "relevants": [
+      {
+        "relevant_doc": 4429,
+        "relevant_url": "https://www.emedicinehealth.com/cognitive_deficits/article_em.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 4429,
+        "title": "Cognitive Deficits",
+        "url": "https://www.emedicinehealth.com/cognitive_deficits/article_em.htm",
+        "combined_text": "Cognitive Deficits \"What are Cognitive Deficits or Intellectual Disabilities? Cognitive Deficits Causes Cognitive Deficits Symptoms When to Seek Medical Care for Cognitive Deficits Questions to Ask the Doctor about Cognitive Deficits Exams and Tests for Cognitive Deficits Self-Care at Home for Cognitive Deficits Medic",
+        "distance": 0.3732673227787018
+      },
+      {
+        "id": 2608,
+        "title": "ADHD Symptoms: Signs and Symptoms of ADHD",
+        "url": "http://www.healthyplace.com/adhd/adhd-children/adhd-symptoms-signs-and-symptoms-of-adhd/",
+        "combined_text": "ADHD Symptoms: Signs and Symptoms of ADHD ADHD Symptoms: Signs and Symptoms of ADHDSamantha Gluck Print Email Signs and symptoms of ADHD, frequently referred to as ADD, typically present prior to seven years of age and sometimes in children as young as two or three years old. ADHD, short for attention deficit hyperactivity disorder (see Wha",
+        "distance": 0.5302374362945557
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3928277577145730744": {
+    "query_id": "3928277577145730744",
+    "query": "how fracking lowered global oil prices",
+    "relevants": [
+      {
+        "relevant_doc": 2210,
+        "relevant_url": "http://www.americanthinker.com/articles/2014/12/fracking_drives_global_oil_prices_down.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2210,
+        "title": "Fracking Drives Global Oil Prices Down",
+        "url": "http://www.americanthinker.com/articles/2014/12/fracking_drives_global_oil_prices_down.html",
+        "combined_text": "Fracking Drives Global Oil Prices Down \"Archives Home → Articles Share|Twitter|Facebook|125 Comments|Print|Email December 13, 2014Fracking Drives Global Oil Prices Down By Jeffrey Folks One of the perennial arguments of the anti-fracking crowd has been that the shale revolution has failed to bring down oil prices. If the huge investment",
+        "distance": 0.22459575533866882
+      },
+      {
+        "id": 1191,
+        "title": "How Much Oil Does the World Have Left?",
+        "url": "https://www.forbes.com/sites/judeclemente/2015/06/25/how-much-oil-does-the-world-have-left/",
+        "combined_text": "How Much Oil Does the World Have Left? Jude Clemente Contributor I cover oil, gas, power, LNG markets, linking to human development Opinions expressed by Forbes Contributors are their own. Energy 6/25/2015 @ 9:05AM 178,926 views How Much Oil Does the World Have Left? The short answer to the question posed is….a lot. Or at least way more",
+        "distance": 0.583564817905426
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8060921921233403367": {
+    "query_id": "-8060921921233403367",
+    "query": "country formerly called Belorussia",
+    "relevants": [
+      {
+        "relevant_doc": 373,
+        "relevant_url": "http://encyclopedia2.thefreedictionary.com/Belarus'"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 373,
+        "title": "Belarus",
+        "url": "http://encyclopedia2.thefreedictionary.com/Belarus'",
+        "combined_text": "Belarus \"Belarus (redirected from Belarus') Also found in: Dictionary, Thesaurus . Belarusor Byelarus (both: byĕ'ləro͞os`), formerly Belorussia,officially Republic of Belarus, republic (2005 pop. 9,799,000), c.80,150 sq mi (207,600 sq km), E central Europe. It is sometimes called White Russia. Belarus borde",
+        "distance": 0.5348444581031799
+      },
+      {
+        "id": 3743,
+        "title": "Pregnancy Determination in the Bitch",
+        "url": "http://extension.missouri.edu/p/G9923",
+        "combined_text": "Pregnancy Determination in the Bitch Jeanette L. Floss College of Veterinary Medicine Females of most domestic species are sexually receptive (in heat or estrus) every 17 to 21 days. Failure to return to estrus after a successful breeding is often the earliest indication of pregnancy in these animals. In the bitch, the average interval",
+        "distance": 0.7577754259109497
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-2943148871383243377": {
+    "query_id": "-2943148871383243377",
+    "query": "career paths for marketing graduates",
+    "relevants": [
+      {
+        "relevant_doc": 8,
+        "relevant_url": "http://www.rasmussen.edu/degrees/business/blog/in-demand-jobs-you-can-do-with-a-marketing-degree/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 8,
+        "title": "7 Suitable Jobs in Marketing for Degree Holders",
+        "url": "http://www.rasmussen.edu/degrees/business/blog/in-demand-jobs-you-can-do-with-a-marketing-degree/",
+        "combined_text": "7 Suitable Jobs in Marketing for Degree Holders 7 Suitable Jobs in Marketing for Degree Holders By Callie Malvik on 1/24/2018 2 Comments Aside from what you may have seen watching Mad Men, jobs in marketing are not limited to making commercials, copywriting or even advertising for that matter. Today’s marketing majors go on to participate in a va",
+        "distance": 0.5539073348045349
+      },
+      {
+        "id": 2669,
+        "title": "Can I Become a Social Worker With a Degree in Psychology?",
+        "url": "http://www.bestpsychologydegrees.com/faq/can-i-become-a-social-worker-with-a-degree-in-psychology/",
+        "combined_text": "Can I Become a Social Worker With a Degree in Psychology? Psychology and social work are closely related fields, and many students who major in one discover they would like to work in the other. Fortunately, through more schooling, there are avenues for graduates with a degree in Psychology to make the switch to social work. * The CSWE-accredited online Ma",
+        "distance": 0.6612902879714966
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7580858449912732400": {
+    "query_id": "7580858449912732400",
+    "query": "name for fear of odors",
+    "relevants": [
+      {
+        "relevant_doc": 23,
+        "relevant_url": "https://www.verywell.com/what-is-the-fear-of-smells-2671896"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 23,
+        "title": "Osmophobia Is the Fear of Smells",
+        "url": "https://www.verywell.com/what-is-the-fear-of-smells-2671896",
+        "combined_text": "Osmophobia Is the Fear of Smells Phobias Types Osmophobia Is the Fear of Smells By Lisa Fritscher | Reviewed by Steven Gans, MDUpdated January 13, 2018Share Pin Email Print Phobias are a form of anxiety disorder. Peopleimages/Getty Images Osmophobia, defined in medical dictionaries as a morbid fear of smells, is relatively rare as",
+        "distance": 0.3500269949436188
+      },
+      {
+        "id": 662,
+        "title": "What is the speed of smell?",
+        "url": "http://www.smh.com.au/news/Big-Questions/What-is-the-speed-of-smell/2005/02/17/1108609334747.html",
+        "combined_text": "What is the speed of smell? \"FILM TV & RADIO MUSIC ARTS BOOKS FASHION GOOD LIVING PEOPLEWhat is the speed of smell? February 19, 2005The olfactory nerve, a large sensory nerve at the top of the inside of the nose, has receptors sensitive to chemicals in the air (the \"\"smells\"\" we perceive), and these sensations are registered",
+        "distance": 0.5677852034568787
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "2157980351713291793": {
+    "query_id": "2157980351713291793",
+    "query": "how air pollution harms animals and plants",
+    "relevants": [
+      {
+        "relevant_doc": 2751,
+        "relevant_url": "https://www.reference.com/science/air-pollution-problem-e8a20c4e6ef70f80"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2751,
+        "title": "Why Is Air Pollution a Problem?",
+        "url": "https://www.reference.com/science/air-pollution-problem-e8a20c4e6ef70f80",
+        "combined_text": "Why Is Air Pollution a Problem? Science Environmental Science Pollution Q: Why Is Air Pollution a Problem? A: Quick Answer Air pollution is a problem because it can cause damage to animals, trees, plants, crops and water sources in the environment. Pollution in the air causes problems for aviation because it reduces visibility, wh",
+        "distance": 0.2837536633014679
+      },
+      {
+        "id": 1825,
+        "title": "How did China become so polluted?",
+        "url": "http://www.answers.com/Q/How_did_China_become_so_polluted",
+        "combined_text": "How did China become so polluted? Answers.com ® Wiki Answers ® Categories Science Biology Ecology and Bionomics Environmental Issues Pollution Air Pollution How did China become so polluted? Flag How did China become so polluted? Answer by Eddiequest Confidence votes 96Generally two reasons. The first has to do with insufficient pop",
+        "distance": 0.5189430713653564
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-9051830841868192882": {
+    "query_id": "-9051830841868192882",
+    "query": "luxury adults resort cap cana punta cana",
+    "relevants": [
+      {
+        "relevant_doc": 2952,
+        "relevant_url": "http://travel.usnews.com/Hotels/review-Sanctuary_Cap_Cana_a_Salamander_Hotel-Punta_Cana-Dominican_Republic-88459/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2952,
+        "title": "Sanctuary Cap Cana by Playa Hotels and Resorts",
+        "url": "http://travel.usnews.com/Hotels/review-Sanctuary_Cap_Cana_a_Salamander_Hotel-Punta_Cana-Dominican_Republic-88459/",
+        "combined_text": "Sanctuary Cap Cana by Playa Hotels and Resorts Hotels Caribbean Punta Cana Area Hotels Sanctuary Cap Cana... Sanctuary Cap Cana by Playa Hotels and Resorts Boulevard Zona Hotelera, Cap Cana | Punta Cana, Dominican Republic 23000 [See Map]#7 in Best Punta Cana Hotels [See Punta Cana Travel Guide]MOREView all 145 Photos",
+        "distance": 0.15375855565071106
+      },
+      {
+        "id": 3819,
+        "title": "Punta Cana: Weather forecast in July",
+        "url": "https://www.easyvoyage.co.uk/weather-forecast/dominican-republic/punta-cana/july",
+        "combined_text": "Punta Cana: Weather forecast in July Punta Cana : Preparing for your trip Compare flights Compare hotels Holiday deals Dominican Republic : Useful information Travel Advice What to see Culture Blogs Weather Forecast cities Cap Cana in July Bayahibe in July Travel Guides Dominican Republic Punta Cana Want to organise your holiday in Pun",
+        "distance": 0.3251385986804962
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-2750262860795223233": {
+    "query_id": "-2750262860795223233",
+    "query": "do yucca plants have taproots",
+    "relevants": [
+      {
+        "relevant_doc": 1935,
+        "relevant_url": "http://homeguides.sfgate.com/type-root-system-yucca-plants-have-48196.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1935,
+        "title": "What Type of Root System Do Yucca Plants Have?",
+        "url": "http://homeguides.sfgate.com/type-root-system-yucca-plants-have-48196.html",
+        "combined_text": "What Type of Root System Do Yucca Plants Have? \"Related Articles How to Dig Up a Yucca How to Kill Yucca Plants So That They Don't Grow Back How to Transplant Yuccas What Are Side Shoots on Yucca Plants For? All the many species of yucca (Yucca spp.) are drought-tolerant plants from arid areas. Their ability to survive drought and thrive in arid",
+        "distance": 0.27579614520072937
+      },
+      {
+        "id": 801,
+        "title": "People who live closest to Yucca Mountain weigh in on whether to build nuclear waste dump",
+        "url": "https://lasvegassun.com/news/2015/sep/07/people-who-live-cloest-yucca-mountain-weigh-whethe/",
+        "combined_text": "People who live closest to Yucca Mountain weigh in on whether to build nuclear waste dump People who live closest to Yucca Mountain weigh in on whether to build nuclear waste dump Steve Marcus A view of Yucca Mountain, center, as seen from Amagosa Valley town offices Thursday, Aug. 27, 2015. By Kyle Roerink Monday, Sept. 7, 2015 | 2 a.m. Revisiting Yucca Mountain Launch slideshow »Accord",
+        "distance": 0.48689255118370056
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-2250701850670836178": {
+    "query_id": "-2250701850670836178",
+    "query": "average salary for 30 year old physician",
+    "relevants": [
+      {
+        "relevant_doc": 833,
+        "relevant_url": "http://www.answers.com/Q/What_is_the_Average_salary_of_of_30_year_old_MBA_graduate"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 833,
+        "title": "What is the average net salary per year for a 30 year old medical doctor?",
+        "url": "http://www.answers.com/Q/What_is_the_Average_salary_of_of_30_year_old_MBA_graduate",
+        "combined_text": "What is the average net salary per year for a 30 year old medical doctor? What is the average net salary per year for a 30 year old medical doctor? Assuming you mean an internal medicine or family practice physician, a couple years out of residency. Probably about $120,000 to $140,000 a year as a group-practice employed p …What is the average salary of a graduate student",
+        "distance": 0.2848418056964874
+      },
+      {
+        "id": 1070,
+        "title": "How Much Money Do Doctors Make?",
+        "url": "http://moneynation.com/how-much-money-do-doctors-make/",
+        "combined_text": "How Much Money Do Doctors Make? How Much Money Do Doctors Make? Tom Gerencer Apr 5, 2016How much money do doctors make? $645,000 is the highest doctor pay we’ve seen. $187,000 is the national median doctor pay and $180,000 to $400,000 is a solid range. That range depends heavily on specialty. It’s tough to answer the question, “Ho",
+        "distance": 0.6044155955314636
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-3228372803544343969": {
+    "query_id": "-3228372803544343969",
+    "query": "Dubois County town with monastery",
+    "relevants": [
+      {
+        "relevant_doc": 596,
+        "relevant_url": "https://en.wikipedia.org/wiki/Ferdinand,_Indiana"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 596,
+        "title": "Ferdinand, Indiana",
+        "url": "https://en.wikipedia.org/wiki/Ferdinand,_Indiana",
+        "combined_text": "Ferdinand, Indiana \"Ferdinand, Indiana From Wikipedia, the free encyclopedianavigation search Ferdinand, Indiana Town Monastery Immaculate Conception Location of Ferdinand in Dubois County, Indiana. Coordinates: 38°13′31″N 86°51′40″WCoordinates: 38°13′31″N 86°51′40″WCountry United States State Indiana County Dubois To",
+        "distance": 0.603345513343811
+      },
+      {
+        "id": 4184,
+        "title": "Stellenbosch - town and university",
+        "url": "http://www0.sun.ac.za/ac21/about/stellenbosch-town-and-university.html",
+        "combined_text": "Stellenbosch - town and university \"Stellenbosch - town and university About the town Stellenbosch is a town in the Western Cape province of South Africa, situated about 50 kilometres east of Cape Town. It is the second oldest European settlement in the province, after Cape Town. The town became known as the City of Oaks or \"\"Eikesta",
+        "distance": 0.6664382219314575
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3997468908414850968": {
+    "query_id": "3997468908414850968",
+    "query": "mira loma ca demographics and map",
+    "relevants": [
+      {
+        "relevant_doc": 4031,
+        "relevant_url": "http://www.city-data.com/city/Mira-Loma-California.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 4031,
+        "title": "Mira Loma, California",
+        "url": "http://www.city-data.com/city/Mira-Loma-California.html",
+        "combined_text": "Mira Loma, California Follow city-data.com founder on our Forum or@Lech Mazur Mira Loma, Californiaadd your We are giving away $1200 in prizes - enter simply by sending us your own city pictures! See promotion details and to upload your Mira Loma, California photos OSM Map General Map Google Map MSN Map54°F10 miles Wind:",
+        "distance": 0.2628557085990906
+      },
+      {
+        "id": 593,
+        "title": "Population of Los Angeles County, California: Census 2010 and 2000 Interactive Map, Demographics, Statistics, Graphs, Quick Facts",
+        "url": "http://censusviewer.com/county/CA/Los%20Angeles",
+        "combined_text": "Population of Los Angeles County, California: Census 2010 and 2000 Interactive Map, Demographics, Statistics, Graphs, Quick Facts \"Population of Los Angeles County, California: Census 2010 and 2000 Interactive Map, Demographics, Statistics, Graphs, Quick Facts Compare population statistics about Los Angeles County, CA by race, age, gender, Latino/Hispanic origin etc. Census Viewer delivers detailed demographics and population",
+        "distance": 0.5485766530036926
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7537332659874316654": {
+    "query_id": "7537332659874316654",
+    "query": "Purdue new student orientation week",
+    "relevants": [
+      {
+        "relevant_doc": 3660,
+        "relevant_url": "http://www.purdue.edu/studentsuccess/orientation/bgr/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3660,
+        "title": "Boiler Gold Rush",
+        "url": "http://www.purdue.edu/studentsuccess/orientation/bgr/",
+        "combined_text": "Boiler Gold Rush Boiler Gold Rush Boiler Gold Rush (BGR) takes place the week before fall classes begin, and Purdue encourages all incoming students to take part. You’ll learn about campus traditions, Purdue culture and University resources. It’s also a great chance to make lasting friendships and learn how to be a",
+        "distance": 0.4866647720336914
+      },
+      {
+        "id": 832,
+        "title": "Current Students",
+        "url": "http://students.uci.edu/",
+        "combined_text": "Current Students Current Students Student Life Student Life & Leadership Campus Recreation New Student Handbook Clubs and Organizations UCI Athletics Fraternities and Sororities Bren Events Center Student Government & Student Media KUCI 88.9 FMStudent Affairs New University (student newspaper)Anthology Yearbook Free",
+        "distance": 0.5788426995277405
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-2727800504806145058": {
+    "query_id": "-2727800504806145058",
+    "query": "how long do hepatitis viruses survive on surfaces",
+    "relevants": [
+      {
+        "relevant_doc": 3392,
+        "relevant_url": "https://answers.webmd.com/answers/1180240/how-long-can-hepatitis-a-b"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3392,
+        "title": "How long can hepatitis A, B, and C survive outside the body?",
+        "url": "https://answers.webmd.com/answers/1180240/how-long-can-hepatitis-a-b",
+        "combined_text": "How long can hepatitis A, B, and C survive outside the body? Posted: September 20, 2009 | Report This |Q. How long can hepatitis A, B, and C survive outside the body? Related Topics: Hepatitis AFollow Question Answers From Experts & Organizations (1)Web MD7,995 Answers 404,961 Helpful Votes 428 Followers A. Hepatitis A virus can live outside the body for mont",
+        "distance": 0.40979623794555664
+      },
+      {
+        "id": 3522,
+        "title": "Ebola virus disease",
+        "url": "https://medlineplus.gov/ency/article/001339.htm",
+        "combined_text": "Ebola virus disease You Are Here: Home → Medical Encyclopedia → Ebola virus disease Ebola virus disease Ebola is a severe and often deadly disease caused by a virus. Symptoms include fever, diarrhea, vomiting, bleeding, and often, death. Ebola can occur in humans and other primates (gorillas, monkeys, and chimpanzees).",
+        "distance": 0.6163853406906128
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7568743804910022423": {
+    "query_id": "7568743804910022423",
+    "query": "how animals fertilize eggs internally or externally",
+    "relevants": [
+      {
+        "relevant_doc": 2442,
+        "relevant_url": "http://www.answers.com/Q/What_is_the_difference_between_external_fertilization_and_internal_fertilization"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1082,
+        "title": "Can more than one egg be released during ovulation?",
+        "url": "https://www.sharecare.com/health/womens-health/more-egg-released-during-ovulation",
+        "combined_text": "Can more than one egg be released during ovulation? Honor Society of Nursing (STTI)Administration Sometimes during ovulation a woman releases two or even more mature eggs. If all the eggs are fertilized, the woman may have a multiple birth, usually twins. Often, when two eggs are fertilized, one disappears very early in the pregnancy and only a singl",
+        "distance": 0.5145793557167053
+      },
+      {
+        "id": 2442,
+        "title": "What is the difference between external fertilization and internal fertilization?",
+        "url": "http://www.answers.com/Q/What_is_the_difference_between_external_fertilization_and_internal_fertilization",
+        "combined_text": "What is the difference between external fertilization and internal fertilization? Answers.com ® Wiki Answers ® Categories Science Biology What is the difference between external fertilization and internal fertilization? Flag What is the difference between external fertilization and internal fertilization? Answer by Don Dfoofnik Confidence votes 231KThere are three kinds of answer",
+        "distance": 0.5520114898681641
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3293206362840978933": {
+    "query_id": "3293206362840978933",
+    "query": "persuasive writing techniques and devices",
+    "relevants": [
+      {
+        "relevant_doc": 3889,
+        "relevant_url": "http://www.slideserve.com/dasan/persuasion-and-rhetorical-devices"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3889,
+        "title": "Persuasion and Rhetorical Devices - PowerPoint PPT Presentation",
+        "url": "http://www.slideserve.com/dasan/persuasion-and-rhetorical-devices",
+        "combined_text": "Persuasion and Rhetorical Devices - PowerPoint PPT Presentation \"Download1 / 24Persuasion and Rhetorical Devices - Power Point PPT Presentation By dasan Follow User754 Views Uploaded on Dec 31, 2012Description Statistics Report Persuasion and Rhetorical Devices. Nonfiction Unit And Persuasive Speeches and Essays. PERSUASION. Persuasion is used when the writer or",
+        "distance": 0.45974427461624146
+      },
+      {
+        "id": 3278,
+        "title": "Ethos-Pathos-Logos-The-3-Rhetorical-Appeals",
+        "url": "http://georgehwilliams.pbworks.com/w/page/14266873/Ethos-Pathos-Logos-The-3-Rhetorical-Appeals",
+        "combined_text": "Ethos-Pathos-Logos-The-3-Rhetorical-Appeals \"Ethos-Pathos-Logos-The-3-Rhetorical-Appeals Page history last edited by George H. Williams 3 years, 1 month ago\"\"Part 1\"\" of the Norton Field Guide to Writing covers the concept of \"\"Rhetorical Situations\"\" (1-17). Whenever we write, whether it's an email to a friend or a toast for a wedding, an En",
+        "distance": 0.6516956090927124
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7301166984051868469": {
+    "query_id": "7301166984051868469",
+    "query": "meaning of appropriate behavior",
+    "relevants": [
+      {
+        "relevant_doc": 4403,
+        "relevant_url": "http://www.thefreedictionary.com/decorum"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 923,
+        "title": "behaviorism",
+        "url": "http://medical-dictionary.thefreedictionary.com/Behaviorist+psychology",
+        "combined_text": "behaviorism \"behaviorism (redirected from Behaviorist psychology) Also found in: Dictionary, Thesaurus, Legal, Encyclopedia. Related to Behaviorist psychology: behaviourism, cognitive psychologybehavior [ be-hāv´yer] the observable responses, actions, or activities of someone. adj., adj behav´ioral.adaptive beh",
+        "distance": 0.4740418791770935
+      },
+      {
+        "id": 895,
+        "title": "Social Psychology",
+        "url": "http://www.psypress.co.uk/smithandmackie/resources/topic.asp?topic=ch08-tp-02",
+        "combined_text": "Social Psychology Chapter 8: Guiding actions with attitudes ( pp. 290–303)Ask Yourself? When do attitudes influence behavior directly, and when do they influence behavior with more consideration and extensive thought? How are attitudes made accessible? What should attitudes be if they are to guide behavior? In this t",
+        "distance": 0.5266000628471375
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7565228121740254398": {
+    "query_id": "7565228121740254398",
+    "query": "nfl shop contact number and hours",
+    "relevants": [
+      {
+        "relevant_doc": 1029,
+        "relevant_url": "https://gethuman.com/phone-number/NFL-Shop"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1029,
+        "title": "NFL Shop Phone Number",
+        "url": "https://gethuman.com/phone-number/NFL-Shop",
+        "combined_text": "NFL Shop Phone Number \"NFL Shop Phone Number877-635-7467Customer service Current Wait: 23 mins (13 mins avg)Hours: 24 hours, 7 days Best time to call: 8:15am Ranked #1 of 1 contact options Contacting NFL Shop3,808 customers like this number NFL Shop customer service What's the issue? Get talking points and pro tips befor",
+        "distance": 0.2503724694252014
+      },
+      {
+        "id": 1945,
+        "title": "Contact Us",
+        "url": "https://www.zen.co.uk/support/contact-us.aspx",
+        "combined_text": "Contact Us \"Help & Support Contact Us Contact Us If your query does not relate to a technical issue please use these contact details. Need help? There are a number of options you can choose to find the help you need: Check our Help & Support site for \"\"how to\"\" guides and troubleshooting advice. Search the Kno",
+        "distance": 0.5842362642288208
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4889617090485003828": {
+    "query_id": "-4889617090485003828",
+    "query": "how calcium reacts in water",
+    "relevants": [
+      {
+        "relevant_doc": 393,
+        "relevant_url": "http://www.lenntech.com/periodic/water/calcium/calcium-and-water.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 393,
+        "title": "Calcium (Ca) and water",
+        "url": "http://www.lenntech.com/periodic/water/calcium/calcium-and-water.htm",
+        "combined_text": "Calcium (Ca) and water Home Periodic table Elements and water Calcium in water (Ca + H2O)Calcium (Ca) and water Calcium and water: reaction mechanisms, environmental impact and health effects Calcium occurs in water naturally. Seawater contains approximately 400 ppm calcium. One of the main reasons for the abundance of ca",
+        "distance": 0.208725243806839
+      },
+      {
+        "id": 3804,
+        "title": "What happens when zinc reacts with water?",
+        "url": "http://www.answers.com/Q/What_happens_when_zinc_reacts_with_water",
+        "combined_text": "What happens when zinc reacts with water? Answers.com ® Wiki Answers ® Categories Science Chemistry Elements and Compounds Metal and Alloys What happens when zinc reacts with water? Flag What happens when zinc reacts with water? Answer by Ponyshine Confidence votes 2.2KZn does not reacts with water ... Elementary zinc does not react with wa",
+        "distance": 0.5074714422225952
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-9110012042961997359": {
+    "query_id": "-9110012042961997359",
+    "query": "how early can I get an ultrasound",
+    "relevants": [
+      {
+        "relevant_doc": 3859,
+        "relevant_url": "http://www.answers.com/Q/How_soon_can_a_pregnant_women_do_a_ultrasound"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3859,
+        "title": "How soon can a pregnant women do a ultrasound?",
+        "url": "http://www.answers.com/Q/How_soon_can_a_pregnant_women_do_a_ultrasound",
+        "combined_text": "How soon can a pregnant women do a ultrasound? Answers.com ® Wiki Answers ® Categories Health Sexual Health and Education Pregnancy Pregnancy Health and Safety (Prenatal Care) Checkups and Tests During Pregnancy Ultrasounds How soon can a pregnant women do a ultrasound? Flag How soon can a pregnant women do a ultrasound? Answered by The Wiki Ans",
+        "distance": 0.4456712305545807
+      },
+      {
+        "id": 3021,
+        "title": "How Much Does an Ultrasound Technician Make Hourly?",
+        "url": "http://www.ehow.com/facts_5037804_much-ultrasound-technician-make-hourly_.html",
+        "combined_text": "How Much Does an Ultrasound Technician Make Hourly? Home » Salary Insights » More Salary Information How Much Does an Ultrasound Technician Make Hourly? By Anthony Oster; Updated July 05, 2017monkeybusinessimages/i Stock/Getty Images There are many factors contributing to the hourly salary of ultrasound technicians, also known as medical diagnostic s",
+        "distance": 0.514382541179657
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "527610165995085698": {
+    "query_id": "527610165995085698",
+    "query": "could general petraeus be president",
+    "relevants": [
+      {
+        "relevant_doc": 1425,
+        "relevant_url": "http://www.telegraph.co.uk/news/worldnews/northamerica/usa/7549797/David-Petraeus-for-President-Run-General-run.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1425,
+        "title": "David Petraeus for President: Run General, run",
+        "url": "http://www.telegraph.co.uk/news/worldnews/northamerica/usa/7549797/David-Petraeus-for-President-Run-General-run.html",
+        "combined_text": "David Petraeus for President: Run General, run \"David Petraeus for President: Run General, run With many voters yearning for an outsider, and military officers looked up to, General David Petraeus could be a powerful presidential candidate and a potentially accomplished President. General David Petraeus Photo: APToby Harnden's American Way4:29PM",
+        "distance": 0.19896136224269867
+      },
+      {
+        "id": 2936,
+        "title": "CRS Annotated Constitution",
+        "url": "https://www.law.cornell.edu/anncon/html/art1frag29_user.html",
+        "combined_text": "CRS Annotated Constitution CRS Annotated Constitutionauthorship constitution textsearch CRS Annotated Constitution Article I -- Table of Contents Prev | Next SPENDING FOR THE GENERAL WELFAREScope of the Power The grant of power to “provide . . . for the general welfare” raises a two–fold question: How may Congress provide for",
+        "distance": 0.7748444080352783
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-6063928610704777619": {
+    "query_id": "-6063928610704777619",
+    "query": "animal farm analysis corruption of ideals",
+    "relevants": [
+      {
+        "relevant_doc": 626,
+        "relevant_url": "http://www.englishworks.com.au/animal-farm/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 626,
+        "title": "Animal Farm",
+        "url": "http://www.englishworks.com.au/animal-farm/",
+        "combined_text": "Animal Farm Animal Farm The Trouble from Within: Animal Farm (George Orwell) by Dr Jennifer Minter (English Works Notes)In Animal Farm, George Orwell depicts a “utopian” society based on the principles of “Animalism” that promises harmony and equality among the animals. Led by the pigs, the animals overthrow th",
+        "distance": 0.4297559857368469
+      },
+      {
+        "id": 2606,
+        "title": "The impact of land corruption on women: insights from Africa",
+        "url": "http://action.transparency.org/",
+        "combined_text": "The impact of land corruption on women: insights from Africa Corruption Perceptions Index 2017This year’s Corruption Perceptions Index highlights that the majority of countries are making little or no progress in ending corruption, while journalists and activists in corrupt countries risk their lives every day in an effort to speak out. Read More#18IACC: Call",
+        "distance": 0.6242883205413818
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8434186437786212134": {
+    "query_id": "-8434186437786212134",
+    "query": "transcendentalism and utopian movements apush",
+    "relevants": [
+      {
+        "relevant_doc": 3778,
+        "relevant_url": "https://prezi.com/ysfjgpgatsaw/utopia-and-transcendentalism-apush-per-5/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3778,
+        "title": "Utopia and Transcendentalism APUSH Per 5",
+        "url": "https://prezi.com/ysfjgpgatsaw/utopia-and-transcendentalism-apush-per-5/",
+        "combined_text": "Utopia and Transcendentalism APUSH Per 5 Public & reusable Create your own Make a copy Share Embed Like Utopia and Transcendentalism APUSH Per 5No descriptionby Begimai Djanybek Kyzyon 12 November 2014Tweet Comments ( 0)Please log in to add your comment. Report abuse Transcript of Utopia and Transcendentalism APUSH Per 5A utopia is a perfe",
+        "distance": 0.32400718331336975
+      },
+      {
+        "id": 3424,
+        "title": "APUSH Ch 11, 12, & 13 Terms",
+        "url": "https://quizlet.com/8448930/apush-ch-11-12-13-terms-flash-cards/",
+        "combined_text": "APUSH Ch 11, 12, & 13 Terms \"125 terms Alohh APUSH Ch 11, 12, & 13 Terms Learn Flashcards Write Spell Test Match Gravity Advertisement Upgrade to remove ads Sortadvantages of technological progress Democratic, did the work of people without consuming food or clothing, lowered commodity prices, raised standards of living for Am",
+        "distance": 0.6527469158172607
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4621993978583757139": {
+    "query_id": "-4621993978583757139",
+    "query": "tactical plan to seize objectives",
+    "relevants": [
+      {
+        "relevant_doc": 2022,
+        "relevant_url": "http://encyclopedia2.thefreedictionary.com/scheme+of+maneuver"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 4102,
+        "title": "tactical- definition and synonyms",
+        "url": "http://www.macmillandictionary.com/dictionary/british/tactical",
+        "combined_text": "tactical- definition and synonyms Show lesstactical- definition and synonyms Using the thesaurusadjective/ ˈtæktɪk (ə)l /Contribute to our Open Dictionary Other entries for this word1 a tactical action is one that you do as part of a plan for achieving what you want Getting the trial postponed was a tactical victory.a tactical error",
+        "distance": 0.5770370960235596
+      },
+      {
+        "id": 2022,
+        "title": "scheme of maneuver",
+        "url": "http://encyclopedia2.thefreedictionary.com/scheme+of+maneuver",
+        "combined_text": "scheme of maneuver \"scheme of maneuver Also found in: Dictionary, Acronyms .scheme of maneuver [ ′skēm əv mə′nü·vər] (ordnance)The tactical plan to be executed by a force in order to seize assigned objectives. Mc Graw-Hill Dictionary of Scientific & Technical Terms, 6E, Copyright © 2003 by The Mc Graw-Hill Companies,",
+        "distance": 0.6312297582626343
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "4728060143422965732": {
+    "query_id": "4728060143422965732",
+    "query": "calculate co2 flow for grow room",
+    "relevants": [
+      {
+        "relevant_doc": 859,
+        "relevant_url": "https://hydrofarm.com/resources/co2calc.php"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 859,
+        "title": "CO 2 Flow Rate Calculator",
+        "url": "https://hydrofarm.com/resources/co2calc.php",
+        "combined_text": "CO 2 Flow Rate Calculator » Resources » CO 2Flow Rate Calculator CO 2 Flow Rate Calculator Use the calculator below to determine the optimum CO 2 flow rate for your room. Note: The calculator makes the following assumptions: Optimum enriched CO 2 level is 1500 ppm (adjustable)Existing CO 2 level is 300 ppm (adjustable)CO 2 l",
+        "distance": 0.6209701895713806
+      },
+      {
+        "id": 1905,
+        "title": "What percent of the atmosphere is C02?",
+        "url": "https://answers.yahoo.com/question/index?qid=20101231121650AAYxD28",
+        "combined_text": "What percent of the atmosphere is C02? \"Environment Global Warming What percent of the atmosphere is C02? What percent of the atmosphere is man made C02? What percent of the man made C02 in the atmosphere do advocates of AGW think can be realistically eliminated? Using AGW models, what would be the effect of this action and what would be",
+        "distance": 0.6375491619110107
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "414653173089963864": {
+    "query_id": "414653173089963864",
+    "query": "thrianta rabbit care guide",
+    "relevants": [
+      {
+        "relevant_doc": 227,
+        "relevant_url": "http://rabbitbreeders.us/thrianta-rabbits"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 227,
+        "title": "Thrianta Rabbits",
+        "url": "http://rabbitbreeders.us/thrianta-rabbits",
+        "combined_text": "Thrianta Rabbits Thrianta Rabbits Learn more about the Thrianta Rabbit Breed. Discover cool facts, pictures, resources and find information about caring for Thrianta Rabbits. This rabbit breed information page is part of our rabbit breeds article series. Thrianta Rabbit Resource Links: Free Rabbit Breeders Newslette",
+        "distance": 0.2201128602027893
+      },
+      {
+        "id": 21,
+        "title": "Bad Rabbits",
+        "url": "https://en.wikipedia.org/wiki/Bad_Rabbits",
+        "combined_text": "Bad Rabbits \"From Wikipedia, the free encyclopedianavigation search This article is about the band. For ransomware, see Bad Rabbit. This article relies too much on references to primary sources. Please improve this by adding secondary or tertiary sources. (November 2011) ( Learn how and when to remove this temp",
+        "distance": 0.6781929731369019
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7893435924704222498": {
+    "query_id": "7893435924704222498",
+    "query": "what nutrients are in tomatoes",
+    "relevants": [
+      {
+        "relevant_doc": 1018,
+        "relevant_url": "http://healthyeating.sfgate.com/tomatoes-lipids-carbs-protein-1500.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1018,
+        "title": "Do Tomatoes Have Lipids, Carbs or Protein?",
+        "url": "http://healthyeating.sfgate.com/tomatoes-lipids-carbs-protein-1500.html",
+        "combined_text": "Do Tomatoes Have Lipids, Carbs or Protein? Related Articles Do Apples Have Lots of Carbs? Can You Get Enough Protein From Beans? How Much Protein in a Large Baking Potato? Tomatoes & Low-Carb Diets Tomatoes are a nutrient-dense food, meaning they are jam-packed with nutrients, but don't have a lot of calories. Lipids, carbs and protein are t",
+        "distance": 0.4502437114715576
+      },
+      {
+        "id": 2884,
+        "title": "Vitamins and Minerals to Aid in Digestion",
+        "url": "http://getfit.jillianmichaels.com/vitamins-minerals-aid-digestion-2046.html",
+        "combined_text": "Vitamins and Minerals to Aid in Digestion \"Related Articles What Vitamins Are Not Fat Soluble? Why Is Vitamin B Important? Should Potassium, Magnesium, Calcium & Vitamin D Be Taken Together? The Better Source of Energy: Protein or Carbs? What Are Fast & Slow Carbohydrates? Enzymes in the Human Digestive System Vitamins and minerals are esse",
+        "distance": 0.6822935342788696
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3801148116907132668": {
+    "query_id": "3801148116907132668",
+    "query": "how light and electron microscopes differ",
+    "relevants": [
+      {
+        "relevant_doc": 3429,
+        "relevant_url": "http://www.ivyroses.com/Biology/Techniques/light-microscope-vs-electron-microscope.php"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3429,
+        "title": "Light Microscope vs Electron Microscope",
+        "url": "http://www.ivyroses.com/Biology/Techniques/light-microscope-vs-electron-microscope.php",
+        "combined_text": "Light Microscope vs Electron Microscope \"Light Microscope vs Electron Microscope Both light microscopes and electron microscopes use radiation (light or electron beams) to form larger and more detailed images of objects (e.g. biological specimens, materials, crystal structures, etc.) than the human eye can produce unaided. (See also: What",
+        "distance": 0.14921987056732178
+      },
+      {
+        "id": 3300,
+        "title": "What Is Visible Light?",
+        "url": "http://www.livescience.com/50678-visible-light.html",
+        "combined_text": "What Is Visible Light? \"Live Science Planet Earth Reference: What Is Visible Light? By Jim Lucas, Live Science Contributor | April 30, 2015 01:21am ETMOREA prism can break white light up into the visible light spectrum. Credit: NASAVisible light is a form of electromagnetic (EM) radiation, as are radio waves, infrared rad",
+        "distance": 0.5078350305557251
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-2356477815973324197": {
+    "query_id": "-2356477815973324197",
+    "query": "energy needed for phase change",
+    "relevants": [
+      {
+        "relevant_doc": 841,
+        "relevant_url": "http://www.answers.com/Q/What_is_latent_heat"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2836,
+        "title": "What transforms electrical energy into mechanical energy?",
+        "url": "http://www.answers.com/Q/What_transforms_electrical_energy_into_mechanical_energy",
+        "combined_text": "What transforms electrical energy into mechanical energy? \"Answers.com ® Wiki Answers ® Categories Science Physics What transforms electrical energy into mechanical energy? Flag What transforms electrical energy into mechanical energy? Answer by Quirkyquantummechanic Confidence votes 96.6KAn electric motor transforms electrical energy into mechanical energ",
+        "distance": 0.5756927728652954
+      },
+      {
+        "id": 3501,
+        "title": "Solar Energy Development Environmental Considerations",
+        "url": "http://www.solareis.anl.gov/guide/environment/",
+        "combined_text": "Solar Energy Development Environmental Considerations Solar Energy Guide Utility-Scale Solar Energy Electric Transmission Solar Energy Environmental Considerations Photos Links Subscribe Enter your e-mail address below to receive updates and announcements.more info >Solar Energy Development Environmental Considerations Utility-scale solar energy enviro",
+        "distance": 0.5980218052864075
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-7858183005908332305": {
+    "query_id": "-7858183005908332305",
+    "query": "dowling family tree search",
+    "relevants": [
+      {
+        "relevant_doc": 2780,
+        "relevant_url": "http://wc.rootsweb.ancestry.com/cgi-bin/igm.cgi?op=SRCH&db=dowfam3&surname=M"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2780,
+        "title": "Dowling Family Genealogy",
+        "url": "http://wc.rootsweb.ancestry.com/cgi-bin/igm.cgi?op=SRCH&db=dowfam3&surname=M",
+        "combined_text": "Dowling Family Genealogy DISCOVER MORE >Home Searches Family Trees Mailing Lists Message Boards Web Sites Passwords Help Dowling Family Genealogy Entries: 615557 Updated: 2015-08-06 18:52:09 UTC (Thu) Owner: Home Page: Dowling Family Genealogy Note: You will leave Roots Web Enter surname OR surname, given to find: Advanced",
+        "distance": 0.3474471867084503
+      },
+      {
+        "id": 3488,
+        "title": "Using the Family Tree DNA (FTDNA) Resources",
+        "url": "https://www.worldfamilies.net/usingftdna",
+        "combined_text": "Using the Family Tree DNA (FTDNA) Resources \"Using the Family Tree DNA (FTDNA) Resources We can help you navigate Family Tree DNA's website!Click here for an FTDNA Site Map Family Tree DNA (FTDNA) created the concept of Genetic Genealogy in 2000 and has been the industry leader since the beginning. They are the leading DNA testing company for",
+        "distance": 0.5197792649269104
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "6334427552114767081": {
+    "query_id": "6334427552114767081",
+    "query": "how gamification affects online communities",
+    "relevants": [
+      {
+        "relevant_doc": 1489,
+        "relevant_url": "https://community.lithium.com/t5/Science-of-Social-Blog/What-is-Gamification-Really/ba-p/30447"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 458,
+        "title": "Top 10 Crowdfunding Sites for Nonprofits",
+        "url": "http://www.crowdcrux.com/top-10-crowdfunding-sites-for-nonprofits/",
+        "combined_text": "Top 10 Crowdfunding Sites for Nonprofits Home • Free Intro Crowdfunding Course Top 10 Crowdfunding Sites for Nonprofits Published by Salvador Briggman. Find him on Twitter . New!!! Check out the Nonprofit Crowdfunding Guide on Amazon Crowdfunding for social causes is quickly gaining in popularity. These sites are redefining how NGOs, non-p",
+        "distance": 0.61927729845047
+      },
+      {
+        "id": 1489,
+        "title": "CommunityProduct Hubs Blogs Discussions Knowledge & Support Dev Network Lithium JX AboutCommunitySign In Help",
+        "url": "https://community.lithium.com/t5/Science-of-Social-Blog/What-is-Gamification-Really/ba-p/30447",
+        "combined_text": "CommunityProduct Hubs Blogs Discussions Knowledge & Support Dev Network Lithium JX AboutCommunitySign In Help What is Gamification, Really?www.linkedin.com Michael Wu, Ph. D. iswww.destinationcrm.com Lithium's Principal Scientist of Analytics, digging into the complex dynamics of social interaction and group behavior in online communities and social networks. Michael was voted a 2010 Influential Leader by C",
+        "distance": 0.6465753316879272
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3883181344340740888": {
+    "query_id": "3883181344340740888",
+    "query": "pot dealer fakes family comedy",
+    "relevants": [
+      {
+        "relevant_doc": 555,
+        "relevant_url": "http://www.imdb.com/title/tt1723121/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 4118,
+        "title": "I Got A Marijuana Prescription And Pot In Minutes Without Leaving My Couch",
+        "url": "https://www.forbes.com/sites/ryanmac/2015/06/30/eaze-doctor-online-prescription-marijuana-pizza-couch/",
+        "combined_text": "I Got A Marijuana Prescription And Pot In Minutes Without Leaving My Couch Ryan Mac Forbes Staff Tech 6/30/2015 @ 8:58AM 101,912 views I Got A Marijuana Prescription And Pot In Minutes Without Leaving My Couch I’ll begin this story with a disclaimer: I rarely smoke weed. Aside from the few times that I’ve tried it recreationally, marijuana has never really appealed to me a",
+        "distance": 0.6500300765037537
+      },
+      {
+        "id": 4616,
+        "title": "Cannabis strains",
+        "url": "https://en.wikipedia.org/wiki/White_widow_%28cannabis%29",
+        "combined_text": "Cannabis strains \"From Wikipedia, the free encyclopedia (Redirected from White widow (cannabis))navigation search Part of a series on Cannabis Arts Culture [show]Chemistry [show]Consumption [show]Economics [show]Effects [show]Forms [show]Law [show]Regional [show]Variants [show]Related [show]Cannabis portal Medicine",
+        "distance": 0.6653894782066345
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "1789043535811235650": {
+    "query_id": "1789043535811235650",
+    "query": "catalog of common plant essential oils",
+    "relevants": [
+      {
+        "relevant_doc": 538,
+        "relevant_url": "https://en.wikipedia.org/wiki/List_of_essential_oils"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 538,
+        "title": "List of essential oils",
+        "url": "https://en.wikipedia.org/wiki/List_of_essential_oils",
+        "combined_text": "List of essential oils \"From Wikipedia, the free encyclopedianavigation search Essential oil of Eucalyptus A glass vial containing sandalwood oil Davana essential oil Essential oils are volatile and liquid aroma compounds from natural sources, usually plants. They are not oils in a strict sense, but often share with oils",
+        "distance": 0.3484957218170166
+      },
+      {
+        "id": 2520,
+        "title": "Lawns and Turf, Landscaping, and Ornamental Plants",
+        "url": "https://www.nal.usda.gov/lawns-and-turf-landscaping-and-ornamental-plants",
+        "combined_text": "Lawns and Turf, Landscaping, and Ornamental Plants Home » Topics » Plants and Crops Lawns and Turf, Landscaping, and Ornamental Plants Native Plant Database Lady Bird Johnson Wildflower Center. Presents extensive information and images on native plants. Includes recommended species by state, a plant and seed suppliers list, an organizations list, ho",
+        "distance": 0.5182104706764221
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-7425254985881812185": {
+    "query_id": "-7425254985881812185",
+    "query": "independent review of EPA formaldehyde risks",
+    "relevants": [
+      {
+        "relevant_doc": 2905,
+        "relevant_url": "https://www.nap.edu/read/13142/chapter/3"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2905,
+        "title": "Review of the Environmental Protection Agency's Draft IRIS Assessment of Formaldehyde  (2011)",
+        "url": "https://www.nap.edu/read/13142/chapter/3",
+        "combined_text": "Review of the Environmental Protection Agency's Draft IRIS Assessment of Formaldehyde  (2011) \"Page 3Suggested Citation: \"\"Summary.\"\" National Research Council. 2011. Review of the Environmental Protection Agency's Draft IRIS Assessment of Formaldehyde. Washington, DC: The National Academies Press. doi: 10.17226/13142. ×Save Cancel Summary Formaldehyde is ubiquitous in indoor and outdoor air",
+        "distance": 0.4886840581893921
+      },
+      {
+        "id": 1398,
+        "title": "SODIUM BENZOATE",
+        "url": "http://www.ewg.org/skindeep/ingredient/705989/SODIUM_BENZOATE/",
+        "combined_text": "SODIUM BENZOATE SODIUM BENZOATEimage source: Pub Chem Health Concerns of the Ingredient: Overall Hazard Cancer Developmental & reproductive toxicity Allergies & immunotoxicity",
+        "distance": 0.708045482635498
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "2958609274746057400": {
+    "query_id": "2958609274746057400",
+    "query": "router kit for brass inlays",
+    "relevants": [
+      {
+        "relevant_doc": 3273,
+        "relevant_url": "https://www.holbren.com/inlay-kit/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3273,
+        "title": "Whiteside Brass Inlay Kit",
+        "url": "https://www.holbren.com/inlay-kit/",
+        "combined_text": "Whiteside Brass Inlay Kit \"Whiteside Brass Inlay Kit Home > Router Bits > Inlay Kit Whiteside's brass inlay kit allows you to make perfect fi tting inlays for decoration or repairs. Simply cut your template from 1/4\"\" thick material and trace it with your router to cut both the cavity in your workpiece and the matching inlay",
+        "distance": 0.2512081265449524
+      },
+      {
+        "id": 3088,
+        "title": "115 â Router-Based Inlay",
+        "url": "http://www.thewoodwhisperer.com/videos/router-based-inlay/",
+        "combined_text": "115 â Router-Based Inlay \"115 – Router-Based Inlay Video - April 2, 2010115 - Router-Based Inlay Your browser does not currently recognize any of the video formats available. Click here to visit our frequently asked questions about HTML5 video.0:00 / 43:00HD Download SD Download Inlay is a great way to adorn your woodworkin",
+        "distance": 0.6305825114250183
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3735522411528414469": {
+    "query_id": "3735522411528414469",
+    "query": "tajikistan geography and history overview",
+    "relevants": [
+      {
+        "relevant_doc": 65,
+        "relevant_url": "http://www.worldatlas.com/webimage/countrys/asia/tj.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 65,
+        "title": "Tajikistan",
+        "url": "http://www.worldatlas.com/webimage/countrys/asia/tj.htm",
+        "combined_text": "Tajikistan \"Print this map Print this map The Republic of Tajikistan, previously known as Tajik, a Soviet Socialist Republic, is one of the most mountainous countries in the world. Inhabited by Iranian peoples for over 2,500 years (the recognized forbears of Tajikistan) this land was overrun by assorted empire",
+        "distance": 0.30765408277511597
+      },
+      {
+        "id": 4211,
+        "title": "Largest State in India",
+        "url": "http://www.thecolorsofindia.com/interesting-facts/geography/largest-state-in-india.html",
+        "combined_text": "Largest State in India Adventure Business Culture Cinema Defence Geography Government History Infrastructure Literature Miscellaneous Music People Science and Technology Sports Read about information on biggest Indian State in terms of area Colors of India: Interesting Facts : Geography : Largest State in India Largest St",
+        "distance": 0.6702897548675537
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "9149033351118229234": {
+    "query_id": "9149033351118229234",
+    "query": "intersectional analysis of gender",
+    "relevants": [
+      {
+        "relevant_doc": 577,
+        "relevant_url": "https://link.springer.com/article/10.1007/s11199-008-9501-8"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1797,
+        "title": "List of unlawfully killed transgender people",
+        "url": "https://en.wikipedia.org/wiki/List_of_unlawfully_killed_transgender_people",
+        "combined_text": "List of unlawfully killed transgender people \"List of unlawfully killed transgender people From Wikipedia, the free encyclopedianavigation search Part of a series on Transgender topics Gender identities Agender (genderless) Androgyne Bigender Genderqueer / non-binary Gender bender Hijra Pangender Third gender Akava'ine Bakla Bissu Calabai Fa'a",
+        "distance": 0.5157222747802734
+      },
+      {
+        "id": 577,
+        "title": "Gender: An Intersectionality Perspective",
+        "url": "https://link.springer.com/article/10.1007/s11199-008-9501-8",
+        "combined_text": "Gender: An Intersectionality Perspective Sex Roles September 2008, Volume 59, Issue 5–6 , pp 301–311 | Cite as Gender: An Intersectionality Perspective Authors Authors and affiliations Stephanie A. Shields Email author Stephanie A. Shields1Email author1. Department of Psychology The Pennsylvania State University University Park USAOriginal",
+        "distance": 0.5311229228973389
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8164599398514512756": {
+    "query_id": "-8164599398514512756",
+    "query": "homemade creole seasoning recipe",
+    "relevants": [
+      {
+        "relevant_doc": 1103,
+        "relevant_url": "http://allrecipes.com/recipe/38214/creole-seasoning-blend/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1103,
+        "title": "Creole Seasoning Blend",
+        "url": "http://allrecipes.com/recipe/38214/creole-seasoning-blend/",
+        "combined_text": "Creole Seasoning Blend \"Home Recipes Creole Seasoning Blend589 made it | 295 reviews14Recipe by: JOSLYN\"\"This Creole seasoning blend is great for seasoning rice, meats, soups and stews, or anything that needs a flavor boost. Also makes a great gift when placed in a decorative jar with recipe attached. \"\"Save I Made It Pri",
+        "distance": 0.22320285439491272
+      },
+      {
+        "id": 3,
+        "title": "Homemade Lasagna Pasta Sheets",
+        "url": "http://www.food.com/recipe/homemade-lasagna-pasta-sheets-289228",
+        "combined_text": "Homemade Lasagna Pasta Sheets Homemade Lasagna Pasta Sheets Be the first to review this recipe Recipe by Galley Devil MAKE IT SHINE! ADD YOUR PHOTO“Found this in a magazine. It takes a while to make, but isn't home-made always better than store-bought? =) BTW, according to the magazine, the recipe calls for extra-large eggs, NOT",
+        "distance": 0.5556033849716187
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-1340902103002526659": {
+    "query_id": "-1340902103002526659",
+    "query": "stephen lawrence timeline undercover police",
+    "relevants": [
+      {
+        "relevant_doc": 3026,
+        "relevant_url": "http://www.bbc.com/news/uk-26465916"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3026,
+        "title": "Stephen Lawrence murder: A timeline of how the story unfolded",
+        "url": "http://www.bbc.com/news/uk-26465916",
+        "combined_text": "Stephen Lawrence murder: A timeline of how the story unfolded \"Stephen Lawrence murder: A timeline of how the story unfolded6 March 2014Share A public inquiry has been launched following revelations that an undercover police officer spied on the family of murdered teenager Stephen Lawrence. Home Secretary Theresa May described the findings of a report by Mark",
+        "distance": 0.30037498474121094
+      },
+      {
+        "id": 3930,
+        "title": "Lawrenceburg, Indiana",
+        "url": "http://www.city-data.com/city/Lawrenceburg-Indiana.html",
+        "combined_text": "Lawrenceburg, Indiana Follow city-data.com founder on our Forum or@Lech Mazur Lawrenceburg, Indianaadd your Submit your own pictures of this city and show them to the World See promotion details and to upload your Lawrenceburg, Indiana photos OSM Map General Map Google Map MSN Map39°F10 miles Wind: 3 mph Pressure: 30.21",
+        "distance": 0.7020576000213623
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4997506921652498760": {
+    "query_id": "-4997506921652498760",
+    "query": "find Medicare payments to doctors",
+    "relevants": [
+      {
+        "relevant_doc": 1175,
+        "relevant_url": "https://www.nytimes.com/interactive/2014/04/09/health/medicare-doctor-database.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1175,
+        "title": "How Much Medicare Pays For Your Doctorâs Care",
+        "url": "https://www.nytimes.com/interactive/2014/04/09/health/medicare-doctor-database.html",
+        "combined_text": "How Much Medicare Pays For Your Doctorâs Care Health Share How Much Medicare Pays For Your Doctor’s Care APRIL 9, 2014Editor’s note: This form has been temporarily disabled as of Oct. 12, 2015, pending an upgrade to the underlying database. Meanwhile, the data is available from the Centers for Medicare and Medicaid Services. Use the form below",
+        "distance": 0.3463812470436096
+      },
+      {
+        "id": 1689,
+        "title": "Medicare Frequently Asked Questions",
+        "url": "http://www.medsuppliersnetwork.com/medicare-guide/faq",
+        "combined_text": "Medicare Frequently Asked Questions \"Medicare Frequently Asked Questions Disclaimer: This is a sampling of information. Please refer to the CMS website (www.cms.gov) and consult your own experts for additional information. What's covered under Medicare? The program consists of two separate but complementary divisions: Medicare Part A",
+        "distance": 0.4856081008911133
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "2417238648883722775": {
+    "query_id": "2417238648883722775",
+    "query": "term for blending two ideas",
+    "relevants": [
+      {
+        "relevant_doc": 4243,
+        "relevant_url": "https://www.merriam-webster.com/dictionary/conflation"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3744,
+        "title": "How to Use Magazine Titles in Term Papers",
+        "url": "http://penandthepad.com/use-magazine-titles-term-papers-2481.html",
+        "combined_text": "How to Use Magazine Titles in Term Papers \"How to Use Magazine Titles in Term Papers Jennifer Zimmerman Term papers are generally research-based works that encompass the major theme of a high school or college-level class. Term papers are usually written in two main formats: APA (American Psychological Association) and MLA (Modern Language",
+        "distance": 0.7305297255516052
+      },
+      {
+        "id": 1722,
+        "title": "Differential Reinforcement Theory",
+        "url": "http://criminology.wikia.com/wiki/Differential_Reinforcement_Theory",
+        "combined_text": "Differential Reinforcement Theory \"Differential Reinforcement Theory Edit Share Differential Reinforcement Theory Theory: The roots of the learning perspective can be dated back to the era of Gabriel Tarde (Criminology 1). He focused his social learning theory based on three laws of imitation. The first two laws were further used by",
+        "distance": 0.7355049848556519
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-1309227338579667023": {
+    "query_id": "-1309227338579667023",
+    "query": "history of Irish emigration worldwide",
+    "relevants": [
+      {
+        "relevant_doc": 429,
+        "relevant_url": "https://en.wikipedia.org/wiki/Irish_diaspora"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 429,
+        "title": "Irish diaspora",
+        "url": "https://en.wikipedia.org/wiki/Irish_diaspora",
+        "combined_text": "Irish diaspora \"From Wikipedia, the free encyclopedianavigation search'Emigrants Leave Ireland', engraving by Henry Doyle (1827–1892), from Mary Frances Cusack's Illustrated History of Ireland, 1868The Irish diaspora ( Irish: Diaspóra na n Gael) refers to Irish people and their descendants who live outside Ireland",
+        "distance": 0.2979869842529297
+      },
+      {
+        "id": 2028,
+        "title": "Can You Tell What This Irish Farmer Is Saying?",
+        "url": "http://irisharoundtheworld.com/meaning-behind-slainte-famous-irish-toast/",
+        "combined_text": "Can You Tell What This Irish Farmer Is Saying? April 10, 2018Can You Tell What This Irish Farmer Is Saying? I’ve heard a few strong Irish accents over the year but this is by far one of most outrageous. Imagine him after a few pints! haha. Let’s ... April 10, 2018This Irish Priest Found A New Way To Motivate People To Attend Services By Singing",
+        "distance": 0.6625598669052124
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-5411614096725860071": {
+    "query_id": "-5411614096725860071",
+    "query": "were unicorns real",
+    "relevants": [
+      {
+        "relevant_doc": 2110,
+        "relevant_url": "http://www.todayifoundout.com/index.php/2014/01/unicorns-ever-exist/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2110,
+        "title": "Did Unicorns Ever Exist?",
+        "url": "http://www.todayifoundout.com/index.php/2014/01/unicorns-ever-exist/",
+        "combined_text": "Did Unicorns Ever Exist? Did Unicorns Ever Exist? January 20, 2014 Matt Blitz 17 comments Kara asks: Did unicorns ever exist? On November 30, 2012, the Korean Central News Agency, North Korea’s government “news” agency, reported that scientists had “reconfirmed” the existence and location of the final resting place of the u",
+        "distance": 0.4389270842075348
+      },
+      {
+        "id": 1407,
+        "title": "Hogwarts",
+        "url": "https://en.wikipedia.org/wiki/Ravenclaw",
+        "combined_text": "Hogwarts \"Hogwarts From Wikipedia, the free encyclopedia (Redirected from Ravenclaw)navigation search Not to be confused with Hogwort. This article describes a work or element of fiction in a primarily in-universe style. Please help rewrite it to explain the fiction more clearly and provide non-fictional per",
+        "distance": 0.7566036581993103
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8832811764943713350": {
+    "query_id": "8832811764943713350",
+    "query": "how often can i retake the asvab",
+    "relevants": [
+      {
+        "relevant_doc": 1025,
+        "relevant_url": "http://bootcamp4me.com/retaking-the-asvab/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1025,
+        "title": "Can you retake the ASVAB?",
+        "url": "http://bootcamp4me.com/retaking-the-asvab/",
+        "combined_text": "Can you retake the ASVAB? Can you retake the ASVAB? Sure you can… kinda. While you can’t really “fail” the tests, you can fail to get a score needed to qualify for the branch or job you wish. Because of that many people wish to retake their exams. The first thing you should know is that there is no rush to take your ASVAB in",
+        "distance": 0.2573027014732361
+      },
+      {
+        "id": 1895,
+        "title": "Immunization Schedule for PedvaxHIB and Comvax?",
+        "url": "http://www.medscape.com/viewarticle/413550",
+        "combined_text": "Immunization Schedule for PedvaxHIB and Comvax? Perspective > Medscape Pediatrics > Ask the Experts > Vaccines Immunization Schedule for Pedvax HIB and Comvax? Sandor Feldman, MDDisclosures January 03, 2002Question What is the recommended immunization schedule when using Pedvax HIB and Comvax vaccines? Response from Sandor Feldman, MDPedvax HIB i",
+        "distance": 0.5236755609512329
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4898978393819871583": {
+    "query_id": "-4898978393819871583",
+    "query": "plant metabolism review flashcards",
+    "relevants": [
+      {
+        "relevant_doc": 4154,
+        "relevant_url": "https://quizlet.com/19892579/chapter-10plant-metabolism-flash-cards/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 4154,
+        "title": "Chapter 10:Plant metabolism",
+        "url": "https://quizlet.com/19892579/chapter-10plant-metabolism-flash-cards/",
+        "combined_text": "Chapter 10:Plant metabolism \"40 terms Coyotepod TEACHERChapter 10: Plant metabolism Chapter 10: Plant metabolism Learn Flashcards Write Spell Test Match Gravity Like this study set? Create a free account to save it. Create a free account Maybe later Sort Oxidation is the loss of electrons. Most energy transfers in cells involv",
+        "distance": 0.40860405564308167
+      },
+      {
+        "id": 3881,
+        "title": "The Most Accurate Way to Know How Many Calories You Can Eat",
+        "url": "http://livehealthy.chron.com/ways-calculate-thermic-effect-exercise-9941.html",
+        "combined_text": "The Most Accurate Way to Know How Many Calories You Can Eat Related Articles1 [Basal Metabolism] | Difference Between Basal Metabolism & Resting Metabolism2 [Exercise Burns Calories] | The Science Behind How Exercise Burns Calories3 [Weight Loss] | Tips for Weight Loss and Metabolism4 [Basal Metabolic Rate] | Does the Calorie Counter on a Treadmill Take Into",
+        "distance": 0.5442008376121521
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-1822947211342280809": {
+    "query_id": "-1822947211342280809",
+    "query": "romantic literature and environmental thought",
+    "relevants": [
+      {
+        "relevant_doc": 4581,
+        "relevant_url": "https://www.rc.umd.edu/pedagogies/commons/ecology/harrison/harrison.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 4581,
+        "title": "Romanticism, Nature, Ecology",
+        "url": "https://www.rc.umd.edu/pedagogies/commons/ecology/harrison/harrison.html",
+        "combined_text": "Romanticism, Nature, Ecology \"Romanticism, Nature, Ecology Gary Harrison, University of New Mexico I: Introduction The connection between Romanticism and ecology has often been recognized in the critical literature on Romanticism and in the writings of ecologists and naturalists. Recently Jonathan Bate, Karl Kroeber, Jim Mc Kus",
+        "distance": 0.46888965368270874
+      },
+      {
+        "id": 1099,
+        "title": "Sociology: Writing a Literature Review",
+        "url": "http://libguides.southernct.edu/c.php?g=7101&p=34392",
+        "combined_text": "Sociology: Writing a Literature Review What is a literature review? A literature review is used to show that you have read, evaluated, and comprehended the published research on a particular topic. A literature review is structured to show to your professors that you understand the work that has been done in the past on a topic, and will",
+        "distance": 0.5794897675514221
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3146719729513552492": {
+    "query_id": "3146719729513552492",
+    "query": "how to sample soil for gardens",
+    "relevants": [
+      {
+        "relevant_doc": 776,
+        "relevant_url": "http://pubs.ext.vt.edu/452/452-129/452-129.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 4284,
+        "title": "How is over-irrigation damaging to soil?",
+        "url": "https://study.com/academy/answer/how-is-over-irrigation-damaging-to-soil.html",
+        "combined_text": "How is over-irrigation damaging to soil? How is over-irrigation damaging to soil? Question: How is over-irrigation damaging to soil? Watering the Plants Irrigation systems, which have been around since ancient civilizations, have various uses. They are used in both mining and farming. In the latter, they are used to cool livestock and cont",
+        "distance": 0.5094168186187744
+      },
+      {
+        "id": 2679,
+        "title": "The Most Beautiful Gardens In The World",
+        "url": "http://www.worldatlas.com/articles/the-most-beautiful-gardens-in-the-world.html",
+        "combined_text": "The Most Beautiful Gardens In The World Travel The Most Beautiful Gardens In The World There are gardens, and then there are GARDENS! These botanical marvels leave their visitors from near and far breathless. The world famous Gardens of Versailles, France, not far from the city of Paris.10. Butchart (Canada)The Butchart Gardens is a group",
+        "distance": 0.5372054576873779
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-9158205901585894889": {
+    "query_id": "-9158205901585894889",
+    "query": "how to deal with cedar pollen austin",
+    "relevants": [
+      {
+        "relevant_doc": 4259,
+        "relevant_url": "http://austin.about.com/od/newcomersguide/fl/Cedar-Fever-in-Austin.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 4259,
+        "title": "Cedar Fever in Austin: What You Need to Know",
+        "url": "http://austin.about.com/od/newcomersguide/fl/Cedar-Fever-in-Austin.htm",
+        "combined_text": "Cedar Fever in Austin: What You Need to Know By Robert Macias Updated 12/01/17Share Pin Email•••he 2017 cedar fever season turned out to be one of the worst ever. According to KXAN, the cedar pollen count on December 29, 2016 was the second highest in recorded history. Abundant rain earlier in the year helped produce a bumper crop of malicious",
+        "distance": 0.3619389832019806
+      },
+      {
+        "id": 857,
+        "title": "How much does the University of Texas at Austin College cost?",
+        "url": "http://www.answers.com/Q/How_much_does_it_cost_to_get_into_the_University_of_Texas",
+        "combined_text": "How much does the University of Texas at Austin College cost? Jenniflauren 1 Contribution How much does the University of Texas at Austin College cost? 2008/2009 Undergraduate COA If you are a resident expect to pay Tuition 4,045-5,952 Books 409 Room and Board (On Campus) 4,623 Transportation 481 Person …What is the cost to attend the University of Texas? The",
+        "distance": 0.7080498933792114
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  }
+}

@@ -1,0 +1,16 @@
+,query_id,query,retrieved_ids,relevant_docs,precision@2,recall@2,ndcg@2,reciprocal_rank,average_precision,model_name
+0,3671331595970530544,alternative medicine to manage ringing in my ear,"[0, 1]","[0, 1]",1.0,1.0,1.0,1.0,1.0,minishlab_potion_retrieval_32M
+1,-4454221199831456886,solutions for noisy neighbors,"[2, 3]","[2, 3]",1.0,1.0,1.0,1.0,1.0,minishlab_potion_retrieval_32M
+2,-7758016915635062400,how to train a cat to use the litter box,"[4, 5]","[4, 5]",1.0,1.0,1.0,1.0,1.0,minishlab_potion_retrieval_32M
+3,6115443047303656876,how to make your dog loss weight,"[6, 7]","[6, 7]",1.0,1.0,1.0,1.0,1.0,minishlab_potion_retrieval_32M
+4,2384601580431737950,what are the best foods for dogs,"[8, 9]","[8, 9]",1.0,1.0,1.0,1.0,1.0,minishlab_potion_retrieval_32M
+5,6479326773986308426,how to keep your kids safe online,"[10, 11]","[10, 11]",1.0,1.0,1.0,1.0,1.0,minishlab_potion_retrieval_32M
+6,1215437556609386599,some recommendations for vegan recipes for kids,"[12, 13]","[12, 13]",1.0,1.0,1.0,1.0,1.0,minishlab_potion_retrieval_32M
+7,7726544773839014009,best places to visit in new york in summer,"[14, 15]","[14, 15]",1.0,1.0,1.0,1.0,1.0,minishlab_potion_retrieval_32M
+8,-2966199105782218155,how much does it cost to go to niagara falls,"[16, 17]","[16, 17]",1.0,1.0,1.0,1.0,1.0,minishlab_potion_retrieval_32M
+9,-1361171318759370171,how to take screenshot on windows 11,"[18, 19]","[18, 19]",1.0,1.0,1.0,1.0,1.0,minishlab_potion_retrieval_32M
+10,-2279897084048003720,what are some of the symptoms of high blood pressure,"[20, 21]","[20, 21]",1.0,1.0,1.0,1.0,1.0,minishlab_potion_retrieval_32M
+11,7150231657016803772,what are some treatment options for stroke,"[22, 23]","[22, 23]",1.0,1.0,1.0,1.0,1.0,minishlab_potion_retrieval_32M
+12,4637611522714130276,organic dog food for sensitive stomachs,"[24, 25]","[24, 25]",1.0,1.0,1.0,1.0,1.0,minishlab_potion_retrieval_32M
+13,5208116894154676470,best budget-friendly family vacation spots in California,"[26, 27]","[26, 27]",1.0,1.0,1.0,1.0,1.0,minishlab_potion_retrieval_32M
+14,-3471102684593280009,what are some popular open source projects,"[28, 29]","[28, 29]",1.0,1.0,1.0,1.0,1.0,minishlab_potion_retrieval_32M

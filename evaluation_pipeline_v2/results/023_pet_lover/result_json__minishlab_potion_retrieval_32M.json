@@ -1,0 +1,2802 @@
+{
+  "-8761307258746816531": {
+    "query_id": "-8761307258746816531",
+    "query": "clear all favorites in edge",
+    "relevants": [
+      {
+        "relevant_doc": 1340,
+        "relevant_url": "http://answers.microsoft.com/en-us/windows/forum/windows_10-other_settings/how-to-delete-all-my-favorites-in-edge/7e458cc1-3418-474c-b15e-00f383cf3b90"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1340,
+        "title": "Q: How to delete all my favorites in Edge",
+        "url": "http://answers.microsoft.com/en-us/windows/forum/windows_10-other_settings/how-to-delete-all-my-favorites-in-edge/7e458cc1-3418-474c-b15e-00f383cf3b90",
+        "combined_text": "Q: How to delete all my favorites in Edge HU Humbledore asked on September 12, 2015Q: How to delete all my favorites in Edge Hi,I want to delete all my favorites in Edge? How do I accomplish that? Thanks!Reply I have the same question (39)Preeti Patel replied on September 12, 2015Microsoft A: Hi,Welcome to Microsoft Community. I appreciate",
+        "distance": 0.40836453437805176
+      },
+      {
+        "id": 3562,
+        "title": "How to Install a Tile Backsplash",
+        "url": "https://www.lowes.com/creative-ideas/kitchen-and-dining/tile-a-kitchen-backsplash/project",
+        "combined_text": "How to Install a Tile Backsplash How to Tile a Kitchen Backsplash Your browser does not currently recognize any of the video formats available. Click here to visit our frequently asked questions about HTML5 video.0:00 / 4:16Tools & Materials Tools Tape Measure Level Tile Cutter Materials Tiles Grout Flexible Caulk View All Tools &",
+        "distance": 0.7902548909187317
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-5386658330742683047": {
+    "query_id": "-5386658330742683047",
+    "query": "arthur ashe award winners gallery",
+    "relevants": [
+      {
+        "relevant_doc": 1601,
+        "relevant_url": "http://www.cnn.com/2015/07/15/us/gallery/arthur-ashe-courage-award-recipients/index.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1601,
+        "title": "Arthur Ashe Courage Award recipients",
+        "url": "http://www.cnn.com/2015/07/15/us/gallery/arthur-ashe-courage-award-recipients/index.html",
+        "combined_text": "Arthur Ashe Courage Award recipients \"Arthur Ashe Courage Award recipients By Sarah Butler, CNNUpdated 6:55 AM ET, Thu July 16, 2015Photos: Arthur Ashe Courage Award recipients George Weah was the 1995 FIFA World Cup Player of the Year. He received the 2004 Arthur Ashe Courage Award for his humanitarian work in his home country, Liberi",
+        "distance": 0.33338287472724915
+      },
+      {
+        "id": 343,
+        "title": "Area Info / Facts & Statistics",
+        "url": "http://www.ashevillenc.com/area_info/facts_and_statistics",
+        "combined_text": "Area Info / Facts & Statistics \"Area Info / Facts & Statistics Asheville, North Carolina Facts & Statisticssee also: Relocation Information | Asheville Schools | Asheville Real Estate Asheville Photo Gallery | Local Asheville, NC Activities Downtown Asheville Officially Established in 1883, Asheville, North Carolina has grown fro",
+        "distance": 0.7368409037590027
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4368256381389509266": {
+    "query_id": "-4368256381389509266",
+    "query": "angela duckworth on grit",
+    "relevants": [
+      {
+        "relevant_doc": 3549,
+        "relevant_url": "https://findingmastery.net/angela-duckworth/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3549,
+        "title": "Angela Duckworth: Passion and Perseverance",
+        "url": "https://findingmastery.net/angela-duckworth/",
+        "combined_text": "Angela Duckworth: Passion and Perseverance \"Is there a set of characteristics that string together those who excel in life? My grandmother, like most Americans who were raised in the midst of the great depression and also faced world-war, would certainly say that hard work is part of it. Francis Galton (Darwin’s cousin) dating back to the la",
+        "distance": 0.629869818687439
+      },
+      {
+        "id": 806,
+        "title": "How to Make Pumpkin Pie",
+        "url": "http://www.recipetips.com/kitchen-tips/t--1180/how-to-make-pumpkin-pie.asp",
+        "combined_text": "How to Make Pumpkin Pie \"How to Make Pumpkin Pie... Kitchen Advice Kitchen Techniques ▼ How to Make Pumpkin Pie+ Larger Image Read Reviews (4)Provided By Recipe Tips There is nothing like a homemade pumpkin pie to share with family and friends. Learning the proper steps on how to make pumpkin pie from scratch is well worth",
+        "distance": 0.7862801551818848
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "4907784974305068955": {
+    "query_id": "4907784974305068955",
+    "query": "wyoming january average temperatures by city",
+    "relevants": [
+      {
+        "relevant_doc": 3575,
+        "relevant_url": "https://www.currentresults.com/Weather/Wyoming/temperature-january.php"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3575,
+        "title": "Average Temperatures for Wyoming in January",
+        "url": "https://www.currentresults.com/Weather/Wyoming/temperature-january.php",
+        "combined_text": "Average Temperatures for Wyoming in January Average temperatures for January at cities, towns, parks and lakes throughout Wyoming are listed below in degrees Fahrenheit and Celsius. The tables give the normals for maximum and minimum temperatures based on weather data collected from 1981 to 2010 by the US National Climatic Data Center. You ca",
+        "distance": 0.3086709678173065
+      },
+      {
+        "id": 16,
+        "title": "Average Temperatures for New Mexico in February",
+        "url": "http://www.currentresults.com/Weather/New-Mexico/temperature-february.php",
+        "combined_text": "Average Temperatures for New Mexico in February Average temperatures for February at cities, towns, parks and lakes throughout New Mexico are listed below in degrees Fahrenheit and Celsius. The tables give the normals for maximum and minimum temperatures based on weather data collected from 1981 to 2010 by the US National Climatic Data Center. Yo",
+        "distance": 0.5645038485527039
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-2364393234388171507": {
+    "query_id": "-2364393234388171507",
+    "query": "Inglewood CA city stats and maps",
+    "relevants": [
+      {
+        "relevant_doc": 211,
+        "relevant_url": "http://www.city-data.com/city/Inglewood-California.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 211,
+        "title": "Inglewood, California",
+        "url": "http://www.city-data.com/city/Inglewood-California.html",
+        "combined_text": "Inglewood, California Follow city-data.com founder on our Forum or@Lech Mazur Inglewood, Californiaadd your Submit your own pictures of this city and show them to the World See promotion details and to upload your Inglewood, California photos OSM Map General Map Google Map MSN Map77°F10 miles Wind: 6 mph Pressure: 29.95",
+        "distance": 0.3811532258987427
+      },
+      {
+        "id": 2292,
+        "title": "Population of Los Angeles County, California: Census 2010 and 2000 Interactive Map, Demographics, Statistics, Graphs, Quick Facts",
+        "url": "http://censusviewer.com/county/CA/Los%20Angeles",
+        "combined_text": "Population of Los Angeles County, California: Census 2010 and 2000 Interactive Map, Demographics, Statistics, Graphs, Quick Facts \"Population of Los Angeles County, California: Census 2010 and 2000 Interactive Map, Demographics, Statistics, Graphs, Quick Facts Compare population statistics about Los Angeles County, CA by race, age, gender, Latino/Hispanic origin etc. Census Viewer delivers detailed demographics and population",
+        "distance": 0.6182751655578613
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "6246765649400763706": {
+    "query_id": "6246765649400763706",
+    "query": "best quiet tires for highway driving",
+    "relevants": [
+      {
+        "relevant_doc": 3515,
+        "relevant_url": "http://tirereviewsandmore.com/top-10-quietest-tires/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3515,
+        "title": "Top 10 Quietest Tires For 2018",
+        "url": "http://tirereviewsandmore.com/top-10-quietest-tires/",
+        "combined_text": "Top 10 Quietest Tires For 2018 Top 10 Quietest Tires For 2018For many drivers, having a quiet riding tire is one of the most important areas they look for in a new tire. After all, not many of us enjoy hearing our tires hum and scream out loud all the way home from a hard day’s work, or driving down the highway on a family vacati",
+        "distance": 0.3213610053062439
+      },
+      {
+        "id": 2863,
+        "title": "Does NASCAR use rain tires?",
+        "url": "http://www.answers.com/Q/What_is_the_price_of_a_new_Nascar_tire",
+        "combined_text": "Does NASCAR use rain tires? \"Jim Mowreader 15,778 Contributions I am an Army veteran who has worked in the graphic arts, photography, transportation and retail industries. Does NASCAR use rain tires? Answer \\n. \\n NASCAR tires look completely bald, but that's not because they are worn out. It is by design. On a dry track, tire",
+        "distance": 0.6083798408508301
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8148067137177374099": {
+    "query_id": "8148067137177374099",
+    "query": "unincorporated community near aspen co",
+    "relevants": [
+      {
+        "relevant_doc": 1465,
+        "relevant_url": "https://en.wikipedia.org/wiki/Snowmass,_Colorado"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2143,
+        "title": "Community",
+        "url": "http://www.putnamcountytn.gov/",
+        "combined_text": "Community Community Government Emergency Services County Information",
+        "distance": 0.6159840822219849
+      },
+      {
+        "id": 716,
+        "title": "Community",
+        "url": "http://www.mchs.net/community/",
+        "combined_text": "Community Minooka Community High School District #111 / Community Community About the Community Relations Office Through the use of networking, media releases, publications, special events, and other communication tools, the MCHS District 111 Community Relations Office works to connect District 111 with the p",
+        "distance": 0.6196042895317078
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8346268751258662815": {
+    "query_id": "-8346268751258662815",
+    "query": "mlk day classroom activities and ideas",
+    "relevants": [
+      {
+        "relevant_doc": 134,
+        "relevant_url": "https://www.scholastic.com/teachers/lesson-plans/teaching-content/how-do-you-celebrate-martin-luther-king-jr-day/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 134,
+        "title": "How Do You Celebrate Martin Luther King Jr. Day?",
+        "url": "https://www.scholastic.com/teachers/lesson-plans/teaching-content/how-do-you-celebrate-martin-luther-king-jr-day/",
+        "combined_text": "How Do You Celebrate Martin Luther King Jr. Day? Lesson Plan How Do You Celebrate Martin Luther King Jr. Day? Real teachers share their favorite ways to honor the life and legacy of the Civil Rights leader. Grades Pre K–K, 1–2, 3–5, 6–8, 9–12",
+        "distance": 0.488741010427475
+      },
+      {
+        "id": 1604,
+        "title": "Question of the Month",
+        "url": "http://www.1199seiu.org/",
+        "combined_text": "Question of the Month Stay Informed Take Action Have a Question? News Our Stories Calendar Dr. King Is Our North Star I came into this world around the same time that Dr. Martin Luther King, Jr., a young minister, made history by leading the Montgomery, Alabama, bus boycott. That movement led to the Supreme Court ruling",
+        "distance": 0.6162704825401306
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8846584274219039826": {
+    "query_id": "-8846584274219039826",
+    "query": "dallas rideshare driver forum",
+    "relevants": [
+      {
+        "relevant_doc": 2677,
+        "relevant_url": "https://uberpeople.net/forums/Dallas/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2677,
+        "title": "Dallas",
+        "url": "https://uberpeople.net/forums/Dallas/",
+        "combined_text": "Dallas \"Forums US Cities >Uber People. NET - Independent community of rideshare drivers. It's FREE to be a person and enjoy all the benefits of membership. Sign-up HERE!Dallas Page 1 of 1751 2 3 4 5 6 → 175 Next >Title Start Date Replies Views Last Message ↓Uber actually paying what you drive? Fredly Smedl",
+        "distance": 0.37089672684669495
+      },
+      {
+        "id": 2672,
+        "title": "Dallas, Texas",
+        "url": "http://www.city-data.com/city/Dallas-Texas.html",
+        "combined_text": "Dallas, Texas \"Follow city-data.com founder on our Forum or@Lech Mazur Dallas, Texassee 175 more add your Submit your own pictures of this city and show them to the World See promotion details and to upload your Dallas, Texas photos OSM Map General Map Google Map MSN Map70°F10 miles Wind: 21 mph Pressure: 29.86 i",
+        "distance": 0.562589168548584
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-225592475009270756": {
+    "query_id": "-225592475009270756",
+    "query": "noida city map with metro and roads",
+    "relevants": [
+      {
+        "relevant_doc": 1742,
+        "relevant_url": "http://www.mapsofindia.com/maps/uttarpradesh/noida-city-map.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1742,
+        "title": "Noida City Map",
+        "url": "http://www.mapsofindia.com/maps/uttarpradesh/noida-city-map.htm",
+        "combined_text": "Noida City Map Noida City Map Click here for Customized Maps Print Email* Noida City Map showing major roads, metro lines, national highway, vegetation, waterbody and state boundary. Disclaimer: All efforts have been made to make this image accurate. However Compare Infobase Limited and its directors do not own an",
+        "distance": 0.2245224118232727
+      },
+      {
+        "id": 3554,
+        "title": "Map of the Area",
+        "url": "http://ci.stcloud.mn.us/457/Map-of-the-Area",
+        "combined_text": "Map of the Area You Are Here: Home Community Map of the Area Map of the Area View Larger Map",
+        "distance": 0.6326712965965271
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8321405202240433124": {
+    "query_id": "8321405202240433124",
+    "query": "are otters suitable pets",
+    "relevants": [
+      {
+        "relevant_doc": 2316,
+        "relevant_url": "http://www.answers.com/Q/Can_you_keep_a_otter_for_a_pet"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2316,
+        "title": "Can you keep a otter for a pet?",
+        "url": "http://www.answers.com/Q/Can_you_keep_a_otter_for_a_pet",
+        "combined_text": "Can you keep a otter for a pet? Answers.com ® Wiki Answers ® Categories Animal Life Mammals Semi-Aquatic Mammals Otters Can you keep a otter for a pet? Flag Can you keep a otter for a pet? Answer by J. E. S. Hays Confidence votes 79.6KWordsmith, world-builder, author An otter would make a cute and adorable pet. But, they are very",
+        "distance": 0.2706773579120636
+      },
+      {
+        "id": 1731,
+        "title": "How Many People Own Pets?",
+        "url": "https://www.reference.com/pets-animals/many-people-own-pets-2453705e8ab0ea93",
+        "combined_text": "How Many People Own Pets? Pets & Animals Pets Q: How Many People Own Pets? A: Quick Answer According to a 2012 survey by the Humane Society of the United States, nearly 164 million people in the United States own pets. This means that approximately 62 percent of all households are home to at least one pet. Continue Reading K",
+        "distance": 0.3619403839111328
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4713980978433043114": {
+    "query_id": "-4713980978433043114",
+    "query": "how to treat a painful eyelid bump",
+    "relevants": [
+      {
+        "relevant_doc": 26,
+        "relevant_url": "http://www.wikihow.com/Get-Rid-Of-a-Stye"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 26,
+        "title": "How to Get Rid Of a Stye",
+        "url": "http://www.wikihow.com/Get-Rid-Of-a-Stye",
+        "combined_text": "How to Get Rid Of a Stye \"Expert Reviewed How to Get Rid Of a Stye Two Methods: Treating a Stye Prevent Styes from Recurring Community Q&AA stye is a painful swollen bump on the edge of your eyelid, sometimes caused by an infected eyelash follicle or oil gland. They usually go away on their own after about a week, but you c",
+        "distance": 0.5065999627113342
+      },
+      {
+        "id": 2482,
+        "title": "Vet Directory: Find a local vet near you",
+        "url": "https://www.vetinfo.com/vets/answers/is-neosporin-or-bactin-ok-for-dog-wound",
+        "combined_text": "Vet Directory: Find a local vet near you \"Is neosporin or bactin ok for a dog wound My dog has some stitches after they removed a bump on her leg. Thankfully the bump was not cancerous but even with the cone she managed to remove some of the stitches. The wound has been healing for a weak and half and since some the stitches have knocked I",
+        "distance": 0.657491147518158
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-648981118252122235": {
+    "query_id": "-648981118252122235",
+    "query": "accessible lakes in Yosemite",
+    "relevants": [
+      {
+        "relevant_doc": 929,
+        "relevant_url": "https://www.nps.gov/yose/planyourvisit/lakes.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 929,
+        "title": "Lakes and Rivers",
+        "url": "https://www.nps.gov/yose/planyourvisit/lakes.htm",
+        "combined_text": "Lakes and Rivers Lakes and Rivers Very few lakes are easily accessible in Yosemite National Park. Tenaya Lake (above) is one of the easiest to get to (when the Tioga Road is open, late May or early June to sometime in November) and is quite popular for picnicking, swimming, and canoeing. You can see Tenaya Lake from",
+        "distance": 0.35267895460128784
+      },
+      {
+        "id": 2012,
+        "title": "Lake Tahoe (Nevada) Weather and When to Go",
+        "url": "https://www.tripadvisor.com/Travel-g45961-s208/Lake-Tahoe-Nevada:Nevada:Weather.And.When.To.Go.html",
+        "combined_text": "Lake Tahoe (Nevada) Weather and When to Go Lake Tahoe (Nevada) Traveler Article: Lake Tahoe (Nevada) Weather and When to Go Save Article More Traveler Articlesadvice from real travelers Background Culture History Recommended Reading Transportation Arriving & Departing Getting Around Taxis & Rental Cars Things to Do Angora Lakes Climb Downhil",
+        "distance": 0.6312752366065979
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8271498109926804372": {
+    "query_id": "-8271498109926804372",
+    "query": "how to quote poetry in essays",
+    "relevants": [
+      {
+        "relevant_doc": 32,
+        "relevant_url": "http://www.wikihow.com/Cite-a-Poem"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 32,
+        "title": "How to Cite a Poem",
+        "url": "http://www.wikihow.com/Cite-a-Poem",
+        "combined_text": "How to Cite a Poem Edit Article How to Cite a Poem Four Methods: Citing Exact Words, Lines and Phrases from Poems Citing Consecutive Lines of Poetry Using a Blockquote to Cite Poetry Citing the Poem in a Speech Community Q&AStudents, critics and writers often quote poems when they are writing essays, research papers,",
+        "distance": 0.26684829592704773
+      },
+      {
+        "id": 2953,
+        "title": "Why Do We Need Law In The Society Philosophy Essay",
+        "url": "https://www.ukessays.com/essays/philosophy/why-do-we-need-law-in-the-society-philosophy-essay.php",
+        "combined_text": "Why Do We Need Law In The Society Philosophy Essay \"Why Do We Need Law In The Society Philosophy Essay Print Reference this Published: 23rd March, 2015Disclaimer: This essay has been submitted by a student. This is not an example of the work written by our professional essay writers. Any opinions, findings, conclusions or recommendations expressed i",
+        "distance": 0.5332121849060059
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8105307911433140480": {
+    "query_id": "-8105307911433140480",
+    "query": "how to improve power grid efficiency",
+    "relevants": [
+      {
+        "relevant_doc": 315,
+        "relevant_url": "http://www.renewableenergyworld.com/articles/2007/07/energy-efficiency-in-the-power-grid-49238.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 315,
+        "title": "Energy Efficiency in the Power Grid",
+        "url": "http://www.renewableenergyworld.com/articles/2007/07/energy-efficiency-in-the-power-grid-49238.html",
+        "combined_text": "Energy Efficiency in the Power Grid \"Energy Efficiency in the Power Grid July 9, 2007By Bob Fesmire, ABB Inc. The concept of energy efficiency has moved in and out of favor with the public over the years, but recently has gained renewed broad-based support. The confluence of economic, environmental and geopolitical concerns around red",
+        "distance": 0.33229008316993713
+      },
+      {
+        "id": 2132,
+        "title": "More than just a power station",
+        "url": "https://www.edfenergy.com/energy/nuclear-new-build-projects/hinkley-point-c",
+        "combined_text": "More than just a power station More than just a power station We are building two new nuclear reactors at Hinkley Point C in Somerset, the first in a new generation of nuclear power stations in the UK providing low-carbon electricity for around six million homes. And it’s not just about power. We’ve put local benefits at the hear",
+        "distance": 0.5528243780136108
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4736685039194041092": {
+    "query_id": "-4736685039194041092",
+    "query": "do green buildings save money",
+    "relevants": [
+      {
+        "relevant_doc": 2707,
+        "relevant_url": "http://workplaceinsight.net/economic-benefits-of-green-buildings-highlighted/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2707,
+        "title": "Economic benefits of green buildings highlighted",
+        "url": "http://workplaceinsight.net/economic-benefits-of-green-buildings-highlighted/",
+        "combined_text": "Economic benefits of green buildings highlighted March 6, 2013Economic benefits of green buildings highlightedby Sara Bean • Environment, Knowledge, News, Property Green buildings can be delivered at a price comparable to conventional buildings, with investments recouped through operational cost savings and, with the right design features, create",
+        "distance": 0.31429457664489746
+      },
+      {
+        "id": 168,
+        "title": "Choosing Energy Efficient Windows for Your Home",
+        "url": "http://www.hgtv.com/remodel/interior-remodel/choosing-energy-efficient-windows-for-your-home",
+        "combined_text": "Choosing Energy Efficient Windows for Your Home \"Choosing Energy Efficient Windows for Your Home Consider these four factors that can affect a window's performance. Pinterest Facebook Twitter Email By: Alyson Mc Nutt English Related To: Energy Efficiency Green Building Windows Eco-Friendly Gone are the days when a homeowner's interest in windows",
+        "distance": 0.6704751253128052
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-6637839510654925253": {
+    "query_id": "-6637839510654925253",
+    "query": "adding sex discrimination services effect on desegregation",
+    "relevants": [
+      {
+        "relevant_doc": 2887,
+        "relevant_url": "http://www.rand.org/pubs/reports/R2136.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2887,
+        "title": "Title IV of the Civil Rights Act of 1964",
+        "url": "http://www.rand.org/pubs/reports/R2136.html",
+        "combined_text": "Title IV of the Civil Rights Act of 1964 Describes how the addition of a new responsibility to the Title IV mandate — the delivery of services to eliminate sex discrimination in school districts — has affected the ongoing Title IV mission of assisting the process of racial desegregation in schools. General assistance centers, state educati",
+        "distance": 0.49208927154541016
+      },
+      {
+        "id": 2250,
+        "title": "Racism, School Desegregation Laws and the Civil Rights Movement in the United States",
+        "url": "http://www.youtube.com/watch?v=U9ACS4PgDFA",
+        "combined_text": "Racism, School Desegregation Laws and the Civil Rights Movement in the United States \"Racism, School Desegregation Laws and the Civil Rights Movement in the United States The Film Archives Subscribe 140KAdd to Share More542,766 views1,723192Published on Aug 14, 2012The African-American Civil Rights Movement (1955--1968) refers to the social movements in the United States aimed at ou",
+        "distance": 0.5178520083427429
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3741777366420769508": {
+    "query_id": "3741777366420769508",
+    "query": "Thief River Falls MN community profile",
+    "relevants": [
+      {
+        "relevant_doc": 1509,
+        "relevant_url": "http://www.city-data.com/city/Thief-River-Falls-Minnesota.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1509,
+        "title": "Thief River Falls, Minnesota",
+        "url": "http://www.city-data.com/city/Thief-River-Falls-Minnesota.html",
+        "combined_text": "Thief River Falls, Minnesota \"Follow city-data.com founder on our Forum or@Lech Mazur Thief River Falls, Minnesotaadd your We are giving away $1200 in prizes - enter simply by sending us your own city pictures! See promotion details and to upload your Thief River Falls, Minnesota photos OSM Map General Map Google Map MSN Map Cu",
+        "distance": 0.2887386381626129
+      },
+      {
+        "id": 3443,
+        "title": "First State Bank (Gothenburg, NE) Locations in Your Area",
+        "url": "https://www.mybanktracker.com/First-State-Bank-Gothenburg-NE/Locations",
+        "combined_text": "First State Bank (Gothenburg, NE) Locations in Your Area \"Overview Locations Reviews First State Bank (Gothenburg, NE) Locations in Your Area First State Bank (Gothenburg, NE) has 7 branches in their local area. This traditional brick and mortar bank is a community bank that has expanded to multiple locations, and most likely has ATM locations. Search Sho",
+        "distance": 0.7409695982933044
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-7747742579332504535": {
+    "query_id": "-7747742579332504535",
+    "query": "download movies and shows to watch offline",
+    "relevants": [
+      {
+        "relevant_doc": 270,
+        "relevant_url": "http://www.apple.com/itunes/video/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 270,
+        "title": "Turn wherever you are into your very own screening room.",
+        "url": "http://www.apple.com/itunes/video/",
+        "combined_text": "Turn wherever you are into your very own screening room. Turn wherever you are into your very own screening room.i Tunes makes it easy to lose yourself in a movie or TV show, whether you’re relaxing at home or out in the world. Just download your favorite episodes or movies and you have something great to watch while you’re commuting to work, traveling, o",
+        "distance": 0.6351584792137146
+      },
+      {
+        "id": 3318,
+        "title": "Ice Cube Movies",
+        "url": "http://www.movies.com/actors/ice-cube/ice-cube-movies/p289255",
+        "combined_text": "Ice Cube Movies \"News + Features In Theaters At Home Reviews Trailers\"\"Get off your horse and drink your milk. \"\"Movies.com > Ice Cube movies Share View All Watch It In Theaters Fist Fight The Book of Life Three Kings Friday Boyz 'N the Hood1 of 5Get Movie Times At Home Fist Fight Barbershop: The Next Cut Ride Alon",
+        "distance": 0.662438690662384
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8276285094850664098": {
+    "query_id": "-8276285094850664098",
+    "query": "toshiba laptops optimized for windows 10",
+    "relevants": [
+      {
+        "relevant_doc": 1965,
+        "relevant_url": "http://us.toshiba.com/windows-10/features"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1965,
+        "title": "Toshiba Laptops:Designed for Windows 10, plus so much more.",
+        "url": "http://us.toshiba.com/windows-10/features",
+        "combined_text": "Toshiba Laptops:Designed for Windows 10, plus so much more. Close Windows 10 Learn Toshiba Laptop Features Toshiba Laptops: Designed for Windows 10, plus so much more. New Toshiba laptops are designed to be ready for the new Windows 10 experience - with smart performance and customized features built around the way you want to work and play. Dual-array Tru T",
+        "distance": 0.15383583307266235
+      },
+      {
+        "id": 1447,
+        "title": "HP Laptop turns off when unplugged from wall",
+        "url": "https://community.spiceworks.com/topic/173985-hp-laptop-turns-off-when-unplugged-from-wall",
+        "combined_text": "HP Laptop turns off when unplugged from wall Get answers from your peers along with millions of IT pros who visit Spiceworks. Join Now Hello,We have an HP 6910p laptop that will not pull power from the battery after it has been unplugged from the wall. The Laptop immediately shuts completely off with no warning. We know it is not a bad battery",
+        "distance": 0.593585729598999
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-1876854061879303369": {
+    "query_id": "-1876854061879303369",
+    "query": "haltom city tx stats and photos",
+    "relevants": [
+      {
+        "relevant_doc": 879,
+        "relevant_url": "http://www.city-data.com/city/Haltom-City-Texas.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 879,
+        "title": "Haltom City, Texas",
+        "url": "http://www.city-data.com/city/Haltom-City-Texas.html",
+        "combined_text": "Haltom City, Texas Follow city-data.com founder on our Forum or@Lech Mazur Haltom City, Texasadd your Submit your own pictures of this city and show them to the World See promotion details and to upload your Haltom City, Texas photos OSM Map General Map Google Map MSN Map55°F10 miles Wind: 10 mph Pressure: 30.27 in Hu",
+        "distance": 0.40329957008361816
+      },
+      {
+        "id": 2672,
+        "title": "Dallas, Texas",
+        "url": "http://www.city-data.com/city/Dallas-Texas.html",
+        "combined_text": "Dallas, Texas \"Follow city-data.com founder on our Forum or@Lech Mazur Dallas, Texassee 175 more add your Submit your own pictures of this city and show them to the World See promotion details and to upload your Dallas, Texas photos OSM Map General Map Google Map MSN Map70°F10 miles Wind: 21 mph Pressure: 29.86 i",
+        "distance": 0.6561217904090881
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-3751710894516579160": {
+    "query_id": "-3751710894516579160",
+    "query": "tilbury essex travel guide reviews",
+    "relevants": [
+      {
+        "relevant_doc": 1924,
+        "relevant_url": "https://www.tripadvisor.com/Tourism-g2527614-Tilbury_Thurrock_Essex_England-Vacations.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1924,
+        "title": "Tilbury, United Kingdom",
+        "url": "https://www.tripadvisor.com/Tourism-g2527614-Tilbury_Thurrock_Essex_England-Vacations.html",
+        "combined_text": "Tilbury, United Kingdom 537 reviews and opinions Tilbury, United Kingdom (James B, Feb 2012)Lodging Vacation Rentals (51)Flightsfrom $767Things to Do (2)257 Reviews Restaurants (14)267 Reviews Forum13 Posts Overview Location Things to Do See all 331 traveler photos Know better. Book better. Go better.",
+        "distance": 0.486651748418808
+      },
+      {
+        "id": 2970,
+        "title": "Luton, United Kingdom",
+        "url": "https://www.tripadvisor.com/Tourism-g190747-Luton_Bedfordshire_England-Vacations.html",
+        "combined_text": "Luton, United Kingdom \"36,120 reviews and opinions Luton, United Kingdom (Christopher G, Aug 2009)Hotels (27)15,371 Reviews Vacation Rentals (28)3 Reviews Flightsfrom $752Things to Do (34)3,530 Reviews Restaurants (278)16,935 Reviews Forum280 Posts Overview Places to Stay Location Things to Do Want to save up to 30% on y",
+        "distance": 0.6563478708267212
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8637698970760495361": {
+    "query_id": "-8637698970760495361",
+    "query": "requirements to teach nursing assistants",
+    "relevants": [
+      {
+        "relevant_doc": 1057,
+        "relevant_url": "https://www.wikihow.com/Become-a-CNA-Instructor"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2318,
+        "title": "Nursing School",
+        "url": "http://www.excite.com/education/colleges/nursing-school",
+        "combined_text": "Nursing School Nursing School A nursing school prepares students to enter the lucrative nursing profession. By enrolling in programs offered by these institutes, aspiring nurses can equip themselves with the knowledge and skills required to serve the society. There are a number of nursing schools that offer differ",
+        "distance": 0.41347628831863403
+      },
+      {
+        "id": 1057,
+        "title": "How to Become a CNA Instructor",
+        "url": "https://www.wikihow.com/Become-a-CNA-Instructor",
+        "combined_text": "How to Become a CNA Instructor Edit Article How to Become a CNA Instructor Four Parts: Gaining Early Experience Getting the Proper Education Obtaining Certification to Become a CNA Instructor Finding a Job as a CNA Instructor Community Q&AA CNA instructor provides hands on training for nurses before they enter the workforce. If y",
+        "distance": 0.44716423749923706
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "5491319523089761931": {
+    "query_id": "5491319523089761931",
+    "query": "northern pike fishing season colorado",
+    "relevants": [
+      {
+        "relevant_doc": 2377,
+        "relevant_url": "http://www.denverpost.com/2011/06/14/its-transition-time-for-northern-pike-in-colorado-waters/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2377,
+        "title": "Itâs transition time for northern pike in Colorado waters",
+        "url": "http://www.denverpost.com/2011/06/14/its-transition-time-for-northern-pike-in-colorado-waters/",
+        "combined_text": "Itâs transition time for northern pike in Colorado waters Sports Outdoors It’s transition time for northern pike in Colorado waters Previous Next1 of 2Nathan Zelinsky holds a pike caught by Fre Willard of Colorado Springs. By Scott Willoughby | The Denver Post PUBLISHED: June 14, 2011 at 4:11 pm | UPDATED: May 3, 2016 at 12:47 pm SOUTH PARK — In the anglin",
+        "distance": 0.3045886158943176
+      },
+      {
+        "id": 3127,
+        "title": "Okeechobee Bass Fishing",
+        "url": "https://lakeokeechobeebassfishing.com/okeechobee-bass-fishing/",
+        "combined_text": "Okeechobee Bass Fishing Okeechobee Bass Fishing Lake Okeechobee bass fishing is considered some of the best freshwater fishing in the United States. The Sunshine State is the Fishing Capital for trophy bass fishing, as well as other sport fishing, and is one of the premier fishing destinations in the world. Lake Okeechobee",
+        "distance": 0.6290457844734192
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-7058615206663425622": {
+    "query_id": "-7058615206663425622",
+    "query": "did kafka base metamorphosis on his life",
+    "relevants": [
+      {
+        "relevant_doc": 1231,
+        "relevant_url": "http://www.kafka.org/index.php?aid=218"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1231,
+        "title": " (SP:) Franz Kafkaâs personal life reflected in the Metamorphosis",
+        "url": "http://www.kafka.org/index.php?aid=218",
+        "combined_text": "(SP:) Franz Kafkaâs personal life reflected in the Metamorphosis \"2018/04/12 - 17:53 (SP:) Franz Kafka’s personal life reflected in the Metamorphosisby J. Stephens The Metamorphosis is said to be one of Franz Kafka’s best works of literature. It shows the difficulties of living in a modern society and the struggle for acceptance of others when in a time of need.",
+        "distance": 0.25494664907455444
+      },
+      {
+        "id": 2045,
+        "title": "Bioethics",
+        "url": "https://www.britannica.com/topic/bioethics",
+        "combined_text": "Bioethics Bioethics, branch of applied ethics that studies the philosophical, social, and legal issues arising in medicine and the life sciences. It is chiefly concerned with human life and well-being, though it sometimes also treats ethical questions relating to the nonhuman biological environment. (Such que",
+        "distance": 0.7173856496810913
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-3585001407504047673": {
+    "query_id": "-3585001407504047673",
+    "query": "Mount Holly Springs community Facebook page",
+    "relevants": [
+      {
+        "relevant_doc": 439,
+        "relevant_url": "https://www.facebook.com/Mount-Holly-Springs-122065314515326/timeline/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 439,
+        "title": "Mount Holly Springs",
+        "url": "https://www.facebook.com/Mount-Holly-Springs-122065314515326/timeline/",
+        "combined_text": "Mount Holly Springs \"Mount Holly Springs Home About Photos Posts Community Create a Page Like Share Suggest Edits Send Message See more of Mount Holly Springs on Facebook Log Inor Create New Account Community Community See All336 people like this339 people follow this About See All Contact Mount Holly Springs on Messen",
+        "distance": 0.132720947265625
+      },
+      {
+        "id": 3552,
+        "title": "Hollycombe Steam CollectionMuseum in Liphook",
+        "url": "http://www.facebook.com/hollycombesteam",
+        "combined_text": "Hollycombe Steam CollectionMuseum in Liphook Home About Photos Reviews Wall Paper Videos Events Posts Community See more of Hollycombe Steam Collection on Facebook Log Inor Create New Account Hollycombe Steam Collection Museum in Liphook4.8Community See All2,935 people like this2,900 people follow this About See All Hollycombe Working Steam Mu",
+        "distance": 0.5426161289215088
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "549595032087966906": {
+    "query_id": "549595032087966906",
+    "query": "honolulu map directions and attractions",
+    "relevants": [
+      {
+        "relevant_doc": 415,
+        "relevant_url": "https://www.mapquest.com/us/hi/honolulu-282090241"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1671,
+        "title": "Subscribe NowGoSubscribe to our mailing list to get deals and saving tips.",
+        "url": "http://www.familyvacationcritic.com/attraction/honolulu-zoo/oahu/",
+        "combined_text": "Subscribe NowGoSubscribe to our mailing list to get deals and saving tips. \"Home > Destinations > Oahu, HI Attractions > Honolulu Zoo Overview Attractions (23) Resorts (75) Rentals (590) Restaurants (11) Planning & Tips Map Reviews (9)Family Activities: Honolulu Zoo Attraction Honolulu Zoo151 Kapahulu Avenue , Honolulu , HI 96815 Sitting smack in the middle of Waikiki, The",
+        "distance": 0.44283488392829895
+      },
+      {
+        "id": 415,
+        "title": "Honolulu",
+        "url": "https://www.mapquest.com/us/hi/honolulu-282090241",
+        "combined_text": "Honolulu \"Honolulu Honolulu, HIFavorite Share More Nearby Directions Sponsored Topics Description Honolulu, Hawaii, gives the visitor a slice of tropical paradise alongside all the offerings you'd expect to find in a major city. The beaches are the big draw, of course, but the city's multi-ethnic diversity —",
+        "distance": 0.45460429787635803
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-7806463830101444517": {
+    "query_id": "-7806463830101444517",
+    "query": "tricare health plan for military families",
+    "relevants": [
+      {
+        "relevant_doc": 670,
+        "relevant_url": "https://www.usfamilyhealth.org/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 670,
+        "title": "You might not be eligible for US Family Health Plan of Southern New England.",
+        "url": "https://www.usfamilyhealth.org/",
+        "combined_text": "You might not be eligible for US Family Health Plan of Southern New England. US Family Health Plan US Family Health Plan With you every step of the way US Family Health Plan: a TRICARE Prime option“For all of us here at US Family Health Plan, it’s about recognizing and respecting our members and the contributions they have made to our country.”Elaine Williams Member Educatio",
+        "distance": 0.3545456826686859
+      },
+      {
+        "id": 3216,
+        "title": "Health",
+        "url": "https://www.usaid.gov/afghanistan/health",
+        "combined_text": "Health A health worker sits with a patient to assess what’s the best course of action. USAID works to deliver high-impact health care to families in both rural and urban areas. USAID/Afghanistan In 2002, many Afghans did not have access to basic health services, and few women were able to seek health care.",
+        "distance": 0.5179086923599243
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-6478838444932431142": {
+    "query_id": "-6478838444932431142",
+    "query": "how militaries jam and spoof radar",
+    "relevants": [
+      {
+        "relevant_doc": 2843,
+        "relevant_url": "https://en.wikipedia.org/wiki/Radar_jamming_and_deception"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2843,
+        "title": "Radar jamming and deception",
+        "url": "https://en.wikipedia.org/wiki/Radar_jamming_and_deception",
+        "combined_text": "Radar jamming and deception \" [ hide]This article has multiple issues. Please help improve it or discuss these issues on the talk page. ( Learn how and when to remove these template messages)This article's lead section does not adequately summarize key points of its contents. (July 2012)This article needs additional citations",
+        "distance": 0.6763546466827393
+      },
+      {
+        "id": 715,
+        "title": "Welcome to Radio Scanner Guide!",
+        "url": "http://radio-scanner-guide.com/",
+        "combined_text": "Welcome to Radio Scanner Guide! \"Welcome to Radio Scanner Guide!The BCT-8 is a popular radio scanner designed for mobile use. Vendors such as Amazon and Scanner Master sell scanners. This website, Radio Scanner Guide, will help you select a scanner radio so you can join the exciting hobby of radio scanning! It organizes the many n",
+        "distance": 0.7697250843048096
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-826718204964251676": {
+    "query_id": "-826718204964251676",
+    "query": "transport from heathrow to loughborough",
+    "relevants": [
+      {
+        "relevant_doc": 3019,
+        "relevant_url": "https://www.tripadvisor.com/ShowTopic-g186338-i17-k1061984-How_to_get_to_Loughborough-London_England.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3019,
+        "title": "How to get to Loughborough",
+        "url": "https://www.tripadvisor.com/ShowTopic-g186338-i17-k1061984-How_to_get_to_Loughborough-London_England.html",
+        "combined_text": "How to get to Loughborough Watch this Topic Browse forums All England forums London forum London forums Ns Maki Novi Sad, Serbia5 posts Save Topic How to get to Loughborough Mar 7, 2007, 6:36 AMI will have to travel to Loughborough from Heathrow on 16Th March 2007. Can anyone tell me what would be the best way for traveling t",
+        "distance": 0.4491468369960785
+      },
+      {
+        "id": 888,
+        "title": "Brooklands Museum",
+        "url": "http://www.visitlondon.com/things-to-do/place/225754-brooklands-museum",
+        "combined_text": "Brooklands Museum Trip Advisor Traveller Rating Based on 1,793 reviews Explore motoring and aviation history at Brooklands. The Brooklands Museum features racing cars, motorcycles and aircraft like the Wellington Bomber and a chance to go aboard a classic Concorde. The Read More About Prices and Opening Times Images",
+        "distance": 0.7185237407684326
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3431553025304287564": {
+    "query_id": "3431553025304287564",
+    "query": "pearland tx travel reviews and hotels",
+    "relevants": [
+      {
+        "relevant_doc": 811,
+        "relevant_url": "https://www.tripadvisor.com/Tourism-g56432-Pearland_Texas-Vacations.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 811,
+        "title": "Pearland, Texas",
+        "url": "https://www.tripadvisor.com/Tourism-g56432-Pearland_Texas-Vacations.html",
+        "combined_text": "Pearland, Texas \"7,122 reviews and opinions Pearland, Texas (madhurihn, Oct 2017)Lodging (11)1,575 Reviews Vacation Rentals (2)2 Reviews Flightsfrom $176Things to Do (12)141 Reviews Restaurants (215)5,402 Reviews Forum1 Post Overview Places to Stay Location Things to Do Want to save up to 30% on your Pearland hotel",
+        "distance": 0.25389203429222107
+      },
+      {
+        "id": 500,
+        "title": "Hotels in Fort Lauderdale",
+        "url": "https://www.orbitz.com/Fort-Lauderdale-Hotels.d601750.Travel-Guide-Hotels",
+        "combined_text": "Hotels in Fort Lauderdale Skip to main content Account Sign in to see exclusive Member Pricing. Sign In New? Create an Account My Lists My Trips Support Español Home Hotels Flights Packages Cars Vacation Rentals Cruises Deals Activities Discover Mobile Rewards Orbitz.com Hotels United States of America Florida Fort Lauderdal",
+        "distance": 0.5667842626571655
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-3244168809884283974": {
+    "query_id": "-3244168809884283974",
+    "query": "dinosaur mod for minecraft 1.7.10",
+    "relevants": [
+      {
+        "relevant_doc": 2357,
+        "relevant_url": "http://www.minecraftdls.com/jurassicraft-mod/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2357,
+        "title": "JurassiCraft Mod for Minecraft 1.7.10",
+        "url": "http://www.minecraftdls.com/jurassicraft-mod/",
+        "combined_text": "JurassiCraft Mod for Minecraft 1.7.10 Jurassi Craft Mod for Minecraft 1.7.10Jul 25, 2014 Uncategorized Comments: 1All you really need to know about this mod is that it contains dinosaurs. Lots of dinosaurs. In fact, 16 dinosaurs in total at the moment, along with food, machines, blocks, and more, created in amazing detail by 20 differen",
+        "distance": 0.21865342557430267
+      },
+      {
+        "id": 458,
+        "title": "Dinosaur Names",
+        "url": "http://factacular.com/subjects/Dinosaur_Names",
+        "combined_text": "Dinosaur Names Home Factopedia Brainoffs Rankings Community Log In You know 0 facts Dinosaur Names Your overall rating on Dinosaur Names = 0%Your best rally score on Dinosaur Names = 0 facts Play Fact Master on Dinosaur Names Challenge Friends to a Brainoff on Dinosaur Names Play a Rally Game on Dinosaur Names88 f",
+        "distance": 0.4795059263706207
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3191478089924345276": {
+    "query_id": "3191478089924345276",
+    "query": "us education department priorities 2018",
+    "relevants": [
+      {
+        "relevant_doc": 179,
+        "relevant_url": "http://www2.ed.gov/about/overview/focus/goals.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 179,
+        "title": "Skip to main content About Us Contact Us FAQs Language AssistanceU.S. Department of EducationStudent Loans Grants Laws Data",
+        "url": "http://www2.ed.gov/about/overview/focus/goals.html",
+        "combined_text": "Skip to main content About Us Contact Us FAQs Language AssistanceU.S. Department of EducationStudent Loans Grants Laws Data About ED OVERVIEWThe Department's FY 2018-19 Priority Performance Goals February 2018The Department identified four Agency Priority Goals (APGs) for FY 2018–19. Improving education starts with allowing greater decision-making authority at the state and local levels and empowering parents and student",
+        "distance": 0.36738914251327515
+      },
+      {
+        "id": 3566,
+        "title": "Education",
+        "url": "https://extension.ucsd.edu/courses-and-programs/education-programs",
+        "combined_text": "Education Education The Education Department provides integrated professional development for individuals, school communities, administrators and vocational institutions while incorporating best practices and the latest research in content, pedagogy and andragogy.",
+        "distance": 0.6048339009284973
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "2471245515289341615": {
+    "query_id": "2471245515289341615",
+    "query": "can dogs have cheese without getting sick",
+    "relevants": [
+      {
+        "relevant_doc": 2762,
+        "relevant_url": "http://bunkblog.net/foods-safe-for-dogs/can-dogs-eat-cheese"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2762,
+        "title": "Can Dogs Eat Cheese? â Can cheese make my dog sick?",
+        "url": "http://bunkblog.net/foods-safe-for-dogs/can-dogs-eat-cheese",
+        "combined_text": "Can Dogs Eat Cheese? â Can cheese make my dog sick? Can Dogs Eat Cheese? – Can cheese make my dog sick?16By Bunk the Pug on March 27, 2012 Foods Safe For Dogs Showing 1 of 1Is cheese safe for dogs? The answer is YES and NOAdult dogs generally are lactose intolerant. Dairy is a common allergen, and even if your dog isn’t allergic to it, many have into",
+        "distance": 0.24633678793907166
+      },
+      {
+        "id": 3267,
+        "title": "Symptoms of Chagas Disease in Dogs",
+        "url": "http://www.vetinfo.com/symptoms-of-chagas-disease-in-dogs.html",
+        "combined_text": "Symptoms of Chagas Disease in Dogs Dogs > Infections / Disease Symptoms of Chagas Disease in Dogs Chagas disease is an infection that affects humans and may also be seen in canines and other animals. The disease results after the infection with Trypanosoma protozoa. If your pet is diagnosed with this infection, you should be cautious",
+        "distance": 0.5515247583389282
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "1671388893424405484": {
+    "query_id": "1671388893424405484",
+    "query": "handmade cement tiles ready to ship",
+    "relevants": [
+      {
+        "relevant_doc": 2988,
+        "relevant_url": "https://www.villalagoontile.com/cement-tile-in-stock.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2988,
+        "title": "In-Stock Encaustic Cement Tile",
+        "url": "https://www.villalagoontile.com/cement-tile-in-stock.html",
+        "combined_text": "In-Stock Encaustic Cement Tile \"Home Cement Tile In Stock In-Stock Encaustic Cement Tile Hand-made cement tile adds character an interest to any space. Our huge in-stock selection is great for time-sensitive projects! Jump to Categories: 8\"\" Square , 4\"\" Square , Hex , Shaped Tiles, Patchwork, Solid Colors, Arriving Soon, Special",
+        "distance": 0.394277960062027
+      },
+      {
+        "id": 655,
+        "title": "Porcelain Tiles vs. Ceramic Tiles",
+        "url": "https://www.overstock.com/guides/porcelain-tiles-vs-ceramic-tiles",
+        "combined_text": "Porcelain Tiles vs. Ceramic Tiles Porcelain Tiles vs. Ceramic Tiles Tile is a building material known for its durability, moisture resistance and low maintenance requirements. Tile is often used in kitchens and bathrooms but is fairly versatile and can be used in a wide variety of applications, such as countertops, backsplashes and",
+        "distance": 0.5157510638237
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7222456096975442975": {
+    "query_id": "7222456096975442975",
+    "query": "maiden name meaning and origin",
+    "relevants": [
+      {
+        "relevant_doc": 2456,
+        "relevant_url": "http://www.answers.com/Q/What_is_the_meaning_of_mother's_maiden_name"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2456,
+        "title": "What is the meaning of mother's maiden name?",
+        "url": "http://www.answers.com/Q/What_is_the_meaning_of_mother's_maiden_name",
+        "combined_text": "What is the meaning of mother's maiden name? \"Answers.com ® Wiki Answers ® Categories Literature & Language Languages and Cultures Names and Name Meanings Name Origins What is the meaning of mother's maiden name? Flag What is the meaning of mother's maiden name? Edit Answer by Peter Zavon Confidence votes 64.3KTraditionally in the English-spea",
+        "distance": 0.3481874465942383
+      },
+      {
+        "id": 2563,
+        "title": "\"The Origin and Meaning of the Last Name, \"\"Long\"\"\"",
+        "url": "https://www.thoughtco.com/long-last-name-meaning-and-origin-1422550",
+        "combined_text": "\"The Origin and Meaning of the Last Name, \"\"Long\"\"\" \"Humanities ›History & Culture The Origin and Meaning of the Last Name, \"\"Long\"\"Share Flipboard Email Print Hero Images / Getty Imagesby Kimberly Powell Updated September 19, 2017Long is the 86th most popular surname in the United States with origins in English , Irish , and Chinese. The most common",
+        "distance": 0.5858946442604065
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-3123598512809435064": {
+    "query_id": "-3123598512809435064",
+    "query": "why were japanese americans interned",
+    "relevants": [
+      {
+        "relevant_doc": 1226,
+        "relevant_url": "https://prezi.com/iu2op51m5wep/what-was-the-purpose-of-japanese-internment-camps-and-how-di/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1226,
+        "title": "what was the purpose of japanese internment camps and how di",
+        "url": "https://prezi.com/iu2op51m5wep/what-was-the-purpose-of-japanese-internment-camps-and-how-di/",
+        "combined_text": "what was the purpose of japanese internment camps and how di Public & reusable Create your own Make a copy Share Embed Likewhat was the purpose of japanese internment camps and how di No descriptionby Ms. Bearyon 13 May 2014Tweet Comments ( 0)Please log in to add your comment. Report abuse Transcript of what was the purpose of japanese internment camps and ho",
+        "distance": 0.4892614185810089
+      },
+      {
+        "id": 3027,
+        "title": "Key Events That Affected Native Americans in the Late 1800s",
+        "url": "http://classroom.synonym.com/key-events-affected-native-americans-late-1800s-11629.html",
+        "combined_text": "Key Events That Affected Native Americans in the Late 1800s \"Home » Classroom Key Events That Affected Native Americans in the Late 1800s By Laura Leddy Turner Government policies of the late 1800s severely reduced Native American land holdings. In the late 1800s, the United States government's policy towards Native Americans -- most of whom had been removed",
+        "distance": 0.624212920665741
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-5825828100866959941": {
+    "query_id": "-5825828100866959941",
+    "query": "how fast do border collies run",
+    "relevants": [
+      {
+        "relevant_doc": 999,
+        "relevant_url": "http://www.answers.com/Q/How_fast_can_a_border_collie_run_in_mph"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 999,
+        "title": "How fast can a border collie run in mph?",
+        "url": "http://www.answers.com/Q/How_fast_can_a_border_collie_run_in_mph",
+        "combined_text": "How fast can a border collie run in mph? Answers.com ® Wiki Answers ® Categories Animal Life Mammals Land Mammals Domestic Dogs Dog Breeds Border Collies How fast can a border collie run in mph? Flag How fast can a border collie run in mph? Answered by The Wiki Answers ®Community Answers.com ® is making the world better one answer at a tim",
+        "distance": 0.1992621123790741
+      },
+      {
+        "id": 2340,
+        "title": "What are the 20 fastest dog breeds?",
+        "url": "http://www.answers.com/Q/What_are_the_top_20_fastest_dog_breeds",
+        "combined_text": "What are the 20 fastest dog breeds? Flag What are the 20 fastest dog breeds? Answer by Madmen Confidence votes 1571. The Greyhound is the fastest Dog in the world. The top speed approaches 45 mph. 2. Whippet, top speed may approach 40 mph. 3. Saluki top speed approaching 40 mph. 4. Borzoi, AKA Russian Wolf Hound. 5. Irish Wolf Hound 6",
+        "distance": 0.5938466191291809
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "5014314894333467560": {
+    "query_id": "5014314894333467560",
+    "query": "company page for global online payments",
+    "relevants": [
+      {
+        "relevant_doc": 817,
+        "relevant_url": "https://www.linkedin.com/in/okpay"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2967,
+        "title": "âOnline PaymentsFinancial Services Department",
+        "url": "http://www.maryvillegov.com/online-payments.html",
+        "combined_text": "âOnline PaymentsFinancial Services Department \"Online Payments Financial Services Department Welcome to the Financial Services Department. We serve our citizens, businesses, and customers with the following information related to City Government. If there is anything you cannot find, please contact us. We offer online utility and property tax p",
+        "distance": 0.5805928111076355
+      },
+      {
+        "id": 859,
+        "title": "About the Global Young Leaders Conference",
+        "url": "https://www.envisionexperience.com/explore-our-programs/global-young-leaders-conference",
+        "combined_text": "About the Global Young Leaders Conference Gain a Global Perspective Spend ten amazing days in Washington, DC and New York City where you will adopt in-demand leadership skills, gain diverse perspectives from peers from around the world, and connect with global issues leaders. Join other students from around the country and world for this ex",
+        "distance": 0.6580954790115356
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-3895143467444873491": {
+    "query_id": "-3895143467444873491",
+    "query": "mixing two chick breeds in brooder",
+    "relevants": [
+      {
+        "relevant_doc": 927,
+        "relevant_url": "http://www.backyardchickens.com/t/610801/question-about-raising-two-different-breeds-of-chicks-together"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1268,
+        "title": "Chicken Help",
+        "url": "http://www.mypetchicken.com/backyard-chickens/chicken-help/How-do-you-tell-if-a-baby-chick-is-female-or-male-H22.aspx",
+        "combined_text": "Chicken Help \"Categories: All All > Chicken Facts Q: How do you tell if a baby chick is female or male? A: If you have a \"\"sex link\"\" chick, it's easy! Males and females hatch out different colors. Red Stars are a very common sex link, and the females are a reddish-gold while the males are a buttery color. With",
+        "distance": 0.5413993000984192
+      },
+      {
+        "id": 927,
+        "title": "question about raising two different breeds of chicks together",
+        "url": "http://www.backyardchickens.com/t/610801/question-about-raising-two-different-breeds-of-chicks-together",
+        "combined_text": "question about raising two different breeds of chicks together \"Home Forums > Raising Back Yard Chickens > Managing Your Flock >question about raising two different breeds of chicks together Discussion in ' Managing Your Flock ' started by scheelgrl, Dec 19, 2011 . Most Liked Posts Page 1 of 31 2 3 Next >Dec 19, 2011 #1scheelgrl Chillin' With My Peeps112283Dec",
+        "distance": 0.5448471307754517
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7849657871667683047": {
+    "query_id": "7849657871667683047",
+    "query": "oak island family beach vacation",
+    "relevants": [
+      {
+        "relevant_doc": 2696,
+        "relevant_url": "http://www.ncbrunswick.com/islands/Oak_Island"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2696,
+        "title": "Oak Island",
+        "url": "http://www.ncbrunswick.com/islands/Oak_Island",
+        "combined_text": "Oak Island \"Oak Island A Beach Vacation With an Air of Nostalgia When you envision a classic family beach vacation, you're most likely picturing Oak Island, whether you know it yet or not. That nostalgic feeling you get when you think of a family outing on bicycles complete with bells and baskets, an ice cream",
+        "distance": 0.16672243177890778
+      },
+      {
+        "id": 2658,
+        "title": "Oahu Beaches",
+        "url": "https://www.gohawaii.com/oahu/guidebook/topics/beaches-of-oahu",
+        "combined_text": "Oahu Beaches Oahu Beaches Scroll to Continue Beaches of Oahu Oahu’s beaches are a true taste of paradise—whether you’re looking for high adventure on the sea, gentle waves for your first surfing lesson, a romantic sunset view or a family-friendly swimming spot. While you might already be familiar with world-famo",
+        "distance": 0.54075688123703
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8593456705107488847": {
+    "query_id": "-8593456705107488847",
+    "query": "history of Michigan electronics retailer Fretter",
+    "relevants": [
+      {
+        "relevant_doc": 3033,
+        "relevant_url": "http://www.company-histories.com/Fretter-Inc-Company-History.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3033,
+        "title": "Fretter, Inc.",
+        "url": "http://www.company-histories.com/Fretter-Inc-Company-History.html",
+        "combined_text": "Fretter, Inc. \"Fretter, Inc. Address: 12501 Grand River Avenue Brighton, Michigan 48116 U. S. A. Telephone: (810) 220-5000 Fax: (810) 220-5686 Statistics: Public Company Incorporated: 1951 Employees: 1,699 Sales: $545.51 million Stock Exchanges: NASDAQ SICs: 5731 Radio, TV & Electronics Stores; 5722 Household App",
+        "distance": 0.5206975936889648
+      },
+      {
+        "id": 1130,
+        "title": "Rochester Hills, Michigan",
+        "url": "http://www.city-data.com/city/Rochester-Hills-Michigan.html",
+        "combined_text": "Rochester Hills, Michigan Follow city-data.com founder on our Forum or@Lech Mazur Rochester Hills, Michiganadd your Submit your own pictures of this city and show them to the World See promotion details and to upload your Rochester Hills, Michigan photos OSM Map General Map Google Map MSN Map32°F2 miles Wind: Calm Pressure:",
+        "distance": 0.7033369541168213
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "5197318266229802745": {
+    "query_id": "5197318266229802745",
+    "query": "small affectionate british toy spaniel",
+    "relevants": [
+      {
+        "relevant_doc": 2955,
+        "relevant_url": "https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 747,
+        "title": "Cockapoo? weight when fully grown?",
+        "url": "https://answers.yahoo.com/question/index?qid=20100628163746AAFT2l1",
+        "combined_text": "Cockapoo? weight when fully grown? \"Pets Dogs Cockapoo? weight when fully grown?how much will this dog weigh when fully grown? its a cocker spaniel mix, but its 2 lbs at 2 months old so im guessing its mixed w/ a toy poodle. pleez tell me how much it will weigh full grown and if u kno wat its mixed with. heres the link: http://www.hu",
+        "distance": 0.5086076259613037
+      },
+      {
+        "id": 1750,
+        "title": "How Many Puppies Will a Miniature Pinscher Have?",
+        "url": "https://www.reference.com/pets-animals/many-puppies-miniature-pinscher-7b23bf7ebd37991d",
+        "combined_text": "How Many Puppies Will a Miniature Pinscher Have? Pets & Animals Pets Dogs Q: How Many Puppies Will a Miniature Pinscher Have? A: Quick Answer The average litter size for a miniature pinscher is three to six puppies. Being a small dog breed, the miniature pinscher's maximum litter size ranges from five to eight puppies. Miniature pinscher, also kno",
+        "distance": 0.5352747440338135
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8726587530323459338": {
+    "query_id": "-8726587530323459338",
+    "query": "ducks unlimited film tweet",
+    "relevants": [
+      {
+        "relevant_doc": 120,
+        "relevant_url": "https://twitter.com/Ducks_TV"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 120,
+        "title": "Ducks Unlimited TV",
+        "url": "https://twitter.com/Ducks_TV",
+        "combined_text": "Ducks Unlimited TV Ducks Unlimited TV @ Ducks_TV Mar 7“I want to have areas preserved where my kids can take their kids and their kids can take their kids.” Watch DU’s newest film at ducks.org/dufilms @ Mossy Oak@ YETICoolers @ drakewaterfowl @ Win Rep Arms @ winchester @ Ducks Unlimited0 replies 1 retweet 6 likes16",
+        "distance": 0.3257899582386017
+      },
+      {
+        "id": 3349,
+        "title": "Duck Symbol",
+        "url": "http://www.signology.org/bird-symbol/duck-symbol.htm",
+        "combined_text": "Duck Symbol \"Duck Symbol Duck Symbol: To see a wounded bird, is a symbol of fateful of deep sadness caused by erring offspring - To see flying birds, is a symbol of prosperity to the dreamer. All disagreeable environments will vanish before the wave of prospective good - To catch birds, is not at all bad. To he",
+        "distance": 0.6211919784545898
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "5051361251064510335": {
+    "query_id": "5051361251064510335",
+    "query": "navy admiral retirement pay estimate",
+    "relevants": [
+      {
+        "relevant_doc": 1786,
+        "relevant_url": "http://www.answers.com/Q/How_much_is_the_pension_of_a_navy_admiral"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1786,
+        "title": "How much is the pension of a navy admiral?",
+        "url": "http://www.answers.com/Q/How_much_is_the_pension_of_a_navy_admiral",
+        "combined_text": "How much is the pension of a navy admiral? \"Answers.com ® Wiki Answers ® Categories History, Politics & Society Politics and Government Government US Government US Military US Army How much is the pension of a navy admiral? Flag How much is the pension of a navy admiral? Answer by Mark Swarthout Confidence votes 119KContract attorney. When n",
+        "distance": 0.32021525502204895
+      },
+      {
+        "id": 2636,
+        "title": "Review: Admiral Car Insurance",
+        "url": "https://boughtbymany.com/news/article/admiral-car-insurance-review/",
+        "combined_text": "Review: Admiral Car Insurance \"Log in Groups Reviews & guides About us Review: Admiral Car Insurance By David Woodfield 4th December 2017Key policy features of Admiral car insurance: A no-claims discount bonus accelerator Unlimited cover for standard audiovisual equipment24-hour emergency helpline Admiral was voted Best Car Insu",
+        "distance": 0.5408221483230591
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "5800794870500516551": {
+    "query_id": "5800794870500516551",
+    "query": "steps to start a business in hawaii",
+    "relevants": [
+      {
+        "relevant_doc": 1403,
+        "relevant_url": "http://www.ehow.com/info_7809029_average-salary-nurses-hawaii.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1403,
+        "title": "How to Start a Small Business in Hawaii",
+        "url": "http://www.ehow.com/info_7809029_average-salary-nurses-hawaii.html",
+        "combined_text": "How to Start a Small Business in Hawaii \"How to Start a Small Business in Hawaiiby Joshua Duvauchelle; Updated September 26, 2017Hawaii is the westernmost state in the U. S., joining the nation in 1959. Its temperate climate, ethnically diverse population, and connection to both the U. S. mainland and various Asian economies presents uniq",
+        "distance": 0.5518558025360107
+      },
+      {
+        "id": 2838,
+        "title": "How to Travel from Oahu to Outer Hawaiian Islands",
+        "url": "http://traveltips.usatoday.com/travel-oahu-outer-hawaiian-islands-103377.html",
+        "combined_text": "How to Travel from Oahu to Outer Hawaiian Islands \"Island-hop Hawaii starting in Oahu. When booking a trip to Hawaii, plan the interisland travel to maximize the leisure time instead of waiting around for transport connections. The outer islands include the Big Island, Maui, Kauai, Molokai and Lanai. They also include smaller islands, such as Niiha",
+        "distance": 0.566082239151001
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7069468803575425915": {
+    "query_id": "7069468803575425915",
+    "query": "set gmail as default email windows 7",
+    "relevants": [
+      {
+        "relevant_doc": 387,
+        "relevant_url": "http://www.tomshardware.com/forum/17638-63-create-email-association-gmail-windows"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 387,
+        "title": "How do i create an email association for gmail in windows 7",
+        "url": "http://www.tomshardware.com/forum/17638-63-create-email-association-gmail-windows",
+        "combined_text": "How do i create an email association for gmail in windows 7 \"How do i create an email association for gmail in windows 7shm Mar 30, 2011, 12:19 AMHello, I upgraded from Vista to Windows 7 11/13/10. Since then, I've not been able to create an association for e-mail. I use Gmail. I've tried every so called solution I can find through every forum, to no avail.",
+        "distance": 0.3315380811691284
+      },
+      {
+        "id": 2162,
+        "title": "Email a File as an Attachment in Windows Live Mail",
+        "url": "http://email.about.com/od/outlookexpressbeginners/qt/Send_a_File_as_an_Attachment_with_Windows_Live_Mail_WM_OE.htm",
+        "combined_text": "Email a File as an Attachment in Windows Live Mail How To ›Email & Messaging Email a File as an Attachment in Windows Live Mail Share Pin Email Printby Heinz Tschabitscher Updated October 20, 2016Using Windows Mail or Outlook Express, it is easy to send text messages to friends, colleagues, and strangers. You can even use fancy stationery or insert",
+        "distance": 0.46779578924179077
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4671719209832780812": {
+    "query_id": "-4671719209832780812",
+    "query": "who handles burial for unclaimed homeless",
+    "relevants": [
+      {
+        "relevant_doc": 1510,
+        "relevant_url": "http://www.myreporter.com/2010/02/what-happens-to-homeless-or-indigent-people-when-they-die-and-have-no-relatives/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1510,
+        "title": "What happens to homeless or indigent people when they die and have no relatives?",
+        "url": "http://www.myreporter.com/2010/02/what-happens-to-homeless-or-indigent-people-when-they-die-and-have-no-relatives/",
+        "combined_text": "What happens to homeless or indigent people when they die and have no relatives? << Home Search What happens to homeless or indigent people when they die and have no relatives? Ken Little Star News Undertakers and state or local government employees who supervise cases involving an individual who dies in a hospital, nursing home or other institution have a responsibility to make",
+        "distance": 0.5454651117324829
+      },
+      {
+        "id": 2581,
+        "title": "Who is eligible for burial at Arlington?",
+        "url": "http://www.cnn.com/2004/ALLPOLITICS/05/31/works.arlington/index.html",
+        "combined_text": "Who is eligible for burial at Arlington? How It Works Who is eligible for burial at Arlington? National cemetery home to veterans, famous Americans Tuesday, June 1, 2004 Posted: 1:36 AM EDT (0536 GMT)RELATED• Arlington National Cemetery YOUR E-MAIL ALERTSWashington Arlington National Cemeteryor Create your own Manage alerts | What is this?",
+        "distance": 0.6786262392997742
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8484418792346339322": {
+    "query_id": "8484418792346339322",
+    "query": "how to safely clean home surfaces",
+    "relevants": [
+      {
+        "relevant_doc": 2104,
+        "relevant_url": "https://www.thespruce.com/housekeeping-tips-and-tutorials-4127916"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2104,
+        "title": "Housekeeping: Tips & Tutorials",
+        "url": "https://www.thespruce.com/housekeeping-tips-and-tutorials-4127916",
+        "combined_text": "Housekeeping: Tips & Tutorials Home Decor Cleaning & Organizing Housekeeping Housekeeping: Tips & Tutorials Learn what you need to know about cleaning surfaces in your home. Find out how to safely clean tile, marble, wood, laminate flooring and more. These tips will easily get your jobs done effectively and safely. Housekeeping T",
+        "distance": 0.3732938766479492
+      },
+      {
+        "id": 3351,
+        "title": "Dispose of Toxic Household Chemicals, Safely",
+        "url": "http://home.howstuffworks.com/home-improvement/household-hints-tips/cleaning-organizing/dispose-toxic-household-chemicals-safely.htm",
+        "combined_text": "Dispose of Toxic Household Chemicals, Safely Up Next Getty Images DCLSo, you're on board with detoxing your home and doing some green cleaning in your home; that's great! You're using baking soda for almost everything and have assembled a green cleaning kit to tackle all the dirt, dust, grime and goop in your home. But what do you do with all",
+        "distance": 0.41387197375297546
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-5227792030731363517": {
+    "query_id": "-5227792030731363517",
+    "query": "are eggplants safe for dogs",
+    "relevants": [
+      {
+        "relevant_doc": 2962,
+        "relevant_url": "http://www.answers.com/Q/Is_eggplant_good_for_dogs"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2762,
+        "title": "Can Dogs Eat Cheese? â Can cheese make my dog sick?",
+        "url": "http://bunkblog.net/foods-safe-for-dogs/can-dogs-eat-cheese",
+        "combined_text": "Can Dogs Eat Cheese? â Can cheese make my dog sick? Can Dogs Eat Cheese? – Can cheese make my dog sick?16By Bunk the Pug on March 27, 2012 Foods Safe For Dogs Showing 1 of 1Is cheese safe for dogs? The answer is YES and NOAdult dogs generally are lactose intolerant. Dairy is a common allergen, and even if your dog isn’t allergic to it, many have into",
+        "distance": 0.5484671592712402
+      },
+      {
+        "id": 429,
+        "title": "Are Larkspurs Poisonous to Dogs?",
+        "url": "http://dogcare.dailypuppy.com/larkspurs-poisonous-dogs-5995.html",
+        "combined_text": "Are Larkspurs Poisonous to Dogs? Are Larkspurs Poisonous to Dogs?by Elizabeth Muirhead Dog Care » Pet-Related House & Yard Care If your dogs spend time in the garden, make sure they can't eat your larkspur plants. Jupiterimages/Photos.com/Getty Images L arkspurs (Delphinium species) have the potential to be highly toxic to dogs, al",
+        "distance": 0.5793697834014893
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-2704127390546833357": {
+    "query_id": "-2704127390546833357",
+    "query": "1786 western massachusetts farmer uprising",
+    "relevants": [
+      {
+        "relevant_doc": 1957,
+        "relevant_url": "http://www.u-s-history.com/pages/h363.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1957,
+        "title": "Shays` Rebellion",
+        "url": "http://www.u-s-history.com/pages/h363.html",
+        "combined_text": "Shays` Rebellion \"Shays` Rebellion A wave of farm foreclosures in western Massachusetts swept the young republic to its first episode in class struggle. Demonstrators and rioters protested high taxation, the governor`s high salary, high court costs and the assembly`s refusal to issue paper money (an inflationary mea",
+        "distance": 0.5223791599273682
+      },
+      {
+        "id": 1994,
+        "title": "Massachusetts Bay Colony",
+        "url": "http://thehistoryjunkie.com/massachusetts-bay-colony/",
+        "combined_text": "Massachusetts Bay Colony Massachusetts Bay Colony By Russell Yost The Massachusetts Bay Colony was a colony located near modern-day Boston and Salem Massachusetts. It was founded by the investors of the Massachusetts Bay Company and its colonists were mainly puritans. It quickly became the largest colony in New England and",
+        "distance": 0.6175479888916016
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "2824713627446388570": {
+    "query_id": "2824713627446388570",
+    "query": "how to hand-tie a quilt",
+    "relevants": [
+      {
+        "relevant_doc": 842,
+        "relevant_url": "http://www.youtube.com/watch?v=cEkHht2oJsg"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 842,
+        "title": "\"Quilting: How to tie a quilt using the \"\"Hidden Tie\"\" or \"\"International Stitch\"\"\"",
+        "url": "http://www.youtube.com/watch?v=cEkHht2oJsg",
+        "combined_text": "\"Quilting: How to tie a quilt using the \"\"Hidden Tie\"\" or \"\"International Stitch\"\"\" \"Quilting: How to tie a quilt using the \"\"Hidden Tie\"\" or \"\"International Stitch\"\"Cow A Doodle Moo Subscribe 143Add to Share More46,353 views2899Published on Nov 24, 2013In this video, I demonstrate how to do the \"\"Hidden Tie\"\", also called the \"\"International Stitch\"\". This is a great way to tie a",
+        "distance": 0.31988587975502014
+      },
+      {
+        "id": 3380,
+        "title": "How to Cut Pieces, Strips & Patches for a Quilt",
+        "url": "http://www.howcast.com/videos/507509-how-to-cut-pieces-strips-patches-quilting/",
+        "combined_text": "How to Cut Pieces, Strips & Patches for a Quilt How to Cut Pieces, Strips & Patches for a Quilt Learn how to cut pieces, strips, and patches for a quilt from quilting expert Cathy Izzo in this Howcast video. How to Cut Pieces, Strips & Patches | Quilting Your browser does not currently recognize any of the video formats available. Click here to v",
+        "distance": 0.4927345812320709
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-843860567224642670": {
+    "query_id": "-843860567224642670",
+    "query": "when do texas hunting and fishing licenses start",
+    "relevants": [
+      {
+        "relevant_doc": 184,
+        "relevant_url": "https://tpwd.texas.gov/faq/business/license/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 184,
+        "title": "Licenses - Frequently Asked Questions",
+        "url": "https://tpwd.texas.gov/faq/business/license/",
+        "combined_text": "Licenses - Frequently Asked Questions \"Licenses - Frequently Asked Questions When do new-year licenses go on sale? August 15. Most recreational hunting and fishing type license packages are valid from date of purchase in August (August 15 and later) through August 31 of the following year. Most commercial type licenses may be purchased",
+        "distance": 0.38699474930763245
+      },
+      {
+        "id": 3127,
+        "title": "Okeechobee Bass Fishing",
+        "url": "https://lakeokeechobeebassfishing.com/okeechobee-bass-fishing/",
+        "combined_text": "Okeechobee Bass Fishing Okeechobee Bass Fishing Lake Okeechobee bass fishing is considered some of the best freshwater fishing in the United States. The Sunshine State is the Fishing Capital for trophy bass fishing, as well as other sport fishing, and is one of the premier fishing destinations in the world. Lake Okeechobee",
+        "distance": 0.5574375987052917
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3278271214285281763": {
+    "query_id": "3278271214285281763",
+    "query": "raising rabbit antibodies against proteus vulgaris",
+    "relevants": [
+      {
+        "relevant_doc": 495,
+        "relevant_url": "https://www.scribd.com/doc/23118070/Proteus-vulgaris"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1978,
+        "title": "Veterinary Advice Online - Sexing Rabbits (Rabbit Gender Determination).",
+        "url": "http://www.pet-informed-veterinary-advice-online.com/sexing-rabbits.html",
+        "combined_text": "Veterinary Advice Online - Sexing Rabbits (Rabbit Gender Determination). \"Veterinary Advice Online - Sexing Rabbits (Rabbit Gender Determination). Rabbits are social creatures who enjoy the company of other rabbits. Unfortunately, however,pet bunny rabbits do breed rampantly (\"\"they breed like rabbits\"\") and two pet rabbits of the opposite sex can very quickly produce do",
+        "distance": 0.6013705730438232
+      },
+      {
+        "id": 1331,
+        "title": "Thrianta Rabbits",
+        "url": "http://rabbitbreeders.us/thrianta-rabbits",
+        "combined_text": "Thrianta Rabbits Thrianta Rabbits Learn more about the Thrianta Rabbit Breed. Discover cool facts, pictures, resources and find information about caring for Thrianta Rabbits. This rabbit breed information page is part of our rabbit breeds article series. Thrianta Rabbit Resource Links: Free Rabbit Breeders Newslette",
+        "distance": 0.6031172871589661
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-5119177238278686237": {
+    "query_id": "-5119177238278686237",
+    "query": "loud toilet noise after flushing",
+    "relevants": [
+      {
+        "relevant_doc": 2211,
+        "relevant_url": "https://www.reference.com/home-garden/toilet-make-noise-after-flushing-2e2ec1785ef7ed96"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2211,
+        "title": "Why Does a Toilet Make Noise After Flushing?",
+        "url": "https://www.reference.com/home-garden/toilet-make-noise-after-flushing-2e2ec1785ef7ed96",
+        "combined_text": "Why Does a Toilet Make Noise After Flushing? Home & Garden Home Maintenance Plumbing Q: Why Does a Toilet Make Noise After Flushing? A: Quick Answer There are a number of reasons why a toilet may make noise after flushing; however, a loud noise that takes more than a minute after flushing the toilet may indicate a restricted water flow or a pr",
+        "distance": 0.13228121399879456
+      },
+      {
+        "id": 1897,
+        "title": "About how many times a year does the average person flush the toilet?",
+        "url": "http://www.answers.com/Q/About_how_many_times_a_year_does_the_average_person_flush_the_toilet",
+        "combined_text": "About how many times a year does the average person flush the toilet? \"Answers.com ® Wiki Answers ® Categories Home & Garden Home Improvement Plumbing About how many times a year does the average person flush the toilet? Flag About how many times a year does the average person flush the toilet? Answer by Don Dfoofnik Confidence votes 230KThere are three kinds of answe",
+        "distance": 0.5479206442832947
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-6819478331369009731": {
+    "query_id": "-6819478331369009731",
+    "query": "why do floods cause so much damage",
+    "relevants": [
+      {
+        "relevant_doc": 3201,
+        "relevant_url": "http://www.answers.com/Q/Why_are_floods_so_bad"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3201,
+        "title": "Why are floods so bad?",
+        "url": "http://www.answers.com/Q/Why_are_floods_so_bad",
+        "combined_text": "Why are floods so bad? \"Answers.com ® Wiki Answers ® Categories Animal Life Why are floods so bad? Flag Why are floods so bad? Answered by The Wiki Answers ®Community Answers.com ® is making the world better one answer at a time. Floods are really bad because they can destroy towns. It can destroy buildings leaving people",
+        "distance": 0.37172430753707886
+      },
+      {
+        "id": 3558,
+        "title": "\"This is already Houstonâs \"\"worst flood.\"\" Itâs only going to get worse.\"",
+        "url": "https://www.texastribune.org/2017/08/27/harvey-brings-catastrophic-flooding-houston/",
+        "combined_text": "\"This is already Houstonâs \"\"worst flood.\"\" Itâs only going to get worse.\" \"This is already Houston’s \"\"worst flood.\"\" It’s only going to get worse. As swamped officials struggled to respond to a deadly crisis Sunday, southeast Texans were bracing for their troubles to multiply over the coming week. Harvey is on track to produce even more devastating floods.by Kiah Collier",
+        "distance": 0.5643399953842163
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4159197293037205249": {
+    "query_id": "-4159197293037205249",
+    "query": "convert yard to square feet",
+    "relevants": [
+      {
+        "relevant_doc": 926,
+        "relevant_url": "http://www.answers.com/Q/How_many_sq_ft_in_a_yard"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2908,
+        "title": "Square Footage Calculator",
+        "url": "http://www.squarefootage.org/square-footage-calculator.php",
+        "combined_text": "Square Footage Calculator Directions: Enter any combination of feet and/or inches into the calculator below. You can use this square footage calculator to calculate siding square footage or any other square feet needed (like: roofing, carpet, etc.) You can also use this tool to convert feet to inches, convert inches to feet",
+        "distance": 0.35820212960243225
+      },
+      {
+        "id": 926,
+        "title": "How many sq ft in a yard?",
+        "url": "http://www.answers.com/Q/How_many_sq_ft_in_a_yard",
+        "combined_text": "How many sq ft in a yard? \"Answers.com ® Wiki Answers ® Categories Science Units of Measure Area How many sq ft in a yard? Flag How many sq ft in a yard? Answer by Free For All Z6 Confidence votes 74Answer: A yard is a distance, whereas ft2 is a measure of area. Thus, there are no ft2 in a yard. However, if you meant square",
+        "distance": 0.3892551064491272
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4705428341297783174": {
+    "query_id": "-4705428341297783174",
+    "query": "how to pass wealth to heirs australia",
+    "relevants": [
+      {
+        "relevant_doc": 461,
+        "relevant_url": "http://www.tresscox.com.au/page/our-news/newsletter/estate-and-succession-planning-and-the-life-cycle---part-one-in-a-four-part-series/?id=1225"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 461,
+        "title": "Estate and Succession Planning and The Life Cycle - Part One in a Four Part Series",
+        "url": "http://www.tresscox.com.au/page/our-news/newsletter/estate-and-succession-planning-and-the-life-cycle---part-one-in-a-four-part-series/?id=1225",
+        "combined_text": "Estate and Succession Planning and The Life Cycle - Part One in a Four Part Series “You can't take it with you, but with careful planning, it's possible to provide your heirs, loved ones and friends with a significant portion of your wealth.” [1]The Australian Experience Australia is a nation of growing wealth and derives significant benefits from being part of the Asia-Pacific re",
+        "distance": 0.46572166681289673
+      },
+      {
+        "id": 492,
+        "title": "When did Australian aborigines get the right to vote?",
+        "url": "http://www.answers.com/Q/When_did_Australian_aborigines_get_the_right_to_vote",
+        "combined_text": "When did Australian aborigines get the right to vote? \"Answers.com ® Wiki Answers ® Categories Travel & Places Continents and Regions Continents Australia Australia Politics and Society When did Australian aborigines get the right to vote? Flag When did Australian aborigines get the right to vote? Answer by On the Wallaby Confidence votes 292KPassionat",
+        "distance": 0.6142582893371582
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-6956884227373259095": {
+    "query_id": "-6956884227373259095",
+    "query": "why un peacekeepers failed srebrenica",
+    "relevants": [
+      {
+        "relevant_doc": 33,
+        "relevant_url": "https://www.hrw.org/report/1995/10/15/fall-srebrenica-and-failure-un-peacekeeping/bosnia-and-herzegovina"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 33,
+        "title": "The Fall of Srebrenica and the Failure of UN Peacekeeping",
+        "url": "https://www.hrw.org/report/1995/10/15/fall-srebrenica-and-failure-un-peacekeeping/bosnia-and-herzegovina",
+        "combined_text": "The Fall of Srebrenica and the Failure of UN Peacekeeping \"October 15, 1995The Fall of Srebrenica and the Failure of UN Peacekeeping Bosnia and Herzegovina Photo: A woman holds a photo of her missing son as Bosnian Muslim relatives of the victims and survivors of the Srebrenica massacre meet with Dutch former peacekeeping troops. © 2007 Reuters Summary The",
+        "distance": 0.20654787123203278
+      },
+      {
+        "id": 3023,
+        "title": "UN peacekeepers: How many personnel does each country contribute?",
+        "url": "http://www.telegraph.co.uk/news/worldnews/asia/china/11898603/UN-peacekeepers-How-many-personnel-does-each-country-contribute.html",
+        "combined_text": "UN peacekeepers: How many personnel does each country contribute? \"UN peacekeepers: How many personnel does each country contribute? The UN's peacekeeping force is dominated by troops from developing nations, while the UN Security Council's permament members contribute small numbers Map created by Ashley Kirk By Ashley Kirk11:41AM BST 29 Sep 2015Follow China has a",
+        "distance": 0.486590713262558
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-7592689001507795108": {
+    "query_id": "-7592689001507795108",
+    "query": "homemade potting mix recipe for containers",
+    "relevants": [
+      {
+        "relevant_doc": 1793,
+        "relevant_url": "http://www.almanac.com/blog/gardening-blog/make-your-own-potting-mixes"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 493,
+        "title": "Canning Homemade Baby Food â Is it Safe to Can Homemade Baby Food?",
+        "url": "http://wholesomebabyfood.momtastic.com/tipcanning.htm",
+        "combined_text": "Canning Homemade Baby Food â Is it Safe to Can Homemade Baby Food? Canning Homemade Baby Food – Is it Safe to Can Homemade Baby Food? Is canning homemade baby food safe? Is it possible to can baby food, using a pressure or water bath canning method? As growing seasons begin to come to a close and the home garden harvest is almost finished, many parents wonder what",
+        "distance": 0.521084725856781
+      },
+      {
+        "id": 2637,
+        "title": "Does anyone know how long a homemade relish will keep?",
+        "url": "https://uk.answers.yahoo.com/question/index?qid=20110621130427AABN8aL",
+        "combined_text": "Does anyone know how long a homemade relish will keep? Food & Drink Cooking & Recipes Does anyone know how long a homemade relish will keep? Can anyone advise me roughly how long a homemade, unopened relish in a kilner jar will keep in the cupboard? I'd like to try making some relishes, corn, mushroom, tomato, onion etc but i want ones that will last we",
+        "distance": 0.5566625595092773
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7016823320229426364": {
+    "query_id": "7016823320229426364",
+    "query": "basis for Congress creating federal courts",
+    "relevants": [
+      {
+        "relevant_doc": 289,
+        "relevant_url": "http://www.answers.com/Q/Why_does_Congress_have_the_power_to_create_federal_courts"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 289,
+        "title": "Why does Congress have the power to create federal courts?",
+        "url": "http://www.answers.com/Q/Why_does_Congress_have_the_power_to_create_federal_courts",
+        "combined_text": "Why does Congress have the power to create federal courts? \"Answers.com ® Wiki Answers ® Categories History, Politics & Society Politics and Government Government US Government Why does Congress have the power to create federal courts? Flag Why does Congress have the power to create federal courts? Answer by Ma9989009 Confidence votes 64.8KThe Constitution",
+        "distance": 0.33879372477531433
+      },
+      {
+        "id": 2602,
+        "title": "Who was president when the first federal court system was established?",
+        "url": "http://www.answers.com/Q/Who_was_president_when_the_first_federal_court_system_was_established",
+        "combined_text": "Who was president when the first federal court system was established? \"Answers.com ® Wiki Answers ® Categories History, Politics & Society History History of the United States US Presidents George Washington Who was president when the first federal court system was established? Flag Who was president when the first federal court system was established? Answer by Ma998",
+        "distance": 0.5801958441734314
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "4701752963556091589": {
+    "query_id": "4701752963556091589",
+    "query": "how valances differ from cornices",
+    "relevants": [
+      {
+        "relevant_doc": 2589,
+        "relevant_url": "http://alittledesignhelp.com/what-is-a-valance-and-how-is-it-different-than-a-cornice/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2589,
+        "title": "What is a Valance and How is it Different Than a Cornice?",
+        "url": "http://alittledesignhelp.com/what-is-a-valance-and-how-is-it-different-than-a-cornice/",
+        "combined_text": "What is a Valance and How is it Different Than a Cornice? \"What is a Valance and How is it Different Than a Cornice? Posted on February 17, 2012 by Teri • 4 Comments If you are confused about the different types of top treatments used on windows, you aren’t alone. While there are numerous styles of top treatments, they can be grouped into two main types: V",
+        "distance": 0.4242948591709137
+      },
+      {
+        "id": 2992,
+        "title": "How to Measure Fabric to Make Curtains",
+        "url": "http://www.dummies.com/how-to/content/how-to-measure-fabric-to-make-curtains.html",
+        "combined_text": "How to Measure Fabric to Make Curtains Home & Garden Decorating How to Measure Fabric to Make Curtains How to Measure Fabric to Make Curtains Related Book Window Treatments and Slipcovers For Dummies By Mark Montano, Carly Sommerstein Making your own curtains isn’t too hard. You start by choosing a fabric and deciding how much to buy. Fa",
+        "distance": 0.6406271457672119
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3044646268403974041": {
+    "query_id": "3044646268403974041",
+    "query": "diy home gel manicure tutorial",
+    "relevants": [
+      {
+        "relevant_doc": 1539,
+        "relevant_url": "http://www.luluandsweetpea.com/2013/01/diy-gel-nails-at-home.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1539,
+        "title": "DIY Gel Nails at home",
+        "url": "http://www.luluandsweetpea.com/2013/01/diy-gel-nails-at-home.html",
+        "combined_text": "DIY Gel Nails at home \"DIY Gel Nails at home I'm really excited for this blog post today because I've been thinking about it for a while. I've been playing around with the idea of investing in a gel nail system for myself so that I can do my own gel manicure at home. So what's so great about gels? Well, think of it as re",
+        "distance": 0.26441943645477295
+      },
+      {
+        "id": 2104,
+        "title": "Housekeeping: Tips & Tutorials",
+        "url": "https://www.thespruce.com/housekeeping-tips-and-tutorials-4127916",
+        "combined_text": "Housekeeping: Tips & Tutorials Home Decor Cleaning & Organizing Housekeeping Housekeeping: Tips & Tutorials Learn what you need to know about cleaning surfaces in your home. Find out how to safely clean tile, marble, wood, laminate flooring and more. These tips will easily get your jobs done effectively and safely. Housekeeping T",
+        "distance": 0.6698566675186157
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "5703647031195568454": {
+    "query_id": "5703647031195568454",
+    "query": "modern school library as learning commons",
+    "relevants": [
+      {
+        "relevant_doc": 644,
+        "relevant_url": "http://www.schoollearningcommons.info/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 644,
+        "title": "The School Library Learning Commons - Future Forward",
+        "url": "http://www.schoollearningcommons.info/",
+        "combined_text": "The School Library Learning Commons - Future Forward The School Library Learning Commons - Future Forward The School Library Learning Commons is a participatory learning community with attention to excellent instructional designs and use of best resources and technologies to help learners build personal expertise and collaborative knowledge. Everyone",
+        "distance": 0.19343942403793335
+      },
+      {
+        "id": 3502,
+        "title": "Library card registration form",
+        "url": "https://psr.slv.vic.gov.au/",
+        "combined_text": "Library card registration form Library card registration form A Library card gives Victorians access to our collection of more than five million items. While the rarity of our collection means you're not able to borrow items, you can browse thousands of free ebooks, online databases and ejournals. You will be able to collect your",
+        "distance": 0.5880002975463867
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7849309280374703583": {
+    "query_id": "7849309280374703583",
+    "query": "whale shark mouth size",
+    "relevants": [
+      {
+        "relevant_doc": 93,
+        "relevant_url": "http://www.answers.com/Q/How_big_is_a_whale_sharks_mouth"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 93,
+        "title": "How big does a whale shark get?",
+        "url": "http://www.answers.com/Q/How_big_is_a_whale_sharks_mouth",
+        "combined_text": "How big does a whale shark get? Contestshipping 87 Contributions How big does a whale shark get?21.5 tons (47,000 lbs) 12.65 meters (41.50 ft)How big can a megamouth sharks mouth get? At least one foot. How big is a baby whale shark?2ft How big is a basking sharks mouth?depends on the shark but mostly its as big as a gardon shed i",
+        "distance": 0.20171904563903809
+      },
+      {
+        "id": 126,
+        "title": "How many shark attacks are there each year?",
+        "url": "http://www.justgottadive.com/dive_resources/scuba_diving_faqs/how-many-shark-attacks-are-there-each-year",
+        "combined_text": "How many shark attacks are there each year? Home >> Dive Resources >> Scuba Diving FAQs >> How many shark attacks are there each year? How many shark attacks are there each year?red_question.png There are approximately 50-70 shark attacks each year and there are less than 25 deaths from shark attacks annually. Category: Marine Life Sharks Key",
+        "distance": 0.41971585154533386
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "6887075212313048202": {
+    "query_id": "6887075212313048202",
+    "query": "who made the first video game",
+    "relevants": [
+      {
+        "relevant_doc": 969,
+        "relevant_url": "http://www.bnl.gov/about/history/firstvideo.php"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 969,
+        "title": "The First Video Game?",
+        "url": "http://www.bnl.gov/about/history/firstvideo.php",
+        "combined_text": "The First Video Game? \"The First Video Game? Before 'Pong,' There Was 'Tennis for Two'Before the era of electronic ping pong, hungry yellow dots, plumbers, mushrooms, and fire-flowers, people waited in line to play video games at roller-skating rinks, arcades, and other hangouts. More than fifty years ago, before either",
+        "distance": 0.5031748414039612
+      },
+      {
+        "id": 10,
+        "title": "Take Pictures and Video",
+        "url": "https://www.google.com/glass/help/",
+        "combined_text": "Take Pictures and Video Take Pictures and Video Your browser does not currently recognize any of the video formats available. Click here to visit our frequently asked questions about HTML5 video.0:00 / 0:36Capture a moment with high-resolution picture and video. Then make a vignette or share the moment with friends on soci",
+        "distance": 0.5778217911720276
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-6358882379786822683": {
+    "query_id": "-6358882379786822683",
+    "query": "deduct mortgage interest on unimproved land",
+    "relevants": [
+      {
+        "relevant_doc": 1554,
+        "relevant_url": "http://www.bankrate.com/finance/taxes/deducting-investment-interest-expense.aspx"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1554,
+        "title": "Deducting investment interest expense",
+        "url": "http://www.bankrate.com/finance/taxes/deducting-investment-interest-expense.aspx",
+        "combined_text": "Deducting investment interest expense Dear Tax Talk, I bought investment property, which is unimproved acreage. Can I write off the mortgage interest on this loan? — John More On Investment Interest Expense: IRS Form 4952Deducting taxes on unimproved land Dear John, Interest paid to carry investment property is aptly named investment in",
+        "distance": 0.42033877968788147
+      },
+      {
+        "id": 1956,
+        "title": "Buy A Home",
+        "url": "https://habitatdetroit.org/buy-a-home/",
+        "combined_text": "Buy A Home Begin Application Process Buy a home through Habitat for Humanity Detroit. Habitat Detroit sells homes to qualified home buyers for an affordable mortgage. Approved homeowners qualify for a monthly housing payment (mortgage, insurance and taxes) equal to 30% or less of their monthly income. To quali",
+        "distance": 0.6825212836265564
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8691848845067551892": {
+    "query_id": "8691848845067551892",
+    "query": "chainsmokers song about identity lyrics",
+    "relevants": [
+      {
+        "relevant_doc": 1174,
+        "relevant_url": "https://www.letssingit.com/the-chainsmokers-lyrics-sick-boy-f6tvvnf"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 597,
+        "title": "Top 10 Biggest Hotel Chains in the World",
+        "url": "http://planetden.com/hotels-restaurants/top-10-biggest-hotel-chains-world",
+        "combined_text": "Top 10 Biggest Hotel Chains in the World Top 10 Biggest Hotel Chains in the World Comments No trip is decided without the thought of comfortable staying facilities at the travelling spots coming in mind. And no such place is better than the one providing the ambiance similar to that of home. Many hotel groups come up all across the world w",
+        "distance": 0.703065037727356
+      },
+      {
+        "id": 3218,
+        "title": "What's the difference between a musician, music composer, and music producer?",
+        "url": "https://www.quora.com/Whats-the-difference-between-a-musician-music-composer-and-music-producer",
+        "combined_text": "What's the difference between a musician, music composer, and music producer? \"Dave Haynie, Musician, music-enthusiast, rock singer, studio rat. Answered Dec 22, 2013 · Author has 3.2k answers and 13.1m answer views The other two answers are good ones, but having done all three, I'll toss in some words of my own. A song starts with a composer. The song has to be conceived and",
+        "distance": 0.7769246101379395
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "9093326365139419699": {
+    "query_id": "9093326365139419699",
+    "query": "des moines certified home inspector",
+    "relevants": [
+      {
+        "relevant_doc": 2575,
+        "relevant_url": "http://www.mescherhomeinspections.com/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2575,
+        "title": "Welcome to Mescher Home Inspections",
+        "url": "http://www.mescherhomeinspections.com/",
+        "combined_text": "Welcome to Mescher Home Inspections Welcome to Mescher Home Inspections Your Certified Des Moines Home Inspection and Real Estate Inspection Service Company for Home Buyers, Sellers & Real Estate Professionals. Your home is one of the most important and largest purchases you will ever make. A home inspection is an inexpensive way to d",
+        "distance": 0.4687459468841553
+      },
+      {
+        "id": 2853,
+        "title": "New Plant Hardiness Zone Map Has Iowa in Zone 5",
+        "url": "http://www.extension.iastate.edu/article/new-plant-hardiness-zone-map-has-iowa-zone-5",
+        "combined_text": "New Plant Hardiness Zone Map Has Iowa in Zone 5 \"Home New Plant Hardiness Zone Map Has Iowa in Zone 5Article | Fri, 01/27/2012 - 09:39 | By Richard Jauron, Jennifer Bousselot, Willy Klein AMES, Iowa — Gardeners and researchers have a new, updated plant hardiness zone map to consider as they make plant selection decisions this year. The U. S. Depa",
+        "distance": 0.760177493095398
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-96539530602202502": {
+    "query_id": "-96539530602202502",
+    "query": "diy cooler using clay pots",
+    "relevants": [
+      {
+        "relevant_doc": 3153,
+        "relevant_url": "http://www.permaculture.co.uk/videos/chill-food-without-electricity-flowerpot-fridge"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1632,
+        "title": "DIY E-Liquid Mixing Safety",
+        "url": "http://ecigarettereviewed.com/diy-e-liquid-mixing-safety",
+        "combined_text": "DIY E-Liquid Mixing Safety DIY E-Liquid Mixing Safety By Lindsay Fox Posted March 24, 2014Tweet Whether it’s because you’re hoping to save even more money through vaping, want to create your own flavor concoctions or are just looking for a cool alchemist-style hobby, mixing your own e-liquids (Doing It Yourself – DIY) is appe",
+        "distance": 0.6240661144256592
+      },
+      {
+        "id": 2648,
+        "title": "DIY Mason Jar Flower Arrangements",
+        "url": "http://pluckingdaisies.com/diy-mason-jar-flower-arrangements/",
+        "combined_text": "DIY Mason Jar Flower Arrangements Mason Jars are all the rage these days. Today I’m sharing how to create DIY Mason Jar Flower Arrangements with blooms and blossoms from your garden. These arrangements are easy and cost-effective to create. They are oh so lovely, fragrant and are sure to add a touch of vintage elegance to any weddin",
+        "distance": 0.6381729245185852
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "2132368284614469719": {
+    "query_id": "2132368284614469719",
+    "query": "kid clown recites Shel Silverstein",
+    "relevants": [
+      {
+        "relevant_doc": 803,
+        "relevant_url": "https://www.youtube.com/watch?v=T9botwIJwAU"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 803,
+        "title": "Cloony the Clown",
+        "url": "https://www.youtube.com/watch?v=T9botwIJwAU",
+        "combined_text": "Cloony the Clown Cloony the Clown1800ninasabrina Subscribe 1Add to Share More8,499 views68Published on Jun 5, 20074th grade talent show performance of the Shel Silverstein poem. Apparently filmed by Shakes the Clown and witnessed by all our Homey the Clowns. Santa Cruz representing Hard Core!Show more Loading...",
+        "distance": 0.49340975284576416
+      },
+      {
+        "id": 2733,
+        "title": "Comedy (drama)",
+        "url": "https://en.wikipedia.org/wiki/Comedy_%28drama%29",
+        "combined_text": "Comedy (drama) \"From Wikipedia, the free encyclopedianavigation search This article is about performing arts. For a general genre, see Comedy. Performing arts Ballet Circus skills Clown Dance Magic Mime Music Opera Puppetry Speech Theatre Ventriloquismv t e A comedy is entertainment consisting of jokes intended to",
+        "distance": 0.7012805938720703
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "9143622516797531431": {
+    "query_id": "9143622516797531431",
+    "query": "what Pavlov's dogs teach about learning",
+    "relevants": [
+      {
+        "relevant_doc": 1474,
+        "relevant_url": "https://www.psychologistworld.com/memory/conditioning-intro"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 930,
+        "title": "What kind of learning did Pavlov demonstrate in dogs?",
+        "url": "http://www.answers.com/Q/What_kind_of_learning_did_Pavlov_demonstrate_in_dogs",
+        "combined_text": "What kind of learning did Pavlov demonstrate in dogs? Alb10s 118 Contributions Answered In Psychology Ivan Pavlov provided evidence that reflexes can be learned through what? Pavlov provided evidence that reflexes can be stimulated through classical conditioning. By paring an unconditioned stimulus (ex: food) with a conditioned stimulus (ex: tuning …Ka",
+        "distance": 0.3219112455844879
+      },
+      {
+        "id": 1474,
+        "title": "Conditioning",
+        "url": "https://www.psychologistworld.com/memory/conditioning-intro",
+        "combined_text": "Conditioning \"Memory Psychology Conditioning What is conditioning? What Pavlov's dogs experiment teaches us about how we learn.52An Introduction to Classical and Operant Conditioning in Psychology Conditioning in behavioral psychology is a theory that the reaction (\"\"response\"\") to an object or event (\"\"stimulus",
+        "distance": 0.4430427849292755
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4029280357884744341": {
+    "query_id": "-4029280357884744341",
+    "query": "eliminate burnt popcorn odor in microwave",
+    "relevants": [
+      {
+        "relevant_doc": 602,
+        "relevant_url": "https://fredsappliance.com/service/get-burnt-popcorn-smell-microwave/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 602,
+        "title": "How to Get Burnt Popcorn Smell out of the Microwave",
+        "url": "https://fredsappliance.com/service/get-burnt-popcorn-smell-microwave/",
+        "combined_text": "How to Get Burnt Popcorn Smell out of the Microwave How to Get Burnt Popcorn Smell out of the Microwave Alex H July 23, 2014 Service 1 Comment There’s no faster way to stink up your house than by overcooking popcorn in the microwave. The nose-turning stench can linger for hours – sometimes days. And using air fresheners, candles, diffusers and other",
+        "distance": 0.1899963617324829
+      },
+      {
+        "id": 2747,
+        "title": "Why Cat Urine Odor Smells And How It Can Be Removed",
+        "url": "http://www.felinefriendlycare.com/cat-urine-odor.html",
+        "combined_text": "Why Cat Urine Odor Smells And How It Can Be Removed Feline Friendly Home > How To Remove Cat Urine > Cat Urine Odor Why Cat Urine Odor Smells And How It Can Be Removed Cat Urine Odor is always a message and never a mistake. Watch out for your feline friend's wellbeing while you begin feline urine cleaning!Follow @Dr Kim Kendall Ok, so you got the pee",
+        "distance": 0.6848376989364624
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3285664569909998434": {
+    "query_id": "3285664569909998434",
+    "query": "ponazuril for coccidia in kittens",
+    "relevants": [
+      {
+        "relevant_doc": 1964,
+        "relevant_url": "http://www.catster.com/lifestyle/cat-health-coccidia-treatment"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1964,
+        "title": "Why Hasnât My Vet Heard of the Modern Treatment for Coccidia?",
+        "url": "http://www.catster.com/lifestyle/cat-health-coccidia-treatment",
+        "combined_text": "Why Hasnât My Vet Heard of the Modern Treatment for Coccidia? Ask a Vet Share this image Why Hasn’t My Vet Heard of the Modern Treatment for Coccidia? Ponazuril is the newest, best treatment for coccidia in kittens. But it's typically used for horses, and some vets don't know about it Dr. Eric Barchas | Oct 24th 2012Also: The Scoop Meet the Wildcats in the Lyn",
+        "distance": 0.3843102753162384
+      },
+      {
+        "id": 3545,
+        "title": "What Are the Treatments for Coccidia in Dogs?",
+        "url": "https://www.cuteness.com/article/treatments-coccidia-dogs",
+        "combined_text": "What Are the Treatments for Coccidia in Dogs? \"Coccidia are unicellular protozoa that live in a dog's intestinal tract. Coccidiosis is life-threatening for puppies, elderly dogs and dogs with surpressed immune systems. Otherwise healthy but infected dogs may present no symptoms at all. Coccidia is extremely treatable with the use of sulfa-based",
+        "distance": 0.5625526309013367
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-5574765693369147474": {
+    "query_id": "-5574765693369147474",
+    "query": "once-daily osteoarthritis medication for dogs",
+    "relevants": [
+      {
+        "relevant_doc": 2728,
+        "relevant_url": "http://marketplace.dvm360.com/product/galliprant"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1966,
+        "title": "Is Your Dog Senile? About Dementia in Dogs",
+        "url": "https://www.thespruce.com/dementia-in-dogs-1117412",
+        "combined_text": "Is Your Dog Senile? About Dementia in Dogs \"Senior Dogs Dogs Dog Health & Wellness Is Your Dog Senile? About Dementia in Dogs Canine Cognitive Dysfunction By Jenna Stregowski, RVTUpdated 10/23/17Share Pin Email Hilary Brodey/E+/Getty Images Could your dog be going senile? Can dogs get dementia? Is your aging dog showing some curious behavior",
+        "distance": 0.5519189238548279
+      },
+      {
+        "id": 2743,
+        "title": "Inflammatory Arthritis in Dogs",
+        "url": "https://canna-pet.com/inflammatory-arthritis-dogs-signs-symptoms-management/",
+        "combined_text": "Inflammatory Arthritis in Dogs Inflammatory Arthritis in Dogs January 16, 2017Just as people are faced with arthritis and joint disease, our canine companions may also develop some form of degenerative joint disease over the course of their lifetime. Specifically, inflammatory joint disease (although not as common as other forms",
+        "distance": 0.5564982295036316
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-6546666843607640599": {
+    "query_id": "-6546666843607640599",
+    "query": "basic marijuana facts THC effects",
+    "relevants": [
+      {
+        "relevant_doc": 1336,
+        "relevant_url": "http://steinhardt.nyu.edu/appsych/chibps/marijuana"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1336,
+        "title": "Substances â Marijuana",
+        "url": "http://steinhardt.nyu.edu/appsych/chibps/marijuana",
+        "combined_text": "Substances â Marijuana Substances – Marijuana Marijuana 101History Appearance How is Marijuana used? Mixing Marijuana Marijuana and the Gay Community Marijuana 101: Marijuana’s main active ingredient is THC. This drug binds to cannabinoid receptors in the brain inducing the subsequent high that is experienced. Generally t",
+        "distance": 0.3285207748413086
+      },
+      {
+        "id": 222,
+        "title": "What's the difference between hemp and marijuana?",
+        "url": "http://host.madison.com/ct/what-s-the-difference-between-hemp-and-marijuana/article_fb7c0968-3122-11df-a8de-001cc4c03286.html",
+        "combined_text": "What's the difference between hemp and marijuana? \"What's the difference between hemp and marijuana? Mar 17, 2010What's the difference between hemp and marijuana? Marijuana and hemp are different varieties of the same species of plant, Cannabis sativa L. There are different varieties of Cannabis, just as Chihuahuas and wolves are different breeds o",
+        "distance": 0.44590237736701965
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "1639428371378756054": {
+    "query_id": "1639428371378756054",
+    "query": "what does yardarm to yardarm mean",
+    "relevants": [
+      {
+        "relevant_doc": 948,
+        "relevant_url": "https://idioms.thefreedictionary.com/yardarm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 948,
+        "title": "yardarm",
+        "url": "https://idioms.thefreedictionary.com/yardarm",
+        "combined_text": "yardarm Correct all you're your grammar errors instantly. Try it now.yardarm Also found in: Dictionary, Thesaurus, Encyclopedia, Wikipedia .yardarm to yardarmoutdated Really close together. When I planted the bushes, I put them yardarm to yardarm—Ihope they don't overcrowd each other once they start bloomin",
+        "distance": 0.16214607656002045
+      },
+      {
+        "id": 926,
+        "title": "How many sq ft in a yard?",
+        "url": "http://www.answers.com/Q/How_many_sq_ft_in_a_yard",
+        "combined_text": "How many sq ft in a yard? \"Answers.com ® Wiki Answers ® Categories Science Units of Measure Area How many sq ft in a yard? Flag How many sq ft in a yard? Answer by Free For All Z6 Confidence votes 74Answer: A yard is a distance, whereas ft2 is a measure of area. Thus, there are no ft2 in a yard. However, if you meant square",
+        "distance": 0.5024107098579407
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-6005027915570367125": {
+    "query_id": "-6005027915570367125",
+    "query": "playpen vs bassinet for newborn",
+    "relevants": [
+      {
+        "relevant_doc": 3176,
+        "relevant_url": "http://www.circleofmoms.com/stay-at-home-moms/should-i-buy-a-playpen-or-a-bassinet-or-both-i-need-help-563502"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3176,
+        "title": "Should I buy a playpen or a bassinet or both??? I need help",
+        "url": "http://www.circleofmoms.com/stay-at-home-moms/should-i-buy-a-playpen-or-a-bassinet-or-both-i-need-help-563502",
+        "combined_text": "Should I buy a playpen or a bassinet or both??? I need help \"All Communities > Stay at Home Moms > Should I buy a playpen or a bassinet or both??? I need help Should I buy a playpen or a bassinet or both??? I need help Betheni - posted on 07/14/2010 ( 30 moms have responded )8172I am pregnant with my first child and I need advice! At first I assumed I should",
+        "distance": 0.4462146461009979
+      },
+      {
+        "id": 2781,
+        "title": "How Many Babies Are Born Each Year?",
+        "url": "https://www.reference.com/math/many-babies-born-year-353d8c9de9d50cd6",
+        "combined_text": "How Many Babies Are Born Each Year? Math Statistics Q: How Many Babies Are Born Each Year? A: Quick Answer According to UNICEF article updated in May 2012, about 130 million babies are born each year. CNN notes that an accurate count of the worldwide birth rate is difficult since many countries don't register all new births. Continue",
+        "distance": 0.6644333600997925
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3920891671267777887": {
+    "query_id": "3920891671267777887",
+    "query": "can soil regenerate naturally",
+    "relevants": [
+      {
+        "relevant_doc": 802,
+        "relevant_url": "https://answers.yahoo.com/question/index?qid=20100325172429AAGBZES"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2249,
+        "title": "Healthy Soil and How to Make It",
+        "url": "https://www.thespruce.com/healthy-soil-and-how-to-make-it-2539853",
+        "combined_text": "Healthy Soil and How to Make It \"Gardening Basics Healthy Soil and How to Make It A Crash Course in Soil Maintenance By Colleen Vanderlinden Updated 11/08/17Share Pin Email Southern Stock/Stockbyte/Getty Images Whether you are growing flowers, herbs, vegetables, a lawn, or a shrub border, healthy soil is an absolute must. Your pla",
+        "distance": 0.517639696598053
+      },
+      {
+        "id": 802,
+        "title": "Is soil renewable or non-renewable resouce?why?",
+        "url": "https://answers.yahoo.com/question/index?qid=20100325172429AAGBZES",
+        "combined_text": "Is soil renewable or non-renewable resouce?why? \"Science & Mathematics Earth Sciences & Geology Is soil renewable or non-renewable resouce?why?science Follow 7 answers Answers Relevance Rating Newest Oldest Best Answer: soil is renewable. if using the \"\"replaced at rate at which it is used\"\" it can be either. it can take a very long time for soil",
+        "distance": 0.53203284740448
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8495018236676952863": {
+    "query_id": "-8495018236676952863",
+    "query": "replace conservatory roof without altering exterior",
+    "relevants": [
+      {
+        "relevant_doc": 1765,
+        "relevant_url": "http://www.inceil.co.uk/faqs/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1765,
+        "title": "Insulated Conservatory Roofs: FAQs",
+        "url": "http://www.inceil.co.uk/faqs/",
+        "combined_text": "Insulated Conservatory Roofs: FAQs Insulated Conservatory Roofs: FAQs Will there be any changes to the exterior of my conservatory? No. We don't need to do anything to the exterior structure, and the existing glass or polycarbonate conservatory roof will remain in place. Insulated conservatory roofs offer home improvement without com",
+        "distance": 0.2718279957771301
+      },
+      {
+        "id": 2565,
+        "title": "How Much Does an EPDM Roof Cost?",
+        "url": "http://www.costowl.com/home-improvement/roof-epdm-cost.html",
+        "combined_text": "How Much Does an EPDM Roof Cost? \"Home > Home Improvement > Roofing > EPDM Roof Cost How Much Does an EPDM Roof Cost? EPDM Replacement Prices Flat and low-slope roofs were traditionally covered with built-up-roofing (BUR), but these asphalt-based roofs are prone to sun damage, which eventually causes leaking. Stone ballast can prot",
+        "distance": 0.5364537239074707
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-40300384993098711": {
+    "query_id": "-40300384993098711",
+    "query": "barnstead nh genealogy vital records",
+    "relevants": [
+      {
+        "relevant_doc": 70,
+        "relevant_url": "http://www.usgennet.org/usa/nh/town/barnstead/records.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 70,
+        "title": "Barnstead Records",
+        "url": "http://www.usgennet.org/usa/nh/town/barnstead/records.html",
+        "combined_text": "Barnstead Records 1790 - 1880 Census Records Death Records and Mortality Schedules Births, Marriages & Deaths (from various sources)Births, Marriages & Deaths (from Town Reports 1887-2000)Home",
+        "distance": 0.49445047974586487
+      },
+      {
+        "id": 1581,
+        "title": "Dowling Family Genealogy",
+        "url": "http://wc.rootsweb.ancestry.com/cgi-bin/igm.cgi?op=SRCH&db=dowfam3&surname=M",
+        "combined_text": "Dowling Family Genealogy DISCOVER MORE >Home Searches Family Trees Mailing Lists Message Boards Web Sites Passwords Help Dowling Family Genealogy Entries: 615557 Updated: 2015-08-06 18:52:09 UTC (Thu) Owner: Home Page: Dowling Family Genealogy Note: You will leave Roots Web Enter surname OR surname, given to find: Advanced",
+        "distance": 0.675798773765564
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7516580184666654283": {
+    "query_id": "7516580184666654283",
+    "query": "how emancipation proclamation changed public opinion",
+    "relevants": [
+      {
+        "relevant_doc": 443,
+        "relevant_url": "http://www.answers.com/Q/How_did_the_emancipation_proclamation_change_the_way_people_felt_about_the_civil_war"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 443,
+        "title": "How did the emancipation proclamation change the way people felt about the civil war?",
+        "url": "http://www.answers.com/Q/How_did_the_emancipation_proclamation_change_the_way_people_felt_about_the_civil_war",
+        "combined_text": "How did the emancipation proclamation change the way people felt about the civil war? \"Answers.com ® Wiki Answers ® Categories History, Politics & Society History War and Military History US Civil War Emancipation Proclamation How did the emancipation proclamation change the way people felt about the civil war? Flag How did the emancipation proclamation change the way people felt abo",
+        "distance": 0.24531517922878265
+      },
+      {
+        "id": 3359,
+        "title": "Slavery During the Colonial Period",
+        "url": "http://colonialslave.blogspot.com/",
+        "combined_text": "Slavery During the Colonial Period Horrors of Slavery One of the ways some of the slaves received their freedom was through the American Revolution. They were rewarded freedom through their services in the war. Others tried to get their freedom by escaping away from the plantations. They had secret ways to escape. Many white folks se",
+        "distance": 0.643526017665863
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "1562175323701467187": {
+    "query_id": "1562175323701467187",
+    "query": "how ecotourism impacts Kenya's environment and communities",
+    "relevants": [
+      {
+        "relevant_doc": 2329,
+        "relevant_url": "http://traveltips.usatoday.com/effects-ecotourism-kenya-111508.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2329,
+        "title": "The Effects of Ecotourism in Kenya",
+        "url": "http://traveltips.usatoday.com/effects-ecotourism-kenya-111508.html",
+        "combined_text": "The Effects of Ecotourism in Kenya \"The Effects of Ecotourism in Kenya Among travelers and industry stakeholders in the international community, the ecotourism movement evolved from awareness that in many destination countries, mass tourism was contributing to environmental degradation. A key mandate of the ecotourism philosophy, esp",
+        "distance": 0.2664431035518646
+      },
+      {
+        "id": 701,
+        "title": "How deforestation affect the animal?",
+        "url": "http://www.answers.com/Q/How_deforestation_affect_the_animal",
+        "combined_text": "How deforestation affect the animal? Answers.com ® Wiki Answers ® Categories Science Biology Ecology and Bionomics Environmental Issues Deforestation and Habitat Loss How deforestation affect the animal? Flag How deforestation affect the animal? Answered by The Wiki Answers ®Community Answers.com ® is making the world better one answer",
+        "distance": 0.6464147567749023
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "906720093658416462": {
+    "query_id": "906720093658416462",
+    "query": "china cracking down on vpns",
+    "relevants": [
+      {
+        "relevant_doc": 2453,
+        "relevant_url": "https://www.usatoday.com/story/tech/2015/01/23/china-internet-vpn-google-facebook-twitter/22235707/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2453,
+        "title": "China blocks VPN access to the Internet",
+        "url": "https://www.usatoday.com/story/tech/2015/01/23/china-internet-vpn-google-facebook-twitter/22235707/",
+        "combined_text": "China blocks VPN access to the Internet \"1Join the Nation's Conversation To find out more about Facebook commenting please read the Conversation Guidelines and FAQs China blocks VPN access to the Internet Elizabeth Weise and Calum Mac Leod, USAToday Published 4:40 p.m. ET Jan. 23, 2015 | Updated 8:30 a.m. ET Jan. 24, 2015 (Photo: EPA, Rol",
+        "distance": 0.630401611328125
+      },
+      {
+        "id": 380,
+        "title": "China's Former One-Child Policy",
+        "url": "https://www.thoughtco.com/chinas-one-child-policy-1435466",
+        "combined_text": "China's Former One-Child Policy \"Humanities ›Geography China's Former One-Child Policy The Aftereffects of China's One-Child Policy Share Flipboard Email Print Images By Tang Ming Tung Gettyby Matt Rosenberg Updated January 31, 2018China's one-child policy was established by Chinese leader Deng Xiaoping in 1979 to restrict communi",
+        "distance": 0.7208808064460754
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "253073332837656661": {
+    "query_id": "253073332837656661",
+    "query": "how to freeze avocados for guacamole",
+    "relevants": [
+      {
+        "relevant_doc": 1067,
+        "relevant_url": "http://foodpreservation.about.com/od/Freeze-Vegetables/fl/How-to-Preserve-Avocado.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1067,
+        "title": "How to Preserve Avocado",
+        "url": "http://foodpreservation.about.com/od/Freeze-Vegetables/fl/How-to-Preserve-Avocado.htm",
+        "combined_text": "How to Preserve Avocado Freezing Food Food Storage How to Preserve Avocado Freezing Avocado Puree By Leda Meredith Updated 04/06/18Share Pin Email Gregor Schuster/Photographer's Choice/Getty Images Frozen avocado puree is ready to use in guacamole, smoothies, or salad dressings. In fact, freezing is the only way I know to",
+        "distance": 0.3385504186153412
+      },
+      {
+        "id": 841,
+        "title": "Do Avocados Go Bad?",
+        "url": "http://www.foodanswers.org/do-avocados-go-bad/",
+        "combined_text": "Do Avocados Go Bad? Do Avocados Go Bad? Leave a comment Avocados can definitely go bad, especially if you do not store them properly. It will be important to make sure that you refrigerate the avocados that you bring home from the store, especially if you are not going to eat them right away. Even in the refrigerator t",
+        "distance": 0.4333711564540863
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "373181287773412950": {
+    "query_id": "373181287773412950",
+    "query": "is admiral car insurance worth it",
+    "relevants": [
+      {
+        "relevant_doc": 2636,
+        "relevant_url": "https://boughtbymany.com/news/article/admiral-car-insurance-review/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2636,
+        "title": "Review: Admiral Car Insurance",
+        "url": "https://boughtbymany.com/news/article/admiral-car-insurance-review/",
+        "combined_text": "Review: Admiral Car Insurance \"Log in Groups Reviews & guides About us Review: Admiral Car Insurance By David Woodfield 4th December 2017Key policy features of Admiral car insurance: A no-claims discount bonus accelerator Unlimited cover for standard audiovisual equipment24-hour emergency helpline Admiral was voted Best Car Insu",
+        "distance": 0.3754318356513977
+      },
+      {
+        "id": 1786,
+        "title": "How much is the pension of a navy admiral?",
+        "url": "http://www.answers.com/Q/How_much_is_the_pension_of_a_navy_admiral",
+        "combined_text": "How much is the pension of a navy admiral? \"Answers.com ® Wiki Answers ® Categories History, Politics & Society Politics and Government Government US Government US Military US Army How much is the pension of a navy admiral? Flag How much is the pension of a navy admiral? Answer by Mark Swarthout Confidence votes 119KContract attorney. When n",
+        "distance": 0.6209863424301147
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-5166946103548711571": {
+    "query_id": "-5166946103548711571",
+    "query": "history of black walnut trees",
+    "relevants": [
+      {
+        "relevant_doc": 2772,
+        "relevant_url": "http://www.nemahaweb.com/blackwalnuts/trees.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2772,
+        "title": "Black Walnut Tree Trivia",
+        "url": "http://www.nemahaweb.com/blackwalnuts/trees.htm",
+        "combined_text": "Black Walnut Tree Trivia \"E arly colonists carried seeds of English walnuts to the New World, planting them diligently where they settled in Massachusetts and Virginia. The trees didn't even survive long enough to bear fruit so colonists learned to rely on the plentiful Black walnuts for cooking confections. Native American",
+        "distance": 0.36551037430763245
+      },
+      {
+        "id": 2580,
+        "title": "How Long Does it Take a Peach Tree to Grow?",
+        "url": "http://www.gardenguides.com/67870-long-peach-tree-grow.html",
+        "combined_text": "How Long Does it Take a Peach Tree to Grow? Home »Trees How Long Does it Take a Peach Tree to Grow? By Jenn Mercer; Updated September 21, 2017Peach trees grow from 1 to 1 1/2 feet each year and will take from two to four years to begin to bear fruit. References Harvest to Table: How to Grow Peaches About the Author Jenn Mercer is a Writer, Po",
+        "distance": 0.6598118543624878
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "5913759233858948676": {
+    "query_id": "5913759233858948676",
+    "query": "setting up a new fridge freezer",
+    "relevants": [
+      {
+        "relevant_doc": 2334,
+        "relevant_url": "http://www.knowhow.com/article.dhtml?articleReference=1117&country=uk"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2334,
+        "title": "Using your fridge freezer for the first time",
+        "url": "http://www.knowhow.com/article.dhtml?articleReference=1117&country=uk",
+        "combined_text": "Using your fridge freezer for the first time Using your fridge freezer for the first time By 30 Aug 2017Before you switch your fridge or freezer on, there are a few things you can do to help you get the longest life-span possible from it. We go through them below, so give this guide a quick look over before you start unpacking. Contents Let it",
+        "distance": 0.2704674303531647
+      },
+      {
+        "id": 1337,
+        "title": "How to Reset a Cell Phone Battery in the Freezer",
+        "url": "https://www.techwalla.com/articles/how-to-reset-a-cell-phone-battery-in-the-freezer",
+        "combined_text": "How to Reset a Cell Phone Battery in the Freezer \"How to Reset a Cell Phone Battery in the Freezer By Breann Kanobi Share Resetting a battery using the freezer serves as a do-it-yourself way to improve battery life. Though this method is mostly unproven, many people believe that keeping batteries in the freezer increases their maximum charge and s",
+        "distance": 0.48921412229537964
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8344842984803946008": {
+    "query_id": "8344842984803946008",
+    "query": "Fern Park FL city profile",
+    "relevants": [
+      {
+        "relevant_doc": 2282,
+        "relevant_url": "http://www.city-data.com/city//Fern-Park-Florida.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2282,
+        "title": "Fern Park, Florida",
+        "url": "http://www.city-data.com/city//Fern-Park-Florida.html",
+        "combined_text": "Fern Park, Florida \"Follow city-data.com founder on our Forum or@Lech Mazur Fern Park, Floridaadd your We are giving away $1200 in prizes - enter simply by sending us your own city pictures! See promotion details and to upload your Fern Park, Florida photos OSM Map General Map Google Map MSN Map57°F10 miles Wind: 10 m",
+        "distance": 0.4227370321750641
+      },
+      {
+        "id": 865,
+        "title": "City Park",
+        "url": "http://www.transbaycenter.org/project/transit-center/transit-center-level/city-park",
+        "combined_text": "City Park City Park The Transit Center will feature “City Park,” a public 5.4-acre rooftop park. The 1,400 foot long elevated park will feature a wide range of activities and amenities, including an outdoor amphitheater, gardens, trails, open grass areas, and children’s play space, as well as a restaurant and",
+        "distance": 0.5103188753128052
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "126480478377252613": {
+    "query_id": "126480478377252613",
+    "query": "how to get ohio in-state tuition",
+    "relevants": [
+      {
+        "relevant_doc": 1414,
+        "relevant_url": "http://www.ohio.edu/admissions/tuition/faq/index.cfm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1414,
+        "title": "Frequently Asked Questions",
+        "url": "http://www.ohio.edu/admissions/tuition/faq/index.cfm",
+        "combined_text": "Frequently Asked Questions \"OHIO Residency FAQs What are the requirements for establishing Ohio residency for tuition purposes? What documentation do I need to submit to apply for residency? If I own or have the use of a car, am I financially responsible for the upkeep, gas, and insurance and reporting it for residency? If my",
+        "distance": 0.5514221787452698
+      },
+      {
+        "id": 2156,
+        "title": "Youngstown, Ohio",
+        "url": "https://roadsidethoughts.com/oh/youngstown-xx-mahoning-census.htm",
+        "combined_text": "Youngstown, Ohio \"Youngstown, Ohio Community Profile Nearby Census Genealogy Helper Cemeteries Tidbits & Trivia Local Newspapers Trip Advisor Links Interactive Map Wish List Other OH Communities The location of Youngstown (GPS coordinates provided by the GNIS)Click here for an interactive map for Youngstown and the",
+        "distance": 0.6061480045318604
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-5503597848871471439": {
+    "query_id": "-5503597848871471439",
+    "query": "sustainable commuting options Flemington",
+    "relevants": [
+      {
+        "relevant_doc": 605,
+        "relevant_url": "https://www.facebook.com/HART-Commuter-Information-Services-106844302669893/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 605,
+        "title": "HART- Promoting Sustainable Transportation",
+        "url": "https://www.facebook.com/HART-Commuter-Information-Services-106844302669893/",
+        "combined_text": "HART- Promoting Sustainable Transportation \"HART- Promoting Sustainable Transportation Home About Photos Reviews Join My List Videos Events Posts Community Create a Page Like Recommend Call Now Message See more of HART- Promoting Sustainable Transportation on Facebook Log Inor Create New Account Public & Government Service in Flemington, New",
+        "distance": 0.6572295427322388
+      },
+      {
+        "id": 2365,
+        "title": "Carbon tax or cap-and-trade?",
+        "url": "http://www.davidsuzuki.org/issues/climate-change/science/climate-solutions/carbon-tax-or-cap-and-trade/",
+        "combined_text": "Carbon tax or cap-and-trade? What is a carbon fee? Pricing carbon emissions through a carbon fee is one of the most powerful incentives that governments have to encourage companies and households to pollute less by investing in cleaner technologies and adopting greener practices. A carbon fee is a charge placed on greenhouse ga",
+        "distance": 0.7864773273468018
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8481596280341843628": {
+    "query_id": "-8481596280341843628",
+    "query": "do microvisor hoods need power",
+    "relevants": [
+      {
+        "relevant_doc": 291,
+        "relevant_url": "http://www.microvisorhood.com/faq.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 291,
+        "title": "MicrovisorÂ® FAQ",
+        "url": "http://www.microvisorhood.com/faq.html",
+        "combined_text": "MicrovisorÂ® FAQ \"Microvisor® FAQQ- My dog ate my user manual, how do I get a new one? A- Download a user manual here: Click Here Q- Do I need power to operate my Microvisor® minihood? A- No power source is needed for the Microvisor® to work. It captures and directs the grease and odors to the exhaust from your curr",
+        "distance": 0.39046144485473633
+      },
+      {
+        "id": 3415,
+        "title": "What Size Solar System Do I Need?",
+        "url": "https://www.thesolarco.com/solar-energy/solar-power-systems/what-size-solar-system-do-i-need/",
+        "combined_text": "What Size Solar System Do I Need? What Size Solar System Do I Need? It depends on how much electricity you use. Two homes the exact same size will use different amounts of electricity and therefore require different size systems. Major electrical loads within a home are air conditioners, electric heaters, pools, and other heating el",
+        "distance": 0.7309132218360901
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "1515017981977115393": {
+    "query_id": "1515017981977115393",
+    "query": "testing positive for alcohol after days without drinking",
+    "relevants": [
+      {
+        "relevant_doc": 564,
+        "relevant_url": "https://www.quora.com/I-didnt-have-a-drink-in-5-days-why-did-my-urine-test-come-up-positive-I-am-in-an-outpatient-program-and-tested-positive-for-alcohol-5-days-after-drinking-Is-this-normal"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 564,
+        "title": "I didn't have a drink in 5 days, why did my urine test come up positive? I am in an outpatient program and tested positive for alcohol 5 days after drinking. Is this normal?",
+        "url": "https://www.quora.com/I-didnt-have-a-drink-in-5-days-why-did-my-urine-test-come-up-positive-I-am-in-an-outpatient-program-and-tested-positive-for-alcohol-5-days-after-drinking-Is-this-normal",
+        "combined_text": "I didn't have a drink in 5 days, why did my urine test come up positive? I am in an outpatient program and tested positive for alcohol 5 days after drinking. Is this normal? \"Karen Tiede, old lady in training who lives in a rural area with 6 dogs. Answered Mar 17, 2015 · Author has 22k answers and 36.3m answer views VERY long shot that you may have been eating something that also tests as alcohol. Some of the sugar alcohols in \"\"carb free\"\" foods will knock a ignition-c",
+        "distance": 0.3722061514854431
+      },
+      {
+        "id": 3427,
+        "title": "Whats the difference between denatured alcohol and rubbing alcohol?",
+        "url": "https://answers.yahoo.com/question/index?qid=20070919140739AAedbBH",
+        "combined_text": "Whats the difference between denatured alcohol and rubbing alcohol? \"Home & Garden Cleaning & Laundry Whats the difference between denatured alcohol and rubbing alcohol? Whats the difference? Where can I find denatured alcohol? Follow 4 answers Answers Relevance Rating Newest Oldest Best Answer: You can sometimes find denatured alcohol in a pharmacy. Denatured alcoh",
+        "distance": 0.6225295662879944
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7568190445399236510": {
+    "query_id": "7568190445399236510",
+    "query": "paul manafort obituary new britain",
+    "relevants": [
+      {
+        "relevant_doc": 2567,
+        "relevant_url": "http://www.legacy.com/obituaries/hartfordcourant/obituary.aspx?pid=162629782"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2567,
+        "title": "Paul J. MANAFORTObituary Condolences",
+        "url": "http://www.legacy.com/obituaries/hartfordcourant/obituary.aspx?pid=162629782",
+        "combined_text": "Paul J. MANAFORTObituary Condolences \"Paul J. MANAFORTObituary Condolences MANAFORT, Paul J. Paul J. Manafort, 89, native of New Britain, died Thursday, (January 24, 2013). He was a graduate of local school. Paul has distinguished himself in business professional, civic, religious and political circles, in addition to serving in organi",
+        "distance": 0.2312612235546112
+      },
+      {
+        "id": 78,
+        "title": "Dr. Paul's New Book",
+        "url": "https://www.drpaulapproved.com/the-vaccine-friendly-plan.html",
+        "combined_text": "Dr. Paul's New Book \"Dr. Paul's New Book The Vaccine-Friendly Plan Dr. Paul's Safe and Effective Approach to Immunity and Health- from Pregnancy Through Your Child's Teen Years Paul Thomas, M. D., is a vaccine-friendly doctor, knowledgeable about both the latest scientific research and the community's disease exposure,",
+        "distance": 0.6971307992935181
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7010184751814652203": {
+    "query_id": "7010184751814652203",
+    "query": "how soon are STDs detectable",
+    "relevants": [
+      {
+        "relevant_doc": 3581,
+        "relevant_url": "https://answers.yahoo.com/question/index?qid=20061023222137AAUGgJu"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3581,
+        "title": "How long does it take for an STD to show up in your body?",
+        "url": "https://answers.yahoo.com/question/index?qid=20061023222137AAUGgJu",
+        "combined_text": "How long does it take for an STD to show up in your body? Family & Relationships Singles & Dating How long does it take for an STD to show up in your body? How long does it take for an STD to show up in your body? I know AIDS takes a while to show up in your system but how about others?1 following 8 answers Answers Relevance Rating Newest Oldest Best Answe",
+        "distance": 0.5533571243286133
+      },
+      {
+        "id": 2173,
+        "title": "HIV/AIDS",
+        "url": "http://www.hiv.va.gov/provider/manual-primary-care/urology.asp",
+        "combined_text": "HIV/AIDS \"VA » Health Care » HIV/AIDS » Providers Home » Primary Care Manual » HIV and Urology: Benign Prostatic Hypertrophy, Erectile Dysfunction, Epididymitis, Nephrolithiasis HIV/AIDSHIV/AIDSHIV/AIDS Home For Veterans and the Public For Health Care Providers Provider Home Policies and Reports Provider Edu",
+        "distance": 0.7830705046653748
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4411248395475939483": {
+    "query_id": "-4411248395475939483",
+    "query": "mount flat screen TV without studs",
+    "relevants": [
+      {
+        "relevant_doc": 1106,
+        "relevant_url": "http://www.wikihow.com/Mount-a-Flat-Screen-TV-on-Drywall"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1106,
+        "title": "How to Mount a Flat Screen TV on Drywall",
+        "url": "http://www.wikihow.com/Mount-a-Flat-Screen-TV-on-Drywall",
+        "combined_text": "How to Mount a Flat Screen TV on Drywall Edit Article How to Mount a Flat Screen TV on Drywall Three Parts: Preliminary steps Mounting with studs Mounting without studs Community Q&AIf you have recently purchased a flat screen TV, you are probably ready to sit down with your family and watch a ball game or the latest romantic comedy. Altho",
+        "distance": 0.2420276403427124
+      },
+      {
+        "id": 3004,
+        "title": "HOW TO UNinstall FLAT SCREEN TV OFF WALL",
+        "url": "http://www.youtube.com/watch?v=RC9lJFrMy1U",
+        "combined_text": "HOW TO UNinstall FLAT SCREEN TV OFF WALL HOW TO UNinstall FLAT SCREEN TV OFF WALLTampatec Subscribe 352KAdd to Share More450,802 views687187Published on May 25, 2012HOW TO UNinstall FLAT SCREEN TV OFF WALL, take off wall, unhook, dismount, Deinstall, unmount, unlock, Mount REVIEW uninstalling unmounting unlocking tv mount brackets TAKE OFF",
+        "distance": 0.5856630802154541
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-3688257271997898291": {
+    "query_id": "-3688257271997898291",
+    "query": "people named Merle Ambrose social profiles",
+    "relevants": [
+      {
+        "relevant_doc": 2384,
+        "relevant_url": "https://www.facebook.com/public/Merle-Ambrose"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2384,
+        "title": "People named Merle Ambrose",
+        "url": "https://www.facebook.com/public/Merle-Ambrose",
+        "combined_text": "People named Merle Ambrose People named Merle Ambrose Find your friends on Facebook Log in or sign up for Facebook to connect with friends, family and people you know. Log Inor Sign Up See Photos Merle Ambrose Woolwich, Maine United States See Photos Merle Ambrose (Miir La)Self-Employed Woolworths Hermanus See Photos Merle Am",
+        "distance": 0.2491137534379959
+      },
+      {
+        "id": 3259,
+        "title": "Famous People from Illinois",
+        "url": "http://www.thingstodo.com/states/IL/famous_people.htm",
+        "combined_text": "Famous People from Illinois \"Famous People from Illinois History | Symbols | Interesting Facts | Famous People Jane Addams (1860 - 1935) A pioneer social worker in America, sociologist, author and leader in women's suffrage and world peace. Earned a Nobel Peace Prize for her efforts in helping the inner city poor. She was the",
+        "distance": 0.7097584009170532
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "426498127066327168": {
+    "query_id": "426498127066327168",
+    "query": "purpose of swim bladder in fish",
+    "relevants": [
+      {
+        "relevant_doc": 551,
+        "relevant_url": "https://www.coursehero.com/file/p58nhev/A-fish-birds-amphibians-reptiles-B-amphibians-fish-reptiles-birds-C-reptiles/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 988,
+        "title": "Swim bladder disease",
+        "url": "http://thegoldfishtank.com/goldfish-info/diseases/swim-bladder-disease/",
+        "combined_text": "Swim bladder disease Swim bladder disease“Swim bladder disease” is one of the most common problems affecting goldfish. Although often called a “disease”, it is actually a symptom or disorder affecting the goldfish’s swim bladder that can have a number of different causes. There is not one specific “disease” that is the",
+        "distance": 0.32591676712036133
+      },
+      {
+        "id": 551,
+        "title": "Bony fishes possess a swim bladder to a regulate",
+        "url": "https://www.coursehero.com/file/p58nhev/A-fish-birds-amphibians-reptiles-B-amphibians-fish-reptiles-birds-C-reptiles/",
+        "combined_text": "Bony fishes possess a swim bladder to a regulate Bony fishes possess a swim bladder to a regulate SCHOOLWest Valley COURSE TITLEBIO 10TYPETest Prep UPLOADED BYnotof2015PAGES 21 RATINGS94 % ( 16)This preview shows pages 12–17. Sign up to view the full content. View Full Document48. Bony fishes possess a swim bladder to A. regulate oxygen concentrat",
+        "distance": 0.338859885931015
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-5190448365873411803": {
+    "query_id": "-5190448365873411803",
+    "query": "policies affecting us auto manufacturers",
+    "relevants": [
+      {
+        "relevant_doc": 1236,
+        "relevant_url": "https://www.gmcar.gm.com/issues_issue1.aspx"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1236,
+        "title": "Political Environment",
+        "url": "https://www.gmcar.gm.com/issues_issue1.aspx",
+        "combined_text": "Political Environment Political Environment Supporting the American auto manufacturing industry for generations to come. Many public policy issues affect the entire American auto industry, including General Motors. Federal, state and local laws and regulations impact the way GM is able to build, design and sell its vehic",
+        "distance": 0.38557958602905273
+      },
+      {
+        "id": 3378,
+        "title": "Understanding Auto Insurance Deductibles: When They Apply, How They Affect Rates",
+        "url": "https://www.insurancehotline.com/understanding-your-auto-insurance-deductibles-when-they-apply-how-they-affect-rates/",
+        "combined_text": "Understanding Auto Insurance Deductibles: When They Apply, How They Affect Rates \"Articles Car Home Motorcycle Life Commercial Travel #Ask Anne Marie Understanding Auto Insurance Deductibles: When They Apply, How They Affect Rates February 3, 2012Auto insurance deductibles are one of the commonly misunderstood parts of an auto insurance policy. If you don’t carry full coverage o",
+        "distance": 0.49635422229766846
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "6007961929026300074": {
+    "query_id": "6007961929026300074",
+    "query": "quitclaim deed fees and costs",
+    "relevants": [
+      {
+        "relevant_doc": 1572,
+        "relevant_url": "https://www.mortgagefit.com/quitclaim/deed-cost.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1572,
+        "title": "How much does a Quit Claim deed cost?",
+        "url": "https://www.mortgagefit.com/quitclaim/deed-cost.html",
+        "combined_text": "How much does a Quit Claim deed cost? Mortgage Community Forums | Deeds, Property Transfer and Estate Planning | How much does a Quit Claim deed cost? How much does a Quit Claim deed cost? Submitted by smith.sussane on Thu, 04/16/2009 - 14:00How much Does a [url= http://www.mortgagefit.com/quitclaim-deed.html]Quit Claim deed [/url] cost",
+        "distance": 0.2204422652721405
+      },
+      {
+        "id": 2184,
+        "title": "What Is a Master Deed?",
+        "url": "http://www.wisegeek.com/what-is-a-master-deed.htm",
+        "combined_text": "What Is a Master Deed? When a developer plans to divide a parcel of land into condominiums units, a master deed must be prepared and recorded with the appropriate government office in the jurisdiction where the land is located. This deed will show the division of property into separate units, as well as indicate where the",
+        "distance": 0.6467974185943604
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  }
+}

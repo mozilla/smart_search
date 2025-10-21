@@ -1,0 +1,482 @@
+{
+  "-6228926133452113274": {
+    "query_id": "-6228926133452113274",
+    "query": "healthy rice",
+    "relevants": [
+      {
+        "relevant_doc": 0,
+        "relevant_url": "http://getfit.jillianmichaels.com/eating-rice-healthy-1183.html"
+      },
+      {
+        "relevant_doc": 1,
+        "relevant_url": "http://encyclopedia2.thefreedictionary.com/Rice+(crop)"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 0,
+        "title": "Is Eating Rice Healthy?",
+        "url": "http://getfit.jillianmichaels.com/eating-rice-healthy-1183.html",
+        "combined_text": "Is Eating Rice Healthy?",
+        "distance": 0.13120727241039276
+      },
+      {
+        "id": 1,
+        "title": "rice",
+        "url": "http://encyclopedia2.thefreedictionary.com/Rice+(crop)",
+        "combined_text": "rice",
+        "distance": 0.168068528175354
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-9045203990400867459": {
+    "query_id": "-9045203990400867459",
+    "query": "endodontist",
+    "relevants": [
+      {
+        "relevant_doc": 2,
+        "relevant_url": "http://www.thefreedictionary.com/endodontist"
+      },
+      {
+        "relevant_doc": 3,
+        "relevant_url": "http://www.learnersdictionary.com/definition/endow"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2,
+        "title": "endodontist",
+        "url": "http://www.thefreedictionary.com/endodontist",
+        "combined_text": "endodontist",
+        "distance": 0.0
+      },
+      {
+        "id": 3,
+        "title": "endow",
+        "url": "http://www.learnersdictionary.com/definition/endow",
+        "combined_text": "endow",
+        "distance": 0.453261137008667
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3707272916825310329": {
+    "query_id": "3707272916825310329",
+    "query": "arsenal",
+    "relevants": [
+      {
+        "relevant_doc": 4,
+        "relevant_url": "https://www.rottentomatoes.com/m/arsenal_2017/"
+      },
+      {
+        "relevant_doc": 5,
+        "relevant_url": "https://www.premierleague.com/page/arsenal"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 4,
+        "title": "Arsenal",
+        "url": "https://www.rottentomatoes.com/m/arsenal_2017/",
+        "combined_text": "Arsenal",
+        "distance": 0.0
+      },
+      {
+        "id": 5,
+        "title": "Arsenal",
+        "url": "https://www.premierleague.com/page/arsenal",
+        "combined_text": "Arsenal",
+        "distance": 0.0
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-3155287227620259385": {
+    "query_id": "-3155287227620259385",
+    "query": "gavaskar border trophy",
+    "relevants": [
+      {
+        "relevant_doc": 6,
+        "relevant_url": "http://www.dictionary.com/browse/trophy"
+      },
+      {
+        "relevant_doc": 7,
+        "relevant_url": "http://www.thefreedictionary.com/extravasation"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 6,
+        "title": "trophy",
+        "url": "http://www.dictionary.com/browse/trophy",
+        "combined_text": "trophy",
+        "distance": 0.46149730682373047
+      },
+      {
+        "id": 7,
+        "title": "extravasation",
+        "url": "http://www.thefreedictionary.com/extravasation",
+        "combined_text": "extravasation",
+        "distance": 0.5844522714614868
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "307707437160407178": {
+    "query_id": "307707437160407178",
+    "query": "grand slam champion",
+    "relevants": [
+      {
+        "relevant_doc": 8,
+        "relevant_url": "http://www.dictionary.com/browse/grand-slam"
+      },
+      {
+        "relevant_doc": 9,
+        "relevant_url": "https://en.wikipedia.org/wiki/Grand_Slam_(tennis)"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 8,
+        "title": "grand slam",
+        "url": "http://www.dictionary.com/browse/grand-slam",
+        "combined_text": "grand slam",
+        "distance": 0.12189523130655289
+      },
+      {
+        "id": 9,
+        "title": "Grand Slam (tennis)",
+        "url": "https://en.wikipedia.org/wiki/Grand_Slam_(tennis)",
+        "combined_text": "Grand Slam (tennis)",
+        "distance": 0.1933554708957672
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4218617831271547778": {
+    "query_id": "-4218617831271547778",
+    "query": "capital gain",
+    "relevants": [
+      {
+        "relevant_doc": 10,
+        "relevant_url": "https://www.inc.com/encyclopedia/capital-gain-loss.html"
+      },
+      {
+        "relevant_doc": 11,
+        "relevant_url": "https://en.wikipedia.org/wiki/Capital_One"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 10,
+        "title": "Capital Gain/Loss",
+        "url": "https://www.inc.com/encyclopedia/capital-gain-loss.html",
+        "combined_text": "Capital Gain/Loss",
+        "distance": 0.18008072674274445
+      },
+      {
+        "id": 11,
+        "title": "Capital One",
+        "url": "https://en.wikipedia.org/wiki/Capital_One",
+        "combined_text": "Capital One",
+        "distance": 0.2551022469997406
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4560794658415750881": {
+    "query_id": "-4560794658415750881",
+    "query": "credit limit",
+    "relevants": [
+      {
+        "relevant_doc": 12,
+        "relevant_url": "http://www.thefreedictionary.com/credit+limit"
+      },
+      {
+        "relevant_doc": 13,
+        "relevant_url": "https://cs.kohls.com/app/answers/detail/a_id/216/~/credit-limit-increases"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 12,
+        "title": "credit limit",
+        "url": "http://www.thefreedictionary.com/credit+limit",
+        "combined_text": "credit limit",
+        "distance": 0.0
+      },
+      {
+        "id": 13,
+        "title": "Credit Limit Increases",
+        "url": "https://cs.kohls.com/app/answers/detail/a_id/216/~/credit-limit-increases",
+        "combined_text": "Credit Limit Increases",
+        "distance": 0.088689886033535
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-80104652699521851": {
+    "query_id": "-80104652699521851",
+    "query": "annuity",
+    "relevants": [
+      {
+        "relevant_doc": 14,
+        "relevant_url": "http://www.investorwords.com/225/annuity.html"
+      },
+      {
+        "relevant_doc": 15,
+        "relevant_url": "http://www.dictionary.com/browse/annuity"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 14,
+        "title": "annuity",
+        "url": "http://www.investorwords.com/225/annuity.html",
+        "combined_text": "annuity",
+        "distance": 0.0
+      },
+      {
+        "id": 15,
+        "title": "annuity",
+        "url": "http://www.dictionary.com/browse/annuity",
+        "combined_text": "annuity",
+        "distance": 0.0
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "2933403728085579050": {
+    "query_id": "2933403728085579050",
+    "query": "physiology",
+    "relevants": [
+      {
+        "relevant_doc": 16,
+        "relevant_url": "https://medicalsciences.med.unsw.edu.au/students/disciplines/physiology"
+      },
+      {
+        "relevant_doc": 17,
+        "relevant_url": "https://quizlet.com/30005569/physiology-flash-cards/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 16,
+        "title": "Physiology",
+        "url": "https://medicalsciences.med.unsw.edu.au/students/disciplines/physiology",
+        "combined_text": "Physiology",
+        "distance": 0.0
+      },
+      {
+        "id": 17,
+        "title": "physiology",
+        "url": "https://quizlet.com/30005569/physiology-flash-cards/",
+        "combined_text": "physiology",
+        "distance": 0.0
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4771646699456553057": {
+    "query_id": "-4771646699456553057",
+    "query": "myopia",
+    "relevants": [
+      {
+        "relevant_doc": 18,
+        "relevant_url": "http://www.innovateus.net/innopedia/what-myopia"
+      },
+      {
+        "relevant_doc": 19,
+        "relevant_url": "https://eyecaretyler.com/resources/how-the-eye-works/the-nearsighted-eye-myopia/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 18,
+        "title": "What is Myopia?",
+        "url": "http://www.innovateus.net/innopedia/what-myopia",
+        "combined_text": "What is Myopia?",
+        "distance": 0.03153112158179283
+      },
+      {
+        "id": 19,
+        "title": "The Nearsighted Eye (Myopia)",
+        "url": "https://eyecaretyler.com/resources/how-the-eye-works/the-nearsighted-eye-myopia/",
+        "combined_text": "The Nearsighted Eye (Myopia)",
+        "distance": 0.2968217730522156
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4018404194856441546": {
+    "query_id": "-4018404194856441546",
+    "query": "amyloidosis",
+    "relevants": [
+      {
+        "relevant_doc": 20,
+        "relevant_url": "https://www.seattlecca.org/diseases/amyloidosis"
+      },
+      {
+        "relevant_doc": 21,
+        "relevant_url": "http://www.thefreedictionary.com/amyloidosis"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 20,
+        "title": "Amyloidosis",
+        "url": "https://www.seattlecca.org/diseases/amyloidosis",
+        "combined_text": "Amyloidosis",
+        "distance": 0.0
+      },
+      {
+        "id": 21,
+        "title": "amyloidosis",
+        "url": "http://www.thefreedictionary.com/amyloidosis",
+        "combined_text": "amyloidosis",
+        "distance": 0.0
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-2634501501259578966": {
+    "query_id": "-2634501501259578966",
+    "query": "alopecia",
+    "relevants": [
+      {
+        "relevant_doc": 22,
+        "relevant_url": "https://www.drugs.com/health-guide/alopecia-areata.html"
+      },
+      {
+        "relevant_doc": 23,
+        "relevant_url": "https://medlineplus.gov/ency/article/001450.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 22,
+        "title": "Alopecia Areata",
+        "url": "https://www.drugs.com/health-guide/alopecia-areata.html",
+        "combined_text": "Alopecia Areata",
+        "distance": 0.18723614513874054
+      },
+      {
+        "id": 23,
+        "title": "Alopecia areata",
+        "url": "https://medlineplus.gov/ency/article/001450.htm",
+        "combined_text": "Alopecia areata",
+        "distance": 0.18723614513874054
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "5782008469215420037": {
+    "query_id": "5782008469215420037",
+    "query": "dermatitis",
+    "relevants": [
+      {
+        "relevant_doc": 24,
+        "relevant_url": "https://en.wikipedia.org/wiki/Eczema"
+      },
+      {
+        "relevant_doc": 25,
+        "relevant_url": "http://medical-dictionary.thefreedictionary.com/viral+contagious+dermatitis"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 24,
+        "title": "Dermatitis",
+        "url": "https://en.wikipedia.org/wiki/Eczema",
+        "combined_text": "Dermatitis",
+        "distance": 0.0
+      },
+      {
+        "id": 25,
+        "title": "dermatitis",
+        "url": "http://medical-dictionary.thefreedictionary.com/viral+contagious+dermatitis",
+        "combined_text": "dermatitis",
+        "distance": 0.0
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "9040282400481552578": {
+    "query_id": "9040282400481552578",
+    "query": "coffee shop",
+    "relevants": [
+      {
+        "relevant_doc": 26,
+        "relevant_url": "http://uptv.com/movies/coffee-shop/"
+      },
+      {
+        "relevant_doc": 27,
+        "relevant_url": "http://www.coffeeam.com/coffee-storage.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 26,
+        "title": "Coffee Shop",
+        "url": "http://uptv.com/movies/coffee-shop/",
+        "combined_text": "Coffee Shop",
+        "distance": 0.0
+      },
+      {
+        "id": 27,
+        "title": "How to Store Coffee",
+        "url": "http://www.coffeeam.com/coffee-storage.html",
+        "combined_text": "How to Store Coffee",
+        "distance": 0.17242856323719025
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-5650114323313508818": {
+    "query_id": "-5650114323313508818",
+    "query": "ball drop",
+    "relevants": [
+      {
+        "relevant_doc": 28,
+        "relevant_url": "https://www.balldrop.com/article/history-of-times-square-ball-drop"
+      },
+      {
+        "relevant_doc": 29,
+        "relevant_url": "http://www.dictionary.com/browse/drops"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 28,
+        "title": "Times Square Ball Drop",
+        "url": "https://www.balldrop.com/article/history-of-times-square-ball-drop",
+        "combined_text": "Times Square Ball Drop",
+        "distance": 0.237295463681221
+      },
+      {
+        "id": 29,
+        "title": "drop",
+        "url": "http://www.dictionary.com/browse/drops",
+        "combined_text": "drop",
+        "distance": 0.29130157828330994
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  }
+}

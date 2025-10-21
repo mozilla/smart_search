@@ -1,0 +1,2802 @@
+{
+  "-1232360312071649589": {
+    "query_id": "-1232360312071649589",
+    "query": "who became university at albany president 2013",
+    "relevants": [
+      {
+        "relevant_doc": 135,
+        "relevant_url": "https://www.albany.edu/news/28617.php"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 135,
+        "title": "SUNY Board Appoints Dr. Robert J. Jones as University at Albany President",
+        "url": "https://www.albany.edu/news/28617.php",
+        "combined_text": "SUNY Board Appoints Dr. Robert J. Jones as University at Albany President \"SUNY Board Appoints Dr. Robert J. Jones as University at Albany President Dr. Robert J. Jones, senior vice president for Academic Administration at the University of Minnesota System, will become the 19th president of the University at Albany, effective January 2, 2013. NEW YORK (September 12, 2012",
+        "distance": 0.2547864615917206
+      },
+      {
+        "id": 1487,
+        "title": "The Kaplan University - Davenport Campus Student to Faculty Ratio & Faculty Composition",
+        "url": "http://www.collegefactual.com/colleges/kaplan-university-davenport-campus/academic-life/faculty-composition/",
+        "combined_text": "The Kaplan University - Davenport Campus Student to Faculty Ratio & Faculty Composition \"Overview Rankings Applying Academics Student Life Paying Outcomes Accreditation Faculty Composition Majors Distance Learning The Kaplan University - Davenport Campus Student to Faculty Ratio & Faculty Composition What is the faculty composition at Kaplan University - Davenport Campus? Check out the",
+        "distance": 0.7088691592216492
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "4761602810211056308": {
+    "query_id": "4761602810211056308",
+    "query": "what does average mean in english",
+    "relevants": [
+      {
+        "relevant_doc": 479,
+        "relevant_url": "http://dictionnaire.reverso.net/anglais-definition/average"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 479,
+        "title": "DÃ©finition average | dictionnaire anglais dÃ©finition synonymes Reverso",
+        "url": "http://dictionnaire.reverso.net/anglais-definition/average",
+        "combined_text": "DÃ©finition average | dictionnaire anglais dÃ©finition synonymes Reverso averagen1 the typical or normal amount, quality, degree, etc.above average in intelligence2 (Also called) arithmetic mean the result obtained by adding the numbers or quantities in a set and dividing the total by the number of members in the setthe average of 3, 4, and 8 is 53 (of a continuously var",
+        "distance": 0.5413482785224915
+      },
+      {
+        "id": 1078,
+        "title": "How wide is the average shoulder width for a average male and an average female?",
+        "url": "http://www.answers.com/Q/How_wide_is_the_average_shoulder_width_for_a_average_male_and_an_average_female",
+        "combined_text": "How wide is the average shoulder width for a average male and an average female? \"Answers.com ® Wiki Answers ® Categories History, Politics & Society Society and Civilization Demographics How wide is the average shoulder width for a average male and an average female? Flag How wide is the average shoulder width for a average male and an average female? Answer by Military123 Conf",
+        "distance": 0.6624157428741455
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "5943230215510524935": {
+    "query_id": "5943230215510524935",
+    "query": "overview of dna test types",
+    "relevants": [
+      {
+        "relevant_doc": 1571,
+        "relevant_url": "http://www.slideshare.net/pedroaraez11/what-are-different-types-of-dna-tests"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 179,
+        "title": "General Lab Testing Information",
+        "url": "http://www.anylabtestnow.com/category/education-center/faq/general/",
+        "combined_text": "General Lab Testing Information General Lab Testing Information What is a “laboratory test”? By definition, a laboratory test is a medical procedure that involves testing a sample of blood, urine or other biological specimen. It is used to evaluate how your body is functioning, detect, diagnose and monitor diseases and illnesses.",
+        "distance": 0.5288469791412354
+      },
+      {
+        "id": 969,
+        "title": "How is plasmid DNA similar to the DNA found in chromosomes?",
+        "url": "http://www.answers.com/Q/How_is_plasmid_DNA_similar_to_the_DNA_found_in_chromosomes",
+        "combined_text": "How is plasmid DNA similar to the DNA found in chromosomes? Answers.com ® Wiki Answers ® Categories Science Biology Genetics How is plasmid DNA similar to the DNA found in chromosomes? Flag How is plasmid DNA similar to the DNA found in chromosomes? Answer by Ananddave Confidence votes 4.9KThe plasmid DNA is a small self replicating particles other than the",
+        "distance": 0.5941648483276367
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-1016234734372183796": {
+    "query_id": "-1016234734372183796",
+    "query": "how long can i go without pooping",
+    "relevants": [
+      {
+        "relevant_doc": 567,
+        "relevant_url": "https://www.reference.com/science/long-can-bowel-movement-b328cae9caae8aab"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 567,
+        "title": "How Long Can You Go Without a Bowel Movement?",
+        "url": "https://www.reference.com/science/long-can-bowel-movement-b328cae9caae8aab",
+        "combined_text": "How Long Can You Go Without a Bowel Movement? Science Human Anatomy Q: How Long Can You Go Without a Bowel Movement? A: Quick Answer The length of time a person can or should go without a bowel movement varies greatly from person to person. Going three days without a bowel movement is considered too long because stool becomes harder and more di",
+        "distance": 0.29448193311691284
+      },
+      {
+        "id": 1271,
+        "title": "Constipation After Surgery",
+        "url": "https://healthfoxx.com/constipation-after-surgery-causes-remedies/",
+        "combined_text": "Constipation After Surgery Constipation After Surgery IN THIS ARTICLE: Causes for Constipation after Surgery Post-Surgical Constipation Remedies Constipation is due to the reduced frequency of bowel movements. When constipation occurs, stool that is not eliminated becomes hard and dry. Constipation is a difficult state, espec",
+        "distance": 0.5834602117538452
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-5670592665693744850": {
+    "query_id": "-5670592665693744850",
+    "query": "english translation of the song alouette",
+    "relevants": [
+      {
+        "relevant_doc": 1336,
+        "relevant_url": "http://www.whereiamnow.net/2012/03/what-do-lyrics-to-alouette-song-mean-in.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1336,
+        "title": "\"What Do the Lyrics to the \"\"Alouette\"\" Song Mean in English?\"",
+        "url": "http://www.whereiamnow.net/2012/03/what-do-lyrics-to-alouette-song-mean-in.html",
+        "combined_text": "\"What Do the Lyrics to the \"\"Alouette\"\" Song Mean in English?\" \"What Do the Lyrics to the \"\"Alouette\"\" Song Mean in English? Knowledge is good, but there are certain things I would rather not know. The English translation of the French lyrics of \"\"Alouette\"\" is one of them. Since childhood I've loved this little song; it sounds so cheerful! The words \"\"le tete\"",
+        "distance": 0.18364351987838745
+      },
+      {
+        "id": 637,
+        "title": "What is 'italiane' when translated from Italian to English?",
+        "url": "http://www.answers.com/Q/What_is_the_Italian_word_for_grandmother",
+        "combined_text": "What is 'italiane' when translated from Italian to English? \"Derdriu Marriner I am an arborist. Graduate study, travel, work make me an expert in benthics, European languages, wildlife mapping, world fauna and flora. What is 'italiane' when translated from Italian to English? \"\"Italians (females, women)\"\" is a literal English equivalent of the Italian word i",
+        "distance": 0.7183237075805664
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-5706810474705963096": {
+    "query_id": "-5706810474705963096",
+    "query": "healthy ways to gain weight",
+    "relevants": [
+      {
+        "relevant_doc": 1165,
+        "relevant_url": "http://www.wikihow.com/Gain-Weight"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1165,
+        "title": "How to Gain Weight",
+        "url": "http://www.wikihow.com/Gain-Weight",
+        "combined_text": "How to Gain Weight Expert Reviewed How to Gain Weight Four Parts: Foods to Eat and Avoid Eating to Gain Weight Building Muscle Mass Staying Safe Community Q&AWhen everyone seems obsessed with losing weight, it can be hard to figure out how to gain weight in a safe and healthy way. Don't worry though — gaining weight i",
+        "distance": 0.2835216224193573
+      },
+      {
+        "id": 1577,
+        "title": "Meals to Help Diabetics Gain Weight",
+        "url": "http://www.livestrong.com/article/314689-diabetic-weight-gain-meals/",
+        "combined_text": "Meals to Help Diabetics Gain Weight \"Meals to Help Diabetics Gain Weightby BRITTANY CHIN July 18, 2017Gaining weight while controlling your blood sugar can be very difficult for those with diabetes. The key to a healthy weight gain is to recognize which foods affect your blood sugar and which do not. For weight gain that also allows c",
+        "distance": 0.3591900169849396
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-5845010876305276070": {
+    "query_id": "-5845010876305276070",
+    "query": "how herbaria store and identify plants",
+    "relevants": [
+      {
+        "relevant_doc": 1588,
+        "relevant_url": "http://apps.kew.org/herbcat/gotoWhatIsHerbarium.do"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1588,
+        "title": "What is a Herbarium?",
+        "url": "http://apps.kew.org/herbcat/gotoWhatIsHerbarium.do",
+        "combined_text": "What is a Herbarium? What is a Herbarium? An Internal View of Kew's Herbarium A herbarium is a collection of preserved plants stored, catalogued, and arranged systematically for study by professionals and amateurs from many walks of life. A collection like this is a vital reference when you need to identify a plant and",
+        "distance": 0.4568234384059906
+      },
+      {
+        "id": 457,
+        "title": "What plants have no xylem or phloem cells?",
+        "url": "https://answers.yahoo.com/question/index?qid=20100325182028AAR7Gfx",
+        "combined_text": "What plants have no xylem or phloem cells? \"Science & Mathematics Botany What plants have no xylem or phloem cells? Follow 4 answers Answers Relevance Rating Newest Oldest Best Answer: Mosses, liverworts, and hornworts, (bryophytes) don't have xylem or phloem. They have hydroids and leptoids. They are primitive plants and their leptoids and",
+        "distance": 0.6022576093673706
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "606495020110583447": {
+    "query_id": "606495020110583447",
+    "query": "ckd causes symptoms and prevention",
+    "relevants": [
+      {
+        "relevant_doc": 811,
+        "relevant_url": "http://www.healthline.com/health/chronic-kidney-disease"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 811,
+        "title": "Chronic Kidney Disease",
+        "url": "http://www.healthline.com/health/chronic-kidney-disease",
+        "combined_text": "Chronic Kidney Disease Chronic Kidney Disease Causes Risk factors Symptoms Diagnosis Treatment Prevention What is chronic kidney disease (CKD)? Chronic kidney disease (CKD) is the progressive and irreversible destruction of the kidneys. Your kidneys are essential parts of your body. They have several functions, including:",
+        "distance": 0.3460978865623474
+      },
+      {
+        "id": 755,
+        "title": "Nephrology",
+        "url": "https://www.piedmont.org/transplant/conditions-diseases/transplant-diabetic-nephropathy",
+        "combined_text": "Nephrology Nephrology Nephropathy is the deterioration of the kidneys. The final stage of nephropathy is called end-stage renal disease, or ESRD. According to the Centers for Disease Control and Prevention (CDC), diabetes is the most common cause of ESRD, accounting for about 44 percent of all new cases of kid",
+        "distance": 0.5155090689659119
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-3011055830892348759": {
+    "query_id": "-3011055830892348759",
+    "query": "regional names for sasquatch relatives",
+    "relevants": [
+      {
+        "relevant_doc": 921,
+        "relevant_url": "https://exemplore.com/cryptids/Names-for-Bigfoot-Around-the-World"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 921,
+        "title": "Names for Bigfoot Relatives Around the World",
+        "url": "https://exemplore.com/cryptids/Names-for-Bigfoot-Around-the-World",
+        "combined_text": "Names for Bigfoot Relatives Around the World \"Exemplore » Cryptids » Bigfoot Names for Bigfoot Relatives Around the World Updated on June 10, 2016cryptid more With interests in science, nature, and the paranormal, cryptid explores fringe topics from a unique and sometimes controversial perspective. Bigfoot is known by many different names arou",
+        "distance": 0.47823870182037354
+      },
+      {
+        "id": 1498,
+        "title": "Major studies of Czechs",
+        "url": "http://www.khazaria.com/genetics/czechs.html",
+        "combined_text": "Major studies of Czechs \"Czech Genetics: Abstracts and Summaries Family Tree DNA: Genetic Testing Service DNA testing will show your connections with other families and ethnic groups. The database includes not only Czechs but also Slovaks, Austrians, Germans, Hungarians, Jews, and members of many other ethnic groups. Once",
+        "distance": 0.814285933971405
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-7037631827006715206": {
+    "query_id": "-7037631827006715206",
+    "query": "berry-shaped bulge in brain artery",
+    "relevants": [
+      {
+        "relevant_doc": 271,
+        "relevant_url": "https://en.wikipedia.org/wiki/Saccular"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 271,
+        "title": "Aneurysm",
+        "url": "https://en.wikipedia.org/wiki/Saccular",
+        "combined_text": "Aneurysm \"From Wikipedia, the free encyclopedia (Redirected from Saccular)navigation search For other uses, see Aneurysm (disambiguation). Not to be confused with ebullism or embolism. Aneurysm Synonyms Aneurism Angiography of an aneurysm in a brain artery. The aneurysm is the bean-shaped object in the cente",
+        "distance": 0.6473730206489563
+      },
+      {
+        "id": 973,
+        "title": "What is the largest part of the brain?",
+        "url": "http://www.answers.com/Q/What_is_the_largest_part_of_the_brain",
+        "combined_text": "What is the largest part of the brain? Answers.com ® Wiki Answers ® Categories Science Biology Human Anatomy and Physiology Nervous System Brain What is the largest part of the brain? Flag What is the largest part of the brain? Edit Answer by Jonethan De Laughter, DO, FAAEM Confidence votes 13.4KHusband. Father. Physician. The cerebrum i",
+        "distance": 0.6821877360343933
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "6552013631290934130": {
+    "query_id": "6552013631290934130",
+    "query": "calculate degrees for pie chart",
+    "relevants": [
+      {
+        "relevant_doc": 620,
+        "relevant_url": "http://www.answers.com/Q/How_do_you_convert_numbers_to_degrees_to_make_a_circle_graph"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 772,
+        "title": "How To Calculate square roots on paper the easy way",
+        "url": "http://math.wonderhowto.com/how-to/calculate-square-roots-paper-easy-way-383865/",
+        "combined_text": "How To Calculate square roots on paper the easy way How To Calculate square roots on paper the easy way By Wonder How To 11/04/2010 1:25 pm Perhaps not as easy as using a calculator, but easy nevertheless! With mathematics, as with anything else, not everyone progresses at the same rate. Happily, in the age of Internet video tutorials, this isn't a p",
+        "distance": 0.7451886534690857
+      },
+      {
+        "id": 350,
+        "title": "Jean Piaget Facts",
+        "url": "http://www.softschools.com/facts/scientists/jean_piaget_facts/1617/",
+        "combined_text": "Jean Piaget Facts \"Home > Facts > Scientists Facts > Jean Piaget Facts Jean Piaget Facts Jean Piaget Facts Jean Piaget (August 9, 1896 to September 6, 1980) was a Swiss developmental psychologist and philosopher. His studies of learning in young children led to the development of the constructivist theory of knowledg",
+        "distance": 0.795628011226654
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "6677261668875133602": {
+    "query_id": "6677261668875133602",
+    "query": "how brain functions are localized",
+    "relevants": [
+      {
+        "relevant_doc": 844,
+        "relevant_url": "http://www.audioenglish.org/dictionary/localization_of_function.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 844,
+        "title": "LOCALIZATION OF FUNCTION",
+        "url": "http://www.audioenglish.org/dictionary/localization_of_function.htm",
+        "combined_text": "LOCALIZATION OF FUNCTION \"Audio English.org » Dictionary » L » Lobe ... Located LOCALIZATION OF FUNCTIONPronunciation (US): Dictionary entry overview: What does localization of function mean?• LOCALIZATION OF FUNCTION (noun) The noun LOCALIZATION OF FUNCTION has 1 sense:1. (physiology) the principle that specific functions",
+        "distance": 0.5290423631668091
+      },
+      {
+        "id": 436,
+        "title": "Speed of Thought-to-Speech Traced in Brain",
+        "url": "https://www.livescience.com/5780-speed-thought-speech-traced-brain.html",
+        "combined_text": "Speed of Thought-to-Speech Traced in Brain \"Live Science Health Speed of Thought-to-Speech Traced in Brain By Andrea Thompson | October 15, 2009 10:06am ETMOREThis is a brain scan showing electrodes that surgeons use to find and remove the source of seizures (to cure epilepsy) while sparing the source of mental functions like language. Credi",
+        "distance": 0.6073786616325378
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4173799445595050141": {
+    "query_id": "-4173799445595050141",
+    "query": "1957 law creating DOJ civil rights unit",
+    "relevants": [
+      {
+        "relevant_doc": 677,
+        "relevant_url": "http://spartacus-educational.com/USAcivil57.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 677,
+        "title": "1957 Civil Rights Act",
+        "url": "http://spartacus-educational.com/USAcivil57.htm",
+        "combined_text": "1957 Civil Rights Act American History > Civil Rights 1860-1980 > 1957 Civil Rights Act1957 Civil Rights Act The Civil Rights Act (1957) provided for the establishment of the Civil Rights Section of the Justice Department and empowered federal prosecutors to obtain court injunctions against interference with the right to",
+        "distance": 0.37121593952178955
+      },
+      {
+        "id": 1364,
+        "title": "What are Civil Liberties? - Definition, Examples & Cases",
+        "url": "https://study.com/academy/lesson/what-are-civil-liberties-definition-examples-cases.html",
+        "combined_text": "What are Civil Liberties? - Definition, Examples & Cases Instructor: Mark Pearcy What are civil liberties? How are they different from civil rights? How do we know exactly what (and when) they are? The issue of civil liberties began with the Constitution and continues with the U. S. Supreme Court. Defining Civil Liberties You have the right to free speech",
+        "distance": 0.613018810749054
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7204467221183754509": {
+    "query_id": "7204467221183754509",
+    "query": "carrier definition in biology",
+    "relevants": [
+      {
+        "relevant_doc": 29,
+        "relevant_url": "http://www.biology-online.org/dictionary/Carrier"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 29,
+        "title": "Carrier",
+        "url": "http://www.biology-online.org/dictionary/Carrier",
+        "combined_text": "Carrier Carriernavigation search Definitionnoun, plural: carriers (general) A person or object that transports or conveys. ( immunology) An asymptomatic person or animal harboring the pathogen, and acts as a vector transmitting the pathogen to others. ( genetics) (1) A heterozygous individual bearing an une",
+        "distance": 0.4160838723182678
+      },
+      {
+        "id": 5,
+        "title": "Here Is Every Aircraft Carrier in the World",
+        "url": "http://www.popularmechanics.com/military/navy-ships/g2412/a-global-roundup-of-aircraft-carriers/",
+        "combined_text": "Here Is Every Aircraft Carrier in the World \"By Kyle Mizokami Jan 25, 2016 3.3k Only a handful of countries have aircraft carriers in their arsenals. They form an exclusive club, one whose members who have decided their interests stretch so far from their own waters they need to put air power at sea. Broadly speaking, there are three kinds of",
+        "distance": 0.7023839354515076
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "5727409281894326036": {
+    "query_id": "5727409281894326036",
+    "query": "tomie de paola interview about picture books",
+    "relevants": [
+      {
+        "relevant_doc": 552,
+        "relevant_url": "http://www.artistsnetwork.com/articles/inspiration-creativity/putting-on-a-show-tomie-depaola"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 552,
+        "title": "Putting on a Show | Tomie dePaola",
+        "url": "http://www.artistsnetwork.com/articles/inspiration-creativity/putting-on-a-show-tomie-depaola",
+        "combined_text": "Putting on a Show | Tomie dePaola Art Inspiration, Art Subjects, Artists Magazine, Color Mixing Tomie de Paola talks to another master illustrator, Will Hillenbrand, about the imperative of the picture book: being faithful to the heart—and to the delightful responsibility to enthrall and entertain. Among Tomie de Paola’s many awards",
+        "distance": 0.28922832012176514
+      },
+      {
+        "id": 154,
+        "title": "What is Life?: With Mind and Matter and Autobiographical Sketches (Canto Classics) Reprint Edition",
+        "url": "https://www.amazon.com/What-Life-Autobiographical-Sketches-Classics/dp/1107604664",
+        "combined_text": "What is Life?: With Mind and Matter and Autobiographical Sketches (Canto Classics) Reprint Edition \"Books › Religion & Spirituality › Worship & Devotion What is Life? (Canto) and millions of other books are available for Amazon Kindle. Learn more What is Life? : With Mind and Matter and Autobiographical Sketches (Canto Classics) Reprint Editionby Erwin Schrodinger (Author), Roger Penrose (Forewor",
+        "distance": 0.8024052977561951
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-606682441553647775": {
+    "query_id": "-606682441553647775",
+    "query": "freedmen primary school Vicksburg reconstruction",
+    "relevants": [
+      {
+        "relevant_doc": 759,
+        "relevant_url": "http://histclo.com/essay/war/cwa/recon.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 759,
+        "title": "The American Civil War: Reconstruction",
+        "url": "http://histclo.com/essay/war/cwa/recon.html",
+        "combined_text": "The American Civil War: Reconstruction \"The American Civil War: Reconstruction Figure 1.--This illustration was part of an article about education in Mississippi in \"\"Harper's Weekly\"\" (June 23, 1866), p. 392. The Harper's caption read, \"\"Primary School for Freedmen, in charge of Mrs. Green, at Vicksburg, Mississippi.\"\" The article descr",
+        "distance": 0.37678736448287964
+      },
+      {
+        "id": 581,
+        "title": "Mississippi County, Arkansas Cooperative Extension Service",
+        "url": "https://www.uaex.edu/counties/mississippi/",
+        "combined_text": "Mississippi County, Arkansas Cooperative Extension Service \"Mississippi County, Arkansas Cooperative Extension Service\"\"During this Fiscal year Look out for exciting things in Mississippi County! \"\"Our Extension team is busy this time of year in Mississippi county. The Ag Agents are out in the fields doing what they do best - SERVICING! Other agents (FCS, 4",
+        "distance": 0.7224733233451843
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-1774530773072846747": {
+    "query_id": "-1774530773072846747",
+    "query": "social work licensing exam prep nyc",
+    "relevants": [
+      {
+        "relevant_doc": 416,
+        "relevant_url": "http://www.naswnyc.org/?189"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 416,
+        "title": "NASW-NYC's Licensing Test Prep Workshop",
+        "url": "http://www.naswnyc.org/?189",
+        "combined_text": "NASW-NYC's Licensing Test Prep Workshop NASW-NYC's Licensing Test Prep Workshop The NASW-NYC Licensing Test Prep Workshop is highly rated by our participants. It is a one-day course that provides information on the format and structure of the LMSW or LCSW examination, thereby reducing stress associated with the testing conditions. The wor",
+        "distance": 0.32435378432273865
+      },
+      {
+        "id": 1606,
+        "title": "Virginia Contractors License (VA) Education, Exam Prep, Books",
+        "url": "http://www.contractor-licensing.com/virginia/contractors-licenses.html?crtag=PPC",
+        "combined_text": "Virginia Contractors License (VA) Education, Exam Prep, Books Virginia Contractors License (VA) Education, Exam Prep, Books A contractor's license is generally required in Virginia (VA) for any construction work in excess of $1,000. An individual license is issued to those who want to do work with plumbing, electrical, and HVAC, at the master and journeyman le",
+        "distance": 0.5429627299308777
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "1849115772731442014": {
+    "query_id": "1849115772731442014",
+    "query": "average salary for ece bachelor's degree",
+    "relevants": [
+      {
+        "relevant_doc": 261,
+        "relevant_url": "http://www.payscale.com/research/US/Degree=Bachelor%27s_Degree%2c_Electrical_%26_Computer_Engineering_(ECE)/Salary"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 261,
+        "title": "Bachelor's Degree, Electrical & Computer Engineering (ECE) Average Salary",
+        "url": "http://www.payscale.com/research/US/Degree=Bachelor%27s_Degree%2c_Electrical_%26_Computer_Engineering_(ECE)/Salary",
+        "combined_text": "Bachelor's Degree, Electrical & Computer Engineering (ECE) Average Salary Salary Bonus Popular Profit Sharing Bachelor's Degree, Electrical & Computer Engineering (ECE) Median Salary by Job Check salary info for your own job »Job Average Min Max Electrical Engineer1 profile$65,809$54K $79KTeam Leader, General1 profile$57,241$36K $91KAccount Manager1 profile$119,993$83K $1",
+        "distance": 0.36551588773727417
+      },
+      {
+        "id": 273,
+        "title": "After getting my bachelors how long does it take to get a doctorate?",
+        "url": "https://answers.yahoo.com/question/index?qid=20080815152511AA93mTr",
+        "combined_text": "After getting my bachelors how long does it take to get a doctorate? \"Education & Reference Higher Education (University +)After getting my bachelors how long does it take to get a doctorate? In my last year of my bachelors degree in psychology and I want to get a doctorate. But I have no idea how long it would take. And is it better to get a masters a doctorate? Fol",
+        "distance": 0.6029771566390991
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7955850113480413258": {
+    "query_id": "7955850113480413258",
+    "query": "what a panic attack feels like",
+    "relevants": [
+      {
+        "relevant_doc": 818,
+        "relevant_url": "http://health.howstuffworks.com/mental-health/anxiety/panic-attack.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 818,
+        "title": "Understanding Panic Attacks",
+        "url": "http://health.howstuffworks.com/mental-health/anxiety/panic-attack.htm",
+        "combined_text": "Understanding Panic Attacks \"NEXTA panic attack can be one of the most frightening experiences of your life. See more mental disorder pictures . Erin Patrice O'Brien/ Getty Images You're walking through the park on an ordinary day when suddenly, without warning, you're stricken with acute fear. The world starts to spin. Everyt",
+        "distance": 0.4417603015899658
+      },
+      {
+        "id": 769,
+        "title": "Can dogs eat peanuts?",
+        "url": "http://www.sarahsdogs.com/qa/can-dogs-eat-peanuts/",
+        "combined_text": "Can dogs eat peanuts? Anaphylaxis is a very dangerous and life threatening allergic reaction. The tongue and the throat would swell so that the upper airway is obstructed. The sudden onset of breathing difficulty will cause the sufferer to panic and collapse. Anaphylactic shock that can lead to the death of a person can",
+        "distance": 0.56737220287323
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-5959924059350785562": {
+    "query_id": "-5959924059350785562",
+    "query": "affordable accredited online degree rankings",
+    "relevants": [
+      {
+        "relevant_doc": 289,
+        "relevant_url": "http://www.onlineu.org/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 289,
+        "title": "2018 Most Affordable Online Colleges",
+        "url": "http://www.onlineu.org/",
+        "combined_text": "2018 Most Affordable Online Colleges Find an Online Degree:2018 Most Affordable Online Colleges Each year, we publish our Most Affordable Online College Rankings, which represent the most affordable online degrees in the country across a variety of popular subjects. Every degree is from an accredited school, and annual tuitions start b",
+        "distance": 0.2123883217573166
+      },
+      {
+        "id": 26,
+        "title": "Earn Your Accounting Degree Online",
+        "url": "http://www.pennfoster.edu/programs-and-degrees/accounting-and-finance/accounting-associate-degree",
+        "combined_text": "Earn Your Accounting Degree Online Accounting Associate Degree Earn your degree online, at your own pace, for as little as $49 per month Learn More",
+        "distance": 0.5746803283691406
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-1539922580019852648": {
+    "query_id": "-1539922580019852648",
+    "query": "infant deaths linked to vaccines",
+    "relevants": [
+      {
+        "relevant_doc": 303,
+        "relevant_url": "http://www.naturalnews.com/031820_vaccinations_babies.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 303,
+        "title": "More than 2,000 vaccinated babies died: The cost of doing business",
+        "url": "http://www.naturalnews.com/031820_vaccinations_babies.html",
+        "combined_text": "More than 2,000 vaccinated babies died: The cost of doing business \"Tweet (Natural News) Earlier this month (March 2011), Japanese authorities ordered doctors to stop using pneumococcal and Hib vaccines because four children died after receiving the shots. However, the real news was never reported: more than 2,000 babies died in the United States after receiving va",
+        "distance": 0.3861912488937378
+      },
+      {
+        "id": 836,
+        "title": "vaccine",
+        "url": "http://medical-dictionary.thefreedictionary.com/Recombinant+vaccines",
+        "combined_text": "vaccine \"Correct all you're your grammar errors instantly. Try it now.vaccine (redirected from Recombinant vaccines) Also found in: Dictionary, Thesaurus, Encyclopedia .vaccine [ vak-sēn´] a suspension of attenuated or killed microorganisms (viruses, bacteria, or rickettsiae), administeredfor prevention, am",
+        "distance": 0.5260130167007446
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-419734720238252331": {
+    "query_id": "-419734720238252331",
+    "query": "history and purpose of shoe spats",
+    "relevants": [
+      {
+        "relevant_doc": 244,
+        "relevant_url": "http://www.wisegeek.com/what-are-spats.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 244,
+        "title": "What are Spats?",
+        "url": "http://www.wisegeek.com/what-are-spats.htm",
+        "combined_text": "What are Spats? Spats are a type of covering for the tops of shoes, which may be worn for ornamental or decorative purpose, or can be worn to promote safety while performing certain jobs. This shoe accessory became popular in the 19th century in men’s formal dress. The typical pair of spats have a loop that fits un",
+        "distance": 0.39035189151763916
+      },
+      {
+        "id": 374,
+        "title": "Walking Shoes for Women That You'll Actually Want to Wear Everywhere",
+        "url": "http://www.bestproducts.com/fitness/clothing/g426/walking-shoes-for-women/",
+        "combined_text": "Walking Shoes for Women That You'll Actually Want to Wear Everywhere By Andrew Bettlach Apr 11, 2018 509Spending an entire day on your feet doesn't have to be painful. Today's walking shoes for women are similar to running and cross-training shoes in that they provide breathability, cushioning, and support, but they tend toward a slightly more casual style. So whethe",
+        "distance": 0.6272460222244263
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8671011004940161564": {
+    "query_id": "8671011004940161564",
+    "query": "openstudy rebrand to brainly",
+    "relevants": [
+      {
+        "relevant_doc": 240,
+        "relevant_url": "http://openstudy.com/updates/50c90b5ee4b0a14e4368e976"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 436,
+        "title": "Speed of Thought-to-Speech Traced in Brain",
+        "url": "https://www.livescience.com/5780-speed-thought-speech-traced-brain.html",
+        "combined_text": "Speed of Thought-to-Speech Traced in Brain \"Live Science Health Speed of Thought-to-Speech Traced in Brain By Andrea Thompson | October 15, 2009 10:06am ETMOREThis is a brain scan showing electrodes that surgeons use to find and remove the source of seizures (to cure epilepsy) while sparing the source of mental functions like language. Credi",
+        "distance": 0.6952335834503174
+      },
+      {
+        "id": 1207,
+        "title": "OpenStudy is nowBrainly!",
+        "url": "http://openstudy.com/updates/5429d1b7e4b0c17f1465c29e",
+        "combined_text": "OpenStudy is nowBrainly! anonymous 3 years ago What was the main failure of the Articles of Confederation that eventually led to the US Constitution? History Stacey Warren - Expert brainly.com Hey! We 've verified this expert answer for you, click below to unlock the details :)SOLVEDAt vero eos et accusamus et iusto odio di",
+        "distance": 0.701317310333252
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "5370304458543411220": {
+    "query_id": "5370304458543411220",
+    "query": "magpie with black bill north america",
+    "relevants": [
+      {
+        "relevant_doc": 429,
+        "relevant_url": "https://en.wikipedia.org/wiki/Black-billed_magpie"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 429,
+        "title": "Black-billed magpie",
+        "url": "https://en.wikipedia.org/wiki/Black-billed_magpie",
+        "combined_text": "Black-billed magpie \"From Wikipedia, the free encyclopedianavigation search Black-billed magpie In Flagstaff County, Alberta Conservation status Least Concern ( IUCN 3.1) [1]Scientific classification Kingdom: Animalia Phylum: Chordata Class: Aves Order: Passeriformes Family: Corvidae Genus: Pica Species: P. hudsonia Bi",
+        "distance": 0.5779853463172913
+      },
+      {
+        "id": 1553,
+        "title": "Wash Your Hands",
+        "url": "http://www.kididdles.com/lyrics/w140.html",
+        "combined_text": "Wash Your Hands \"Wash Your Hands Written by: Bill Harley, Copyright: Bill Harley Bill Harley \"\"Wash Your Hands\"\". Your browser does not currently recognize any of the video formats available. Click here to visit our frequently asked questions about HTML5 video.0:00 / 3:52 \"",
+        "distance": 0.8214550018310547
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "5773072696489513363": {
+    "query_id": "5773072696489513363",
+    "query": "how forest loss affects wildlife",
+    "relevants": [
+      {
+        "relevant_doc": 1379,
+        "relevant_url": "http://www.answers.com/Q/How_deforestation_affect_the_animal"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1379,
+        "title": "How deforestation affect the animal?",
+        "url": "http://www.answers.com/Q/How_deforestation_affect_the_animal",
+        "combined_text": "How deforestation affect the animal? Answers.com ® Wiki Answers ® Categories Science Biology Ecology and Bionomics Environmental Issues Deforestation and Habitat Loss How deforestation affect the animal? Flag How deforestation affect the animal? Answered by The Wiki Answers ®Community Answers.com ® is making the world better one answer",
+        "distance": 0.5923282504081726
+      },
+      {
+        "id": 1155,
+        "title": "What Are the Environmental Threats to the Taiga?",
+        "url": "https://www.reference.com/science/environmental-threats-taiga-7013b3790c9278b2",
+        "combined_text": "What Are the Environmental Threats to the Taiga? Science Environmental Science Q: What Are the Environmental Threats to the Taiga? A: Quick Answer There are many environmental threats to the taiga biome, including forms of pollution, deforestation and mining. The taiga biome is the home of many animals being put into danger by these environmental",
+        "distance": 0.7497410178184509
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-1177119941756023315": {
+    "query_id": "-1177119941756023315",
+    "query": "what increases risk of nasal and sinus cancer",
+    "relevants": [
+      {
+        "relevant_doc": 381,
+        "relevant_url": "http://www.cancer.net/cancer-types/nasal-cavity-and-paranasal-sinus-cancer/risk-factors-and-prevention"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 381,
+        "title": "Nasal Cavity and Paranasal Sinus Cancer: Risk Factors and Prevention",
+        "url": "http://www.cancer.net/cancer-types/nasal-cavity-and-paranasal-sinus-cancer/risk-factors-and-prevention",
+        "combined_text": "Nasal Cavity and Paranasal Sinus Cancer: Risk Factors and Prevention Nasal Cavity and Paranasal Sinus Cancer: Risk Factors and Prevention Approved by the Cancer. Net Editorial Board, 05/2017ON THIS PAGE: You will find out more about the factors that increase the chance of developing these types of cancer and what people can do to lower their risk. Use the menu to see",
+        "distance": 0.2712916433811188
+      },
+      {
+        "id": 358,
+        "title": "Sinus Surgery (Patient Instructions)",
+        "url": "https://www.medicinenet.com/sinus_surgery/article.htm",
+        "combined_text": "Sinus Surgery (Patient Instructions) \"Sinus Surgery (Patient Instructions) Center10 Common Allergy Triggers Slideshow Pictures Take the Quiz on Allergies Nasal Allergy Relief Products Slideshow Patient Comments: Sinus Surgery - Recovery Patient Comments: Sinus Surgery - Experience Find a local Ear, Nose, & Throat Doctor in your town Si",
+        "distance": 0.4636599123477936
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4783044213605959917": {
+    "query_id": "-4783044213605959917",
+    "query": "dangers facing the taiga biome",
+    "relevants": [
+      {
+        "relevant_doc": 1155,
+        "relevant_url": "https://www.reference.com/science/environmental-threats-taiga-7013b3790c9278b2"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1155,
+        "title": "What Are the Environmental Threats to the Taiga?",
+        "url": "https://www.reference.com/science/environmental-threats-taiga-7013b3790c9278b2",
+        "combined_text": "What Are the Environmental Threats to the Taiga? Science Environmental Science Q: What Are the Environmental Threats to the Taiga? A: Quick Answer There are many environmental threats to the taiga biome, including forms of pollution, deforestation and mining. The taiga biome is the home of many animals being put into danger by these environmental",
+        "distance": 0.24952241778373718
+      },
+      {
+        "id": 695,
+        "title": "What is the temperature normally in the Arctic tundra?",
+        "url": "http://www.answers.com/Q/What_is_the_temperature_range_for_tundra",
+        "combined_text": "What is the temperature normally in the Arctic tundra? Answered In Tundra What is the temperature normally in the Arctic tundra? During the winter , The tundra can experience temperatures as low as -60 degrees Fahrenheit . But during the warmer months temperature rises between 32 degrees Fahrenheit …Answered In Biomes What is the temperature for tundra",
+        "distance": 0.6813688278198242
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-592897528861314713": {
+    "query_id": "-592897528861314713",
+    "query": "who qualifies for burial at arlington",
+    "relevants": [
+      {
+        "relevant_doc": 482,
+        "relevant_url": "http://www.cnn.com/2004/ALLPOLITICS/05/31/works.arlington/index.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 482,
+        "title": "Who is eligible for burial at Arlington?",
+        "url": "http://www.cnn.com/2004/ALLPOLITICS/05/31/works.arlington/index.html",
+        "combined_text": "Who is eligible for burial at Arlington? How It Works Who is eligible for burial at Arlington? National cemetery home to veterans, famous Americans Tuesday, June 1, 2004 Posted: 1:36 AM EDT (0536 GMT)RELATED• Arlington National Cemetery YOUR E-MAIL ALERTSWashington Arlington National Cemeteryor Create your own Manage alerts | What is this?",
+        "distance": 0.2539390027523041
+      },
+      {
+        "id": 1606,
+        "title": "Virginia Contractors License (VA) Education, Exam Prep, Books",
+        "url": "http://www.contractor-licensing.com/virginia/contractors-licenses.html?crtag=PPC",
+        "combined_text": "Virginia Contractors License (VA) Education, Exam Prep, Books Virginia Contractors License (VA) Education, Exam Prep, Books A contractor's license is generally required in Virginia (VA) for any construction work in excess of $1,000. An individual license is issued to those who want to do work with plumbing, electrical, and HVAC, at the master and journeyman le",
+        "distance": 0.8030144572257996
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8903987757279204897": {
+    "query_id": "-8903987757279204897",
+    "query": "calorie count 4oz lean beef patty",
+    "relevants": [
+      {
+        "relevant_doc": 70,
+        "relevant_url": "https://recipes.sparkpeople.com/recipe-calories.asp?recipe=505872"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 70,
+        "title": "Calories in 4 oz Lean Hamburger Patty",
+        "url": "https://recipes.sparkpeople.com/recipe-calories.asp?recipe=505872",
+        "combined_text": "Calories in 4 oz Lean Hamburger Patty Nutrition Facts Servings Per Recipe: 1Serving Size: 1 serving Amount Per Serving Calories 265.6Total Fat 19.3 g Saturated Fat 7.7 g Polyunsaturated Fat 0.8 g Monounsaturated Fat 8.4 g Cholesterol 78.2 mg Sodium 74.9 mg Potassium 323.3 mg Total Carbohydrate 0.1 g Dietary Fiber 0.0 g Sugars 0.0 g Prot",
+        "distance": 0.5157704949378967
+      },
+      {
+        "id": 98,
+        "title": "How many carbs are in Subway Flatbread",
+        "url": "http://www.slimkicker.com/foods/flatbread-2133577",
+        "combined_text": "How many carbs are in Subway Flatbread 220 Calories Per Serving Number of Calories: Based on 1 piece serving Calories: 220Fat: 4.5g Carbs: 38g Protein: 8g Nutritional Value and Information How many calories are in 1 serving?220 calories are in 1 piece - it has the same quantity of calories as 2.82 oz white pita bread, 2.75 slices of pump",
+        "distance": 0.6120935082435608
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "7381540152241271772": {
+    "query_id": "7381540152241271772",
+    "query": "what is linden tea good for",
+    "relevants": [
+      {
+        "relevant_doc": 1566,
+        "relevant_url": "https://www.livestrong.com/article/401394-benefits-of-linden-flower-tea/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1566,
+        "title": "Benefits of Linden Flower Tea",
+        "url": "https://www.livestrong.com/article/401394-benefits-of-linden-flower-tea/",
+        "combined_text": "Benefits of Linden Flower Tea \"Benefits of Linden Flower Teaby JOANNE MARIE Aug. 14, 2017Herbal medicine has been around for centuries, and despite the success of modern medicine, plants are still frequently used in the home treatment of a variety of ailments. Flowers from the linden tree, commonly known as the lime or basswood",
+        "distance": 0.28665921092033386
+      },
+      {
+        "id": 1250,
+        "title": "11 Surprising Benefits Of Hibiscus Tea",
+        "url": "https://www.organicfacts.net/health-benefits/beverage/hibiscus-tea.html",
+        "combined_text": "11 Surprising Benefits Of Hibiscus Tea Home › Beverages › Tea › Hibiscus Tea11 Surprising Benefits Of Hibiscus Tea1 Likes 36 Comments The health benefits of hibiscus tea, also known as Agua de Jamaica, include its ability to treat high blood pressure, high cholesterol, disturbed digestive and immune system, and inflammatory problems as w",
+        "distance": 0.6019508242607117
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8478007403877031951": {
+    "query_id": "-8478007403877031951",
+    "query": "malpractice insurance advice for psychiatrists",
+    "relevants": [
+      {
+        "relevant_doc": 798,
+        "relevant_url": "https://forums.studentdoctor.net/threads/psychiatry-malpractice-insurance.910393/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 798,
+        "title": "Psychiatry Malpractice Insurance",
+        "url": "https://forums.studentdoctor.net/threads/psychiatry-malpractice-insurance.910393/",
+        "combined_text": "Psychiatry Malpractice Insurance \"Dismiss Notice SDN members see fewer ads and full resolution images. Join our non-profit community!Psychiatry Malpractice Insurance Discussion in ' Psychiatry ' started by Grover Psych MD, May 6, 2012 . Previous Thread Next Thread Tiki Torches Physician Gold Donor Classifieds Approved Joined: Sep 1",
+        "distance": 0.47455742955207825
+      },
+      {
+        "id": 645,
+        "title": "How Age Affects Health Insurance Costs",
+        "url": "https://www.valuepenguin.com/how-age-affects-health-insurance-costs",
+        "combined_text": "How Age Affects Health Insurance Costs \"How Age Affects Health Insurance Costs Under the Affordable Care Act (Obamacare), the age of the policyholder is one of the few characteristics insurers are permitted to use for determining your health insurance premiums. Except in a few states that have tighter regulations about health insurance p",
+        "distance": 0.5728215575218201
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-7390560408069113598": {
+    "query_id": "-7390560408069113598",
+    "query": "what are flowering plants",
+    "relevants": [
+      {
+        "relevant_doc": 309,
+        "relevant_url": "http://biology.about.com/od/biologydictionary/g/angiosperms.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 309,
+        "title": "Angiosperms",
+        "url": "http://biology.about.com/od/biologydictionary/g/angiosperms.htm",
+        "combined_text": "Angiosperms Science, Tech, Math ›Science Angiosperms Share Flipboard Email Print Sunflowers are flowering plants or angiosperms. Spaces Images/Blend Images/Getty Imagesby Regina Bailey Updated November 08, 2017Angiosperms, or flowering plants, are the most numerous of all the divisions in the Plant Kingdom. Wit",
+        "distance": 0.41525331139564514
+      },
+      {
+        "id": 1539,
+        "title": "Marijuana Flowering Stage of Growth Cannabis Flowering | Growing Pot",
+        "url": "http://www.weedsthatplease.com/flowering.htm",
+        "combined_text": "Marijuana Flowering Stage of Growth Cannabis Flowering | Growing Pot \"The flowering stage of growing marijuana plants Cannabis Buds | Important: Nutrients & Patience (click to enlarge ANY images)The flowering stage of marijuana growth is probably the most satisfying, as your hard work and devoted time begins to show a pay-off. It's also a very telling time for the se",
+        "distance": 0.45104363560676575
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-5937405440948105232": {
+    "query_id": "-5937405440948105232",
+    "query": "carlos santana player profile",
+    "relevants": [
+      {
+        "relevant_doc": 741,
+        "relevant_url": "http://www.rotoworld.com/player/mlb/5092/carlos-santana"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 741,
+        "title": "Carlos Santana | First Baseman | #41",
+        "url": "http://www.rotoworld.com/player/mlb/5092/carlos-santana",
+        "combined_text": "Carlos Santana | First Baseman | #41 \"Carlos Santana | First Baseman | #41Team: Philadelphia Phillies Age / DOB: ( 32) / 4/8/1986Ht / Wt: 5'11\"\" / 210Bats / Throws: Switch / Right College: None Drafted: 2004 / UDFA / LAContract: view contract details Share: Tweet Latest News Recent News Carlos Santana went 2-for-4 with a three-run home",
+        "distance": 0.4243553876876831
+      },
+      {
+        "id": 596,
+        "title": "Alfredo Sadel",
+        "url": "https://en.wikipedia.org/wiki/Alfredo_Sadel",
+        "combined_text": "Alfredo Sadel \"Alfredo Sadel Born February 22, 1930 Caracas, Venezuela Died June 28, 1989 (aged 59) Caracas, Venezuela Alfredo Sadel (February 22, 1930 – June 28, 1989) was a popular Venezuelan singer and actor. [1]Contents [ hide ]1 Early life2 Music career3 Illness and death4 References5 External links6 See als",
+        "distance": 0.7446364760398865
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8100321687973097671": {
+    "query_id": "8100321687973097671",
+    "query": "history of lost Soviet gold book",
+    "relevants": [
+      {
+        "relevant_doc": 551,
+        "relevant_url": "https://www.amazon.com/Search-Soviet-Gold-Russia-observed/dp/0405030444"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 551,
+        "title": "In Search of Soviet Gold (Russia observed)",
+        "url": "https://www.amazon.com/Search-Soviet-Gold-Russia-observed/dp/0405030444",
+        "combined_text": "In Search of Soviet Gold (Russia observed) \"Books › Engineering & Transportation › Engineering In Search of Soviet Gold (Russia observed)by John D. Littlepage (Author), Demaree Bess (Author)4.7 out of 5 stars 4 customer reviews ISBN-13: 978-0405030444ISBN-10: 0405030444Why is ISBN important? Have one to sell? Sell on Amazon Share Hardcover$7",
+        "distance": 0.6386262774467468
+      },
+      {
+        "id": 903,
+        "title": "How to Lose Weight With Fish",
+        "url": "http://healthyeating.sfgate.com/lose-weight-fish-8003.html",
+        "combined_text": "How to Lose Weight With Fish \"Written by Andrea Cespedes; Updated December 13, 2017Related Articles How to Lose Weight With Soups & Smoothies How to Lose Weight Logically Balsamic Vinegar & Weight Loss Can You Lose Fat by Eating Canned Tuna Packed in Water? Eat more fish to boost your weight loss. A study published in the Inter",
+        "distance": 0.6976895928382874
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "2060505471019682508": {
+    "query_id": "2060505471019682508",
+    "query": "north america continental wanderings before pangaea",
+    "relevants": [
+      {
+        "relevant_doc": 30,
+        "relevant_url": "https://www.scientificamerican.com/article/earth-before-pangaea/?page=6"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 30,
+        "title": "Earth before Pangaea",
+        "url": "https://www.scientificamerican.com/article/earth-before-pangaea/?page=6",
+        "combined_text": "Earth before Pangaea \"The Sciences Earth before Pangaea The North American continent may be more nomadic than most of its inhabitants By Ian W. D. Dalziel on July 1, 2005The little airplane banked to the right. From my seat on the port side I could see its shadow crossing the ice. The skis made it look rather like a duc",
+        "distance": 0.4757138192653656
+      },
+      {
+        "id": 726,
+        "title": "Oldest fossils on Earth discovered in 3.7bn-year-old Greenland rocks",
+        "url": "https://www.theguardian.com/science/2016/aug/31/oldest-fossils-on-earth-discovered-in-37bn-year-old-greenland-rocks-stromatolites",
+        "combined_text": "Oldest fossils on Earth discovered in 3.7bn-year-old Greenland rocks Fossils Oldest fossils on Earth discovered in 3.7bn-year-old Greenland rocks Fossils are 220 million years older than any previously found, dating life on Earth to an earlier point than thought and raising questions about life on Mars Nicola Davis@Nicola KSDavis Wed 31 Aug 2016 13.00 EDT15.45 ESTThi",
+        "distance": 0.7802913784980774
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "2921571677950520226": {
+    "query_id": "2921571677950520226",
+    "query": "why take epsom salt baths",
+    "relevants": [
+      {
+        "relevant_doc": 124,
+        "relevant_url": "http://www.doctorshealthpress.com/general-health-articles/7-health-benefits-of-epsom-salt/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1517,
+        "title": "How to Make Epsom Salt Bath for Weight Loss",
+        "url": "http://www.healthyandnaturalworld.com/epsom-salt-bath-for-weight-loss/",
+        "combined_text": "How to Make Epsom Salt Bath for Weight Loss How to Make Epsom Salt Bath for Weight Loss By Jenny Hills, Medical Writer and Researcher Health Can taking a relaxing bath really help you lose weight? According to some sources, it can. Epsom salt, widely known for its use with muscle soreness and pain, could assist you to lose some unwanted weigh",
+        "distance": 0.281404048204422
+      },
+      {
+        "id": 124,
+        "title": "7 Health Benefits of Epsom Salt Bath",
+        "url": "http://www.doctorshealthpress.com/general-health-articles/7-health-benefits-of-epsom-salt/",
+        "combined_text": "7 Health Benefits of Epsom Salt Bath Home > General Health > 7 Health Benefits of Epsom Salt Bath7 Health Benefits of Epsom Salt Bath By Dr. Michael Kessler, DC - July 29, 2015Disclaimer: Results are not guaranteed*** and may vary from person to person***. We know the importance of consuming iron and calcium for our bodies, but we tend",
+        "distance": 0.2870576083660126
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-5616336538899282338": {
+    "query_id": "-5616336538899282338",
+    "query": "natural processes that shape earth",
+    "relevants": [
+      {
+        "relevant_doc": 1405,
+        "relevant_url": "http://www.audioenglish.org/dictionary/geologic_process.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1405,
+        "title": "GEOLOGIC PROCESS",
+        "url": "http://www.audioenglish.org/dictionary/geologic_process.htm",
+        "combined_text": "GEOLOGIC PROCESS \"Audio English.org » Dictionary » G » Geoduck ... Georg Friedrich Handel GEOLOGIC PROCESSPronunciation (US): Dictionary entry overview: What does geologic process mean?• GEOLOGIC PROCESS (noun) The noun GEOLOGIC PROCESS has 1 sense:1. (geology) a natural process whereby geological features are modif",
+        "distance": 0.6068457961082458
+      },
+      {
+        "id": 870,
+        "title": "Glaciation and geological timescales - How glaciers shape the land and what they leave behind",
+        "url": "http://www.rgs.org/OurWork/Schools/Teaching+resources/Key+Stage+3+resources/Glaciation+and+geological+timescales/How+glaciers+shape+the+land+and+what+they+leave+behind.htm",
+        "combined_text": "Glaciation and geological timescales - How glaciers shape the land and what they leave behind Glaciation and geological timescales - How glaciers shape the land and what they leave behind This lesson focuses on how glaciers create spectacular and varied landscapes. Key questions What is erosion, and how do glaciers erode? How do glaciers move eroded material? What is deposition, and how do g",
+        "distance": 0.6456239819526672
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3509253776814179311": {
+    "query_id": "3509253776814179311",
+    "query": "race and interracial love in last of the mohicans",
+    "relevants": [
+      {
+        "relevant_doc": 1550,
+        "relevant_url": "http://www.sparknotes.com/lit/mohicans/themes.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1550,
+        "title": "The Last of the Mohicans",
+        "url": "http://www.sparknotes.com/lit/mohicans/themes.html",
+        "combined_text": "The Last of the Mohicans Themes are the fundamental and often universal ideas explored in a literary work. Interracial Love and Friendship The Last of the Mohicans is a novel about race and the difficulty of overcoming racial divides. Cooper suggests that interracial mingling is both desirable and dangerous. Cooper lauds th",
+        "distance": 0.24915744364261627
+      },
+      {
+        "id": 1498,
+        "title": "Major studies of Czechs",
+        "url": "http://www.khazaria.com/genetics/czechs.html",
+        "combined_text": "Major studies of Czechs \"Czech Genetics: Abstracts and Summaries Family Tree DNA: Genetic Testing Service DNA testing will show your connections with other families and ethnic groups. The database includes not only Czechs but also Slovaks, Austrians, Germans, Hungarians, Jews, and members of many other ethnic groups. Once",
+        "distance": 0.8057498931884766
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "6098002758237760776": {
+    "query_id": "6098002758237760776",
+    "query": "how the body makes cholesterol",
+    "relevants": [
+      {
+        "relevant_doc": 1050,
+        "relevant_url": "http://www.wisegeek.com/what-is-cholesterol-biosynthesis.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1050,
+        "title": "What Is Cholesterol Biosynthesis?",
+        "url": "http://www.wisegeek.com/what-is-cholesterol-biosynthesis.htm",
+        "combined_text": "What Is Cholesterol Biosynthesis? The process within the body to produce cholesterol is called cholesterol biosynthesis. It consists of a number of steps which rely on numerous enzymes and processes to reach the final product. Cholesterol is essential for normal functioning of the body, in the right amount. It is used for manufactur",
+        "distance": 0.3399297893047333
+      },
+      {
+        "id": 633,
+        "title": "Psyllium Fiber Vs. Methylcellulose",
+        "url": "http://www.livestrong.com/article/509133-psyllium-fiber-vs-methylcellulose/",
+        "combined_text": "Psyllium Fiber Vs. Methylcellulose \"Psyllium Fiber Vs. Methylcelluloseby ALLEN BETHEA Oct. 03, 2017A diet high in fiber can contribute to your health and overall sense of well-being. Soluble fiber products such as psyllium and methylcellulose not only help keep you regular, they lower your cholesterol, ease the after-meal rise in blo",
+        "distance": 0.7063683271408081
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-201899407532579438": {
+    "query_id": "-201899407532579438",
+    "query": "what to eat during diarrhea",
+    "relevants": [
+      {
+        "relevant_doc": 438,
+        "relevant_url": "http://www.mademan.com/mm/5-foods-eat-when-you-have-diarrhea.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 438,
+        "title": "5 Foods To Eat When You Have Diarrhea",
+        "url": "http://www.mademan.com/mm/5-foods-eat-when-you-have-diarrhea.html",
+        "combined_text": "5 Foods To Eat When You Have Diarrhea 5 Foods To Eat When You Have Diarrhea By Dr. Aleathea Wiggins | 01/01/2011Facebook Twitter Stumble Google+ Save Becoming familiar with 5 foods to eat when you have diarrhea will help you recover faster from bouts of this digestion problem. Dealing with diarrhea is often exhausting, and knowing which",
+        "distance": 0.25530919432640076
+      },
+      {
+        "id": 917,
+        "title": "Colitis vs. Irritable Bowel Syndrome",
+        "url": "http://www.everydayhealth.com/colitis-specialist/colitis-vs-ibs.aspx",
+        "combined_text": "Colitis vs. Irritable Bowel Syndrome How can I tell the difference between colitis and irritable bowel syndrome? I have had various testing done and have been told that I only had some diverticulitis. But in the past few years, I have diarrhea every day. Most of the time it is uncontrollable, so I take a lot of Imodium — and then I hav",
+        "distance": 0.5889308452606201
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-1610118003913886885": {
+    "query_id": "-1610118003913886885",
+    "query": "durkheim social facts summary",
+    "relevants": [
+      {
+        "relevant_doc": 450,
+        "relevant_url": "http://highered.mheducation.com/sites/0072824301/student_view0/chapter6/chapter_summary.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 450,
+        "title": "Chapter Summary",
+        "url": "http://highered.mheducation.com/sites/0072824301/student_view0/chapter6/chapter_summary.html",
+        "combined_text": "Chapter Summary \"Chapter Summary Sociology as a Discipline and Social Facts Emile Durkheim (1858-1917) is considered one of the \"\"fathers\"\" of sociology because of his effort to establish sociology as a discipline distinct from philosophy and psychology. This effort is evident in the two main themes that permeate D",
+        "distance": 0.4258057177066803
+      },
+      {
+        "id": 350,
+        "title": "Jean Piaget Facts",
+        "url": "http://www.softschools.com/facts/scientists/jean_piaget_facts/1617/",
+        "combined_text": "Jean Piaget Facts \"Home > Facts > Scientists Facts > Jean Piaget Facts Jean Piaget Facts Jean Piaget Facts Jean Piaget (August 9, 1896 to September 6, 1980) was a Swiss developmental psychologist and philosopher. His studies of learning in young children led to the development of the constructivist theory of knowledg",
+        "distance": 0.7543236613273621
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8856223155889637862": {
+    "query_id": "8856223155889637862",
+    "query": "practice questions for medical school interviews",
+    "relevants": [
+      {
+        "relevant_doc": 710,
+        "relevant_url": "http://www.futuredoctor.net/questions_and_answers1.shtml"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 710,
+        "title": "Medical School Interview: Questions and Answers",
+        "url": "http://www.futuredoctor.net/questions_and_answers1.shtml",
+        "combined_text": "Medical School Interview: Questions and Answers \"Medical School Interview: Questions and Answers Sample Questions Ambiguous Questions Medical Questions Academic Questions Social/Interest Questions Stress-Type Questions Personality Questions Miscellaneous Questions Concluding Questions Autobiographical Material Questions Problem Situation Question",
+        "distance": 0.3540692925453186
+      },
+      {
+        "id": 414,
+        "title": "Vatterott Medical Assisting Programs",
+        "url": "http://www.vatterott.edu/medical-assistant-training.asp",
+        "combined_text": "Vatterott Medical Assisting Programs Students Search Our Site:1 2 3Prev Next Vatterott Medical Assisting Programs Medical Assistant Medical Assistant courses include laboratory techniques and hands-on training courses in phlebotomy, pre-physical exam preparation, radiology procedures, physical therapy, electrocardiograms, clinical inst",
+        "distance": 0.6559738516807556
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8984781780096817620": {
+    "query_id": "-8984781780096817620",
+    "query": "vaccines made with recombinant technology",
+    "relevants": [
+      {
+        "relevant_doc": 836,
+        "relevant_url": "http://medical-dictionary.thefreedictionary.com/Recombinant+vaccines"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 836,
+        "title": "vaccine",
+        "url": "http://medical-dictionary.thefreedictionary.com/Recombinant+vaccines",
+        "combined_text": "vaccine \"Correct all you're your grammar errors instantly. Try it now.vaccine (redirected from Recombinant vaccines) Also found in: Dictionary, Thesaurus, Encyclopedia .vaccine [ vak-sēn´] a suspension of attenuated or killed microorganisms (viruses, bacteria, or rickettsiae), administeredfor prevention, am",
+        "distance": 0.48831355571746826
+      },
+      {
+        "id": 656,
+        "title": "DNA Technology",
+        "url": "http://wps.aw.com/bc_campbell_concepts_7_oa/215/55163/14121865.cw/content/index.html",
+        "combined_text": "DNA Technology \"DNA Technology This activity contains 5 questions. Which of the following is an example of a transgenic organism? Dolly, the cloned sheepa bacterium with human gene for producing insulina \"\"test-tube\"\" baby produced via in vitro fertilizationa bacterium found with a plasmid that provides protection",
+        "distance": 0.5702098608016968
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "5714818973831272785": {
+    "query_id": "5714818973831272785",
+    "query": "meaning of true colors song",
+    "relevants": [
+      {
+        "relevant_doc": 483,
+        "relevant_url": "https://www.lyricinterpretations.com/cyndi-lauper/true-colors"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 483,
+        "title": "Cyndi Lauper: True Colors Meaning",
+        "url": "https://www.lyricinterpretations.com/cyndi-lauper/true-colors",
+        "combined_text": "Cyndi Lauper: True Colors Meaning \"Cyndi Lauper: True Colors Meaning Tagged: Inspirational Songs | Social Commentary | Unconditional Love [suggest]Song Released: 1986Covered By: Phil Collins (1998), All Time Low (2013)Get \"\"True Colors\"\" on MP3: Get MP3 from Amazon True Colors Lyrics Play \"\"True Colors\"\"on Amazon Music You with the",
+        "distance": 0.23880621790885925
+      },
+      {
+        "id": 43,
+        "title": "Which statements are true about ionic compounds? Multiple Choice.?",
+        "url": "https://answers.yahoo.com/question/index?qid=20100331234028AAqRHdz",
+        "combined_text": "Which statements are true about ionic compounds? Multiple Choice.? \"Science & Mathematics Chemistry Which statements are true about ionic compounds? Multiple Choice.? Which statements are true about ionic compounds? (There Can Be More Then One) A. An ionic compound is made of a positive cation and a positive anion. B. An ionic compound is made of two nonmetals. C.",
+        "distance": 0.7364427447319031
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-358338268846137039": {
+    "query_id": "-358338268846137039",
+    "query": "how much do army officers make yearly",
+    "relevants": [
+      {
+        "relevant_doc": 1562,
+        "relevant_url": "http://www.answers.com/Q/How_much_money_does_a_army_officer_make_a_year"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1562,
+        "title": "How much money does a army officer make a year?",
+        "url": "http://www.answers.com/Q/How_much_money_does_a_army_officer_make_a_year",
+        "combined_text": "How much money does a army officer make a year? Answers.com ® Wiki Answers ® Categories History, Politics & Society Politics and Government Government US Government US Military US Army How much money does a army officer make a year? Flag How much money does a army officer make a year? Answered by The Wiki Answers ®Community Answers.com ® is makin",
+        "distance": 0.4456689953804016
+      },
+      {
+        "id": 1414,
+        "title": "Positives & Negatives of Joining the Military",
+        "url": "http://www.ehow.com/list_6856228_pros-being-officer-navy-seals.html",
+        "combined_text": "Positives & Negatives of Joining the Military Home » Classroom Positives & Negatives of Joining the Military By Liz Frazier; Updated September 29, 2017Army enlistees recite the military's Oath of Enlistment in front of the Jefferson Memorial. Generally, most servicemembers stay in the armed services -- Army, Navy, Air Force and Marine Corps --",
+        "distance": 0.6645734310150146
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "4428694243894826849": {
+    "query_id": "4428694243894826849",
+    "query": "Indigo Diabetes company Ghent address",
+    "relevants": [
+      {
+        "relevant_doc": 1167,
+        "relevant_url": "http://listings.findthecompany.com/l/890803616/Indigo-Diabetes-Nv"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1167,
+        "title": "Indigo Diabetes NvCommercial Physical Research Companies - Gent - Belgium",
+        "url": "http://listings.findthecompany.com/l/890803616/Indigo-Diabetes-Nv",
+        "combined_text": "Indigo Diabetes NvCommercial Physical Research Companies - Gent - Belgium See all Companies Guide Share Indigo Diabetes Nv Commercial Physical Research Companies - Gent - Belgium Address: Bollebergen 2b, Internal Postal Box 30Gent, 9052Belgium Indigo Diabetes Nv is a small, fairly new organization in the commercial physical research companies industry located in Gent, Bel",
+        "distance": 0.4483002722263336
+      },
+      {
+        "id": 782,
+        "title": "Hyperglycemia (High Blood Sugar) Symptoms, Levels, Diet and Causes",
+        "url": "http://www.medicinenet.com/hyperglycemia/page2.htm",
+        "combined_text": "Hyperglycemia (High Blood Sugar) Symptoms, Levels, Diet and Causes \"Hyperglycemia (high blood sugar) definition and facts Hyperglycemia or high blood sugar is an abnormally high blood glucose (blood sugar) level in the blood. Hyperglycemia is a hallmark sign of diabetes (both type 1 diabetes and type 2 diabetes) and prediabetes. Diabetes is the most common cause of",
+        "distance": 0.7443267703056335
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "9218633303219452266": {
+    "query_id": "9218633303219452266",
+    "query": "signs of a poverty mindset",
+    "relevants": [
+      {
+        "relevant_doc": 898,
+        "relevant_url": "http://matthewchan.com/2009/05/26/examples-of-the-culture-of-poverty-and-the-poverty-mindset/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 898,
+        "title": "Examples of The Culture of Poverty and the Poverty Mindset",
+        "url": "http://matthewchan.com/2009/05/26/examples-of-the-culture-of-poverty-and-the-poverty-mindset/",
+        "combined_text": "Examples of The Culture of Poverty and the Poverty Mindset \"Examples of The Culture of Poverty and the Poverty Mindset May 26, 2009 Matthew Chan Motivation & Inspiration, Politics, U. S. Affairs 0In my prior post on my attendance of the Poverty Symposium, I mention the Culture of Poverty and the Poverty Mindset. I did not want to get too side-tracked by get",
+        "distance": 0.29504770040512085
+      },
+      {
+        "id": 503,
+        "title": "What is the difference between marginalization and deprivation in the context of poverty?",
+        "url": "https://www.researchgate.net/post/What_is_the_difference_between_marginalization_and_deprivation_in_the_context_of_poverty",
+        "combined_text": "What is the difference between marginalization and deprivation in the context of poverty? \"Question Asked 4 years ago David Boansi15.46 University of Bonn What is the difference between marginalization and deprivation in the context of poverty? In poverty studies, some group are referred to as marginalized people and others as deprived people. I humbly would like to know the boundary bet",
+        "distance": 0.6036132574081421
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "5006722414025045211": {
+    "query_id": "5006722414025045211",
+    "query": "preschool fine motor skill milestones",
+    "relevants": [
+      {
+        "relevant_doc": 1501,
+        "relevant_url": "http://www.parents.com/toddlers-preschoolers/development/physical/child-developing-motor-skills/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1501,
+        "title": "Developing Motor Skills",
+        "url": "http://www.parents.com/toddlers-preschoolers/development/physical/child-developing-motor-skills/",
+        "combined_text": "Developing Motor Skills \"Home Toddlers & Preschoolers Development Physical Development Developing Motor Skills Your child's mastery of fine-motor skills will allow him greater independence. Here are some of the skills your youngster will perfect in the preschool years.from Parents Magazine Facebook Pinterest Twitter Email",
+        "distance": 0.3732065260410309
+      },
+      {
+        "id": 1126,
+        "title": "Timeline of a Breastfed Baby",
+        "url": "http://www.thealphaparent.com/2011/12/timeline-of-breastfed-baby.html",
+        "combined_text": "Timeline of a Breastfed Baby Timelines Timeline of a Breastfed Baby By Alpha Parent - January 14, 2018 045217All babies reach milestones on their own developmental timeline. A multitude of factors influence the rate of each baby’s individual growth such as genetics, form of delivery, gestation at delivery, medical issues, effec",
+        "distance": 0.714801549911499
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "1752322871320314247": {
+    "query_id": "1752322871320314247",
+    "query": "companies with biggest travel budgets 2015",
+    "relevants": [
+      {
+        "relevant_doc": 23,
+        "relevant_url": "http://www.businesstravelnews.com/Travel-Management/BTN-s-2015-Corporate-Travel-100"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 23,
+        "title": "Healthy Spend Continues for CT 100",
+        "url": "http://www.businesstravelnews.com/Travel-Management/BTN-s-2015-Corporate-Travel-100",
+        "combined_text": "Healthy Spend Continues for CT 100 2015 Corporate Travel 100Healthy Spend Continues for CT 100By Elizabeth West / October 06, 2015 / Contact Reporter Healthy spending continued among the 100 companies BTN identified as the highest-spending corporate travel programs in North America, but the 28th annual BTN Corporate Travel 100 saw si",
+        "distance": 0.5058979988098145
+      },
+      {
+        "id": 508,
+        "title": "For US Healthcare and Pharma Ad Spending, Balance Tips Toward Direct Response",
+        "url": "https://www.emarketer.com/Article/US-Healthcare-Pharma-Ad-Spending-Balance-Tips-Toward-Direct-Response/1010873",
+        "combined_text": "For US Healthcare and Pharma Ad Spending, Balance Tips Toward Direct Response For US Healthcare and Pharma Ad Spending, Balance Tips Toward Direct Response Mobile advertising has a long way to go in healthcare and pharma industry May 27, 2014Share Email Print The US healthcare and pharmaceutical industry will spend $1.41 billion on paid digital media in 2014, including $373 m",
+        "distance": 0.6616490483283997
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-3460778952865059658": {
+    "query_id": "-3460778952865059658",
+    "query": "steps to get ready for pa school",
+    "relevants": [
+      {
+        "relevant_doc": 274,
+        "relevant_url": "http://www.pastudentessentials.com/pre-pa-school/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 274,
+        "title": "Before PA School",
+        "url": "http://www.pastudentessentials.com/pre-pa-school/",
+        "combined_text": "Before PA School Before PA School Considering PA school? You are embarking on a challenging and exciting journey! There is a lot you can do to research the profession, the educational system, and the application process. This is the time to prepare yourself mentally, physically and financially for this incredible en",
+        "distance": 0.4218728840351105
+      },
+      {
+        "id": 1109,
+        "title": "Take on the ACT with Confidence",
+        "url": "https://sullivan.edu/act-prep/",
+        "combined_text": "Take on the ACT with Confidence Take on the ACT with Confidence Keep from second-guessing yourself on the ACT and work toward improving your scores with our professional prep course. You’ll learn specific test-taking strategies, complete practice tests and review math, reading, science and English content to prepare for each secti",
+        "distance": 0.6816872358322144
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "6407113094713877866": {
+    "query_id": "6407113094713877866",
+    "query": "home treatments for shoulder pain",
+    "relevants": [
+      {
+        "relevant_doc": 32,
+        "relevant_url": "http://www.wikihow.com/Get-Rid-of-Shoulder-Ache"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 32,
+        "title": "How to Get Rid of a Shoulder Ache",
+        "url": "http://www.wikihow.com/Get-Rid-of-Shoulder-Ache",
+        "combined_text": "How to Get Rid of a Shoulder Ache Expert Reviewed How to Get Rid of a Shoulder Ache Two Parts: Treating Your Shoulder at Home Seeking Professional Treatment Community Q&AAn achy shoulder is pretty common and can be triggered by numerous issues, including muscle strain, ligament sprain, joint dislocation, dysfunction in the spine (ne",
+        "distance": 0.3871782720088959
+      },
+      {
+        "id": 1454,
+        "title": "Shoulder Strain",
+        "url": "http://www.healthcentral.com/encyclopedia/hc/shoulder-strain-3168786/",
+        "combined_text": "Shoulder Strain Shoulder Strain Definition Shoulder pain is a common malady that becomes more common with age. Description Most of us go from day to day without giving a thought as to how we use our shoulders. But anyone who has experienced shoulder pain knows just how important the joint is to daily living. Causes",
+        "distance": 0.45711609721183777
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "2755243827696125994": {
+    "query_id": "2755243827696125994",
+    "query": "is one set enough for muscle growth",
+    "relevants": [
+      {
+        "relevant_doc": 1335,
+        "relevant_url": "https://www.painscience.com/biblio/single-vs-multiple-set-training-for-muscle-growth-review.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1335,
+        "title": "Single vs multiple set training for muscle growth, review",
+        "url": "https://www.painscience.com/biblio/single-vs-multiple-set-training-for-muscle-growth-review.html",
+        "combined_text": "Single vs multiple set training for muscle growth, review Single vs multiple set training for muscle growth, reviewupdated Sep 23, 2016Krieger JW. Single versus multiple sets of resistance exercise for muscle hypertrophy: a meta-analysis. J Strength Cond Res. 2010 Apr;24 (4):1150–9. Pub Med #20300012. Tags: exercise, classics, self-treatment, treatment Pai",
+        "distance": 0.5787104964256287
+      },
+      {
+        "id": 821,
+        "title": "What is Smart Growth?",
+        "url": "http://smartgrowth.org/what-is-smart-growth/",
+        "combined_text": "What is Smart Growth? What is Smart Growth? March 16, 2015 MDP Smart Growth Manager Smart growth is development that supports economic growth, strong communities and environmental health.“Smart growth” covers a range of development and conservation strategies that help protect our health and natural environment and make",
+        "distance": 0.6363304257392883
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-3650832755700928684": {
+    "query_id": "-3650832755700928684",
+    "query": "why is my cornea cloudy",
+    "relevants": [
+      {
+        "relevant_doc": 408,
+        "relevant_url": "https://medlineplus.gov/ency/article/003317.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 408,
+        "title": "Cloudy cornea",
+        "url": "https://medlineplus.gov/ency/article/003317.htm",
+        "combined_text": "Cloudy cornea Cloudy cornea A cloudy cornea is a loss of transparency of the cornea. Causes The cornea makes up the front wall of the eye. It is normally clear. It helps focus the light entering the eye. Causes of cloudy cornea include: Inflammation Sensitivity to non-infectious bacteria Ulcers on the eye Infecti",
+        "distance": 0.18298175930976868
+      },
+      {
+        "id": 178,
+        "title": "Eye Freckle And Eye Doctors Questions?",
+        "url": "http://drkisling.com/uncategorized/eye-freckle-and-eye-doctors-questions/",
+        "combined_text": "Eye Freckle And Eye Doctors Questions? Eye Freckle And Eye Doctors Questions? Dr. Kisling May 10, 2009 Uncategorized 35 Comments So you have been told by your eye doctor there is a freckle in your eye. Should you be worried? It could be a number of things but the most likely are choroidal nevus (benign choroidal melanoma) or CHRPE (conge",
+        "distance": 0.6826424598693848
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8555925535736858134": {
+    "query_id": "8555925535736858134",
+    "query": "Indian three-card gambling game rules",
+    "relevants": [
+      {
+        "relevant_doc": 976,
+        "relevant_url": "https://en.wikipedia.org/wiki/Teen_Patti"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 626,
+        "title": "Rules of the Game  (book)",
+        "url": "https://en.wikipedia.org/wiki/Rules_of_the_Game_(book)",
+        "combined_text": "Rules of the Game  (book) \"Rules of the Game is a how-to book published in 2007 by American writer Neil Strauss. A follow-up to his autobiographical work The Game: Penetrating the Secret Society of Pickup Artists, Rules of the Game was also a New York Times Best-Seller. [1]Rules of the Game was originally released as a two v",
+        "distance": 0.475193053483963
+      },
+      {
+        "id": 717,
+        "title": "Problem Gambling Institute of Ontario",
+        "url": "http://www.problemgambling.ca/EN/GettingHelp/Pages/SelfHelpWorkbook.aspx",
+        "combined_text": "Problem Gambling Institute of Ontario Problem Gambling Institute of Ontario Where helping professionals connect and learn about clinical best practices for problem gambling & technology use",
+        "distance": 0.6225132942199707
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "1514853280162646573": {
+    "query_id": "1514853280162646573",
+    "query": "which drinking water is bad for you",
+    "relevants": [
+      {
+        "relevant_doc": 1456,
+        "relevant_url": "http://waterfilters.mercola.com/drinking-water-filter.aspx"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1456,
+        "title": "âThe Most Dangerous Types of Water You Can Drinkâ",
+        "url": "http://waterfilters.mercola.com/drinking-water-filter.aspx",
+        "combined_text": "âThe Most Dangerous Types of Water You Can Drinkâ “The Most Dangerous Types of Water You Can Drink”Including one that is just as unhealthy as soda... another which has 36 harmful pollutants... and this ‘healthy water’ which invites devastating health consequences as it condenses the toxic byproducts into your drinking supply and sucks the good mine",
+        "distance": 0.3539144694805145
+      },
+      {
+        "id": 115,
+        "title": "Alcohol - it can affect your life - for kids",
+        "url": "http://www.cyh.com/HealthTopics/HealthTopicDetailsKids.aspx?p=335&np=289&id=1507",
+        "combined_text": "Alcohol - it can affect your life - for kids \"Alcohol - it can affect your life - for kids Contents What is alcohol? How does alcohol affect people? What happens to alcohol in the body? Why young people drink alcohol Too much alcohol Keeping yourself safe Did you know? Dr Kim says What is alcohol? Alcohol is a drug (a chemical that has an effe",
+        "distance": 0.6608016490936279
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8939890669919572897": {
+    "query_id": "8939890669919572897",
+    "query": "how forensic scientists help solve crimes",
+    "relevants": [
+      {
+        "relevant_doc": 497,
+        "relevant_url": "https://learn.org/articles/What_Does_a_Forensic_Scientist_Do.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 497,
+        "title": "What Does a Forensic Scientist Do?",
+        "url": "https://learn.org/articles/What_Does_a_Forensic_Scientist_Do.html",
+        "combined_text": "What Does a Forensic Scientist Do? What Does a Forensic Scientist Do? Forensic scientists examine evidence from many angles to assist law enforcement officials in solving crimes, sometimes exonerating innocent suspects. Some scientists may be involved in forgery detection while others spend their days examining bodily fluids or fiber",
+        "distance": 0.24043230712413788
+      },
+      {
+        "id": 1146,
+        "title": "The Average Salary of Forensic Scientist With a PhD",
+        "url": "http://oureverydaylife.com/average-salary-forensic-scientist-phd-43016.html",
+        "combined_text": "The Average Salary of Forensic Scientist With a PhD Home » Job Descriptions » Law Enforcement Job Descriptions The Average Salary of Forensic Scientist With a Ph DBy Rick Suttle; Updated July 05, 2017Jupiterimages/Creatas/Getty Images Police departments depend on forensic scientists to analyze physical evidence and DNA from crime scenes and determine",
+        "distance": 0.36694854497909546
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "6343624520016969997": {
+    "query_id": "6343624520016969997",
+    "query": "how price changes affect markets",
+    "relevants": [
+      {
+        "relevant_doc": 65,
+        "relevant_url": "https://dictionary.cambridge.org/us/dictionary/english/price-effect"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 65,
+        "title": "Definition of âprice effectâ - English Dictionary",
+        "url": "https://dictionary.cambridge.org/us/dictionary/english/price-effect",
+        "combined_text": "Definition of âprice effectâ - English Dictionary Definition of “price effect” - English Dictionary Business Business Contents Contentsnoun (2)price effect (1)price effect (2)Business“price effect” in Business Englishprice effect noun [ C]uk us› ECONOMICS the influence that the change in the price of a product has on a market or economy: Some econo",
+        "distance": 0.45425957441329956
+      },
+      {
+        "id": 1061,
+        "title": "3.47+0.01  (0.29%)",
+        "url": "http://www.google.com/finance?cid=662040",
+        "combined_text": "3.47+0.01  (0.29%) Compare: more »Dow Jones S&P 500ERICNOKZTCOFTEFADTNCSCOJNPRSettings | Technicals | Link to this view Volume delayed by 15 mins. Prices are not from all markets. Sources include SIX. Related companies Show: Add or remove columns Valuation Company name Price Change Chg % d | m | y Mkt Cap ALU Alcatel",
+        "distance": 0.661896288394928
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "6031817015737752743": {
+    "query_id": "6031817015737752743",
+    "query": "meaning of ALS in insurance",
+    "relevants": [
+      {
+        "relevant_doc": 1047,
+        "relevant_url": "http://www.mountaininsurance.com/commercial-insurance-policy-business-owner-policy-and-als/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1047,
+        "title": "Commercial Insurance policy â Business owner policy and ALS",
+        "url": "http://www.mountaininsurance.com/commercial-insurance-policy-business-owner-policy-and-als/",
+        "combined_text": "Commercial Insurance policy â Business owner policy and ALS Show all Commercial Insurance policy – Business owner policy and ALSPublished by admin at November 16, 2010 Categories Tags People in the industry are always telling me that a BOP is an “ALS” policy or that Loss of Use provided on a Homeowners Policy is “ALS”. When I ask what they mean they typicall",
+        "distance": 0.31671085953712463
+      },
+      {
+        "id": 238,
+        "title": "Lou Gehrigâs Disease",
+        "url": "https://naturalcures.com/cure/lou-gehrigs-disease/",
+        "combined_text": "Lou Gehrigâs Disease Lou Gehrig’s Disease Overview Lou Gehrig’s Disease is also known as Amyotrophic Lateral Sclerosis (ALS), a neuromuscular disease which is characterized by progressive muscle weakness, resulting in paralysis. In the United States, it is more commonly referred to as Lou Gehrig’s, being named after Hen",
+        "distance": 0.5313969254493713
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4149071348290689162": {
+    "query_id": "-4149071348290689162",
+    "query": "calories for boiled corn on cob",
+    "relevants": [
+      {
+        "relevant_doc": 1249,
+        "relevant_url": "http://www.calorieking.com/foods/calories-in-frozen-vegetables-yellow-sweet-corn-kernels-on-cob-boiled-drained-without-salt_f-ZmlkPTEyMzc2MQ.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1249,
+        "title": "How many calories inYellow Sweet Corn, kernels on cob, boiled, drained, without salt",
+        "url": "http://www.calorieking.com/foods/calories-in-frozen-vegetables-yellow-sweet-corn-kernels-on-cob-boiled-drained-without-salt_f-ZmlkPTEyMzc2MQ.html",
+        "combined_text": "How many calories inYellow Sweet Corn, kernels on cob, boiled, drained, without salt \"Average All Brands / Frozen Vegetables / Yellow Sweet Corn, kernels on cob, boiled, drained, without saltsearch How many calories in Yellow Sweet Corn, kernels on cob, boiled, drained, without salt Refuse: 45% (Cob)59calories Serving sizex Compare Foods (?) Nutrition Facts Calories help 59 ( 245 k",
+        "distance": 0.3001837134361267
+      },
+      {
+        "id": 168,
+        "title": "Calories in Chocolate Chip Belgian Waffles",
+        "url": "https://recipes.sparkpeople.com/recipe-calories.asp?recipe=1075433",
+        "combined_text": "Calories in Chocolate Chip Belgian Waffles Nutrition Facts Servings Per Recipe: 5Serving Size: 1 serving Amount Per Serving Calories 617.4Total Fat 28.4 g Saturated Fat 16.3 g Polyunsaturated Fat 1.2 g Monounsaturated Fat 4.8 g Cholesterol 202.7 mg Sodium 520.3 mg Potassium 106.0 mg Total Carbohydrate 77.6 g Dietary Fiber 1.4 g Sugars 32.1 g",
+        "distance": 0.699114978313446
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "1990595061844174250": {
+    "query_id": "1990595061844174250",
+    "query": "sherman's female classmate from mr peabody",
+    "relevants": [
+      {
+        "relevant_doc": 1476,
+        "relevant_url": "http://loveinterest.wikia.com/wiki/Penny_Peterson"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1476,
+        "title": "Penny Peterson",
+        "url": "http://loveinterest.wikia.com/wiki/Penny_Peterson",
+        "combined_text": "Penny Peterson Penny Peterson is the love interest of Sherman from the 2014 animated film, Mr. Peabody & Sherman. She is voiced by Ariel Winter. Her story She is first seen going to school as Mr. Peabody drops Sherman off. In class, Sherman explains that George Washington never cut down any trees to the class and",
+        "distance": 0.24153321981430054
+      },
+      {
+        "id": 1206,
+        "title": "Woman Abolitionists",
+        "url": "https://www.gilderlehrman.org/history-by-era/slavery-and-anti-slavery/resources/woman-abolitionists",
+        "combined_text": "Woman Abolitionists \"Woman Abolitionistsby Roberta Mc Cutcheon Background Women always played a significant role in the struggle against slavery and discrimination. White and black Quaker women and female slaves took a strong moral stand against slavery. As abolitionists, they circulated petitions, wrote letters and po",
+        "distance": 0.7908772826194763
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4739546748129949864": {
+    "query_id": "-4739546748129949864",
+    "query": "topical headache remedy known for repetitive ad",
+    "relevants": [
+      {
+        "relevant_doc": 610,
+        "relevant_url": "https://en.wikipedia.org/wiki/HeadOn"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1067,
+        "title": "Topical Pain Relievers- Apply with Caution!",
+        "url": "http://ipcblog.org/2012/09/26/topical-pain-relievers-apply-with-caution/",
+        "combined_text": "Topical Pain Relievers- Apply with Caution! Topical Pain Relievers- Apply with Caution!Posted: September 26th, 2012 | Tags: bengay, burns, camphor, capsaicin, icy hot, Illinois Poison Center, ipc blog, menthol, methyl salicylate, pain relief, topical cream | No Comments »A large number of over-the-counter products are available to remedy the",
+        "distance": 0.5108637809753418
+      },
+      {
+        "id": 610,
+        "title": "HeadOn",
+        "url": "https://en.wikipedia.org/wiki/HeadOn",
+        "combined_text": "HeadOn \"Head On From Wikipedia, the free encyclopedianavigation search Head On is the brand name of a topical product claimed to relieve headaches. It achieved widespread notoriety in 2006 as a result of a repetitive commercial, consisting only of the tagline \"\"Head On. Apply directly to the forehead\"\", st",
+        "distance": 0.5336232781410217
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8104171354980421098": {
+    "query_id": "8104171354980421098",
+    "query": "viking homelands norway sweden denmark",
+    "relevants": [
+      {
+        "relevant_doc": 173,
+        "relevant_url": "http://www.answers.com/Q/Where_did_the_Vikings_live"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 173,
+        "title": "Where did the Vikings live?",
+        "url": "http://www.answers.com/Q/Where_did_the_Vikings_live",
+        "combined_text": "Where did the Vikings live? \"Answers.com ® Wiki Answers ® Categories Literature & Language Languages and Cultures English Language Word and Phrase Origins Where did the Vikings live? Flag Where did the Vikings live? Answer by Paris was Here Confidence votes 68The Vikings lived in Scandinavia (mainly Norway, Sweden and Denmark)",
+        "distance": 0.3105413317680359
+      },
+      {
+        "id": 819,
+        "title": "Vikings",
+        "url": "https://tvseriesfinale.com/tv-show/vikings/",
+        "combined_text": "Vikings Vikings Network: History Episodes: Ongoing (hour) Seasons: Ongoing TV show dates: March 3, 2013 — present Series status: Has not been cancelled Performers include: Travis Fimmel, Gabriel Byrne, Katheryn Winnick, Clive Standen, Jessalyn Gilsig, Gustaf Skarsgard, George Blagden, and Nathan O’Toole. TV",
+        "distance": 0.609636664390564
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3365071462197602390": {
+    "query_id": "3365071462197602390",
+    "query": "overview of upper respiratory infections",
+    "relevants": [
+      {
+        "relevant_doc": 529,
+        "relevant_url": "https://www.medicinenet.com/script/main/art.asp?articlekey=11213"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 529,
+        "title": "Medical Definition of Upper respiratory infection",
+        "url": "https://www.medicinenet.com/script/main/art.asp?articlekey=11213",
+        "combined_text": "Medical Definition of Upper respiratory infection Our Upper Respiratory Tract Infection Main Article provides a comprehensive look at the who, what, when and how of Upper Respiratory Tract Infection Upper respiratory infection: An infection of the upper part of the respiratory system which is above the lungs. An upper respiratory infection can be d",
+        "distance": 0.20085309445858002
+      },
+      {
+        "id": 1142,
+        "title": "Breathing Disorders",
+        "url": "http://www.gopetsamerica.com/dog-health/breathing-disorders.aspx",
+        "combined_text": "Breathing Disorders Problems may arise anywhere along the respiratory tract. Conditions affecting the upper part of the respiratory tract include foreign bodies in the nostrils or the throat and infections, such as kennel cough. Lower respiratory tract disorders include bronchitis, pneumonia and pleural effusion. Virtu",
+        "distance": 0.4098874032497406
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8151271764896479941": {
+    "query_id": "8151271764896479941",
+    "query": "where to find social security regulations",
+    "relevants": [
+      {
+        "relevant_doc": 1383,
+        "relevant_url": "http://www.ssa.gov/regulations/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1383,
+        "title": "Social Security Program Rules",
+        "url": "http://www.ssa.gov/regulations/",
+        "combined_text": "Social Security Program Rules Current Program Rules Our current program rules include the law; regulations; Commissioner rulings; and, employee operating instructions. The Law The Regulations The Rulings Employee Operating Instructions Handbook Social Security Handbook Program Home Pages Disability Supplemental Security Income O",
+        "distance": 0.5215387344360352
+      },
+      {
+        "id": 797,
+        "title": "Become a Citizen",
+        "url": "https://www.dhs.gov/how-do-i/become-citizen",
+        "combined_text": "Become a Citizen For the Public Adopt a Child Internationally Become a Citizen Check Immigration Case Status Check the National Terrorism Advisory System File a Civil Rights Complaint Find Citizenship Resources Find Flood Maps & Insurance Find Student Resources Get a Green Card Get a Homeland Security Job Move to th",
+        "distance": 0.677242636680603
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-5598712371945164642": {
+    "query_id": "-5598712371945164642",
+    "query": "exchange log files consuming disk space",
+    "relevants": [
+      {
+        "relevant_doc": 692,
+        "relevant_url": "http://www.chaseoriginal.com/techcell/technotes/exchange-transaction-logs-fill-up-disk-completely/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 781,
+        "title": "How to Recover Deleted Files with Free Software",
+        "url": "http://lifehacker.com/393084/how-to-recover-deleted-files-with-free-software",
+        "combined_text": "How to Recover Deleted Files with Free Software \"How to Recover Deleted Files with Free Software Adam Pash6/10/08 12:00pm Filed to: File Recovery 229 5Ack! The computer ate my term paper! We've all been there at some point. You delete an important file, somehow it skips your Recycle Bin altogether, and for all practical purposes, it's disappeared",
+        "distance": 0.6778717041015625
+      },
+      {
+        "id": 530,
+        "title": "CH 24 The Skeletal System",
+        "url": "https://quizlet.com/88277350/ch-24-the-skeletal-system-flash-cards/",
+        "combined_text": "CH 24 The Skeletal System \"68 terms Ruronin_Wendigo CH 24 The Skeletal System Learn Flashcards Write Spell Test Match Gravity Advertisement Upgrade to remove ads Like this study set? Create a free account to save it. Create a free account Maybe later Sort Epiphyseal disk ... is defined as the plate of cartilage at the end of",
+        "distance": 0.7698180079460144
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "4212088993101321781": {
+    "query_id": "4212088993101321781",
+    "query": "determine molar mass of unknown volatile",
+    "relevants": [
+      {
+        "relevant_doc": 670,
+        "relevant_url": "https://prezi.com/k1zbpyrazfld/molar-mass-of-a-volatile-liquid/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 670,
+        "title": "Molar Mass of a Volatile Liquid",
+        "url": "https://prezi.com/k1zbpyrazfld/molar-mass-of-a-volatile-liquid/",
+        "combined_text": "Molar Mass of a Volatile Liquid Public & reusable Create your own Make a copy Share Embed Like Molar Mass of a Volatile Liquid No descriptionby Lisa Liuon 25 November 20131 Tweet Comments ( 1)Kathryn Rosenfield · 799 days ago Thank you for sharing this. Please log in to add your comment. Report abuse Transcript of Molar Mass of a",
+        "distance": 0.5098640322685242
+      },
+      {
+        "id": 676,
+        "title": "What is molecular mass of sodium chloride?",
+        "url": "http://www.answers.com/Q/Is_sodium_chloride_molecular_or_ionic",
+        "combined_text": "What is molecular mass of sodium chloride? Des Dichado 213,588 Contributions Chemist for uranium nuclear fuels Answered In Elements and Compounds What is molecular mass of sodium chloride? The molecular mass of sodium chloride is 58,439 769 28. Des Dichado 213,588 Contributions Chemist for uranium nuclear fuels Answered In Elements and Compo",
+        "distance": 0.7345049977302551
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "4147655366653969819": {
+    "query_id": "4147655366653969819",
+    "query": "pain under heel when walking",
+    "relevants": [
+      {
+        "relevant_doc": 993,
+        "relevant_url": "https://theorthoclinic.com/patient-resources/common-injuries/plantar-fasciitis/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 993,
+        "title": "Plantar Fasciitis",
+        "url": "https://theorthoclinic.com/patient-resources/common-injuries/plantar-fasciitis/",
+        "combined_text": "Plantar Fasciitis Plantar fasciitis is the most common cause of pain on the bottom of the heel. Approximately 2 million patients are treated for this condition every year. Plantar fasciitis occurs when the strong band of tissue that supports the arch of your foot becomes irritated and inflamed. The plantar fascia is",
+        "distance": 0.4749968647956848
+      },
+      {
+        "id": 365,
+        "title": "Race Walking vs. Power Walking",
+        "url": "http://livehealthy.chron.com/race-walking-vs-power-walking-2929.html",
+        "combined_text": "Race Walking vs. Power Walking Related Articles1 [Power Walking] | 5 Benefits of Power Walking2 [Power Walking] | Is Power Walking Better Than Running to Lose Weight?3 [Power Walking] | Power Walking and Calories4 [Tube Walking] | What Is Tube Walking? Race walking and power walking differ from each other in a technical nature. R",
+        "distance": 0.5065772533416748
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-260283708810578910": {
+    "query_id": "-260283708810578910",
+    "query": "middlesex county library digital resources",
+    "relevants": [
+      {
+        "relevant_doc": 968,
+        "relevant_url": "https://library.middlesex.ca/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 968,
+        "title": "Middlesex Library",
+        "url": "https://library.middlesex.ca/",
+        "combined_text": "Middlesex Library Featured Small Business Builder A step-by-step online planning tool for starting, managing and optimizing a business or nonprofit. Press Reader Thousands of newspapers and magazines; one app. Try Press Reader now for FREE with your MNews All Middlesex County Library branches will be closed Friday Ap",
+        "distance": 0.4925346374511719
+      },
+      {
+        "id": 163,
+        "title": "The School Library Learning Commons - Future Forward",
+        "url": "http://www.schoollearningcommons.info/",
+        "combined_text": "The School Library Learning Commons - Future Forward The School Library Learning Commons - Future Forward The School Library Learning Commons is a participatory learning community with attention to excellent instructional designs and use of best resources and technologies to help learners build personal expertise and collaborative knowledge. Everyone",
+        "distance": 0.6724594235420227
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-7610818701238675569": {
+    "query_id": "-7610818701238675569",
+    "query": "stage adaptation of Lois Lowry novel",
+    "relevants": [
+      {
+        "relevant_doc": 59,
+        "relevant_url": "https://www.stagestheatre.org/number-the-stars/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 59,
+        "title": "Number the Stars",
+        "url": "https://www.stagestheatre.org/number-the-stars/",
+        "combined_text": "Number the Stars Number the Stars APRIL 29 – MAY 22, 2016 • Ages 8+Based on the book by Lois Lowry Adapted by Dr. Douglas W. Larche with Susan Elliott Larche All the drama, pathos, adventure, terror and humor of Lois Lowry’s Newbery Award winning book come to life in our intimate Hopkins Jaycees Studio this spring.",
+        "distance": 0.4412432909011841
+      },
+      {
+        "id": 868,
+        "title": "The Percy Jackson Problem",
+        "url": "https://www.newyorker.com/culture/cultural-comment/percy-jackson-problem",
+        "combined_text": "The Percy Jackson Problem About a year ago, the novelist Neil Gaiman delivered a lecture at the Barbican, in London, on behalf of the Reading Agency, a not-for-profit organization that promotes literacy and reading for pleasure among children and adults. In the lecture, which was reprinted in the Guardian, Gaiman came out in",
+        "distance": 0.812118649482727
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "5352227970279654119": {
+    "query_id": "5352227970279654119",
+    "query": "undiagnosed connective tissue disease symptoms",
+    "relevants": [
+      {
+        "relevant_doc": 1423,
+        "relevant_url": "https://www.hss.edu/conditions_undifferentiated-connective-tissue-disease-overview.asp"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1423,
+        "title": "Definition",
+        "url": "https://www.hss.edu/conditions_undifferentiated-connective-tissue-disease-overview.asp",
+        "combined_text": "Definition \"Definition The term \"\"undifferentiated connective tissue disease\"\" (UCTD) is used to describe a condition in people who have symptoms and lab test results that indicate a systemic autoimmune disorder or connective tissue disease, but which do not meet enough such characteristics to indicate a diagn",
+        "distance": 0.43532857298851013
+      },
+      {
+        "id": 49,
+        "title": "Fatigue and Nausea and Shaky hands Symptom Checker",
+        "url": "http://symptoms.rightdiagnosis.com/cosymptoms/fatigue/nausea/shaky-hands.htm",
+        "combined_text": "Fatigue and Nausea and Shaky hands Symptom Checker Fatigue and Nausea and Shaky hands Symptom Checker Intro Types Causes Tests Treatment Symptom Checker Checklist Misdiagnosis Deaths Contents Fatigue AND Nausea AND Shaky hands: Causes of All Symptoms Fatigue OR Nausea OR Shaky hands: 4622 causes Fatigue: 3159 causes Fatigue: Introduction Nausea: 274",
+        "distance": 0.5934867262840271
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-3056360605708901042": {
+    "query_id": "-3056360605708901042",
+    "query": "expert panel on chronic low back pain",
+    "relevants": [
+      {
+        "relevant_doc": 69,
+        "relevant_url": "https://www.secondopinion-tv.org/episode/back-pain"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1008,
+        "title": "The Smoking Spine",
+        "url": "https://www.spinemd.com/news-philanthropy/the-smoking-spine",
+        "combined_text": "The Smoking Spine The Smoking Spine February 24, 2014 in Article, Low-Back Pain, Mid-Back Pain, Neck Pain, Non-Operative Procedures, Nutrition, Operative Care, Pain Management, Spinal Deformity, Tips, Wellness/Prevention, 29719 Views Share+Cigarette smoking, or nicotine use, adversely affects nearly all tissues and s",
+        "distance": 0.5707976818084717
+      },
+      {
+        "id": 69,
+        "title": "Back Pain Share This:",
+        "url": "https://www.secondopinion-tv.org/episode/back-pain",
+        "combined_text": "Back Pain Share This: \"Back Pain Share This: Panelists Lisa Harris, MDMickey Burt, D. C. Robert Medcalf, PT, Dip MDTDr. Paul T. Rubery, MDRev. Susan Shafer Elissa Orlando Related Content Chronic Pain Chronic Pain Management Foot Pain Osteoarthritis Other Resources American Academy of Family Physicians The American Academ",
+        "distance": 0.5720128417015076
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8120739154467101174": {
+    "query_id": "-8120739154467101174",
+    "query": "adjust motion sensor sensitivity SimpliSafe",
+    "relevants": [
+      {
+        "relevant_doc": 1464,
+        "relevant_url": "http://simplisafe.com/forum/customer-support-forum/installing-and-using-simplisafe/adjusting-motion-sensors"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1464,
+        "title": "Adjusting motion sensors",
+        "url": "http://simplisafe.com/forum/customer-support-forum/installing-and-using-simplisafe/adjusting-motion-sensors",
+        "combined_text": "Adjusting motion sensors Adjust area or sensitivity? On November 3rd, 2014 joe_80 says: Adjust area or sensitivity? Login to post comments Hmmm. Sensitivity I think. On November 3rd, 2014 mfarrar says: Hmmm. Sensitivity I think. Can you adjust both? Login to post comments There is a switch underneath On November 3rd, 2014 j",
+        "distance": 0.5033763647079468
+      },
+      {
+        "id": 27,
+        "title": "Sensory Receptors that are sensitive to chemicals are found in the?",
+        "url": "http://www.answers.com/Q/What_are_receptors_that_are_sensitive_to_changes_in_the_concentrations_of_chemicals",
+        "combined_text": "Sensory Receptors that are sensitive to chemicals are found in the? Sensory Receptors that are sensitive to chemicals are found in the?the polesmoker Where are sensory receptors sensitive to changes in O2 levels in the blood located? Carotid bodies and aortic arch. What Muscle spindles are receptors sensitive to?tension Where are the sensory receptors sensitive to c",
+        "distance": 0.7410827279090881
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-6946975202762411643": {
+    "query_id": "-6946975202762411643",
+    "query": "calculate square roots by hand",
+    "relevants": [
+      {
+        "relevant_doc": 772,
+        "relevant_url": "http://math.wonderhowto.com/how-to/calculate-square-roots-paper-easy-way-383865/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 965,
+        "title": "Why does every positive number have two square roots?",
+        "url": "https://answers.yahoo.com/question/index?qid=20160921160022AAvye0J",
+        "combined_text": "Why does every positive number have two square roots? \"Science & Mathematics Mathematics Why does every positive number have two square roots? Follow 6 answers Answers Relevance Rating Newest Oldest In mathematics, a square root of a number a is a number y such that y2 = a; in other words, a number y whose square (the result of multiplying the number b",
+        "distance": 0.48463332653045654
+      },
+      {
+        "id": 772,
+        "title": "How To Calculate square roots on paper the easy way",
+        "url": "http://math.wonderhowto.com/how-to/calculate-square-roots-paper-easy-way-383865/",
+        "combined_text": "How To Calculate square roots on paper the easy way How To Calculate square roots on paper the easy way By Wonder How To 11/04/2010 1:25 pm Perhaps not as easy as using a calculator, but easy nevertheless! With mathematics, as with anything else, not everyone progresses at the same rate. Happily, in the age of Internet video tutorials, this isn't a p",
+        "distance": 0.524368941783905
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-1351118116915583574": {
+    "query_id": "-1351118116915583574",
+    "query": "early intervention specialist job responsibilities",
+    "relevants": [
+      {
+        "relevant_doc": 162,
+        "relevant_url": "http://www.specialeducationguide.com/teacher-certification/what-early-intervention-specialists-do/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 162,
+        "title": "What Early Intervention Specialists do",
+        "url": "http://www.specialeducationguide.com/teacher-certification/what-early-intervention-specialists-do/",
+        "combined_text": "What Early Intervention Specialists do What Early Intervention Specialists do Tell us about yourself so we can find programs near you. Find Schools USC Rossier School of Education - Online Master of Arts in Teaching in Special Education Capella University - Online MSEd in Special Education Teaching and Ph D in Special Education Leadershi",
+        "distance": 0.5945508480072021
+      },
+      {
+        "id": 1254,
+        "title": "Audiologist Job Description",
+        "url": "https://healthcaresalaryworld.com/audiologist-job-description/",
+        "combined_text": "Audiologist Job Description Audiologist Job Descriptionby Tanja Z | 0 comments An audiologist is a medical professional who has earned a doctorate degree in the science of audiology. The job involves helping people suffering from hearing disorders, related balance and coordination problems, and associated issues. These health-",
+        "distance": 0.6872175335884094
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3864910604874543386": {
+    "query_id": "3864910604874543386",
+    "query": "chandler az population and stats",
+    "relevants": [
+      {
+        "relevant_doc": 1467,
+        "relevant_url": "http://www.city-data.com/city/Chandler-Arizona.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1467,
+        "title": "Chandler, Arizona",
+        "url": "http://www.city-data.com/city/Chandler-Arizona.html",
+        "combined_text": "Chandler, Arizona Follow city-data.com founder on our Forum or@Lech Mazur Chandler, Arizonasee 14 more add your Submit your own pictures of this city and show them to the World See promotion details and to upload your Chandler, Arizona photos OSM Map General Map Google Map MSN Map59°F10 miles Wind: 7 mph Pressure: 29",
+        "distance": 0.44758161902427673
+      },
+      {
+        "id": 312,
+        "title": "Termite Control Phoenix, AZ",
+        "url": "https://www.blueskypest.com/termite-control/",
+        "combined_text": "Termite Control Phoenix, AZ Termite Control Phoenix, AZTermite control is a top concern for Phoenix homeowners for good reason. Termites are very prevalent throughout the Phoenix area. The most common termite is the Heterotermes aureus, or the desert subterranean termite, which is also the most destructive termite in Arizona.",
+        "distance": 0.6914300918579102
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "8161502388315355575": {
+    "query_id": "8161502388315355575",
+    "query": "parked car interior temperature on sunny day",
+    "relevants": [
+      {
+        "relevant_doc": 1305,
+        "relevant_url": "http://acprocold.com/blog/hot-car-get/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1305,
+        "title": "How Hot Does Your Car Get?",
+        "url": "http://acprocold.com/blog/hot-car-get/",
+        "combined_text": "How Hot Does Your Car Get? How Hot Does Your Car Get? We’ve all experienced getting into a parked car on a sunny day. It feels like you’re climbing inside an industrial-size oven, and all you can think about is getting the A/C running to cool it down before you get baked. But how hot is it, really? Why does a car interior fee",
+        "distance": 0.42254599928855896
+      },
+      {
+        "id": 1171,
+        "title": "Weather in Honolulu, Oahu in November 2018",
+        "url": "http://www.weather2travel.com/november/united-states/hawaii/honolulu-oahu-hi.php",
+        "combined_text": "Weather in Honolulu, Oahu in November 2018 Weather in Honolulu, Oahu in November 201828 28°C max day temperature7 7 hours of sunshine per day11 11 days with some rainfall20 20°C min night temperature11 11 hours of daylight per day M Moderate heat & humidity61 61 mm of monthly rainfall7 7 (High) UV index26 26°C sea temperature Going to Honolu",
+        "distance": 0.5368361473083496
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-2342697889186018261": {
+    "query_id": "-2342697889186018261",
+    "query": "signs baby lactose intolerance",
+    "relevants": [
+      {
+        "relevant_doc": 420,
+        "relevant_url": "http://healthyeating.sfgate.com/symptoms-lactose-sensitivity-infants-8890.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 420,
+        "title": "Symptoms of Lactose Sensitivity in Infants",
+        "url": "http://healthyeating.sfgate.com/symptoms-lactose-sensitivity-infants-8890.html",
+        "combined_text": "Symptoms of Lactose Sensitivity in Infants \"Related Articles Lactose Intolerance Smoothies Where Lactose Is Lurking Can Lactose Intolerant-Individuals Drink Powdered Milk? Casein Protein Intolerance If you have a fussy baby or your baby suffers from diarrhea or frequent spitting up, you may suspect lactose intolerance. Before you stop breast",
+        "distance": 0.19944924116134644
+      },
+      {
+        "id": 1187,
+        "title": "Recipe Substitutions for Lactose Intolerance",
+        "url": "http://www.webmd.com/digestive-disorders/lactose-intolerance-14/recipe-ideas",
+        "combined_text": "Recipe Substitutions for Lactose Intolerance Recipe Substitutions for Lactose Intolerance Dairy trouble got you down? Don’t worry! You can still enjoy some of your favorite foods. Try these simple recipe swaps so you can eat the foods you love. Milk Options If a recipe calls for 1 cup of cow's milk, you can replace it with lactose-free cow's m",
+        "distance": 0.5111621618270874
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "4597174198312796995": {
+    "query_id": "4597174198312796995",
+    "query": "why uk weather turns milder after cold",
+    "relevants": [
+      {
+        "relevant_doc": 988,
+        "relevant_url": "https://weather.com/en-GB/unitedkingdom/weather/news/uk-weather-forecast-how-air-mass-affect-polar-arctic-temperatures-cold"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 109,
+        "title": "What are the coldest months of the year?",
+        "url": "https://answers.yahoo.com/question/index?qid=20080906180359AAPb2iv",
+        "combined_text": "What are the coldest months of the year? Science & Mathematics Weather What are the coldest months of the year? I need to know all the cold months and hot, but mostly just the cold ones. I live in California BTW. Oh and windy/foggy ones too. THANK YOU!!! : DFollow 14 answers Answers Relevance Rating Newest Oldest Best Answer: December, Jan",
+        "distance": 0.5222570300102234
+      },
+      {
+        "id": 695,
+        "title": "What is the temperature normally in the Arctic tundra?",
+        "url": "http://www.answers.com/Q/What_is_the_temperature_range_for_tundra",
+        "combined_text": "What is the temperature normally in the Arctic tundra? Answered In Tundra What is the temperature normally in the Arctic tundra? During the winter , The tundra can experience temperatures as low as -60 degrees Fahrenheit . But during the warmer months temperature rises between 32 degrees Fahrenheit …Answered In Biomes What is the temperature for tundra",
+        "distance": 0.527202308177948
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-6828436024059154810": {
+    "query_id": "-6828436024059154810",
+    "query": "108-year-old wwii veteran drinks whiskey",
+    "relevants": [
+      {
+        "relevant_doc": 628,
+        "relevant_url": "http://www.dailymail.co.uk/news/article-2830888/The-oldest-living-veteran-smokes-drinks-whiskey-day-drives-does-yard-work-s-108-YEARS-OLD.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 628,
+        "title": "The oldest living US veteran, age 108, credits drinking whiskey and smoking a dozen cigars every day for his long life",
+        "url": "http://www.dailymail.co.uk/news/article-2830888/The-oldest-living-veteran-smokes-drinks-whiskey-day-drives-does-yard-work-s-108-YEARS-OLD.html",
+        "combined_text": "The oldest living US veteran, age 108, credits drinking whiskey and smoking a dozen cigars every day for his long life \"The oldest living US veteran, age 108, credits drinking whiskey and smoking a dozen cigars every day for his long life Richard Overton served in the South Pacific during World War II from 1942 to 1945He turned 108 this year Overton lives in the same house he built in Austin, Texas, after returning",
+        "distance": 0.42818683385849
+      },
+      {
+        "id": 631,
+        "title": "How Many Calories Are In Whiskey?",
+        "url": "https://thewhiskeywash.com/whiskey-styles/bourbon/many-calories-whiskey/",
+        "combined_text": "How Many Calories Are In Whiskey? Bourbon Lifestyle Scotch By Margarett Waterbury / January 10, 2017Share Tweet Pin Share January is here, and the time to undo the indulgences of the holidays is upon us. Fortunately, that doesn’t mean you’ll need to do without your daily dram—although if you’re really economizing, this might be a go",
+        "distance": 0.6255545020103455
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-4837342252801987803": {
+    "query_id": "-4837342252801987803",
+    "query": "how civil liberties differ from civil rights",
+    "relevants": [
+      {
+        "relevant_doc": 1364,
+        "relevant_url": "https://study.com/academy/lesson/what-are-civil-liberties-definition-examples-cases.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1364,
+        "title": "What are Civil Liberties? - Definition, Examples & Cases",
+        "url": "https://study.com/academy/lesson/what-are-civil-liberties-definition-examples-cases.html",
+        "combined_text": "What are Civil Liberties? - Definition, Examples & Cases Instructor: Mark Pearcy What are civil liberties? How are they different from civil rights? How do we know exactly what (and when) they are? The issue of civil liberties began with the Constitution and continues with the U. S. Supreme Court. Defining Civil Liberties You have the right to free speech",
+        "distance": 0.22065605223178864
+      },
+      {
+        "id": 677,
+        "title": "1957 Civil Rights Act",
+        "url": "http://spartacus-educational.com/USAcivil57.htm",
+        "combined_text": "1957 Civil Rights Act American History > Civil Rights 1860-1980 > 1957 Civil Rights Act1957 Civil Rights Act The Civil Rights Act (1957) provided for the establishment of the Civil Rights Section of the Justice Department and empowered federal prosecutors to obtain court injunctions against interference with the right to",
+        "distance": 0.3108912408351898
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-7031978760669277578": {
+    "query_id": "-7031978760669277578",
+    "query": "piaget life and developmental theory",
+    "relevants": [
+      {
+        "relevant_doc": 350,
+        "relevant_url": "http://www.softschools.com/facts/scientists/jean_piaget_facts/1617/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 350,
+        "title": "Jean Piaget Facts",
+        "url": "http://www.softschools.com/facts/scientists/jean_piaget_facts/1617/",
+        "combined_text": "Jean Piaget Facts \"Home > Facts > Scientists Facts > Jean Piaget Facts Jean Piaget Facts Jean Piaget Facts Jean Piaget (August 9, 1896 to September 6, 1980) was a Swiss developmental psychologist and philosopher. His studies of learning in young children led to the development of the constructivist theory of knowledg",
+        "distance": 0.40181389451026917
+      },
+      {
+        "id": 469,
+        "title": "Theory of Moral Development",
+        "url": "https://explorable.com/theory-of-moral-development",
+        "combined_text": "Theory of Moral Development \"The Theory of Moral Development is a very interesting subject that stemmed from Jean Piaget’s theory of moral reasoning. Developed by psychologist Lawrence Kohlberg, this theory made us understand that morality starts from the early childhood years and can be affected by several factors. Morality c",
+        "distance": 0.4630850553512573
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-1547392466352730229": {
+    "query_id": "-1547392466352730229",
+    "query": "Loves Park Illinois city profile",
+    "relevants": [
+      {
+        "relevant_doc": 1227,
+        "relevant_url": "http://www.city-data.com/city/Loves-Park-Illinois.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1227,
+        "title": "Loves Park, Illinois",
+        "url": "http://www.city-data.com/city/Loves-Park-Illinois.html",
+        "combined_text": "Loves Park, Illinois \"Follow city-data.com founder on our Forum or@Lech Mazur Loves Park, Illinoisadd your We are giving away $1200 in prizes - enter simply by sending us your own city pictures! See promotion details and to upload your Loves Park, Illinois photos OSM Map General Map Google Map MSN Map30°F7 miles Wind: 7",
+        "distance": 0.37907928228378296
+      },
+      {
+        "id": 872,
+        "title": "Illinois coalâs last stand",
+        "url": "https://www.chicagoreader.com/chicago/future-coal-mining-energy-illinois/Content?oid=22523058",
+        "combined_text": "Illinois coalâs last stand \"Blasting at the Eagle River coal mine just outside Harrisburg drove many residents from their homes. Kari Lydersen It looks like a postapocalyptic landscape. The people in this part of Harrisburg have disappeared, leaving their quaint, once-tidy homes behind only to be reclaimed by prairie grass an",
+        "distance": 0.7296311855316162
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "6445741134175234427": {
+    "query_id": "6445741134175234427",
+    "query": "is coffee safe while pregnant",
+    "relevants": [
+      {
+        "relevant_doc": 99,
+        "relevant_url": "http://healthpsych.psy.vanderbilt.edu/Web2007/caffeinePregnant.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 50,
+        "title": "Coffee, Caffeine & Health",
+        "url": "http://www.ncausa.org/Health-Caffeine",
+        "combined_text": "Coffee, Caffeine & Health Coffee, Caffeine & Health Independent research by scientists worldwide continues to link coffee to significant (and surprising) healthful properties. Coffee has a naturally complex botanical profile, with at least 1,000 natural compounds in the bean (including caffeine) and another 300 created in th",
+        "distance": 0.4933089315891266
+      },
+      {
+        "id": 592,
+        "title": "Is it ok to take ibuprofen when your trying to conceive?",
+        "url": "https://answers.yahoo.com/question/index?qid=20080429091841AAmEUo3",
+        "combined_text": "Is it ok to take ibuprofen when your trying to conceive? Pregnancy & Parenting Trying to Conceive Is it ok to take ibuprofen when your trying to conceive? I have been keeping a headache here lately. At first I didn't take any thing for them, but they have been getting pretty bad so I have taken some ibuprofen (tylonol does nothing for me) I have only take",
+        "distance": 0.5988881587982178
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "6776009825651588683": {
+    "query_id": "6776009825651588683",
+    "query": "opposite angles formed by intersecting lines",
+    "relevants": [
+      {
+        "relevant_doc": 270,
+        "relevant_url": "http://www.studygeek.org/geometry/vertical-angles/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 270,
+        "title": "Understanding definition of vertical angles:",
+        "url": "http://www.studygeek.org/geometry/vertical-angles/",
+        "combined_text": "Understanding definition of vertical angles: Understanding definition of vertical angles: Mathematicians define vertical angles as the angles having same vertex and that are not adjacent to each other, i.e. they do not have a common side. This definition of vertical angles is universally accepted. Proof of Vertical angles theorem: The vertical",
+        "distance": 0.4400077760219574
+      },
+      {
+        "id": 1488,
+        "title": "Linear equations and functions",
+        "url": "https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions",
+        "combined_text": "Linear equations and functions \"Progress Graphing proportional relationships Solutions to linear equations Quiz 15 questions Intercepts Slope Quiz 25 questions Intro to slope-intercept form Graphing slope-intercept form Writing slope-intercept equations Quiz 35 questions Functions & function notation Linear models Comparing linea",
+        "distance": 0.7002944350242615
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-6278969415982096083": {
+    "query_id": "-6278969415982096083",
+    "query": "why study phonetics and speech sounds",
+    "relevants": [
+      {
+        "relevant_doc": 998,
+        "relevant_url": "http://interlanguages.net/phonetics.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 998,
+        "title": "What is the use of phonetics?",
+        "url": "http://interlanguages.net/phonetics.html",
+        "combined_text": "What is the use of phonetics? \"What is the use of phonetics?by Otto Jespersen, 1910By phonetics is meant the science of speech sounds, their production by means of lips, tongue, palate, and vocal chords, their acoustic qualities, their combination into syllables and other sound groups, and finally quantity, stress and intonation",
+        "distance": 0.24610066413879395
+      },
+      {
+        "id": 351,
+        "title": "Phonetic Alphabet",
+        "url": "http://policecodes.org/phonetic-alphabet-1",
+        "combined_text": "Phonetic Alphabet Phonetic Alphabet Police Codes.org > Complete Post Listing > Phonetic Alphabet Author: admin October 2, 2008 5 Comments Complete Post Listing, Phonetic Alphabetalphabet, cop codes, officer, phonetic, police, police language, police talk Police use the Phonetic Alphabet: When communicating letters ov",
+        "distance": 0.5853579044342041
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8496538417832574242": {
+    "query_id": "-8496538417832574242",
+    "query": "what does ca- prefix mean in biology",
+    "relevants": [
+      {
+        "relevant_doc": 422,
+        "relevant_url": "http://www.macroevolution.net/biology-prefixes-ca.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 422,
+        "title": "Search",
+        "url": "http://www.macroevolution.net/biology-prefixes-ca.html",
+        "combined_text": "Search Prefix Dictionary – CMeanings of medical prefixes Site Search EUGENE M. MCCARTHY, PHDSearch for prefixes >>Words Prefixes Suffixes Rootsa | b | c | d | e | f-g | h | i-jk-l | m | n | o | p-q | r-s | t | u-z Browse prefixes >>cac- or caco- [Greek kakos bad, evil, pernicious] Bad, evil ( caconym ).cae",
+        "distance": 0.6115735769271851
+      },
+      {
+        "id": 1156,
+        "title": "Biology Dictionary â N",
+        "url": "http://www.macroevolution.net/biology-dictionary-nann.html",
+        "combined_text": "Biology Dictionary â N \"Biology Dictionary – NMeanings of biological terminology Site Search EUGENE M. MCCARTHY, PHD GENETICSWords Prefixes Suffixes Rootsa | b | c | d | e | f | g | h | i-k | lm | n | o | p-q | r | s | t | u-z Definitions: Like this dictionary? Then please tell your friends!n abbr. (1) nano-; (2) nasal .",
+        "distance": 0.703993558883667
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-991747058929376876": {
+    "query_id": "-991747058929376876",
+    "query": "how to uninstall baidu browser",
+    "relevants": [
+      {
+        "relevant_doc": 251,
+        "relevant_url": "http://www.shouldiremoveit.com/baidu-browser-143907-program.aspx"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 251,
+        "title": "Baidu Browser",
+        "url": "http://www.shouldiremoveit.com/baidu-browser-143907-program.aspx",
+        "combined_text": "Baidu Browser \"Baidu Browserby Baidu Inc. Remove Baidu Browser We don't have a full description for Baidu Browser just yet, but you can help. If you have experience, help inform the community and become an expert contributor. Overview Baidu Browser is a software program developed by Baidu. The most common release",
+        "distance": 0.2327568680047989
+      },
+      {
+        "id": 132,
+        "title": "Q: How to delete all my favorites in Edge",
+        "url": "http://answers.microsoft.com/en-us/windows/forum/windows_10-other_settings/how-to-delete-all-my-favorites-in-edge/7e458cc1-3418-474c-b15e-00f383cf3b90",
+        "combined_text": "Q: How to delete all my favorites in Edge HU Humbledore asked on September 12, 2015Q: How to delete all my favorites in Edge Hi,I want to delete all my favorites in Edge? How do I accomplish that? Thanks!Reply I have the same question (39)Preeti Patel replied on September 12, 2015Microsoft A: Hi,Welcome to Microsoft Community. I appreciate",
+        "distance": 0.7219028472900391
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "6071760797237660086": {
+    "query_id": "6071760797237660086",
+    "query": "cat spleen function and diseases",
+    "relevants": [
+      {
+        "relevant_doc": 892,
+        "relevant_url": "http://www.petplace.com/article/cats/diseases-conditions-of-cats/body-structure-function/structure-and-function-of-the-spleen-in-cats"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 892,
+        "title": "Structure and Function of the Spleen in Cats",
+        "url": "http://www.petplace.com/article/cats/diseases-conditions-of-cats/body-structure-function/structure-and-function-of-the-spleen-in-cats",
+        "combined_text": "Structure and Function of the Spleen in Cats Structure and Function of the Spleen in Cats3 Aug, 2015 Dr. Bari Spielman 43,733 Views Share Below is information about the structure and function of the feline spleen. We will tell you about the general structure of the spleen, how the spleen works in cats, common diseases that affect the spleen, a",
+        "distance": 0.22538384795188904
+      },
+      {
+        "id": 1284,
+        "title": "Enlarged Spleen in Cats",
+        "url": "http://www.petmd.com/cat/conditions/cardiovascular/c_ct_splenomegaly",
+        "combined_text": "Enlarged Spleen in Cats Home » Cat Conditions Enlarged Spleen in Cats Splenomegaly in Cats Splenomegaly refers to the enlargement of the spleen. This medical condition can occur in all breeds and genders, and is not usually directly related to the spleen, but rather a symptom of another disease or condition. Treatment opti",
+        "distance": 0.3601849377155304
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "6738246738051992169": {
+    "query_id": "6738246738051992169",
+    "query": "treatment and monitoring for liver cysts",
+    "relevants": [
+      {
+        "relevant_doc": 1138,
+        "relevant_url": "https://www.liverdoctor.com/liver-problems/polycystic-liver-disease/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1138,
+        "title": "Polycystic Liver Disease (PLD)",
+        "url": "https://www.liverdoctor.com/liver-problems/polycystic-liver-disease/",
+        "combined_text": "Polycystic Liver Disease (PLD) Facebook Liver disease is serious and requires treatment and regular monitoring by a liver specialist. A liver specialist is known as a hepatologist and you need to be referred by your family doctor or general practitioner. Over nearly 40 years of practicing medicine I have seen many patients develo",
+        "distance": 0.48656919598579407
+      },
+      {
+        "id": 430,
+        "title": "Using Liver Enzymes AST and ALT to Diagnose Liver Damage and Disease",
+        "url": "https://www.verywell.com/liver-enzymes-1759916",
+        "combined_text": "Using Liver Enzymes AST and ALT to Diagnose Liver Damage and Disease \"Hepatitis Causes & Diagnosis Using Liver Enzymes AST and ALT to Diagnose Liver Damage and Disease A Look at AST and ALTBy Charles Daniel Updated June 16, 2017Share Pin Email Print Science Picture Co / Getty Images Liver enzymes are substances produced by the liver that can be measured through a blo",
+        "distance": 0.6073283553123474
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8967542978456945914": {
+    "query_id": "-8967542978456945914",
+    "query": "what does earth-shattering mean",
+    "relevants": [
+      {
+        "relevant_doc": 1237,
+        "relevant_url": "http://www.macmillandictionary.com/dictionary/british/earth-shattering"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 486,
+        "title": "How long does it take for a signal from Earth to reach Mars?",
+        "url": "https://www.quora.com/How-long-does-it-take-for-a-signal-from-Earth-to-reach-Mars",
+        "combined_text": "How long does it take for a signal from Earth to reach Mars? \"Signal (communications) Mars (planet) Space Exploration Outer Space Earth (planet)How long does it take for a signal from Earth to reach Mars?ad by Honey Have you tried this Amazon trick? The price Amazon shows isn't always the lowest. Luckily, this tool can help you outsmart the marketplace. Learn",
+        "distance": 0.6290298700332642
+      },
+      {
+        "id": 254,
+        "title": "The Most Dangerous Man on Earth",
+        "url": "https://astutenews.com/2017/12/23/the-most-dangerous-man-on-earth/",
+        "combined_text": "The Most Dangerous Man on Earth The Most Dangerous Man on Earth On December 23, 2017 December 22, 2017 By Asif Aziz In Opinion Let’s start with the universe and work our way in. Who cares? Not them because as far as we know they aren’t there. As far as we know, no one exists in our galaxy or perhaps anywhere else but us (and the o",
+        "distance": 0.6669232845306396
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "5084993947799714005": {
+    "query_id": "5084993947799714005",
+    "query": "how to follow up after applying",
+    "relevants": [
+      {
+        "relevant_doc": 1293,
+        "relevant_url": "https://www.livecareer.com/quintessential/following-job-leads"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1293,
+        "title": "Follow Up All Job Leads: Donât Wait by the Phone (or Computer)",
+        "url": "https://www.livecareer.com/quintessential/following-job-leads",
+        "combined_text": "Follow Up All Job Leads: Donât Wait by the Phone (or Computer) Follow Up All Job Leads: Don’t Wait by the Phone (or Computer)by Live Career Staff Writerby Randall S. Hansen, Ph. D. Does this scenario sound familiar? You’re in the market for a new job, and after conducting all your research, you send out 20 cover letters and resumes to potential hiring managers.",
+        "distance": 0.696813702583313
+      },
+      {
+        "id": 336,
+        "title": "How to Use this Guide:",
+        "url": "http://cascadedafo.com/dafo-guide",
+        "combined_text": "How to Use this Guide: How to Use this Guide:1. Find your patient group2. Match the level of involvement3. Choose a suggested brace style",
+        "distance": 0.7180494666099548
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "1421484764198037439": {
+    "query_id": "1421484764198037439",
+    "query": "lincoln treasury secretary antislavery leader",
+    "relevants": [
+      {
+        "relevant_doc": 1426,
+        "relevant_url": "https://www.britannica.com/biography/Salmon-P-Chase"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1426,
+        "title": "Salmon P. Chase",
+        "url": "https://www.britannica.com/biography/Salmon-P-Chase",
+        "combined_text": "Salmon P. Chase Salmon P. Chase, in full Salmon Portland Chase, (born Jan. 13, 1808, Cornish Township, N. H., U. S.—died May 7, 1873, New York City), lawyer and politician, antislavery leader before the U. S. Civil War, secretary of the Treasury (1861–64) in Pres. Abraham Lincoln’s wartime Cabinet, sixth chief just",
+        "distance": 0.5163224339485168
+      },
+      {
+        "id": 264,
+        "title": "How Does the Government Borrow Money?",
+        "url": "https://www.reference.com/government-politics/government-borrow-money-e45442e30ffc2576",
+        "combined_text": "How Does the Government Borrow Money? Government & Politics US Government Q: How Does the Government Borrow Money? A: Quick Answer According to the U. S. Treasury Department, the U. S. government borrows money primarily through the issuance of U. S. Treasury bonds. Part of the bonds are open to the public; individuals, state governments",
+        "distance": 0.7377126812934875
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "5929378938258059873": {
+    "query_id": "5929378938258059873",
+    "query": "safety and rights for transgender Malaysians",
+    "relevants": [
+      {
+        "relevant_doc": 1370,
+        "relevant_url": "http://features.hrw.org/features/HRW_reports_2014/Im_Scared_to_Be_a_Woman/index.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1370,
+        "title": "âIâm Scared to Be a Womanâ",
+        "url": "http://features.hrw.org/features/HRW_reports_2014/Im_Scared_to_Be_a_Woman/index.html",
+        "combined_text": "âIâm Scared to Be a Womanâ \"A Note on Gender Identity This report addresses human rights abuses faced by transgender people in Malaysia. “Transgender” is an inclusive term for anyone whose sex assigned to them at birth—i.e., the designation as “female” or “male” on their birth certificate—does not conform to their lived or pe",
+        "distance": 0.4529443383216858
+      },
+      {
+        "id": 885,
+        "title": "Parental consent for HPV vaccine should not be waived, poll says",
+        "url": "http://www.uofmhealth.org/news/parental-consent-needed-for-hpv-vaccine",
+        "combined_text": "Parental consent for HPV vaccine should not be waived, poll says ANN ARBOR, Mich. – Most U. S. adults support laws that allow teens to get medical care for sexually transmitted infections without parental consent. But when asked about the vaccine against the human papillomavirus (HPV), most adults want parents to have the final say on whether their teen or pre-te",
+        "distance": 0.7617707252502441
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "4455952171073121022": {
+    "query_id": "4455952171073121022",
+    "query": "addiction meaning and pronunciation",
+    "relevants": [
+      {
+        "relevant_doc": 888,
+        "relevant_url": "http://www.audioenglish.org/dictionary/addiction.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 888,
+        "title": "ADDICTION",
+        "url": "http://www.audioenglish.org/dictionary/addiction.htm",
+        "combined_text": "ADDICTION \"Audio English.org » Dictionary » A » Adamance ... Adducting ADDICTIONPronunciation (US): Dictionary entry overview: What does addiction mean?• ADDICTION (noun) The noun ADDICTION has 3 senses:1. being abnormally tolerant to and dependent on something that is psychologically or physically habit-form",
+        "distance": 0.3203451931476593
+      },
+      {
+        "id": 998,
+        "title": "What is the use of phonetics?",
+        "url": "http://interlanguages.net/phonetics.html",
+        "combined_text": "What is the use of phonetics? \"What is the use of phonetics?by Otto Jespersen, 1910By phonetics is meant the science of speech sounds, their production by means of lips, tongue, palate, and vocal chords, their acoustic qualities, their combination into syllables and other sound groups, and finally quantity, stress and intonation",
+        "distance": 0.7450026273727417
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "6849629656914202551": {
+    "query_id": "6849629656914202551",
+    "query": "reasons to engineer crop plants",
+    "relevants": [
+      {
+        "relevant_doc": 1324,
+        "relevant_url": "http://www.healthy-eating-politics.com/genetically-modified-crops.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1324,
+        "title": "Genetically Modified Crops",
+        "url": "http://www.healthy-eating-politics.com/genetically-modified-crops.html",
+        "combined_text": "Genetically Modified Crops \"Genetically Modified Crops Genetically modified crops are those which have been altered genetically for several reasons. Those reasons might include reducing the maturation time of the plant, increasing nutrients, yields, and stress tolerance, and creating a plant that can withstand diseases, and h",
+        "distance": 0.4485122263431549
+      },
+      {
+        "id": 309,
+        "title": "Angiosperms",
+        "url": "http://biology.about.com/od/biologydictionary/g/angiosperms.htm",
+        "combined_text": "Angiosperms Science, Tech, Math ›Science Angiosperms Share Flipboard Email Print Sunflowers are flowering plants or angiosperms. Spaces Images/Blend Images/Getty Imagesby Regina Bailey Updated November 08, 2017Angiosperms, or flowering plants, are the most numerous of all the divisions in the Plant Kingdom. Wit",
+        "distance": 0.6449115872383118
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "3240479807350228098": {
+    "query_id": "3240479807350228098",
+    "query": "how long are drugs detectable in your body",
+    "relevants": [
+      {
+        "relevant_doc": 944,
+        "relevant_url": "http://www.answers.com/Q/How_long_do_antihistamines_stay_in_your_system"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 944,
+        "title": "How long do drugs stay in your system?",
+        "url": "http://www.answers.com/Q/How_long_do_antihistamines_stay_in_your_system",
+        "combined_text": "How long do drugs stay in your system? Deca119 4 Contributions How long do drugs stay in your system? Alcohol - 3-5 days in urine (e Tg), up to 90 in hair and around 10 - 12 hours in blood. Amphetamines - 1 to 3 days in urine, up to 90 in hair and around 12 hours in blood. …How long does meth stay in the system?it is in your body for 8 p",
+        "distance": 0.4158117175102234
+      },
+      {
+        "id": 666,
+        "title": "What drug can cause constriction of the pupils?",
+        "url": "http://www.answers.com/Q/What_drug_causes_pin_pointed_pupils",
+        "combined_text": "What drug can cause constriction of the pupils? Azatos 117 Contributions Answered In Illegal Drugs What drug can cause constriction of the pupils? Opiates (Heroin Morphine Hydrocodone) and Alcohol. Edit Answered In Medication and Drugs What drugs cause tiny pupils? Sedatives,sleeping pills ie; valium xanax, narcotic pain meds , tranquilizers, her",
+        "distance": 0.6302379965782166
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8467791477364651750": {
+    "query_id": "-8467791477364651750",
+    "query": "why do muscles lose nerve supply",
+    "relevants": [
+      {
+        "relevant_doc": 707,
+        "relevant_url": "https://www.healthtap.com/topics/muscle-denervation-causes"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 707,
+        "title": "Top 30 Doctor insights on: Muscle Denervation Causes",
+        "url": "https://www.healthtap.com/topics/muscle-denervation-causes",
+        "combined_text": "Top 30 Doctor insights on: Muscle Denervation Causes \"Top 30 Doctor insights on: Muscle Denervation Causes Share Follow @Health Tap </> Embed Dr. Bennett Machanic1 doctor agreed:1 What is denervation of C6 nerve root innervated muscles? Anatomy: C-6 provides innervation in part to biceps, brachioradialis, wrist flexors, especially flexor carpi ulnas,",
+        "distance": 0.6532117128372192
+      },
+      {
+        "id": 712,
+        "title": "How the Muscles are Named",
+        "url": "https://www.biologycorner.com/anatomy/muscles/how_muscles_are_named.html",
+        "combined_text": "How the Muscles are Named How the Muscles are Named The muscles of the body can be difficult to remember, as their names are often long and confusing. The key to learning the muscles is to understand the basic naming conventions, once you see the patterns, it will be much easier to remember. Here are some of the basics of na",
+        "distance": 0.6822569966316223
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-3215053009275309559": {
+    "query_id": "-3215053009275309559",
+    "query": "causes of low life expectancy in sub-saharan africa",
+    "relevants": [
+      {
+        "relevant_doc": 978,
+        "relevant_url": "http://econsguide.blogspot.com/2009/02/possible-reasons-for-uks-deficit-in-its.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 978,
+        "title": "Reasons For Low Life Expectancy In Sub-Saharan African Countries",
+        "url": "http://econsguide.blogspot.com/2009/02/possible-reasons-for-uks-deficit-in-its.html",
+        "combined_text": "Reasons For Low Life Expectancy In Sub-Saharan African Countries Reasons For Low Life Expectancy In Sub-Saharan African Countries While social indicators slowly but progressively have improved all the years in many of African countries, the statistic of life expectancy at birth still by today shows a large disappointment. In fact, the top 10 countries with lowest",
+        "distance": 0.18036985397338867
+      },
+      {
+        "id": 1083,
+        "title": "What Is the Life Span of Vascular Dementia?",
+        "url": "https://www.reference.com/health/life-span-vascular-dementia-389127cf2d32f8a1",
+        "combined_text": "What Is the Life Span of Vascular Dementia? \"Health Conditions & Diseases Q: What Is the Life Span of Vascular Dementia? A: Quick Answer According to the Alzheimer's Society, the average life span for a patient with vascular dementia is around five years after symptoms begin manifesting. Oftentimes, the patient's death is caused by a stroke o",
+        "distance": 0.6981476545333862
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-8117906568554447918": {
+    "query_id": "-8117906568554447918",
+    "query": "calories in scalloped potatoes per cup",
+    "relevants": [
+      {
+        "relevant_doc": 247,
+        "relevant_url": "https://www.fatsecret.com/calories-nutrition/generic/white-potato-scalloped?portionid=19795"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 247,
+        "title": "Scalloped Potato",
+        "url": "https://www.fatsecret.com/calories-nutrition/generic/white-potato-scalloped?portionid=19795",
+        "combined_text": "Scalloped Potato Food database and calorie counter Source: Generic1 cup Scalloped Potato Nutrition Facts Serving Size: 1 cup Amount Per Serving Calories from Fat 54Calories 217% Daily Values*Total Fat 5.99g 9 %Saturated Fat 1.788g 9 %Polyunsaturated Fat 1.408g Monounsaturated Fat 2.423g Cholesterol 7mg 2 %Sodium 669",
+        "distance": 0.3998054563999176
+      },
+      {
+        "id": 168,
+        "title": "Calories in Chocolate Chip Belgian Waffles",
+        "url": "https://recipes.sparkpeople.com/recipe-calories.asp?recipe=1075433",
+        "combined_text": "Calories in Chocolate Chip Belgian Waffles Nutrition Facts Servings Per Recipe: 5Serving Size: 1 serving Amount Per Serving Calories 617.4Total Fat 28.4 g Saturated Fat 16.3 g Polyunsaturated Fat 1.2 g Monounsaturated Fat 4.8 g Cholesterol 202.7 mg Sodium 520.3 mg Potassium 106.0 mg Total Carbohydrate 77.6 g Dietary Fiber 1.4 g Sugars 32.1 g",
+        "distance": 0.5405512452125549
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  },
+  "-6121389663670032488": {
+    "query_id": "-6121389663670032488",
+    "query": "is ligandrol safe and effective",
+    "relevants": [
+      {
+        "relevant_doc": 1365,
+        "relevant_url": "https://healthybutsmart.com/ligandrol/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1365,
+        "title": "Does Ligandrol (LGD 4033) Work? Full Review Of The Evidence",
+        "url": "https://healthybutsmart.com/ligandrol/",
+        "combined_text": "Does Ligandrol (LGD 4033) Work? Full Review Of The Evidence Does Ligandrol (LGD 4033) Work? Full Review Of The Evidenceposted in Evidence, Supplements on April 26, 2017 by Melissa Waine B. Science (Hons 1) B. Commerce After finishing reviewing Beta Alanine, D Aspartic Acid, and Cissus, I decided to turn my attention to something a little more controversial.",
+        "distance": 0.5877560377120972
+      },
+      {
+        "id": 1520,
+        "title": "Is Motrin a blood thinner?",
+        "url": "https://www.quora.com/Is-Motrin-a-blood-thinner",
+        "combined_text": "Is Motrin a blood thinner? Motrin is not a blood thinner. It's classified as a NSAID-Non-steroidal anti-inflammatory drug. Used for minor pain and on a short term basis. Motrin can cause stomach cramping and eventually if used at a high dose (600-800mg) for too long may lead to abdominal bleeding from irritation to the lining",
+        "distance": 0.6706757545471191
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "minishlab/potion-retrieval-32M"
+  }
+}

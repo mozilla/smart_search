@@ -1,0 +1,482 @@
+{
+  "453764956984008590": {
+    "query_id": "453764956984008590",
+    "query": "healthy rice",
+    "relevants": [
+      {
+        "relevant_doc": 0,
+        "relevant_url": "https://www.reference.com/food/healthy-jasmine-rice-compared-white-rice-52905f7934e7bdf0"
+      },
+      {
+        "relevant_doc": 1,
+        "relevant_url": "http://www.3fatchicks.com/the-difference-between-brown-basmati-rice-and-brown-rice/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1867,
+        "title": "The Deadly Opposition to Genetically Modified Food",
+        "url": "http://www.slate.com/articles/health_and_science/project_syndicate0/2013/02/gm_food_golden_rice_will_save_millions_of_people_from_vitamin_a_deficiency.html",
+        "combined_text": "The Deadly Opposition to Genetically Modified Food Plant biotechnologist Dr. Swapan Datta inspects a genetically modified \"golden rice\" plant at the International Rice Research Institute in the Philippines in 2003. After a long delay, the rice, rich in Vitamin A, will finally be grown in that country. Photo by David Greedy/Getty Images. Finally, aft",
+        "distance": 0.44815948605537415
+      },
+      {
+        "id": 0,
+        "title": "How Healthy Is Jasmine Rice Compared to White Rice?",
+        "url": "https://www.reference.com/food/healthy-jasmine-rice-compared-white-rice-52905f7934e7bdf0",
+        "combined_text": "How Healthy Is Jasmine Rice Compared to White Rice? Food Food Facts Pasta & Grains Q: How Healthy Is Jasmine Rice Compared to White Rice? A: Quick Answer Jasmine rice is a type of white rice, so their nutrition profiles are very similar, with an almost negligible amount of difference in calories, fat and protein. Most differences between them are sim",
+        "distance": 0.47572508454322815
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "998583430949935451": {
+    "query_id": "998583430949935451",
+    "query": "endodontist",
+    "relevants": [
+      {
+        "relevant_doc": 2,
+        "relevant_url": "http://www.acciusa.com/cts/info/index.html"
+      },
+      {
+        "relevant_doc": 3,
+        "relevant_url": "http://www.healthline.com/health/type-2-diabetes/choosing-endocrinologist"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 5388,
+        "title": "Apical periodontitis: symptoms, diagnosis, treatment",
+        "url": "https://acikgunluk.net/apikalnyj-periodontit-simptomy-diagnostika-lechenie/",
+        "combined_text": "Apical periodontitis: symptoms, diagnosis, treatment Stomatology Apical periodontitis: symptoms, diagnosis, treatment Apical periodontitis is a rather unpleasant disease that causes a lot of pain and can lead to tooth loss. Therefore, it should be treated in the early stages of development. Toothache always brings a lot of discomfort, as it deprives a",
+        "distance": 0.6127883195877075
+      },
+      {
+        "id": 6688,
+        "title": "Animal Dentistry & Oral Surgery Specialists LLC",
+        "url": "http://www.mypetsdentist.com/root-canal-therapy.pml",
+        "combined_text": "Animal Dentistry & Oral Surgery Specialists LLC Root Canal Therapy for dogs and cats Root canal therapy is routinely performed to save teeth in dogs and cats. Teeth serve an important function and it is often beneficial to save them. We have performed root canal therapy on all teeth in dogs however there are \"strategic\" teeth (canines, upper four",
+        "distance": 0.6198025345802307
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "5667469747183835017": {
+    "query_id": "5667469747183835017",
+    "query": "arsenal",
+    "relevants": [
+      {
+        "relevant_doc": 4,
+        "relevant_url": "http://bleacherreport.com/articles/1323058-arsenal-fc-why-the-gunners-will-be-the-best-team-in-europe-by-2020"
+      },
+      {
+        "relevant_doc": 5,
+        "relevant_url": "https://paininthearsenal.com/2017/09/20/arsenal-theo-walcott-consider-leaving/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 4,
+        "title": "Arsenal Gunners Will Be Best Team in Europe by 2020",
+        "url": "http://bleacherreport.com/articles/1323058-arsenal-fc-why-the-gunners-will-be-the-best-team-in-europe-by-2020",
+        "combined_text": "Arsenal Gunners Will Be Best Team in Europe by 2020 Alex Livesey/Getty Images Arsenal has had various spells of success and failure of sorts. The Gunners have gone undefeated for an entire season and won the Premier League title. They have also experienced a pretty long stretch without winning major silverware. Each season seems to be the one which A",
+        "distance": 0.3421541154384613
+      },
+      {
+        "id": 6154,
+        "title": "arsenalnoun  [ C] uk â / ËÉË.s É n. É l / usâ / ËÉËr.s É n. É l /",
+        "url": "http://dictionary.cambridge.org/dictionary/english/arsenal",
+        "combined_text": "arsenalnoun  [ C] uk â / ËÉË.s É n. É l / usâ / ËÉËr.s É n. É l / Meaning of “arsenal” in the English Dictionary English American\"arsenal\" in English See all translationsarsenalnoun [ C] uk / ˈɑː.s ə n. ə l / us / ˈɑːr.s ə n. ə l / a building where weapons and military equipment are stored: The army planned to attack enemy arsenals. a collection of weapons: The co",
+        "distance": 0.4252069890499115
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "1981403382158431622": {
+    "query_id": "1981403382158431622",
+    "query": "gavaskar border trophy",
+    "relevants": [
+      {
+        "relevant_doc": 6,
+        "relevant_url": "http://www.cricwaves.com/cricket/news/articles/JFGoNsbc34_drh-sevawcirc/virat-kohli-gets-arjuna-award-list-of-arjun-awardees-in-cricket.html"
+      },
+      {
+        "relevant_doc": 7,
+        "relevant_url": "http://www.answers.com/Q/Which_NFL_players_have_won_a_Super_Bowl_a_Heisman_Trophy_and_a_National_Championship"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 4170,
+        "title": "India vs South Africa: India break a World Cup jinx",
+        "url": "http://indianexpress.com/article/sports/cricket-world-cup/2299764/live-cricket-score-india-vs-south-africa/",
+        "combined_text": "India vs South Africa: India break a World Cup jinx It was a clinical performance from India which helped them thump South Africa by 130 runs at the MCG. (Source: Reuters)Long after the television anchors said “that’s all from the presentation party” line, the cameras continued to flash in the MCG stands. Selfies with tickets in hand and the scoreboa",
+        "distance": 0.6064951419830322
+      },
+      {
+        "id": 6,
+        "title": "Virat Kohli gets Arjuna Award, list of Arjun Awardees in Cricket",
+        "url": "http://www.cricwaves.com/cricket/news/articles/JFGoNsbc34_drh-sevawcirc/virat-kohli-gets-arjuna-award-list-of-arjun-awardees-in-cricket.html",
+        "combined_text": "Virat Kohli gets Arjuna Award, list of Arjun Awardees in Cricket Virat Kohli gets Arjuna Award, list of Arjun Awardees in Cricket Tags: India, Virat Kohli Published on: Sep 01, 2013The Arjuna Awards were instituted in 1961 by the government of India to recognize outstanding achievement in National sports. The award carries a cash prize of INR 500,000, a bronze st",
+        "distance": 0.6375861763954163
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "8925590343842086760": {
+    "query_id": "8925590343842086760",
+    "query": "grand slam champion",
+    "relevants": [
+      {
+        "relevant_doc": 8,
+        "relevant_url": "https://www.thoughtco.com/career-grand-slam-winners-men-1565911"
+      },
+      {
+        "relevant_doc": 9,
+        "relevant_url": "https://www.quora.com/Can-Novak-Djokovic-surpass-Federer-and-Nadals-Grand-Slam-titles"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 8,
+        "title": "The 5 Career Grand Slam Winners in Men's Golf",
+        "url": "https://www.thoughtco.com/career-grand-slam-winners-men-1565911",
+        "combined_text": "The 5 Career Grand Slam Winners in Men's Golf Arts, Music, and Recreation ›Sports The 5 Career Grand Slam Winners in Men's Golf How those five did it, plus some of the giants who came close Share Flipboard Email Print Jack Nicklaus and Tiger Woods, two of the five Career Grand Slam winners. David Cannon/Getty Imagesby Brent Kelley Updated Augus",
+        "distance": 0.48071038722991943
+      },
+      {
+        "id": 9,
+        "title": "Can Novak Djokovic surpass Federer and Nadal's Grand Slam titles?",
+        "url": "https://www.quora.com/Can-Novak-Djokovic-surpass-Federer-and-Nadals-Grand-Slam-titles",
+        "combined_text": "Can Novak Djokovic surpass Federer and Nadal's Grand Slam titles? Abhijit Mishra, Ambidextrous when I eat. But playing tennis, lets just say I have other skills Updated Oct 10, 2017 · Author has 120 answers and 976.3k answer views Originally Answered: Tennis: Will it be too early to say that Rafa Nadal and Novak Djokovic can beat Roger Federer Grand Slam Tally? It",
+        "distance": 0.5552157163619995
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "4554695121989207583": {
+    "query_id": "4554695121989207583",
+    "query": "capital gain",
+    "relevants": [
+      {
+        "relevant_doc": 10,
+        "relevant_url": "https://turbotax.intuit.com/tax-tools/tax-tips/Investments-and-Taxes/5-Things-You-Should-Know-About-Capital-Gains-Tax/INF26154.html"
+      },
+      {
+        "relevant_doc": 11,
+        "relevant_url": "http://homeguides.sfgate.com/capital-gains-tax-rate-sale-home-1959.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 10,
+        "title": "5 Things You Should Know about Capital Gains Tax",
+        "url": "https://turbotax.intuit.com/tax-tools/tax-tips/Investments-and-Taxes/5-Things-You-Should-Know-About-Capital-Gains-Tax/INF26154.html",
+        "combined_text": "5 Things You Should Know about Capital Gains Tax Capital gains aren't just for rich people Anyone who sells a capital asset should know that capital gains tax may apply. And as the Internal Revenue Service points out, just about everything you own qualifies as a capital asset. That's the case whether you bought it as an investment, such as stocks",
+        "distance": 0.48966583609580994
+      },
+      {
+        "id": 11,
+        "title": "What Is the Capital Gains Tax Rate on the Sale of a Home?",
+        "url": "http://homeguides.sfgate.com/capital-gains-tax-rate-sale-home-1959.html",
+        "combined_text": "What Is the Capital Gains Tax Rate on the Sale of a Home? Related Articles How Do I Figure Capital Gains Tax on Real Estate? Capital Gains Rules for Investment Property Can I Sell My House & Reinvest in Another House and Not Pay Taxes? What Are Capital Gains Rates on Real Estate? A capital gain is a profit that you realize on the sale of an asset, such as",
+        "distance": 0.5455938577651978
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-6535315897767505340": {
+    "query_id": "-6535315897767505340",
+    "query": "credit limit",
+    "relevants": [
+      {
+        "relevant_doc": 12,
+        "relevant_url": "http://www.businesscreditblogger.com/2013/09/05/high-limit-business-credit-cards/"
+      },
+      {
+        "relevant_doc": 13,
+        "relevant_url": "https://www.bankofamerica.com/credit-cards/education/understanding-your-credit-limit.go"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 13,
+        "title": "Understanding your credit limit and how to use it",
+        "url": "https://www.bankofamerica.com/credit-cards/education/understanding-your-credit-limit.go",
+        "combined_text": "Understanding your credit limit and how to use it Credit Understanding your credit limit and how to use it Share Save Print Did you know that one of the easiest ways to boost your credit score is by properly managing your credit limit? We’ve put together some tips to help you do just that, including a review of how your credit limit is determined a",
+        "distance": 0.4221680462360382
+      },
+      {
+        "id": 12,
+        "title": "Get High Limit Business Credit Cards That Protect Personal Credit",
+        "url": "http://www.businesscreditblogger.com/2013/09/05/high-limit-business-credit-cards/",
+        "combined_text": "Get High Limit Business Credit Cards That Protect Personal Credit Get High Limit Business Credit Cards That Protect Personal Credit September 5, 2013 By Marco Carbajo High Limit Business Credit Cards Are you looking for business credit cards with high credit limits? Would high limit business credit cards that report payment history only to your business credit rep",
+        "distance": 0.5416975021362305
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-3585769934887834571": {
+    "query_id": "-3585769934887834571",
+    "query": "annuity",
+    "relevants": [
+      {
+        "relevant_doc": 14,
+        "relevant_url": "https://www.picpa.org/articles/picpa-news/2016/03/14/does-pennsylvania-tax-the-income-from-an-annuity"
+      },
+      {
+        "relevant_doc": 15,
+        "relevant_url": "https://www.nextavenue.org/how-annuities-protect-against-longevity-risk/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 15,
+        "title": "How Annuities Protect Against Longevity Risk",
+        "url": "https://www.nextavenue.org/how-annuities-protect-against-longevity-risk/",
+        "combined_text": "How Annuities Protect Against Longevity Risk How Annuities Protect Against Longevity Risk Make sure you don't outlive your retirement finances Immediate annuities offer income for life (or for a set period of time, such as 10 or 20 years). When selected for lifetime income, annuities function like Social Security retirement payments or corpora",
+        "distance": 0.4867360293865204
+      },
+      {
+        "id": 1386,
+        "title": "E-Delivery puts you in charge of your annuity paperwork!",
+        "url": "https://www.annuities.prudential.com/view/page/investor/13946",
+        "combined_text": "E-Delivery puts you in charge of your annuity paperwork! 0170032-00008-00 Ed. 07/2014HOME | CONTACT US | SITE MAP | PROSPECTUS | TERMS & CONDITIONS | PRIVACY STATEMENTNY - Domestic Violence Notice | Accessibility Help | Check the background of this firm on FINRA's Broker Check Investors should consider the features of the contract and the underlying portf",
+        "distance": 0.5245184302330017
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "631880101646874185": {
+    "query_id": "631880101646874185",
+    "query": "physiology",
+    "relevants": [
+      {
+        "relevant_doc": 16,
+        "relevant_url": "https://www.acs.edu.au/courses/animal-anatomy-and-physiology-animal-husbandry-i--164.aspx"
+      },
+      {
+        "relevant_doc": 17,
+        "relevant_url": "http://www.markedbyteachers.com/as-and-a-level/healthcare/p4-explain-the-physiology-of-two-named-body-systems-in-relation-to-energy-metabolism-in-the-body.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 17,
+        "title": "P4- Explain the physiology of two named body systems in relation to energy metabolism in the body.",
+        "url": "http://www.markedbyteachers.com/as-and-a-level/healthcare/p4-explain-the-physiology-of-two-named-body-systems-in-relation-to-energy-metabolism-in-the-body.html",
+        "combined_text": "P4- Explain the physiology of two named body systems in relation to energy metabolism in the body. P4- Explain the physiology of two named body systems in relation to energy metabolism in the body. Extracts from this document... Introduction M. Ugiagbe Omi Chowdhury CU149521 Unit 5- Anatomy and physiology for Health and Social Care P4- Explain the physiology of two named body systems in relation",
+        "distance": 0.4401669502258301
+      },
+      {
+        "id": 16,
+        "title": "Animal Anatomy And Physiology (Animal Husbandry I )",
+        "url": "https://www.acs.edu.au/courses/animal-anatomy-and-physiology-animal-husbandry-i--164.aspx",
+        "combined_text": "Animal Anatomy And Physiology (Animal Husbandry I ) Home > Courses > Agriculture > Animal Anatomy And Physiology (Animal Husbandry I )Animal Anatomy And Physiology (Animal Husbandry I )Learn animal anatomy and physiology from our team of professional animal scientists. Study animal systems and physiology, potential health issues, and more. Course Cod",
+        "distance": 0.4670651853084564
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "6625353163239908799": {
+    "query_id": "6625353163239908799",
+    "query": "myopia",
+    "relevants": [
+      {
+        "relevant_doc": 18,
+        "relevant_url": "http://www.medhelp.org/posts/Eye-Care/myopia-and-astigmatism--lattice---paving-stone/show/776998"
+      },
+      {
+        "relevant_doc": 19,
+        "relevant_url": "http://www.wisegeek.com/what-is-the-difference-between-myopia-and-hyperopia.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 18,
+        "title": "myopia and astigmatism, lattice , paving stone",
+        "url": "http://www.medhelp.org/posts/Eye-Care/myopia-and-astigmatism--lattice---paving-stone/show/776998",
+        "combined_text": "myopia and astigmatism, lattice , paving stone myopia and astigmatism, lattice , paving stonealodocter01I wear spectacles since 8 yrs old. My eye vision slowly but gradually deterioted through years and now at 40 yrs old, I still have strong myopia (> 10) and astigmatism problem with both eyes (right and left). And I also can't see well both lon",
+        "distance": 0.4947294592857361
+      },
+      {
+        "id": 19,
+        "title": "What Is the Difference between Myopia and Hyperopia?",
+        "url": "http://www.wisegeek.com/what-is-the-difference-between-myopia-and-hyperopia.htm",
+        "combined_text": "What Is the Difference between Myopia and Hyperopia? A person with myopia can see things that are near but cannot clearly see things that are far, while a person with hyperopia can see things that are far but cannot clearly see things that are near. Myopia and hyperopia are also known as nearsightedness and farsightedness, respectively. The range of t",
+        "distance": 0.554375171661377
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-4072954202987865870": {
+    "query_id": "-4072954202987865870",
+    "query": "amyloidosis",
+    "relevants": [
+      {
+        "relevant_doc": 20,
+        "relevant_url": "http://www.rxlist.com/joint_inflammation_disorders/drugs-condition.htm"
+      },
+      {
+        "relevant_doc": 21,
+        "relevant_url": "http://www.biology-online.org/biology-forum/about912.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 6528,
+        "title": "Demyelination Process and Demyelination of Brain in MS",
+        "url": "http://www.drgarysmultiplesclerosiscure.org/Blog/demyelination-process.html",
+        "combined_text": "Demyelination Process and Demyelination of Brain in MS Demyelination Process and Demyelination of Brain in MSby Dr Gary under MS Types Multiple sclerosis is a neurological disease that includes demyelination as one of its symptoms and associated conditions. The demyelination process is similar to other neurological diseases, but the demyelination of bra",
+        "distance": 0.6125630140304565
+      },
+      {
+        "id": 6844,
+        "title": "Mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes",
+        "url": "https://ghr.nlm.nih.gov/condition/mitochondrial-encephalomyopathy-lactic-acidosis-and-stroke-like-episodes",
+        "combined_text": "Mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes Description Mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes ( MELAS) is a condition that affects many of the body's systems, particularly the brain and nervous system (encephalo-) and muscles (myopathy). The signs and symptoms of this disorder most often appear in childhoo",
+        "distance": 0.6191140413284302
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-5158669386499940373": {
+    "query_id": "-5158669386499940373",
+    "query": "alopecia",
+    "relevants": [
+      {
+        "relevant_doc": 22,
+        "relevant_url": "http://www.petmd.com/dog/conditions/endocrine/c_dg_hormone_responsive_dermatoses"
+      },
+      {
+        "relevant_doc": 23,
+        "relevant_url": "http://www.belgraviacentre.com/blog/hair-loss-after-pregnancy-and-childbirth-postpartum-alopecia/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 6229,
+        "title": "Scientists Find Possible Genetic Roots of Type of Hair Loss",
+        "url": "http://www.webmd.com/skin-problems-and-treatments/hair-loss/news/20100630/scientists-find-possible-genetic-roots-of-alopecia-areata",
+        "combined_text": "Scientists Find Possible Genetic Roots of Type of Hair Loss Scientists Find Possible Genetic Roots of Type of Hair Loss Genetic Finding Could Lead to New Targets for Treatment of Alopecia Areata, Researchers Say By Katrina Woznicki From the Web MD Archives June 30, 2010 -- Scientists have identified eight genes that may be associated with the skin disease al",
+        "distance": 0.3871740698814392
+      },
+      {
+        "id": 23,
+        "title": "Hair Loss After Pregnancy and Childbirth â Postpartum Alopecia",
+        "url": "http://www.belgraviacentre.com/blog/hair-loss-after-pregnancy-and-childbirth-postpartum-alopecia/",
+        "combined_text": "Hair Loss After Pregnancy and Childbirth â Postpartum Alopecia Hair Loss After Pregnancy and Childbirth – Postpartum Alopecia Postpartum Alopecia occurs in women two to four months after giving birth and is caused by more hairs than usual remaining in the growth phase. The normal growth process for each hair consists of 3 phases – the growth phase (2 – 8 years)",
+        "distance": 0.45045292377471924
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "7878927934233936823": {
+    "query_id": "7878927934233936823",
+    "query": "dermatitis",
+    "relevants": [
+      {
+        "relevant_doc": 24,
+        "relevant_url": "http://skin.emedtv.com/mometasone-furoate-ointment/what-is-mometasone-furoate-ointment-used-for.html"
+      },
+      {
+        "relevant_doc": 25,
+        "relevant_url": "http://dermareport.com/br/types-of-eczema.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 25,
+        "title": "Learn more about the different types of Eczema",
+        "url": "http://dermareport.com/br/types-of-eczema.html",
+        "combined_text": "Learn more about the different types of Eczema Eczema, or dermatitis, is a general description of different types of skin conditions. (“Dermatitis” means “skin inflammation.”)Atopic Eczema Atopic eczema, or atopic dermatitis (AD), is the most common type of eczema. It mainly affects children, but can also be present in adults. About 90 percent o",
+        "distance": 0.41991493105888367
+      },
+      {
+        "id": 24,
+        "title": "What Is Mometasone Furoate Ointment Used For?",
+        "url": "http://skin.emedtv.com/mometasone-furoate-ointment/what-is-mometasone-furoate-ointment-used-for.html",
+        "combined_text": "What Is Mometasone Furoate Ointment Used For? Skin Channel Topics Allergic Contact Dermatitis Alopecia Areata Atopic Dermatitis Body Lice Breast Cellulitis Cellulitis Contact Dermatitis Dermatitis Herpetiformis Facial Cellulitis Hot Tub Rash Impetigo Irritant Contact Dermatitis Leg Cellulitis Lice Lichen Sclerosus Orbital Cellulitis Perianal Ce",
+        "distance": 0.46773967146873474
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "6792767189190249293": {
+    "query_id": "6792767189190249293",
+    "query": "coffee shop",
+    "relevants": [
+      {
+        "relevant_doc": 26,
+        "relevant_url": "http://www.crimsoncup.com/coffee/how-much-does-it-cost-to-open-a-coffee-shop"
+      },
+      {
+        "relevant_doc": 27,
+        "relevant_url": "http://blog.projectionhub.com/how-to-start-a-coffee-shop-and-not-go-bankrupt/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 27,
+        "title": "How to Start a Coffee Shop and NOT Go Bankrupt",
+        "url": "http://blog.projectionhub.com/how-to-start-a-coffee-shop-and-not-go-bankrupt/",
+        "combined_text": "How to Start a Coffee Shop and NOT Go Bankrupt How to Start a Coffee Shop and NOT Go Bankrupt February 9, 2013 by Projection Hub Leave a Comment At one time or another almost every aspiring business owner I know thinks they would like to open a coffee shop someday. Usually someone is able to talk them out of it, but sometimes you find a person t",
+        "distance": 0.4586494266986847
+      },
+      {
+        "id": 2069,
+        "title": "Real-World Office Coffee Service Pricing from BuyerZone Buyers",
+        "url": "http://www.buyerzone.com/facilities/office-coffee-services/ar-prices-office-coffee-services/",
+        "combined_text": "Real-World Office Coffee Service Pricing from BuyerZone Buyers Real-World Office Coffee Service Pricing from Buyer Zone Buyers Facebook Google Plus One Twitter Linked In Email Print Flat monthly pricing Per-case charges Per-cup charges Multiple price points We regularly survey Buyer Zone users to ask how their purchases went. We've used their responses to provi",
+        "distance": 0.48532015085220337
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "1843757713302282140": {
+    "query_id": "1843757713302282140",
+    "query": "ball drop",
+    "relevants": [
+      {
+        "relevant_doc": 28,
+        "relevant_url": "http://golf.about.com/od/golfterms/g/british-ball.htm"
+      },
+      {
+        "relevant_doc": 29,
+        "relevant_url": "https://answers.yahoo.com/question/index?qid=20110216171946AADRuL2"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 3263,
+        "title": "All Ball Fave Five: Most Unlikely 50-Point Scorers",
+        "url": "http://allball.blogs.nba.com/2012/08/23/all-ball-fave-five-most-unlikely-50-point-scorers/",
+        "combined_text": "All Ball Fave Five: Most Unlikely 50-Point Scorers All Ball Fave Five: Most Unlikely 50-Point Scorers August 23, 2012 · 9:44 AM ETby Micah Hart You may have noticed it’s the offseason, which means we have plenty of time to sit around and think about many of the things that make it fun to be an NBA fan. Here at All Ball, we’ll be passing the time unt",
+        "distance": 0.5861893892288208
+      },
+      {
+        "id": 987,
+        "title": "Masse shot ball curve technique and aiming system for pool and billiards, from VEPS V (NV B.88)",
+        "url": "http://www.youtube.com/watch?v=p2XHxXypNWI",
+        "combined_text": "Masse shot ball curve technique and aiming system for pool and billiards, from VEPS V (NV B.88) Masse shot ball curve technique and aiming system for pool and billiards, from VEPS V (NV B.88)Dr Dave Billiards Subscribe 74KAdd to Share More597,061 views1,62990Published on Apr 12, 2010Streamed and download versions of the DVDs are available for purchase here: http://drdavebilliards.com/stream_vi",
+        "distance": 0.6173826456069946
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  }
+}

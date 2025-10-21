@@ -1,0 +1,101 @@
+,query_id,query,retrieved_ids,relevant_docs,precision@2,recall@2,ndcg@2,reciprocal_rank,average_precision,model_name
+0,4372396383755263125,day trips and tours from montreal,"[3450, 484]",[3450],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+1,-6173519391260506977,kudo3d titan dlp desktop printer,"[1114, 1928]",[1114],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+2,6901079948508517341,twitch prime fall game rewards,"[351, 427]",[351],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+3,-4350143629940146145,atlas v illustration for curiosity rover,"[1983, 1493]",[1983],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+4,2066642684486436408,who wrote Miley Cyrus see you again,"[2321, 1913]",[2321],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+5,-4080873214017870521,boruto returns home after two years fanfic,"[2148, 1799]",[2148],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+6,1242328756781106765,should I replace laptop internal battery,"[2032, 2874]",[93],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+7,-3549487511836225898,Kevin Gates Dreka love story,"[358, 2002]",[358],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+8,7302221144314793107,Grant Wood 1930 painting farmer and daughter,"[3676, 315]",[3676],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+9,47968713534446856,watch oscars winners and extras,"[1233, 3456]",[1233],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+10,-2049233658032578771,classic bollywood family drama 2001,"[786, 619]",[2947],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+11,9014620207225960421,restrict windows authentication to specific users,"[2113, 258]",[564],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+12,7530719542809035492,how to follow up after applying,"[372, 1731]",[1731],0.5,1.0,0.6309297535714573,0.5,0.25,minishlab_potion_retrieval_32M
+13,8562744173437084401,anyone seen headless horseman skyrim,"[2632, 2119]",[2632],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+14,3367332040229207342,how to build large home theater screen,"[3693, 443]",[443],0.5,1.0,0.6309297535714573,0.5,0.25,minishlab_potion_retrieval_32M
+15,6418625282644135994,jane lynch biography and personal stats,"[2304, 2201]",[2304],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+16,2120069292798526800,legal definition of copyright violation,"[184, 139]",[184],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+17,7636587338099612238,vinyl cutter for stickers and decals,"[3502, 3238]",[3502],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+18,-6112023032440321177,charlie harper cameo in series finale,"[1444, 1916]",[1444],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+19,-7598561368326860641,do I need a licence for great crested newts,"[3615, 1717]",[3615],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+20,-5570663910342484578,do i need multiple visual c++ redistributables,"[1356, 3696]",[1356],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+21,6628429797119916746,who is todd griglio at microsoft,"[1278, 3709]",[1278],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+22,7518318709997576547,meaning of being main character,"[2781, 23]",[3020],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+23,8579966052729198552,ivan parker gospel lyrics,"[2003, 2606]",[3642],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+24,4526980090396227807,craft beer event franklin park zoo,"[790, 1513]",[790],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+25,-7423914381494219773,preschool number printables and activities,"[402, 3219]",[402],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+26,-4247002116206834415,set up ipv6 on windows server 2008 r2,"[325, 2739]",[325],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+27,6614176067052613258,how vinyl records produce sound,"[3387, 3205]",[415],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+28,7541017095613779680,port macquarie activities video guide,"[3126, 2603]",[3126],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+29,1735505205189374203,curse client installation aborted windows 7,"[1825, 3425]",[1825],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+30,-8204265660182721430,turn off host profile MAC address prompts,"[3608, 2377]",[3608],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+31,1871395687690731609,when good to mama lyrics chicago,"[3473, 2629]",[3473],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+32,-8736438373915328528,army helicopter pilot career,"[776, 1166]",[776],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+33,-8701583225298867891,age of empires 3 all expansions bundle,"[3512, 695]",[3512],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+34,6004467793120940773,iphone text-to-speech reader app,"[881, 150]",[881],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+35,-6865044822015202712,does nfc drain battery on razr m,"[2787, 2451]",[2787],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+36,3228069418788393737,madden 15 early play limited to ea access,"[544, 2012]",[544],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+37,4113922003514828154,film about an fbi trainee confronting a cannibal,"[1875, 1936]",[2633],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+38,1354766354090916010,what order to read debbie macomber,"[322, 2644]",[322],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+39,-8890160500177477515,concatenate strings in t-sql,"[2185, 3094]",[2185],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+40,-3571546262506382363,remove pen ink from microfiber couch cushions,"[2972, 748]",[2972],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+41,7906218443046339575,disable location tracking on smartphone,"[1801, 955]",[1801],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+42,687997482469288035,transform support functions into business partners,"[798, 965]",[798],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+43,1567149216798792312,wheel of fortune game answers ps3 xbox,"[179, 3054]",[179],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+44,3422095999574432040,what is f1 racing,"[461, 2398]",[461],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+45,5771607968618605732,square reader skimming vulnerability,"[2807, 3233]",[2807],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+46,-5017844688408566190,blake shelton miranda lambert super bowl performance,"[3140, 18]",[3140],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+47,8246734187847028033,washington statewide student assessment information,"[486, 2556]",[486],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+48,-1054549194533518383,make custom class iterable c#,"[2102, 57]",[721],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+49,7635305345611855336,how to uninstall GeekBuddy from Comodo,"[2676, 3427]",[2676],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+50,-3437692049733447564,voltage drop across 60k from current source,"[1338, 766]",[1338],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+51,7327903981007770936,port orleans riverside resort info rates map,"[270, 3201]",[270],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+52,-5603239885257340960,firehouse love ballad lyrics,"[3369, 3630]",[463],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+53,7614517814969879185,computer classroom layout space guidelines,"[857, 2205]",[857],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+54,-1023619327694095404,blossom tv actress became neuroscientist,"[3196, 3105]",[3196],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+55,5630619189815900821,how car active noise cancellation works,"[1295, 1930]",[1295],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+56,8996878936205096246,bill nye educational tv show,"[3609, 21]",[3609],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+57,3827195213808235739,programming tools for data science certificate,"[1200, 820]",[1200],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+58,-6530205202719280013,sonnet quatrain count and rhyme scheme,"[2226, 2591]",[2226],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+59,2311882092518452364,javascript overview for beginners,"[3145, 2593]",[3145],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+60,-8757896319482058636,walt disney haunted mansion ring in concrete,"[32, 3172]",[32],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+61,-5891579973225468742,make a small cozy lap blanket,"[2313, 1767]",[2313],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+62,4438408522861218035,legacy microsoft version control system,"[1550, 3112]",[1550],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+63,3575398929161164043,dez character austin and ally bio,"[1671, 2598]",[1671],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+64,-1250049741496965036,symptoms of a failing pcm,"[2430, 612]",[2727],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+65,2318651084569576130,bermuda monthly sea temperatures,"[3736, 659]",[3736],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+66,-9105185607130073072,where was top chef season 14 filmed,"[1938, 1430]",[1938],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+67,-8157422731193424426,movie about tobacco whistleblower,"[819, 2410]",[3260],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+68,-4464505332791414966,hp support assistant plugin file info,"[2897, 2605]",[2897],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+69,7937871392196453515,what killed slayer guitarist jeff hanneman,"[2791, 252]",[2791],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+70,454042705596389976,Roost beer garden live music schedule,"[3536, 1505]",[3536],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+71,8613177062780253767,how to open odm file,"[321, 621]",[321],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+72,7507410200454312445,Emerson Thoreau nature philosophy,"[674, 1153]",[14],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+73,6823078699561974828,vera farmiga films and awards,"[2309, 2643]",[2309],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+74,-1426995754132138800,museum of british art millbank london,"[1600, 1886]",[1600],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+75,3001782006706180809,lil wayne shooting incidents count,"[3447, 2121]",[3447],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+76,2507872289014404549,activate voicemail on ting phone,"[2918, 478]",[2918],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+77,1865268289768225040,network packet analyzer tools comparison,"[3526, 2347]",[3526],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+78,7481904456867988244,fort hall slot machines and coupons,"[3010, 1245]",[3010],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+79,-5183856530086885779,things to do in nyack ny,"[1032, 3609]",[1032],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+80,-3704459070711237574,bill nighy david hare spy drama,"[1993, 483]",[1993],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+81,-3602758106453120727,clear past searches on Google and Bing,"[149, 2444]",[149],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+82,-2892169954186862914,which canadian city should i move to,"[339, 3450]",[2359],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+83,7900513359353274931,alexander graham bell early life edinburgh,"[465, 1853]",[465],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+84,8333470516050382347,how search bots find new pages,"[2302, 2444]",[2302],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+85,-2725995819459334133,what was peanuts first called,"[3665, 50]",[3665],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+86,-8026978039860498990,entry level it technician pay by state,"[2691, 1003]",[2691],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+87,-8917826809561139443,mvc partial views and layout guide,"[3727, 2120]",[3727],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+88,-2438654286123309120,mendeecees harris released on bond,"[907, 504]",[907],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+89,6344531972610156188,how neoliberal political propaganda works,"[811, 28]",[811],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+90,4806723285425111441,meaning of jordan almonds at weddings,"[1621, 532]",[1621],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+91,-8166145514043291140,pike stranded in lake roosevelt drawdown,"[736, 2293]",[736],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+92,-4109147542709473703,ingrid bergman hitchcock collaborations,"[969, 2552]",[969],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+93,-6331660122500557098,buy white king squab pigeons,"[263, 109]",[263],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+94,6855080134086073492,cisco beginner network certification,"[1003, 1892]",[1003],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+95,-7943926726860063598,how to calculate imei check digit,"[818, 1950]",[818],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+96,-7988776718700120731,how wealthy is mariah carey,"[17, 1227]",[17],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+97,-8061703277650624661,windows thread priority levels,"[3616, 2436]",[3616],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+98,-3705535549578977607,samuel l jackson toughest movie roles,"[229, 368]",[229],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+99,-2144060862130449717,where to watch christina moore,"[1163, 1960]",[1960],0.5,1.0,0.6309297535714573,0.5,0.25,minishlab_potion_retrieval_32M

@@ -1,0 +1,101 @@
+,query_id,query,retrieved_ids,relevant_docs,precision@2,recall@2,ndcg@2,reciprocal_rank,average_precision,model_name
+0,-3953082338946657302,current and voltage in series vs parallel,"[2442, 1483]",[2442],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+1,3041289951361205067,term for animals without a body cavity,"[418, 2318]",[2318],0.5,1.0,0.6309297535714573,0.5,0.25,Xenova_all_MiniLM_L6_v2
+2,1092164457215367353,what does portend mean,"[351, 2068]",[351],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+3,5525703207433232298,tips for choosing a learning platform,"[2288, 1469]",[2288],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+4,-5701476972439523136,mylanta antacid definition,"[2044, 1696]",[2044],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+5,5727239889888827929,liberal arts college in newberry sc,"[2031, 4030]",[2031],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+6,-4228602394756576617,how big is a normal thyroid,"[3164, 3485]",[3164],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+7,-1735443170193150801,steps to calculate moles of calcium carbonate,"[1866, 3371]",[1866],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+8,8336010941429635137,surgical procedure to open windpipe,"[594, 1122]",[594],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+9,-6602323320345827623,scholarships for lawyers to attend IBA conference,"[3260, 2118]",[3260],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+10,8607503295496926594,how did the Great Awakening change religion,"[690, 1811]",[690],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+11,4184823072675443338,how to start a nonprofit in michigan,"[2281, 3278]",[2281],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+12,1603985430451796526,best time to eat around workouts,"[150, 3138]",[150],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+13,6433737454602104749,can my manufactured home be repossessed,"[1652, 2509]",[1652],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+14,-3315816365164085160,recognize high or low blood sugar,"[3188, 1785]",[238],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+15,-9103655948031658014,principles of good governance in development,"[3130, 3061]",[3130],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+16,-8732019279986480992,which gecko species live in south florida,"[1034, 1095]",[1034],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+17,3907933845486153055,definition and examples of disparage,"[3209, 2610]",[3209],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+18,876607847205230067,boudin san francisco calorie guide,"[1992, 3213]",[1992],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+19,405113964407719720,things to do in Gironde,"[2628, 3071]",[2628],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+20,5495358780662719329,becoming a hampton inn franchisee,"[1952, 852]",[1952],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+21,-1067178449691660668,where does the body store triglycerides,"[1598, 2775]",[1598],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+22,-2699408206839766501,what does financing mean,"[1467, 1426]",[1467],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+23,-5201781837210395195,meaning of day-to-day operations,"[3907, 202]",[3907],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+24,2855975560016267809,meaning of SIC description field,"[3595, 2572]",[3595],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+25,5223994805368882807,how can 27 be a quotient,"[3719, 2753]",[3719],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+26,1584948585031417682,pre-Columbian Americas and oceania history,"[2132, 419]",[2132],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+27,7937537989750659397,best areas to stay in krabi ao nang,"[3751, 2609]",[3751],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+28,-4622687789750958005,how to contact land registry,"[1128, 2421]",[1128],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+29,-6329861589772703556,strong smell in early pregnancy predict sex,"[2342, 1341]",[2342],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+30,-4419930310445827582,late night bars and clubs albufeira,"[3914, 487]",[3914],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+31,-1245511734592969731,knee problems in nail patella syndrome,"[298, 1230]",[298],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+32,4728237806260531552,7th grade medieval China flashcards,"[2564, 441]",[2564],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+33,-4532703867844129841,drugs that block aldosterone,"[2114, 3771]",[2114],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+34,-7218054133551030562,how tutors differ from teachers,"[1309, 4191]",[1309],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+35,-5813835246190428785,which bikini wax style suits me,"[371, 403]",[371],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+36,-4705278390912479116,steps to start a mechanical engineering career,"[2627, 934]",[2627],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+37,2152306438710641735,how duke ellington influenced the harlem renaissance,"[2619, 1789]",[2619],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+38,-1407137208308338226,gmu graduate student survey ratings,"[3374, 344]",[3374],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+39,-194514318338987026,do gel manicures damage nails,"[366, 171]",[366],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+40,6963588837848114818,list of independent federal agencies,"[4082, 3879]",[4082],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+41,7997949418914843866,where major shipping ports cluster,"[3859, 1793]",[3859],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+42,3829450792517387811,where to buy serum for cell culture,"[2086, 725]",[2086],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+43,-311842692446923937,loves park il population weather maps,"[2413, 2942]",[2413],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+44,-8849420286198225046,intro to human diversity flashcards,"[2406, 2245]",[2406],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+45,-3921260394033826153,udon thani travel reviews and hotels,"[764, 3160]",[764],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+46,5526203743777967165,luxury all-inclusive Montego Bay resort,"[879, 32]",[879],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+47,8536955236500706181,tiger top running speed,"[3818, 1593]",[1593],0.5,1.0,0.6309297535714573,0.5,0.25,Xenova_all_MiniLM_L6_v2
+48,814711663602548512,where do ny lottery proceeds go,"[2090, 3182]",[2090],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+49,5125956773970453818,reasons behind andrew johnson's impeachment,"[1621, 3580]",[1621],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+50,2096251186893042488,cells with membrane-bound nucleus,"[3697, 3558]",[3697],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+51,9036170314383540556,claire underwood power dressing,"[794, 1402]",[794],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+52,-905182533673892634,when to visit a kidney specialist,"[1436, 2046]",[1436],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+53,3267503459401040765,phone number for holiday inn booking,"[2464, 220]",[2464],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+54,-4212487482012053358,nashville efforts to end chronic homelessness,"[205, 4155]",[205],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+55,6252991276069255254,when did oklahoma join the union,"[3951, 1855]",[3951],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+56,-7180125349822366886,what creates light pollution,"[2333, 1812]",[2333],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+57,1327289990035927041,metformin sitagliptin combination uses and safety,"[3673, 3354]",[3673],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+58,-71958734461026929,hand numbness causes besides typing,"[175, 2456]",[175],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+59,-726503382171051464,which jet sounds loudest without afterburners,"[2873, 1049]",[2873],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+60,-3734793355842300677,book shinkansen after arriving Narita or Haneda,"[1922, 786]",[149],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+61,-3533200285386686,ways to add antioxidant-rich foods,"[3973, 528]",[3973],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+62,-290979239442577395,how long germs survive on surfaces,"[3273, 97]",[3273],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+63,-7196038989535548487,walk-in flu shots no appointment,"[2994, 1626]",[1626],0.5,1.0,0.6309297535714573,0.5,0.25,Xenova_all_MiniLM_L6_v2
+64,1267096660524331921,grieving mothers endorse Clinton at DNC,"[3016, 2294]",[3016],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+65,7235884972453564877,body system that transports oxygen and nutrients,"[903, 3120]",[903],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+66,7480524582057420292,how csf circulates in the brain,"[2498, 1641]",[2498],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+67,-188964432730606241,ancient exposed precambrian rock region canada,"[2989, 1872]",[2989],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+68,-5222693242873164475,how oracle sql patches work,"[3423, 357]",[3423],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+69,-7549311530425494764,pregnancy symptoms and baby milestones,"[330, 2163]",[330],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+70,-387931727355275948,internal medicine doctor Grace Cho Cooper,"[1322, 0]",[1322],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+71,3902800277770564616,is Himalayan red honey toxic,"[2144, 931]",[2144],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+72,-2975555881301060026,accessible spa hotel Salou Costa Dorada,"[96, 1318]",[96],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+73,-7540275141885339161,how relationships affect success and happiness,"[1163, 2955]",[1163],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+74,-4535855000572387279,meaning of beaner slur,"[1556, 3705]",[1556],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+75,2014762569863901176,celebrity trainer belly fat tips,"[2884, 311]",[2884],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+76,-7602394159290865859,current weather conditions fall city washington,"[705, 1637]",[705],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+77,-896876405886309702,books Darwin carried on the Beagle,"[2439, 2592]",[2439],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+78,-4903183424396896973,name for a seven-sided shape,"[3730, 2902]",[3730],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+79,-4214984425641464774,what materials conduct heat and electricity,"[3707, 34]",[3707],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+80,2934881095546202611,clinton donor influence over cnn,"[2354, 3484]",[2354],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+81,-3685490509903287931,when to see doctor for low back pain,"[2827, 1062]",[2827],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+82,-1004006720022992306,fix worn wooden drawer slides,"[84, 2897]",[84],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+83,6030592821178043048,state-by-state car tint limits,"[3391, 3259]",[3391],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+84,-5570493198767894876,pay maryville utilities and taxes online,"[270, 1485]",[270],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+85,493080671075588901,what factors change the weather,"[1370, 2962]",[1370],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+86,-4964420079564463439,budget circle island and pearl harbor tour honolulu,"[184, 3362]",[184],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+87,8039459330351244258,what does ethnic composition mean,"[109, 2231]",[109],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+88,3792148542535642749,how occupational science studies daily function,"[490, 1915]",[490],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+89,5509167194957109867,muskegon opinion on 50th anniversary of mlk letter,"[999, 1789]",[999],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+90,5996977300522734787,letters and accent marks in french,"[2949, 1759]",[2949],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+91,3340636172833989360,lind washington community profile,"[1108, 1945]",[1108],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+92,-8051919279393792125,key findings of ipcc fourth report,"[4058, 3848]",[4058],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+93,-4826519258479160499,definitions of common sewing terms,"[4111, 1778]",[4111],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+94,4132137427946187271,kenya ecotourism environmental and community impacts,"[3452, 3811]",[3452],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+95,8075971988473629166,stephen lawrence case timeline undercover policing,"[3657, 4196]",[3657],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+96,-2130132200862212319,which countries operate aircraft carriers,"[2496, 2539]",[2496],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+97,4897719958305809403,documents needed for international shipments,"[3013, 2024]",[3013],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+98,4152739358738281567,when do hormones settle after having a baby,"[3544, 2163]",[3544],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+99,-6392978621254646389,meaning of blossom as a verb,"[3678, 2319]",[3678],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2

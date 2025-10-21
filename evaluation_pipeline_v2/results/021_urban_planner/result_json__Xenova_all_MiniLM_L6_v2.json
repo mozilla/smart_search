@@ -1,0 +1,2802 @@
+{
+  "-3147787402651357802": {
+    "query_id": "-3147787402651357802",
+    "query": "man jailed as teen for decades paroled",
+    "relevants": [
+      {
+        "relevant_doc": 265,
+        "relevant_url": "https://en.wikipedia.org/wiki/Paul_Geidel"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 265,
+        "title": "Paul Geidel",
+        "url": "https://en.wikipedia.org/wiki/Paul_Geidel",
+        "combined_text": "Paul Geidel \"From Wikipedia, the free encyclopedianavigation search Paul Geidel Jr. (April 21, 1894 – May 1, 1987) was the longest-serving prison inmate in the United States, whose sentence ended with his parole. After being convicted of second-degree murder in 1911, aged 17, Geidel served 68 years and 245 days",
+        "distance": 0.53451007604599
+      },
+      {
+        "id": 788,
+        "title": "Why Marinol Is Not As Good As Real Marijuana",
+        "url": "http://www.theweedblog.com/why-marinol-is-not-as-good-as-real-marijuana/",
+        "combined_text": "Why Marinol Is Not As Good As Real Marijuana Why Marinol Is Not As Good As Real Marijuanaby The Weed Blog Mar 5, 2012I received a call from an attorney in Eugene that is representing a medical marijuana patient that is on probation The judge is willing to allow the medical marijuana patient to use Marinol while he serves his probation, but not",
+        "distance": 0.6974287629127502
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "442654389854230212": {
+    "query_id": "442654389854230212",
+    "query": "uk tier 4 study time limits",
+    "relevants": [
+      {
+        "relevant_doc": 101,
+        "relevant_url": "http://www2.warwick.ac.uk/study/international/immigration/tier4/length/5-year_cap_on"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 101,
+        "title": "Time limits on UK study",
+        "url": "http://www2.warwick.ac.uk/study/international/immigration/tier4/length/5-year_cap_on",
+        "combined_text": "Time limits on UK study On 6 April 2012, the UKVI (Home Office UK Visas & Immigration) introduced limits as to how long a Tier 4 student would be permitted to stay in the UK studying at various levels (study cap).2-year-cap: for sub-degree level courses such as Warwick International Foundation programme, Diploma course and",
+        "distance": 0.1464085429906845
+      },
+      {
+        "id": 107,
+        "title": "Tier 2 - Sponsorship by UK Companies",
+        "url": "http://www.gherson.com/immigration/tier-2-visa/",
+        "combined_text": "Tier 2 - Sponsorship by UK Companies Immigration Corporate Immigration Tier 1 - High net worth clients Tier 2 - Sponsorship by UK Companies Tier 4 - Students Tier 5 - Temporary Workers Visiting the UKWorking in the UKSports Immigration Send us an enquiry Contact Us For advice on immigration, nationality or human rights, please contact",
+        "distance": 0.6227049827575684
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-8702406758679024475": {
+    "query_id": "-8702406758679024475",
+    "query": "how disposable diapers absorb moisture",
+    "relevants": [
+      {
+        "relevant_doc": 1045,
+        "relevant_url": "https://www.thoughtco.com/how-disposable-diapers-work-607891"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1045,
+        "title": "How Do Disposable Diapers Work? Why Do They Leak?",
+        "url": "https://www.thoughtco.com/how-disposable-diapers-work-607891",
+        "combined_text": "How Do Disposable Diapers Work? Why Do They Leak? \"Science, Tech, Math ›Science How Do Disposable Diapers Work? Why Do They Leak? Diaper Chemistry Share Flipboard Email Print Disposable diapers hold more water than they do other liquids. Stephanie Neal Photography/Getty Imagesby Anne Marie Helmenstine, Ph. D. Updated March 16, 2017Question: How Do",
+        "distance": 0.33462831377983093
+      },
+      {
+        "id": 495,
+        "title": "How to Clean Underground Gutter Drains",
+        "url": "http://homeguides.sfgate.com/clean-underground-gutter-drains-28281.html",
+        "combined_text": "How to Clean Underground Gutter Drains \"Related Articles How to Put Downspouts Underground How to Drain Water From the Side of a House How to Unclog a Landscape Drain Pipe How to Clean Gutters That Have Mesh Covering Your home's main gutter system gathers rainwater from the roof line and controls its path down the house to ground; but th",
+        "distance": 0.7165288329124451
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-3676223031352623258": {
+    "query_id": "-3676223031352623258",
+    "query": "rubric for assessing student civic engagement",
+    "relevants": [
+      {
+        "relevant_doc": 792,
+        "relevant_url": "https://www.aacu.org/civic-engagement-value-rubric"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 792,
+        "title": "Civic Engagement VALUE Rubric",
+        "url": "https://www.aacu.org/civic-engagement-value-rubric",
+        "combined_text": "Civic Engagement VALUE Rubric \"Civic Engagement VALUE Rubric The VALUE rubrics were developed by teams of faculty experts representing colleges and universities across the United States through a process that examined many existing campus rubrics and related documents for each learning outcome and incorporated additional feedbac",
+        "distance": 0.17090269923210144
+      },
+      {
+        "id": 89,
+        "title": "What is the difference between âgraduate studentsâ and âpostgraduate studentsâ?",
+        "url": "https://english.stackexchange.com/questions/148849/what-is-the-difference-between-graduate-students-and-postgraduate-students",
+        "combined_text": "What is the difference between âgraduate studentsâ and âpostgraduate studentsâ? \"_English Language & Usage Stack Exchange is a question and answer site for linguists, etymologists, and serious English language enthusiasts. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the t",
+        "distance": 0.6444439888000488
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-9088289077939368445": {
+    "query_id": "-9088289077939368445",
+    "query": "north plainfield court phone address",
+    "relevants": [
+      {
+        "relevant_doc": 902,
+        "relevant_url": "http://www.town-court.com/NJ/somerset-county/north-plainfield-municipal-court"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 902,
+        "title": "North Plainfield Municipal Court",
+        "url": "http://www.town-court.com/NJ/somerset-county/north-plainfield-municipal-court",
+        "combined_text": "North Plainfield Municipal Court Menu Contact this court Find lawyers Get directions Read articles Nearby courts Corrections North Plainfield Municipal Court Phone 908-769-2265Map Google Map Mailing Address North Plainfield Municipal Court 263 Somerset Street, North Plainfield, NJ 07060Street Address 263 Somerset St, North Plainfie",
+        "distance": 0.2686508893966675
+      },
+      {
+        "id": 36,
+        "title": "Receive the Latest Info!",
+        "url": "http://www.cookcountyclerkofcourt.org/?section=DDPage&DDPage=2800",
+        "combined_text": "Receive the Latest Info! District 2Building Name Second Municipal District Courthouse Address 5600 Old Orchard Road Room 136 Skokie , IL 60077Chief Deputy Clerk Sherri Kolodziej Assistant Chief Deputy Clerk Denise Shine Hours 8:30 a.m. to 4:30 p.m., Monday through Friday, Excluding Court Holidays Telephone Numbers (847) 470",
+        "distance": 0.6155954003334045
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "4949326258737048126": {
+    "query_id": "4949326258737048126",
+    "query": "maine town near portsmouth nh",
+    "relevants": [
+      {
+        "relevant_doc": 467,
+        "relevant_url": "https://en.wikipedia.org/wiki/Eliot,_Maine"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 467,
+        "title": "Eliot, Maine",
+        "url": "https://en.wikipedia.org/wiki/Eliot,_Maine",
+        "combined_text": "Eliot, Maine \"Eliot, Maine From Wikipedia, the free encyclopedianavigation search Eliot, Maine Town William Fogg Library, c. 1919Eliot Coordinates: 43°8′8″N 70°47′37″WCoordinates: 43°8′8″N 70°47′37″WCountry United States State Maine County York Incorporated 1810Government• Type Town Meeting• Board of Selectmen R",
+        "distance": 0.5323812961578369
+      },
+      {
+        "id": 1008,
+        "title": "Portland, Pennsylvania",
+        "url": "http://www.city-data.com/city/Portland-Pennsylvania.html",
+        "combined_text": "Portland, Pennsylvania \"Follow city-data.com founder on our Forum or@Lech Mazur Portland, Pennsylvaniaadd your Submit your own pictures of this borough and show them to the World See promotion details and to upload your Portland, Pennsylvania photos OSM Map General Map Google Map MSN Map Population in 2014: 514 (0% urban,",
+        "distance": 0.5891578793525696
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "8290212016947387592": {
+    "query_id": "8290212016947387592",
+    "query": "thailand country overview geography economy",
+    "relevants": [
+      {
+        "relevant_doc": 781,
+        "relevant_url": "http://www.nationsencyclopedia.com/economies/Asia-and-the-Pacific/Thailand.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 781,
+        "title": "THAILAND",
+        "url": "http://www.nationsencyclopedia.com/economies/Asia-and-the-Pacific/Thailand.html",
+        "combined_text": "THAILAND \"THAILANDFollow City-Data.com founder on our Forum or @Lech Mazur Photo by: Kate Shephard Kingdom of Thailand COUNTRY OVERVIEWLOCATION AND SIZE. Situated in Southeast Asia, Thailand is adjoined to Laos and Burma (Myanmar) to the north, Cambodia and the Gulf of Thailand to the east, Burma and the And",
+        "distance": 0.3293188810348511
+      },
+      {
+        "id": 530,
+        "title": "Netherlands",
+        "url": "http://wikitravel.org/en/Netherlands",
+        "combined_text": "Netherlands \"Netherlands Book a Hotel In Out Check Rates Understand History Culture Geography Climate Country name Get in By plane By train By bus By car By boat From Belgium Get around Public Transport tickets By train By bus Metro, tram Travel information By car By taxi By thumb By bicycle By plane See Tradit",
+        "distance": 0.5816009044647217
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-6255568344961022358": {
+    "query_id": "-6255568344961022358",
+    "query": "paediatric bronchiolitis clinical management",
+    "relevants": [
+      {
+        "relevant_doc": 306,
+        "relevant_url": "https://patient.info/doctor/bronchiolitis-pro"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 306,
+        "title": "Bronchiolitis",
+        "url": "https://patient.info/doctor/bronchiolitis-pro",
+        "combined_text": "Bronchiolitis Paediatrics Save Print Share Actions Bronchiolitis Authored by Dr Laurence Knott, 28 Jun 2013This article is for Medical Professionals In this article Causes Epidemiology Presentation Differential diagnosis Investigations Management Prognosis Prevention Bronchiolitis is an acute infectious disease o",
+        "distance": 0.273258775472641
+      },
+      {
+        "id": 398,
+        "title": "Tracheotomy",
+        "url": "https://en.wikipedia.org/wiki/Tracheotomy",
+        "combined_text": "Tracheotomy \"From Wikipedia, the free encyclopedianavigation search This article is about the surgical procedure called a tracheotomy. For a similar procedure, see Cricothyrotomy. Tracheotomy Completed tracheotomy:1 – Vocal folds 2 – Thyroid cartilage 3 – Cricoid cartilage 4 – Tracheal rings5 – Balloon cuff ICD",
+        "distance": 0.6427376866340637
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "4813927641482903475": {
+    "query_id": "4813927641482903475",
+    "query": "how long until cannabis seeds ripen",
+    "relevants": [
+      {
+        "relevant_doc": 128,
+        "relevant_url": "https://www.marijuanagrowing.eu/threads/how-long-does-it-take-seeds-to-mature.31985/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 128,
+        "title": "How long does it take seeds to mature ?",
+        "url": "https://www.marijuanagrowing.eu/threads/how-long-does-it-take-seeds-to-mature.31985/",
+        "combined_text": "How long does it take seeds to mature ? A family crisis took me out of town for about 2 weeks. I came back expecting my plants to be dead ... but they were alive and actually healthy. Unfortunately one of the plants was a male and ended up pollenating two females. I decided to go ahead and let them grow hoping for a good crop of seeds ...",
+        "distance": 0.4823754131793976
+      },
+      {
+        "id": 391,
+        "title": "I Got A Marijuana Prescription And Pot In Minutes Without Leaving My Couch",
+        "url": "https://www.forbes.com/sites/ryanmac/2015/06/30/eaze-doctor-online-prescription-marijuana-pizza-couch/",
+        "combined_text": "I Got A Marijuana Prescription And Pot In Minutes Without Leaving My Couch Ryan Mac Forbes Staff Tech 6/30/2015 @ 8:58AM 101,912 views I Got A Marijuana Prescription And Pot In Minutes Without Leaving My Couch I’ll begin this story with a disclaimer: I rarely smoke weed. Aside from the few times that I’ve tried it recreationally, marijuana has never really appealed to me a",
+        "distance": 0.6762329936027527
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-2273845154094055581": {
+    "query_id": "-2273845154094055581",
+    "query": "bridge shapes strength experiment for kids",
+    "relevants": [
+      {
+        "relevant_doc": 332,
+        "relevant_url": "https://www.education.com/science-fair/article/building-the-best-bridge/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 332,
+        "title": "Bridge Project",
+        "url": "https://www.education.com/science-fair/article/building-the-best-bridge/",
+        "combined_text": "Bridge Project Grade Level: 4th - 6th; Type: Physics, Engineering Objective: This project explores the basic physics of bridges. The goal is that the student will develop an understanding through experimentation of which shapes are the most structurally strong, and that many factors are taken into account in engin",
+        "distance": 0.3018588125705719
+      },
+      {
+        "id": 9,
+        "title": "The Worldâs Highest Bridge Will Open in China This Year",
+        "url": "http://www.travelandleisure.com/culture-design/architecture-design/worlds-highest-bridge",
+        "combined_text": "The Worldâs Highest Bridge Will Open in China This Year T+L Culture + Design Architecture + Design China The World’s Highest Bridge Will Open in China This Year Getty Images The bridge spans 2,362 feet between mountains, 1,854 feet above the Beipan River. Cailey Rizzo September 13, 2016China’s never-ending quest for the most impressive bridges just reach",
+        "distance": 0.6526272296905518
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-6407532234103088373": {
+    "query_id": "-6407532234103088373",
+    "query": "lessons from business fraud cases",
+    "relevants": [
+      {
+        "relevant_doc": 1087,
+        "relevant_url": "http://preventbusinessfraud.com/case-studies/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1087,
+        "title": "Case Studies",
+        "url": "http://preventbusinessfraud.com/case-studies/",
+        "combined_text": "Case Studies Case Studies Case Studies – Learn From the Unfortunate Experiences of Others We are most fortunate anytime we have the opportunity to learn from the misjudgments of others and not through personal experiences. Business Fraud: From Trust To Betrayal is loaded with behind the scenes analysis of actual",
+        "distance": 0.21987241506576538
+      },
+      {
+        "id": 339,
+        "title": "Illusory promise",
+        "url": "https://en.wikipedia.org/wiki/Illusory_promise",
+        "combined_text": "Illusory promise \"Contract law Part of the common law series Contract formation Offer and acceptance Posting rule Mirror image rule Invitation to treat Firm offer Consideration Implication-in-fact Collateral contract Defenses against formation Lack of capacity Duress Undue influence Illusory promise Statute of fraud",
+        "distance": 0.5731199979782104
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-4726796806622407655": {
+    "query_id": "-4726796806622407655",
+    "query": "how to find melbourne phone numbers",
+    "relevants": [
+      {
+        "relevant_doc": 88,
+        "relevant_url": "http://www.onlymelbourne.com.au/find-a-telephone-number"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 88,
+        "title": "Find a Telephone Number",
+        "url": "http://www.onlymelbourne.com.au/find-a-telephone-number",
+        "combined_text": "Find a Telephone Number Find a Telephone Number Links and information on how to find a telephone number in Melbourne. Directory Assistance Telephone 1223Emergency - Police, Ambulance and Fire Brigade: 000Important Information and Telephone Numbers When dialling from interstate the area code for Melbourne (and Victoria) is",
+        "distance": 0.30878716707229614
+      },
+      {
+        "id": 498,
+        "title": "Australian Tax Office (ATO) Phone Number",
+        "url": "https://gethuman.com/phone-number/Australian-Tax-Office-ATO",
+        "combined_text": "Australian Tax Office (ATO) Phone Number Australian Tax Office (ATO) Phone Number Calling Australian Tax Office (ATO) customer service faster by Get Human13 28 61Customer service Current Wait: 6 mins (4m avg)Hours: 24 hours, 7 days Best time to call: 2:30pm Ranked #1 of 3 contact options Contacting Australian Tax Office (ATO)204 customers",
+        "distance": 0.5131176114082336
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-6146406706245188279": {
+    "query_id": "-6146406706245188279",
+    "query": "psa meaning in the navy",
+    "relevants": [
+      {
+        "relevant_doc": 950,
+        "relevant_url": "http://www.acronymfinder.com/Post-Shakedown-Availability-(US-Navy)-(PSA).html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 950,
+        "title": "What does PSA stand for?",
+        "url": "http://www.acronymfinder.com/Post-Shakedown-Availability-(US-Navy)-(PSA).html",
+        "combined_text": "What does PSA stand for? \"What does PSA stand for? PSA stands for Post Shakedown Availability (US Navy)Suggest new definition This definition appears frequently and is found in the following Acronym Finder categories: Military and Government See other definitions of PSAOther Resources: We have 810 other meanings of PSA in o",
+        "distance": 0.2816231846809387
+      },
+      {
+        "id": 1069,
+        "title": "Defense Support of Civil authorities",
+        "url": "https://en.wikipedia.org/wiki/Defense_Support_of_Civil_authorities",
+        "combined_text": "Defense Support of Civil authorities \"This article is about current practice in the United States. For a more historical and international perspective, see Military aid to the civil power. Defense Support of Civil Authorities ( DSCA) is the process by which United States military assets and personnel can be used to assist in missions n",
+        "distance": 0.6271900534629822
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-3340159267487464394": {
+    "query_id": "-3340159267487464394",
+    "query": "how to write a nursing philosophy",
+    "relevants": [
+      {
+        "relevant_doc": 477,
+        "relevant_url": "http://toallnurses.blogspot.com/2011/02/my-nursing-philosophy.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 477,
+        "title": "My Nursing Philosophy",
+        "url": "http://toallnurses.blogspot.com/2011/02/my-nursing-philosophy.html",
+        "combined_text": "My Nursing Philosophy My Nursing Philosophy Before I describe my philosophy of nursing, I need to define the term “nursing philosophy”. A basic definition offered by a dictionary, suggests that philosophy is the critical study of the basic principles and concepts of a particular branch of knowledge, especially with a vie",
+        "distance": 0.2854037880897522
+      },
+      {
+        "id": 924,
+        "title": "Nursing, a 'caring' profession or are we so much more?",
+        "url": "http://allnurses.com/general-nursing-discussion/nursing-a-caring-796167.html",
+        "combined_text": "Nursing, a 'caring' profession or are we so much more? \"Latest Articles Products Conferences Nurses › General Nursing ›Nursing, a 'caring' profession or are we so much more?by madwife2002, BSN, RN (Updated: Nov 7, '12) Views: 7,437 Comments: 9 Reading: 3 minutes (959 Words) Article9Nursing, a caring profession or is this a lame description? Caring is su",
+        "distance": 0.6001303791999817
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-7683227924200700142": {
+    "query_id": "-7683227924200700142",
+    "query": "quicken executive team contact",
+    "relevants": [
+      {
+        "relevant_doc": 593,
+        "relevant_url": "https://www.quicken.com/about-us/team"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 593,
+        "title": "Eric Dunn, CEO",
+        "url": "https://www.quicken.com/about-us/team",
+        "combined_text": "Eric Dunn, CEO Do you have a question, concern or feedback about a Quicken product or service? Send an email to the Office of the President and we'll respond quickly and make sure it gets to the correct leader. Eric Dunn, CEOEric Dunn is the CEO of Quicken Inc. He has been an avid Quicken user since 1985 and conti",
+        "distance": 0.3711117208003998
+      },
+      {
+        "id": 110,
+        "title": "Find your connection on LinkedIn",
+        "url": "https://www.linkedin.com/pub/dir/emily/voss",
+        "combined_text": "Find your connection on LinkedIn Emily Voss Talent Acquisition Consultant at Grainger Greater Chicago Area Human Resources Current Talent Acquisition Consultant - University Relations at Grainger Past Talent Acquisition Specialist - University Relations at Grainger, Recruitment Specialist at Medline Industries, Inc., Rebate Manager",
+        "distance": 0.6897610425949097
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-7812987413523307409": {
+    "query_id": "-7812987413523307409",
+    "query": "why athletes fail under pressure",
+    "relevants": [
+      {
+        "relevant_doc": 972,
+        "relevant_url": "https://en.wikipedia.org/wiki/Choke_(sports)"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 295,
+        "title": "Sport psychologists",
+        "url": "http://www.apa.org/helpcenter/sport-psychologists.aspx",
+        "combined_text": "Sport psychologists Sport psychologists help professional and amateur athletes overcome problems, enhance their performance and achieve their goals. How sport psychology helps athletes When basketball player Ron Artest of the Los Angeles Lakers credited psychological help for some of his success on the court, some comm",
+        "distance": 0.5734634399414062
+      },
+      {
+        "id": 542,
+        "title": "Challenges Facing Today's Manufacturing Industry",
+        "url": "https://www.americanexpress.com/us/small-business/openforum/articles/challenges-facing-todays-manufacturing-industry/",
+        "combined_text": "Challenges Facing Today's Manufacturing Industry Building Your Team • Hiring & HRChallenges Facing Today's Manufacturing Industry Despite an abundance of obstacles, the biggest challenge facing the manufacturing sector is a lack of skilled training. Angela Stringfellow Chief Ideation Officer, CODA Concepts, LLCFollow Your favorites is where you ca",
+        "distance": 0.7576208710670471
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "2001021904874015062": {
+    "query_id": "2001021904874015062",
+    "query": "what to know about hep b vaccine",
+    "relevants": [
+      {
+        "relevant_doc": 1040,
+        "relevant_url": "https://www.cdc.gov/vaccines/hcp/vis/vis-statements/hep-b.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1040,
+        "title": "Hepatitis B VIS",
+        "url": "https://www.cdc.gov/vaccines/hcp/vis/vis-statements/hep-b.html",
+        "combined_text": "Hepatitis B VIS On This Page Why get vaccinated? Hepatitis B vaccine Some people should not get this vaccine Who should not get hepatitis B vaccine? What if there is a serious problem? The National Vaccine Injury Compensation Program How can I learn more? Current Edition Date: 7/20/2016Print VIS [2 pages]Do you sti",
+        "distance": 0.442555695772171
+      },
+      {
+        "id": 711,
+        "title": "FDA Approves Prevnar, New and Improved with a 30% Price Increase",
+        "url": "http://parentingsquad.com/prevnar-and-kids",
+        "combined_text": "FDA Approves Prevnar, New and Improved with a 30% Price Increase Posted March 4, 2010 by Lela Davidson Photo: Nathan F, Flickr Tweet I recently wrote about Pfizer’s reformulated Prevnar 13, the ‘anti-infection’ vaccine that is intended to protect against pneumococcal disease, including meningitis, pneumonia, and ear infections. Its approval had been delayed by th",
+        "distance": 0.6187140941619873
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "1190508118295407760": {
+    "query_id": "1190508118295407760",
+    "query": "should i choose a combi boiler uk",
+    "relevants": [
+      {
+        "relevant_doc": 44,
+        "relevant_url": "http://www.diyfaq.org.uk/plumbing/combi.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 44,
+        "title": "Combi Boilers",
+        "url": "http://www.diyfaq.org.uk/plumbing/combi.html",
+        "combined_text": "Combi Boilers \"Combi Boilers Introduction to Combination Boilers By Clive E, with guidance from Ed Sirret This FAQ was put first together in November 2000 following much debate in the uk.d-i-y newsgroup on the topic of Combination boilers, their strengths and weaknesses, how to chose them, and the latest trends i",
+        "distance": 0.3440183103084564
+      },
+      {
+        "id": 496,
+        "title": "Boiler",
+        "url": "http://cset.mnsu.edu/engagethermo/components_boiler.html",
+        "combined_text": "Boiler \"Boilers are vessels that are used to transfer heat produced by the combustion process to a fluid, most commonly steam. The steam or hot water is then pressurized and distributed for applications such as heating and power generation. Boiler at MNSU [129]. CONTENTSBoiler Systems Water Tube Boilers Ho",
+        "distance": 0.5675438046455383
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "4670838070505345979": {
+    "query_id": "4670838070505345979",
+    "query": "DIY faded whitewash brick finish",
+    "relevants": [
+      {
+        "relevant_doc": 274,
+        "relevant_url": "http://www.askthebuilder.com/whitewashing-brick/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 274,
+        "title": "Whitewashing Brick",
+        "url": "http://www.askthebuilder.com/whitewashing-brick/",
+        "combined_text": "Whitewashing Brick \"Whitewashing Brick Painting - Staining | Remodelingtext: Tim Carter How To Get the Best Contractor This is one side of the addition I built and whitewashed. The faded look and exposed brick were done on purpose to match the 70-year-old whitewash look on the remainder of the house. I would bet you d",
+        "distance": 0.21996089816093445
+      },
+      {
+        "id": 451,
+        "title": "The DIY Designer: How to get your sidewalk sparkling clean",
+        "url": "http://nooga.com/167745/the-diy-designer-how-to-get-your-sidewalk-sparkling-clean/",
+        "combined_text": "The DIY Designer: How to get your sidewalk sparkling clean Since we purchased the beloved foreclosure over three years ago, there have been many improvements. We remodeled the kitchen, opened up the main living area, updated the bathrooms and more. We have finally started to work our way to the outside of the house. The screened-in porch got a very colorful",
+        "distance": 0.634336531162262
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "557180397866496205": {
+    "query_id": "557180397866496205",
+    "query": "tour huge private backyard pool",
+    "relevants": [
+      {
+        "relevant_doc": 275,
+        "relevant_url": "http://abc13.com/home/take-a-tour-inside-the-worlds-largest-backyard-pool/241979/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 275,
+        "title": "Take a tour inside the world's largest backyard pool",
+        "url": "http://abc13.com/home/take-a-tour-inside-the-worlds-largest-backyard-pool/241979/",
+        "combined_text": "Take a tour inside the world's largest backyard pool \"HOME & GARDENTake a tour inside the world's largest backyard pool Video Playback not supported on Microsoft Windows Version 8.1 or earlier using Internet Explorer. Please upgrade your OS or try a different browser. EMBED </> More Videos<iframe width=\"\"476\"\" height=\"\"267\"\" src=\"\"http://abc13.com/vid",
+        "distance": 0.37264907360076904
+      },
+      {
+        "id": 226,
+        "title": "Is There a Special Insurance You Need to Have With an Inground Pool Besides Homeowners Insurance?",
+        "url": "http://finance.zacks.com/there-special-insurance-need-inground-pool-besides-homeowners-insurance-6764.html",
+        "combined_text": "Is There a Special Insurance You Need to Have With an Inground Pool Besides Homeowners Insurance? A backyard pool normally can be covered under your homeowner insurance. More Articles1. How Much More Is Homeowners Insurance When You Have a Pool?2. Life Insurance Pitfalls to Watch Out For3. Tertiary Insurance Definition An in-ground swimming pool can be a summer recreation center. But a pool can",
+        "distance": 0.5437524914741516
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-5927521788172539483": {
+    "query_id": "-5927521788172539483",
+    "query": "cerebrospinal fluid antibody bands meaning",
+    "relevants": [
+      {
+        "relevant_doc": 109,
+        "relevant_url": "https://www.sciencedirect.com/topics/medicine-and-dentistry/oligoclonal-band"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 369,
+        "title": "Falx cerebri",
+        "url": "https://www.britannica.com/science/falx-cerebri",
+        "combined_text": "Falx cerebri Learn about this topic in these articles:human skeletal system In human skeletal system: Interior of the cranium…of firm attachment for the falx cerebri, a subdivision of dura mater that separates the right and left cerebral hemispheres. On either side of the crest is the cribriform (pierced with sm",
+        "distance": 0.66896653175354
+      },
+      {
+        "id": 625,
+        "title": "Now FDA Approved",
+        "url": "http://www.dexcom.com/",
+        "combined_text": "Now FDA Approved \"Now FDA Approved The Dexcom G5 ® Mobile Continuous Glucose Monitoring (CGM) System is the first device that lets you treat without pricking your finger. ** CGM-based treatment requires fingersticks for calibration; may result in hypoglycemia if calibration not performed or symptoms/expectations do",
+        "distance": 0.7274105548858643
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "3555556645164978504": {
+    "query_id": "3555556645164978504",
+    "query": "color symbolism around the world",
+    "relevants": [
+      {
+        "relevant_doc": 113,
+        "relevant_url": "https://www.huffingtonpost.com/smartertravel/what-colors-mean-in-other_b_9078674.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 113,
+        "title": "What Colors Mean in Other Cultures",
+        "url": "https://www.huffingtonpost.com/smartertravel/what-colors-mean-in-other_b_9078674.html",
+        "combined_text": "What Colors Mean in Other Cultures  (Photo: Thinkstock/i Stock)Red Red is the most powerful of all colors in Indian culture and holds many important meanings. Among them are fear and fire, wealth and power, purity, fertility, seduction, love, and beauty. Red is also representative of a certain time and place in one’s personal life, i",
+        "distance": 0.46610528230667114
+      },
+      {
+        "id": 610,
+        "title": "Goddess Symbols: Artemis",
+        "url": "http://www.goddessgift.com/goddess-myths/goddess_symbols_Artemis.htm",
+        "combined_text": "Goddess Symbols: Artemis \"Goddess Symbols: Artemis Goddess Symbols and Sacred Objects of the Greek goddess Artemis Goddess symbols that were personalized for each goddess were incorporated into the worship of the ancient goddesses were often worn as jewelry. They were also used in the household decor as talismans to seek th",
+        "distance": 0.6003555655479431
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-3975555072957421853": {
+    "query_id": "-3975555072957421853",
+    "query": "how heat affects electrical conductivity",
+    "relevants": [
+      {
+        "relevant_doc": 830,
+        "relevant_url": "http://www.answers.com/Q/Does_temperature_affect_electrical_conductivity_and_how"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 830,
+        "title": "Does temperature affect electrical conductivity and how?",
+        "url": "http://www.answers.com/Q/Does_temperature_affect_electrical_conductivity_and_how",
+        "combined_text": "Does temperature affect electrical conductivity and how? \"Flag Does temperature affect electrical conductivity and how? Answer by Keerscopper Confidence votes 21Not sure, in my 9th standard (level of Indian standard education),we studied about conductors.....\"\"when temperature increases conductivity of a conductor is also increases\"\". but it is not true i",
+        "distance": 0.23773281276226044
+      },
+      {
+        "id": 737,
+        "title": "Why does humidity cause a feeling of hotness?",
+        "url": "https://physics.stackexchange.com/questions/196127/why-does-humidity-cause-a-feeling-of-hotness",
+        "combined_text": "Why does humidity cause a feeling of hotness? \"_Physics Stack Exchange is a question and answer site for active researchers, academics and students of physics. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Why does humidity cause a",
+        "distance": 0.587833821773529
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-9206677266598180809": {
+    "query_id": "-9206677266598180809",
+    "query": "how germs spread via objects",
+    "relevants": [
+      {
+        "relevant_doc": 56,
+        "relevant_url": "https://www.thefreedictionary.com/Fomites"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1075,
+        "title": "Germy Surfaces",
+        "url": "http://sciencenetlinks.com/science-news/science-updates/germy-surfaces/",
+        "combined_text": "Germy Surfaces \"Photo Credit: Lucille Pine (CC BY-NC-ND 2.0), via Flickr.play stop mute00:00 00:00If your brother or sister gets a cold, there’s a good chance that you’ll pick up the same bug—either directly or from something he or she touched or sneezed on. In this Science Update, you’ll find out how long a germ",
+        "distance": 0.5344656109809875
+      },
+      {
+        "id": 1045,
+        "title": "How Do Disposable Diapers Work? Why Do They Leak?",
+        "url": "https://www.thoughtco.com/how-disposable-diapers-work-607891",
+        "combined_text": "How Do Disposable Diapers Work? Why Do They Leak? \"Science, Tech, Math ›Science How Do Disposable Diapers Work? Why Do They Leak? Diaper Chemistry Share Flipboard Email Print Disposable diapers hold more water than they do other liquids. Stephanie Neal Photography/Getty Imagesby Anne Marie Helmenstine, Ph. D. Updated March 16, 2017Question: How Do",
+        "distance": 0.6655599474906921
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "7223165429697621955": {
+    "query_id": "7223165429697621955",
+    "query": "what does average mean in math",
+    "relevants": [
+      {
+        "relevant_doc": 545,
+        "relevant_url": "http://math.about.com/od/glossaryofterms/g/Definition-Of-Average.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 545,
+        "title": "Definition of Average",
+        "url": "http://math.about.com/od/glossaryofterms/g/Definition-Of-Average.htm",
+        "combined_text": "Definition of Average Science, Tech, Math ›Math Definition of Average Share Flipboard Email Print Nicholas Prylutskyy /Eye Em/Getty Imagesby Deb Russell Updated February 01, 2018Average is a term that is used, mis-used and often overused. Typically, many individuals refer to average when they really mean the arithmetic a",
+        "distance": 0.27707260847091675
+      },
+      {
+        "id": 440,
+        "title": "How to Write a Program in Java to Calculate the Mean",
+        "url": "http://www.wikihow.com/Write-a-Program-in-Java-to-Calculate-the-Mean",
+        "combined_text": "How to Write a Program in Java to Calculate the Mean \"Edit Article How to Write a Program in Java to Calculate the Mean Calculating Mean is very important in day-to-day life. Mean, or mean average, is used along with many other mathematical operations and is an important thing to know. But, if we are dealing with big numbers, it becomes easier to use",
+        "distance": 0.41901788115501404
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-5177435484353063337": {
+    "query_id": "-5177435484353063337",
+    "query": "history behind alaska hawaii statehood",
+    "relevants": [
+      {
+        "relevant_doc": 782,
+        "relevant_url": "https://answers.yahoo.com/question/index?qid=20090526192732AA94HCh"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 782,
+        "title": "Why did Alaska and Hawaii become states!!?",
+        "url": "https://answers.yahoo.com/question/index?qid=20090526192732AA94HCh",
+        "combined_text": "Why did Alaska and Hawaii become states!!? \"Science & Mathematics Geography Why did Alaska and Hawaii become states!!? Why did they aquire Alaska and hawaii part of america Follow 4 answers Answers Relevance Rating Newest Oldest Best Answer: The area that became Alaska was purchased from the Russian Empire after Western Union discontinued co",
+        "distance": 0.36490315198898315
+      },
+      {
+        "id": 681,
+        "title": "'New California' Declares Independence - From California, Not U.S.",
+        "url": "https://www.cnsnews.com/blog/craig-bannister/new-calfornia-declares-independence-california-not-us",
+        "combined_text": "'New California' Declares Independence - From California, Not U.S. 'New California' envisions blue region as 51st state. (Screenshot)Citing the U. S. Constitution, a group introduced its Declaration of Independence – from California, but not from the United States. The “New California” movement wants to turn northern and rural California into the nation’s 51 state,",
+        "distance": 0.6453903317451477
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "889925714431648688": {
+    "query_id": "889925714431648688",
+    "query": "major uk export products and partners",
+    "relevants": [
+      {
+        "relevant_doc": 1066,
+        "relevant_url": "https://www.theguardian.com/news/datablog/2010/feb/24/uk-trade-exports-imports"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1066,
+        "title": "UK export and import in 2011: top products and trading partners",
+        "url": "https://www.theguardian.com/news/datablog/2010/feb/24/uk-trade-exports-imports",
+        "combined_text": "UK export and import in 2011: top products and trading partners UK trade exports graphic. Click for full size version Last week, figures from the automotive industry showed a decline in UK car sales. They also shone a light on the UK's third biggest export - eight out of 10 cars built in the UK are exported. HM Revenue and Customs releases monthly figures for UK",
+        "distance": 0.3120059669017792
+      },
+      {
+        "id": 107,
+        "title": "Tier 2 - Sponsorship by UK Companies",
+        "url": "http://www.gherson.com/immigration/tier-2-visa/",
+        "combined_text": "Tier 2 - Sponsorship by UK Companies Immigration Corporate Immigration Tier 1 - High net worth clients Tier 2 - Sponsorship by UK Companies Tier 4 - Students Tier 5 - Temporary Workers Visiting the UKWorking in the UKSports Immigration Send us an enquiry Contact Us For advice on immigration, nationality or human rights, please contact",
+        "distance": 0.6110008358955383
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "6942196846845977952": {
+    "query_id": "6942196846845977952",
+    "query": "kent wa building permits and codes",
+    "relevants": [
+      {
+        "relevant_doc": 824,
+        "relevant_url": "http://www.kentwa.gov/permitcenter/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 824,
+        "title": "Permit Center",
+        "url": "http://www.kentwa.gov/permitcenter/",
+        "combined_text": "Permit Center Doing Business Permit Center Print Share & Bookmark Font Size: + -As of July 1, 2016, the City of Kent adopted the 2015 IBC, IRC, IMC, UPC, and 2015 Energy Code Editions. We are updating our forms/brochures to reflect these changes. Building Commercial and Residential Construction, Mechanical, Plumb",
+        "distance": 0.3637810945510864
+      },
+      {
+        "id": 151,
+        "title": "Tiny House Codes And Zoning: Taking Matters into Our Own Hands",
+        "url": "http://tinyhousetalk.com/tiny-house-codes-and-zoning-taking-matters-into-our-own-hands/",
+        "combined_text": "Tiny House Codes And Zoning: Taking Matters into Our Own Hands Tiny House Codes And Zoning: Taking Matters into Our Own Handson April 3, 2013In the tiny house community we are often talking about the various building codes around the country, and the world, and how they affect tiny spaces. Tiny house bloggers often get asked the question “do you know the buildi",
+        "distance": 0.5952809453010559
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "4376771347638013202": {
+    "query_id": "4376771347638013202",
+    "query": "real locations used for Hogwarts castle",
+    "relevants": [
+      {
+        "relevant_doc": 894,
+        "relevant_url": "https://www.quora.com/Where-is-Hogwarts-from-the-Harry-Potter-film-located"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 894,
+        "title": "Where is Hogwarts from the Harry Potter film located?",
+        "url": "https://www.quora.com/Where-is-Hogwarts-from-the-Harry-Potter-film-located",
+        "combined_text": "Where is Hogwarts from the Harry Potter film located? Praveen Dhanuka, Loving the world of Quora Answered Feb 9, 2015 · Author has 141 answers and 138.5k answer views Miniature models,Harry Potter and the film-makers' magic: Incredibly detailed model of Hogwarts Castle used for every film in blockbusting series is revealed for the first timealong with",
+        "distance": 0.3079102635383606
+      },
+      {
+        "id": 744,
+        "title": "The Best Walt Disney World Walls for Your Next Instagram Photo",
+        "url": "https://style.disney.com/living/2017/01/13/walt-disney-world-walls-instagram-ootd/",
+        "combined_text": "The Best Walt Disney World Walls for Your Next Instagram Photo The Best Walt Disney World Walls for Your Next Instagram Photo Taylor Freeman Disney Style Contributor One of our favorite Instagram trends at the moment is finding the perfect wall to show off your Disney Parks #OOTD. We picked out some of the best places at the Disneyland Resort to take your pictu",
+        "distance": 0.6419408917427063
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-4669605216864941609": {
+    "query_id": "-4669605216864941609",
+    "query": "golden voice homeless man new home",
+    "relevants": [
+      {
+        "relevant_doc": 289,
+        "relevant_url": "http://www.dailymail.co.uk/news/article-2087446/Ted-Golden-Voice-Williams-shows-new-pad-girlfriend-year-homeless.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 289,
+        "title": "'It's an hallelujah moment every day!' Ted 'Golden Voice' Williams shows off new pad (and girlfriend) a year after being homeless",
+        "url": "http://www.dailymail.co.uk/news/article-2087446/Ted-Golden-Voice-Williams-shows-new-pad-girlfriend-year-homeless.html",
+        "combined_text": "'It's an hallelujah moment every day!' Ted 'Golden Voice' Williams shows off new pad (and girlfriend) a year after being homeless \"'It's an hallelujah moment every day!' Ted 'Golden Voice' Williams shows off new pad (and girlfriend) a year after being homeless By Julian Gavaghan Updated: 04:19 EDT, 17 January 201245View comments Just a year ago he was the homeless man with the ‘golden voice' begging on the side of the highway.",
+        "distance": 0.4402894973754883
+      },
+      {
+        "id": 689,
+        "title": "Buy A Home",
+        "url": "https://habitatdetroit.org/buy-a-home/",
+        "combined_text": "Buy A Home Begin Application Process Buy a home through Habitat for Humanity Detroit. Habitat Detroit sells homes to qualified home buyers for an affordable mortgage. Approved homeowners qualify for a monthly housing payment (mortgage, insurance and taxes) equal to 30% or less of their monthly income. To quali",
+        "distance": 0.7187079787254333
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "6565422480405115976": {
+    "query_id": "6565422480405115976",
+    "query": "what percent of 16 year olds work",
+    "relevants": [
+      {
+        "relevant_doc": 381,
+        "relevant_url": "http://www.answers.com/Q/How_many_hours_can_a_16_year_old_work"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 381,
+        "title": "How many 16-year-olds work in the US?",
+        "url": "http://www.answers.com/Q/How_many_hours_can_a_16_year_old_work",
+        "combined_text": "How many 16-year-olds work in the US? \"Mark Swarthout 794,173 Contributions Contract attorney. When not working I teach karate, collect stamps, write books, and play the ukulele. How many 16-year-olds work in the US? Answer . \\n According to the Child Labor Coalition, 26% of the 16-year-olds in the United States are employed at least pa",
+        "distance": 0.2874889075756073
+      },
+      {
+        "id": 201,
+        "title": "Curfew Laws",
+        "url": "http://criminal.findlaw.com/criminal-charges/curfew-laws.html",
+        "combined_text": "Curfew Laws Curfew Laws Curfew laws prohibit or limit your right to be out in public at certain times and are intended to maintain a certain level of order and safety in public spaces. Most curfew laws apply only to juveniles under the age of 18, while other curfew laws are enacted temporarily in response to a",
+        "distance": 0.7247987985610962
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "8623575428235756589": {
+    "query_id": "8623575428235756589",
+    "query": "t test for dependent samples",
+    "relevants": [
+      {
+        "relevant_doc": 594,
+        "relevant_url": "http://www.real-statistics.com/students-t-distribution/paired-sample-t-test/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 594,
+        "title": "Paired Sample t Test",
+        "url": "http://www.real-statistics.com/students-t-distribution/paired-sample-t-test/",
+        "combined_text": "Paired Sample t Test Paired Sample t Test In paired sample hypothesis testing, a sample from the population is chosen and two measurements for each element in the sample are taken. Each set of measurements is considered a sample. Unlike the hypothesis testing studied so far, the two samples are not independent of one an",
+        "distance": 0.503780722618103
+      },
+      {
+        "id": 617,
+        "title": "Psych Stats Exam #1",
+        "url": "https://quizlet.com/9577879/psych-stats-exam-1-flash-cards/",
+        "combined_text": "Psych Stats Exam #1 27 terms laurenvalerie Psych Stats Exam #1Learn Flashcards Write Spell Test Match Gravity Advertisement Upgrade to remove ads Like this study set? Create a free account to save it. Create a free account Maybe later Sort Descriptive Statistic a number or figure that summarizes a set of data Inferenti",
+        "distance": 0.7159593105316162
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "576659458877254355": {
+    "query_id": "576659458877254355",
+    "query": "how miami liberty city riot differed from 60s",
+    "relevants": [
+      {
+        "relevant_doc": 292,
+        "relevant_url": "http://www.nytimes.com/1981/05/17/us/study-finds-miami-riot-was-unlike-those-of-60-s.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 292,
+        "title": "STUDY FINDS MIAMI RIOT WAS UNLIKE THOSE OF 60'S",
+        "url": "http://www.nytimes.com/1981/05/17/us/study-finds-miami-riot-was-unlike-those-of-60-s.html",
+        "combined_text": "STUDY FINDS MIAMI RIOT WAS UNLIKE THOSE OF 60'S Archives | 1981STUDY FINDS MIAMI RIOT WAS UNLIKE THOSE OF 60'SBy JO THOMAS and SPECIAL TO THE NEW YORK TIMESView page in Times Machine, Page 001028 The New York Times Archives The riot that broke out a year ago tomorrow in the Liberty City section of Miami differed dramatically from the racial distu",
+        "distance": 0.18705569207668304
+      },
+      {
+        "id": 795,
+        "title": "How and why has Fashion Changed over the last 50 years?",
+        "url": "http://www.fashionz.co.nz/advice/how-and-why-has-fashion-changed-over-the-last-50-years.html",
+        "combined_text": "How and why has Fashion Changed over the last 50 years? < Back to Features How and why has Fashion Changed over the last 50 years? By Natalie Cosgrove | Friday, 18 Jun 2010I firmly believe that the way fashion changes is indicative of how a society or culture changes and evolves. Think about how the mini-skirt became popular in the 1960s; this reflected",
+        "distance": 0.7372660040855408
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "2654258537702607546": {
+    "query_id": "2654258537702607546",
+    "query": "definition of opinion formed beforehand",
+    "relevants": [
+      {
+        "relevant_doc": 896,
+        "relevant_url": "https://www.audioenglish.org/dictionary/preconceived_notion.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 896,
+        "title": "PRECONCEIVED NOTION",
+        "url": "https://www.audioenglish.org/dictionary/preconceived_notion.htm",
+        "combined_text": "PRECONCEIVED NOTION \"Audio English.org » Dictionary » P » Precambrian Period ... Preconception PRECONCEIVED NOTIONPronunciation (US): Dictionary entry overview: What does preconceived notion mean?• PRECONCEIVED NOTION (noun) The noun PRECONCEIVED NOTION has 1 sense:1. an opinion formed beforehand without adequate evide",
+        "distance": 0.6429908275604248
+      },
+      {
+        "id": 765,
+        "title": "Persuasion and Rhetorical Devices - PowerPoint PPT Presentation",
+        "url": "http://www.slideserve.com/dasan/persuasion-and-rhetorical-devices",
+        "combined_text": "Persuasion and Rhetorical Devices - PowerPoint PPT Presentation \"Download1 / 24Persuasion and Rhetorical Devices - Power Point PPT Presentation By dasan Follow User754 Views Uploaded on Dec 31, 2012Description Statistics Report Persuasion and Rhetorical Devices. Nonfiction Unit And Persuasive Speeches and Essays. PERSUASION. Persuasion is used when the writer or",
+        "distance": 0.6585736870765686
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "832307732895725487": {
+    "query_id": "832307732895725487",
+    "query": "facebook group cover dimensions template",
+    "relevants": [
+      {
+        "relevant_doc": 601,
+        "relevant_url": "https://louisem.com/3971/facebook-group-cover-photo"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 601,
+        "title": "Facebook Group Cover Photo Size 2018: Free Template",
+        "url": "https://louisem.com/3971/facebook-group-cover-photo",
+        "combined_text": "Facebook Group Cover Photo Size 2018: Free Template Sharon Lo Monaco says March 4, 2018 at 5:38 PMThank you, thank you thank you! You need the Nobel Peace rize just for saving me from pulling my hair out! I was ready to just delete all Face Book accounts!SALReply Louise Myers says March 5, 2018 at 7:31 AMHa! Awesome to hear. Reply Jane Unsworth says",
+        "distance": 0.4206835925579071
+      },
+      {
+        "id": 61,
+        "title": "Delegated Design & Design Assist",
+        "url": "https://prezi.com/g4dnbknthe_t/delegated-design-design-assist/",
+        "combined_text": "Delegated Design & Design Assist Public Create your own Share Embed Like Delegated Design & Design Assist CSI Specifying Practice Groupby Conspectus, Inc.on 5 February 20151 Tweet Comments ( 1)· 269 days ago Thanks for the information --- as always immediately useful and adaptable to the Canadian way ;)Please log in to add your com",
+        "distance": 0.6266223192214966
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "6278006979272012783": {
+    "query_id": "6278006979272012783",
+    "query": "where to see the berlin wall",
+    "relevants": [
+      {
+        "relevant_doc": 86,
+        "relevant_url": "http://www.aviewoncities.com/berlin/mauer.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 86,
+        "title": "Berlin Wall",
+        "url": "http://www.aviewoncities.com/berlin/mauer.htm",
+        "combined_text": "Berlin Wall Berlin Wall Berliner Mauer Info Location/Map Nearby sights Nearby hotels Tours Photos Posters Rating1 2 3 4 5161 votes The Berlin Wall, which separated the city in an eastern and western part, was the defining symbol of the Cold War. Built by the goverment of the DDR to prevent East Germans from esc",
+        "distance": 0.3321409821510315
+      },
+      {
+        "id": 744,
+        "title": "The Best Walt Disney World Walls for Your Next Instagram Photo",
+        "url": "https://style.disney.com/living/2017/01/13/walt-disney-world-walls-instagram-ootd/",
+        "combined_text": "The Best Walt Disney World Walls for Your Next Instagram Photo The Best Walt Disney World Walls for Your Next Instagram Photo Taylor Freeman Disney Style Contributor One of our favorite Instagram trends at the moment is finding the perfect wall to show off your Disney Parks #OOTD. We picked out some of the best places at the Disneyland Resort to take your pictu",
+        "distance": 0.5700229406356812
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "6215166314195188855": {
+    "query_id": "6215166314195188855",
+    "query": "what does an instrument man do",
+    "relevants": [
+      {
+        "relevant_doc": 935,
+        "relevant_url": "https://careertrend.com/facts-6860657-job-description-instrument-man.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 935,
+        "title": "Job Description for an Instrument Man",
+        "url": "https://careertrend.com/facts-6860657-job-description-instrument-man.html",
+        "combined_text": "Job Description for an Instrument Man \"Home » Job Descriptions » Technical Job Descriptions Job Description for an Instrument Man By Cassie Damewood; Updated July 05, 2017surveying prism image by 2roxfox from Fotolia.com Before land can be developed, sold or rezoned, it has to be professionally surveyed. The person who leads this group",
+        "distance": 0.2010067105293274
+      },
+      {
+        "id": 430,
+        "title": "The Band",
+        "url": "http://magiccarpetrideinc.com/?page_id=34",
+        "combined_text": "The Band Glen Bui (Guitars) (Glen Bui is on a leave due to a medical condition) Glen was born in San Francisco and spent his early years performing in the Bay Area. He earned a BA in Music from Cal State. At one time he took lessons from an up and coming guitar player named Joe Satriani while in Berkeley. Gl",
+        "distance": 0.6943086981773376
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "5299477103704699737": {
+    "query_id": "5299477103704699737",
+    "query": "why did the kaiser abdicate and weimar start",
+    "relevants": [
+      {
+        "relevant_doc": 842,
+        "relevant_url": "http://www.bbc.co.uk/education/clips/z2nnvcw"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 842,
+        "title": "The establishment of the Weimar Republic",
+        "url": "http://www.bbc.co.uk/education/clips/z2nnvcw",
+        "combined_text": "The establishment of the Weimar Republic Sorry, this clip is not available in your region or territory. Description Classroom Ideas A timeline of the Weimar Republic gives an overview from its foundation in 1918 to its end in 1933, focusing on its early years. The clip explains reasons for the abdication of the Kaiser in the face of the im",
+        "distance": 0.3335264027118683
+      },
+      {
+        "id": 1110,
+        "title": "German Genealogy Online",
+        "url": "http://german.about.com/library/weekly/aa051099.htm",
+        "combined_text": "German Genealogy Online \"Humanities ›History & Culture German Genealogy Online German Genealogy Databases and Records on the Internet Share Flipboard Email Printciteby Kimberly Powell Updated March 03, 2017Research your German family tree online in this collection of online German genealogy databases and records. Available",
+        "distance": 0.6891640424728394
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-4761776395656143916": {
+    "query_id": "-4761776395656143916",
+    "query": "how much are hoa fees fripp island",
+    "relevants": [
+      {
+        "relevant_doc": 727,
+        "relevant_url": "https://www.trulia.com/voices/In_My_Neighborhood/What_are_the_HOA_monthly_fees_on_Fripp_Island_-555626"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 727,
+        "title": "What are the HOA monthly fees on Fripp Island?",
+        "url": "https://www.trulia.com/voices/In_My_Neighborhood/What_are_the_HOA_monthly_fees_on_Fripp_Island_-555626",
+        "combined_text": "What are the HOA monthly fees on Fripp Island? \"What are the HOA monthly fees on Fripp Island? Asked by lgibby2, Fripp Island, SC • Wed Jul 31, 2013Share • Follow Question • Flag • In My Neighborhood in Fripp Island0 votes Help the community by answering this question: I'm not a robotre CAPTCHAPrivacy - Terms Answer question Answers1Mike Sackman",
+        "distance": 0.23656511306762695
+      },
+      {
+        "id": 927,
+        "title": "What is the cost of an average smart card?",
+        "url": "http://www.gemalto.com/companyinfo/smart-cards-basics/cost",
+        "combined_text": "What is the cost of an average smart card? Up a levelcompanyinfo Board Management Our valuesinnovation Governanceawards Sustainability Media Careers Digital Security in Action Stay in touchworlwide-locationsinvestors Industry Analyststrainingfinancialemv Governmentmobiletransportiot Machine-to-Machineidentity Enterprise Securitysoftware-mone",
+        "distance": 0.6853882074356079
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-5552610710203961344": {
+    "query_id": "-5552610710203961344",
+    "query": "social issues study flashcards",
+    "relevants": [
+      {
+        "relevant_doc": 1019,
+        "relevant_url": "https://quizlet.com/64403661/social-problems-flash-cards/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1019,
+        "title": "Social problems",
+        "url": "https://quizlet.com/64403661/social-problems-flash-cards/",
+        "combined_text": "Social problems 102 terms farnoush_a_amiri Social problems Learn Flashcards Write Spell Test Match Gravity Advertisement Upgrade to remove ads Like this study set? Create a free account to save it. Create a free account Maybe later Sort Joe Best suggests that ____ claims tend to work best. B) Simple & Strong The Te",
+        "distance": 0.44286036491394043
+      },
+      {
+        "id": 904,
+        "title": "Social development theory",
+        "url": "https://en.wikipedia.org/wiki/Social_development_theory",
+        "combined_text": "Social development theory \"From Wikipedia, the free encyclopedianavigation search [ hide]This article has multiple issues. Please help improve it or discuss these issues on the talk page. ( Learn how and when to remove these template messages)This article needs additional citations for verification. (January 2017)This articl",
+        "distance": 0.5753566026687622
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-4141355655419832612": {
+    "query_id": "-4141355655419832612",
+    "query": "uninstall apps on windows 8",
+    "relevants": [
+      {
+        "relevant_doc": 319,
+        "relevant_url": "http://www.wikihow.com/Delete-a-Program-on-Windows-8"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 319,
+        "title": "How to Delete a Program on Windows 8",
+        "url": "http://www.wikihow.com/Delete-a-Program-on-Windows-8",
+        "combined_text": "How to Delete a Program on Windows 8 Edit Article How to Delete a Program on Windows 8Four Methods: Uninstalling Tiled Programs Uninstalling Non-Tiled Programs Removing a Tile Uninstalling Programs on Phones Community Q&AWindows 8 is the newest Windows OS, available on a variety of devices. It runs and looks very different than previou",
+        "distance": 0.2762429416179657
+      },
+      {
+        "id": 793,
+        "title": "apanage",
+        "url": "https://www.merriam-webster.com/dictionary/apanage",
+        "combined_text": "apanage apanagenoun a·pa·nage Popularity: Bottom 20% of words Trending Now:oligarch glib depose omnibus acrimony ALLTime Traveler! Explore the year a word first appearedless common spelling of appanage1 a: a grant (as of land or revenue) made by a sovereign or a legislative body to a dependent member of the",
+        "distance": 0.8394923210144043
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "6539381315467979897": {
+    "query_id": "6539381315467979897",
+    "query": "what does marching mean",
+    "relevants": [
+      {
+        "relevant_doc": 848,
+        "relevant_url": "http://www.thefreedictionary.com/marching"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 848,
+        "title": "marching",
+        "url": "http://www.thefreedictionary.com/marching",
+        "combined_text": "marching \"marching Also found in: Thesaurus, Medical, Legal, Idioms, Encyclopedia, Wikipedia .march 1 (märch)v. marched, march·ing, march·esv. intr.1.a. To walk steadily and rhythmically forward in step with others.b. To begin to move in such a manner: The troops will march at dawn.2.a. To proceed directly a",
+        "distance": 0.2194121778011322
+      },
+      {
+        "id": 221,
+        "title": "Definitions &Translations",
+        "url": "http://www.definitions.net/definition/transfix",
+        "combined_text": "Definitions &Translations \"Princeton's Word Net (0.00 / 0 votes)Rate this definition:fascinate, transfix, grip, spellbind (verb)to render motionless, as with a fixed stare or by arousing terror or awe\"\"The snake charmer fascinates the cobra\"\"transfix, impale, empale, spike (verb)pierce with a sharp stake or point\"\"impale a s",
+        "distance": 0.7111222743988037
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "8856737364558856252": {
+    "query_id": "8856737364558856252",
+    "query": "how rich is james cameron",
+    "relevants": [
+      {
+        "relevant_doc": 1108,
+        "relevant_url": "http://www.bornrich.com/james-cameron.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1108,
+        "title": "James Cameron Net Worth",
+        "url": "http://www.bornrich.com/james-cameron.html",
+        "combined_text": "James Cameron Net Worth \"James Cameron Net Worth Net Worth $ 700 Million Estates and Homes Submarines Hobbies Autos and Cars Wedding Cause About Quotes Trivia Born on: 16th Aug 54Born in: Canada Marital status: Divorced Occupation: Hollywood James Cameron net worth is estimated at $700 million. A maverick director, the per",
+        "distance": 0.26992300152778625
+      },
+      {
+        "id": 458,
+        "title": "What Is Donald Trump's Real Net Worth? Presidential Candidate Claims $9 Billion, But Critics Say He's Not That Rich",
+        "url": "http://www.ibtimes.com/what-donald-trumps-real-net-worth-presidential-candidate-claims-9-billion-critics-say-1969531",
+        "combined_text": "What Is Donald Trump's Real Net Worth? Presidential Candidate Claims $9 Billion, But Critics Say He's Not That Rich \"What Is Donald Trump's Real Net Worth? Presidential Candidate Claims $9 Billion, But Critics Say He's Not That Rich By Tim Marcin @Tim Marcin On 06/16/15 AT 1:00 PMU. S. Republican presidential candidate, real estate mogul and TV personality Donald Trump acknowledges supporters while formally annou",
+        "distance": 0.5480213761329651
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-7222003239426069483": {
+    "query_id": "-7222003239426069483",
+    "query": "scholarships to attend IBA conference",
+    "relevants": [
+      {
+        "relevant_doc": 494,
+        "relevant_url": "http://www.ibanet.org/Committees/Divisions/Legal_Practice/IBA-Annual-Conference-scholarships.aspx"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 494,
+        "title": "IBA Annual Conference scholarships",
+        "url": "http://www.ibanet.org/Committees/Divisions/Legal_Practice/IBA-Annual-Conference-scholarships.aspx",
+        "combined_text": "IBA Annual Conference scholarships IBA Annual Conference scholarships IBA Conference scholarships Each year the International Bar Association (IBA), the world's largest international organisation of law societies, bar associations and individual lawyers engaged in transnational law, holds an Annual Conference, which attracts the part",
+        "distance": 0.2777490019798279
+      },
+      {
+        "id": 662,
+        "title": "Scholarships",
+        "url": "https://www.suny.edu/smarttrack/types-of-financial-aid/scholarships/",
+        "combined_text": "Scholarships Scholarships SUNY is committed to recognizing and rewarding student excellence, which is why we offer a variety of scholarships across our 64 campuses. Some of these awards are for academic excellence, while others recognize extraordinary artistic or athletic talent. And, others take into account sp",
+        "distance": 0.564325213432312
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-2498155787846518675": {
+    "query_id": "-2498155787846518675",
+    "query": "how membrane proteins pump molecules",
+    "relevants": [
+      {
+        "relevant_doc": 700,
+        "relevant_url": "https://en.wikibooks.org/wiki/Structural_Biochemistry/Membrane_Proteins/Active_Transport"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 700,
+        "title": "Structural Biochemistry/Membrane Proteins/Active Transport",
+        "url": "https://en.wikibooks.org/wiki/Structural_Biochemistry/Membrane_Proteins/Active_Transport",
+        "combined_text": "Structural Biochemistry/Membrane Proteins/Active Transport < Structural Biochemistry | Membrane Proteins This page may need to be reviewed for quality.navigation search Transport of Molecules Across Membrane [ edit]Transport of molecules across membrane is the movement of a molecule from inside the membrane to outside or vice versa. There are two factors to",
+        "distance": 0.3600640892982483
+      },
+      {
+        "id": 450,
+        "title": "Examples of endocrine, autocrine, paracrine signaling?",
+        "url": "https://au.answers.yahoo.com/question/index?qid=20130305042917AA7GzKP",
+        "combined_text": "Examples of endocrine, autocrine, paracrine signaling? \"Science & Mathematics Biology Examples of endocrine, autocrine, paracrine signaling? I know what they are, I cant think of specific/easy examples to explain it to someone. thanks Follow 4 answers Answers Relevance Rating Newest Oldest Best Answer: They are basically methods which cell try to \"\"comm",
+        "distance": 0.6370905637741089
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "2256454639542880727": {
+    "query_id": "2256454639542880727",
+    "query": "techniques for persuasive writing and speeches",
+    "relevants": [
+      {
+        "relevant_doc": 765,
+        "relevant_url": "http://www.slideserve.com/dasan/persuasion-and-rhetorical-devices"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 765,
+        "title": "Persuasion and Rhetorical Devices - PowerPoint PPT Presentation",
+        "url": "http://www.slideserve.com/dasan/persuasion-and-rhetorical-devices",
+        "combined_text": "Persuasion and Rhetorical Devices - PowerPoint PPT Presentation \"Download1 / 24Persuasion and Rhetorical Devices - Power Point PPT Presentation By dasan Follow User754 Views Uploaded on Dec 31, 2012Description Statistics Report Persuasion and Rhetorical Devices. Nonfiction Unit And Persuasive Speeches and Essays. PERSUASION. Persuasion is used when the writer or",
+        "distance": 0.35660961270332336
+      },
+      {
+        "id": 304,
+        "title": "How to Organise an Event",
+        "url": "http://www.wikihow.com/Organise-an-Event",
+        "combined_text": "How to Organise an Event 1 Define the event's purpose. Having a sentence or two in your head will help you lead the event in the right direction. Are you planning it to educate your community? Persuade potential donors for funds? To celebrate a specific individual or group of individuals? Get as narrow as possible. Whatever",
+        "distance": 0.536979615688324
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "2289244693871607545": {
+    "query_id": "2289244693871607545",
+    "query": "Purdue new student orientation week",
+    "relevants": [
+      {
+        "relevant_doc": 814,
+        "relevant_url": "http://www.purdue.edu/studentsuccess/orientation/bgr/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 814,
+        "title": "Boiler Gold Rush",
+        "url": "http://www.purdue.edu/studentsuccess/orientation/bgr/",
+        "combined_text": "Boiler Gold Rush Boiler Gold Rush Boiler Gold Rush (BGR) takes place the week before fall classes begin, and Purdue encourages all incoming students to take part. You’ll learn about campus traditions, Purdue culture and University resources. It’s also a great chance to make lasting friendships and learn how to be a",
+        "distance": 0.5837134122848511
+      },
+      {
+        "id": 46,
+        "title": "Check it off your list. #BeAZag",
+        "url": "http://beazag.gonzaga.edu/home/accepted-students/new-student-checklist/",
+        "combined_text": "Check it off your list. #BeAZag \"Accepted Students Confirm Enrollment – Be a Zag Defer or Decline Admission Events for Accepted Students Statement on Activism – 2/25/2018Check it off your list. #Be AZag Confirmation Deposit Financial Aid & Scholarships Student housing Visit Gonzaga Transfer students Connect with other Accepted Stu",
+        "distance": 0.6787458062171936
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-5447581128111666892": {
+    "query_id": "-5447581128111666892",
+    "query": "meaning of cold spot in house",
+    "relevants": [
+      {
+        "relevant_doc": 1028,
+        "relevant_url": "http://www.paranormalsoup.com/forums/index.php?showtopic=17503"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1075,
+        "title": "Germy Surfaces",
+        "url": "http://sciencenetlinks.com/science-news/science-updates/germy-surfaces/",
+        "combined_text": "Germy Surfaces \"Photo Credit: Lucille Pine (CC BY-NC-ND 2.0), via Flickr.play stop mute00:00 00:00If your brother or sister gets a cold, there’s a good chance that you’ll pick up the same bug—either directly or from something he or she touched or sneezed on. In this Science Update, you’ll find out how long a germ",
+        "distance": 0.6613500714302063
+      },
+      {
+        "id": 525,
+        "title": "Who hangs a black star on their door at Christmas, and what does it mean?",
+        "url": "http://www.womenofgrace.com/blog/?p=598",
+        "combined_text": "Who hangs a black star on their door at Christmas, and what does it mean? Who hangs a black star on their door at Christmas, and what does it mean? Posted on February 11, 2011 by SBrinkmann BE writes: “On our cul-de-cac is a young man and woman who moved in approximately 2 years ago. Both this Christmas and last Christmas they do not decorate the exterior of their home wi",
+        "distance": 0.669661819934845
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-1453531976690918165": {
+    "query_id": "-1453531976690918165",
+    "query": "capitalism in democratic societies",
+    "relevants": [
+      {
+        "relevant_doc": 96,
+        "relevant_url": "https://en.wikipedia.org/wiki/Democratic_capitalism"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 96,
+        "title": "Democratic capitalism",
+        "url": "https://en.wikipedia.org/wiki/Democratic_capitalism",
+        "combined_text": "Democratic capitalism \"Part of a series on Capitalism Concepts [show]Economic systems [show]Economic theories [show]Origins [show]Development [show]People [show]Related topics [show]Ideologies [show]Capitalism portal Economics portal Philosophy portal Politics portalv t e Part of a series on Liberalism Schools [show]Idea",
+        "distance": 0.22090575098991394
+      },
+      {
+        "id": 32,
+        "title": "10 reasons why socialism is the only way forward",
+        "url": "https://socialist-alliance.org/resistance/10-reasons-why-socialism-only-way-forward",
+        "combined_text": "10 reasons why socialism is the only way forward Murray Taylor & Jacob Andrewartha April 25, 2015We live in a time of growing inequality between the rich and poor, when the environment is being destroyed to the point of threatening our very existence, because of a system that prioritises profit. Here are 10 reasons why socialism is the way forward",
+        "distance": 0.5585538148880005
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-7071270517247519806": {
+    "query_id": "-7071270517247519806",
+    "query": "us military support during domestic emergencies",
+    "relevants": [
+      {
+        "relevant_doc": 1069,
+        "relevant_url": "https://en.wikipedia.org/wiki/Defense_Support_of_Civil_authorities"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1069,
+        "title": "Defense Support of Civil authorities",
+        "url": "https://en.wikipedia.org/wiki/Defense_Support_of_Civil_authorities",
+        "combined_text": "Defense Support of Civil authorities \"This article is about current practice in the United States. For a more historical and international perspective, see Military aid to the civil power. Defense Support of Civil Authorities ( DSCA) is the process by which United States military assets and personnel can be used to assist in missions n",
+        "distance": 0.48907530307769775
+      },
+      {
+        "id": 1043,
+        "title": "Functional Areas 50 Personnel Development Office Vision, Mission and Objectives",
+        "url": "http://www.fa50.army.mil/",
+        "combined_text": "Functional Areas 50 Personnel Development Office Vision, Mission and Objectives On behalf of the Army G-8, the Functional Area Proponent, this office executes total force management. This office is the advocate for all force management policies and procedures pertaining to training, policy, doctrine, recruiting, personnel distribution guidance, integration (AC/RC, JIIM) and str",
+        "distance": 0.6789723634719849
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-6378240465108953380": {
+    "query_id": "-6378240465108953380",
+    "query": "what counts as active business canada",
+    "relevants": [
+      {
+        "relevant_doc": 220,
+        "relevant_url": "http://laws-lois.justice.gc.ca/eng/acts/I-3.3/section-248.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 220,
+        "title": "Income Tax Act ( R.S.C., 1985, c. 1 (5th Supp.))",
+        "url": "http://laws-lois.justice.gc.ca/eng/acts/I-3.3/section-248.html",
+        "combined_text": "Income Tax Act ( R.S.C., 1985, c. 1 (5th Supp.)) Income Tax Act ( R. S. C., 1985, c. 1 (5th Supp. ))Full Document: HTML | XML [10923 KB] | PDF [19232 KB]Act current to 2018-03-18 and last amended on 2018-01-01. Previous Versions Previous Page Table of Contents Next Page Definitions248 (1) In this Act,active business, in relation to any business ca",
+        "distance": 0.571713387966156
+      },
+      {
+        "id": 1100,
+        "title": "Online Services",
+        "url": "http://www.co.ottawa.mi.us/OnlineServices/",
+        "combined_text": "Online Services Business Business Name/DBA Search Search Ottawa County's Business Names (Free), a certified copy of a business registration available for $2.50. Deeds Search Search and purchase documents on file with the Ottawa County Register of Deeds. Certified copies can also be ordered, and will be mailed. Cour",
+        "distance": 0.6544936895370483
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-2144699774648328087": {
+    "query_id": "-2144699774648328087",
+    "query": "attach pdf to craigslist listing",
+    "relevants": [
+      {
+        "relevant_doc": 528,
+        "relevant_url": "http://www.youtube.com/watch?v=CQx7CeHAobg"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 528,
+        "title": "How to Add PDF to Craigslist",
+        "url": "http://www.youtube.com/watch?v=CQx7CeHAobg",
+        "combined_text": "How to Add PDF to Craigslist How to Add PDF to Craigslist Internet Services and Social Networks Tutorials from How Tech Subscribe 25KAdd to Share More5,359 views62Published on Sep 30, 2013We will teach you how to add to craigslist, a pdf document when posting an ad. We will upload the document online first and then add pdf to c",
+        "distance": 0.24961736798286438
+      },
+      {
+        "id": 657,
+        "title": "Differences Between PDF and DOC",
+        "url": "http://www.differencebetween.net/technology/internet/differences-between-pdf-and-doc/",
+        "combined_text": "Differences Between PDF and DOC \"Differences Between PDF and DOC• Categorized under internet, Protocols & Formats | Differences Between PDF and DOC‘PDF’ vs ‘DOC’Documents play a very important role in how people communicate with each other. By definition, it’s a work that contains non-fictional writing done to store and share info",
+        "distance": 0.6159208416938782
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-940810200969871429": {
+    "query_id": "-940810200969871429",
+    "query": "best diy sidewalk cleaning tips",
+    "relevants": [
+      {
+        "relevant_doc": 451,
+        "relevant_url": "http://nooga.com/167745/the-diy-designer-how-to-get-your-sidewalk-sparkling-clean/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 451,
+        "title": "The DIY Designer: How to get your sidewalk sparkling clean",
+        "url": "http://nooga.com/167745/the-diy-designer-how-to-get-your-sidewalk-sparkling-clean/",
+        "combined_text": "The DIY Designer: How to get your sidewalk sparkling clean Since we purchased the beloved foreclosure over three years ago, there have been many improvements. We remodeled the kitchen, opened up the main living area, updated the bathrooms and more. We have finally started to work our way to the outside of the house. The screened-in porch got a very colorful",
+        "distance": 0.40089064836502075
+      },
+      {
+        "id": 345,
+        "title": "Explore 431Tip Sites âââSearch 120,491 Tips",
+        "url": "http://cleaning.lifetips.com/tip/59706/floor-cleaning/hardwood-floor-cleaning/carpet-tape-residue-removal-from-wood-floor.html",
+        "combined_text": "Explore 431Tip Sites âââSearch 120,491 Tips \"Read this tip to make your life smarter, better, faster and wiser. Life Tips is the place to go when you need to know about Floor Cleaning and other Cleaning topics. How do I remove carpet tape from a wood floor? Carpet Tape Residue Removal from Wood Floor If you have carpet tape or residue on your",
+        "distance": 0.562393844127655
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "8128262758535732774": {
+    "query_id": "8128262758535732774",
+    "query": "poas volcano visitor center accessibility",
+    "relevants": [
+      {
+        "relevant_doc": 296,
+        "relevant_url": "https://www.anywhere.com/costa-rica/attractions/poas-volcano-national-park"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 296,
+        "title": "Poas Volcano National Park",
+        "url": "https://www.anywhere.com/costa-rica/attractions/poas-volcano-national-park",
+        "combined_text": "Poas Volcano National Park Poas Volcano National Park Central Highlands This is a highly accessible national park, and you can follow a paved road to the wheelchair accessible visitor's center near the top. The visitor center has information about the history of the volcano and current information about the geomorphic process",
+        "distance": 0.23499825596809387
+      },
+      {
+        "id": 393,
+        "title": "Let Our Professional Holiday and Event Decorators take Hassle Out of Your Holidays",
+        "url": "http://www.christmasdecor.net/",
+        "combined_text": "Let Our Professional Holiday and Event Decorators take Hassle Out of Your Holidays Let Our Professional Holiday and Event Decorators take Hassle Out of Your Holidays Decorating for the holidays can be a hassle and sometimes even a safety risk. Take the time to enjoy your holidays and call on the professionals. We will transform your property into a winter wonderland!PORTFOLIOWe Pr",
+        "distance": 0.7317728996276855
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "7455484734506612631": {
+    "query_id": "7455484734506612631",
+    "query": "lab method to identify staph aureus",
+    "relevants": [
+      {
+        "relevant_doc": 51,
+        "relevant_url": "http://www.microbiologyinfo.com/coagulase-test-principal-procedure-types-interpretation-and-examples/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 51,
+        "title": "Coagulase Test- Principle, Procedure, Types, Interpretation and Examples 4.42 / 5  ( 168 )",
+        "url": "http://www.microbiologyinfo.com/coagulase-test-principal-procedure-types-interpretation-and-examples/",
+        "combined_text": "Coagulase Test- Principle, Procedure, Types, Interpretation and Examples 4.42 / 5  ( 168 ) April 17, 2015 by Sagar Aryal Coagulase Test- Principle, Procedure, Types, Interpretation and Examples 4.42 / 5 ( 168 )Advertisement Coagulase Test- Principle, Procedure, Types, Interpretation and Examples Introduction to Coagulase Test Coagulase test is used to differentiate Staphylococcus aureus (",
+        "distance": 0.5105729699134827
+      },
+      {
+        "id": 899,
+        "title": "International Statistical Classification of Diseases and Related Health Problems",
+        "url": "https://en.wikipedia.org/wiki/International_Statistical_Classification_of_Diseases_and_Related_Health_Problems",
+        "combined_text": "International Statistical Classification of Diseases and Related Health Problems \"From Wikipedia, the free encyclopedianavigation search\"\"ICD\"\" redirects here. For other uses, see ICD (disambiguation). The International Classification of Diseases ( ICD) is the international \"\"standard diagnostic tool for epidemiology, health management and clinical purposes\"\". Its full official",
+        "distance": 0.7308610081672668
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-1556741093748311656": {
+    "query_id": "-1556741093748311656",
+    "query": "what to ask when buying a gas grill",
+    "relevants": [
+      {
+        "relevant_doc": 380,
+        "relevant_url": "http://blog.homedepot.com/gas-grill-questions-and-answers/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 380,
+        "title": "Top Five Questions About Buying a Gas Grill",
+        "url": "http://blog.homedepot.com/gas-grill-questions-and-answers/",
+        "combined_text": "Top Five Questions About Buying a Gas Grill Top Five Questions About Buying a Gas Grill Article Posted By: Laura Sullivanof The Home Depot Share article with: Print Email A gas or propane grill can be a big investment. And these days there are so many models and features to consider, it can be hard to know if you’re getting the right grill fo",
+        "distance": 0.24665559828281403
+      },
+      {
+        "id": 208,
+        "title": "How to Install a Propane-Fueled Stove",
+        "url": "https://www.thisoldhouse.com/how-to/how-to-install-propane-fueled-stove",
+        "combined_text": "How to Install a Propane-Fueled Stove Home > How To | More in Appliances How to Install a Propane-Fueled Stove In this how-to video, This Old House plumbing and heating expert Richard Trethewey shows how to upgrade from an electric range to cooking with gas By plumbing and heating expert Richard Trethewey of This Old House TVError setti",
+        "distance": 0.6207786202430725
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-1565765806057130715": {
+    "query_id": "-1565765806057130715",
+    "query": "technology ideas for science teachers",
+    "relevants": [
+      {
+        "relevant_doc": 596,
+        "relevant_url": "http://www.resa.net/curriculum/curriculum/science/technology/classroom/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 596,
+        "title": "Technology in the Science Classroom",
+        "url": "http://www.resa.net/curriculum/curriculum/science/technology/classroom/",
+        "combined_text": "Technology in the Science Classroom \"Technology in the Science Classroom Teachers do not have to be experts in a particular technology before they use it in their classroom. However, the technology must support the identified learning outcomes. Some creative ways to integrate technology to motivate students and reach educational goals",
+        "distance": 0.23410283029079437
+      },
+      {
+        "id": 799,
+        "title": "The Ten Coolest Kids Science Shows",
+        "url": "http://media.gunaxin.com/the-ten-coolest-kids-science-shows/82309",
+        "combined_text": "The Ten Coolest Kids Science Shows Media > Television The Ten Coolest Kids Science Shows By Stew Miller on February 8, 2011Share 50 Tweet +1 Pin 3One of the best things about growing up (such as it was) in the late ’70s and early ’80s was the quality of children’s learning television shows. Nowadays, programs are either watered down,",
+        "distance": 0.4553004503250122
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "8309146587200620087": {
+    "query_id": "8309146587200620087",
+    "query": "how to foreclose pledged securities california",
+    "relevants": [
+      {
+        "relevant_doc": 70,
+        "relevant_url": "http://calcorporatelaw.com/2012/09/foreclosing-on-pledged-securities/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 70,
+        "title": "Foreclosing On Pledged Securities",
+        "url": "http://calcorporatelaw.com/2012/09/foreclosing-on-pledged-securities/",
+        "combined_text": "Foreclosing On Pledged Securities \"Foreclosing On Pledged Securities Posted on September 10, 2012 by Keith Paul Bishop The California Corporate Securities Law requires that offers and sales of securities in any \"\"nonissuer transaction\"\" be qualified unless exempt or not subject to qualification. Cal. Corp. Code § 25130. This is an i",
+        "distance": 0.2618545889854431
+      },
+      {
+        "id": 837,
+        "title": "Oakland, CA Housing",
+        "url": "http://www.areavibes.com/oakland-ca/housing/",
+        "combined_text": "Oakland, CA Housing Sign in to your account Sign in Not registered? Click here to create an account…Forgot your password? Create your account Sign up Already have an account? Sign in here…I accept Area Vibes' Terms of Use Forgot your password Sign in Already have an account? Sign in here…",
+        "distance": 0.6625997424125671
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-9148031838093212893": {
+    "query_id": "-9148031838093212893",
+    "query": "meaning of high-frequency sound",
+    "relevants": [
+      {
+        "relevant_doc": 983,
+        "relevant_url": "http://www.audioenglish.org/dictionary/high-pitched.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 983,
+        "title": "HIGH-PITCHED",
+        "url": "http://www.audioenglish.org/dictionary/high-pitched.htm",
+        "combined_text": "HIGH-PITCHED \"Audio English.org » Dictionary » H » High-crowned ... Higher Education HIGH-PITCHEDPronunciation (US): Dictionary entry overview: What does high-pitched mean?• HIGH-PITCHED (adjective) The adjective HIGH-PITCHED has 2 senses:1. used of sounds and voices; high in pitch or frequency 2. set at a sharp",
+        "distance": 0.35113418102264404
+      },
+      {
+        "id": 338,
+        "title": "What is the frequency of a microwave that has a wavelength of 4 cm?",
+        "url": "https://answers.yahoo.com/question/index?qid=20100510185609AAxpgEF",
+        "combined_text": "What is the frequency of a microwave that has a wavelength of 4 cm? Science & Mathematics Physics What is the frequency of a microwave that has a wavelength of 4 cm? What is the frequency of a microwave that has a wavelength of 4 cm? - (in hertz) Hz Follow 3 answers Answers Relevance Rating Newest Oldest Best Answer: This uses the equation frequency x wavelength = s",
+        "distance": 0.7150207757949829
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-3366217566503327815": {
+    "query_id": "-3366217566503327815",
+    "query": "does Hamas count as a country",
+    "relevants": [
+      {
+        "relevant_doc": 354,
+        "relevant_url": "http://www.answers.com/Q/Is_Hamas_a_country"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 354,
+        "title": "What country just attacked Hamas in Gaza?",
+        "url": "http://www.answers.com/Q/Is_Hamas_a_country",
+        "combined_text": "What country just attacked Hamas in Gaza? \"Jeff Acklin 351,363 Contributions You can maintain power over people as long as you give them something. Rob a man of everything and that man will no longer be in your power. What country just attacked Hamas in Gaza? Israel. Beth Bridge 491 Contributions What was the first country to recognize Hama",
+        "distance": 0.5447232723236084
+      },
+      {
+        "id": 459,
+        "title": "Islam by country",
+        "url": "https://en.wikipedia.org/wiki/List_of_Muslim-majority_countries",
+        "combined_text": "Islam by country \"From Wikipedia, the free encyclopedia (Redirected from List of Muslim-majority countries)navigation search Part of a series on Islam Beliefs [show]Practices [show]Texts and laws [show]History [show]Culture and society [show]Related topics [show]Islam portalv t e World Muslim population by percentag",
+        "distance": 0.6387472748756409
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "7373014488514792103": {
+    "query_id": "7373014488514792103",
+    "query": "load cell measurement best practices",
+    "relevants": [
+      {
+        "relevant_doc": 218,
+        "relevant_url": "https://www.hbm.com/en/3230/load-measurement/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 218,
+        "title": "Technical Articles, Know-how and Tips and Tricks",
+        "url": "https://www.hbm.com/en/3230/load-measurement/",
+        "combined_text": "Technical Articles, Know-how and Tips and Tricks Load measurement tips and tricks Load cells guarantee correct results in many applications. However, there are many factors that need to be taken into account when installing, evaluating and using load cells. Technical Articles, Know-how and Tips and Tricks Our articles provide you with tips and inf",
+        "distance": 0.353634774684906
+      },
+      {
+        "id": 435,
+        "title": "Weights and balances",
+        "url": "http://www.explainthatstuff.com/weights_and_balances.html",
+        "combined_text": "Weights and balances \"Weights and balancesby Chris Woodford. Last updated: August 28, 2017. H ow many times do you weigh things in the course of a day? If you're on a diet, chances are you stand on scales each morning to check your progress. If you're having breakfast, you might weigh out what to eat by filling a bowl w",
+        "distance": 0.6891981959342957
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-3109647021961518859": {
+    "query_id": "-3109647021961518859",
+    "query": "when did trafficking become a rights issue",
+    "relevants": [
+      {
+        "relevant_doc": 365,
+        "relevant_url": "http://stanford.edu/group/womenscourage/cgi-bin/blogs/sextraffickingandprostitution/2010/05/27/when-did-trafficking-in-women-become-a-human-rights-issue-the-white-slavery-panic/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 365,
+        "title": "\"When did trafficking in women become a human rights issue? â The \"\"white slavery\"\" panic\"",
+        "url": "http://stanford.edu/group/womenscourage/cgi-bin/blogs/sextraffickingandprostitution/2010/05/27/when-did-trafficking-in-women-become-a-human-rights-issue-the-white-slavery-panic/",
+        "combined_text": "\"When did trafficking in women become a human rights issue? â The \"\"white slavery\"\" panic\" \"When did trafficking in women become a human rights issue? – The \"\"white slavery\"\" panic May 27th, 2010 by seguraciara Leave a reply »International trafficking in women came to focus with the movement against white slavery (1). However, the extent and severity of white slavery has been debated sinc",
+        "distance": 0.24201664328575134
+      },
+      {
+        "id": 556,
+        "title": "Slavery During the Colonial Period",
+        "url": "http://colonialslave.blogspot.com/",
+        "combined_text": "Slavery During the Colonial Period Horrors of Slavery One of the ways some of the slaves received their freedom was through the American Revolution. They were rewarded freedom through their services in the war. Others tried to get their freedom by escaping away from the plantations. They had secret ways to escape. Many white folks se",
+        "distance": 0.6270970702171326
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "7842032714438688759": {
+    "query_id": "7842032714438688759",
+    "query": "are specific brain functions localized",
+    "relevants": [
+      {
+        "relevant_doc": 741,
+        "relevant_url": "http://www.audioenglish.org/dictionary/localization_of_function.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 741,
+        "title": "LOCALIZATION OF FUNCTION",
+        "url": "http://www.audioenglish.org/dictionary/localization_of_function.htm",
+        "combined_text": "LOCALIZATION OF FUNCTION \"Audio English.org » Dictionary » L » Lobe ... Located LOCALIZATION OF FUNCTIONPronunciation (US): Dictionary entry overview: What does localization of function mean?• LOCALIZATION OF FUNCTION (noun) The noun LOCALIZATION OF FUNCTION has 1 sense:1. (physiology) the principle that specific functions",
+        "distance": 0.492696076631546
+      },
+      {
+        "id": 192,
+        "title": "Cell Structure and Function Question",
+        "url": "http://www.helpteaching.com/questions/313809/this-organelle-separates-cell-contents-from-the-external-env",
+        "combined_text": "Cell Structure and Function Question Cell Structure and Function Question View Find Similar View this question. Add this question to a group or test by clicking the appropriate button below. Grade 9 Cell Structure and Function This organelle separates cell contents from the external environment and regulates the flow of materials in an",
+        "distance": 0.6631876826286316
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "9080617203197371481": {
+    "query_id": "9080617203197371481",
+    "query": "withholding rules for additional Medicare tax",
+    "relevants": [
+      {
+        "relevant_doc": 798,
+        "relevant_url": "https://www.shrm.org/ResourcesAndTools/hr-topics/compensation/Pages/Additional-Medicare-Tax-Withholding.aspx"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 798,
+        "title": "Employer Obligations for the Additional Medicare Tax",
+        "url": "https://www.shrm.org/ResourcesAndTools/hr-topics/compensation/Pages/Additional-Medicare-Tax-Withholding.aspx",
+        "combined_text": "Employer Obligations for the Additional Medicare Tax Compensation Employer Obligations for the Additional Medicare Tax Those failing to withhold the correct amount may be subject to penalties By Jeffrey M. Holdvogt and Ruth Wimer, © Mc Dermott Will & Emery LLPDec 13, 2013LIKE SAVE PRINT EMAILReuse Permissions In late November 2013, the Internal Revenu",
+        "distance": 0.23886705935001373
+      },
+      {
+        "id": 2,
+        "title": "What is IRS Deductions for Pretax Health Insurance Premiums?",
+        "url": "https://taxpremium.wordpress.com/2013/10/10/what-is-irs-deductions-for-pretax-health-insurance-premiums/",
+        "combined_text": "What is IRS Deductions for Pretax Health Insurance Premiums? What is IRS Deductions for Pretax Health Insurance Premiums?0The inner Revenue Program code permits different varieties of breaks included in pre-tax medical health insurance premiums paid simply by folks as well as business people. It is possible to acquire other designs of tax reduction that can b",
+        "distance": 0.5813783407211304
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-4843310490682428246": {
+    "query_id": "-4843310490682428246",
+    "query": "how do the three branches cooperate",
+    "relevants": [
+      {
+        "relevant_doc": 539,
+        "relevant_url": "https://www.reference.com/government-politics/three-branches-government-work-together-1f6e58841415c507"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 539,
+        "title": "How the Three Branches of Government Work Together",
+        "url": "https://www.reference.com/government-politics/three-branches-government-work-together-1f6e58841415c507",
+        "combined_text": "How the Three Branches of Government Work Together Full Answer Creation of the Branches When the founding fathers framed the constitution, they wanted to make sure that no one had too much control of the government. This is why they created the three branches of government. The three branches are designed to be a separation of powers. Each branch ha",
+        "distance": 0.33808329701423645
+      },
+      {
+        "id": 411,
+        "title": "Senate definition, Senate meaning | English dictionary",
+        "url": "http://dictionary.reverso.net/english-definition/Senate",
+        "combined_text": "Senate definition, Senate meaning | English dictionary Search Synonyms Conjugate Speak Suggest new translation/definitionsenaten1 any legislative or governing body considered to resemble a Senate2 the main governing body at some colleges and universities (C13: from Latin senatus council of the elders, from senex an old man)Senaten sometimes not cap1 the",
+        "distance": 0.669662594795227
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-1422662799945166274": {
+    "query_id": "-1422662799945166274",
+    "query": "san bernardino one-day homeless count",
+    "relevants": [
+      {
+        "relevant_doc": 621,
+        "relevant_url": "http://wp.sbcounty.gov/dbh/sbchp/community-projects/point-in-time-count/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 621,
+        "title": "Point-In-Time Count",
+        "url": "http://wp.sbcounty.gov/dbh/sbchp/community-projects/point-in-time-count/",
+        "combined_text": "Point-In-Time Count Point-In-Time Count2017 San Bernardino County Homeless Count and Subpopulation Survey2017 San Bernardino County Preliminary PITC Report What is the San Bernardino County Point-in-Time Homeless Count? The Point-in-Time Homeless Count (PITC) is a one-day street-based and service-based count and subpop",
+        "distance": 0.36701685190200806
+      },
+      {
+        "id": 837,
+        "title": "Oakland, CA Housing",
+        "url": "http://www.areavibes.com/oakland-ca/housing/",
+        "combined_text": "Oakland, CA Housing Sign in to your account Sign in Not registered? Click here to create an account…Forgot your password? Create your account Sign up Already have an account? Sign in here…I accept Area Vibes' Terms of Use Forgot your password Sign in Already have an account? Sign in here…",
+        "distance": 0.6403422355651855
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-3890750553554317967": {
+    "query_id": "-3890750553554317967",
+    "query": "frog organ functions flashcards",
+    "relevants": [
+      {
+        "relevant_doc": 677,
+        "relevant_url": "http://www.proprofs.com/flashcards/story.php?title=frog-parts"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 288,
+        "title": " (Chapter 1) Organ Systems & Major Functions",
+        "url": "https://quizlet.com/9034067/chapter-1-organ-systems-major-functions-flash-cards/",
+        "combined_text": "(Chapter 1) Organ Systems & Major Functions 11 terms robryant118 (Chapter 1) Organ Systems & Major Functions The 11 different organ systems, their main functions and the organs found in the system",
+        "distance": 0.40970420837402344
+      },
+      {
+        "id": 677,
+        "title": "Frog Parts",
+        "url": "http://www.proprofs.com/flashcards/story.php?title=frog-parts",
+        "combined_text": "Frog Parts Frog Parts12 cards | Created by joshcharap | 9 years ago Flashcards Memorize Quiz Match Gravity This Is For My Test In Science For June 3rd. View Flashcards Preview Flashcards Front Back What does the liver do and what system is it from? The frog's liver produces chemicals to detoxify the blood. It",
+        "distance": 0.43398749828338623
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "7616012141248434609": {
+    "query_id": "7616012141248434609",
+    "query": "what happened to obama's parents",
+    "relevants": [
+      {
+        "relevant_doc": 874,
+        "relevant_url": "https://answers.yahoo.com/question/index?qid=20080828203654AAn0DfJ"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 874,
+        "title": "How did Barack Obama's mother and father die?",
+        "url": "https://answers.yahoo.com/question/index?qid=20080828203654AAn0DfJ",
+        "combined_text": "How did Barack Obama's mother and father die? Politics & Government Elections How did Barack Obama's mother and father die? Please no rude answers- I was watching his speech and I'm just curious. -Lilly1 following 17 answers Answers Relevance Rating Newest Oldest Best Answer: BARACK FATHER DIED FROM A CAR ACCIDENT IN 1982 in KENYA In Kenya, Oba",
+        "distance": 0.35017481446266174
+      },
+      {
+        "id": 243,
+        "title": "Acton Institute Powerblog",
+        "url": "http://blog.acton.org/archives/64574-thomas-jefferson-catholic-sisters-obamacare.html",
+        "combined_text": "Acton Institute Powerblog Acton Institute Powerblog Thomas Jefferson, Catholic Sisters And Obamacareby Elise Hilton • January 10, 2014Share this article: Join the Discussion:6 Comments It’s easy to read that headline and think, “Wha…?” What in the world do Founding Father Thomas Jefferson, Catholic Sisters and our present da",
+        "distance": 0.6647016406059265
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "8307547464043372415": {
+    "query_id": "8307547464043372415",
+    "query": "tips for passing job personality tests",
+    "relevants": [
+      {
+        "relevant_doc": 210,
+        "relevant_url": "http://www.career-and-test.com/personality-test-for-employment.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 210,
+        "title": "How to Pass a Personality Test for Employment",
+        "url": "http://www.career-and-test.com/personality-test-for-employment.html",
+        "combined_text": "How to Pass a Personality Test for Employment How to Pass a Personality Test for Employment Is it that you sail through the background check and interview phase only to fail on the personality test for employment? How many personality tests for pre employment have you taken? While employers and psychologists argue there is no right or wrong ans",
+        "distance": 0.34168070554733276
+      },
+      {
+        "id": 617,
+        "title": "Psych Stats Exam #1",
+        "url": "https://quizlet.com/9577879/psych-stats-exam-1-flash-cards/",
+        "combined_text": "Psych Stats Exam #1 27 terms laurenvalerie Psych Stats Exam #1Learn Flashcards Write Spell Test Match Gravity Advertisement Upgrade to remove ads Like this study set? Create a free account to save it. Create a free account Maybe later Sort Descriptive Statistic a number or figure that summarizes a set of data Inferenti",
+        "distance": 0.574618399143219
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-7189894690524821956": {
+    "query_id": "-7189894690524821956",
+    "query": "what is soot and its health effects",
+    "relevants": [
+      {
+        "relevant_doc": 428,
+        "relevant_url": "http://www.momscleanairforce.org/soot-facts/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 428,
+        "title": "Soot Pollution Facts",
+        "url": "http://www.momscleanairforce.org/soot-facts/",
+        "combined_text": "Soot Pollution Facts Soot Pollution Facts WHAT IS SOOT? Soot is an environmental contaminant. It is the result of the incomplete combustion of hydrocarbons. You can see soot belching from the exhaust pipes of diesel trucks as well as smokestacks; it accumulates on your windowsills if you live near a major road. Soot is",
+        "distance": 0.2724384665489197
+      },
+      {
+        "id": 740,
+        "title": "Burning Skin and Essential Oils",
+        "url": "https://treato.com/Burning+Skin,Essential+Oils/?a=s",
+        "combined_text": "Burning Skin and Essential Oils \"Burning Skin and Essential Oils About Burning Skin19,468 discussions See more about Burning Skin Essential Oils Discussions around the web Filter by Gender M FRole Patient Caregiver Age All Add topic We found 24 discussions Share your experience Mark as question Then there are some people who shoul",
+        "distance": 0.6990715265274048
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-1647856327055279536": {
+    "query_id": "-1647856327055279536",
+    "query": "bromate additive in bread safety",
+    "relevants": [
+      {
+        "relevant_doc": 355,
+        "relevant_url": "https://en.wikipedia.org/wiki/Potassium_bromate"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 984,
+        "title": "Microorganisms & Microbial-Derived Ingredients Used in Food (Partial List)",
+        "url": "https://www.fda.gov/Food/IngredientsPackagingLabeling/GRAS/MicroorganismsMicrobialDerivedIngredients/default.htm",
+        "combined_text": "Microorganisms & Microbial-Derived Ingredients Used in Food (Partial List) \"Microorganisms & Microbial-Derived Ingredients Used in Food (Partial List)Share Tweet Linkedin Pin it Email Print Food ingredients may be \"\"food additives\"\" that are approved by FDA for specific uses or GRAS (generally recognized as safe) substances. A substance may be GRAS only if its general reco",
+        "distance": 0.6330585479736328
+      },
+      {
+        "id": 355,
+        "title": "Potassium bromate",
+        "url": "https://en.wikipedia.org/wiki/Potassium_bromate",
+        "combined_text": "Potassium bromate \"Potassium bromate From Wikipedia, the free encyclopedianavigation search Potassium bromate Names IUPAC name Potassium bromate Other names Potassium bromate (V) Bromic acid, potassium salt Identifiers CAS Number7758-01-23D model ( JSmol)Interactive image Ch EBICHEBI:38211Chem Spider22852ECHA Info Ca",
+        "distance": 0.6553335785865784
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-3874266063301508491": {
+    "query_id": "-3874266063301508491",
+    "query": "how many protons neutrons electrons titanium",
+    "relevants": [
+      {
+        "relevant_doc": 367,
+        "relevant_url": "http://www.chacha.com/question/what-subatomic-particles-does-titanium-have"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 367,
+        "title": "what subatomic particles does titanium have?",
+        "url": "http://www.chacha.com/question/what-subatomic-particles-does-titanium-have",
+        "combined_text": "what subatomic particles does titanium have? \"Anonymouswhat subatomic particles does titanium have? Topics: Science › Physics › Atoms, Chemistry Answer Number of Energy Levels: 4 First Energy Level: 2 Second Energy Level: 8 Third Energy Level: 10 Fourth Energy Level: 2. !0 5 years ago Do you know the answer? Login or Sign Up to answer this que",
+        "distance": 0.38747766613960266
+      },
+      {
+        "id": 943,
+        "title": "Chapter 1 - Atomic Structure",
+        "url": "https://quizlet.com/11096803/chapter-1-atomic-structure-flash-cards/",
+        "combined_text": "Chapter 1 - Atomic Structure \"131 terms kmcdaniel223Chapter 1 - Atomic Structure Learn Flashcards Write Spell Test Match Gravity Advertisement Upgrade to remove ads Sort Where are protons found? -along with neutrons in the nucleus of an atom What is the charge of each proton? 1.6*10^-19What is the mass of each proton? -one atom",
+        "distance": 0.6374845504760742
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-5044514793921411693": {
+    "query_id": "-5044514793921411693",
+    "query": "how hot should chicken and beef be cooked",
+    "relevants": [
+      {
+        "relevant_doc": 903,
+        "relevant_url": "https://www.thekitchn.com/food-safety-101-safe-temperatu-44032"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 903,
+        "title": "Food Safety 101: Safe Temperatures for Poultry and Meat",
+        "url": "https://www.thekitchn.com/food-safety-101-safe-temperatu-44032",
+        "combined_text": "Food Safety 101: Safe Temperatures for Poultry and Meat Food Safety 101: Safe Temperatures for Poultry and Meat Faith Durand Feb 28, 2008Share Email With the USDA ground beef recall fresh on our minds, we are brushing up on our own food handling practices. Do you know how long you can leave that potato salad out or how long to cook meat for it to be safe",
+        "distance": 0.5091078877449036
+      },
+      {
+        "id": 910,
+        "title": "Chef John's Barbecue Chicken",
+        "url": "http://allrecipes.com/recipe/236990/chef-johns-barbecue-chicken/",
+        "combined_text": "Chef John's Barbecue Chicken \"Home Recipes Everyday Cooking Watch Chef John's Barbecue Chicken461 made it | 76 reviews53KRecipe by: Chef John\"\"When it comes to barbecued chicken, everyone wants that nice thick glaze of sauce attached to the skin, and the only way to do it, is brush it on as it cooks. Therein lies the problem. B",
+        "distance": 0.5965078473091125
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "1904581131376508533": {
+    "query_id": "1904581131376508533",
+    "query": "school attendance laws by state",
+    "relevants": [
+      {
+        "relevant_doc": 810,
+        "relevant_url": "http://education.findlaw.com/education-options/compulsory-education.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 810,
+        "title": "Compulsory Education",
+        "url": "http://education.findlaw.com/education-options/compulsory-education.html",
+        "combined_text": "Compulsory Education Compulsory Education Compulsory education laws require parents to have their children attend public, private, or parochial school for a designated period. Each state determines both the start and end time duration and generally requires children to begin school at the age range of five to seven year",
+        "distance": 0.3882155120372772
+      },
+      {
+        "id": 958,
+        "title": "Student Eligibility to Receive Free or Reduced Price School Meals",
+        "url": "http://www.kidsdata.org/topic/518/free-school-meals-eligible/map",
+        "combined_text": "Student Eligibility to Receive Free or Reduced Price School Meals Home > Data by Topic > Food Security > Student Eligibility to Receive Free or Reduced Price School Meals Share: Student Eligibility to Receive Free or Reduced Price School Meals (change indicator)Related Data Why This Topic Is Important How Children Are Faring Policy Implications Research & Links Se",
+        "distance": 0.5954382419586182
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "2842794776458071791": {
+    "query_id": "2842794776458071791",
+    "query": "fanconi anemia overview symptoms treatment",
+    "relevants": [
+      {
+        "relevant_doc": 31,
+        "relevant_url": "https://rarediseases.org/rare-diseases/fanconi-anemia/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 31,
+        "title": "Alone we are rare. Together we are strong.â¥ Donate Today",
+        "url": "https://rarediseases.org/rare-diseases/fanconi-anemia/",
+        "combined_text": "Alone we are rare. Together we are strong.â¥ Donate Today Fanconi Anemia NORD gratefully acknowledges David Brouch, NORD Intern from the University of Notre Dame, Jakub Tolar, MD, Ph D, Executive Vice Dean, Medical School, Distinguished Mc Knight University Professor, Department of Pediatrics, Division of Blood and Marrow Transplantation, Director, Stem Ce",
+        "distance": 0.4928099513053894
+      },
+      {
+        "id": 364,
+        "title": "Definitions &Translations",
+        "url": "http://www.definitions.net/definition/sideropenia",
+        "combined_text": "Definitions &Translations \"Vocabulary What does sideropenia mean? Definitions for sideropenia Here are all the possible meanings and translations of the word sideropenia. Princeton's Word Net (0.00 / 0 votes)Rate this definition:sideropenia (noun)a deficiency of iron; results from inadequate iron in the diet or from hemorrha",
+        "distance": 0.7387802004814148
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "7704372857688287080": {
+    "query_id": "7704372857688287080",
+    "query": "differences between volatile and nonvolatile memory",
+    "relevants": [
+      {
+        "relevant_doc": 581,
+        "relevant_url": "http://encyclopedia2.thefreedictionary.com/memory+types"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 581,
+        "title": "memory types",
+        "url": "http://encyclopedia2.thefreedictionary.com/memory+types",
+        "combined_text": "memory types \"memory types Also found in: Dictionary, Thesaurus, Medical, Legal, Financial. Related to memory types: Photographic memorymemory types Following are the different types of memory technologies used in electronic devices. The two major categories are volatile and non-volatile. Volatile chips lose the",
+        "distance": 0.4623674750328064
+      },
+      {
+        "id": 1007,
+        "title": "thiopental",
+        "url": "http://medical-dictionary.thefreedictionary.com/thiopental",
+        "combined_text": "thiopental \"thiopental Also found in: Dictionary, Thesaurus, Encyclopedia, Wikipedia .thiopental [ thi″o-pen´tal] an ultrashort-acting barbiturate, used in the form of the sodium salt as an intravenous anesthetic, to control convulsions produced during inhalation anesthesia, and in psychiatry for narcoanalysis",
+        "distance": 0.8076927065849304
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "5286064840704764567": {
+    "query_id": "5286064840704764567",
+    "query": "making high fiber powder from lemon waste",
+    "relevants": [
+      {
+        "relevant_doc": 962,
+        "relevant_url": "http://www.sciencedirect.com/science/article/pii/S1466856403000596"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 962,
+        "title": "Preparation of high dietary fiber powder from lemon juice by-products â",
+        "url": "http://www.sciencedirect.com/science/article/pii/S1466856403000596",
+        "combined_text": "Preparation of high dietary fiber powder from lemon juice by-products â Innovative Food Science & Emerging Technologies Volume 5, Issue 1, March 2004, Pages 113-117Preparation of high dietary fiber powder from lemon juice by-products ☆Y. Lario E. Sendra J. Garcı́a-Pérez C. Fuentes E. Sayas-Barberá J. Fernández-López J. A. Pérez-Alvarez Show morehttps://doi.org/10.1016/j",
+        "distance": 0.26716336607933044
+      },
+      {
+        "id": 317,
+        "title": "How to Make Coconut Water Kefir",
+        "url": "http://www.youngandraw.com/how-to-make-coconut-water-kefir-1/",
+        "combined_text": "How to Make Coconut Water Kefir \"How to Make Coconut Water Kefir By Bethanne Wanamaker Coconut Water The words probiotics and healthy flora (aka “good bacteria”) do not sound very pretty which is quite ironic because it is precisely these substances that enhance our natural beauty – possibly more than anything else! It’s in our gu",
+        "distance": 0.7336887717247009
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "7156868350972012011": {
+    "query_id": "7156868350972012011",
+    "query": "philippines presidency overview and list",
+    "relevants": [
+      {
+        "relevant_doc": 1096,
+        "relevant_url": "http://en.wikipilipinas.org/index.php/President_of_the_Philippines"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 1096,
+        "title": "President of the Philippines",
+        "url": "http://en.wikipilipinas.org/index.php/President_of_the_Philippines",
+        "combined_text": "President of the Philippines \"President of the Philippinesnavigation search Philippines This article is part of the series: Politics and government of the Philippines Government Political history · Constitution Executive President ( list) Benigno Aquino IIIVice President ( list) Jejomar Binay Executive Departments ( list)Congre",
+        "distance": 0.2147659957408905
+      },
+      {
+        "id": 1052,
+        "title": "The Electoral College",
+        "url": "http://www.ncsl.org/research/elections-and-campaigns/the-electoral-college.aspx",
+        "combined_text": "The Electoral College The Electoral College8/22/2016Table of Contents Overview The Electoral College in 2016Nomination of Electors Awarding Electoral Votes Reforming The Electoral College Faithless Electors Additional Information Contact Elections Team Please Note: NCSL does not have the names of the individual president",
+        "distance": 0.6845985054969788
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "4174128043656234070": {
+    "query_id": "4174128043656234070",
+    "query": "what do rn i ii iii mean",
+    "relevants": [
+      {
+        "relevant_doc": 982,
+        "relevant_url": "http://allnurses.com/general-nursing-discussion/what-is-a-439183.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 982,
+        "title": "What is a the difference between RN I, II, III etc?",
+        "url": "http://allnurses.com/general-nursing-discussion/what-is-a-439183.html",
+        "combined_text": "What is a the difference between RN I, II, III etc? \"Latest Articles Products Conferences Nurses › General Nursing ›What is a the difference between RN I, II, III etc? Participate in the 2018 Nursing Salary Surveyby mzjennx Views: 98,892 Comments: 6I am currently a new grad RN. I think it is considered a RN I at where i work at? But I was wondering i",
+        "distance": 0.2871881127357483
+      },
+      {
+        "id": 710,
+        "title": "About a doctoral degree in nursing",
+        "url": "http://www.allnursingschools.com/dnp/",
+        "combined_text": "About a doctoral degree in nursing About a doctoral degree in nursing Completing a doctoral degree in nursing (DNP) program will take anywhere from three to five years and has the ability to propel you further in your career. While it’s not required for all advanced nursing jobs, a DNP can help you move into nurse leadership roles. D",
+        "distance": 0.7410258054733276
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "1937436808009794360": {
+    "query_id": "1937436808009794360",
+    "query": "daily diet in ancient Rome",
+    "relevants": [
+      {
+        "relevant_doc": 231,
+        "relevant_url": "https://www.thoughtco.com/what-the-romans-ate-120636"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 231,
+        "title": "Roman Meals - What the Romans Ate",
+        "url": "https://www.thoughtco.com/what-the-romans-ate-120636",
+        "combined_text": "Roman Meals - What the Romans Ate \"Humanities ›History & Culture Roman Meals - What the Romans Ate Share Flipboard Email Print Roman Banquet. Clipart.comby N. S. Gill Updated June 12, 2017Concern About Overdoing It at Roman Meals: In the U. S. today, the government issues dietary guidelines, with an ever-increasing number of fruits",
+        "distance": 0.29868704080581665
+      },
+      {
+        "id": 966,
+        "title": "Food in Ancient Greece",
+        "url": "http://www.cooksinfo.com/food-in-ancient-greece",
+        "combined_text": "Food in Ancient Greece Newsletter sign up Home Encyclopedia Recipes Biographies Kitchenware Food Calendar Browse > Home > Cuisines Food in Ancient Greece Evan Amos (2010) / Wikimedia Commons",
+        "distance": 0.4969559907913208
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "1559317209500224543": {
+    "query_id": "1559317209500224543",
+    "query": "how do weighing scales work",
+    "relevants": [
+      {
+        "relevant_doc": 435,
+        "relevant_url": "http://www.explainthatstuff.com/weights_and_balances.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 435,
+        "title": "Weights and balances",
+        "url": "http://www.explainthatstuff.com/weights_and_balances.html",
+        "combined_text": "Weights and balances \"Weights and balancesby Chris Woodford. Last updated: August 28, 2017. H ow many times do you weigh things in the course of a day? If you're on a diet, chances are you stand on scales each morning to check your progress. If you're having breakfast, you might weigh out what to eat by filling a bowl w",
+        "distance": 0.45596471428871155
+      },
+      {
+        "id": 636,
+        "title": "Don't be fooled by scale insects",
+        "url": "http://www.nola.com/homegarden/index.ssf/2012/03/dont_be_fooled_by_scale_insect.html",
+        "combined_text": "Don't be fooled by scale insects Scale insects can infest and damage many of the plants we grow in our landscapes and indoors. They feed on the sap of plants, and a large enough population can weaken a plant, damage it or even kill it. View full size Tony O. Champagne / The Times-Picayune Scale can be difficult to detect. Once the",
+        "distance": 0.5766050219535828
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-8309441352344490980": {
+    "query_id": "-8309441352344490980",
+    "query": "did trump misquote lincoln on tariffs",
+    "relevants": [
+      {
+        "relevant_doc": 346,
+        "relevant_url": "https://www.washingtonpost.com/blogs/post-partisan/wp/2016/06/23/donald-trump-praised-the-protectionism-of-abraham-lincoln-i-call-foul/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 346,
+        "title": "Donald Trump praised the protectionism of Abraham Lincoln. I call foul.",
+        "url": "https://www.washingtonpost.com/blogs/post-partisan/wp/2016/06/23/donald-trump-praised-the-protectionism-of-abraham-lincoln-i-call-foul/",
+        "combined_text": "Donald Trump praised the protectionism of Abraham Lincoln. I call foul. Donald Trump speaks during an event at Trump So Ho Hotel on Wednesday in New York. (Drew Angerer/Getty Images)Donald Trump delivered yet another speech yesterday in response to yet another speech by Hillary Clinton on Tuesday. (And of course, by “speech” I mean a 30-minute rant against his/her oppon",
+        "distance": 0.49516206979751587
+      },
+      {
+        "id": 706,
+        "title": "\"What were the 3 main goals of FDR's \"\"New Deal\"\"\"",
+        "url": "https://quizlet.com/77903344/what-were-the-3-main-goals-of-fdrs-new-deal-flash-cards/",
+        "combined_text": "\"What were the 3 main goals of FDR's \"\"New Deal\"\"\" \"16 terms montana_wiggins What were the 3 main goals of FDR's \"\"New Deal\"\"Learn Flashcards Write Spell Test Match Gravity Advertisement Upgrade to remove ads Try diagrams on Quizlet!See what you're learning in a whole new way. Browse diagrams Sort Relief: to farmers to all farmers and homeowners in",
+        "distance": 0.6442133784294128
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-6122961318866813636": {
+    "query_id": "-6122961318866813636",
+    "query": "meaning of a black star on door",
+    "relevants": [
+      {
+        "relevant_doc": 525,
+        "relevant_url": "http://www.womenofgrace.com/blog/?p=598"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 525,
+        "title": "Who hangs a black star on their door at Christmas, and what does it mean?",
+        "url": "http://www.womenofgrace.com/blog/?p=598",
+        "combined_text": "Who hangs a black star on their door at Christmas, and what does it mean? Who hangs a black star on their door at Christmas, and what does it mean? Posted on February 11, 2011 by SBrinkmann BE writes: “On our cul-de-cac is a young man and woman who moved in approximately 2 years ago. Both this Christmas and last Christmas they do not decorate the exterior of their home wi",
+        "distance": 0.3514389991760254
+      },
+      {
+        "id": 386,
+        "title": "Symbols of Anarchism",
+        "url": "http://miriadic.wikia.com/wiki/Symbols_of_Anarchism",
+        "combined_text": "Symbols of Anarchism \"The Symbols of Anarchism are as varied as there are anarchists. There have been, throughout the history of Anarchism, several different well-known symbols . Contents [ show]The Black Flag Edit The Black Flag is a early anarchist symbol The black flag has been used as a symbol of Anarchism since at",
+        "distance": 0.6498392224311829
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "6920696773209137099": {
+    "query_id": "6920696773209137099",
+    "query": "photosynthesis review flashcards light reactions",
+    "relevants": [
+      {
+        "relevant_doc": 811,
+        "relevant_url": "https://quizlet.com/21604088/chapter-6-flash-cards/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 811,
+        "title": "Chapter 6",
+        "url": "https://quizlet.com/21604088/chapter-6-flash-cards/",
+        "combined_text": "Chapter 6 24 terms dawneflanders01Chapter 6Photosynthesis Learn Flashcards Write Spell Test Match Gravity Advertisement Upgrade to remove ads Sort Photosynthesis Process whereby energy from the sun is captured and used to build carbohydrates from Co2 gas Light-dependent reactions Occur on the thylakoid membra",
+        "distance": 0.3473259210586548
+      },
+      {
+        "id": 801,
+        "title": "BioCoach Activity",
+        "url": "http://www.phschool.com/science/biology_place/biocoach/photosynth/overview.html",
+        "combined_text": "BioCoach Activity Bio Coach Activity Concept 1: An Overview of Photosynthesis Photosynthesis converts light energy into the chemical energy of sugars and other organic compounds. This process consists of a series of chemical reactions that require carbon dioxide (CO 2) and water (H 2 O) and store chemical energy in t",
+        "distance": 0.41511303186416626
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "7942453269951880511": {
+    "query_id": "7942453269951880511",
+    "query": "flies that look like bees and don't sting",
+    "relevants": [
+      {
+        "relevant_doc": 987,
+        "relevant_url": "https://www.rspb.org.uk/birds-and-wildlife/bird-and-wildlife-guides/a-z-of-a-wildlife-garden/atoz/h/hoverfly.aspx"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 987,
+        "title": "Key information",
+        "url": "https://www.rspb.org.uk/birds-and-wildlife/bird-and-wildlife-guides/a-z-of-a-wildlife-garden/atoz/h/hoverfly.aspx",
+        "combined_text": "Key information Key information Although these brightly-coloured insects look like bees or wasps, they are in fact true flies and do not sting. Hoverflies are excellent examples of Batesian mimicry (named after H W Bates who first described it in 1862). They generally mimic bees and wasps – insects that sting and a",
+        "distance": 0.3445223867893219
+      },
+      {
+        "id": 750,
+        "title": "The Best Mosquito Repelling Plants According To Studies",
+        "url": "http://bugofff.com/the-best-mosquito-repelling-plants-according-to-studies/",
+        "combined_text": "The Best Mosquito Repelling Plants According To Studies The Best Mosquito Repelling Plants According To Studies March 6, 2015 Mosquitoes, Repellents It is commonly believed that certain plant species repel mosquitoes and thus protect from bites. Websites and other sources claim that mosquitoes and other bugs “can’t stand the pungent scent” a certain plan",
+        "distance": 0.6643922328948975
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "4318862635631007672": {
+    "query_id": "4318862635631007672",
+    "query": "what does at anchor mean in sailing",
+    "relevants": [
+      {
+        "relevant_doc": 880,
+        "relevant_url": "https://www.collinsdictionary.com/dictionary/english/at-anchor"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 880,
+        "title": "Definition of 'at anchor'",
+        "url": "https://www.collinsdictionary.com/dictionary/english/at-anchor",
+        "combined_text": "Definition of 'at anchor' Definition of 'at anchor'Learner: at anchor English: at anchor American: at anchor Example sentences Trendsat anchorphrase If a boat is at anchor, it is floating in a particular place and is prevented from moving by its anchor. Sailing boats lay at anchor in the narrow waterway.anchor COBUILD Advanc",
+        "distance": 0.2037857472896576
+      },
+      {
+        "id": 854,
+        "title": "\"Study sets matching \"\"european explorers conquistadors\"\"\"",
+        "url": "https://quizlet.com/subject/european-explorers-conquistadors/",
+        "combined_text": "\"Study sets matching \"\"european explorers conquistadors\"\"\" \"Study sets matching \"\"european explorers conquistadors\"\"Study sets Diagrams Classes Users Options14 terms Cecilia_Schwalbe European Explorers and Conquistadors Henry the Navigator Bartholomeu Dias Vasco da Gama Set up schools for sailors in Portugal... Sailed along the west c… First to round the ti",
+        "distance": 0.6813241243362427
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-5601929993332960047": {
+    "query_id": "-5601929993332960047",
+    "query": "is Egypt governed by rule of law",
+    "relevants": [
+      {
+        "relevant_doc": 529,
+        "relevant_url": "http://www.counterpunch.org/2015/06/03/does-egypt-have-a-government/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 529,
+        "title": "Does Egypt have a Government?",
+        "url": "http://www.counterpunch.org/2015/06/03/does-egypt-have-a-government/",
+        "combined_text": "Does Egypt have a Government? June 3, 2015Does Egypt have a Government?by Lawrence Davidson Military officers often take over countries, but only a fool would call the result a government. Governments do not have to be democratic, but they do have to be rule-based. The rules can come in the form of generic laws or customs, but i",
+        "distance": 0.28066474199295044
+      },
+      {
+        "id": 589,
+        "title": "The Difference Between Laws and Regulations",
+        "url": "http://www.uscgboating.org/regulations/",
+        "combined_text": "The Difference Between Laws and Regulations The Difference Between Laws and Regulations The difference between laws (statutes) and regulations is sometimes misunderstood. Congress, and only Congress, enacts laws. The Motorboat Act of 1940, the Federal Boating Act of 1958 and the Federal Boat Safety Act of 1971 are all examples of laws which w",
+        "distance": 0.5971386432647705
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-8578615074668080443": {
+    "query_id": "-8578615074668080443",
+    "query": "convert kitchen range to propane",
+    "relevants": [
+      {
+        "relevant_doc": 208,
+        "relevant_url": "https://www.thisoldhouse.com/how-to/how-to-install-propane-fueled-stove"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 208,
+        "title": "How to Install a Propane-Fueled Stove",
+        "url": "https://www.thisoldhouse.com/how-to/how-to-install-propane-fueled-stove",
+        "combined_text": "How to Install a Propane-Fueled Stove Home > How To | More in Appliances How to Install a Propane-Fueled Stove In this how-to video, This Old House plumbing and heating expert Richard Trethewey shows how to upgrade from an electric range to cooking with gas By plumbing and heating expert Richard Trethewey of This Old House TVError setti",
+        "distance": 0.44399094581604004
+      },
+      {
+        "id": 380,
+        "title": "Top Five Questions About Buying a Gas Grill",
+        "url": "http://blog.homedepot.com/gas-grill-questions-and-answers/",
+        "combined_text": "Top Five Questions About Buying a Gas Grill Top Five Questions About Buying a Gas Grill Article Posted By: Laura Sullivanof The Home Depot Share article with: Print Email A gas or propane grill can be a big investment. And these days there are so many models and features to consider, it can be hard to know if you’re getting the right grill fo",
+        "distance": 0.7082573175430298
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "1225590981457932062": {
+    "query_id": "1225590981457932062",
+    "query": "french navigator who explored st lawrence",
+    "relevants": [
+      {
+        "relevant_doc": 361,
+        "relevant_url": "http://www.u-s-history.com/pages/h1143.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 361,
+        "title": "Jacques Cartier",
+        "url": "http://www.u-s-history.com/pages/h1143.html",
+        "combined_text": "Jacques Cartier \"Jacques Cartier Jacques Cartier, the French navigator, established his country’s claim to present-day Canada through his explorations of the Gulf of St. Lawrence and the St. Lawrence River. Jacques Cartier was born in 1491 in the French seaport town of Saint-Malo and later studied navigation in Die",
+        "distance": 0.2562159299850464
+      },
+      {
+        "id": 854,
+        "title": "\"Study sets matching \"\"european explorers conquistadors\"\"\"",
+        "url": "https://quizlet.com/subject/european-explorers-conquistadors/",
+        "combined_text": "\"Study sets matching \"\"european explorers conquistadors\"\"\" \"Study sets matching \"\"european explorers conquistadors\"\"Study sets Diagrams Classes Users Options14 terms Cecilia_Schwalbe European Explorers and Conquistadors Henry the Navigator Bartholomeu Dias Vasco da Gama Set up schools for sailors in Portugal... Sailed along the west c… First to round the ti",
+        "distance": 0.6065138578414917
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-7754918376907825531": {
+    "query_id": "-7754918376907825531",
+    "query": "how to measure ankle circumference",
+    "relevants": [
+      {
+        "relevant_doc": 844,
+        "relevant_url": "http://www.topendsports.com/testing/tests/girth-ankle.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 844,
+        "title": "Ankle Girth",
+        "url": "http://www.topendsports.com/testing/tests/girth-ankle.htm",
+        "combined_text": "Ankle Girth Home > Fitness Testing > Tests > Anthropometry > Body Size > Girth > Ankle Ankle Girth Girths are circumference measures at standard anatomical sites around the body.aim: to measure the circumference of the ankle, as one of the many measurements of body size.equipment required: flexible metal tape m",
+        "distance": 0.28254809975624084
+      },
+      {
+        "id": 59,
+        "title": "Metric Weights and Measures",
+        "url": "http://www.factmonster.com/ipka/A0769580.html",
+        "combined_text": "Metric Weights and Measures A millimicron is one thousandth of one millionth of one meter. Most of the world uses the metric system. The only countries not on this system are the U. S., Myanmar, and Liberia. The metric system is based on 10s. For example, 10 decimeters make a meter (39.37 inches). Units smaller than a meter ha",
+        "distance": 0.7503393888473511
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-7619833339654989565": {
+    "query_id": "-7619833339654989565",
+    "query": "john dewey pragmatist philosophy",
+    "relevants": [
+      {
+        "relevant_doc": 318,
+        "relevant_url": "http://www.iep.utm.edu/dewey/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 318,
+        "title": "John Dewey (1859â1952)",
+        "url": "http://www.iep.utm.edu/dewey/",
+        "combined_text": "John Dewey (1859â1952) \"John Dewey (1859—1952)John Dewey was a leading proponent of the American school of thought known as pragmatism, a view that rejected the dualistic epistemology and metaphysics of modern philosophy in favor of a naturalistic approach that viewed knowledge as arising from an active adaptation of the",
+        "distance": 0.12973424792289734
+      },
+      {
+        "id": 152,
+        "title": "Utopia and Transcendentalism APUSH Per 5",
+        "url": "https://prezi.com/ysfjgpgatsaw/utopia-and-transcendentalism-apush-per-5/",
+        "combined_text": "Utopia and Transcendentalism APUSH Per 5 Public & reusable Create your own Make a copy Share Embed Like Utopia and Transcendentalism APUSH Per 5No descriptionby Begimai Djanybek Kyzyon 12 November 2014Tweet Comments ( 0)Please log in to add your comment. Report abuse Transcript of Utopia and Transcendentalism APUSH Per 5A utopia is a perfe",
+        "distance": 0.6527014970779419
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-3393616295714914246": {
+    "query_id": "-3393616295714914246",
+    "query": "top baby names 2000s list",
+    "relevants": [
+      {
+        "relevant_doc": 323,
+        "relevant_url": "http://www.baby2see.com/names/2000s.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 323,
+        "title": "1000 Most Popular Names of the 2000s",
+        "url": "http://www.baby2see.com/names/2000s.html",
+        "combined_text": "1000 Most Popular Names of the 2000s 1000 Most Popular Names of the 2000s Jacob takes number one spot away from Michael after 40 years at the top. Emily gets to the number one position for the first time after increasing popularity in the last thirty years. All names are from Social Security card applications for births that occurred i",
+        "distance": 0.39452123641967773
+      },
+      {
+        "id": 799,
+        "title": "The Ten Coolest Kids Science Shows",
+        "url": "http://media.gunaxin.com/the-ten-coolest-kids-science-shows/82309",
+        "combined_text": "The Ten Coolest Kids Science Shows Media > Television The Ten Coolest Kids Science Shows By Stew Miller on February 8, 2011Share 50 Tweet +1 Pin 3One of the best things about growing up (such as it was) in the late ’70s and early ’80s was the quality of children’s learning television shows. Nowadays, programs are either watered down,",
+        "distance": 0.6793031096458435
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-5417440317882994853": {
+    "query_id": "-5417440317882994853",
+    "query": "control garage door with smartphone",
+    "relevants": [
+      {
+        "relevant_doc": 992,
+        "relevant_url": "https://www.liftmaster.com/for-homes/myq-connected-home"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 992,
+        "title": "MyQ Connected Home",
+        "url": "https://www.liftmaster.com/for-homes/myq-connected-home",
+        "combined_text": "MyQ Connected Home My Q Connected Home Home For Homes My Q Connected Home My Q Smartphone Control. Lift Master has the right products to bring smartphone control to your garage door opener, whether you want to replace your existing one or just upgrade with a My Q accessory. My Q brings your garage to you no matter whe",
+        "distance": 0.413127064704895
+      },
+      {
+        "id": 189,
+        "title": "Automated External Defibrillator (AED) Devices",
+        "url": "http://www.early-defib.org/03_06_07.html",
+        "combined_text": "Automated External Defibrillator (AED) Devices Automated External Defibrillator (AED) Devices What AED models are available on the market? In the United States, there are currently six companies that have the Food and Drug Administration’s Pre-Market Approval-510k for either a single AED or multiple AED models. AEDs are an extremely important to",
+        "distance": 0.7874569296836853
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-1529245506299598012": {
+    "query_id": "-1529245506299598012",
+    "query": "nursing home defense bed sore lawsuits",
+    "relevants": [
+      {
+        "relevant_doc": 10,
+        "relevant_url": "http://www.lpr-attorneys.com/index.php/easyblog/how-nursing-homes-fight-bed-sore-cases-kennedy-ulcers-or-deep-tissue-bed-sores"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 10,
+        "title": "How Nursing Homes Fight Bed Sore Cases â Kennedy Ulcers or Deep Tissue Bed Sores?",
+        "url": "http://www.lpr-attorneys.com/index.php/easyblog/how-nursing-homes-fight-bed-sore-cases-kennedy-ulcers-or-deep-tissue-bed-sores",
+        "combined_text": "How Nursing Homes Fight Bed Sore Cases â Kennedy Ulcers or Deep Tissue Bed Sores? \"How Nursing Homes Fight Bed Sore Cases – Kennedy Ulcers or Deep Tissue Bed Sores? Posted by Jeffrey A. Childers on Monday, 03 June 2013 in General Legal Matters Font size: Larger Smaller Hits: 101619 2 Comments Subscribe to this entry Bookmark |Of all the liabilities that nursing homes face, few co",
+        "distance": 0.3290579617023468
+      },
+      {
+        "id": 489,
+        "title": "Appeals For Caregiver Program",
+        "url": "http://vets.yuku.com/reply/536832/Re-Appeals-For-Caregiver-Program",
+        "combined_text": "Appeals For Caregiver Program USNDWPosts 4,069.22 Dec 2011, 03:43 #1Just in case I am terminated from the board very soon I wanted to pass alonmg my dealings with the Caregiver Program. We applied in June and received a denial letter. Never had a physical exam, was never interviewed, was never asked for other medical records. Th",
+        "distance": 0.6816474795341492
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "2780210806019121665": {
+    "query_id": "2780210806019121665",
+    "query": "definition of tactical maneuver plan",
+    "relevants": [
+      {
+        "relevant_doc": 371,
+        "relevant_url": "http://encyclopedia2.thefreedictionary.com/scheme+of+maneuver"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 371,
+        "title": "scheme of maneuver",
+        "url": "http://encyclopedia2.thefreedictionary.com/scheme+of+maneuver",
+        "combined_text": "scheme of maneuver \"scheme of maneuver Also found in: Dictionary, Acronyms .scheme of maneuver [ ′skēm əv mə′nü·vər] (ordnance)The tactical plan to be executed by a force in order to seize assigned objectives. Mc Graw-Hill Dictionary of Scientific & Technical Terms, 6E, Copyright © 2003 by The Mc Graw-Hill Companies,",
+        "distance": 0.24746806919574738
+      },
+      {
+        "id": 158,
+        "title": "Strategic Management",
+        "url": "https://www.boundless.com/management/textbooks/boundless-management-textbook/strategic-management-12/strategic-management-86/what-is-strategy-415-1550/",
+        "combined_text": "Strategic Management What is Strategy? A strategy is a plan of action designed to achieve a specific goal or series of goals within an organizational framework. Learning Objectives Define strategy within the context of a business and their organizational goals Key Takeaways Key Points Strategic management is the process",
+        "distance": 0.4668608009815216
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-2902847275685115011": {
+    "query_id": "-2902847275685115011",
+    "query": "remove multiple layers of house paint",
+    "relevants": [
+      {
+        "relevant_doc": 822,
+        "relevant_url": "https://www.thisoldhouse.com/ideas/how-to-strip-years-paint-house"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 822,
+        "title": "How to Strip Years of Paint Off a House",
+        "url": "https://www.thisoldhouse.com/ideas/how-to-strip-years-paint-house",
+        "combined_text": "How to Strip Years of Paint Off a House \"Home > Ideas | More in Painting How to Strip Years of Paint Off a House What stands between an old house and new paint? Ten tenacious coats of the old stuff. But you can get it off By Jefferson Kolle of This Old House magazine Photo by Keller & Keller To penetrate and remove the 10 layers of paint",
+        "distance": 0.3354049026966095
+      },
+      {
+        "id": 274,
+        "title": "Whitewashing Brick",
+        "url": "http://www.askthebuilder.com/whitewashing-brick/",
+        "combined_text": "Whitewashing Brick \"Whitewashing Brick Painting - Staining | Remodelingtext: Tim Carter How To Get the Best Contractor This is one side of the addition I built and whitewashed. The faded look and exposed brick were done on purpose to match the 70-year-old whitewash look on the remainder of the house. I would bet you d",
+        "distance": 0.7002556920051575
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "2200960283043530023": {
+    "query_id": "2200960283043530023",
+    "query": "surgery to open the windpipe",
+    "relevants": [
+      {
+        "relevant_doc": 398,
+        "relevant_url": "https://en.wikipedia.org/wiki/Tracheotomy"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 398,
+        "title": "Tracheotomy",
+        "url": "https://en.wikipedia.org/wiki/Tracheotomy",
+        "combined_text": "Tracheotomy \"From Wikipedia, the free encyclopedianavigation search This article is about the surgical procedure called a tracheotomy. For a similar procedure, see Cricothyrotomy. Tracheotomy Completed tracheotomy:1 – Vocal folds 2 – Thyroid cartilage 3 – Cricoid cartilage 4 – Tracheal rings5 – Balloon cuff ICD",
+        "distance": 0.537095844745636
+      },
+      {
+        "id": 618,
+        "title": "Hydraulics",
+        "url": "http://www.explainthatstuff.com/hydraulics.html",
+        "combined_text": "Hydraulics \"Hydraulicsby Chris Woodford. Last updated: April 27, 2017. W hat's the connection between a water pistol and this gigantic crane? On the face of it, no connection at all. But think about the science behind them and you'll reach a surprising conclusion: water pistols and cranes use the power of movi",
+        "distance": 0.6948369741439819
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "4593955434787464059": {
+    "query_id": "4593955434787464059",
+    "query": "what organelle regulates material flow in cells",
+    "relevants": [
+      {
+        "relevant_doc": 192,
+        "relevant_url": "http://www.helpteaching.com/questions/313809/this-organelle-separates-cell-contents-from-the-external-env"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 192,
+        "title": "Cell Structure and Function Question",
+        "url": "http://www.helpteaching.com/questions/313809/this-organelle-separates-cell-contents-from-the-external-env",
+        "combined_text": "Cell Structure and Function Question Cell Structure and Function Question View Find Similar View this question. Add this question to a group or test by clicking the appropriate button below. Grade 9 Cell Structure and Function This organelle separates cell contents from the external environment and regulates the flow of materials in an",
+        "distance": 0.3810538351535797
+      },
+      {
+        "id": 1034,
+        "title": "Plant Cell Structures: The Cell Wall and Central Vacuole",
+        "url": "http://study.com/academy/lesson/plant-cell-structures-the-cell-wall-and-central-vacuole.html",
+        "combined_text": "Plant Cell Structures: The Cell Wall and Central Vacuole Instructor: Kristin Klucevsek Kristin has taught college Biology courses and has her doctorate in Biology. In this lesson, we'll talk about some of the things that make plant cells so different from our cells. In addition to being mean, green photosynthesizing machines, plant cells have cell walls a",
+        "distance": 0.6052771210670471
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-2128198421393040501": {
+    "query_id": "-2128198421393040501",
+    "query": "how solar energy credits work",
+    "relevants": [
+      {
+        "relevant_doc": 755,
+        "relevant_url": "https://en.wikipedia.org/wiki/Solar_Renewable_Energy_Certificates"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 755,
+        "title": "Solar Renewable Energy Certificate",
+        "url": "https://en.wikipedia.org/wiki/Solar_Renewable_Energy_Certificates",
+        "combined_text": "Solar Renewable Energy Certificate \"From Wikipedia, the free encyclopedia (Redirected from Solar Renewable Energy Certificates)navigation search Parts of this article (those related to opening of REC markets in China) need to be updated. Please update this article to reflect recent events or newly available information. (January 2018",
+        "distance": 0.5193267464637756
+      },
+      {
+        "id": 811,
+        "title": "Chapter 6",
+        "url": "https://quizlet.com/21604088/chapter-6-flash-cards/",
+        "combined_text": "Chapter 6 24 terms dawneflanders01Chapter 6Photosynthesis Learn Flashcards Write Spell Test Match Gravity Advertisement Upgrade to remove ads Sort Photosynthesis Process whereby energy from the sun is captured and used to build carbohydrates from Co2 gas Light-dependent reactions Occur on the thylakoid membra",
+        "distance": 0.6505645513534546
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-8358302297101512729": {
+    "query_id": "-8358302297101512729",
+    "query": "do blood banks sell donated blood",
+    "relevants": [
+      {
+        "relevant_doc": 661,
+        "relevant_url": "http://newsok.com/article/4985779"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 661,
+        "title": "What many donors don't know: Their blood is sold",
+        "url": "http://newsok.com/article/4985779",
+        "combined_text": "What many donors don't know: Their blood is sold What many donors don't know: Their blood is soldby Jennifer Palmer Published: July 5, 2014 12:00 AM CDT Updated: July 5, 2014 10:00 PM CDT0shares Advertisement A blood donation in progress. The Oklahoman Archives Close to half a million dollars worth of donated blood is at the heart of a lawsuit bet",
+        "distance": 0.4620959460735321
+      },
+      {
+        "id": 31,
+        "title": "Alone we are rare. Together we are strong.â¥ Donate Today",
+        "url": "https://rarediseases.org/rare-diseases/fanconi-anemia/",
+        "combined_text": "Alone we are rare. Together we are strong.â¥ Donate Today Fanconi Anemia NORD gratefully acknowledges David Brouch, NORD Intern from the University of Notre Dame, Jakub Tolar, MD, Ph D, Executive Vice Dean, Medical School, Distinguished Mc Knight University Professor, Department of Pediatrics, Division of Blood and Marrow Transplantation, Director, Stem Ce",
+        "distance": 0.656406819820404
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  }
+}

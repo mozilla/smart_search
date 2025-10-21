@@ -1,0 +1,482 @@
+{
+  "-4946939555827820831": {
+    "query_id": "-4946939555827820831",
+    "query": "healthy rice",
+    "relevants": [
+      {
+        "relevant_doc": 0,
+        "relevant_url": "http://getfit.jillianmichaels.com/eating-rice-healthy-1183.html"
+      },
+      {
+        "relevant_doc": 1,
+        "relevant_url": "http://encyclopedia2.thefreedictionary.com/Rice+(crop)"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 0,
+        "title": "Is Eating Rice Healthy?",
+        "url": "http://getfit.jillianmichaels.com/eating-rice-healthy-1183.html",
+        "combined_text": "Is Eating Rice Healthy?",
+        "distance": 0.1183379590511322
+      },
+      {
+        "id": 1,
+        "title": "rice",
+        "url": "http://encyclopedia2.thefreedictionary.com/Rice+(crop)",
+        "combined_text": "rice",
+        "distance": 0.18371963500976562
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "7691712931310531372": {
+    "query_id": "7691712931310531372",
+    "query": "endodontist",
+    "relevants": [
+      {
+        "relevant_doc": 2,
+        "relevant_url": "http://www.thefreedictionary.com/endodontist"
+      },
+      {
+        "relevant_doc": 3,
+        "relevant_url": "http://www.learnersdictionary.com/definition/endow"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 2,
+        "title": "endodontist",
+        "url": "http://www.thefreedictionary.com/endodontist",
+        "combined_text": "endodontist",
+        "distance": -1.1920926823449918e-07
+      },
+      {
+        "id": 4164,
+        "title": "Pediatric dentistry",
+        "url": "https://en.wikipedia.org/wiki/Pediatric_Dentistry",
+        "combined_text": "Pediatric dentistry",
+        "distance": 0.46245136857032776
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-3819024009893237254": {
+    "query_id": "-3819024009893237254",
+    "query": "arsenal",
+    "relevants": [
+      {
+        "relevant_doc": 4,
+        "relevant_url": "https://www.rottentomatoes.com/m/arsenal_2017/"
+      },
+      {
+        "relevant_doc": 5,
+        "relevant_url": "https://www.premierleague.com/page/arsenal"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 4,
+        "title": "Arsenal",
+        "url": "https://www.rottentomatoes.com/m/arsenal_2017/",
+        "combined_text": "Arsenal",
+        "distance": 1.4901162614933128e-07
+      },
+      {
+        "id": 5,
+        "title": "Arsenal",
+        "url": "https://www.premierleague.com/page/arsenal",
+        "combined_text": "Arsenal",
+        "distance": 1.4901162614933128e-07
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-3078680124818744442": {
+    "query_id": "-3078680124818744442",
+    "query": "gavaskar border trophy",
+    "relevants": [
+      {
+        "relevant_doc": 6,
+        "relevant_url": "http://www.dictionary.com/browse/trophy"
+      },
+      {
+        "relevant_doc": 7,
+        "relevant_url": "http://www.thefreedictionary.com/extravasation"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 6,
+        "title": "trophy",
+        "url": "http://www.dictionary.com/browse/trophy",
+        "combined_text": "trophy",
+        "distance": 0.376261830329895
+      },
+      {
+        "id": 397,
+        "title": "the gift of the gab",
+        "url": "http://dictionary.cambridge.org/us/dictionary/english/the-gift-of-the-gab",
+        "combined_text": "the gift of the gab",
+        "distance": 0.5950998663902283
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-6193145940393485148": {
+    "query_id": "-6193145940393485148",
+    "query": "grand slam champion",
+    "relevants": [
+      {
+        "relevant_doc": 8,
+        "relevant_url": "http://www.dictionary.com/browse/grand-slam"
+      },
+      {
+        "relevant_doc": 9,
+        "relevant_url": "https://en.wikipedia.org/wiki/Grand_Slam_(tennis)"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 8,
+        "title": "grand slam",
+        "url": "http://www.dictionary.com/browse/grand-slam",
+        "combined_text": "grand slam",
+        "distance": 0.14415410161018372
+      },
+      {
+        "id": 9,
+        "title": "Grand Slam (tennis)",
+        "url": "https://en.wikipedia.org/wiki/Grand_Slam_(tennis)",
+        "combined_text": "Grand Slam (tennis)",
+        "distance": 0.24244092404842377
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-870393181299755612": {
+    "query_id": "-870393181299755612",
+    "query": "capital gain",
+    "relevants": [
+      {
+        "relevant_doc": 10,
+        "relevant_url": "https://www.inc.com/encyclopedia/capital-gain-loss.html"
+      },
+      {
+        "relevant_doc": 11,
+        "relevant_url": "https://en.wikipedia.org/wiki/Capital_One"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 10,
+        "title": "Capital Gain/Loss",
+        "url": "https://www.inc.com/encyclopedia/capital-gain-loss.html",
+        "combined_text": "Capital Gain/Loss",
+        "distance": 0.11420683562755585
+      },
+      {
+        "id": 7035,
+        "title": "Capitalization Rules",
+        "url": "https://www.grammarbook.com/punctuation/capital.asp",
+        "combined_text": "Capitalization Rules",
+        "distance": 0.44964727759361267
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "5890103787561027229": {
+    "query_id": "5890103787561027229",
+    "query": "credit limit",
+    "relevants": [
+      {
+        "relevant_doc": 12,
+        "relevant_url": "http://www.thefreedictionary.com/credit+limit"
+      },
+      {
+        "relevant_doc": 13,
+        "relevant_url": "https://cs.kohls.com/app/answers/detail/a_id/216/~/credit-limit-increases"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 12,
+        "title": "credit limit",
+        "url": "http://www.thefreedictionary.com/credit+limit",
+        "combined_text": "credit limit",
+        "distance": 2.9802317058624794e-08
+      },
+      {
+        "id": 13,
+        "title": "Credit Limit Increases",
+        "url": "https://cs.kohls.com/app/answers/detail/a_id/216/~/credit-limit-increases",
+        "combined_text": "Credit Limit Increases",
+        "distance": 0.17582163214683533
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "7011005291212872240": {
+    "query_id": "7011005291212872240",
+    "query": "annuity",
+    "relevants": [
+      {
+        "relevant_doc": 14,
+        "relevant_url": "http://www.investorwords.com/225/annuity.html"
+      },
+      {
+        "relevant_doc": 15,
+        "relevant_url": "http://www.dictionary.com/browse/annuity"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 14,
+        "title": "annuity",
+        "url": "http://www.investorwords.com/225/annuity.html",
+        "combined_text": "annuity",
+        "distance": 1.4901158351676713e-07
+      },
+      {
+        "id": 15,
+        "title": "annuity",
+        "url": "http://www.dictionary.com/browse/annuity",
+        "combined_text": "annuity",
+        "distance": 1.4901158351676713e-07
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "9111806666801574876": {
+    "query_id": "9111806666801574876",
+    "query": "physiology",
+    "relevants": [
+      {
+        "relevant_doc": 16,
+        "relevant_url": "https://medicalsciences.med.unsw.edu.au/students/disciplines/physiology"
+      },
+      {
+        "relevant_doc": 17,
+        "relevant_url": "https://quizlet.com/30005569/physiology-flash-cards/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 16,
+        "title": "Physiology",
+        "url": "https://medicalsciences.med.unsw.edu.au/students/disciplines/physiology",
+        "combined_text": "Physiology",
+        "distance": 2.980232949312267e-08
+      },
+      {
+        "id": 17,
+        "title": "physiology",
+        "url": "https://quizlet.com/30005569/physiology-flash-cards/",
+        "combined_text": "physiology",
+        "distance": 2.980232949312267e-08
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "2592145430638318734": {
+    "query_id": "2592145430638318734",
+    "query": "myopia",
+    "relevants": [
+      {
+        "relevant_doc": 18,
+        "relevant_url": "http://www.innovateus.net/innopedia/what-myopia"
+      },
+      {
+        "relevant_doc": 19,
+        "relevant_url": "https://eyecaretyler.com/resources/how-the-eye-works/the-nearsighted-eye-myopia/"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 18,
+        "title": "What is Myopia?",
+        "url": "http://www.innovateus.net/innopedia/what-myopia",
+        "combined_text": "What is Myopia?",
+        "distance": 0.07748205959796906
+      },
+      {
+        "id": 19,
+        "title": "The Nearsighted Eye (Myopia)",
+        "url": "https://eyecaretyler.com/resources/how-the-eye-works/the-nearsighted-eye-myopia/",
+        "combined_text": "The Nearsighted Eye (Myopia)",
+        "distance": 0.25973495841026306
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "3821086062254109149": {
+    "query_id": "3821086062254109149",
+    "query": "amyloidosis",
+    "relevants": [
+      {
+        "relevant_doc": 20,
+        "relevant_url": "https://www.seattlecca.org/diseases/amyloidosis"
+      },
+      {
+        "relevant_doc": 21,
+        "relevant_url": "http://www.thefreedictionary.com/amyloidosis"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 20,
+        "title": "Amyloidosis",
+        "url": "https://www.seattlecca.org/diseases/amyloidosis",
+        "combined_text": "Amyloidosis",
+        "distance": 1.490116545710407e-07
+      },
+      {
+        "id": 21,
+        "title": "amyloidosis",
+        "url": "http://www.thefreedictionary.com/amyloidosis",
+        "combined_text": "amyloidosis",
+        "distance": 1.490116545710407e-07
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "505991933965517586": {
+    "query_id": "505991933965517586",
+    "query": "alopecia",
+    "relevants": [
+      {
+        "relevant_doc": 22,
+        "relevant_url": "https://www.drugs.com/health-guide/alopecia-areata.html"
+      },
+      {
+        "relevant_doc": 23,
+        "relevant_url": "https://medlineplus.gov/ency/article/001450.htm"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 22,
+        "title": "Alopecia Areata",
+        "url": "https://www.drugs.com/health-guide/alopecia-areata.html",
+        "combined_text": "Alopecia Areata",
+        "distance": 0.14517249166965485
+      },
+      {
+        "id": 23,
+        "title": "Alopecia areata",
+        "url": "https://medlineplus.gov/ency/article/001450.htm",
+        "combined_text": "Alopecia areata",
+        "distance": 0.14517249166965485
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "2873562211180652453": {
+    "query_id": "2873562211180652453",
+    "query": "dermatitis",
+    "relevants": [
+      {
+        "relevant_doc": 24,
+        "relevant_url": "https://en.wikipedia.org/wiki/Eczema"
+      },
+      {
+        "relevant_doc": 25,
+        "relevant_url": "http://medical-dictionary.thefreedictionary.com/viral+contagious+dermatitis"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 25,
+        "title": "dermatitis",
+        "url": "http://medical-dictionary.thefreedictionary.com/viral+contagious+dermatitis",
+        "combined_text": "dermatitis",
+        "distance": -5.960464477539063e-08
+      },
+      {
+        "id": 24,
+        "title": "Dermatitis",
+        "url": "https://en.wikipedia.org/wiki/Eczema",
+        "combined_text": "Dermatitis",
+        "distance": -2.9802322387695312e-08
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-3304020715609701971": {
+    "query_id": "-3304020715609701971",
+    "query": "coffee shop",
+    "relevants": [
+      {
+        "relevant_doc": 26,
+        "relevant_url": "http://uptv.com/movies/coffee-shop/"
+      },
+      {
+        "relevant_doc": 27,
+        "relevant_url": "http://www.coffeeam.com/coffee-storage.html"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 26,
+        "title": "Coffee Shop",
+        "url": "http://uptv.com/movies/coffee-shop/",
+        "combined_text": "Coffee Shop",
+        "distance": 2.9802317058624794e-08
+      },
+      {
+        "id": 5694,
+        "title": "Coffee",
+        "url": "http://www.madehow.com/Volume-1/Coffee.html",
+        "combined_text": "Coffee",
+        "distance": 0.2972310185432434
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  },
+  "-8838361348547272549": {
+    "query_id": "-8838361348547272549",
+    "query": "ball drop",
+    "relevants": [
+      {
+        "relevant_doc": 28,
+        "relevant_url": "https://www.balldrop.com/article/history-of-times-square-ball-drop"
+      },
+      {
+        "relevant_doc": 29,
+        "relevant_url": "http://www.dictionary.com/browse/drops"
+      }
+    ],
+    "retrievals": [
+      {
+        "id": 29,
+        "title": "drop",
+        "url": "http://www.dictionary.com/browse/drops",
+        "combined_text": "drop",
+        "distance": 0.27389055490493774
+      },
+      {
+        "id": 28,
+        "title": "Times Square Ball Drop",
+        "url": "https://www.balldrop.com/article/history-of-times-square-ball-drop",
+        "combined_text": "Times Square Ball Drop",
+        "distance": 0.27601727843284607
+      }
+    ],
+    "return_size_k": 2,
+    "model_name": "Xenova/all-MiniLM-L6-v2"
+  }
+}

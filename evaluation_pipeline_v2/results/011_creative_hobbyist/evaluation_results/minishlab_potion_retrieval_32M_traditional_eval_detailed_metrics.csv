@@ -1,0 +1,101 @@
+,query_id,query,retrieved_ids,relevant_docs,precision@2,recall@2,ndcg@2,reciprocal_rank,average_precision,model_name
+0,1367083256528069608,reliable portable USB drive for photos,"[1659, 2442]",[2442],0.5,1.0,0.6309297535714573,0.5,0.25,minishlab_potion_retrieval_32M
+1,1124088730304781380,Lawrence Welk greatest hits CD,"[2318, 332]",[2318],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+2,-8211531802151220717,when to use 5/8 inch drywall,"[351, 2293]",[351],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+3,2075536560359755089,fast day carrot cumin soup,"[2288, 1013]",[2288],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+4,-8525086074404223805,relatable mom memes for tired parents,"[2044, 2596]",[2044],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+5,-3395032854892982677,how corporations became powerful global actors,"[2031, 3936]",[2031],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+6,-6206315355039568423,boat launching tips for beginners,"[3085, 357]",[3085],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+7,-8355027540782896767,terius nash biography,"[1866, 1217]",[1866],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+8,-2184741208165031483,peach tree growth and fruiting time,"[594, 355]",[594],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+9,-7116096002646313730,simple tips for using color at home,"[3259, 2141]",[3259],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+10,7384698508012175265,gospel vs secular music impact on Christians,"[690, 1833]",[690],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+11,3989891040691819866,tools dangerous to use while wearing gloves,"[564, 2758]",[2281],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+12,2517059171425054400,natural habitat of lions,"[150, 2584]",[150],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+13,1069128348801115666,chalkboard paint ideas and tips,"[139, 588]",[1652],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+14,2215027799541051256,elvis surrender song lyrics,"[238, 693]",[238],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+15,-7967047674057498483,paris latitude and longitude,"[3129, 722]",[3129],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+16,6967121181449042139,jamaican born harlem renaissance poet,"[1034, 276]",[1034],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+17,-1795146090453365064,things to do in north hills raleigh,"[860, 2970]",[3208],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+18,799196315634511990,wines that age well for collecting,"[2098, 1992]",[1992],0.5,1.0,0.6309297535714573,0.5,0.25,minishlab_potion_retrieval_32M
+19,1602347746325624289,what does podcast mean,"[1537, 2627]",[2627],0.5,1.0,0.6309297535714573,0.5,0.25,minishlab_potion_retrieval_32M
+20,-3529296070799584915,calming essential oils for pets and people,"[1952, 1639]",[1952],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+21,2630532528438531866,indoor plant list with care,"[1598, 1978]",[1598],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+22,-5733817368445437016,La Crosse summer festival concerts fireworks,"[1467, 3200]",[1467],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+23,361527640789016526,Nashville venue upcoming concert calendar,"[1525, 2795]",[3906],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+24,-4070196016836734525,1990s teens transform into color-coded heroes,"[470, 1758]",[3490],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+25,1247236418642125400,patricia richardson guest on last man standing,"[3718, 2404]",[3718],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+26,-2361261724759657803,partner experiences pregnancy symptoms,"[3883, 2055]",[2132],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+27,-7310500150642102097,sitcom set in a Boston bar,"[3740, 1931]",[3750],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+28,-5332346368802266130,how to keep working with arthritis,"[1128, 688]",[1128],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+29,899539063269003396,recommendations for realistic space anime,"[2186, 3238]",[2342],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+30,8615216456714624083,cory taylor australian author biography,"[4156, 3882]",[4156],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+31,-1537115840664046395,prevent tomato blossom end rot,"[298, 2170]",[298],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+32,1280206778583773826,how often kids hurt at playgrounds,"[3116, 4028]",[3116],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+33,-7442377675516013944,hidden tie quilt tutorial,"[2114, 3335]",[2114],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+34,-9095352851734146652,crab orchard lake activities,"[1309, 3280]",[1309],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+35,-7556377405639536702,indoor care for lucky bamboo,"[371, 1028]",[371],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+36,9201928739379204791,fake killer clown video call app,"[2941, 3838]",[2941],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+37,3889275862058764878,meaning of beaner slur,"[2618, 1152]",[2618],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+38,7534477662636646986,candace charee song about lover's scent lyrics,"[2496, 529]",[2496],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+39,-7886291913222555636,stan lee on jewish identity in comics,"[366, 1212]",[366],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+40,5154981828275461617,affordable furnished extended stay las vegas,"[4081, 1935]",[4081],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+41,-4104602226974160776,drum-based cardio jam workout,"[3858, 1018]",[3858],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+42,-521132373526638192,what does normal mean,"[2086, 2441]",[2086],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+43,-7428493647463316312,penn state must-do college experiences,"[2413, 193]",[2413],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+44,6364081959016838622,reasons for abdominal fluid buildup,"[670, 4163]",[2406],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+45,7643716777358636514,aarti mann actress biography and roles,"[764, 79]",[764],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+46,-5018044959256882139,does street magic involve demons,"[879, 299]",[879],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+47,-913568771618642821,what page does gandalf appear hobbit,"[1593, 3950]",[1593],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+48,7241576620396117475,options for borrowing with bad credit,"[2090, 1112]",[2090],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+49,-6917112406312778472,easy tips for painting ceilings,"[1621, 139]",[1621],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+50,-8769490288498367336,english classroom games for kids,"[4028, 637]",[4028],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+51,-3679591083040335400,where to eat near modern art museum,"[1122, 794]",[794],0.5,1.0,0.6309297535714573,0.5,0.25,minishlab_potion_retrieval_32M
+52,-4188528602324499096,1970s outlaw country documentary,"[2061, 720]",[1436],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+53,-5979215843193028933,cartoon about a curious kid named Clarence,"[2464, 2045]",[2464],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+54,-5464933366128606879,massive hutchinson island estate martin county,"[205, 731]",[205],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+55,-8879166275857827420,best places to visit lotr film sites nz,"[2914, 1337]",[3950],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+56,-6316532592107771357,steph scully neighbours character history,"[2333, 2778]",[2333],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+57,2948837476624920387,waterproof leg gaiters for hiking,"[3701, 2760]",[3701],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+58,5286421254040707094,graduate fashion studies program cuny,"[175, 573]",[175],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+59,5176994956893182199,move audio between tracks audacity,"[2902, 1553]",[2902],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+60,8740686297473657575,what blocking a youtube user does,"[149, 1834]",[149],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+61,-1838015287820754909,finch spiritual meaning and messages,"[3972, 2380]",[3972],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+62,-1331485219505166403,EAS whey calories per scoop,"[3986, 959]",[3986],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+63,525538837007000874,short bass player jokes,"[1626, 4142]",[1626],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+64,1264974404344992233,how to keep bugs out of screened porch,"[2844, 876]",[2844],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+65,1210341455778211913,low carb burrito bowl with cauliflower rice,"[903, 2892]",[903],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+66,5243475330013831848,alternate day fasting for weight loss,"[3618, 2366]",[3618],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+67,-2400717151199039043,songs that spoof other songs,"[2988, 1290]",[2988],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+68,-6898579396888196512,tattoo slang and jargon explained,"[3422, 3850]",[3422],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+69,3210215411246622237,japanese drama about kobe earthquake memories,"[546, 3317]",[330],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+70,5955006618815191815,traditional spiritual sung by Odetta,"[1322, 2197]",[1322],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+71,5420781844708793889,what does hedonism mean,"[2144, 1869]",[2144],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+72,180804647250751448,why do hosta leaves change color,"[96, 1313]",[96],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+73,814370052721153673,where does yoohoo come from,"[1353, 687]",[1163],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+74,-4912460063201315109,details on omarosa husband,"[1556, 71]",[1556],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+75,3249493849879625787,how many nominations did each 2018 film get,"[130, 1658]",[3076],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+76,-554366955205647946,Clint Eastwood life and career,"[705, 1219]",[705],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+77,4955616744891092848,health effects of one beer daily,"[2439, 3748]",[2439],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+78,8373227224202845188,pewdiepie editing setup and software,"[3729, 2343]",[3729],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+79,-5041957426839614629,how to get crispy skin on pork shoulder,"[3706, 1711]",[3706],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+80,1302383676171316312,smurfs episode about a color machine,"[2354, 2854]",[2354],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+81,-4372334719283007350,beginner guide to game modding,"[2398, 3820]",[2910],0.0,0.0,0.0,0.0,0.0,minishlab_potion_retrieval_32M
+82,-5509667475031786272,coping with anger and frustration,"[84, 3794]",[84],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+83,-6050309152799472894,does higher clock speed mean faster cpu,"[3390, 104]",[3390],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+84,-1643877162702876204,tom selleck jesse stone hallmark deal,"[270, 4007]",[270],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+85,3177343882060567493,feeling purposeless in middle age,"[1370, 1279]",[1370],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+86,-12772621372860047,remove odor and wrinkles from beaded prom dress,"[184, 574]",[184],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+87,3066110557516357345,who first recorded Layla,"[109, 924]",[109],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+88,6671822937165062200,signs of high sodium intake,"[1496, 490]",[490],0.5,1.0,0.6309297535714573,0.5,0.25,minishlab_potion_retrieval_32M
+89,-6571640438489840525,what to wear to cocktail parties,"[999, 3500]",[999],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+90,-3221144942517254332,buy home solar panels online,"[2948, 1103]",[2948],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+91,1124328425893382269,famous poems that use sound words,"[3461, 1108]",[1108],0.5,1.0,0.6309297535714573,0.5,0.25,minishlab_potion_retrieval_32M
+92,5096030098329942066,Walton NY town origins and Native history,"[4057, 3292]",[4057],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+93,-405971759234587546,rise of elizabethan theatre,"[2689, 3082]",[2689],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+94,-3130702499670395542,young dolph wealth and earnings,"[3451, 3655]",[3451],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+95,7259811180314459335,when does wingull evolve in emerald,"[2796, 1453]",[2796],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+96,7710236533944248730,hire professional holiday decorators,"[2495, 3777]",[2495],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+97,1465757008844114579,acreage for sale near north judson,"[3012, 3852]",[3012],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M
+98,5297668056414844687,how much to build a house,"[4155, 3543]",[3543],0.5,1.0,0.6309297535714573,0.5,0.25,minishlab_potion_retrieval_32M
+99,-5771379815361645880,essential knots for camping and scouts,"[3677, 611]",[3677],0.5,1.0,1.0,1.0,0.75,minishlab_potion_retrieval_32M

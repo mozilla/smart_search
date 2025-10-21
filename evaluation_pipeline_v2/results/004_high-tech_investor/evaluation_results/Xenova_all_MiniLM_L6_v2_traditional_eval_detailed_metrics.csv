@@ -1,0 +1,101 @@
+,query_id,query,retrieved_ids,relevant_docs,precision@2,recall@2,ndcg@2,reciprocal_rank,average_precision,model_name
+0,-8189100929620612226,xenoblade x download size wii u,"[3133, 2248]",[3133],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+1,-3769696336689593414,how to use a superbill for insurance,"[2227, 3580]",[2227],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+2,3592660499287170615,role and structure of the un,"[3946, 1563]",[3946],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+3,6826125145864195495,meaning of payload in networking,"[2357, 1564]",[2357],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+4,3658965625464327737,claim refund for late FedEx delivery,"[168, 1514]",[168],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+5,-8461286350935676181,examples of great contact pages,"[1128, 1984]",[1128],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+6,383918913331312510,locate my exchange webmail server,"[4527, 4142]",[4527],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+7,-7517887944080922737,calculate take-home pay uk tax ni,"[2764, 4355]",[2764],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+8,-8059852753219084257,medical meaning of catalyze,"[4264, 2007]",[4264],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+9,-1934834678664954194,convert integer to binary manually,"[1020, 1047]",[1020],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+10,-6824924824099983723,unlock pc with galaxy phone fingerprint,"[179, 938]",[179],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+11,-514752127141927476,how to tell if ham is fully cooked,"[2995, 2211]",[2995],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+12,-5582217589645637180,who played bass with jimi hendrix,"[2817, 4483]",[2817],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+13,197579029263711853,personalized golf tournament prizes wholesale,"[3631, 1813]",[3631],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+14,8740631256053250733,cook shrimp quickly in a skillet,"[79, 269]",[79],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+15,-9192076052720372065,how employers calculate payroll taxes,"[4296, 4419]",[4419],0.5,1.0,0.6309297535714573,0.5,0.25,Xenova_all_MiniLM_L6_v2
+16,1937840768431697427,night vision camera basics and tips,"[1728, 458]",[1728],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+17,-2670496673456431562,how to use structs and unions in c,"[228, 1921]",[228],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+18,-3172961299466567219,is expired sunscreen still effective,"[2476, 3962]",[2476],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+19,-7942813512792918994,late credit card payment consequences,"[1996, 3187]",[3187],0.5,1.0,0.6309297535714573,0.5,0.25,Xenova_all_MiniLM_L6_v2
+20,1624903718982318337,used violins classifieds and listings,"[3471, 4130]",[3471],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+21,983639158593742515,make tax refund arrive faster,"[620, 2253]",[3355],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+22,5135076539434943264,bad ways to use encryption in code,"[4600, 4030]",[1873],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+23,6746660208884391482,egis update process file details,"[84, 480]",[84],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+24,5812398923192959304,can I deduct bank overdraft fees,"[2843, 1793]",[2843],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+25,-6545155029980240871,how far is universal hollywood from disneyland,"[3552, 3276]",[3552],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+26,-8693323696475739496,firms formerly in the Dow index,"[3632, 270]",[3632],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+27,3499639957600175462,dental loan forgiveness grant local dentist,"[4390, 574]",[4390],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+28,-8292987329184248396,improve CRM with social media,"[3166, 4889]",[3166],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+29,-6347454520847096419,hickam credit union membership and rates,"[1755, 3950]",[1755],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+30,2941709556484138636,mortgage prepayment model PSA,"[720, 5]",[720],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+31,7813065047047122663,expected lifespan of led bulbs,"[1896, 1945]",[1703],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+32,431723423780169208,how to prepare a hard drive for use,"[4837, 4953]",[4953],0.5,1.0,0.6309297535714573,0.5,0.25,Xenova_all_MiniLM_L6_v2
+33,3544668904296968169,how to reply to cheers or ta,"[3565, 2540]",[3565],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+34,5647898467864442105,claiming volunteer work on tax return,"[1084, 1083]",[1084],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+35,7886346116235808426,surprising grocery shopping statistics,"[1392, 153]",[1392],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+36,2064649684100018309,teen sings ring of fire like johnny cash,"[2153, 2348]",[2153],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+37,-3348891889224827946,estimate my social security benefits,"[239, 1487]",[1487],0.5,1.0,0.6309297535714573,0.5,0.25,Xenova_all_MiniLM_L6_v2
+38,-2158918876446307450,how to connect devices using WPS,"[4255, 2663]",[555],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+39,-1999896845414707898,wisconsin sales use and income tax rates,"[296, 659]",[296],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+40,-4987718893713879639,forensic accountants role and responsibilities,"[2067, 4376]",[2067],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+41,-5494736845522334058,how to use amiibo in games,"[2351, 311]",[2351],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+42,-7110558348324717701,make ipod charger from wall adapter,"[1255, 682]",[1255],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+43,-1884112995342605965,boleto payment method brazil,"[29, 186]",[29],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+44,-1946491694572484980,west allis cool waters pool info,"[2646, 896]",[2646],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+45,452911859514811739,retirement plan options for small business 2017,"[3550, 1930]",[3550],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+46,1657449967999630756,restore ie defaults on windows 8,"[3347, 900]",[3347],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+47,1139182247105199556,buildable centaur tank toy,"[2002, 1924]",[2002],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+48,-4232551399162723852,explanation of 3.8% medicare net investment tax,"[4438, 3747]",[4438],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+49,6147192733386648230,calculate contingency deadlines in home contracts,"[1168, 4031]",[1168],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+50,689395362108446152,when should i change air filters,"[4709, 3524]",[4709],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+51,-2222274451945182588,meaning of consultation in healthcare,"[1075, 2224]",[1075],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+52,5733827125738512303,compare living costs and job markets canada,"[4086, 2437]",[2437],0.5,1.0,0.6309297535714573,0.5,0.25,Xenova_all_MiniLM_L6_v2
+53,2203948819635641566,clear stuck email outbox android,"[893, 3933]",[893],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+54,6775909027028981407,scary clown video call prank,"[3567, 2664]",[3567],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+55,1429540996375537323,malta composite insurer motor home travel,"[3646, 2392]",[3646],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+56,5845873905702960276,alibaba group news archive,"[3965, 4322]",[3965],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+57,4708325882580547152,how to reach usaa support,"[2050, 1660]",[373],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+58,4301845216879799801,how payroll taxes are deducted,"[297, 3411]",[297],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+59,7997276968756895171,california bsw social worker average salary,"[4060, 2219]",[4060],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+60,-5143290993268927740,how to code vaccines for Medicare,"[1170, 1383]",[1170],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+61,8988613325207851449,us median household income rise 2014,"[4229, 1678]",[4229],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+62,3717958309219272570,benefits of responsive web design,"[4177, 773]",[4177],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+63,6475350408646260543,lawyer requiring malpractice release in fee dispute,"[3681, 1520]",[3681],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+64,-6474166978468682827,biblical garden urban farm Paarl,"[2182, 1399]",[2182],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+65,-5907203751524376857,how drug companies influence safety,"[2696, 802]",[2696],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+66,-2166228491420712855,who qualifies as a tax dependent,"[2083, 3541]",[2083],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+67,-5710464463519362569,define parameters and return values powershell,"[4263, 2320]",[4263],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+68,-3037939974789761871,how to pay for summer college classes,"[765, 4266]",[765],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+69,8092966561848927279,philippine capital city overview,"[586, 3862]",[586],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+70,-8741687854437144369,navy online training portal nel,"[2851, 3620]",[2851],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+71,-8723960320789915215,how Renaissance ideas reached northern Europe,"[4523, 2786]",[4523],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+72,-8203774215863699186,guitar music channel by josh turner,"[4483, 3240]",[4483],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+73,6170244589791726427,mac can't copy large files to usb,"[2750, 3749]",[2750],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+74,-4855584304737897315,reasonable medical costs in child support,"[3143, 2827]",[3143],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+75,5251635860239664842,east harris county probation reviews,"[2615, 58]",[2615],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+76,-2254212670603698571,classroom polls via student phones,"[626, 4388]",[626],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+77,3445286972410660748,jameis winston draft stock slipping,"[1610, 4686]",[1610],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+78,5965809527784043596,average pay for emts in the US,"[3973, 1199]",[3973],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+79,2326370098660357897,process inputs and outputs mapping forum,"[1108, 4662]",[1108],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+80,-4845983235831149570,view collapsed comments on facebook,"[1612, 2726]",[1612],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+81,-8512502030204295560,is tiworker.exe safe,"[426, 4110]",[426],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+82,-7371575251489200064,actors who turned down Fifty Shades roles,"[4016, 1819]",[4016],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+83,5287986072158811876,oneplus foxconn make phones in india,"[3400, 1686]",[3400],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+84,4139792691340115747,why rockford property taxes highest,"[633, 731]",[633],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+85,1767269791974153906,battlefront 2 required storage xbox 360 arcade,"[3071, 4694]",[3071],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+86,-3708310494236822090,what does background mean,"[144, 4150]",[144],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+87,-1864049250861436820,how much stamp duty will i pay uk,"[3477, 325]",[3477],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+88,4790915243925500754,pass arrays to methods in c#,"[350, 3279]",[350],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+89,-7026143200226963281,recently sold 1-bedroom home Winters CA,"[4605, 406]",[4605],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+90,-2852700644784041137,kevin mitnick security awareness video,"[2350, 2854]",[1730],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+91,-6082139620965089972,saddleback college honors course registration,"[4840, 303]",[4840],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+92,2511734008717519516,do i need title insurance,"[4222, 2931]",[4222],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+93,3563811287485501487,azure enterprise licensing and pricing,"[598, 4519]",[598],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+94,7843902153778645891,is red lobster ending lunch service,"[584, 269]",[584],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+95,8214764997408270655,kohl's stock quote after hours,"[416, 3248]",[416],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+96,-7469901485656323808,why companies use co-ceos,"[907, 2160]",[907],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
+97,6645489740892036362,orleans vinegar fermentation experiments,"[3440, 917]",[553],0.0,0.0,0.0,0.0,0.0,Xenova_all_MiniLM_L6_v2
+98,-3148915259522351551,definition of collecting donations,"[1567, 2654]",[2654],0.5,1.0,0.6309297535714573,0.5,0.25,Xenova_all_MiniLM_L6_v2
+99,8060227174156164012,how to use web platform installer,"[8, 4598]",[8],0.5,1.0,1.0,1.0,0.75,Xenova_all_MiniLM_L6_v2
