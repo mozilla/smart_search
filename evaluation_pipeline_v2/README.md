@@ -130,7 +130,7 @@ This will:
 - The old version used a custom ONNX feature extractor, which is much slower.
 - Direct model loading gives slightly lower scores but is significantly faster.
 - Since this serves as a baseline for static embeddings, the trade-off is acceptable.
-
+- The retrieval process ignores any results containing `google.com/search?` to exclude irrelevant web links.
 ---
 
 ## Output Structure
