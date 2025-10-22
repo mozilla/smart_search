@@ -167,3 +167,4 @@ data/
 
 .DS_Store
 .idea/
+evaluation_pipeline_v2/results/**/

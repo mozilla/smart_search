@@ -50,6 +50,16 @@ def build_aggregate_report(base_dir="results", out_html="eval_report_aggregate_o
         f"<div class='subtitle'>Scanning <code>{escape(os.path.abspath(base_dir))}</code></div>",
     ]
 
+    parts += [
+        "<h2>Overview</h2>",
+        "<table style='width:100%; border-collapse:collapse'><tr>",
+        f"<td style='width:50%; padding-right:8px; vertical-align:top;'>"
+        f"<img src='per_profile_grouped_bar.png' style='width:100%; height:auto; border:1px solid #eee; border-radius:8px;'></td>",
+        f"<td style='width:50%; padding-left:8px; vertical-align:top;'>"
+        f"<img src='per_query_grouped_bar.png' style='width:100%; height:auto; border:1px solid #eee; border-radius:8px;'></td>",
+        "</tr></table>",
+    ]
+
     base = Path(base_dir)
     profiles = sorted([p.name for p in base.iterdir()
                        if (base / p.name).is_dir() and (base / p.name / "evaluation_results").exists()]) if base.exists() else []

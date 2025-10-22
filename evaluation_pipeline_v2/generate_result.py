@@ -48,5 +48,7 @@ if __name__ == "__main__":
         print(f"Done profile {profile} ({c:02}/{len(profiles):02}): {time.time() - start_time:.0f} seconds")
 
     print("="*100)
+    cmd = f"""python generate_plots.py --base_dir results"""
+    os.system(cmd)
     cmd = f"""python build_report.py --base_dir results --out_html results/eval_report.html"""
     os.system(cmd)
