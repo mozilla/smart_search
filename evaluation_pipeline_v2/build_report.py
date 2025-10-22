@@ -11,6 +11,12 @@ def get_model_name(path):
     tok = "_traditional_eval_"
     return name.split(tok)[0] if tok in name else name.replace(".csv", "")
 
+def convert_to_str(v):
+    if type(v) == float and float(v) != int(v):
+        return f"{round(v,4)}"
+    else:
+        return str(v)
+
 def df_to_html_table(df):
     if df.empty:
         return "<p><em>No data.</em></p>"
@@ -22,7 +28,7 @@ def df_to_html_table(df):
     ths = "".join(f"<th>{escape(str(c))}</th>" for c in df.columns)
     trs = []
     for _, row in df.iterrows():
-        tds = "".join(f"<td>{escape(str(v))}</td>" for v in row.values)
+        tds = "".join(f"<td>{escape(convert_to_str(v))}</td>" for v in row.values)
         trs.append(f"<tr>{tds}</tr>")
     return f"<table><thead><tr>{ths}</tr></thead><tbody>{''.join(trs)}</tbody></table>"
 
