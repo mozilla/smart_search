@@ -7,7 +7,7 @@ from datasets import load_dataset
 start_time = time.time()
 
 def get_all_profiles(hf_repo):
-    docs = load_dataset(hf_repo, name="docs")["train"]
+    docs = load_dataset(hf_repo, name="docs", download_mode="force_redownload")["train"]
     unique_profiles = sorted(set(docs["profile"]))
     return unique_profiles
 

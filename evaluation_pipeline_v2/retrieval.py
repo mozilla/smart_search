@@ -396,9 +396,9 @@ def load_ground_truth_from_golden(db, golden_df_file_path):
 
 
 def load_data(repo):
-    docs = load_dataset(repo, name="docs")["train"]
-    queries = load_dataset(repo, name="queries")["train"]
-    qrels = load_dataset(repo, name="qrels")["train"]
+    docs = load_dataset(repo, name="docs", download_mode="force_redownload")["train"]
+    queries = load_dataset(repo, name="queries", download_mode="force_redownload")["train"]
+    qrels = load_dataset(repo, name="qrels", download_mode="force_redownload")["train"]
     return DatasetDict(docs=docs, queries=queries, qrels=qrels)
 
 @log_performance
