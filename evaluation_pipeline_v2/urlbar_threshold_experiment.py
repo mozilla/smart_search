@@ -1,7 +1,7 @@
 """URL-bar semantic + exact-match history threshold sweep.
 
 Same dataset and Recall@1 / Precision metrics as
-``ml_driver.jobs.threshold_experiment``, but the query is run the way a user
+``evaluation_pipeline_v2.threshold_experiment``, but the query is run the way a user
 typing in the address bar would experience it: through the real
 UrlbarProvidersManager pipeline, restricted to the history providers
 (UrlbarProviderPlaces for exact/token matching + UrlbarProviderSemanticHistorySearch
@@ -24,7 +24,7 @@ from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple
 
 from ml_driver.firefox.driver import FirefoxDriver
-from ml_driver.jobs.threshold_experiment import (
+from .threshold_experiment import (
     DEFAULT_THRESHOLDS,
     build_profile_plan,
     load_dataset_tables,

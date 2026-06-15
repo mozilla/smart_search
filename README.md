@@ -9,7 +9,7 @@ git clone https://github.com/mozilla/smart_search.git
 Step 2 Clone ML Driver
 git clone https://github.com/Firefox-AI/ml_driver
 
-Follow steps below, adding ../ml_driver/src/ml_driver to your class path 
+See evaluation_pipeline_v2/README.md
 
 
 

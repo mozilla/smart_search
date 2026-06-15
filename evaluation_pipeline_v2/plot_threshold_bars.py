@@ -10,7 +10,7 @@ from __future__ import annotations
 import argparse
 from pathlib import Path
 
-from ml_driver.jobs.plot_threshold_results import parse_log
+from .plot_threshold_results import parse_log
 
 BUCKET_ORDER = [
     ("shortQ", "shortD"),

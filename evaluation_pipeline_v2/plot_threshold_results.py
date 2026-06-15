@@ -1,7 +1,7 @@
 """Plot Recall@1 vs distance threshold from a threshold-experiment log.
 
 Mirrors smart_search/notebooks/threshold_analysis_from_log_results.ipynb: it
-parses the log produced by ``ml_driver.jobs.threshold_experiment`` with the same
+parses the log produced by ``evaluation_pipeline_v2.threshold_experiment`` with the same
 regexes, groups by (query_type, doc_type, threshold), and draws the
 recall-vs-threshold line plot (one line per query_type -> doc_type).
 """
@@ -15,7 +15,7 @@ from pathlib import Path
 import pandas as pd
 
 # Same block-level pattern the notebook uses. The optional Precision suffix is
-# emitted by ml_driver.jobs.threshold_experiment and ignored by the notebook.
+# emitted by evaluation_pipeline_v2.threshold_experiment and ignored by the notebook.
 TEST_BLOCK_PATTERN = re.compile(
     r"Running (?P<queryType>\w+) → (?P<docType>\w+) test at threshold (?P<threshold>[\d.]+).*?"
     r"(Matched|No match).*?"

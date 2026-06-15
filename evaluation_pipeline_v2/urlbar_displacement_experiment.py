@@ -31,7 +31,7 @@ from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple
 
 from ml_driver.firefox.driver import FirefoxDriver
-from ml_driver.jobs.threshold_experiment import (
+from .threshold_experiment import (
     DEFAULT_THRESHOLDS,
     build_profile_plan,
     load_dataset_tables,

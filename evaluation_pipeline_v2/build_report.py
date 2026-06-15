@@ -17,7 +17,7 @@ from pathlib import Path
 
 import pandas as pd
 
-from ml_driver.jobs.plot_threshold_results import make_pivot, parse_log
+from .plot_threshold_results import make_pivot, parse_log
 
 UNBOUND = 10_000
 
