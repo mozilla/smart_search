@@ -1,4 +1,4 @@
-# evaluation_pipeline_v2
+# evaluation_pipeline_classic_mode
 
 Semantic / URL-bar history-search evaluation. These scripts drive a **real
 Firefox ML build** through [`ml_driver`](https://github.com/Firefox-AI/ml_driver)
@@ -43,7 +43,7 @@ uv pip install huggingface-hub pyarrow matplotlib pandas
 ```
 
 That creates `../ml_driver/.venv`. Activate it and run everything below
-**from the `smart_search` repo root** (so `evaluation_pipeline_v2` is importable
+**from the `smart_search` repo root** (so `evaluation_pipeline_classic_mode` is importable
 as a package — the modules use package-relative imports and must be run with
 `python -m …`, not as loose scripts):
 
@@ -70,7 +70,7 @@ FF=/path/to/obj-*/dist/Nightly.app/Contents/MacOS/firefox
 Recall@1 / Precision vs distance threshold, per query/doc length bucket.
 
 ```bash
-python -m evaluation_pipeline_v2.threshold_experiment \
+python -m evaluation_pipeline_classic_mode.threshold_experiment \
     --firefox-bin "$FF" --max-profiles 5 --max-queries 40 --max-docs 150 \
     --thresholds 0.25 0.4 0.5 0.6 0.75 --out results/threshold.log
 ```
@@ -80,7 +80,7 @@ Sweep both embedding models sequentially (one shared vector DB; switching
 `threshold_static.log` and `threshold_contextual.log`:
 
 ```bash
-python -m evaluation_pipeline_v2.threshold_experiment \
+python -m evaluation_pipeline_classic_mode.threshold_experiment \
     --firefox-bin "$FF" --embedding-types static contextual \
     --max-profiles 5 --max-queries 40 --out results/threshold.log
 ```
@@ -91,11 +91,11 @@ muxer).
 
 ```bash
 # combined
-python -m evaluation_pipeline_v2.urlbar_threshold_experiment \
+python -m evaluation_pipeline_classic_mode.urlbar_threshold_experiment \
     --firefox-bin "$FF" --max-profiles 5 --max-queries 40 --out results/urlbar.log
 
 # exact-match-only baseline (semantic off — the current default behavior)
-python -m evaluation_pipeline_v2.urlbar_threshold_experiment \
+python -m evaluation_pipeline_classic_mode.urlbar_threshold_experiment \
     --firefox-bin "$FF" --exact-only --out results/exact_only.log
 ```
 
@@ -105,11 +105,11 @@ truncate the query to simulate typing (writes a CSV):
 
 ```bash
 # threshold sweep
-python -m evaluation_pipeline_v2.urlbar_displacement_experiment \
+python -m evaluation_pipeline_classic_mode.urlbar_displacement_experiment \
     --firefox-bin "$FF" --sweep threshold --out results/displacement_threshold.csv
 
 # as-you-type (query truncated to N chars; fixed semantic threshold)
-python -m evaluation_pipeline_v2.urlbar_displacement_experiment \
+python -m evaluation_pipeline_classic_mode.urlbar_displacement_experiment \
     --firefox-bin "$FF" --sweep truncation --truncations 5 8 12 14 16 10000 \
     --fixed-threshold 0.5 --visible-n 3 --out results/displacement_truncation.csv
 ```
@@ -123,22 +123,22 @@ uses `skip_fastly=False`, so **no `FASTLY_TOKEN`/FxA credentials are required**.
 
 ```bash
 # recall or precision vs threshold (notebook-style line chart)
-python -m evaluation_pipeline_v2.plot_threshold_results results/threshold.log --metric recall
+python -m evaluation_pipeline_classic_mode.plot_threshold_results results/threshold.log --metric recall
 
 # compare two runs (e.g. static vs contextual, or semantic vs urlbar)
-python -m evaluation_pipeline_v2.plot_threshold_comparison \
+python -m evaluation_pipeline_classic_mode.plot_threshold_comparison \
     results/threshold_static.log results/threshold_contextual.log \
     --label-a "static (512-dim)" --label-b "contextual (384-dim)" --metric recall
 
 # exact-match-only baseline bars
-python -m evaluation_pipeline_v2.plot_threshold_bars results/exact_only.log
+python -m evaluation_pipeline_classic_mode.plot_threshold_bars results/exact_only.log
 
 # displacement metrics from the CSV (recall|precision|eviction|rank_delta)
-python -m evaluation_pipeline_v2.plot_displacement results/displacement_truncation.csv \
+python -m evaluation_pipeline_classic_mode.plot_displacement results/displacement_truncation.csv \
     --metric eviction --pooled --sweep-label "Query length (chars typed)"
 
 # self-contained HTML report (embeds all PNGs + tables from a directory)
-python -m evaluation_pipeline_v2.build_report --artifact-dir results --out results/report.html
+python -m evaluation_pipeline_classic_mode.build_report --artifact-dir results --out results/report.html
 ```
 
 ## How the metrics are computed

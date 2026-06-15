@@ -1,7 +1,7 @@
 # smart_search
 improving search
 
-For evaluation_pipeline2
+For evaluation_pipeline_classic_mode
 
 Step 1 (Set up environment):
 git clone https://github.com/mozilla/smart_search.git
@@ -9,7 +9,7 @@ git clone https://github.com/mozilla/smart_search.git
 Step 2 Clone ML Driver
 git clone https://github.com/Firefox-AI/ml_driver
 
-See evaluation_pipeline_v2/README.md
+See evaluation_pipeline_classic_mode/README.md
 
 
 
