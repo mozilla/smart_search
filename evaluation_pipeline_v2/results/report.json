@@ -1,0 +1,1542 @@
+{
+  "000_teenager": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "000_teenager",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 100,
+      "precision@2": 0.49,
+      "recall@2": 0.98,
+      "ndcg@2": 0.9763092975357144,
+      "reciprocal_rank": 0.975,
+      "average_precision": 0.73
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "000_teenager",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 100,
+      "precision@2": 0.495,
+      "recall@2": 0.99,
+      "ndcg@2": 0.9752371901428584,
+      "reciprocal_rank": 0.97,
+      "average_precision": 0.7225
+    }
+  },
+  "001_software_engineer": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "001_software_engineer",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 100,
+      "precision@2": 0.48,
+      "recall@2": 0.96,
+      "ndcg@2": 0.9563092975357144,
+      "reciprocal_rank": 0.955,
+      "average_precision": 0.715
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "001_software_engineer",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 100,
+      "precision@2": 0.445,
+      "recall@2": 0.89,
+      "ndcg@2": 0.8567836778214312,
+      "reciprocal_rank": 0.845,
+      "average_precision": 0.6225
+    }
+  },
+  "002_software_engineer": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "002_software_engineer",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 100,
+      "precision@2": 0.475,
+      "recall@2": 0.95,
+      "ndcg@2": 0.9426185950714292,
+      "reciprocal_rank": 0.94,
+      "average_precision": 0.7025
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "002_software_engineer",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 100,
+      "precision@2": 0.47,
+      "recall@2": 0.94,
+      "ndcg@2": 0.9252371901428584,
+      "reciprocal_rank": 0.92,
+      "average_precision": 0.685
+    }
+  },
+  "003_teenager": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "003_teenager",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 100,
+      "precision@2": 0.455,
+      "recall@2": 0.91,
+      "ndcg@2": 0.8952371901428583,
+      "reciprocal_rank": 0.89,
+      "average_precision": 0.6625
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "003_teenager",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 100,
+      "precision@2": 0.415,
+      "recall@2": 0.83,
+      "ndcg@2": 0.7894022728928602,
+      "reciprocal_rank": 0.775,
+      "average_precision": 0.5675
+    }
+  },
+  "004_high-tech_investor": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "004_high-tech_investor",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 100,
+      "precision@2": 0.465,
+      "recall@2": 0.93,
+      "ndcg@2": 0.9078557852142872,
+      "reciprocal_rank": 0.9,
+      "average_precision": 0.6675
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "004_high-tech_investor",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 100,
+      "precision@2": 0.415,
+      "recall@2": 0.83,
+      "ndcg@2": 0.7930929753571456,
+      "reciprocal_rank": 0.78,
+      "average_precision": 0.5725
+    }
+  },
+  "005_daily_wage_worker": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "005_daily_wage_worker",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 100,
+      "precision@2": 0.475,
+      "recall@2": 0.95,
+      "ndcg@2": 0.9463092975357144,
+      "reciprocal_rank": 0.945,
+      "average_precision": 0.7075
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "005_daily_wage_worker",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 100,
+      "precision@2": 0.47,
+      "recall@2": 0.94,
+      "ndcg@2": 0.9289278926071438,
+      "reciprocal_rank": 0.925,
+      "average_precision": 0.69
+    }
+  },
+  "006_school_teacher": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "006_school_teacher",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 100,
+      "precision@2": 0.44,
+      "recall@2": 0.88,
+      "ndcg@2": 0.8652371901428583,
+      "reciprocal_rank": 0.86,
+      "average_precision": 0.64
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "006_school_teacher",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 100,
+      "precision@2": 0.41,
+      "recall@2": 0.82,
+      "ndcg@2": 0.7941650827500021,
+      "reciprocal_rank": 0.785,
+      "average_precision": 0.58
+    }
+  },
+  "007_financial_consultant": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "007_financial_consultant",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 100,
+      "precision@2": 0.495,
+      "recall@2": 0.99,
+      "ndcg@2": 0.9604743802857166,
+      "reciprocal_rank": 0.95,
+      "average_precision": 0.7025
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "007_financial_consultant",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 100,
+      "precision@2": 0.485,
+      "recall@2": 0.97,
+      "ndcg@2": 0.9404743802857166,
+      "reciprocal_rank": 0.93,
+      "average_precision": 0.6875
+    }
+  },
+  "008_health_advisor": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "008_health_advisor",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 100,
+      "precision@2": 0.485,
+      "recall@2": 0.97,
+      "ndcg@2": 0.9589278926071438,
+      "reciprocal_rank": 0.955,
+      "average_precision": 0.7125
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "008_health_advisor",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 100,
+      "precision@2": 0.46,
+      "recall@2": 0.92,
+      "ndcg@2": 0.9052371901428584,
+      "reciprocal_rank": 0.9,
+      "average_precision": 0.67
+    }
+  },
+  "009_risk-taker": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "009_risk-taker",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 100,
+      "precision@2": 0.45,
+      "recall@2": 0.9,
+      "ndcg@2": 0.8889278926071438,
+      "reciprocal_rank": 0.885,
+      "average_precision": 0.66
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "009_risk-taker",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 100,
+      "precision@2": 0.415,
+      "recall@2": 0.83,
+      "ndcg@2": 0.8004743802857166,
+      "reciprocal_rank": 0.79,
+      "average_precision": 0.5825
+    }
+  },
+  "010_gaming_enthusiast": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "010_gaming_enthusiast",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 100,
+      "precision@2": 0.465,
+      "recall@2": 0.93,
+      "ndcg@2": 0.9115464876785728,
+      "reciprocal_rank": 0.905,
+      "average_precision": 0.6725
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "010_gaming_enthusiast",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 100,
+      "precision@2": 0.435,
+      "recall@2": 0.87,
+      "ndcg@2": 0.8589278926071436,
+      "reciprocal_rank": 0.855,
+      "average_precision": 0.6375
+    }
+  },
+  "011_creative_hobbyist": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "011_creative_hobbyist",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 100,
+      "precision@2": 0.455,
+      "recall@2": 0.91,
+      "ndcg@2": 0.8952371901428583,
+      "reciprocal_rank": 0.89,
+      "average_precision": 0.6625
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "011_creative_hobbyist",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 100,
+      "precision@2": 0.425,
+      "recall@2": 0.85,
+      "ndcg@2": 0.824165082750002,
+      "reciprocal_rank": 0.815,
+      "average_precision": 0.6025
+    }
+  },
+  "012_gaming_enthusiast": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "012_gaming_enthusiast",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 100,
+      "precision@2": 0.475,
+      "recall@2": 0.95,
+      "ndcg@2": 0.9278557852142876,
+      "reciprocal_rank": 0.92,
+      "average_precision": 0.6825
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "012_gaming_enthusiast",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 100,
+      "precision@2": 0.455,
+      "recall@2": 0.91,
+      "ndcg@2": 0.8841650827500022,
+      "reciprocal_rank": 0.875,
+      "average_precision": 0.6475
+    }
+  },
+  "013_freelance_creative": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "013_freelance_creative",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 100,
+      "precision@2": 0.46,
+      "recall@2": 0.92,
+      "ndcg@2": 0.9015464876785728,
+      "reciprocal_rank": 0.895,
+      "average_precision": 0.665
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "013_freelance_creative",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 100,
+      "precision@2": 0.455,
+      "recall@2": 0.91,
+      "ndcg@2": 0.8841650827500022,
+      "reciprocal_rank": 0.875,
+      "average_precision": 0.6475
+    }
+  },
+  "014_tech_enthusiast": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "014_tech_enthusiast",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 100,
+      "precision@2": 0.45,
+      "recall@2": 0.9,
+      "ndcg@2": 0.8926185950714292,
+      "reciprocal_rank": 0.89,
+      "average_precision": 0.665
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "014_tech_enthusiast",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 100,
+      "precision@2": 0.435,
+      "recall@2": 0.87,
+      "ndcg@2": 0.8552371901428583,
+      "reciprocal_rank": 0.85,
+      "average_precision": 0.6325
+    }
+  },
+  "015_health_advisor": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "015_health_advisor",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 100,
+      "precision@2": 0.45,
+      "recall@2": 0.9,
+      "ndcg@2": 0.8889278926071438,
+      "reciprocal_rank": 0.885,
+      "average_precision": 0.66
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "015_health_advisor",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 100,
+      "precision@2": 0.44,
+      "recall@2": 0.88,
+      "ndcg@2": 0.8394022728928604,
+      "reciprocal_rank": 0.825,
+      "average_precision": 0.605
+    }
+  },
+  "016_daily_wage_worker": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "016_daily_wage_worker",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 100,
+      "precision@2": 0.46,
+      "recall@2": 0.92,
+      "ndcg@2": 0.9015464876785728,
+      "reciprocal_rank": 0.895,
+      "average_precision": 0.665
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "016_daily_wage_worker",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 100,
+      "precision@2": 0.44,
+      "recall@2": 0.88,
+      "ndcg@2": 0.8357115704285747,
+      "reciprocal_rank": 0.82,
+      "average_precision": 0.6
+    }
+  },
+  "017_automotive_enthusiast": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "017_automotive_enthusiast",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 100,
+      "precision@2": 0.445,
+      "recall@2": 0.89,
+      "ndcg@2": 0.8752371901428583,
+      "reciprocal_rank": 0.87,
+      "average_precision": 0.6475
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "017_automotive_enthusiast",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 100,
+      "precision@2": 0.435,
+      "recall@2": 0.87,
+      "ndcg@2": 0.8367836778214311,
+      "reciprocal_rank": 0.825,
+      "average_precision": 0.6075
+    }
+  },
+  "018_eco-friendly_enthusiast": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "018_eco-friendly_enthusiast",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 100,
+      "precision@2": 0.49,
+      "recall@2": 0.98,
+      "ndcg@2": 0.9689278926071438,
+      "reciprocal_rank": 0.965,
+      "average_precision": 0.72
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "018_eco-friendly_enthusiast",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 100,
+      "precision@2": 0.475,
+      "recall@2": 0.95,
+      "ndcg@2": 0.924165082750002,
+      "reciprocal_rank": 0.915,
+      "average_precision": 0.6775
+    }
+  },
+  "019_social_butterfly": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "019_social_butterfly",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 100,
+      "precision@2": 0.47,
+      "recall@2": 0.94,
+      "ndcg@2": 0.9252371901428584,
+      "reciprocal_rank": 0.92,
+      "average_precision": 0.685
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "019_social_butterfly",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 100,
+      "precision@2": 0.445,
+      "recall@2": 0.89,
+      "ndcg@2": 0.8789278926071437,
+      "reciprocal_rank": 0.875,
+      "average_precision": 0.6525
+    }
+  },
+  "020_entertainment_junkie": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "020_entertainment_junkie",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 100,
+      "precision@2": 0.47,
+      "recall@2": 0.94,
+      "ndcg@2": 0.9326185950714292,
+      "reciprocal_rank": 0.93,
+      "average_precision": 0.695
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "020_entertainment_junkie",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 100,
+      "precision@2": 0.445,
+      "recall@2": 0.89,
+      "ndcg@2": 0.8641650827500021,
+      "reciprocal_rank": 0.855,
+      "average_precision": 0.6325
+    }
+  },
+  "021_urban_planner": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "021_urban_planner",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 100,
+      "precision@2": 0.48,
+      "recall@2": 0.96,
+      "ndcg@2": 0.9526185950714292,
+      "reciprocal_rank": 0.95,
+      "average_precision": 0.71
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "021_urban_planner",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 100,
+      "precision@2": 0.47,
+      "recall@2": 0.94,
+      "ndcg@2": 0.9030929753571456,
+      "reciprocal_rank": 0.89,
+      "average_precision": 0.655
+    }
+  },
+  "022_government_clerk": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "022_government_clerk",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 100,
+      "precision@2": 0.485,
+      "recall@2": 0.97,
+      "ndcg@2": 0.9552371901428584,
+      "reciprocal_rank": 0.95,
+      "average_precision": 0.7075
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "022_government_clerk",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 100,
+      "precision@2": 0.445,
+      "recall@2": 0.89,
+      "ndcg@2": 0.8604743802857167,
+      "reciprocal_rank": 0.85,
+      "average_precision": 0.6275
+    }
+  },
+  "023_pet_lover": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "023_pet_lover",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 100,
+      "precision@2": 0.48,
+      "recall@2": 0.96,
+      "ndcg@2": 0.934165082750002,
+      "reciprocal_rank": 0.925,
+      "average_precision": 0.685
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "023_pet_lover",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 100,
+      "precision@2": 0.455,
+      "recall@2": 0.91,
+      "ndcg@2": 0.8841650827500019,
+      "reciprocal_rank": 0.875,
+      "average_precision": 0.6475
+    }
+  },
+  "024_academia_researcher": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "024_academia_researcher",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 100,
+      "precision@2": 0.445,
+      "recall@2": 0.89,
+      "ndcg@2": 0.8604743802857167,
+      "reciprocal_rank": 0.85,
+      "average_precision": 0.6275
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "024_academia_researcher",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 100,
+      "precision@2": 0.415,
+      "recall@2": 0.83,
+      "ndcg@2": 0.8152371901428583,
+      "reciprocal_rank": 0.81,
+      "average_precision": 0.6025
+    }
+  },
+  "025_creative_hobbyist": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "025_creative_hobbyist",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 37,
+      "precision@2": 0.3648648648648648,
+      "recall@2": 0.7297297297297297,
+      "ndcg@2": 0.6898302436293468,
+      "reciprocal_rank": 0.6756756756756757,
+      "average_precision": 0.4932432432432432
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "025_creative_hobbyist",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 37,
+      "precision@2": 0.3378378378378378,
+      "recall@2": 0.6756756756756757,
+      "ndcg@2": 0.6058515750000055,
+      "reciprocal_rank": 0.581081081081081,
+      "average_precision": 0.4121621621621621
+    }
+  },
+  "Australia-AU_0": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "Australia-AU_0",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 50,
+      "precision@2": 0.47,
+      "recall@2": 0.94,
+      "ndcg@2": 0.9104743802857166,
+      "reciprocal_rank": 0.9,
+      "average_precision": 0.665
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "Australia-AU_0",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 50,
+      "precision@2": 0.45,
+      "recall@2": 0.9,
+      "ndcg@2": 0.8926185950714292,
+      "reciprocal_rank": 0.89,
+      "average_precision": 0.665
+    }
+  },
+  "Australia-AU_1": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "Australia-AU_1",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 50,
+      "precision@2": 0.47,
+      "recall@2": 0.94,
+      "ndcg@2": 0.8809487605714332,
+      "reciprocal_rank": 0.86,
+      "average_precision": 0.625
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "Australia-AU_1",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 50,
+      "precision@2": 0.42,
+      "recall@2": 0.84,
+      "ndcg@2": 0.7809487605714333,
+      "reciprocal_rank": 0.76,
+      "average_precision": 0.55
+    }
+  },
+  "Australia-AU_2": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "Australia-AU_2",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 49,
+      "precision@2": 0.4489795918367347,
+      "recall@2": 0.8979591836734694,
+      "ndcg@2": 0.8602989544460671,
+      "reciprocal_rank": 0.8469387755102041,
+      "average_precision": 0.6224489795918368
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "Australia-AU_2",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 49,
+      "precision@2": 0.4183673469387755,
+      "recall@2": 0.8367346938775511,
+      "ndcg@2": 0.8141385563411097,
+      "reciprocal_rank": 0.8061224489795918,
+      "average_precision": 0.5969387755102041
+    }
+  },
+  "Australia-AU_3": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "Australia-AU_3",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 50,
+      "precision@2": 0.44,
+      "recall@2": 0.88,
+      "ndcg@2": 0.8504743802857166,
+      "reciprocal_rank": 0.84,
+      "average_precision": 0.62
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "Australia-AU_3",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 50,
+      "precision@2": 0.4,
+      "recall@2": 0.8,
+      "ndcg@2": 0.7778557852142874,
+      "reciprocal_rank": 0.77,
+      "average_precision": 0.57
+    }
+  },
+  "Australia-AU_4": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "Australia-AU_4",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 50,
+      "precision@2": 0.45,
+      "recall@2": 0.9,
+      "ndcg@2": 0.8778557852142874,
+      "reciprocal_rank": 0.87,
+      "average_precision": 0.645
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "Australia-AU_4",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 50,
+      "precision@2": 0.43,
+      "recall@2": 0.86,
+      "ndcg@2": 0.8378557852142875,
+      "reciprocal_rank": 0.83,
+      "average_precision": 0.615
+    }
+  },
+  "Australia-AU_5": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "Australia-AU_5",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 50,
+      "precision@2": 0.48,
+      "recall@2": 0.96,
+      "ndcg@2": 0.9452371901428585,
+      "reciprocal_rank": 0.94,
+      "average_precision": 0.7
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "Australia-AU_5",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 50,
+      "precision@2": 0.45,
+      "recall@2": 0.9,
+      "ndcg@2": 0.8335673556428624,
+      "reciprocal_rank": 0.81,
+      "average_precision": 0.585
+    }
+  },
+  "Australia-AU_6": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "Australia-AU_6",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 50,
+      "precision@2": 0.44,
+      "recall@2": 0.88,
+      "ndcg@2": 0.8357115704285749,
+      "reciprocal_rank": 0.82,
+      "average_precision": 0.6
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "Australia-AU_6",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 50,
+      "precision@2": 0.43,
+      "recall@2": 0.86,
+      "ndcg@2": 0.8230929753571458,
+      "reciprocal_rank": 0.81,
+      "average_precision": 0.595
+    }
+  },
+  "Australia-AU_7": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "Australia-AU_7",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 50,
+      "precision@2": 0.46,
+      "recall@2": 0.92,
+      "ndcg@2": 0.9052371901428584,
+      "reciprocal_rank": 0.9,
+      "average_precision": 0.67
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "Australia-AU_7",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 50,
+      "precision@2": 0.44,
+      "recall@2": 0.88,
+      "ndcg@2": 0.8652371901428583,
+      "reciprocal_rank": 0.86,
+      "average_precision": 0.64
+    }
+  },
+  "Australia-AU_8": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "Australia-AU_8",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 50,
+      "precision@2": 0.46,
+      "recall@2": 0.92,
+      "ndcg@2": 0.8904743802857166,
+      "reciprocal_rank": 0.88,
+      "average_precision": 0.65
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "Australia-AU_8",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 50,
+      "precision@2": 0.44,
+      "recall@2": 0.88,
+      "ndcg@2": 0.8430929753571458,
+      "reciprocal_rank": 0.83,
+      "average_precision": 0.61
+    }
+  },
+  "Australia-AU_9": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "Australia-AU_9",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 49,
+      "precision@2": 0.4693877551020408,
+      "recall@2": 0.9285714285714286,
+      "ndcg@2": 0.9086473268221598,
+      "reciprocal_rank": 0.8979591836734694,
+      "average_precision": 0.6632653061224489
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "Australia-AU_9",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 49,
+      "precision@2": 0.4183673469387755,
+      "recall@2": 0.826530612244898,
+      "ndcg@2": 0.7915424188046682,
+      "reciprocal_rank": 0.7755102040816326,
+      "average_precision": 0.5663265306122449
+    }
+  },
+  "Canada-CA_0": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "Canada-CA_0",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 50,
+      "precision@2": 0.42,
+      "recall@2": 0.84,
+      "ndcg@2": 0.8252371901428583,
+      "reciprocal_rank": 0.82,
+      "average_precision": 0.61
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "Canada-CA_0",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 50,
+      "precision@2": 0.42,
+      "recall@2": 0.84,
+      "ndcg@2": 0.7957115704285749,
+      "reciprocal_rank": 0.78,
+      "average_precision": 0.57
+    }
+  },
+  "Canada-CA_1": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "Canada-CA_1",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 50,
+      "precision@2": 0.41,
+      "recall@2": 0.82,
+      "ndcg@2": 0.8052371901428583,
+      "reciprocal_rank": 0.8,
+      "average_precision": 0.595
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "Canada-CA_1",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 50,
+      "precision@2": 0.4,
+      "recall@2": 0.8,
+      "ndcg@2": 0.7630929753571458,
+      "reciprocal_rank": 0.75,
+      "average_precision": 0.55
+    }
+  },
+  "Canada-CA_2": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "Canada-CA_2",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 50,
+      "precision@2": 0.44,
+      "recall@2": 0.88,
+      "ndcg@2": 0.8430929753571458,
+      "reciprocal_rank": 0.83,
+      "average_precision": 0.61
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "Canada-CA_2",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 50,
+      "precision@2": 0.42,
+      "recall@2": 0.84,
+      "ndcg@2": 0.8178557852142875,
+      "reciprocal_rank": 0.81,
+      "average_precision": 0.6
+    }
+  },
+  "Canada-CA_3": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "Canada-CA_3",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 50,
+      "precision@2": 0.48,
+      "recall@2": 0.96,
+      "ndcg@2": 0.9378557852142876,
+      "reciprocal_rank": 0.93,
+      "average_precision": 0.69
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "Canada-CA_3",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 50,
+      "precision@2": 0.47,
+      "recall@2": 0.94,
+      "ndcg@2": 0.9030929753571456,
+      "reciprocal_rank": 0.89,
+      "average_precision": 0.655
+    }
+  },
+  "Canada-CA_4": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "Canada-CA_4",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 49,
+      "precision@2": 0.4489795918367347,
+      "recall@2": 0.8877551020408163,
+      "ndcg@2": 0.8602989544460671,
+      "reciprocal_rank": 0.8469387755102041,
+      "average_precision": 0.6224489795918368
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "Canada-CA_4",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 49,
+      "precision@2": 0.4591836734693877,
+      "recall@2": 0.9081632653061223,
+      "ndcg@2": 0.8581109801749319,
+      "reciprocal_rank": 0.8367346938775511,
+      "average_precision": 0.6071428571428571
+    }
+  },
+  "Canada-CA_5": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "Canada-CA_5",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 50,
+      "precision@2": 0.43,
+      "recall@2": 0.86,
+      "ndcg@2": 0.8304743802857166,
+      "reciprocal_rank": 0.82,
+      "average_precision": 0.605
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "Canada-CA_5",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 50,
+      "precision@2": 0.41,
+      "recall@2": 0.82,
+      "ndcg@2": 0.8126185950714292,
+      "reciprocal_rank": 0.81,
+      "average_precision": 0.605
+    }
+  },
+  "Canada-CA_6": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "Canada-CA_6",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 50,
+      "precision@2": 0.44,
+      "recall@2": 0.88,
+      "ndcg@2": 0.8430929753571458,
+      "reciprocal_rank": 0.83,
+      "average_precision": 0.61
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "Canada-CA_6",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 50,
+      "precision@2": 0.44,
+      "recall@2": 0.88,
+      "ndcg@2": 0.828330165500004,
+      "reciprocal_rank": 0.81,
+      "average_precision": 0.59
+    }
+  },
+  "Canada-CA_7": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "Canada-CA_7",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 50,
+      "precision@2": 0.47,
+      "recall@2": 0.94,
+      "ndcg@2": 0.895711570428575,
+      "reciprocal_rank": 0.88,
+      "average_precision": 0.645
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "Canada-CA_7",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 50,
+      "precision@2": 0.46,
+      "recall@2": 0.92,
+      "ndcg@2": 0.8830929753571458,
+      "reciprocal_rank": 0.87,
+      "average_precision": 0.64
+    }
+  },
+  "Canada-CA_8": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "Canada-CA_8",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 50,
+      "precision@2": 0.46,
+      "recall@2": 0.92,
+      "ndcg@2": 0.8978557852142874,
+      "reciprocal_rank": 0.89,
+      "average_precision": 0.66
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "Canada-CA_8",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 50,
+      "precision@2": 0.46,
+      "recall@2": 0.92,
+      "ndcg@2": 0.8830929753571458,
+      "reciprocal_rank": 0.87,
+      "average_precision": 0.64
+    }
+  },
+  "Canada-CA_9": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "Canada-CA_9",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 50,
+      "precision@2": 0.42,
+      "recall@2": 0.84,
+      "ndcg@2": 0.8030929753571457,
+      "reciprocal_rank": 0.79,
+      "average_precision": 0.58
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "Canada-CA_9",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 50,
+      "precision@2": 0.41,
+      "recall@2": 0.82,
+      "ndcg@2": 0.7904743802857166,
+      "reciprocal_rank": 0.78,
+      "average_precision": 0.575
+    }
+  },
+  "United_Kingdom-GB_0": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "United_Kingdom-GB_0",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 50,
+      "precision@2": 0.4,
+      "recall@2": 0.8,
+      "ndcg@2": 0.7704743802857166,
+      "reciprocal_rank": 0.76,
+      "average_precision": 0.56
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "United_Kingdom-GB_0",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 50,
+      "precision@2": 0.43,
+      "recall@2": 0.86,
+      "ndcg@2": 0.8230929753571458,
+      "reciprocal_rank": 0.81,
+      "average_precision": 0.595
+    }
+  },
+  "United_Kingdom-GB_1": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "United_Kingdom-GB_1",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 50,
+      "precision@2": 0.41,
+      "recall@2": 0.82,
+      "ndcg@2": 0.7904743802857166,
+      "reciprocal_rank": 0.78,
+      "average_precision": 0.575
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "United_Kingdom-GB_1",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 50,
+      "precision@2": 0.41,
+      "recall@2": 0.82,
+      "ndcg@2": 0.7904743802857166,
+      "reciprocal_rank": 0.78,
+      "average_precision": 0.575
+    }
+  },
+  "United_Kingdom-GB_2": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "United_Kingdom-GB_2",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 50,
+      "precision@2": 0.42,
+      "recall@2": 0.84,
+      "ndcg@2": 0.8252371901428583,
+      "reciprocal_rank": 0.82,
+      "average_precision": 0.61
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "United_Kingdom-GB_2",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 50,
+      "precision@2": 0.41,
+      "recall@2": 0.82,
+      "ndcg@2": 0.775711570428575,
+      "reciprocal_rank": 0.76,
+      "average_precision": 0.555
+    }
+  },
+  "United_Kingdom-GB_3": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "United_Kingdom-GB_3",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 50,
+      "precision@2": 0.39,
+      "recall@2": 0.78,
+      "ndcg@2": 0.7504743802857167,
+      "reciprocal_rank": 0.74,
+      "average_precision": 0.545
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "United_Kingdom-GB_3",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 50,
+      "precision@2": 0.37,
+      "recall@2": 0.74,
+      "ndcg@2": 0.7104743802857166,
+      "reciprocal_rank": 0.7,
+      "average_precision": 0.515
+    }
+  },
+  "United_Kingdom-GB_4": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "United_Kingdom-GB_4",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 50,
+      "precision@2": 0.39,
+      "recall@2": 0.78,
+      "ndcg@2": 0.7430929753571458,
+      "reciprocal_rank": 0.73,
+      "average_precision": 0.535
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "United_Kingdom-GB_4",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 50,
+      "precision@2": 0.39,
+      "recall@2": 0.78,
+      "ndcg@2": 0.7652371901428583,
+      "reciprocal_rank": 0.76,
+      "average_precision": 0.565
+    }
+  },
+  "United_Kingdom-GB_5": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "United_Kingdom-GB_5",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 50,
+      "precision@2": 0.42,
+      "recall@2": 0.84,
+      "ndcg@2": 0.8252371901428583,
+      "reciprocal_rank": 0.82,
+      "average_precision": 0.61
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "United_Kingdom-GB_5",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 50,
+      "precision@2": 0.44,
+      "recall@2": 0.88,
+      "ndcg@2": 0.8578557852142875,
+      "reciprocal_rank": 0.85,
+      "average_precision": 0.63
+    }
+  },
+  "United_Kingdom-GB_6": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "United_Kingdom-GB_6",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 50,
+      "precision@2": 0.44,
+      "recall@2": 0.88,
+      "ndcg@2": 0.8430929753571458,
+      "reciprocal_rank": 0.83,
+      "average_precision": 0.61
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "United_Kingdom-GB_6",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 50,
+      "precision@2": 0.43,
+      "recall@2": 0.86,
+      "ndcg@2": 0.8304743802857166,
+      "reciprocal_rank": 0.82,
+      "average_precision": 0.605
+    }
+  },
+  "United_Kingdom-GB_7": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "United_Kingdom-GB_7",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 50,
+      "precision@2": 0.44,
+      "recall@2": 0.88,
+      "ndcg@2": 0.8430929753571458,
+      "reciprocal_rank": 0.83,
+      "average_precision": 0.61
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "United_Kingdom-GB_7",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 50,
+      "precision@2": 0.42,
+      "recall@2": 0.84,
+      "ndcg@2": 0.7883301655000041,
+      "reciprocal_rank": 0.77,
+      "average_precision": 0.56
+    }
+  },
+  "United_Kingdom-GB_8": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "United_Kingdom-GB_8",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 50,
+      "precision@2": 0.41,
+      "recall@2": 0.82,
+      "ndcg@2": 0.775711570428575,
+      "reciprocal_rank": 0.76,
+      "average_precision": 0.555
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "United_Kingdom-GB_8",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 50,
+      "precision@2": 0.37,
+      "recall@2": 0.74,
+      "ndcg@2": 0.7178557852142875,
+      "reciprocal_rank": 0.71,
+      "average_precision": 0.525
+    }
+  },
+  "United_Kingdom-GB_9": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "United_Kingdom-GB_9",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 50,
+      "precision@2": 0.41,
+      "recall@2": 0.82,
+      "ndcg@2": 0.7461859507142915,
+      "reciprocal_rank": 0.72,
+      "average_precision": 0.515
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "United_Kingdom-GB_9",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 50,
+      "precision@2": 0.39,
+      "recall@2": 0.78,
+      "ndcg@2": 0.7209487605714332,
+      "reciprocal_rank": 0.7,
+      "average_precision": 0.505
+    }
+  },
+  "United_States-US_0": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "United_States-US_0",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 50,
+      "precision@2": 0.38,
+      "recall@2": 0.76,
+      "ndcg@2": 0.7304743802857167,
+      "reciprocal_rank": 0.72,
+      "average_precision": 0.53
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "United_States-US_0",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 50,
+      "precision@2": 0.37,
+      "recall@2": 0.74,
+      "ndcg@2": 0.6809487605714333,
+      "reciprocal_rank": 0.66,
+      "average_precision": 0.475
+    }
+  },
+  "United_States-US_1": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "United_States-US_1",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 49,
+      "precision@2": 0.4285714285714285,
+      "recall@2": 0.8571428571428571,
+      "ndcg@2": 0.8119505820699744,
+      "reciprocal_rank": 0.7959183673469388,
+      "average_precision": 0.5816326530612245
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "United_States-US_1",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 49,
+      "precision@2": 0.3877551020408163,
+      "recall@2": 0.7755102040816326,
+      "ndcg@2": 0.715253837317789,
+      "reciprocal_rank": 0.6938775510204082,
+      "average_precision": 0.5
+    }
+  },
+  "United_States-US_2": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "United_States-US_2",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 48,
+      "precision@2": 0.375,
+      "recall@2": 0.75,
+      "ndcg@2": 0.7192441461309548,
+      "reciprocal_rank": 0.7083333333333334,
+      "average_precision": 0.5208333333333334
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "United_States-US_2",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 48,
+      "precision@2": 0.375,
+      "recall@2": 0.7395833333333334,
+      "ndcg@2": 0.7038662191964322,
+      "reciprocal_rank": 0.6875,
+      "average_precision": 0.5
+    }
+  },
+  "United_States-US_3": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "United_States-US_3",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 48,
+      "precision@2": 0.3854166666666667,
+      "recall@2": 0.75,
+      "ndcg@2": 0.7038662191964322,
+      "reciprocal_rank": 0.6875,
+      "average_precision": 0.5052083333333334
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "United_States-US_3",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 48,
+      "precision@2": 0.34375,
+      "recall@2": 0.6875,
+      "ndcg@2": 0.6490551826636936,
+      "reciprocal_rank": 0.6354166666666666,
+      "average_precision": 0.4635416666666667
+    }
+  },
+  "United_States-US_4": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "United_States-US_4",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 50,
+      "precision@2": 0.39,
+      "recall@2": 0.78,
+      "ndcg@2": 0.7504743802857167,
+      "reciprocal_rank": 0.74,
+      "average_precision": 0.545
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "United_States-US_4",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 50,
+      "precision@2": 0.35,
+      "recall@2": 0.7,
+      "ndcg@2": 0.6630929753571457,
+      "reciprocal_rank": 0.65,
+      "average_precision": 0.475
+    }
+  },
+  "United_States-US_5": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "United_States-US_5",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 50,
+      "precision@2": 0.4,
+      "recall@2": 0.8,
+      "ndcg@2": 0.7630929753571458,
+      "reciprocal_rank": 0.75,
+      "average_precision": 0.55
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "United_States-US_5",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 50,
+      "precision@2": 0.39,
+      "recall@2": 0.78,
+      "ndcg@2": 0.7430929753571458,
+      "reciprocal_rank": 0.73,
+      "average_precision": 0.535
+    }
+  },
+  "United_States-US_6": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "United_States-US_6",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 49,
+      "precision@2": 0.4081632653061224,
+      "recall@2": 0.8163265306122449,
+      "ndcg@2": 0.801262438921284,
+      "reciprocal_rank": 0.7959183673469388,
+      "average_precision": 0.5918367346938775
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "United_States-US_6",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 49,
+      "precision@2": 0.3673469387755102,
+      "recall@2": 0.7346938775510204,
+      "ndcg@2": 0.7271618317055399,
+      "reciprocal_rank": 0.7244897959183674,
+      "average_precision": 0.5408163265306123
+    }
+  },
+  "United_States-US_7": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "United_States-US_7",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 50,
+      "precision@2": 0.37,
+      "recall@2": 0.74,
+      "ndcg@2": 0.7252371901428583,
+      "reciprocal_rank": 0.72,
+      "average_precision": 0.535
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "United_States-US_7",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 50,
+      "precision@2": 0.38,
+      "recall@2": 0.76,
+      "ndcg@2": 0.6935673556428622,
+      "reciprocal_rank": 0.67,
+      "average_precision": 0.48
+    }
+  },
+  "United_States-US_8": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "United_States-US_8",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 48,
+      "precision@2": 0.3854166666666667,
+      "recall@2": 0.7708333333333334,
+      "ndcg@2": 0.7554554063988107,
+      "reciprocal_rank": 0.75,
+      "average_precision": 0.5572916666666666
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "United_States-US_8",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 48,
+      "precision@2": 0.34375,
+      "recall@2": 0.6875,
+      "ndcg@2": 0.6567441461309548,
+      "reciprocal_rank": 0.6458333333333334,
+      "average_precision": 0.4739583333333333
+    }
+  },
+  "United_States-US_9": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "United_States-US_9",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 50,
+      "precision@2": 0.41,
+      "recall@2": 0.82,
+      "ndcg@2": 0.7830929753571457,
+      "reciprocal_rank": 0.77,
+      "average_precision": 0.565
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "United_States-US_9",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 50,
+      "precision@2": 0.4,
+      "recall@2": 0.8,
+      "ndcg@2": 0.755711570428575,
+      "reciprocal_rank": 0.74,
+      "average_precision": 0.54
+    }
+  },
+  "longQ_longD": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "longQ_longD",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 15,
+      "precision@2": 0.5,
+      "recall@2": 0.5,
+      "ndcg@2": 0.7261859507142916,
+      "reciprocal_rank": 0.7,
+      "average_precision": 0.55
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "longQ_longD",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 15,
+      "precision@2": 1.0,
+      "recall@2": 1.0,
+      "ndcg@2": 1.0,
+      "reciprocal_rank": 1.0,
+      "average_precision": 1.0
+    }
+  },
+  "longQ_shortD": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "longQ_shortD",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 15,
+      "precision@2": 0.8,
+      "recall@2": 0.8,
+      "ndcg@2": 0.9087286502380972,
+      "reciprocal_rank": 0.9,
+      "average_precision": 0.8333333333333334
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "longQ_shortD",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 15,
+      "precision@2": 1.0,
+      "recall@2": 1.0,
+      "ndcg@2": 1.0,
+      "reciprocal_rank": 1.0,
+      "average_precision": 1.0
+    }
+  },
+  "shortQ_longD": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "shortQ_longD",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 15,
+      "precision@2": 0.6,
+      "recall@2": 0.6,
+      "ndcg@2": 0.7261859507142916,
+      "reciprocal_rank": 0.7,
+      "average_precision": 0.6
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "shortQ_longD",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 15,
+      "precision@2": 1.0,
+      "recall@2": 1.0,
+      "ndcg@2": 1.0,
+      "reciprocal_rank": 1.0,
+      "average_precision": 1.0
+    }
+  },
+  "shortQ_shortD": {
+    "Xenova_all_MiniLM_L6_v2": {
+      "profile": "shortQ_shortD",
+      "model_name": "Xenova_all_MiniLM_L6_v2",
+      "count": 15,
+      "precision@2": 0.8666666666666667,
+      "recall@2": 0.8666666666666667,
+      "ndcg@2": 1.0,
+      "reciprocal_rank": 1.0,
+      "average_precision": 0.9333333333333332
+    },
+    "minishlab_potion_retrieval_32M": {
+      "profile": "shortQ_shortD",
+      "model_name": "minishlab_potion_retrieval_32M",
+      "count": 15,
+      "precision@2": 1.0,
+      "recall@2": 1.0,
+      "ndcg@2": 1.0,
+      "reciprocal_rank": 1.0,
+      "average_precision": 1.0
+    }
+  }
+}
